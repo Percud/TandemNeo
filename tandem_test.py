@@ -210,8 +210,7 @@ def blast_query():
     print('\n############# Blast queries ###############')
     # for f in faa:
     for f in glob.glob(cwd + '/query/*.faa'): ###
-        specief = re.split('/', f)[7] ###
-        specie = re.split('\.', specief)[0] ###
+        specie = os.path.splitext(re.split('/', f)[-2])[0] ###
         if not os.path.exists(cwd + '/query/' + specie + '_tandem.faa'):
             header, sequence = [], []
             fasta_sequences = SeqIO.parse(open(f), 'fasta')
@@ -238,7 +237,7 @@ def blast_query():
                             pair = (ac, ac2)
                             print('>' + pair[0] + '\n' + (fa.get(pair[0])), file=open(specie + "1.fa", "w"))
                             print('>' + pair[1] + '\n' + (fa.get(pair[1])), file=open(specie + "2.fa", "w"))
-                            blastp_cline = blastp(query=specie + '1.fa', subject=specie + '2.fa', evalue='10e-5', max_hsps=1, out=specie + 'pair.txt')
+                            blastp_cline = blastp(query=specie + '1.fa', subject=specie + '2.fa', evalue='10e-6', max_hsps=1, out=specie + 'pair.txt')
                             stdout, stderr = blastp_cline()
                             with open(specie + 'pair.txt') as out:
                                 for line in out:
@@ -300,8 +299,7 @@ def blast_all():
             if 'query' in line:
                 sub.append(re.split(' ', line)[0])
     for f in glob.glob(cwd + '/query/*_tandem.faa'): ###
-        specief = re.split('/', f)[7] ###
-        specie = re.split('_', specief)[0] ###
+        specie = os.path.splitext(re.split('/', f)[-2])[0] ###
         if specie in sub:
             sub.remove(specie)
         for s in sub:
@@ -309,4 +307,4 @@ def blast_all():
             cline = NcbiblastpCommandline(query=(cwd + '/query/' + specie + '_tandem.faa'), subject=(cwd + '/query/main/' + s + '_main.faa'), outfmt=7, evalue='10e-6', max_hsps=1, out=(cwd + '/query/tandem_vs_main/' + specie + 'tandem_' + s + '.txt'))
             cline()
             ### aggiungere (clust)
-blast_all()
+# blast_all()
