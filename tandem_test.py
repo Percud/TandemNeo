@@ -97,7 +97,7 @@ def parsing():
         string = {}
         specie = os.path.splitext(g)[0]
         zprocessed = 0
-        if not os.path.exists(cwd + '/query/' + specie + '_main.faa') and not os.path.exists(cwd + '/query/' + specie + '.tsv') and not os.path.exists(cwd + '/sub/' + specie + '_main.faa') and not os.path.exists(cwd + '/sub/' + specie + '.tsv'):
+        if not os.path.exists(cwd + '/query/' + specie + '_main.faa') and not os.path.exists(cwd + '/query/' + specie + '.tsv') and not os.path.exists(cwd + '/sub/' + specie + '_main.faa') and not os.path.exists(cwd + '/sub/' + specie + '.tsv') and not os.path.exists(cwd + '/' + specie + '_main.faa')::
             with open(g) as gtf:
                 for line in gtf:
                     if 'NC_' in line:
