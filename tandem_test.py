@@ -3,6 +3,7 @@
 from Bio import SeqIO
 from Bio.Blast.Applications import NcbiblastpCommandline as blastp
 from Bio.Blast.Applications import NcbiblastpCommandline
+from Bio.Blast.Applications import NcbimakeblastdbCommandline
 import re
 import itertools
 import sys
@@ -77,6 +78,8 @@ def download():
                 else:
                     print('already exists')
 
+        print('Done')
+
     ftp.quit()
 download()
 
@@ -97,7 +100,7 @@ def parsing():
         string = {}
         specie = os.path.splitext(g)[0]
         zprocessed = 0
-        if not os.path.exists(cwd + '/query/' + specie + '_main.faa') and not os.path.exists(cwd + '/query/' + specie + '.tsv') and not os.path.exists(cwd + '/sub/' + specie + '_main.faa') and not os.path.exists(cwd + '/sub/' + specie + '.tsv') and not os.path.exists(cwd + '/' + specie + '_main.faa'):
+        if not os.path.exists(cwd + '/query/main/' + specie + '_main.faa') and not os.path.exists(cwd + '/query/' + specie + '.tsv') and not os.path.exists(cwd + '/sub/main/' + specie + '_main.faa') and not os.path.exists(cwd + '/sub/' + specie + '.tsv') and not os.path.exists(cwd + '/' + specie + '_main.faa') and not os.path.exists(cwd + '/' + specie + '.tsv'):
             with open(g) as gtf:
                 for line in gtf:
                     if 'NC_' in line:
@@ -135,15 +138,15 @@ def parsing():
                         sequence.append(str(fasta.seq))
                     fa = dict(zip(header, sequence))
 
-                    with open(specie + '.tsv') as tab:
-                        for line in tab:
-                            protid = re.split('[\t]', line)[3]
-                            if protid in header:
-                                print('>' + protid + '\n' + fa.get(protid), file=open(specie + '_main.faa', 'a'))
-                                zprocessed += 1
-                                sys.stdout.write('\r')
-                                sys.stdout.write((specie + ": {} main isoforms found").format(zprocessed))
-                                sys.stdout.flush()
+                    for e, i in string.items():
+                        protid = (list(i.items())[0])[0]
+                        gene = re.split('\t', e)[1]
+                        if protid in header:
+                            print('>' + gene + '_' + specie + '_' + protid + '\n' + fa.get(protid), file=open(specie + '_main.faa', 'a'))
+                            zprocessed += 1
+                            sys.stdout.write('\r')
+                            sys.stdout.write((specie + ": {} main isoforms found").format(zprocessed))
+                            sys.stdout.flush()
             sys.stdout.write('\n')
         else:
             print(specie + ': already exists')
@@ -203,15 +206,19 @@ def blast_query():
     # faa = filebrowser(".faa")
 
     cwd = os.getcwd()
+    dirx = os.path.join(cwd + '/query/tandem_clust')
+    if not os.path.exists(dirx):
+        os.mkdir(dirx)
     os.chdir(cwd + '/query')
 
-    name_seen, name2_seen = [], []
-    faa_seen = {}
     print('\n############# Blast queries ###############')
     # for f in faa:
     for f in glob.glob(cwd + '/query/*.faa'): ###
-        specie = os.path.splitext(re.split('/', f)[-2])[0] ###
-        if not os.path.exists(cwd + '/query/' + specie + '_tandem.faa'):
+        name_seen, name2_seen = [], []
+        faa_seen = {}
+        specie = os.path.splitext(re.split('[/_]', f)[8])[0] ###
+        ### printa tutto ciò che c'è per due..
+        if not os.path.exists(cwd + '/query/' + specie + '_tandem.faa') and not os.path.exists(cwd + '/query/' + specie + '_tandem.tsv'):
             header, sequence = [], []
             fasta_sequences = SeqIO.parse(open(f), 'fasta')
             for fasta in fasta_sequences:
@@ -278,8 +285,15 @@ def blast_query():
             os.remove(specie + '2' + '.fa')
             os.remove(specie + 'pair' + '.txt')
 
-        else:
-            print('already exists')
+        if not os.path.exists(cwd + '/query/tandem_clust/' + specie + '_tandemclust.faa') and not os.path.exists(cwd + '/query/tandem_clust/' + specie + '_tandemclust.tsv'):
+            try:
+                shutil.move(cwd + '/query/' + specie + '_tandemclust.faa', cwd + '/query/tandem_clust/' + specie + '_tandemclust.faa')
+                shutil.move(cwd + '/query/' + specie + '_tandemclust.tsv', cwd + '/query/tandem_clust/' + specie + '_tandemclust.tsv')
+            except FileNotFoundError:
+                pass
+    else:
+        print('Done')
+
     os.chdir(cwd)
 blast_query()
 
@@ -289,22 +303,35 @@ def blast_all():
     dir = os.path.join(cwd + '/query/tandem_vs_main')
     if not os.path.exists(dir):
         os.mkdir(dir)
+    os.chdir(cwd + '/query')
 
-    print('\n################# Blast ###################')
+    print('\n########## Blast tandem vs main ###########')
 
-    sub = []
-    with open('species_list.txt', 'r') as list:
-        list_lines = list.readlines()
-        for line in list_lines:
-            if 'query' in line:
-                sub.append(re.split(' ', line)[0])
-    for f in glob.glob(cwd + '/query/*_tandem.faa'): ###
-        specie = os.path.splitext(re.split('/', f)[-2])[0] ###
-        if specie in sub:
-            sub.remove(specie)
-        for s in sub:
-            print(specie + '_tandem vs ' + s + '_main')
-            cline = NcbiblastpCommandline(query=(cwd + '/query/' + specie + '_tandem.faa'), subject=(cwd + '/query/main/' + s + '_main.faa'), outfmt=7, evalue='10e-6', max_hsps=1, out=(cwd + '/query/tandem_vs_main/' + specie + 'tandem_' + s + '.txt'))
+    for file in glob.glob(cwd + '/query/main/*_main.faa'):
+        specie_main = os.path.splitext(re.split('[/_]', file)[9])[0]
+        if not os.path.exists(cwd + '/query/main/' + specie_main + '_main.faa.psq'):
+            print(specie_main + '_main: creating database...', end=' ')
+            cline = NcbimakeblastdbCommandline(input_file= file, dbtype= 'prot')
             cline()
+            print('Done')
+        else:
+            print(specie_main + '_main: creating database... already exists')
+    else:
+        print('Done')
+
+    for f in glob.glob(cwd + '/query/*_tandem.faa'): ###
+        specie = os.path.splitext(re.split('[/_]', f)[8])[0] ###
+        for m in glob.glob(cwd + '/query/main/*_main.faa'):
+            specie_main = os.path.splitext(re.split('[/_]', m)[9])[0]
+            if specie != specie_main:
+                print(specie + '_tandem vs ' + specie_main + '_main:', end=' ')
+                if not os.path.exists(cwd + '/query/tandem_vs_main/' + specie + '_tandem_' + specie_main + '_main.txt'):
+                    cline = NcbiblastpCommandline(query=(cwd + '/query/' + specie + '_tandem.faa'), subject=(cwd + '/query/main/' + specie_main + '_main.faa'), outfmt=7, max_hsps=1, evalue='10e-6', out=(cwd + '/query/tandem_vs_main/' + specie + '_tandem_' + specie_main + '_main.txt'))
+                    cline()
+                    print('Done')
+                else:
+                    print('already exists')
+    else:
+        print('Done')
             ### aggiungere (clust)
-# blast_all()
+blast_all()
