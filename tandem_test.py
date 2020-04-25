@@ -52,7 +52,7 @@ def download():
                 print(re.split('_', s)[0] + '_' + re.split('_', s)[1] + ':', end = ' ')
                 version = re.split('[/]', v)[7]
 
-                if not os.path.exists(cwd + '/query/' + s + '.faa') and not os.path.exists(cwd + '/sub/' + s + '.faa') and not os.path.exists(cwd + '/' + s + '.faa'):
+                if not os.path.exists(cwd + '/sub/' + s + '.faa') and not os.path.exists(cwd + '/' + s + '.faa'):
                     print('downloading...', end = ' ')
                     ftp.cwd(v)
                     gtf = (version + '_genomic.gtf.gz')
@@ -83,8 +83,8 @@ def parsing():
 
     for g in os.listdir():
         if '.gtf' in g:
-            string = {}
             specie = os.path.splitext(g)[0]
+            string = {}
             if not os.path.exists(cwd + '/' + specie + '.tsv') and not os.path.exists(cwd + '/sub/' + specie + '.tsv') and not os.path.exists(cwd + '/sub/main/' + specie + '_tandem.faa'):
                 with open(g) as gtf:
                     for line in gtf:
@@ -137,8 +137,9 @@ def parsing():
                 sys.stdout.write('\n')
         else:
             if '.faa' in g:
-                specie = os.path.splitext(g)[0]
-                print(specie + ': already exists')
+                species = os.path.splitext(g)[0]
+                if (species + '.faa') in os.listdir():
+                    print(species + ': already exists')
     else:
         print('Done')
 parsing()
@@ -299,7 +300,7 @@ def blast_all():
             specie = os.path.splitext(re.split('_main', m)[0])[0]
 
             print(specie + '_main: creating database...', end=' ')
-            if not os.path.exists(specie + '_main.faa.phr'): # cerca di fare ogni volta il database per ogni iterazione, va messo fuori
+            if not os.path.exists(specie + '_main.faa.phr'):
                 makeblastdb_cline = NcbimakeblastdbCommandline(input_file=(specie + '_main.faa'), dbtype= 'prot')
                 makeblastdb_cline()
                 print('Done')
@@ -313,6 +314,7 @@ def blast_all():
                 print('Done')
             else:
                 print('already exists')
+    os.chdir(cwd)
 blast_all()
 
 def parsingblastout():
