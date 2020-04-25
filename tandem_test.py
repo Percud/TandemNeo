@@ -135,11 +135,11 @@ def parsing():
                                     sys.stdout.write((specie + ": {} main isoforms found").format(zprocessed))
                                     sys.stdout.flush()
                 sys.stdout.write('\n')
-        else:
-            if '.faa' in g:
-                species = os.path.splitext(g)[0]
-                if (species + '.faa') in os.listdir():
-                    print(species + ': already exists')
+        # else:
+        #     if '.faa' in g:
+        #         species = os.path.splitext(g)[0]
+        #         if (species + '.faa') in os.listdir():
+        #             print(species + ': already exists')
     else:
         print('Done')
 parsing()
