@@ -314,3 +314,35 @@ def blast_all():
             else:
                 print('already exists')
 blast_all()
+
+def parsingblastout():
+
+    cwd = os.getcwd()
+    dirs = os.path.join(cwd + '/tandem_vs_main/fasta')
+    if not os.path.exists(dirs):
+        os.mkdir(dirs)
+    main = (cwd + '/sub/main/')
+    tandem_vs_main = (cwd + '/tandem_vs_main/')
+    fastad = (tandem_vs_main + '/fasta/')
+
+    for t in os.listdir(tandem_vs_main):
+        seenheaderb = set()
+        if 'query' in t and not 'query.txt' in t:
+            s = os.path.splitext(t)[0]
+            specieb = re.split('_', s)[2] + '_' + re.split('_', s)[3]
+            with open(tandem_vs_main + t) as b:
+                blastout = b.readlines()
+                for line in blastout:
+                    if '#' not in line:
+                        seenheaderb.add(re.split('\t', line)[1])
+            for f in os.listdir(main):
+                if specieb in f and not 'phr' in f and not 'pin' in f and not 'psq' in f:
+                    sf = os.path.splitext(f)[0]
+                    specief = re.split('_', sf)[0] + '_' + re.split('_', sf)[1]
+                    with open(main + f) as famain:
+                        fasta_sequences = SeqIO.parse(famain, 'fasta')
+                        for fasta in fasta_sequences:
+                            for headers in seenheaderb:
+                                if fasta.id in headers:
+                                    print('>' + fasta.id + '\n' + fasta.seq, file=open(fastad + 'query_vs_' + specief + '.faa', 'a'))
+parsingblastout()
