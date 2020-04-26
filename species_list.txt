@@ -5,6 +5,8 @@ Xenopus laevis
 Microcaecilia unicolor
 Chrysemys picta
 Anolis carolinensis
+Podarcis muralis
+Thamnophis elegans
 Anas platyrhynchos
 Calypte anna
 Aquila chrysaetos
