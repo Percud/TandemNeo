@@ -41,7 +41,7 @@ def download():
             version_specie = {}
             for line in summary:
                 for line2 in list_lines:
-                    if (re.split('\s', line2)[0] + ' ' + re.split('\s', line2)[1]) in line and re.search(
+                    if ('\t' + re.split('\s', line2)[0] + ' ' + re.split('\s', line2)[1] + '\t') in line and re.search(
                             ('representative genome|reference genome'), line):
                         pattern = re.compile('/genomes/all/\w{3}/\d{3}/\d{3}/\d{3}/GCF_\d+.\d+_.+\t')
                         x = pattern.findall(line)
@@ -201,7 +201,7 @@ def blast_query():
                     sequence.append(str(fasta.seq))
                 fa = dict(zip(header, sequence))
 
-                print('Gene 1\tGene 2\tid %\tsom %\tE-value', file=open(specie + '_tandemclust' + '.tsv', 'w')) ## togliere percentuale
+                print('Gene 1\tAc 1\tGene 2\tAc 2\tid %\tsom %\tE-value', file=open(specie + '_tandemclust' + '.tsv', 'w')) ## togliere percentuale
                 with open(specie + '.tsv') as tab:
                     lines = [line.rstrip() for line in tab]
                     res = [[lines[i], lines[i + 1]] for i in range(len(lines) - 1)]
@@ -224,10 +224,10 @@ def blast_query():
                                         if 'Expect' in line:
                                             E = (re.search('Expect = (.*), ', line)).group(1)
                                         elif 'Identities' in line:
-                                            Identities = (re.search('Identities = .* \((.*)\), P', line)).group(1)
-                                            Positives = (re.search('Positives = .* \((.*)\), G', line)).group(1)
-                                            ## mettere ac senza parentesi ma con i tab
-                                            print(name + ' (' + ac + ')' + '\t' + name2 + ' (' + ac2 + ')' + '\t' + Identities + '\t' + Positives + '\t' + E, file=open(specie + '_tandemclust' + '.tsv', 'a')) ## ac con tab senza parentesi
+                                            Identities = (re.search('Identities = .* \((.*)%\), P', line)).group(1)
+                                            Positives = (re.search('Positives = .* \((.*)%\), G', line)).group(1)
+                                            # print(name + ' (' + ac + ')' + '\t' + name2 + ' (' + ac2 + ')' + '\t' + Identities + '\t' + Positives + '\t' + E, file=open(specie + '_tandemclust' + '.tsv', 'a')) ## ac con tab senza parentesi
+                                            print(name + '\t' + ac + '\t' + name2 + '\t' + ac2 + '\t' + Identities + '\t' + Positives + '\t' + E, file=open(specie + '_tandemclust' + '.tsv', 'a'))
                                             print('>' + name + '_' + specie + '_' + pair[0] + '\n' + (fa.get(pair[0])) + '\n' + '>' + name2 + '_' + specie + '_' + pair[1] + '\n' + (fa.get(pair[1])), file=open(specie + '_tandemclust' + '.faa', "a"))
                                             name_seen.append(name), name2_seen.append(name2)
                                             faa_seen.update({('>' + name + '_' + specie + '_' + pair[0] + '\n' + (fa.get(pair[0]))): ('>' + name2 + '_' + specie + '_' + pair[1] + '\n' + (fa.get(pair[1])))})
@@ -240,7 +240,8 @@ def blast_query():
                 with open(specie + '_tandemclust' + '.tsv', 'r') as t, open(specie + '_tandem' + '.tsv', 'w') as tn, open(specie + '_tandem' + '.faa', 'w') as fn:
                     yprocessed = 0 - 1
                     for linet in t:
-                        [name, name2, id, som, Eval] = (re.split('\t', linet))
+                        # [name, name2, id, som, Eval] = (re.split('\t', linet))
+                        [name, ac, name2, ac2, id, som, Eval] = (re.split('\t', linet))
                         name_only, name2_only = re.split(' ', name)[0], re.split(' ', name2)[0]
                         if name_only not in name2_seen and name2_only not in name_seen:
                             tn.write(linet)
