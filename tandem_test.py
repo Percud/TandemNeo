@@ -41,8 +41,7 @@ def download():
             version_specie = {}
             for line in summary:
                 for line2 in list_lines:
-                    if ('\t' + re.split('\s', line2)[0] + ' ' + re.split('\s', line2)[1] + '\t') in line and re.search(
-                            ('representative genome|reference genome'), line):
+                    if ('\t' + re.split('\s', line2)[0] + ' ' + re.split('\s', line2)[1]) in line and re.search(('representative genome|reference genome'), line):
                         pattern = re.compile('/genomes/all/\w{3}/\d{3}/\d{3}/\d{3}/GCF_\d+.\d+_.+\t')
                         x = pattern.findall(line)
                         vers = str(x)[2:-6]
