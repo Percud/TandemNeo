@@ -1,0 +1,1488 @@
+>ENSATEP00000002576 ENSATEG00000001845	108	no_data	guanylate cyclase activator 2B-like	Anabas_testudineus	0B
+------------------------------------------------------------
+--------------------------------------------------MKATLAA---
+-----ITLL---ILALN--------WTT--EAVQVEENGLSFSLEAVKRLQELAESHS--
+--VTGQQSPRLR------------ASTTSVCAD-PLLPQEFLPICKQRTASA-SFARLAA
+-V------PYD--VCEICAFAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSBSLP00000003838 ENSBSLG00000002033	105	no_data	guanylin-like	Betta_splendens	0B
+------------------------------------------------------------
+--------------------------------------------------MKAALTT---
+-----ACLL---ILALG--------WTA--EAVQVQENGLSFSLDAVRRLQELQESS---
+----KQQNPRFR------------SSAVWVCAD-PLLPQELLPLCKQRTSSA-SFARLAA
+-V------PID--VCEICAFAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSGWIP00000008461 ENSGWIG00000005019	106	no_data	guanylin-like	Gouania_willdenowi	0B
+------------------------------------------------------------
+------------------------------------------------------MKM---
+------RVLSVFVLVLC--------TGA--LGVQVKVGDKSFPLEAVKQLKALMDVDV--
+----NESV--KAK-----------ANVVAVCRN-PLLPQVFQPVCQQKEAAF-VLSRLVH
+-IIT----PVD--PCEICAYPSCY------GCM---------------------------
+------------------------------------------------------------
+-------------------
+>ENSAMXP00000033852 ENSAMXG00000032942	109	no_data	guanylin-like	Astyanax_mexicanus	0B
+------------------------------------------------------------
+------------------------------------------------------MKT---
+-----LLLGVLLILAVS--------LSS--DAVVVREGEFSFQLDSVKRLLALMAKDI--
+---PANQSSRRAA-----------SSAVAVCDN-PALPEEFQPLCQSKNARA-SFSRLAR
+-YSR----RLG--VCEICAFAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSPNAP00000014369 ENSPNAG00000005413	119	no_data	no_data	Pygocentrus_nattereri	0B
+------------------------------------------------------------
+----------------------------------------------SYVCRGGKMRP---
+-----LTLSLLLASCVL---------SS--LSVKVTDSGFTFSLQAVKILKNLMEGSG--
+-----SSDPHLTH-----------STPVPLCAN-PELPNEFQEVCQADDRDK-IFSNLVK
+-IIT----PPD--PCEICANAACT------GCVFHNI-----------------------
+------------------------------------------------------------
+-------------------
+>ENSCHAP00000039836 ENSCHAG00000018682	117	no_data	no_data	Clupea_harengus	0B
+------------------------------------------------------------
+--------------------------------------------------MRGLPVF---
+-----ALLMLGLLGSS--------------FAVTVSDGGYSFSLESVKVLMRLMEMDE--
+-----IAMEARMG-GRP--IPPHHPPRRLLCSN-PTLPQELKPVCLEPHSDE-IFARFVS
+-VLM----STD--PCEICANPACT------GCTY--------------------------
+------------------------------------------------------------
+-------------------
+>ENSDCDP00000057187 ENSDCDG00000033457	112	no_data	guanylin-like	Denticeps_clupeoides	0B
+------------------------------------------------------------
+--------------------------------------------------MKTVLSF---
+-----ALLLV--AFCLS--------A----QAIQVQDGDYSFSLESVRVLQELTGSGAPG
+KASPRLASPRLTQ-----------TGYASVCSS-PTLPQEFLPLCRRSGAAM-SFARLAA
+-V------PMD--VCEICAFAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSCARP00000033863 ENSCARG00000014787	105	no_data	guanylin-like	Carassius_auratus	0B
+------------------------------------------------------------
+--------------------------------------------------MKTVLSV---
+-----AFLVV--ALCLV--------C----EAVQVQEGDFSFSLDSVKVLQQLIE-----
+--QPRTQNPRLAK-----------TSYFSVCSN-PTLPQEFTPLCMQRGATM-SFARLAS
+-V------PVD--ICEICAFAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSCCRP00000095103 ENSCCRG00000051330	105	no_data	guanylin-like	Cyprinus_carpio	0B
+------------------------------------------------------------
+--------------------------------------------------MKTILSV---
+-----AFLIV--ALCLV--------S----EAVQVQEGDFSFSLDSVKVLQQLID-----
+--QPQTQNPRLIK-----------TSYFSVCSN-PTLPQEFVPLCMQRGATM-SFARLAS
+-V------PVD--ICEICAFAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSSGRP00000110115 ENSSGRG00000054196	105	no_data	guanylin-like	Sinocyclocheilus_grahami	0B
+------------------------------------------------------------
+--------------------------------------------------MKTVLSV---
+-----AFLLA--ALCLV--------C----EAVQVQEGDFSFSLDSVKVLQQLID-----
+--QPQTQNPRLAK-----------TSYFSVCSN-PTLPQEFKPLCMQRGATM-SFARLAS
+-V------AVD--VCEICAFAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSCVAP00000014184 ENSCVAG00000016761	109	no_data	guanylin-like	Cyprinodon_variegatus	0A
+------------------------------------------------------------
+------------------------------------------------------MRV---
+-----LAIVLVLVLCVW--------RGA--LSVQVKVGDRSFPLEAVRELKELMELED--
+-----GLNPHLAE-----------TSSAAVCAH-PLLPQVFRPVCQGKGAGI-VFSRLAY
+-IMR----SSD--PCEICANPSCF------GCLD--------------------------
+------------------------------------------------------------
+-------------------
+>ENSFHEP00000010956 ENSFHEG00000012332	109	no_data	guanylin-like	Fundulus_heteroclitus	0A
+------------------------------------------------------------
+------------------------------------------------------MRV---
+-----LAVIVVLGLCAW--------RGA--LSVQVKVGDRSFPLEAVNHLKELMELET--
+-----SLNPHLAE-----------TSTAAVCAH-PLLPQVFRPVCQGKGAGI-VFARLVH
+-IVM----SSD--PCEICANPSCF------GCLD--------------------------
+------------------------------------------------------------
+-------------------
+>ENSGAFP00000022880 ENSGAFG00000015467	109	no_data	no_data	Gambusia_affinis	0A
+------------------------------------------------------------
+------------------------------------------------------MRV---
+-----LAVVLVLVLCVW--------RGT--LSVRVMVGDRSFPLEAVKQLKELMDLED--
+-----NLNSHLTE-----------TSTAAVCAH-PLLPQVFRPVCQGKGAGI-IFSRLVH
+-IIM----SPD--PCEICANPSCF------GCLD--------------------------
+------------------------------------------------------------
+-------------------
+>ENSKMAP00000023626 ENSKMAG00000017516	109	no_data	guanylin-like	Kryptolebias_marmoratus	0A
+------------------------------------------------------------
+------------------------------------------------------MRV---
+-----ICAVLVLLVCVW--------REA--LSVQVKVGDRSFPLEAVKRLKELMDVED--
+-----DVNPRLSE-----------TSTTAVCAH-PLLPQVFRPVCQGKGAGM-VFSRLAY
+-IIM----SSD--PCEICANPSCF------GCLD--------------------------
+------------------------------------------------------------
+-------------------
+>ENSXMAP00000034143 ENSXMAG00000027285	113	no_data	guanylin-like	Xiphophorus_maculatus	0A
+------------------------------------------------------------
+--------------------------------------------------MNLKMRV---
+-----LAVVLVLVLCVW--------RGT--LSVQVMVGDRSFPLEAVKQLKELMDLED--
+-----NLNPHLTE-----------TSTAAVCAH-PLLPQVFRPVCQGKGAGI-IFSRLVH
+-IIM----SPD--PCEICANPSCF------GCLD--------------------------
+------------------------------------------------------------
+-------------------
+>ENSMMDP00005039142 ENSMMDG00005018144	111	no_data	guanylin-like	Myripristis_murdjan	0B
+------------------------------------------------------------
+----------------------------------------------------MKMRA---
+-----LNVILLLVLSVW--------SGS--LGVHVKDGDRSFPLEAVKKLKELMDLDA--
+-----HISPHVAG-----------TGVGVVCSD-PALPAVFLPVCQESGTAV-IFSRLAR
+-IIT----PSD--PCEICANPSCY------GCLN--------------------------
+------------------------------------------------------------
+-------------------
+>ENSLBEP00000016384 ENSLBEG00000012679	110	no_data	guanylin-like	Labrus_bergylta	0B
+------------------------------------------------------------
+------------------------------------------------------MKT---
+-----LVCVSVFFTVLF--------QTS--CTVTVTEGDFHFSLEAVKALGALMSAEED-
+---SSKQEVKQVE-----------VETAAVCSH-PDLPEDFKPLCLREDAGA-ALARLAV
+-VAS----DAD--ACEICESVACI------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSPKIP00000030167 ENSPKIG00000011120	108	no_data	guanylin-like	Paramormyrops_kingsleyae	0A
+------------------------------------------------------------
+------------------------------------------------------MRS---
+-----AVVSVILTSCLI--------WST--MGIRVRDGELSFTLESVKLLKELTDGGD--
+-----AASPRLLK-----------SDPATACAD-PRLPVEFQSVCLDKSPGA-VFTRLVN
+-VLR----DPD--LCEICVNVACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSSFOP00015009206 ENSSFOG00015006004	103	no_data	guanylin-like	Scleropages_formosus	0B
+------------------------------------------------------------
+------------------------------------------------------MSS---
+-----FSVSLLLVPCLL--------WSS--EGVMVQDGPFSFPLESVKLLKAMIDGT---
+---------RLTK-----------SSPASVCTN-PGLPEELQPLCQSEEASA-VFSRLID
+-IIT----PPD--PCEICVNAACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSCGOP00000037929 ENSCGOG00000017419	109	no_data	guanylin-like	Cottoperca_gobio	0A
+------------------------------------------------------------
+------------------------------------------------------MRV---
+-----LSVVLVLVLCVS--------RGA--RGVQVQVGDRSFPLEAVKHLNELMDLDD--
+-----SVSPHLAG-----------TSLVAVCAN-PLLPQVFLPVCQWRGAGI-VFSKLAS
+-IVS----SSD--RCEICANPSCF------GCMN--------------------------
+------------------------------------------------------------
+-------------------
+>ENSCSEP00000020537 ENSCSEG00000013114	109	no_data	guanylin-like	Cynoglossus_semilaevis	0A
+------------------------------------------------------------
+------------------------------------------------------MRS---
+------LGVVVLVLCVC--------SGA--LGVQVKVGDSSYPLEAVKELKALMDLDN--
+----NNVSPRLAD-----------TSVVAACSN-PLLPQVFRPVCQTKGTGV-VFSRLVY
+-IIT----PSD--PCEICANPSCY------GCLN--------------------------
+------------------------------------------------------------
+-------------------
+>ENSHHUP00000017184 ENSHHUG00000010707	109	no_data	no_data	Hucho_hucho	0B
+------------------------------------------------------------
+------------------------------------------------------MKL---
+-----LSVCLVLTSCIL--------WGS--LSVEIRDGERSYPLEAVKALKELMDTDA--
+-----MVNPRLIN-----------TNRIYVCNN-PVLPQAFYPVCQGKEADM-VFSRLVD
+-AIA----SPD--LCEICAHPACF------GCLP--------------------------
+------------------------------------------------------------
+-------------------
+>ENSOTSP00005059357 ENSOTSG00005028578	111	no_data	guanylin-like	Oncorhynchus_tshawytscha	0B
+------------------------------------------------------------
+--------------------------------------------------MKTILSI---
+-----ALMVL--ALCLV--------SEA--QAVKVQEGDFYFSLESVKKLQELTAEG---
+SNVNRMQNPRLTS-----------TSFASVCAN-PSLPQEFMPLCMKRGASM-SLSRLAA
+-V------PMD--ICEICAFAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSSTUP00000035091 ENSSTUG00000014968	109	no_data	guanylin-like	Salmo_trutta	0A
+------------------------------------------------------------
+------------------------------------------------------MKS---
+-----LSVCLVLTSCIL--------WGS--LSVEIRDGERSYPLEAVKALKELIDTDA--
+-----MVSLRLIN-----------TNMVSVCNN-PVLPQAFYPVCQGKEAAM-VFSRLVD
+-AIK----SPD--LCEICAHPACF------GCLP--------------------------
+------------------------------------------------------------
+-------------------
+>ENSLOCP00000004072 ENSLOCG00000003438	108	GUCA2A	guanylate cyclase activator 2A	Lepisosteus_oculatus	0B
+------------------------------------------------------------
+---------------------------------------------------SSYLFI---
+-----APVITDLGLIRL--------IAE--QFSREQEGNFTFSLESVKTLKSLMDSSA--
+-----GRSLRLAK-----------TSSVAVCDN-PALPMEFQPLCHQPGAGM-AFFRLAS
+-V------DHD--ICEICAFAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSIPUP00000030499 ENSIPUG00000020614	108	no_data	guanylin-like	Ictalurus_punctatus	0B
+------------------------------------------------------------
+-------------------------------------------------------MK---
+-----VLPVVLLILAIG--------LIS--DAVIVHEGEFSFSLESVKKLWDILANGE--
+---STKPTNRLSV-----------FSSVKVCEN-PLLPKEFQPLCQSKNAQV-HFSRLAL
+-LSR----NSD--VCELCSFAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSBBBP00000000382 ENSBBBG00000009516	113	GUCA2B	guanylate cyclase activator 2B	Bison_bison_bison	0A
+------------------------------------------------------------
+---------------------------------------------MASRAVSGYLLCAVA
+LVF------LML-LQGT-------------QSVYIQYQGFQVQLESVKQLNDLVGQWV--
+------PSP----------GLQDQSPQPSVCHH-PALPLDLRPICASKDVAS-IFQALRT
+-IA------ND--DCELCVNVACT------GCS---------------------------
+------------------------------------------------------------
+-------------------
+>ENSBBBP00000017240 ENSBBBG00000009517	112	GUCA2A	guanylate cyclase activator 2A	Bison_bison_bison	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLS---
+--------ALCLLGA-W-------ATLT--GGVIVKDGDFSFSLESVKKLKDLQELQE--
+-----LQEPRIP-------RNPGGHIASNLCSL-PTFPEELKPLCKESNAQE-ILDRLGA
+-IAA----DPS--TCEICAYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSBTAP00000009465 ENSBTAG00000007194	113	GUCA2B	guanylate cyclase activator 2B	Bos_taurus	0A
+------------------------------------------------------------
+---------------------------------------------MASRAVSGYLLCAVA
+LVF------LML-LQGT-------------QSVYIQYQGFQVQLESVKQLNDLVGQWV--
+------PSP----------GLQDQSPQPSVCHH-PALPLDLRPICASKDVAS-IFQALRT
+-IA------ND--DCELCVNVACT------GCS---------------------------
+------------------------------------------------------------
+-------------------
+>ENSBTAP00000009466 ENSBTAG00000007195	112	GUCA2A	guanylate cyclase activator 2A	Bos_taurus	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLS---
+--------ALCLLGA-W-------ATLT--GGVIVKDGDFSFSLESVKKLKDLQELQE--
+-----LQEPRIP-------RNPGGHIASNLCSL-PTFPEELKPLCKESNAQE-ILDRLGA
+-IAA----DPS--TCEICAYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSCDRP00005022433 ENSCDRG00005015564	113	GUCA2B	guanylate cyclase activator 2B	Camelus_dromedarius	0A
+------------------------------------------------------------
+---------------------------------------------MAGRAGAGLLLCGVA
+VVF------LVL-LQGT-------------QSVYIQYQGFQVQLKSVKMLSELEGQGM--
+------PSP----------RLQAQSFQPSVCHH-LALPLDLQPICASGEAAS-IFQALRT
+-IA------GD--DCELCVNVACT------GCG---------------------------
+------------------------------------------------------------
+-------------------
+>ENSCDRP00005022481 ENSCDRG00005015592	109	GUCA2A	guanylate cyclase activator 2A	Camelus_dromedarius	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLS---
+--------ALCLLGA-W-------AALA--GGVTVKDGEFAFSLESVKKLKDLQ---E--
+-----IQDPRNP-------RNLGQSTVPIACSS-PNFPEELKPVCKEPNAQE-ILQRLET
+-IAQ----DPS--TCEICAYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSCHIP00000021408 ENSCHIG00000019738	113	GUCA2B	guanylate cyclase activator 2B	Capra_hircus	0A
+------------------------------------------------------------
+---------------------------------------------MASRAVSGCLLCAVA
+LVF------LVL-LQGT-------------QSVYIQYQGFQVQLKSVKQLNDLADQWV--
+------PSP----------GLQDQSPQPSVCHH-LALPLDLRPICASKDAAS-IFQALRT
+-IA------DD--DCELCVNVACT------GCS---------------------------
+------------------------------------------------------------
+-------------------
+>ENSCHIP00000002320 ENSCHIG00000005275	109	GUCA2A	guanylate cyclase activator 2A	Capra_hircus	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLS---
+--------ALCLLGA-W-------ATLT--GGVIVKDGDFSFSLESVKKLKDLQ---E--
+-----IQEPRIP-------RNPVGPIASNLCSL-PTFPEELKPLCKEPNAQE-ILDRLGA
+-IAA----DPS--TCEICAYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSCWAP00000014270 ENSCWAG00000011060	114	GUCA2B	guanylate cyclase activator 2B	Catagonus_wagneri	0A
+------------------------------------------------------------
+---------------------------------------------MARRAVSGLLLCALV
+VVF------LVL-LHGT-------------QSVYIQYQGFQVQLKSVKKLSDLEGKWA--
+------PSP----------RLQAHSPQPSACHQ-PALPLDLQPICDSKEAAS-IFQALRT
+-IAA-----DD--DCELCVNVACT------GCA---------------------------
+------------------------------------------------------------
+-------------------
+>ENSCWAP00000014218 ENSCWAG00000011019	109	GUCA2A	guanylate cyclase activator 2A	Catagonus_wagneri	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLS---
+--------ALCLLGV-W-------AALA--GGVTVNDGEFSFPLESVKKLKDIQ---E--
+-----LQKPRNP-------RNLGGSINTILCNS-PKFPEELKPICQEPNSEE-ILERLES
+-IAQ----DPS--TCEICAYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSDLEP00000030326 ENSDLEG00000021590	113	GUCA2B	guanylate cyclase activator 2B	Delphinapterus_leucas	0A
+------------------------------------------------------------
+---------------------------------------------MATRALSGLLLCGVA
+VVF------LVL-LQGA-------------QSVYIQYQGFQVQLESVKKLNDLEGQWV--
+------PSP----------GLKTQRSQPSMCHY-PALPLDLQPICASGEADS-IFQALRT
+-IA------AD--DCELCVNVACT------GCS---------------------------
+------------------------------------------------------------
+-------------------
+>ENSDLEP00000030328 ENSDLEG00000021593	109	GUCA2A	guanylate cyclase activator 2A	Delphinapterus_leucas	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLS---
+--------ALCLLGA-W-------AALA--GGVTVKDGEFSFSLESVKKLKDLQ---Q--
+-----LQEPRRS-------RNTGGALVPILCSS-LRFPEELKPLCKEPNAQE-ILERLEA
+-IAE----DPS--TCEICAYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSMMSP00000005814 ENSMMSG00000004328	113	GUCA2B	guanylate cyclase activator 2B	Moschus_moschiferus	0A
+------------------------------------------------------------
+---------------------------------------------MASRAVSVYLLCAVA
+LVF------LML-LQGT-------------QSVYIQYQGFQVQLRSVKQLNDLVSQWV--
+------PSP----------GLQDQSPQPSVCRH-PALPLDLRPICASEDAAS-IFQALRT
+-IA------ND--DCELCVNVACT------GCS---------------------------
+------------------------------------------------------------
+-------------------
+>ENSMMSP00000015963 ENSMMSG00000012152	109	GUCA2A	guanylate cyclase activator 2A	Moschus_moschiferus	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLP---
+--------ALYLLGA-W-------ATLT--GGVIVKDGDFSFSLESVKKLKDLQ---E--
+-----LQEPRIP-------RNAGGPIASNLCSL-PNFPEELKPLCKEPNAQE-ILDRLGA
+-IAA----DPS--TCEICAYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSOARP00000021886 ENSOARG00000020380	113	GUCA2B	guanylate cyclase activator 2B	Ovis_aries	0A
+------------------------------------------------------------
+---------------------------------------------MASRVISGCLLCAVA
+LVF------LVL-LQGT-------------QSVYIQYQGFQVQLKSVKQLNDLADQWV--
+------PSP----------GLQDQSPQPSVCHH-PALPLDLRPICASKDAAS-IFQALRT
+-IA------DD--DCELCVNVACT------GCS---------------------------
+------------------------------------------------------------
+-------------------
+>ENSOARP00000021892 ENSOARG00000020385	114	GUCA2A	guanylate cyclase activator 2A	Ovis_aries	0B
+------------------------------------------------------------
+---------------------------------------------LGAAAMNTFLLS---
+--------ALCLLGA-W-------ATLT--GGVIVQDGDFSFSLESVKKLKDLQ---E--
+-----LQEPRIP-------RNPVGPITSNLCSL-PTFPEELKPLCKEPNAQE-ILDRLGA
+-IAA----DPS--TCEICAYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSPCTP00005000263 ENSPCTG00005000211	113	GUCA2B	guanylate cyclase activator 2B	Physeter_catodon	0A
+------------------------------------------------------------
+---------------------------------------------MACRAASGLLLCGVA
+VVF------LAL-LQGA-------------QSVYIQYQGFQVQLESVKKLNDLEGQWV--
+------PSP----------DLQAQSSRPSMCHN-PALPLDLQPICASGEEDS-IFQALRS
+-IA------AD--DCELCVNVACT------GCS---------------------------
+------------------------------------------------------------
+-------------------
+>ENSPCTP00005000260 ENSPCTG00005000204	109	GUCA2A	guanylate cyclase activator 2A	Physeter_catodon	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLS---
+--------ALCLLGA-W-------AALA--GGVTVKDGEFSFSLESVKKLKNLQ---Q--
+-----LQEPRRP-------RNTGGSLVPILCSS-PRFPEELKPLCKEPNAQE-ILERLEA
+-IAE----DPS--TCEICAYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSSSCP00000004292 ENSSSCG00000003970	113	GUCA2B	guanylate cyclase activator 2B	Sus_scrofa	0A
+------------------------------------------------------------
+---------------------------------------------MASRAAAGLLLCGVA
+LVF------LVL-LQGT-------------QSVYIQYQGFRVQLKSVKKLSDLEGQWA--
+------PSP----------RLQAQSPQPSVCHH-SALPPDLQPICQSEEAAS-IFQALRT
+-IA------GD--DCELCVNVACT------GCS---------------------------
+------------------------------------------------------------
+-------------------
+>ENSTTRP00000003378 ENSTTRG00000003603	113	GUCA2B	guanylate cyclase activator 2B	Tursiops_truncatus	0A
+------------------------------------------------------------
+---------------------------------------------MAHRALSGLLLCGVA
+AVF------LVL-LQGA-------------QSVYIQYQGFQVQLESVKKLNDLEGQWV--
+------PSP----------DLKTQRSQSSMCHY-PSLPLDLQPICASGEADS-IFQDLRT
+-IA------AD--DCELCVNVACT------GCS---------------------------
+------------------------------------------------------------
+-------------------
+>ENSTTRP00000003379 ENSTTRG00000003604	109	GUCA2A	guanylate cyclase activator 2A	Tursiops_truncatus	0B
+------------------------------------------------------------
+--------------------------------------------------TNTFLLS---
+--------ALCLLGA-W-------AAQA--GGVTVKDGEFSFSLESVKKLKDLQ---Q--
+-----LQEPRRS-------RNTGGSLVPILCSS-LRFPEELKPLCKEPNAQE-ILERLEA
+-IAE----DPS--TCEICAYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSAMEP00000000639 ENSAMEG00000000616	108	GUCA2B	guanylate cyclase activator 2B	Ailuropoda_melanoleuca	0A
+------------------------------------------------------------
+------------------------------------------------RGVSGL-LSGVA
+VVL------LLL-LQGA-------------HSVYIQHQGFQVQLESVKKLSDLEKQWG--
+------PNP----------RLQTQRLTPFVCHH-PALPPDL-PVCASEEAAR-VFQALKS
+-IA------ND--DCELCVNVACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSAMEP00000000636 ENSAMEG00000000614	111	GUCA2A	guanylate cyclase activator 2A	Ailuropoda_melanoleuca	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLFC---
+--------ALCLLGG-W-------AVLA--GGVTVQDGKFSFPLDSVKKLKDLREL----
+------QEPSIWK-GRK----SAGPAAPRVCSH-LKFPAELRPLCKETDAQD-ILLRLEA
+-IAE---D-PS--VCEICAFAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSCAFP00000065789 ENSCAFG00000002574	123	GUCA2B	guanylate cyclase activator 2B	Canis_lupus_familiaris	0A
+------------------------------------------------------------
+---------------------------------------------MRSRMVSGL-LSRVA
+VVHL---LLLLL-LQDT-------------QSVYIQHQGFQVQLESVKRLSDLQGTWV--
+------PSP----------RLQTQNLVPPECHH-PALPTDLQPICTTREAAS-IFQALSE
+-YPH-------------------------------------PY------QRPGPRSL-SS
+PHSSSSTS------------RAL-------------------------------------
+-------------------
+>ENSCAFP00000003737 ENSCAFG00000002568	111	GUCA2A	guanylate cyclase activator 2A	Canis_lupus_familiaris	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLS---
+--------ALCLLGA-W-------AVLA--EGVTVQDGDFSFPLESVKKLKALGEL----
+------QERSMRS-GRK----RGGPALPGACSH-LQFPEELRPLCKEPNAPE-ILGRLAS
+-IAQ---D-PR--SCEICAFAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSFCAP00000056643 ENSFCAG00000006182	202	GUCA2B	guanylate cyclase activator 2B	Felis_catus	0A
+------------------------------------------------------------
+---------------------------------------------MRGRMASGL-LSGMA
+VFL------LVL-LQGT-------------QSVYIQYQGFQVQLESVKKLSNLEQQWL--
+------PNP----------RLQAQSLVPSVCHH-PALPQDLQPICASREAAS-VFQALSE
+-CP------HP--CEASCLWLALL------PTP---QLLHCPFFPL-STQWPGQGESRPA
+PSGPGNLD------------RRLSYQTSRMGGKRAPDNRPVGHACNTVADGEARGTQRRD
+GSCLGWHKESERLPRGGDI
+>ENSFCAP00000005747 ENSFCAG00000006183	111	GUCA2A	guanylate cyclase activator 2A	Felis_catus	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLS---
+--------ALCLLGT-W-------AVLA--GGVTVQDGEFSFSLESVKKLKDLREL----
+------QEPSIRN-RRK----SGGPVVPIACSH-QKFPEELKPLCKEPNAQE-ILRRLEA
+-IAE---D-PD--SCEICAFAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSLCNP00005013536 ENSLCNG00005008887	112	GUCA2B	guanylate cyclase activator 2B	Lynx_canadensis	0A
+------------------------------------------------------------
+---------------------------------------------MRGRMASGL-LSGMA
+VFL------LVL-LQGT-------------QSVYIQYQGFQVQLESVKKLSNLEQQWL--
+------PNP----------RLQAQSLVPSVCHH-PALPQDLQPICASREAAS-VFQALRT
+-MA------ND--DCELCVNVACT------G---------CL------------------
+------------------------------------------------------------
+-------------------
+>ENSLCNP00005013512 ENSLCNG00005008872	132	GUCA2A	guanylate cyclase activator 2A	Lynx_canadensis	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLS---
+--------ALCLLGT-W-------AVLA--GGVTVQDGEFSFSLESVKKLKDLREL----
+------QEPSIRN-RSK----SGGPVVPKACSH-QKFPEELKPLCKEPNAQE-ILRRLGP
+-PGW---S-EG--GNVFL--PSRA------GQRVLGSPGRRENERTYFTRFAKPS-----
+------------------------------------------------------------
+-------------------
+>ENSMPUP00000013949 ENSMPUG00000014055	116	GUCA2B	guanylate cyclase activator 2B	Mustela_putorius_furo	0A
+------------------------------------------------------------
+---------------------------------------------MSGRMVSGL-LPRVA
+VVF------LLL-LQDT-------------HSVSIQHQGFRVQLESVKKLRDLEEQRG--
+--------PNPTR----VSRLQAQSLVPSVCHH-PALPLDLQPVCTSKEAAS-VLQALKS
+-IA------ND--DCELCVNVACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSMPUP00000013946 ENSMPUG00000014052	108	GUCA2A	guanylate cyclase activator 2A	Mustela_putorius_furo	0B
+------------------------------------------------------------
+--------------------------------------------------MDTFLLS---
+--------ALCLLAT-W-------AVLA--EGVTVQDGKFSFPLESVKKLKDLQEL----
+------QEPHT----RK----SGGPAVPQVCSH-QKFPEELKPVCKETNARE-ILHRLEA
+-IAE---D-PS--SCEICAFAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSNVIP00000020550 ENSNVIG00000016106	125	GUCA2B	guanylate cyclase activator 2B	Neovison_vison	0A
+------------------------------------------------------------
+-------------------------------------MGY-RRSEMSGRMVSGL-LPGVA
+VVF------LLL-LQDT-------------HSVSIQHQGFQVQLESVKKLRDLEEQRG--
+------AEPNPSR----VSRLRAQRLVPSVCHH-PALPPDLQPICTSKEAAS-VLQALKS
+-IA------ND--DCELCVNVACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSNVIP00000020566 ENSNVIG00000016111	108	GUCA2A	guanylate cyclase activator 2A	Neovison_vison	0B
+------------------------------------------------------------
+--------------------------------------------------MDTFLLS---
+--------ALCLLAT-W-------AVLA--GGVTVQDGKFSFPLESVKKLKDLQEL----
+------QEPHT----RK----SGGPAVPQVCSH-QKFPEELKPICKETNARD-ILHRLEA
+-IAE---D-PS--SCEICAFAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSPLOP00000016088 ENSPLOG00000011763	112	GUCA2B	guanylate cyclase activator 2B	Panthera_leo	0A
+------------------------------------------------------------
+---------------------------------------------MRGRMASGL-LSRMA
+VFL------LVL-LQGT-------------QSVYIQYQGFQVQLESVKKLSNLEQQWL--
+------PNP----------RLQAQSVVPSVCHH-PALPQDLQPICASREAAS-VFQALRT
+-MA------ND--DCELCVNVACT------G---------CL------------------
+------------------------------------------------------------
+-------------------
+>ENSPLOP00000016022 ENSPLOG00000011719	111	GUCA2A	guanylate cyclase activator 2A	Panthera_leo	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLS---
+--------ALCLLGT-W-------AVLA--GGVTVQDGEFSFSLESVKKLKDLREL----
+------QEPSIRN-RRK----SGGPVVPKACSH-QKFPEELKPLCKEPNAQE-ILRRLEA
+-IAE---D-PD--SCEICAFAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSSSUP00005011406 ENSSSUG00005007318	112	GUCA2B	guanylate cyclase activator 2B	Suricata_suricatta	0A
+------------------------------------------------------------
+---------------------------------------------MHGRMVSGL-LSRVT
+VFL------LVL-LQDT-------------QSVYIQYQGFRVQLESVKRLSDLEEQRL--
+------PSP----------RLQTQSLVPSACHH-RALPQDLQPVCASKEAAS-IFQALRT
+-IA------ND--DCELCVNVACT------GCR---------------------------
+------------------------------------------------------------
+-------------------
+>ENSSSUP00005011359 ENSSSUG00005007294	215	no_data	no_data	Suricata_suricatta	0B
+MSSLTFTLDSIRNPSGACPISEPPRVRTPTQRPASRGRHVAGLQTSVNTHTHTHAPARAY
+VHARQRAHVRTCARAHTHARGKGSRVQFRGPAREGRT------QPWHNLLREVFLNS---
+--------QPAPQAA-D-------PPQP--EPGVQQDGEFSFPLESVKKLKDLQEL----
+------QEPGIRN-HRK----SGGPVVPKVCSH-QKFPEELKPLCKEPNAPE-ILQRLEA
+-IAE----DPE--SCEICAFAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSUMAP00000033840 ENSUMAG00000024389	118	GUCA2B	guanylate cyclase activator 2B	Ursus_maritimus	0A
+------------------------------------------------------------
+---------------------------------------------MHGRGVSGL-LSGVA
+VVL------LLL-LQGA-------------RSVYIHHQGFQVQLESVKKLSDLEKQWG--
+------PNP----------RLQTQRLTPSVCHH-PALPPDLQPVCASEEAAQ-VFQALKS
+-IA------ND--DCELCVNVACT------GCL---REGRLP------------------
+------------------------------------------------------------
+-------------------
+>ENSUMAP00000033839 ENSUMAG00000024388	104	GUCA2A	guanylate cyclase activator 2A	Ursus_maritimus	0B
+------------------------------------------------------------
+--------------------------------------------------MNTILLS---
+--------ALCFLGT-W-------AVLA--GGVTVQDGKFSFPLDSVKKLKDLREL----
+------QEPSIWK-GRK----SAGPAAPRVCSH-LKFPAELKPLCKETNAQD-ILHRLGG
+-QPPLWWAGPG--SS---------------------------------------------
+------------------------------------------------------------
+-------------------
+>ENSVVUP00000002572 ENSVVUG00000002020	124	GUCA2B	guanylate cyclase activator 2B	Vulpes_vulpes	0A
+--------------------------------FTGGGLWCAGV-----------------
+---R----------------------------GARHHLP----------PP----SCPLS
+VAW------TLR-KNRE-------------GSVGCAHQGFQVQLESVKRLSDLQGTWV--
+------PSP----------RLQTQNLVPPECHH-PALPTDLQPICTTREAAS-IFKALKA
+-IA------SD--DCELCVNVACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSVVUP00000002527 ENSVVUG00000002000	111	GUCA2A	guanylate cyclase activator 2A	Vulpes_vulpes	0B
+------------------------------------------------------------
+--------------------------------------------------MNAFLLS---
+--------ALCLLGA-W-------AVLA--EGVTVQDGDFSFPLESVKKLKALGEL----
+------QERSMRS-SRK----RGGPALPRACSH-LKFPEELRPLCKEPNARE-ILGRLAS
+-IAQ---D-PR--SCEICAFAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSMLUP00000005269 ENSMLUG00000005765	113	GUCA2B	guanylate cyclase activator 2B	Myotis_lucifugus	0A
+------------------------------------------------------------
+---------------------------------------------MGGRTMSGL-LSGVT
+LVL------LVL-LQST-------------QSVYIQYQGFQVQLESVKKLRDLERQSE--
+------LSP----------RLQAQSLLPVPCYH-SALPPDLQPVCASREAAS-IFKALET
+-IAA-----SS--HCELCENAACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSMLUP00000022453 ENSMLUG00000009372	111	GUCA2A	guanylate cyclase activator 2A	Myotis_lucifugus	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFPLA---
+--------ALCLLGT-W-------AALA--GGVTVQDGKFSFSLESVKKLKGLRGL----
+------REPSIDS-GVQ----FDGPVAPDLCSS-TEFPAELKPVCQEPNANE-ILGRLEV
+-IAE----DPS--TCELCAYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSPVAP00000009599 ENSPVAG00000010181	112	GUCA2B	guanylate cyclase activator 2B	Pteropus_vampyrus	0A
+------------------------------------------------------------
+---------------------------------------------MGGRTVSRF-LSGVA
+VVL------LVL-LQST-------------QSVYIQYQGFRVQLDSVKKLNDLEKQLA--
+------FSP----------HLQAQNVLPTPCYH-QALPLDLQPICTSTEAAT-TFQALKT
+-IA------ND--DCELCVNVACT------GCT---------------------------
+------------------------------------------------------------
+-------------------
+>ENSPVAP00000009598 ENSPVAG00000010180	108	GUCA2A	guanylate cyclase activator 2A	Pteropus_vampyrus	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLA---
+--------TLCLLGA-W-------AALV--GGVTVQDGEFSFPLESVKKLKN---L----
+------QEPRIRN-RRQ----LDGPVDSTLCSH-PKFPEELKPLCKKPNAQK-ILQRLRA
+-IAD----DPS--VCEICAYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSRFEP00010008120 ENSRFEG00010005559	112	GUCA2B	guanylate cyclase activator 2B	Rhinolophus_ferrumequinum	0A
+------------------------------------------------------------
+---------------------------------------------MRGRMVAGL-LSGAA
+VFF------LVL-LQST-------------ESVYIQYQGFQVQLESVKKLSDLERKLV--
+------FSP----------RLQAQSALPILCYH-LALPLDLQPICTSRAAAS-IFKALKT
+-IA------ED--NCELCENAACT------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSRFEP00010008140 ENSRFEG00010005573	111	GUCA2A	guanylate cyclase activator 2A	Rhinolophus_ferrumequinum	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLA---
+--------TLCLLGT-W-------AALA--EGVTVQDGKFSFSLESVKKLKDLQQF----
+------QEPRIWS-HRK----FGGPSVPTVCSD-SKFPEELKPLCKEPNAQE-ILQRLQA
+-IAE----DPN--TCELCSYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSDNOP00000020751 ENSDNOG00000033082	105	GUCA2B	guanylate cyclase activator 2B	Dasypus_novemcinctus	0A
+------------------------------------------------------------
+---------------------------------------------MGSRAASGL-LAGVA
+VVL------LVL-LQGT-------------QCVNIQYQGFRVQLESVKKLSDLEKQ----
+---------------------QAQGLLPAVCHH-PALPQDLQPVCASEDATS-VFRALRT
+-IA------SD--DCELCVNIACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSDNOP00000010317 ENSDNOG00000013321	127	GUCA2A	guanylate cyclase activator 2A	Dasypus_novemcinctus	0B
+------------------------------------------------------------
+-------------------------------TQSGHS------SVPGTAAMNTFLLA---
+--------MLCLFRA-W-------AALA--GGVTVQDGDFTFDLESVKKLKGLREL----
+------EEPESEN-LVM-GGPGTGPMAPSLCSH-LKFPEELKPICGQPKAKE-ILRRLEA
+-IAE----NPS--SCEICAYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSSHAP00000013950 ENSSHAG00000011930	110	GUCA2B	guanylate cyclase activator 2B	Sarcophilus_harrisii	0A
+------------------------------------------------------------
+--------------------------------------------------MKVP-AFPVA
+VA----AMLLIL-AQST-------------QSVFIKYGDHQVRLESVKKLDELLEQSQ--
+------DLSI---------QIKAQGDLSILCNN-PALPSDLQPVCENHQAAN-IFRALRD
+-IA------QD--DCEICVNVACT------GCY---------------------------
+------------------------------------------------------------
+-------------------
+>ENSSHAP00000014071 ENSSHAG00000012027	105	GUCA2A	guanylate cyclase activator 2A	Sarcophilus_harrisii	0B
+------------------------------------------------------------
+------------------------------------------MNI--------F------
+-----LLSALCLCGLT---------TLV--GSITVQDGDFSYPLESVKKLKDLKQSGL--
+-----RF-------------RRVQDYDVYLCNN-PDFPKDLKPICAQSDAAA-IFQRLGA
+-IAE----DSH--SCEICAFAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSMODP00000021621 ENSMODG00000017324	109	no_data	guanylate cyclase activator 2B	Monodelphis_domestica	0A
+------------------------------------------------------------
+--------------------------------------------------MKVL-ALSVA
+VA----AMLLIL-AQNT-------------QAVDIEYEGFQVKLESVKKLDKLLEQPR--
+------GSRH---------QISAQREPSILCGN-PALPSDLQPICENSQAAN-IFRALRE
+-IA------QD--DCEICINVACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSMODP00000047578 ENSMODG00000017322	132	no_data	guanylate cyclase activator 2A	Monodelphis_domestica	0B
+------------------------------------------------------------
+-------------------------MPETLARGKAHECALSRMEQIREGSGMGT------
+-----GGVGNQFREQQW--------RML--LLASFQDGDFSYPLESVKKLKDLQQSRM--
+-----RS-------------QTAQHYGVHLCAH-PDLPKDLKPICARPDAAQ-VFQRLGA
+-IAE----DSH--TCEICAFAACA------GCY---------------------------
+------------------------------------------------------------
+-------------------
+>ENSMEUP00000003810 ENSMEUG00000004183	79	no_data	no_data	Notamacropus_eugenii	0A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------YDGLQVKLESVKKLDELLEQWR--
+------F------------KFRKQDH-LLLSAM-YTLPRELGPVCERPDAAD-TFKALRT
+-IA------YD--DCEICVNVACT------GCN---------------------------
+------------------------------------------------------------
+-------------------
+>ENSPCIP00000055167 ENSPCIG00000034711	109	no_data	no_data	Phascolarctos_cinereus	0A
+------------------------------------------------------------
+--------------------------------------------------MKVL-ALPVA
+AA----AMLLML-AQNT-------------QSVFIEYEGLRVKLESVKKLDGILGKSS--
+------DLSP---------PMSMEDS-LSMCSN-LQLPADLQPVCKTPHAAN-TFEALRN
+-IA------RD--DCEICVNVACT------GCY---------------------------
+------------------------------------------------------------
+-------------------
+>ENSPCIP00000011443 ENSPCIG00000009183	107	no_data	no_data	Phascolarctos_cinereus	0B
+------------------------------------------------------------
+------------------------------------------MNI--------L------
+-----LLSTLCLCEQGW--------RMP--LLASFQDGDFFYPLESVKKLKDLQESGM--
+-----RS-------------RKAQGYGVHLCDH-PDLPKDLESICTRSDASGFCFTCLGI
+-IAE----QPH--ICEICAYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSVURP00010025677 ENSVURG00010019669	109	no_data	no_data	Vombatus_ursinus	0A
+------------------------------------------------------------
+--------------------------------------------------MKVL-ALPVA
+AA----AMLLIL-AQNT-------------QSVLIEYEGLRVNLESVKKLDGILEKSN--
+------DLSP---------HVRKEDS-LSLCSS-PQLPEDLQPVCKTPHAAD-TFRALRS
+-IA------ED--DCEICVNVACT------GCY---------------------------
+------------------------------------------------------------
+-------------------
+>ENSVURP00010025673 ENSVURG00010019660	101	no_data	no_data	Vombatus_ursinus	0B
+------------------------------------------------------------
+------------------------------------------------------------
+------GSRNQLGEHGW--------RML--LLASFQDGEFFYSLESVKKLKDLQQSGM--
+-----RN-------------RKAQGYGVYLCDH-PDLPKDLQSICTRSDAAQ-VFQRLGT
+-IAE----NSH--TCEICAYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSEEUP00000000022 ENSEEUG00000000026	86	no_data	no_data	Erinaceus_europaeus	0B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------DGEFSFPLESVKKLKELQEP----
+------QVPGMWN-RKK----FAGTLVPALCKN-PQFPKELLSLCKETNAPE-ILKRLAT
+-IAE----DPS--TCEICAFAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSPCAP00000007920 ENSPCAG00000008524	112	GUCA2B	guanylate cyclase activator 2B	Procavia_capensis	0A
+------------------------------------------------------------
+---------------------------------------------MSDKTVSDL-LTGAA
+VVL------LVL-LQGT-------------QSVYIQYQGFQVQLESMKKLSDLEGKPR--
+------LSP----------RLGAQSLLSSACQY-PDLPLDLQPICAFKEAAS-IFEALMS
+-IA------ND--NCELCVNVACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSPCAP00000007949 ENSPCAG00000008552	117	GUCA2A	guanylate cyclase activator 2A	Procavia_capensis	0B
+------------------------------------------------------------
+--------------------------------------------------MNTSLLS---
+--------ALCLLGA-W-------AVLADADGVTVQDGDFSFPLESVKKLKDLREL----
+------QKPQTEN-HWHPTGSGSEPVAPNLCSH-PEFPEDLKPVCKEPNAQE-ILQRLKA
+-IAQ----DPN--VCEICAYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSOPRP00000002897 ENSOPRG00000003166	116	GUCA2A	guanylate cyclase activator 2A	Ochotona_princeps	0B
+------------------------------------------------------------
+--------------------------------------------------MNFFLLC---
+--------GLCLLGS-W-------VAVT--EGVTVQDGQLSFPLEAVKKLRDLPPV----
+------PQARLVSLRQKLAPRLRESTVSKVCRN-PNFPEELKPVCKEPNADQ-ILQRLEA
+-IAE----DVG--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSOCUP00000010005 ENSOCUG00000011637	168	no_data	no_data	Oryctolagus_cuniculus	0A
+------------------------------------------------------------
+---------------------------------------------------MGL-LSGVA
+VVL------LVL-LHST-------------QSVYIQYQGFKVQLESVKKLSDLEGYQM--
+------THS-------------SKSPQPAVCHH-PALPLDLRPICALQEAAS-IFDTLSE
+WLPP-----QD---PLLSGASSHT------QLLHALLAGRGQDKGI-QKTWPHP------
+-PGTGQVGAQQGRRPGNPLNPRSPETGARIQGKEGPARPPTGDGS---------------
+-------------------
+>ENSOCUP00000010008 ENSOCUG00000011644	116	GUCA2A	guanylate cyclase activator 2A	Oryctolagus_cuniculus	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLC---
+--------GLCLLGA-C-------ATLV--EGVTVQDGALSFPLEAVKRLKDLEEL----
+------PQPRLASPLRKLAPRPRESAVPNACRN-QNFPEALKPLCKEPNAGQ-ILQRLVA
+-IAQ----DPS--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSOANP00000034269 ENSOANG00000038486	106	no_data	no_data	Ornithorhynchus_anatinus	0A
+------------------------------------------------------------
+---------------------------------------------------------MTS
+LGFPVVVGILLLAQMA--------------QPVFVQDSGLQFPLDAVRKLADLLEGPG--
+-----ADLQS-------------RKATLSICTH-PSLPPEFLPVCKSKEAPS-IFRRLRT
+--IA----NDD--LCELCTNAACT------GCY---------------------------
+------------------------------------------------------------
+-------------------
+>ENSOANP00000049606 ENSOANG00000045959	117	no_data	no_data	Ornithorhynchus_anatinus	0B
+------------------------------------------------------------
+-------------------------MPTTVPTT------VT--------VMASL------
+-----LLSSLCLGLLAS--------SAS--GVITVREGDFSVPLEVVKKLKLLLEEYK--
+-----GV-------------ENAVLMAAALCEN-PGLPAQLKPICHSPNSST-LFTRLGA
+-IAQ----EPH--ICELCGYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSECAP00000015604 ENSECAG00000018081	112	GUCA2B	guanylate cyclase activator 2B	Equus_caballus	0A
+------------------------------------------------------------
+---------------------------------------------MHSRMVSWL-LPGIA
+VVF------LVL-LQST-------------QSVYIQYQGFQVQLESVKKLSDLEGQRV--
+------PNP----------HLRAQGLEPSVCLH-PDLPQDLQPVCASKDAAS-IFKALRT
+-IA------ND--DCELCVNVACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSECAP00000012956 ENSECAG00000015312	111	GUCA2A	guanylate cyclase activator 2A	Equus_caballus	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLS---
+--------ALCLLWV-Q-------AALA--GGVTVQDGEFSFSLESVKKLKDLREL----
+------QAPSTRN-RRE----VDGSLAPILCRY-PKFPEELKPICKERNARE-ILQRLET
+-IAQ----DPR--MCEICAFAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSCJAP00000058044 ENSCJAG00000040403	111	GUCA2B	guanylate cyclase activator 2B	Callithrix_jacchus	0A
+------------------------------------------------------------
+---------------------------------------------MGSRAVSGL-LPGVA
+MVL-------LL-LQST-------------HSVYIQYQGFQVQLESIKKLSDLEAQRA--
+------PSP----------RLRAQSLLPAVCHH-PALPLDLQPVCTSQKASS-IFKTLRT
+-IA------ND--DCELCVNVACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSCJAP00000005594 ENSCJAG00000003087	113	GUCA2A	guanylate cyclase activator 2A	Callithrix_jacchus	0B
+------------------------------------------------------------
+--------------------------------------------------MNALLLS---
+--------ALCLLGA----------ALA--GGVTVQDGNFSFSLESVKKLKGLQES----
+------QEPRVGK-FRKFGFTPGAPVVSILCSN-PNFPEELKPLCKEPNAQE-MLQRLEE
+-IAE----DPS--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSCATP00000023396 ENSCATG00000035261	113	GUCA2B	guanylate cyclase activator 2B	Cercocebus_atys	0A
+------------------------------------------------------------
+--------------------------------------------MMGCRAVSGL-LPGVA
+VVL------LLL-LQST-------------QSVYIQYQGFRVQLESMKKLSELEAQWA--
+------PSP----------RLQTQSLLPVVCHH-PALPQDLQPVCASQEASS-IFKTLRT
+-IA------SD--DCELCVNVACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSCATP00000014773 ENSCATG00000031405	115	GUCA2A	guanylate cyclase activator 2A	Cercocebus_atys	0B
+------------------------------------------------------------
+--------------------------------------------------MNTLLLS---
+--------ALCLLGA-W-------AALA--GGVTVQDGNFSFSLESVKKLKDLQEP----
+------EEPRVGK-LRKFAPIPGEPVVPILCSN-PNFPEELKPLCKEPNAQE-ILQRLEE
+-IAE----DPS--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSCSAP00000016854 ENSCSAG00000001160	112	GUCA2B	guanylate cyclase activator 2B	Chlorocebus_sabaeus	0A
+------------------------------------------------------------
+---------------------------------------------MGCRAVSGL-LPGVA
+VVL------LLL-LQST-------------QSVYIQYQGFRVQLESMKKLRELEAQWA--
+------PSP----------RLQTQSLLPVVCHH-PALPQDLQPVCASQEASS-IFKTLRT
+-IA------ND--DCELCVNVACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSCSAP00000016853 ENSCSAG00000001161	115	GUCA2A	guanylate cyclase activator 2A	Chlorocebus_sabaeus	0B
+------------------------------------------------------------
+--------------------------------------------------MNALLLS---
+--------ALCLLGA-W-------AALA--GGVTVQDGNFSFSLESVKKLKDLQEP----
+------EEPRVGK-LRKFAPIPGEPVVPILCSN-SNFPEELKPLCKEPNAQE-ILQRLEE
+-IAE----DPS--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSGGOP00000011232 ENSGGOG00000011520	112	GUCA2B	guanylate cyclase activator 2B	Gorilla_gorilla	0A
+------------------------------------------------------------
+---------------------------------------------MGCRAVSGL-LPGVA
+VVL------LLL-LQST-------------QSVYIQYQGFRVQLESMKKLSDLEAQWA--
+------PSP----------RLQAQSLLPAVCHH-PALPQDLEPVCASQEASS-IFKTLRT
+-IA------ND--DCELCVNVACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSGGOP00000011227 ENSGGOG00000011516	115	GUCA2A	guanylate cyclase activator 2A	Gorilla_gorilla	0B
+------------------------------------------------------------
+--------------------------------------------------MNALLLS---
+--------ALCLLGA-W-------AALA--GGVTVQDGNFSFSLESVKKLKDLQEP----
+------QEPRVGK-LRKFAPIPGEPVVPILCSN-PNFPEELKPLCKEPNAQE-ILQRLEE
+-IAD----DPG--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSP00000361662 ENSG00000044012	112	GUCA2B	guanylate cyclase activator 2B	Homo_sapiens	0A
+------------------------------------------------------------
+---------------------------------------------MGCRAASGL-LPGVA
+VVL------LLL-LQST-------------QSVYIQYQGFRVQLESMKKLSDLEAQWA--
+------PSP----------RLQAQSLLPAVCHH-PALPQDLQPVCASQEASS-IFKTLRT
+-IA------ND--DCELCVNVACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSP00000349493 ENSG00000197273	115	GUCA2A	guanylate cyclase activator 2A	Homo_sapiens	0B
+------------------------------------------------------------
+--------------------------------------------------MNAFLLS---
+--------ALCLLGA-W-------AALA--GGVTVQDGNFSFSLESVKKLKDLQEP----
+------QEPRVGK-LRNFAPIPGEPVVPILCSN-PNFPEELKPLCKEPNAQE-ILQRLEE
+-IAE----DPG--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSMMUP00000024953 ENSMMUG00000018965	112	GUCA2B	guanylate cyclase activator 2B	Macaca_mulatta	0A
+------------------------------------------------------------
+---------------------------------------------MGCRAVSGL-LPGVA
+VVL------LLL-LQST-------------QSVYIQYQGFRVQLESMKKLSELEAQWA--
+------PSP----------RLQTQSLLPVVCHH-PALPQDLQPVCASQEASS-IFKTLRT
+-IA------ND--DCELCVNVACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSMMUP00000075730 ENSMMUG00000055703	115	GUCA2A	guanylate cyclase activator 2A	Macaca_mulatta	0B
+------------------------------------------------------------
+--------------------------------------------------MNALLLS---
+--------ALCLLGA-W-------AALA--GGVTVQDGNFSFSLESVKKLKDLQEP----
+------EEPRVGK-LRKFAPIPGEPVVPILCSN-PNFPEELKPLCKEPNAQE-ILQRLEE
+-IAE----DPS--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSMLEP00000024900 ENSMLEG00000036630	112	GUCA2B	guanylate cyclase activator 2B	Mandrillus_leucophaeus	0A
+------------------------------------------------------------
+---------------------------------------------MGCRAVSGL-LPGVA
+VVL------LLL-LQST-------------QSVYIQYQGFRVQLESMKKLSELEAQWA--
+------PSP----------RLQTQSLLPVVCHH-PALPQDLQPVCASQEASS-IFKTLRT
+-IA------SD--DCELCVNVACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSMLEP00000040685 ENSMLEG00000044366	115	GUCA2A	guanylate cyclase activator 2A	Mandrillus_leucophaeus	0B
+------------------------------------------------------------
+--------------------------------------------------MNALLLS---
+--------ALCLLGA-W-------ASLA--GGVTVQDGNFSFSLESVKKLKDLQEP----
+------EEPRVGK-LRKFAPIPGEPVVPILCSN-PNFPEELKPLCKEPNAQE-ILQRLEE
+-IAE----DPS--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSMICP00000010531 ENSMICG00000011582	112	GUCA2B	guanylate cyclase activator 2B	Microcebus_murinus	0A
+------------------------------------------------------------
+---------------------------------------------MDSRAVLRL-SLGAA
+VVL------LVL-LQST-------------QSVRIQYRGFQVQLESVKNLSDLEQQWA--
+------PSP----------RLRAQSLLPAVCHH-PALPSDLQPVCASQEAAS-IFRALKS
+-MA------TD--ECELCVNIACT------GCR---------------------------
+------------------------------------------------------------
+-------------------
+>ENSMICP00000009503 ENSMICG00000010437	115	GUCA2A	guanylate cyclase activator 2A	Microcebus_murinus	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLF---
+--------AFCLLGA-W-------AGLA--EGVTVQDGDFSFSLESVKKLKGLREP----
+------QESRIGK-FWKLKPMDGESVVPVLCNN-SKFPEELKPVCKEPNAQE-ILDRLEA
+-IAE----DPN--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSPTRP00000001043 ENSPTRG00000000604	112	GUCA2B	guanylate cyclase activator 2B	Pan_troglodytes	0A
+------------------------------------------------------------
+---------------------------------------------MGCRAVSGL-LPGVA
+VVL------LLL-LQST-------------QSVYIQYQGFRVQLESMKKLSDLEAQWA--
+------PSP----------RLQAQSLLPTVCHH-PALPQDLQPVCASQEASS-IFKTLRT
+-IA------ND--DCELCVNVACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSPTRP00000043872 ENSPTRG00000023425	115	GUCA2A	guanylate cyclase activator 2A	Pan_troglodytes	0B
+------------------------------------------------------------
+--------------------------------------------------MNAFLLS---
+--------ALCLLGA-W-------AALA--GGVTVQDGNFSFSLESVKKLKDLQEP----
+------QEPRVGK-LRKFAPIPGEPVVPILCSN-PKFPEELKPLCKEPNAQE-ILQRLEE
+-IAE----DPG--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSPANP00000002947 ENSPANG00000006448	112	GUCA2B	guanylate cyclase activator 2B	Papio_anubis	0A
+------------------------------------------------------------
+---------------------------------------------MGCRAVSGL-LPGVA
+VVL------LLL-LQST-------------QSVYIQYQGFRVQLESMKKLSELEAQWA--
+------PSP----------RLQIQSLLPVVCHH-PALPQDLQPVCASQEASS-IFKTLRT
+-IA------ND--DCELCVNVACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSPANP00000018303 ENSPANG00000008252	115	GUCA2A	guanylate cyclase activator 2A	Papio_anubis	0B
+------------------------------------------------------------
+--------------------------------------------------MNALLLS---
+--------ALCLLGA-W-------AALA--GGVTVQDGNFSFSLESVKKLKDLQEP----
+------EEPRVGK-LRKFAPIPGEPVVPILCSN-PNFPEELKPLCKEPNAQE-ILQRLEE
+-IAE----DPS--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSPPYP00000001706 ENSPPYG00000001474	112	GUCA2B	guanylate cyclase activator 2B	Pongo_abelii	0A
+------------------------------------------------------------
+---------------------------------------------MGCRAVSGL-LPGVA
+VVL------LLL-LQST-------------QSVYIQYQGFRVQLESMKKLSDLEAQWT--
+------PSP----------RLQAQSLLPAMCHH-PALPQDLQPVCASKEASS-IFKTLRT
+-IA------ND--DCELCVNVACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSPPYP00000001705 ENSPPYG00000001473	115	GUCA2A	guanylate cyclase activator 2A	Pongo_abelii	0B
+------------------------------------------------------------
+--------------------------------------------------MNALLLS---
+--------ALCLLGA-W-------ATLA--GGVTVQDGNFSFSLESVKKLKDLQEP----
+------QEPRVGK-LRKFAPIPGEPVVPILCSN-PNFPEELKPLCKKPNAQE-ILQRLEE
+-IAE----DPS--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSTGEP00000031202 ENSTGEG00000024995	112	GUCA2B	guanylate cyclase activator 2B	Theropithecus_gelada	0A
+------------------------------------------------------------
+---------------------------------------------MGCRAVSGL-LPGVA
+VVL------LLL-LQST-------------QSVYIQYQGFRVQLESMKKLSELEAQWA--
+------PSP----------RLQTQSLLPVVCHH-PALPQDLQPVCASQEASS-IFKTLRT
+-IA------ND--DCELCVNVACT------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSTGEP00000031235 ENSTGEG00000025016	115	GUCA2A	guanylate cyclase activator 2A	Theropithecus_gelada	0B
+------------------------------------------------------------
+--------------------------------------------------MNALLLS---
+--------ALCLLGA-W-------AALA--GGVTVQDGNFSFSLESVKKLKDLQEP----
+------EEPRVGK-LRKFAPIPGEPVVPILCSN-PNFPEELKPLCKEPNAQE-ILQRLEE
+-IAE----DPS--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSLAFP00000006320 ENSLAFG00000007516	114	GUCA2B	guanylate cyclase activator 2B	Loxodonta_africana	0A
+------------------------------------------------------------
+--------------------------------------------------VNCC-LLSTA
+LHQGQMESWKQG-LSVW-------------VGELREYQGFQVQLESVKKLSDLEGQQM--
+------LSP----------HLGTQSLLPSVCQH-PDLPLDLQPICTSKEAAS-IFRALTG
+NYQA-----LD--DCELCVNVACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSLAFP00000006315 ENSLAFG00000007514	114	GUCA2A	guanylate cyclase activator 2A	Loxodonta_africana	0B
+------------------------------------------------------------
+--------------------------------------------------MNAFLLS---
+--------ALCLLGA-W-------AALA--DGVTVQDGDFSFPLESVKKLKDLQEL----
+------QKPRIGN-HRKARL-AAGPEVPILCSN-PEFPEELQPICKEPNAQE-ILQRLEA
+-IAQ----DPS--ICEICAYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSCCNP00000028555 ENSCCNG00000027493	106	Guca2b	guanylate cyclase activator 2B	Castor_canadensis	0A
+------------------------------------------------------------
+--------------------------------------------------MSGH-LWGTT
+IVL------LLL-LQST-------------QSVYIKYQGFQVQLESVKKLSDLEGRQV--
+------LST----------DLQAQSLLPSVCHY-PELPLDLKPICASQEADG-VFKALKT
+-IT------FD--ICELCVNVACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSCCNP00000028554 ENSCCNG00000027491	115	Guca2a	guanylate cyclase activator 2A	Castor_canadensis	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLS---
+--------TLCLLGA-W-------AALA--KGVTVQDGDFSFPLESVKKLKDLQEL----
+------PESKVGS-LRKLAPVLSEPGAPRQCGS-PAFPEALKPLCEEPNAEE-ILQRLEA
+-IAH----DPS--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSCPOP00000006119 ENSCPOG00000006789	113	GUCA2B	guanylate cyclase activator 2B	Cavia_porcellus	0A
+------------------------------------------------------------
+---------------------------------------------MGSRTLLGH-LSVLA
+VVLLL----LLL-LQGT-------------QSVDIKYQGYQVQLESVKKLKALEEQWV--
+------SSP----------RLQAQDPQPAVCHH-PALPLDLQPICTSQEAAS-ILQALRT
+-MD------ND--ECELCVNIACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSCPOP00000015206 ENSCPOG00000006795	119	GUCA2A	guanylate cyclase activator 2A	Cavia_porcellus	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLS---
+--------ALCL-GA-W-------AALV--GAVTVQDGDFSFSLESVKKLKDLQEA----
+------PESKVQG-RRKF-------VAPPLCSF-SGFPEELRPVCKEPNSQD-ILNRLEL
+-PSE----RLAGVVCRHSTFREDTPGGWGRKCPSFG------------------------
+------------------------------------------------------------
+-------------------
+>ENSCLAP00000004874 ENSCLAG00000003462	116	GUCA2B	guanylate cyclase activator 2B	Chinchilla_lanigera	0A
+------------------------------------------------------------
+---------------------------------------------MGSRPLLGC-LSGLA
+VVLLLL-LLLLL-PPGT-------------QSVYIKYRGYQVQLESVKKLKALEGQWM--
+------PSP----------RLQAQNPQPSVCNH-PALPLDLQPVCASQDAAS-ILPSLRA
+-MD------NE--ECELCVNIACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSCLAP00000004928 ENSCLAG00000003499	107	GUCA2A	guanylate cyclase activator 2A	Chinchilla_lanigera	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLS---
+--------ALCL-GA-W-------AALA--GAVTVRDGDFSFPLESVKKLKDLQEV----
+------PEPKVQG-RRKF-------VTPPLCSH-PGFPEELRPVCSQPNAED-ILHRLEA
+-IAQ----DPS--TCEICAYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSDORP00000014973 ENSDORG00000015916	105	Guca2b	guanylate cyclase activator 2B	Dipodomys_ordii	0A
+------------------------------------------------------------
+--------------------------------------------------VSGC-LWEVA
+VVL------LLL-LQST-------------QSVHIKYQGFQVQLESVKKLSHLEGQQA--
+------S-L----------HQQAQRPLPSICYH-PALPSDLLPVCAAQEADS-IFKALKT
+-IA------FD--DCELCVNVACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSDORP00000014896 ENSDORG00000015837	115	Guca2a	guanylate cyclase activator 2A	Dipodomys_ordii	0B
+------------------------------------------------------------
+--------------------------------------------------MNTCLLS---
+--------ALCLLGT-W-------ATLA--GSVTVKDGEFSFPLESVKKLKDLEEL----
+------PEPRLGS-RRKLLPMLREPVAPRLCSY-ANFPEALRPLCKEPNAEQ-ILQRLEA
+-IAY----DPG--MCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSSTOP00000019982 ENSSTOG00000027358	111	GUCA2B	guanylate cyclase activator 2B	Ictidomys_tridecemlineatus	0A
+------------------------------------------------------------
+---------------------------------------------MDSRTALGH-LLGAA
+VGL------LLL-LQST-------------QSVLIKYQGFEVQLESVKKLSALEGQQE--
+------PSP----------DLQTKSLLPSVCHH-PALPQDLRPVCTSQEAAS-IFQTLRT
+-IA------ND--DCELCVNVACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSSTOP00000001684 ENSSTOG00000001891	115	GUCA2A	guanylate cyclase activator 2A	Ictidomys_tridecemlineatus	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLLS---
+--------ALCLLGA-W-------ATLA--GGVTVQDGDFSFSLESVKKLKDLWDL----
+------PEPKIGN-FRKLVPTLGKPVAPVICSY-EAFPEEIKPVCKEPNAEE-ILQRLEA
+-IAE----DPS--TCEICAFAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSMUGP00000032020 ENSMUGG00000026630	150	no_data	guanylate cyclase activator 2B	Meriones_unguiculatus	0A
+------------------------------RGCWPGGRWQLGG-----------------
+---QQRK---------------------QEPRGVRWEAGP-CQEANCGLPWCCCCCCRVH
+SVSTSR-E-PLC-SLKD-------------KWCQAQYHGFQVRLESVKQLTELEKQQM--
+------SNL----------LRPTDSLLPGVCHN-PALPPDLQPVCASQEAAS-IFKALKT
+-IA------TD--ECELCMNIACT------GCG---------------------------
+------------------------------------------------------------
+-------------------
+>ENSMUGP00000032018 ENSMUGG00000026629	115	Guca2a	guanylate cyclase activator 2A	Meriones_unguiculatus	0B
+------------------------------------------------------------
+--------------------------------------------------MNACLLS---
+--------ALCLLGA-V-------AVLA--EGVTVQDGDLSFPLESVKQLKDLQRV----
+------QKPRLVG-HKMFASGLLKPAALQLCSL-PAFPEALRPLCQKPNAEE-ILQRLQA
+-IAQ----DPD--TCEICAYAACI------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSMAUP00000009143 ENSMAUG00000010390	107	Guca2b	guanylate cyclase activator 2B	Mesocricetus_auratus	0A
+------------------------------------------------------------
+--------------------------------------------------MSGSDLRAA-
+VVL------LLL-LQSV-------------QSVYIKYNGFRVQLESVKKLSELEKQQA--
+------SES----------QPNTSSLLPAVCHD-PALPLDLQPVCASQEAAS-IFKALRA
+-IS------TD--ECELCMNVACT------GCG---------------------------
+------------------------------------------------------------
+-------------------
+>ENSMAUP00000013053 ENSMAUG00000013195	113	Guca2a	guanylate cyclase activator 2A	Mesocricetus_auratus	0B
+------------------------------------------------------------
+--------------------------------------------------MNACLLS---
+--------MLCLLGA-L-------AVLV--EGVTVQDGDLSFPLESVKQLKDLKEV----
+--------PELVS-HKRFAPRPPVPLVPRLCSY-TAFPEALRPLCKKPNAEE-ILQRLKA
+-IAQ----DPN--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSMOCP00000011374 ENSMOCG00000011621	108	Guca2b	guanylate cyclase activator 2B	Microtus_ochrogaster	0A
+------------------------------------------------------------
+--------------------------------------------------MLGSQLWAAM
+VLL------LLL-LQGA-------------QSVYIKYNGFQVQLESVKKLSELEKEQM--
+------SNP----------QLKTSSLLPGVCHD-PALPVDLQPVCASQEAAS-IFKALRT
+-IA------TD--ECELCINVACT------GCG---------------------------
+------------------------------------------------------------
+-------------------
+>ENSMOCP00000021514 ENSMOCG00000018839	115	Guca2a	guanylate cyclase activator 2A	Microtus_ochrogaster	0B
+------------------------------------------------------------
+--------------------------------------------------MNACLLS---
+--------LLCLLGA-L-------AVLA--EGVTVQDGDLSFPLESVKQLKDLQEE----
+------LKPPLVS-HRRVAARLAQPVIPSLCSH-SAFPEALKPLCQKPNAEE-ILRRLKA
+-IAQ----DPN--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSMUSP00000043203 ENSMUSG00000032978	106	Guca2b	guanylate cyclase activator 2b (retina)	Mus_musculus	0A
+------------------------------------------------------------
+--------------------------------------------------MSRSQLWAAV
+-VL------LLL-LQSA-------------QGVYIKYHGFQVQLESVKKLNELEEKEM--
+------SNP----------QPRRSGLLPAVCHN-PALPLDLQPVCASQEAAS-TFKALRT
+-IA------TD--ECELCINVACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSMUSP00000024015 ENSMUSG00000023247	116	Guca2a	guanylate cyclase activator 2a (guanylin)	Mus_musculus	0B
+------------------------------------------------------------
+--------------------------------------------------MNACVLS---
+--------VLCLLGA-L-------AVLV--EGVTVQDGDLSFPLESVKKLKGLREV----
+------QEPRLVS-HKKFAPRLLQPVAPQLCSSHSALPEALRPVCEKPNAEE-ILQRLEA
+-IAQ----DPN--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSODEP00000002361 ENSODEG00000001838	119	GUCA2B	guanylate cyclase activator 2B	Octodon_degus	0A
+------------------------------------------------------------
+------------------------------------DCSP-APNSLGQSVCKGLNRPDTT
+ELS------QAA-L-CS-------------PIRTFHEDSYQVQLESVKKLKALEGQWK--
+------PSP----------RLQAQSPQPSVCHH-PALPLDLQPICASQEAAS-ILQALRT
+-MD------ND--ECELCVNIACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSODEP00000002336 ENSODEG00000001820	107	GUCA2A	guanylate cyclase activator 2A	Octodon_degus	0B
+------------------------------------------------------------
+--------------------------------------------------MNTFLFS---
+--------ALCL-GT-W-------AALA--GAVTVQDGDFSFPLESVKKLKDLPKV----
+------PEPRIQG-HRKF-------VAPPLCSN-PGFPEELRPVCSQPNAED-ILHRLEV
+-IAQ----DPS--TCEICAYAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSPEMP00000020015 ENSPEMG00000018121	107	Guca2b	guanylate cyclase activator 2b (retina)	Peromyscus_maniculatus_bairdii	0A
+------------------------------------------------------------
+--------------------------------------------------MSGSQLWAAV
+-VL------LLL-LQSA-------------QSVLIKYDGFQVELESVKKLNELEKQLA--
+------SNS----------LPGTSAPLPAVCHH-LALPEDLQPVCASQKAAS-IFEALST
+-IA------TD--ECELCINVACT------GCY---------------------------
+------------------------------------------------------------
+-------------------
+>ENSPEMP00000030361 ENSPEMG00000029117	115	Guca2a	guanylate cyclase activator 2a (guanylin)	Peromyscus_maniculatus_bairdii	0B
+------------------------------------------------------------
+--------------------------------------------------MNACWLS---
+--------LLCLLGA-L-------ALLV--EGVTVQDGDLSFPLESVKQLKDLQEA----
+------PEPLLVN-HKKFAPRLAAPLAPRICSH-SAFPEALKPLCKKPNAEE-ILKKLQA
+-IAH----DPN--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSRNOP00000012062 ENSRNOG00000008979	106	Guca2b	guanylate cyclase activator 2B	Rattus_norvegicus	0A
+------------------------------------------------------------
+--------------------------------------------------MSGSQLWAAV
+-LL------LLV-LQSA-------------QGVYIKYHGFQVQLESVKKLNELEEKQM--
+------SDP----------QQQKSGLLPDVCYN-PALPLDLQPVCASQEAAS-TFKALRT
+-IA------TD--ECELCINVACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSRNOP00000011867 ENSRNOG00000008849	115	Guca2a	guanylate cyclase activator 2A	Rattus_norvegicus	0B
+------------------------------------------------------------
+--------------------------------------------------MNAWLLS---
+--------VLCLLGA-L-------AVLV--EGVTVQDGDLSFPLESVKQLKHLREV----
+------QEPTLMS-HKKFALRLPKPVAPELCSQ-SAFPEALRPLCEKPNAEE-ILQRLEA
+-IAQ----DPN--TCEICAYAACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSANIP00000017582 ENSANIG00000011952	112	no_data	no_data	Accipiter_nisus	0A
+------------------------------------------------------------
+--------------------------------------------------MKKIQEQKEE
+-----LGLMVDLTSRT--------------HYYGPEDGDLKFSLESVKKLKELMDENT--
+-----HINPRMVV-------S---LASYSPCDE-KDLPEEFQPVCKREDASM-IFERLSL
+-AVQ----KDD--LCEICANAACA------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSACCP00020015467 ENSACCG00020010612	98	no_data	no_data	Aquila_chrysaetos_chrysaetos	0A
+------------------------------------------------------------
+---------------------------------------------------------MSR
+-----CYLIVL--LTT--------------CSSLNEDGDLKFSLESVKKLKELMNENR--
+-----HINPRMVV-------S---MASYSPCDE-KDLPEEFQSVCKREDASM-IFERL--
+--------KAD--LCEICANAACA------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSAPLP00020023851 ENSAPLG00020016534	110	no_data	guanylin-like	Anas_platyrhynchos	0A
+------------------------------------------------------------
+--------------------------------------------------MKGFLSF--T
+-----VLILLSLVHSS--------------QGVYVQDGDLKFSLESVKKLKELMDENR--
+-----SINPRMVV-------S---KTTYSPCNE-KDLPEEFQVVCKREDAPM-IFERLST
+-AVR----DAD--LCEICANAACS------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSACDP00005012227 ENSACDG00005009027	110	no_data	no_data	Anser_cygnoides	0A
+------------------------------------------------------------
+--------------------------------------------------MKGFLSF--T
+-----VLILLSLVHSS--------------QGVYVQDGDLKFSLESVKKLKELMDENR--
+-----SINPRMVA-------S---KTASSPCKE-KDLPEEFRAVCKREDAPM-IFERLSM
+-AVR----DAD--LCEICANAACS------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSAOWP00000017463 ENSAOWG00000011939	107	no_data	no_data	Apteryx_owenii	0A
+------------------------------------------------------------
+--------------------------------------------------MNGLLSF--A
+-----ILALLSLVHSS--------------QAVYVQDGDLKFSLESVKKLKELMDKDT--
+-----DISPRMKV-------V------RAPCEE-KDLPEEFQPVCERKDAPV-IFERLSM
+-AVK----EID--LCEICANAACA------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSDNVP00000022960 ENSDNVG00000015974	107	no_data	guanylin-like	Dromaius_novaehollandiae	0A
+------------------------------------------------------------
+---------------------------------------------HFAAAMKGLLSF--T
+-----ILVLLSLVHSS--------------QAVYVQDGDFKFSLESVKKLKEIMDKDA--
+-----DVNPRMKV-------I------LAPCEE-XDLPEEFQPVCERKDAPM-IFERLK-
+---------LD--LCEICANAACA------GCY---------------------------
+------------------------------------------------------------
+-------------------
+>ENSCPUP00000029761 ENSCPUG00000019932	110	no_data	guanylate cyclase activator 2A	Calidris_pugnax	0A
+------------------------------------------------------------
+--------------------------------------------------MKGFLYF--T
+-----FFAVLLLVHSS--------------QAVYVQDGELKFSLESVKKLKELMDENR--
+-----HINPRMAV-------S---VASYSPCDE-KDLPEEFQSVCKRGDASM-IFERLSL
+-AVG----END--LCEICANAACA------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSCJPP00005007389 ENSCJPG00005006820	115	no_data	guanylin-like	Coturnix_japonica	0A
+------------------------------------------------------------
+---------------------------------------------FFAGAMRGFLSF--T
+-----VLALLLLVHNS--------------QEVYVQDGNFRFSLESVKKLKELMDESR--
+-----VINPRMVV-------SKASKAGYSPCQD-KDLPEEFQPVCKREDAPM-IFKRLCI
+--------DAD--LCEICANAACS------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSGALP00000070841 ENSGALG00000027269	110	GUCA2B	guanylate cyclase activator 2B (uroguanylin)	Gallus_gallus	0A
+------------------------------------------------------------
+--------------------------------------------------MRGLVSF--T
+-----VLALLLLVHSS--------------QAVYVQDGNLKFSLESVKKLKELMDENK--
+-----VINPRIVV-------A---KAGYSPCQD-KALPEEFQPVCKREDAPM-IFERLCL
+-VAS----EAD--LCEICANAACS------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSMGAP00000019681 ENSMGAG00000017385	110	no_data	guanylin-like	Meleagris_gallopavo	0A
+------------------------------------------------------------
+--------------------------------------------------MRGLLSF--T
+-----VLALLLLVHSS--------------QAVYVQDGNLTFSLESVKKLKELMDENR--
+-----VINPRVVV-------S---KAGYSPCQD-KDLPEEFQPVCKREDAPM-IFERLYL
+-IAG----KAD--LCEICANAACS------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSNMEP00000020311 ENSNMEG00000017439	108	no_data	guanylate cyclase activator 2A	Numida_meleagris	0A
+------------------------------------------------------------
+--------------------------------------------------MRGLLSF--T
+-----VLALLLLVHSS--------------QAVY--DGNLKFSLESVKKLKELMDENR--
+-----VINPRMVV-------SKVSKAGYSPCQD-KDLPEEFQPVCKREDAPV-IFERLCI
+--------EAD--LCEICANAACS------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSPSTP00000013125 ENSPSTG00000009278	167	no_data	no_data	Pavo_cristatus	0A
+-------------------------------------MLCKG-------------FIKLL
+VHCGDRQLDSLGTKKKSETRKKDSVIPKQDKRYSGQKR-L-----PFAGAMRGLLSF--T
+-----VLALLLLVHSS--------------QAVYVQDGNLKFSLESVKKLKELMDENR--
+-----VINPRMVV-------LKASKDGYSPCQD-EDLPEEFQPVCEREDAPM-IFERLYL
+-VAN----EAD--LCEICANAACS------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSCPVP00000021213 ENSCPVG00000015346	148	GUCA2B	guanylate cyclase activator 2B	Camarhynchus_parvulus	0A
+------------------------------------------------------------
+----------MGL---------------SHGDEPGLNSPS-----VHCLLSGFILAFFQH
+HLFPLLYFLGEMVEMEWICERPGFLTLL--FSGSSQDGDFKFPLESVKKLKELMEGNR--
+-----HINPRMMV-------P---VGSYSPCQE-KHLPEEFRPVCKREDAPM-IFRRLSL
+--AA----EDD--LCEICANAACA------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSCCEP00000012966 ENSCCEG00000012459	107	no_data	no_data	Cyanistes_caeruleus	0A
+------------------------------------------------------------
+--------------------------------------------------IK--TSLKML
+---ICLLG----HTLII-------C-------RWVQDGDLKFPLESVKKLKELMDGSR--
+-----HINPRMRV-------P---MASYSPCQE-KHLPEEFQPVCKREDAPM-VFRRLSL
+--AA----EDD--LCEICANAACA------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSEGOP00005017863 ENSEGOG00005014340	109	no_data	no_data	Erythrura_gouldiae	0A
+------------------------------------------------------------
+--------------------------------------------------MRSFLSWTVL
+---AVLVL----VHISQ-------A-------VYVQDGDLRFPLESVKKLKELMDGNR--
+-----HINPRMMA-------P---MASYSPCQE-KSLPEEFRPVCKREDALM-IFRRLSL
+--AA----EDD--LCEICANAACA------GCI---------------------------
+------------------------------------------------------------
+-------------------
+>ENSFALP00000004007 ENSFALG00000003844	110	GUCA2B	guanylate cyclase activator 2B	Ficedula_albicollis	0A
+------------------------------------------------------------
+--------------------------------------------------MKSFLSWTVL
+---AVLVL----VHISQ-------A-------VYVQDGDLKFPLESVKKLKELMDGNR--
+-----HINPRMMV-------S---TASYSPCQE-KHLPEEFRLVCKREDAPM-IFRRLSI
+-LAA----EDD--LCEICANAACA------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSGFOP00000016105 ENSGFOG00000010961	148	GUCA2B	guanylate cyclase activator 2B	Geospiza_fortis	0A
+------------------------------------------------------------
+----------MGL---------------SHGDEPGLNSPS-----VHCLLSGFILAFFQH
+HLFPLLYFLGEMVEMEWICERPGFLTLL--FSGSSQDGDFKFPLESVKKLKELMEGNR--
+-----HINPRMMV-------P---VGSYSPCQE-KHLPEEFRPVCKREDAPM-IFRRLSL
+--AA----EDD--LCEICANAACA------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSJHYP00000005738 ENSJHYG00000004654	114	no_data	no_data	Junco_hyemalis	0A
+------------------------------------------------------------
+----------------------------------GFA-----------GTMKSFLSWTVL
+---AALVL----VHISQ-------A-------VYVQDGDFKFPLESVKKLKELMEGNK--
+-----HINPRMMV-------P---MASYSPCQD-KHLPEEFRPVCKREDAPM-IFKRLSL
+--AA----EDD--LCEICANAACA------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSLSDP00000023242 ENSLSDG00000016358	135	no_data	no_data	Lonchura_striata_domestica	0A
+------------------------------------------------------------
+----------MGL---------------SHGDEPGLNCPS-----AHCFYSTQVLSWLPF
+---NTIFP---LHSIFW-------ESFC--LKWNGFDGDLRFPLESVKKLKELMDGNR--
+-----HINPRMMV-------P---MASYSPCQE-KLLPEEFRPVCKKEDALM-IFRRLTL
+--AA----EDD--LCEICANAACA------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSMVIP00005003110 ENSMVIG00005002433	109	no_data	guanylin	Manacus_vitellinus	0A
+------------------------------------------------------------
+--------------------------------------------------MRGLLPSAIL
+---AVIVL----VHSSW-------A-------VYVQDGDLKFPLESVKKLKELMDENR--
+-----PVSPRMVV-------P---VASHTLCQE-KSLPEEFQSVCKREDAPK-IFQRLSL
+--AA----QDD--LCEICANAACA------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSPMJP00000011974 ENSPMJG00000009235	109	GUCA2B	guanylin-like	Parus_major	0A
+------------------------------------------------------------
+--------------------------------------------------MKSFLSWTVL
+---AVLVL----VHISQ-------A-------VYVQDGDLKFPLESVKKLKELMNGSR--
+-----HINPRMRV-------P---MASYSPCQE-KHLPEEFRPVCKREDAPM-VFRRLSL
+--AA----EDD--LCEICANAACA------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSSCAP00000004058 ENSSCAG00000003338	109	no_data	guanylin-like	Serinus_canaria	0A
+------------------------------------------------------------
+--------------------------------------------------MKSFLSWAVL
+---AVLVL----VHLSQ-------A-------VYVQDGDLKFPLESVKKLKELMDGNR--
+-----HLNPRMMV-------P---MASYSPCQE-KHLPEEFRPVCKREDAPM-IFRRLSL
+--AA----EDD--LCEICANAACA------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSTGUP00000025010 ENSTGUG00000026713	109	no_data	guanylin-like	Taeniopygia_guttata	0A
+------------------------------------------------------------
+--------------------------------------------------MKSFLSWTVL
+---AVLVL----VHISQ-------A-------VYVQDGDLRFPLESVKKLKELMDGNR--
+-----HINPRMMV-------P---LASYSPCQE-KRLPEEFRPVCKREDALM-IFRRLSL
+--AA----EDD--LCEICANAACA------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSZALP00000012863 ENSZALG00000010731	114	no_data	guanylin-like	Zonotrichia_albicollis	0A
+------------------------------------------------------------
+----------------------------------GFA-----------GTMKSFLSWTVL
+---AALVL----VHISQ-------A-------VYVQDGDFKFPLESVKKLKELMEGSK--
+-----PINPRMMV-------P---MASYSPCQD-KHLPEEFRPVCKREDAPM-IFKRLSL
+--AA----EDD--LCEICANAACA------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSMUNP00000016778 ENSMUNG00000012916	115	no_data	no_data	Melopsittacus_undulatus	0A
+------------------------------------------------------------
+-----------------------------------QNRCI-----LLCSCLLQLNSH---
+---------NDKNISS--------------LPHTVCQNYLKFSLESVKKLKDLMDENR--
+-----HINPRFVL-------S---MASYSPCDE-KDLPEEFQSVCKREDASV-IFERLNL
+-AVQ----DPD--LCEICANAACA------GCF---------------------------
+------------------------------------------------------------
+-------------------
+>ENSACAP00000008241 ENSACAG00000008428	106	no_data	guanylin	Anolis_carolinensis	0B
+------------------------------------------------------------
+--------------------------------------------------MNAYLVA---
+-----VVCLCSL----V--------TFS--NGVTVKVEDFSFSLESVKQLKFVMDA-V--
+-----PRSPRLRS-----------SRVPYVCSN-PLLPAEIKPLCSSPKAPR-LVPQLVS
+-IAR----DSA--ICEICANVACS------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSNSUP00000003442 ENSNSUG00000002791	107	no_data	no_data	Notechis_scutatus	0B
+------------------------------------------------------------
+----------------------------------------------------PTFLL---
+-----LLPLMML-PSWA--------MKR--LQENNQVQNLSFSWDSVKALKKVLDV-A--
+-----PQNPRPRS-----------RGPAPVCLH-PELPREFVPLCSSPKGAD-VFRTLDR
+-IAS----DPE--TCEICFNVACS------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSPVIP00000016086 ENSPVIG00000012442	98	no_data	guanylate cyclase activator 2B-like	Pogona_vitticeps	0A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MW-GQL-----IG--LVALEQDGGLAFPLESVKKLKVLLEADA--
+-----GSAPSRQR-------S--QLPLIAVCKN-PELPKEFEPVCRRRDAPL-VFKRLNL
+-AVS-----DD--LCEICANAACT------GCY---------------------------
+------------------------------------------------------------
+-------------------
+>ENSPVIP00000016087 ENSPVIG00000012443	97	no_data	no_data	Pogona_vitticeps	0B
+------------------------------------------------------------
+------------------------------------------------------------
+-------LISPD----L--------RYL--CRIGAWVDDFSVSLESVKQLKVLLDA-E--
+-----PRNPRFRS-----------SRYLTVCTH-PQLPAEIAPVCSSSKAPS-VFQKLEF
+-VAR----DAT--ICEICAYVACS------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSPTXP00000023624 ENSPTXG00000016427	106	no_data	guanylin-like	Pseudonaja_textilis	0B
+------------------------------------------------------------
+--------------------------------------------------MKSSLML---
+-----MLGLCLL-TAL-----------T--EGITVRVQNLSFSWDSVKALKKVLDV-A--
+-----PQNPRPRN-----------RGPAPVCLH-PELPREFVPLCSSPKGAE-VFRTLDR
+-IAS----DPE--TCEICFNVACS------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSSMRP00000011233 ENSSMRG00000008833	97	no_data	no_data	Salvator_merianae	0A
+------------------------------------------------------------
+------------------------------------------------------------
+-------------LQAW-CL----------HLCMSLDGDLEFPLESVKKLRELAVEDG--
+-----GLGGPHAR-------S--QLAFIKICKH-PELPKDLLPVCERKDAVL-VFRRLSL
+-AVQ----DDD--QCELCANTACT------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSCABP00000019810 ENSCABG00000014623	110	no_data	no_data	Chelonoidis_abingdonii	0A
+------------------------------------------------------------
+---------------------------------------------KPAGAMKGV------
+-TFPVTVVLLILVHSS--------------QPVYVQEGEFSFPLEAVKKLKGFLDADA--
+-----RASPRMMA-------R---TSFISVCAN-PELPKEFQPVCQREDAPI-IFNRLN-
+---------MD--ICEICANAACA------GCR---------------------------
+------------------------------------------------------------
+-------------------
+>ENSCABP00000019811 ENSCABG00000014624	107	no_data	no_data	Chelonoidis_abingdonii	0B
+------------------------------------------------------------
+--------------------------------------------------MKALLVA---
+-----VLCLCTL----A--------AFS--DCVTVQVGKFSFPLESVKKLKDFMDNSV--
+-----TRNPHPLN-----------VRSAPLCAV-SDIPKEFLDLCATPDADQ-IFEELKP
+-IAR----SPE--LCEICAFAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSCSRP00000020303 ENSCSRG00000015441	107	GUCA2A	guanylate cyclase activator 2A	Chelydra_serpentina	0B
+------------------------------------------------------------
+--------------------------------------------------MKALLTA---
+-----VLCLCTL----A--------AFS--DCVTVQVRNFSFSLESVKKLKDFMDSTV--
+-----TRNPQLPS-----------ARSVSLCAN-PDLPKEFLSLCDTQDADQ-IFEDLKP
+-IAR----SPE--LCEICAFAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSCPBP00000013931 ENSCPBG00000010384	110	no_data	no_data	Chrysemys_picta_bellii	0A
+------------------------------------------------------------
+---------------------------------------------VPAGAMKGV------
+-TFPVTVMLLILVHSS--------------QPVHVQEGEFSFPLEAVKKLKEFLDADA--
+-----RASPRMMA-------R---TSFISVCAN-PELPKEFQPVCQREDAPI-IFNRLN-
+---------MD--ICEICANAACA------GCR---------------------------
+------------------------------------------------------------
+-------------------
+>ENSCPBP00000013926 ENSCPBG00000010381	107	GUCA2A	guanylate cyclase activator 2A	Chrysemys_picta_bellii	0B
+------------------------------------------------------------
+--------------------------------------------------MKAFLTA---
+-----VLCLCTL----A--------AFS--DCVTVQVGEFSFPLESVKKLKDLIDSSV--
+-----TRNPHVLS-----------IRSASLCAN-PDIPKEFLNLCATPDADQ-IFEDLKP
+-IAR----SPE--LCEICAFAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSGAGP00000024564 ENSGAGG00000017929	110	no_data	no_data	Gopherus_agassizii	0A
+------------------------------------------------------------
+---------------------------------------------APAGAMKGV------
+-TFPVTVVLLILVHSS--------------QPVYVQEGEFSFPLEAVKKLKGFLDADA--
+-----RASPRMMA-------R---TSFISVCAN-PELPKEFKLVCQREDAPI-IFNRLN-
+---------MD--ICEICANVACA------GCR---------------------------
+------------------------------------------------------------
+-------------------
+>ENSGAGP00000022032 ENSGAGG00000016165	107	GUCA2A	guanylate cyclase activator 2A	Gopherus_agassizii	0B
+------------------------------------------------------------
+--------------------------------------------------MKALLAA---
+-----VLCLCTL----A--------AFS--DCVTVQVGKFSFPLESVKKLKDFMDNSV--
+-----TGNPYLLN-----------VRSASLCAI-SDIPKEFLDLCATPDADQ-IFEELKP
+-IAR----SPE--LCEICAFAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSPSIP00000020032 ENSPSIG00000017756	107	GUCA2A	guanylin-like	Pelodiscus_sinensis	0B
+------------------------------------------------------------
+--------------------------------------------------MKTLLTA---
+-----ALCLCTL----A--------AFS--DCVTVQVGKFSFPLESVKKLKGLLDSPV--
+-----AKNPQLRS-----------ASFTPPCDN-PDLPTEFQSLCAAPNADM-IFQDLKP
+-IAR----SPE--LCEICAFAACA------GC----------------------------
+------------------------------------------------------------
+-------------------
+>ENSPCEP00000018746 ENSPCEG00000014597	110	no_data	no_data	Pelusios_castaneus	0A
+------------------------------------------------------------
+--------------------------------------------------MKGV------
+-IFPGAVVLLILVHSS--------------QPVYVQDGEFQFPLESVKKLKELFDEDA--
+-----RTSSHMRG-------R---PHFTSVCTN-PDLPKEFQPVCQKEDGPL-IFNRLKL
+-VVQ----DMD--LCEICTNAACA------GCL---------------------------
+------------------------------------------------------------
+-------------------
+>ENSTMTP00000031014 ENSTMTG00000022310	110	GUCA2B	guanylin-like	Terrapene_carolina_triunguis	0A
+------------------------------------------------------------
+--------------------------------------------------MKGV------
+-TFPVTVMLLILVHSS--------------QPVHVQEGEFSFPLEAVKKLKEFLDADA--
+-----RASPRMMA-------R---TSFISVCAN-PELPKEFQPVCQREDAPI-IFNRLNL
+-AVQ----DMD--ICEICANAACA------GCR---------------------------
+------------------------------------------------------------
+-------------------
+>ENSTMTP00000031020 ENSTMTG00000022312	107	GUCA2A	guanylate cyclase activator 2A	Terrapene_carolina_triunguis	0B
+------------------------------------------------------------
+--------------------------------------------------MKAFLTA---
+-----VLCLCTL----A--------AFS--DCVTVQVGEFSFPLESVKKLKELIDSSV--
+-----TRNPHVLS-----------IRSASLCAN-PDIPKEFLNLCATPDADQ-IFEDLKP
+-IAR----SPE--LCEICAFAACA------GC----------------------------
+------------------------------------------------------------
+-------------------

@@ -1,0 +1,688 @@
+>ENSBBBP00000009812 ENSBBBG00000004413	202	no_data	no_data	Bison_bison_bison	13A
+------------------------------------------------------------
+-----------------------------------------------MKAHVLIGALVMV
+GFTVG------------------KA-PVSEVRTCHLCLLENPAVGCISGSEKCTISSSSP
+CMVISINYE----------NKARFLIRGCGQHN--------SYRC-------QEKLPTYI
+SEYWYSAQC---------CQY-----DYCNSWYSPQLQSASPEPL------DRSLALPLS
+QSQILWFYQTLNLSLPLPSFPAGKEPSEG---LDPLAGPPVNLSLSIADLRSIYLFLNSS
+GLLTLPWAGLTSFPSQ
+>ENSBBBP00000009804 ENSBBBG00000017944	140	LY6G5C	lymphocyte antigen 6 family member G5C	Bison_bison_bison	13B
+------------------------------------------------------------
+----------------MYVMEGHAGNQN-----------QTL--YI-----VLLIVLVTM
+SLV---FGQS--EIYD---QEPIRQKYFNEYLSCYRCLFETKELGCLLGSDTCLVPKGSS
+CI--TLLIKNN--------SGFETMVSDCRS-------KEQMSDC-------SYTRASPV
+FGFWIFSRC---------CFQ-----NFCNNPQKRSLYVP--------------------
+------------------------------------------------------------
+----------------
+>ENSBTAP00000049587 ENSBTAG00000039740	196	LY6G5B	lymphocyte antigen 6 family member G5B	Bos_taurus	13A
+------------------------------------------------------------
+-----------------------------------------------MKAHMLIGALVMV
+GFTVG------------------KA-PVSEVRTCHLCLLENPAVGCISGSEKCTISSSSP
+CMVISINYE----------NKARFLIRGCGQHN--------SYRC-------QEKLPTYI
+SEYWYSAQC---------CQY-----DYCNSWYSPQLQSASPEPL------DRSLALPLS
+QSQILWFYQTLNLSLPLPSFPAGKEPSEG---LDPLAGPPMNLSLSIADLRSIYLFLNSS
+GLLTLPWAGP------
+>ENSBTAP00000035650 ENSBTAG00000025449	141	LY6G5C	lymphocyte antigen 6 family member G5C	Bos_taurus	13B
+------------------------------------------------------------
+---------SGGWWAVMYVMEGHAGNQN-----------QTL--YI-----VLLIVLVTM
+SL-----------IYD---QEPIRQKYFNEYLSCYRCLFETKELGCLLGSDTCLVPKGSS
+CM--TLLIKNS--------NGFETMVSDCRS-------KEQMSDC-------SYTRASPV
+FGFWIFSRC---------CFQ-----NFCNNPQKRSLYVP--------------------
+------------------------------------------------------------
+----------------
+>ENSCDRP00005029700 ENSCDRG00005020329	201	no_data	no_data	Camelus_dromedarius	13A
+------------------------------------------------------------
+-----------------------------------------------MKAHILVGVLVMV
+GFTVG------------------KA-PVPELRTCHLCLLEDPSVGCISGSEKCTVSSASP
+CMVITIYYE----------TKVRFFIRGCGQYN--------SYRC-------QEKRSTYF
+PEYWYQAEC---------CQY-----DYCNSWSSPQVQGSLPEPT------DGSLPRPLS
+KSQIQWFYQALNLSLPLPSFHAEKKP-EG---LDPLAAPPLNLSLSIAELRRIYLFLNNS
+GLLVLPQAELTFYPSW
+>ENSCDRP00005029710 ENSCDRG00005020334	149	LY6G5C	lymphocyte antigen 6 family member G5C	Camelus_dromedarius	13B
+------------------------------------------------------------
+----------------INLMAVPAGSRNLSS-------PQAL--YIKRKSPVLLIILVTM
+SFA---FGQL--NLNE---QEPPYLPQLNKYLRCYRCLLETKELGCLLGSDICLAPHGSS
+CM--TLFIKNN--------SGSDIMVSDCRP-------KEQMSDC-------SYTRTSPV
+LGFWIFSRC---------CFR-----NFCNNPQNRALYIS--------------------
+------------------------------------------------------------
+----------------
+>ENSCHIP00000017753 ENSCHIG00000017460	196	no_data	lymphocyte antigen 6 family member G5B	Capra_hircus	13A
+------------------------------------------------------------
+-----------------------------------------------MKAHMLIGALVMV
+GFTVG------------------KA-PVSEVRTCHLCLLENPAVGCISGSEKCTISSSSP
+CMVISINYE----------NKARFLIRGCGQHN--------SYRC-------QENLPTYI
+SEYWYSAQC---------CQY-----DYCNSWYSPQLQSALPEPP------DRSLALPLS
+QSQILWFYQTLNLSLPLPSFPAGEEPSEG---LDPLAGPPVNLSLSIADLRSIYLFLNSS
+GLLTLPWAGP------
+>ENSCHIP00000024570 ENSCHIG00000021696	136	LY6G5C	lymphocyte antigen 6 family member G5C	Capra_hircus	13B
+------------------------------------------------------------
+----------------MYVMEGHAGSQN-----------QIL--YI-----VLLIVLVTM
+SLV---FGKW---------FNGVRRKYFNKYLSCYRCLFETKELGCLLGSDTCLVPKGSS
+CM--TLIIKNN--------SGFETMVSDCRS-------KEQMSDC-------SYTRASPV
+FGFWIFSRC---------CFQ-----NFCNNPQKRILYVP--------------------
+------------------------------------------------------------
+----------------
+>ENSCWAP00000006243 ENSCWAG00000004812	201	no_data	no_data	Catagonus_wagneri	13A
+------------------------------------------------------------
+-----------------------------------------------MKAHVLVGMLLMV
+GFAVG------------------KA-PVPEVRTCHLCLLEDPLVGCISGSEKCTVSSSSP
+CMVITIYYD----------VRVRFFIRGCGQYN--------SYRC-------QEKRNTYI
+PEYWYQAQC---------CQY-----DYCNSWASPQLQSDLPGSS------DGSLALPLS
+AFQIQWFYRALNLSLPLPSFHAGKEP-EG---RAPQAALPLNLSLSIAELRRIYLFLNSS
+GLLALPQAGRISYPSR
+>ENSCWAP00000006192 ENSCWAG00000004790	144	LY6G5C	lymphocyte antigen 6 family member G5C	Catagonus_wagneri	13B
+------------------------------------------------------------
+----------------MPFMAGPACSRNMGS-------HQAL--CM-----ALLIMQVMM
+SLV---FGEF--DRND---QEPPRPIQLTKYLSCYRCLLETKELGCLLGSDICLAPKGSS
+CM--TLIIKNN--------SGSNIMVSDCRR-------REQMSDC-------SYTHSSPV
+LGFWVFSKC---------CFR-----DFCNNPQNRVLYMP--------------------
+------------------------------------------------------------
+----------------
+>ENSDLEP00000020728 ENSDLEG00000015077	196	no_data	no_data	Delphinapterus_leucas	13A
+------------------------------------------------------------
+-----------------------------------------------MKAHMFVGVLVMM
+GFTVG------------------KA-LVAEVRTCHLCLLEDPTIGCVLGSEKCTISSSSP
+CMGISIFHN----------AKVRFLIRGCGQHK--------SYRC-------QEKHPTYL
+PEYWYYAQC---------CQY-----DYCNSWYSPRLQSSLPEAP------EGSLALPLS
+ESQIQWFCQALNLSLPLPSFHAEKEASEG---LDPLAVLPLNLSLSIADLRRIYCFLNNS
+GLLVLPWARL------
+>ENSMMSP00000022438 ENSMMSG00000016938	218	no_data	no_data	Moschus_moschiferus	13A
+------------------------------------------------------------
+------------------MVT---GRWGFWAALRDCPSP----QKSMMKAHMLVGALVMV
+GFTVG------------------KA-PVSEVRTCHLCLLEDPAVGCISGSEKCTISSSSP
+CMVISINFE----------NKARFLIRGCGQHN--------SYRC-------QEKLPTYI
+SEYWYSAQC---------CQY-----DYCNSWYSPQLQSASPEPP------DRSLALPLS
+QPQILWFYQTLNLSLPLPSFPAGKEPSEG---QDPLAGPPVNLSLSIADLRSIYLFLNSS
+GLLTLPWAGP------
+>ENSMMSP00000022399 ENSMMSG00000016897	138	LY6G5C	lymphocyte antigen 6 family member G5C	Moschus_moschiferus	13B
+------------------------------------------------------------
+----------------MYVMEGHAGSQN-----------QTL--YI-----GLLIVLVTM
+SLV---FGQS--EIYD---QEPV--KLFKKYLSCYRCLFETKELGCLLGSDTCLVPKGSS
+CM--TLLIKNN--------SGFETMVSDCRS-------KEQMSDC-------SYTRASPV
+FGFWIFSRC---------CFQ-----NFCNNPQNRILYIP--------------------
+------------------------------------------------------------
+----------------
+>ENSOARP00000007188 ENSOARG00000006713	196	no_data	no_data	Ovis_aries	13A
+------------------------------------------------------------
+-----------------------------------------------MKAHMLIGALVMV
+GFTVG------------------KA-PVSEVRTCHLCLLENPAVGCISGSEKCTISSSSP
+CMVISINHE----------NKARFLIRGCGQHN--------SYRC-------QENLPTYI
+SEYWYSAQC---------CQY-----DYCNSWYSPQLQSALPEPP------DRSLALPLS
+QSQILWFYQTLNLSLPLPSFPAGEEPSEG---LDPLAGPPVNLSLSIADLRSIYLFLNSS
+GLLTLPWAGP------
+>ENSOARP00000007063 ENSOARG00000006599	140	LY6G5C	lymphocyte antigen 6 family member G5C	Ovis_aries	13B
+------------------------------------------------------------
+----------------MYVMEGHAGSQN-----------QTL--LI-----VLLIVLVTM
+SLV---FGQS--EIYD---QEPIKQKYFNKYLSCYRCLFETKELGCLLGSDTCLVPKGSS
+CM--TLIIKNN--------SGFETMVSDCRS-------KEQMSDC-------SYTRASPV
+FGFWIFSRC---------CFQ-----NFCNNPQKRILYVP--------------------
+------------------------------------------------------------
+----------------
+>ENSPCTP00005017540 ENSPCTG00005012495	202	no_data	no_data	Physeter_catodon	13A
+------------------------------------------------------------
+-----------------------------------------------MKAHMFVGVLVMM
+GFTVG------------------KA-PVPEVRTCHLCLLEDPTIGCVSGSEKCTISSSSP
+CMVISIFHN----------TKVRFLIRGCGQHK--------SYRC-------QEKHPTYL
+PEYWYYAQC---------CQY-----DYCNSWYSPQLQSSLPEPP------EGSLALPLS
+ESQIQWFYQALNLSLPLPSFHAGKEPSEG---LDPLAVLPLNLSLSIADLRRIYWFLNNS
+GLLVLPWVRVTFYPSQ
+>ENSPCTP00005017463 ENSPCTG00005012457	144	LY6G5C	lymphocyte antigen 6 family member G5C	Physeter_catodon	13B
+------------------------------------------------------------
+----------------MHVMAGPAGSRNPGP-------PEAL--YM-----VLLIMLVVT
+SLA---FGEF--EHYD---QEPLHQIHLNKYLSCYRCLLETKELGCLLGSDICLAPKGSS
+CM--TLLIKNN--------SGSEIMVSDCRS-------KEQMSDC-------SYTHTSPV
+PGFWIFSRC---------CFR-----NFCNNPQNRIKYGP--------------------
+------------------------------------------------------------
+----------------
+>ENSSSCP00000028408 ENSSSCG00000001414	298	no_data	casein kinase 2 beta	Sus_scrofa	13A
+MSSSEEVSWISWFCGLRGNEFFCEVDEDYIQDKFNLTGLNE-QVPHYRQALDMILDLEPD
+EELEDNPNQSDLIEQAAEMLY---GLIHARYILTNRGIAQMLEKYQQGDFGYCPRVYCEN
+QPMLP------------------IA-PVPEVRTCHLCLLEDPLVGCISGSEKCTVSSSSP
+CMVITIYYD----------VRVRFFIRGCGQYN--------SFRC-------QEKRSTYV
+PEYWYQAEC---------CQY-----DYCNAWASPQLQSALPGFS------DESLALPLS
+ASQIQWFYQALNLSLPLPSFHAGKAP-EG---PAPQAALPLNLSLPIAELRRIYLFLNRS
+GLLVLPQVGP------
+>ENSSSCP00000029791 ENSSSCG00000001416	142	LY6G5C	lymphocyte antigen 6 family member G5C	Sus_scrofa	13B
+------------------------------------------------------------
+----------------MHFMAGPASSWNMGF-------HQAL---------ALLIMQVMM
+SLV---FGEF--DHND---PEPPHPIQLTKYLSCYRCLLETKELGCLLGSDICLTPKGSS
+CM--TLIIKNN--------SGSNVMVSDCRT-------REQMSDC-------SYTHTSPV
+LGFWVFSKC---------CFR-----DFCNNPKNRVSYMP--------------------
+------------------------------------------------------------
+----------------
+>ENSTTRP00000013375 ENSTTRG00000014104	159	no_data	no_data	Tursiops_truncatus	13B
+---------------------------A---DHICGSD--SCCS----------------
+-------GHQGGALSVDFS--SRCFHQDDSS-------KPRL--FTQGK--------PPR
+SPS---PCEF--ERYD---QEPLHQIHLNKYLSCYRCLLETKELGCLLGSDICLAPKGSS
+CM--TLLIENN--------SGSEIVVSDCRS-------KEQKSDR-------SYTHTPPV
+LGF-IFSRC---------CFQ-----NFCNNPQNRIKYGP--------------------
+------------------------------------------------------------
+----------------
+>ENSAMEP00000009736 ENSAMEG00000009267	147	LY6G5C	lymphocyte antigen 6 family member G5C	Ailuropoda_melanoleuca	13B
+------------------------------------------------------------
+----------------MHFMAGSAGSRSMGPLGL-HSTPQAL--CL-----VLSIALVMM
+SLV---FGNF--DP------EPPHPVQLPKYLRCYRCLLETKELGCLLGSDICLAPPGSS
+CM--TLLIKNN--------SGPDIMVSDCRR-------KEQMSDC-------SYTRSSPV
+FGFWIFSRC---------CFR-----EFCNNPQNRVFYIP--------------------
+------------------------------------------------------------
+----------------
+>ENSCAFP00000000848 ENSCAFG00000030202	200	no_data	lymphocyte antigen 6 family member G5B	Canis_lupus_familiaris	13A
+------------------------------------------------------------
+--------------MKAHMLV---G------------------------------VLVMV
+GFAVG------------------KA-PGPEVRTCHLCLLEDPSTGCISGSEKCTISSTSP
+CMVITIYYD----------TKIRFFIRGCGQYN--------SYRC-------QEKRNTYF
+PEYWYQAQC---------CQY-----DYCNSWSSPQLHSSPLDPP------AGTWGLPLS
+ESQIQWFYRALNLSLPLRSFHAGGEP-EC---LGNLATLPLNLSLSIADLRHIYLFLNSS
+GLLVLPWTKLMPEPW-
+>ENSCAFP00000000849 ENSCAFG00000000606	128	LY6G5C	lymphocyte antigen 6 family member G5C	Canis_lupus_familiaris	13B
+------------------------------------------------------------
+--------------------------MGAEYGCL-PSTSQAL--YV-----ILLIVLVRM
+SLV---F------------------VQFPKYLRCYRCLLETKELGCLLGSDICLAPPGSS
+CM--TLLIKNS-------SSGSDIMVSDCRH-------KEQMSDC-------SYTRSSPV
+FGFWIFSRC---------CLR-----EFCNNPQNRVFYIP--------------------
+------------------------------------------------------------
+----------------
+>ENSFCAP00000022767 ENSFCAG00000023609	216	no_data	lymphocyte antigen 6 family member G5B	Felis_catus	13A
+------------------------------------------------------------
+------------------MVT---GRWDFRIPLRDCP-----SQNSIMKFHVLVGVLVMV
+GFAVG------------------KA-PVSEVRTCHLCLLEDPSTGCISGSEKCIISSSSP
+CMVITIYYD----------TKIRFFIRGCGQYN--------SYRC-------QEKRNTYF
+SEYWYQAQC---------CQY-----DYCNSWSSPQLQSSLPDPP------AGALALPLS
+EFQIQWFYKALNLSLPLPTFRAGKEP-EG---LDPLATLPLNLSLSIADLRHIYLSLNSS
+GLLVLPWAGP------
+>ENSFCAP00000025534 ENSFCAG00000027029	145	LY6G5C	lymphocyte antigen 6 family member G5C	Felis_catus	13B
+------------------------------------------------------------
+---------------------GPAGSRSMEPMGL-HSTSQAL--YM-----VLLIVLVMR
+SLV---FGNF--DPVN---PEPPHPAQFSKYLRCYRCLLETKELGCLLGSDICLAPPGSS
+CM--TLLIKNS--------SGSDIMVSDCRR-------KEQMSDC-------SYTRSSPV
+FGFWIFSRC---------CFL-----EFCNNPQNRVFYIP--------------------
+------------------------------------------------------------
+----------------
+>ENSLCNP00005014006 ENSLCNG00005009196	216	no_data	lymphocyte antigen 6 family member G5B	Lynx_canadensis	13A
+------------------------------------------------------------
+------------------MVT---GRWDFRIPLRDCP-----SQDSIMKFHVLVGVLVMV
+GFAVG------------------KA-PVSEVRTCHLCLLEDPSTGCISGSEKCTISSSSP
+CMVITIYYD----------TKIRFFIRGCGQYN--------SYRC-------QEKRNTYF
+SEYWYQAQC---------CQY-----DYCNSWSSPQLQSSLPDPP------AGALALPLS
+EFQIQWFYKALNLSLPLPTFRAGKEP-EG---LDPLATLPLNLSLSIADLCHIYLSLNSS
+GLLVLPWAGP------
+>ENSLCNP00005014029 ENSLCNG00005009208	145	LY6G5C	lymphocyte antigen 6 family member G5C	Lynx_canadensis	13B
+------------------------------------------------------------
+---------------------GPAGSRSMETMGL-HSTSQAL--YM-----VLLIVLVVR
+SLV---FGNF--DPVN---PEAPHPAQFSKYLRCYRCLLETKELGCLLGFDICLAPPGSS
+CM--TLLIKNS--------SGSDIMVSDCRH-------KEQMCDC-------SYTRSSPV
+FGFWIFSRC---------CFL-----EFCNNPQNRVFYIP--------------------
+------------------------------------------------------------
+----------------
+>ENSMPUP00000011034 ENSMPUG00000011124	142	LY6G5C	lymphocyte antigen 6 family member G5C	Mustela_putorius_furo	13B
+------------------------------------------------------------
+---------------------------SMGSLGL-HSIPQVL--HT-----VLLIALVMM
+SLV---FGKW--LFLRWEGDFDPDSVQLPKYLRCYRCLLETKELGCLLGSDICLAPPGSS
+CM--TLLIKNN--------SGSDIMVSDCRR-------KEQMSDC-------SYTRSSPV
+FGFWIFSRC---------CFR-----EFCNNPQNRVFYIP--------------------
+------------------------------------------------------------
+----------------
+>ENSNVIP00000020172 ENSNVIG00000015818	201	no_data	no_data	Neovison_vison	13A
+------------------------------------------------------------
+-----------------------------------------------MKVHMLVGVLVMV
+GFAVG------------------KA-PVPEVRTCHLCLLEDPSAGCISGSEKCTISTPSP
+CMVITIYYD----------TKIRFLIRGCGQYN--------SYRC-------QEKRNTYF
+SEYWYQAQC---------CQY-----DYCNSWSSPQVHSSLPDPLADPPAGAGAWALPLS
+ESQIQWFYQALNLSLPLRSFHAGKEP-KG---LDPLAILPLNLNLSIADLHHIYLFLNNS
+GLLVLPWARP------
+>ENSNVIP00000020159 ENSNVIG00000015806	143	LY6G5C	lymphocyte antigen 6 family member G5C	Neovison_vison	13B
+------------------------------------------------------------
+----------------MHLMTGPAG-RSMGSLGL-HSIPQVL--HT-----VLLTALVMM
+SLV---FG-----------DFDPDSVQLPKYLRCYRCLLETKELGCLLGSDICLAPPGSS
+CM--TLLIKNN--------SGSDIMVSDCRR-------KEQMSDC-------SYTRSSPV
+FGFWIFSRC---------CFR-----EFCNNPQNRVFYIP--------------------
+------------------------------------------------------------
+----------------
+>ENSPLOP00000010868 ENSPLOG00000007942	201	no_data	no_data	Panthera_leo	13A
+------------------------------------------------------------
+-----------------------------------------------MKFHVLVGVLVMV
+GFAVG------------------KA-PVSEVRTCHLCLLEDPSTGCISGSEKCTISSSSP
+CMVITIYYD----------TKIRFFIRGCGQYN--------SYRC-------QEKRNTYF
+SEYWYQAQC---------CQY-----DYCNSWSSPQLQSSLPDPP------AGALALPLS
+ESQIQWFYKALNLSLPLPTFRAGKEP-EG---LDPLATLPLNLSLSITDLRHIYLSLNSS
+GLLVLPWAGLMPYPSW
+>ENSPLOP00000010795 ENSPLOG00000007918	146	LY6G5C	lymphocyte antigen 6 family member G5C	Panthera_leo	13B
+------------------------------------------------------------
+--------------------AGPAGSRSMEPIGL-HSTSQAL--YM-----VLLIVLVMR
+SLV---FGNF--DPVN---PEPPHPAQFSKYLRCYRCLLETKELGCLLGSDICLAPPGSS
+CM--TLLIKNS--------SGSDIMVSDCRR-------KEQMSDC-------SYTRSSPV
+FGFWIFSRC---------CFL-----EFCNNPQNRVFYIP--------------------
+------------------------------------------------------------
+----------------
+>ENSSSUP00005005974 ENSSSUG00005003884	201	no_data	no_data	Suricata_suricatta	13A
+------------------------------------------------------------
+-----------------------------------------------MKPHVLVGALVMV
+GFAVG------------------KA-PVPEVRTCHLCLLEDPSVGCISGSEKCTISSSSP
+CMVITIYYD----------TKIRFFIRGCGQYN--------SYHC-------QEKRNTYF
+SEYWYQAQC---------CQY-----DYCNSWSSPQLQSSLPDPP------TGALALPLS
+ESQIQWFYKALNLSLPLPNFHAGKEP-EG---LDPLTTLSLNLSFSIADLRHIYLSLNSS
+GLLVLPWAGLTPYPSW
+>ENSSSUP00005005988 ENSSSUG00005003895	150	LY6G5C	lymphocyte antigen 6 family member G5C	Suricata_suricatta	13B
+------------------------------------------------------------
+----------------MLFMAGPAGSQSVGPLGL-HSTPQVL--YR-----VLLIVLVMM
+SSV---FGNF--DPVN---PEPPHPVQLSKYLRCYRCLLETKELGCLLGSDICLAPPGSS
+CM--TLLIKNS--------SGSDIMVSDCRR-------KEQMRDC-------SYTRSSPV
+FGFWIFSRC---------CFR-----EFCNNPQNRVFYIP--------------------
+------------------------------------------------------------
+----------------
+>ENSUMAP00000019258 ENSUMAG00000014144	217	no_data	lymphocyte antigen 6 family member G5B	Ursus_maritimus	13A
+------------------------------------------------------------
+------------------MVT---GRWGFGIPRRDCPLP----PNPITKGRMLVGVLVMV
+GFAVG------------------KA-PVPEVRTCHLCLLEDPSTGCISGSEKCTISTPSP
+CMVITIYYD----------TKIRFFIRGCGQYN--------SYRC-------QEKRNTYF
+SEYWYQAQC---------CQY-----DYCNSWSSPQLHSSPPDP----PAG--AGAVPLS
+ESQIQWFYQALNLSLPLHSFHAGKEP-EG---PNPPAILPLNLSLSIADLRRIYLFLNSS
+GLLVLPWARP------
+>ENSUMAP00000019256 ENSUMAG00000014142	149	no_data	lymphocyte antigen 6 family member G5C	Ursus_maritimus	13B
+------------------------------------------------------------
+-----------------------------------------------------MFGLRIC
+STSPGGAGVCFTAVTSNFDPEPPHPVQLPKYLRCYRCLLETKELGCLLGSDICLAPPGSS
+CM--TLLIKNS-----------ELLVFGSAHS------QNASFGCTPRQVPATPRRCSPS
+WSLFPYLQSHSLSPLPCSCFPSLQLTGFCLPYSTQPCGGPL-------------------
+------------------------------------------------------------
+----------------
+>ENSVVUP00000028569 ENSVVUG00000020898	298	no_data	casein kinase 2 beta	Vulpes_vulpes	13A
+MSSSEEVSWISWFCGLRGNEFFCEVDEDYIQDKFNLTGLNE-QVPHYRQALDMILDLEPD
+EELEDNPNQSDLIEQAAEMLY---GLIHARYILTNRGIAQMLEKYQQGDFGYCPRVYCEN
+QPMLP------------------IA-PGPEVRTCHLCLLEDPSTGCISGSEKCTISSTSP
+CMVITIYYD----------TKIRFFIRGCGQYN--------SYRC-------QEKRNTYF
+PEYWYQAQC---------CQY-----DYCNSWSSPQLHSSPLDPP------AGTWGLPLS
+ESQIQWFYRALNLSLPLRSFHAVGEP-EC---LGNLATLPLNLSLSIADLRHIYLFLNSS
+GLLVLPWTKP------
+>ENSVVUP00000028581 ENSVVUG00000020920	128	LY6G5C	lymphocyte antigen 6 family member G5C	Vulpes_vulpes	13B
+------------------------------------------------------------
+--------------------------MGAEYGCL-PSTSQAL--YV-----IPLIVLVRM
+SLV---F------------------VQFPKYLRCYRCLLETKELGCLLGSDICLAPPGSS
+CM--TLLIKNS-------SSGSDIMVSDCRH-------KEQMSDC-------SYTRSSPV
+FGFWIFSRC---------CLR-----EFCNNPQNRVFYIP--------------------
+------------------------------------------------------------
+----------------
+>ENSMLUP00000018600 ENSMLUG00000026027	195	no_data	no_data	Myotis_lucifugus	13A
+------------------------------------------------------------
+-----------------------------------------------MKAHMLVAVLAAV
+GFAAG------------------KV-PVPELRTCHLCLLEDPSAGCISGSEKCTISSSSP
+CMVITIYYN----------TRVRFLIRGCGQHN--------SYRC-------QEKRNTYF
+SEYWYQAQC---------CQY-----DYCNSWSSPQLQSSQPEPP------GGALGLPLS
+KSQIQWFYQALNLSLPLPSSHDGKEP-KG---LDPLAALPSNLGLSVADLRRIYLFLNNS
+GLLVLPWAGP------
+>ENSMLUP00000021985 ENSMLUG00000026524	147	LY6G5C	lymphocyte antigen 6 family member G5C	Myotis_lucifugus	13B
+------------------------------------------------------------
+----------------MHFMAGPTHSRSLGPLGL-HSTPHAL--YM-----VLLTVLVVM
+SLV---FGKT--DPVN---EEPPYPAEFPKYLRCYRCLLETKELGCLLGSDICLASPGSS
+CM--TLFIKNS--------SGSDIMVSDCCR-------KERMSAC-------SHTRTSPV
+FGFWMFSRC---------CFQ-----DFCNSPQNRAL-----------------------
+------------------------------------------------------------
+----------------
+>ENSPVAP00000011673 ENSPVAG00000012383	214	no_data	no_data	Pteropus_vampyrus	13B
+---TNHVSWGTGHCSTGHEEWAPSVDIV---GHFCRHG--DYSKPH------LFTPERPP
+--RSLSPWQRTLVALPSHWPNPAAWIRGVKKAELMNVRPRPF--RR-----TLCPVPAAL
+QPSLGRNTKF--DPVN---QEPHHPVRFPKYLRCYRCLLETKELGCLLGSDICLASSGSS
+CM--TLLIKNS--------SGSDIMVSDCRR-------KEQMSDC-------SYTRTSPV
+FGFWIFSRC---------CFR-----NFCNNPQNRVFYIP--------------------
+------------------------------------------------------------
+----------------
+>ENSRFEP00010002822 ENSRFEG00010002025	200	no_data	no_data	Rhinolophus_ferrumequinum	13A
+------------------------------------------------------------
+-----------------------------------------------MKARILVGVLVLV
+GFTAG------------------KA-PVPRVRTCHLCLLEDPSVGCVSGSEKCTIGSSSP
+CMVISIYYN----------TKIRFFIRGCGQYN--------SYRC-------QEKRNTYF
+SEYWYQAQC---------CQY-----DYCNSWSSPQLQSSLPKPP------DGALALPLP
+RSQIQRFYQALNLSLPLPRFHAGEEP-EG---LDPLAALPLNLGLSIADLRHIYLFLNNS
+GLLVLPRAGLTSHSQ-
+>ENSRFEP00010002847 ENSRFEG00010002040	150	LY6G5C	lymphocyte antigen 6 family member G5C	Rhinolophus_ferrumequinum	13B
+------------------------------------------------------------
+----------------MNFMAGPACSWSLGPLDL-HSTPQAL--YR-----VLLIALVMM
+SSA---FGNF--DPVN---QKPPHPAQFPRYLRCYRCLLETKELGCLLGSDICLASPGSS
+CM--TLFIKNS--------SGPGMMVSDCIR-------RAQMSDC-------TQTRPSPV
+FGFWTFSQC---------CFQ-----NFCNNPQNRVSYIP--------------------
+------------------------------------------------------------
+----------------
+>ENSDNOP00000027390 ENSDNOG00000032471	200	no_data	no_data	Dasypus_novemcinctus	13A
+------------------------------------------------------------
+-----------------------------------------------VKVHVLVGMLVMV
+GFSVG------------------KA-PAPKVRTCHFCLLEDPSVGCISGSEKCTVSRPAP
+CMVITIFRSEAWGSGGSRGAKVRFIIRGCGQYN--------SYRC-------QEKRNTYF
+AEYWYHAQC---------CQY-----DYCNSWSSPQLQNSPPEAS------DRPLALPLP
+EPQIHQLYQALDLSLPLPSFHAGQEP-EG---LEP-----LSLGVPVADLRRTYLFLNSS
+GLLVLPRAGP------
+>ENSDNOP00000026421 ENSDNOG00000046113	134	LY6G5C	lymphocyte antigen 6 family member G5C	Dasypus_novemcinctus	13B
+------------------------------------------------------------
+-------------------------------LGL-CSTPRAL--RL-----PSLLVLVTT
+SSVLGKI-----IA----NQGYLHPLQPPKYLRCYRCLFETKELGCLLGSDICLVPWGSS
+CI--TLHIKNS--------SKVDIMVSDCRH-------KEKMKDC-------SYTHSSPV
+FGFWISSRC---------CFL-----DLCNDPWSRAIYNP--------------------
+------------------------------------------------------------
+----------------
+>ENSPCIP00000024562 ENSPCIG00000018510	195	no_data	no_data	Phascolarctos_cinereus	13A
+------------------------------------------------------------
+-----------------------------------------------MRGRMFLGILILM
+----A------------------HH-GPSHARFCHLCLLEDPFLGCLTGSDMCIPDNKGQ
+CMVINIYNG----------ETLKYVVRGCGEHSSFRCGEHSSFRC-------KEVQNGFI
+LYYWFRAEC---------CQY-----DYCNAWFQPQLQGPIPGTP--------LPEGPLS
+LAQIQLFYVVLNLSLPLPTPAPGEPEDTG------LPPPPLNLNLPVEHLHILYQSFIND
+GLLSLPQTEP------
+>ENSVURP00010003013 ENSVURG00010002442	191	no_data	no_data	Vombatus_ursinus	13A
+------------------------------------------------------------
+-----------------------------------------------MRGRIFLGILILM
+GSAVA------------------PH-GPSHARFCHLCLLEDPFLGCLTGSDMCIPDNKGQ
+CMVINIYNG----------SKLTYVVRGCGEHS--------SFRC-------KEVQNGFI
+LYYWFRAEC---------CQY-----DYCNAWFQPQLQGPIPGTP--------LPEGPLS
+LAQIQQFYVVLNLSLPLPAPAPGEPEDTD------LPPPTLNLNLPVEHLHILCESFIKD
+GLLILPQTEP------
+>ENSEEUP00000011180 ENSEEUG00000012257	190	no_data	no_data	Erinaceus_europaeus	13B
+---GDPIFWVGTRCT-RHQGGAFSVDTV---LHYCHHSYCDYCDIC------LFTQGRVL
+-----SLRQGTLGILPSPSSAQWTGGQNPGRVSP-----STE--MV-------XXXXXXX
+XXX---XXXX--XXXX---------XXXXXXXX-----X--XXXXXXX--XXXXXXXXXX
+XXXXXXXXXXX-------XXGSEILVSDCRR-------KEQMSDC-------SYTRASPV
+VGFWMFSRC---------CFM-----NFCNNPQNRVNYFT--------------------
+------------------------------------------------------------
+----------------
+>ENSOPRP00000003062 ENSOPRG00000003317	193	no_data	no_data	Ochotona_princeps	13B
+--------AVRNCCSTGGEALN---------MDYRCHG--DHATLH------LFTEKPP-
+---CNSPWKQILRALDIPGAS-PATKEHETKAG------RTL--RVRP-LKQPLSALPKL
+TKILPIPGEC--TA-------ANQKLEAPKYLRCYRCLLETKEQGCPLGSDICLSPVGGA
+CL--TLHIRNS--------SGSDVMVSDCRN-------KEQLSDC-------TNTRPSPV
+FGFWI-AQC---------CFK-----DFCNNPENRRQLLQ--------------------
+------------------------------------------------------------
+----------------
+>ENSOCUP00000030648 ENSOCUG00000033170	198	no_data	no_data	Oryctolagus_cuniculus	13A
+------------------------------------------------------------
+-----------------------------------------------MGVHTLVGVLIMV
+GFVVG------------------KP-PVPEVRTCHLCLVEDPTVGCISGSGKCTISTSSL
+CMVITIHSY----------GKTRFNIRGCGQHN--------SYRC-------KELRSTYI
+TDYWYQVQC---------CQY-----DYCNSWSSPQLQSSLAEPH--------GRLMPLS
+DLQIQQFYQALNLSLPQSRFHAVKEP-EG---LDPLATLRQNLGLSTAELRHIYLFLNSS
+GLLVLPGAGLIAPSQ-
+>ENSOCUP00000006864 ENSOCUG00000007942	139	LY6G5C	lymphocyte antigen 6 family member G5C	Oryctolagus_cuniculus	13B
+------------------------------------------------------------
+----------------MHLMAGPAGGWRLGLWGL-SCTSQGP--NV-----ILLTALIMM
+SLM---CGEC--VAAN---------QLEPKYLRCYRCLLETKELGCLLGSDICLAAVGSS
+CV--TLHIRNS--------SGSDVMVSDCRS-------KEQLSDC-------THTRPSSV
+FGFWIYAQC---------CFL-----NFCNNPQNR-------------------------
+------------------------------------------------------------
+----------------
+>ENSECAP00000006432 ENSECAG00000042553	202	no_data	lymphocyte antigen 6 family member G5B	Equus_caballus	13A
+------------------------------------------------------------
+-----------------------------------------------MKACMLVGVLVMV
+GFAVG------------------KA-PLAEVRTCHFCLLEDPSVGCISGSEKCTISSTSP
+CMVITIYYD----------TKIRFFIRGCGQYN--------SYRC-------QEKHATYF
+AEYWYEAQC---------CQY-----DYCNSWSSPQLQSSLPEPP------DRSLTLPLS
+EAQIQRFYQALNLSLPLPSFHAEKEPEEG---LDPLAALPLNLDLPVAVLRHIYLFLNNS
+GLLVLPQAGLTPYPCW
+>ENSECAP00000009640 ENSECAG00000011814	149	LY6G5C	lymphocyte antigen 6 family member G5C	Equus_caballus	13B
+------------------------------------------------------------
+----------------MHFMAGSAGSRSLGPLGL-HSIPQAL--YM-----VLLIVSVMK
+SLV---FGKF--DLVN---QEPPHPVQYPKYLRCYRCLLETKELGCLLGSDICLVPPGSS
+CM--TLFIKNG--------SGSDIMVSDCRR-------KEQLSDC-------SYTHSSPV
+FGFWIYSQC---------CFL-----DFCNNPQNRVFIP---------------------
+------------------------------------------------------------
+----------------
+>ENSCJAP00000005435 ENSCJAG00000040243	200	LY6G5B	lymphocyte antigen 6 family member G5B	Callithrix_jacchus	13A
+------------------------------------------------------------
+-----------------------------------------------MKAHVLIGVLVMV
+GFAVG------------------KV-PVPDIRTCHFCLLEDPSVGCISGSEKCTISSSSP
+CMVITIYYD----------VKVRFIVRGCGQYN--------SYRC-------QEKRNTYF
+AEYWYEAQC---------CQY-----DYCNSWSSPQLQSSQPEPR------DRPLALPLS
+DWQIPWFYQALNLSLPLPSFHAGKEP-DG---LDSVATLPLNLGLSFADLRRMYLFLNSS
+GLLVLPQAGL-TPHPS
+>ENSCATP00000030769 ENSCATG00000038541	150	LY6G5C	lymphocyte antigen 6 family member G5C	Cercocebus_atys	13B
+------------------------------------------------------------
+----------------MRFMAGPAGSQNPGPMCF-HSSLQAL--YT-----VLLIVLVMM
+SLV---FGKF--VPVN---WERPQPLPVPKYLRCYRCLLETKELGCLLGSDTCLTPAGSS
+CI--TLHIKNG--------SNSDVMVSDCRS-------KEQMSDC-------SNTETSPV
+SGFWIFSQC---------CFL-----DFCNDPQHRGHYIS--------------------
+------------------------------------------------------------
+----------------
+>ENSCSAP00000004872 ENSCSAG00000008618	148	LY6G5C	lymphocyte antigen 6 family member G5C	Chlorocebus_sabaeus	13B
+------------------------------------------------------------
+----------------MRFMAGPAGSQNSGPMCF-HSSLQAL--YT-----VLLIVLVMM
+SLV---FGKF--VPVN---WEHPQPLPVPKYLRCYRCLLETKELGCLLGSDICLTPAGSS
+CI--TLHIKNG--------SNSDIMVSDCRS-------KEQMSDC-------SNTQTSPV
+SGFWMFSQC---------CFL-----DFCNDPQNRGHY----------------------
+------------------------------------------------------------
+----------------
+>ENSGGOP00000009727 ENSGGOG00000009963	150	LY6G5C	lymphocyte antigen 6 family member G5C	Gorilla_gorilla	13B
+------------------------------------------------------------
+----------------MRFMAGPAGSQSLGPLCF-HSSPQAL--YT-----VLLIVLVMM
+SLV---FGKF--VPVN---WEPPQPLPFPKYLCCYRCLLETEELGCLLGSDICLTPAGSS
+CI--TLHIKNS--------SGSDIMVSDCRS-------KEQMSDC-------SNTRTSPV
+SGFWIFSQC---------CFL-----DFCNDPQNRGLYTP--------------------
+------------------------------------------------------------
+----------------
+>ENSP00000365024 ENSG00000240053	201	LY6G5B	lymphocyte antigen 6 family member G5B	Homo_sapiens	13A
+------------------------------------------------------------
+-----------------------------------------------MKVHMLVGVLVMV
+GFTVG------------------KV-PVPDIRTCHFCLVEDPSVGCISGSEKCTISSSSL
+CMVITIYYD----------VKVRFIVRGCGQYI--------SYRC-------QEKRNTYF
+AEYWYQAQC---------CQY-----DYCNSWSSPQLQSSLPEPH------DRPLALPLS
+DSQIQWFYQALNLSLPLPNFHAGTEP-DG---LDPMVTLSLNLGLSFAELRRMYLFLNSS
+GLLVLPQAGLLTPHPS
+>ENSP00000372724 ENSG00000204428	150	LY6G5C	lymphocyte antigen 6 family member G5C	Homo_sapiens	13B
+------------------------------------------------------------
+----------------MRFMAGPAGSQSLGPLCF-HSSPQAL--YT-----VLLIVLVMM
+SLV---FGKF--VPVN---WEPPQPLPFPKYLRCYRCLLETKELGCLLGSDICLTPAGSS
+CI--TLHKKNS--------SGSDVMVSDCRS-------KEQMSDC-------SNTRTSPV
+SGFWIFSQY---------CFL-----DFCNDPQNRGLYTP--------------------
+------------------------------------------------------------
+----------------
+>ENSMMUP00000068796 ENSMMUG00000054159	141	LY6G5C	lymphocyte antigen 6 family member G5C	Macaca_mulatta	13B
+------------------------------------------------------------
+----------------MRFMAGPAGSQNPGPMCF-HSSLQAL--YT-----VLLMVLVMM
+SLV---FGKF--VPVN---WERPQPLPVPKYLRCYRCLLETKELGCLLGSDTCLTPAGSS
+CI--TLHIKNG--------SNSDVMVSDCRS-------KEQMSDC-------SHTQTSPV
+SGFWIFSQC---------CFL-----DFCND-----------------------------
+------------------------------------------------------------
+----------------
+>ENSMLEP00000014153 ENSMLEG00000031241	150	LY6G5C	lymphocyte antigen 6 family member G5C	Mandrillus_leucophaeus	13B
+------------------------------------------------------------
+----------------MRFMAGPAGSQNPGPMCF-HSSLQAL--YT-----VLLIVLVMM
+SLV---FGKF--VPVN---WERPQPLPVPKYLRCYRCLLETKELGCLLGSDTCLTPAGSS
+CI--TLHIKNG--------SNSDVMVSDCRS-------KEQMSDC-------SNTQTSPV
+SGFWIFSQC---------CFL-----DFCNDPQHRGHYIS--------------------
+------------------------------------------------------------
+----------------
+>ENSMICP00000021330 ENSMICG00000043933	201	no_data	lymphocyte antigen 6 family member G5B	Microcebus_murinus	13A
+------------------------------------------------------------
+-----------------------------------------------TEACVLVGVLVMV
+GFTLG------------------KV-PAPEVRTCHFCLLEDPAVGCISGSEKCTISSSSP
+CMVISIYYD----------IKVRFTIRGCGQHN--------SYRC-------QEKRNTYF
+SEYWYQAQC---------CQY-----DYCNSWSSPQLQSFLPGPS------DKSLTLPLS
+DSQIQRFYQALNLSLPLPSFHAGKEP-ED---LDPLATLPLNLGLSIAALRHMYLFLNSS
+GLLVLPQAGLTPYSFQ
+>ENSMICP00000050075 ENSMICG00000045037	150	LY6G5C	lymphocyte antigen 6 family member G5C	Microcebus_murinus	13B
+------------------------------------------------------------
+----------------MCCMAGPAGSHNLEPLGP-HRTLQAL--YA-----VLVIVLVGM
+SLV---FGKL--VPVN---QEPPQPHQFPKYLRCYRCLLETKELGCLLGSDICLTPAGSS
+CI--TLHIKNS--------SGSDVMVSDCRS-------KEQMSDC-------SYTRTSPV
+FGFWIFSQC---------CFL-----DFCNDPQNRALYTP--------------------
+------------------------------------------------------------
+----------------
+>ENSPTRP00000030676 ENSPTRG00000017976	150	LY6G5C	lymphocyte antigen 6 family member G5C	Pan_troglodytes	13B
+------------------------------------------------------------
+----------------MRFMAGPAGSQSLGPLCF-HSSPQAL--YT-----VLLIVLVMM
+SLV---FGKF--VPVN---WEPPQPLPFPKYLRCYRCLLETEELGYLLGSDICLTPAGSS
+CI--TLHIKNS--------SGSDVMVSDCRS-------KEQMSDC-------SNTRTSPV
+SGFWIFSQC---------CFL-----DFCNDPQNRGLYTP--------------------
+------------------------------------------------------------
+----------------
+>ENSPANP00000016721 ENSPANG00000022234	150	LY6G5C	lymphocyte antigen 6 family member G5C	Papio_anubis	13B
+------------------------------------------------------------
+----------------MRFMAGPAGSQNPGPMCF-HSSLQAL--YT-----VLLIVLVMM
+SLV---FGKF--VPVN---WERPQPLPVPKYLRCYRCLLETKELGCLLGSDTCLTPAGSS
+CM--TLHIKNG--------SNSDVMVSDCRS-------KEQMSDC-------SNTQTSPV
+SGFWIFSQC---------CFL-----DFCNDPQHRGHYIS--------------------
+------------------------------------------------------------
+----------------
+>ENSPPYP00000018393 ENSPPYG00000016449	147	LY6G5C	lymphocyte antigen 6 family member G5C	Pongo_abelii	13B
+------------------------------------------------------------
+-------------------MAGPAGSQSLGPLCF-HSSPQAL--YT-----VLLIVLVMM
+SLV---FGKF--VPVN---WEPPQPLPFPKYLRCYRCLLETKELGCLLGSDICLTPAGSS
+CI--TLHIKNS--------SGSDIMVSDCRS-------KEQMSDC-------SNTRTSPV
+SGFWIFSQC---------CFL-----DFCNDPQNRGLYTP--------------------
+------------------------------------------------------------
+----------------
+>ENSTGEP00000036899 ENSTGEG00000029386	200	LY6G5B	lymphocyte antigen 6 family member G5B	Theropithecus_gelada	13A
+------------------------------------------------------------
+-----------------------------------------------MKAHILVGVLVMV
+GFTVG------------------KV-PVPDIRTCHFCLLEDPSVGCISGSEKCTISSSSP
+CMVITIYYD----------VKVRFIIRGCGQYY--------SYRC-------QEKRNTYF
+VEYWYQAQC---------CQY-----DYCNSWSSPQLQSFLPEPH------DRPLALPLS
+DSQIQWFYQALNLSLPVPNFHAGKEP-DG---LDPVVTLPLNLGLSFAELRRMYLFLNSS
+GLLLLPQPGL-TPHPS
+>ENSTGEP00000036900 ENSTGEG00000029387	150	LY6G5C	lymphocyte antigen 6 family member G5C	Theropithecus_gelada	13B
+------------------------------------------------------------
+----------------MRFMAGPAGSQNPGPMCF-HSSLQAL--YT-----VLLIVLVMM
+SLV---FGKF--VPVN---WERPQPLPVPKYLRCYRCLLETKELGCLLGSDTCLTPAGSS
+CM--TLHIKNG--------SNSDVMVSDCRS-------KEQMSDC-------SNTQTSPV
+SGFWIFSQC---------CFL-----DFCNDPQHRGHYIS--------------------
+------------------------------------------------------------
+----------------
+>ENSLAFP00000026637 ENSLAFG00000030266	194	no_data	no_data	Loxodonta_africana	13A
+------------------------------------------------------------
+-----------------------------------------------MRVHMLTGMLVMV
+GFSAE------------------KV-PVPEVRTCHFCLLEDPAVGCISGSEKCTINSLSP
+CMVITIYYD----------LKPRFIIRACGQYN--------SYHC-------REQRSTYF
+LKYWYQAQC---------CQY-----DYCNSWSSPQLQSPPSEPP------HRLLALPLS
+KFQSQRFYQALNLSLPLPSFHAGMEP-EG---LDLLATLPLSLGLSIADLRHTYLFLNKS
+GLLVLPRAG-------
+>ENSLAFP00000018411 ENSLAFG00000031499	148	LY6G5C	lymphocyte antigen 6 family member G5C	Loxodonta_africana	13B
+------------------------------------------------------------
+-------------------MAGCAGSRSLGLLGL-RSTSQGL--CM-----VLLLVLVMK
+SLVFDGPSVL--VLPTLL-----TVLTQSLLNHCCISLTPSPSLPCSMAGDSLSTPYPSR
+ILEVTLIFGP--------GSSTDIMVSDCRR-------KEQMSDC-------SYTRTSPV
+FGFWIYSRC---------CFL-----DFCNDPQSRAIY----------------------
+------------------------------------------------------------
+----------------
+>ENSCCNP00000010832 ENSCCNG00000011255	194	Ly6g5b	lymphocyte antigen 6 family member G5B	Castor_canadensis	13A
+------------------------------------------------------------
+-----------------------------------------------MKACMLVGVLVMV
+GFAVG------------------KVPPVSEVRTCHFCLLEDPSVGCISGLEKCTISSSSP
+CMVITIYYD----------VKVRFNIRGCGQHN--------SYRC-------QEKRNTYF
+SEYWYQAQC---------CQY-----DYCNSWTSAQRHSFLTEPP--------ERPLPLS
+NSQAHWFYQALNLSLPLPSFHAGKET-EG---LDPLVTLPLDLGLSIANLRHIYLFLNSS
+GLLVLPRGEP------
+>ENSCCNP00000010829 ENSCCNG00000011248	144	Ly6g5c	lymphocyte antigen 6 family member G5C	Castor_canadensis	13B
+------------------------------------------------------------
+----------------MHFMAGPAENQSLGPLGL-YSTHRFL--YA-----ALLLVLVMI
+NLV---FGKH--VPAQ---APQ---PQFPKYLHCYRCVLETKELGCLLGSDICLTPAGSS
+CI--TLHIKNS--------SGSDIMVSDCRS-------KEQMSDC-------SYTRPSPV
+FGFWIFSQC---------CFR-----NFCNNPQNRVH-----------------------
+------------------------------------------------------------
+----------------
+>ENSCPOP00000027714 ENSCPOG00000032497	195	no_data	no_data	Cavia_porcellus	13A
+------------------------------------------------------------
+-----------------------------------------------MEGSMLVDLLVLV
+GFALG------------------KV-PDPEVRTCHFCLLEDPLVGCISGSEKCTISSPAP
+CMVISIFHD----------VKVRFNIRGCGQVN--------SYRC-------QEKRNTYF
+SHYWYQAQC---------CQY-----DYCNSWASPQLQSALPEPS------ARPPALPLS
+RTQARRFYQALNLSLPLPSLSAGKKS-RKPATPGP---LPLALGLSVANLRRLYLFFNSS
+GVLILPRART------
+>ENSCPOP00000009693 ENSCPOG00000010796	141	LY6G5C	lymphocyte antigen 6 family member G5C	Cavia_porcellus	13B
+------------------------------------------------------------
+-------------------MS---SEPLSRASGP-RSASQAL--YK-----MLLTVLVMV
+NLM---VGKL--VVPN---P---QPPPLPKYLRCYRCLFETKELGCLLGSDICLVPEGSS
+CI--TVHIRNA--------SGSDIMLSDCRG-------RERMQDC-------THTRPAPV
+AGFWVFSQC---------CFV-----NFCNDPHNRETYLH--------------------
+------------------------------------------------------------
+----------------
+>ENSCLAP00000019584 ENSCLAG00000013439	219	no_data	lymphocyte antigen 6 family member G5B	Chinchilla_lanigera	13A
+------------------------------------------------------------
+------------------MVP---GKWAFRAPHRNRCC-----PHSAMKGYVLVDVLVVV
+GFALG------------------KA-PVPEVRTCHFCLLEDPFVGCISGSEKCTTSSSSP
+CMVISIYYE----------IKVRFNIRGCGQIN--------SYRC-------QEKRHTYF
+AQYWYQVQC---------CQY-----DYCNSWASPQLQSSLPEPS------EGPLALPLS
+DAQARRFYHALNLSLPLPSVHVGKEP-EGLGPQDPLATLPLALGLSLADLRHVYLFFNSS
+GLLVLPRAGS------
+>ENSCLAP00000018006 ENSCLAG00000012352	123	LY6G5C	lymphocyte antigen 6 family member G5C	Chinchilla_lanigera	13B
+------------------------------------------------------------
+---------------------------------------------------MLLIALLTT
+SLV---FGEL--VHPN---PNPPQQPPLRRYLRCYRCLFETKELGCLLGSDICLMPEGSS
+CI--TLHIRNA--------SGSDIMVSDCRR-------REQMDDC-------TDTRPAPV
+FGFWIFSHC---------CFM-----NFCNDPHNRESYLQ--------------------
+------------------------------------------------------------
+----------------
+>ENSSTOP00000030118 ENSSTOG00000031349	195	no_data	lymphocyte antigen 6 family member G5B	Ictidomys_tridecemlineatus	13A
+------------------------------------------------------------
+-----------------------------------------------MKAYMLVDVLIMV
+AFTVG------------------KG-PVPQVRTCHLCLLEDPSVGCISGSEKCTISSLSP
+CMVITIYIN----------NKVRFIIRGCGQYN--------SYRC-------QEKHSTYL
+AGYWYEAQC---------CQY-----DYCNAWFSPQLQSSLPESR------KRPIIRPLS
+NPQIHQFYQALNLSLPLPSFDAGKEP-KG---QETLFTLPLELGLSIADLRHMYLFLNSS
+RVLVLPQAGP------
+>ENSSTOP00000011661 ENSSTOG00000013012	144	LY6G5C	lymphocyte antigen 6 family member G5C	Ictidomys_tridecemlineatus	13B
+------------------------------------------------------------
+-------------------MAGFSGSLSLGPLSL-HSIPQSL--YS-----IFLIVMVMM
+SLV---FGKL--VPDN---PGPPQPPHLPKYLRCYRCLFETKELGCLLGSDICLTPVGSS
+CF--TLHIKNS--------SGSDILVNDCRS-------QEQMSDC-------SYTHSSPV
+SGFWIYSQC---------CFL-----DFCNDPKNKVL-----------------------
+------------------------------------------------------------
+----------------
+>ENSMOCP00000000780 ENSMOCG00000000609	114	no_data	no_data	Microtus_ochrogaster	13A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-MVSTIYHC----------------VCFHAHYG--------SYRC-------KEKCITHH
+SDYCCKADC---------SQY-----DCCN-WSSAQLRSPL-----------RHLALPLS
+ESQIHRFFQALNLSFPDP------------------FTPPLELGVSTGDLRQIHLFLNSS
+GLKALPQARP------
+>ENSMUSP00000052133 ENSMUSG00000043807	194	Ly6g5b	lymphocyte antigen 6 complex, locus G5B	Mus_musculus	13A
+------------------------------------------------------------
+-----------------------------------------------MRARVLVGMLTMV
+GFAMG------------------KA-PVARVRTCHLCLLEDPSLGCISGSEKCTISLPSP
+CMVITIYKN----------TTVRFHVRGCGQHH--------SYRC-------QERHVIYQ
+SDYLYKADC---------CQY-----DYCNSWSSAQHQSTLRGSP------GSHLGMPLS
+ASQIKQFYQALNLSLPQPGFHAHKVS-EGL---ES-LILPPELGLSIADLRQIYLFLNSS
+GLLVLPWDRP------
+>ENSMUSP00000039151 ENSMUSG00000034482	149	Ly6g5c	lymphocyte antigen 6 complex, locus G5C	Mus_musculus	13B
+------------------------------------------------------------
+----------------MLFMAGPAASWSLRPLGL-HGVPQAL--CA-----VLLTVLVMK
+TLVLGDTK---------LEDLHPQSLPLNKYLNCYRCLLETEELGCLLGSDTCLTPLGSS
+CV--TLHIKNS--------SGFNVMVSDCYS-------KEQMVHC-------SYTRASPV
+FGFWIFYQC---------CFL-----DFCNNPDNRKNSMH--------------------
+------------------------------------------------------------
+----------------
+>ENSODEP00000024190 ENSODEG00000017707	195	no_data	lymphocyte antigen 6 family member G5B	Octodon_degus	13A
+------------------------------------------------------------
+-----------------------------------------------MTGCVLASVLVLV
+GFALG------------------KA-PVSEVRTCHFCLLEDPSVGCISGPEKCTVSSSSP
+CMVISIYYK----------VKVRFNIRGCGQIN--------SYRC-------QEKRNTYF
+SQYWYQVQC---------CQY-----DFCNSWASPQLQGPLPEPS------AEPPALPLS
+DTQARQFYQALNLSLPLPGVHAGKEP-KGMGPPVP---LPLALGLSLADLRRVYLFFNSS
+GLLVLPRTRS------
+>ENSODEP00000024126 ENSODEG00000017654	138	LY6G5C	lymphocyte antigen 6 family member G5C	Octodon_degus	13B
+------------------------------------------------------------
+------------------------AGCRIGAPGL-PQCFANL--CK-----MRFTVLVTV
+SLV---LGKL--VLPN---PNPPQPPPLPKYLRCYRCLFETKELGCLLGSDICLMPEGSS
+CI--TLHIRNT--------SGSDIMVSDCRR-------REQMGDC-------AYTRPAPV
+FGFWIFSHC---------CFV-----NFCNDPQNRE------------------------
+------------------------------------------------------------
+----------------
+>ENSPEMP00000003439 ENSPEMG00000004879	141	no_data	no_data	Peromyscus_maniculatus_bairdii	13B
+------------------------------------------------------------
+-------------------MA----SQNQRSSGY-RSRHGGA--DT-G---WRQVGLHHS
+TSS---L------GNTVLAEGASRPPPLTRYLHCYHTLE--SRVGGLLGLALHLAPLGSS
+FV--TLHVKNS--------DGFNVTVNNCRS-------REQMNDC-------SRTPASLV
+FGFWIVYRC---------CFL-----DFCNNPTDRKTTMR--------------------
+------------------------------------------------------------
+----------------
+>ENSRNOP00000032293 ENSRNOG00000027516	194	Ly6g5b	lymphocyte antigen 6 family member G5B	Rattus_norvegicus	13A
+------------------------------------------------------------
+-----------------------------------------------MRACVLVHVLTMV
+GFALG------------------KA-PVASVRTCHLCFLEDPSIGCISGSEKCTISSSSP
+CMVITIYQN----------VKVRFHVRGCGQHH--------SFRC-------QENHVIYY
+SDYWYRVNC---------CQY-----DYCNSWSSAQHQSTLPGPP------GNHLGVPLS
+ESQIKQFYQALHLPLFQPDLHTHKVS-EGP---DS-LILPPGLGLSIADLRKIYLFLNSS
+GLLVLPQARP------
+>ENSRNOP00000001122 ENSRNOG00000000846	148	Ly6g5c	lymphocyte antigen 6 family member G5C	Rattus_norvegicus	13B
+------------------------------------------------------------
+----------------MPFMSGLAASWSLKPLGP-HGVTQAL--CA-----VLLAVLVTM
+NVVLGDNL----------LDIPSQSPPLNQYLHCYRCLLETEELGCLLGSDTCLTPLGST
+CV--TLHIKNS--------SGFNVMVSDCRN-------KEQMVDC-------SYTRASPV
+FGFWIFYQC---------CFL-----DFCNNPKNRKNTMH--------------------
+------------------------------------------------------------
+----------------

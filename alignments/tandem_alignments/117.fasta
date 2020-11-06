@@ -1,0 +1,2020 @@
+>ENSATEP00000007075 ENSATEG00000004974	222	no_data	no_data	Anabas_testudineus	117A
+------------------------------------------------------------
+-----------------------------------------------M------------
+-----------FLCVCVC--VCAELCPD-NTVIQAEIVDQHNAFRRGVKPPASNMVKM--
+--------VAASAQAWVDQCILNHGPPS-----TRMLN-GYQLGENLFYAFEPYAWKDVV
+DAWHSEVVHYTYPNGSA------DGQSIGHYTQVVWNTSYKVGCGMTLCS----NVYYY-
+-----GCHYYRA----------------------------------------GNFRRW--
+-----------------PPYEVGPPCGSCPNACEDNLC-TN---PCPYIDHFI-------
+----NCPT-LART-TGCRN---WLVYA--WCPA----------SC-------KC-----I
+ENEIIPIGKR--------------------
+>ENSORLP00000020673 ENSORLG00000016514	235	no_data	cysteine-rich venom protein pseudecin-like	Oryzias_latipes	117A
+------------------------------------------------------------
+-MLVA---------------------------------LVCILTLQGV------------
+-----------RS---AC--VLADICPE-DTAVQAEIVDVHNAFRRAVEPPAADMLMM--
+-S--YSEELAVSAQAWVDKCVLDHGPPS-----SRMLN-GYELGENLFYSTSPMLWKSII
+NAWYKEVSHFAFPNAST------NGKPVGHYTQVVWNSSYKVGCGVTLCSN---NIYLY-
+-----GCHYYRA----------------------------------------GNFKRW--
+-----------------PPYKVGTPCASCPNDCVDKLC-TN---PCPYINRFL-------
+----NCPA-MKAL-GGCQN---PRVSS--WCPA----------SC-------KC-----S
+-SEIIPVY----------------------
+>ENSGWIP00000014852 ENSGWIG00000008341	214	no_data	serotriflin-like	Gouania_willdenowi	117A
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------ETKLLT-SSAEQTEIVNKHNTLRRGVSPSASNMLIM--
+-S--WNREASANAQRWANKCTMKHSPES-----EREIS-TSGCGENLYMSTDKDTWSEAI
+QSWYDEVKNWRYG-VGSV-----NGGVVGHFTQLVWYRSNQIGCAMAHCS-NARYKYFY-
+-----VCHYCPP----------------------------------------GNEQ----
+---------------YSHPYKSGRACGDCPKACDNKLC-TN---PCPYIDKYS-------
+----NCPE-LKEQ-LGCSN---KDVAS--WCPA----------SC-------KC------
+TNHIN-------------------------
+>ENSGWIP00000014825 ENSGWIG00000008329	220	no_data	no_data	Gouania_willdenowi	117B
+------------------------------------------------------------
+---------------------------------MYNLTFLCVLGLFAVLQ-----VPGTW
+---------------------------------QTEIVNKHNTLRRGVSPSASNMLKM--
+-S--WNREASANAQKWANKCTMKHSPSS-----ERKIS-TSGCGENLYMSSYKNTWSGAI
+QSWYDEVKDWRYG-VGSV-----NGGVVGHFTQIVWYRSNQIGCAMAHCP-NARYKYFY-
+-----VCHYCPP----------------------------------------GNTQ----
+---------------FHHPYKSGPACGDCPKACDNKLC-SK---SLDIRKISF-------
+----GLSE-LKTN-DLIRFIFRLKLYT--YSRN---------------------------
+------------------------------
+>ENSSFAP00005018506 ENSSFAG00005009754	243	no_data	cysteine-rich venom protein TEL1-like	Salarias_fasciatus	117B
+------------------------------------------------------------
+---------------------------------MYTFSFLCALGLVAALG-----VPSTL
+---------ASEE-R-----MEIATIQT-TSTEQNEIVNKHNSLRMAVHPTATNMLKM--
+-S--WNNEAAVNAQRWANTCSMKHSTPS-----DREIS-SSGCGENLYMSSSRNSWSNAI
+QSWYDEVKNWRYG-VGSV-----NRGVVGHYTQVVWYNSHKVGCAMAYCP-NSTYKYFY-
+-----VCQYCPP----------------------------------------GNYQ----
+---------------YTHPYTSGSSCGECPNACDNKLC-TN---PCPYTDQYS-------
+----NCPE-LKEQ-HTCSH---TSVAS--WCPA----------SC-------KC------
+TNQIV-------------------------
+>ENSENLP00000018426 ENSENLG00000008465	235	no_data	cysteine-rich venom protein-like	Echeneis_naucrates	117A
+------------------------------------------------------------
+-MFAF---------------------------------IICILTLQEV------------
+-----------HSACN-----VADICPE-NTKVQTEIADKHNAFRRAVQPTASDMLRM--
+-D--YSAEVAVSAQAWVDRCILAHGAPS-----TRMLN-GYELGENLFYASTPMSWTAVI
+GAWHSEVSFYLYPNGST------NGHAIGHYTQVVWNSSYKVGCGMKLCYD---NIYLY-
+-----GCHYYRA----------------------------------------GNFYKW--
+-----------------PPYKAGPPCASCPDACQDNLC-NN---PCPHINKYL-------
+----NCPN-LKKI-FGCSN---KLVSA--WCPA----------SC-------EC-----T
+-SRIIPVS----------------------
+>ENSSDUP00000015653 ENSSDUG00000011417	223	no_data	no_data	Seriola_dumerili	117A
+------------------------------------------------------------
+-LLV-----------------------------------------FVV------------
+-----------VVVVA-----VVQILPQ-NPTVQAEIVDKHNAFRRAVEPTASDMLMM--
+-N--YSEEVAVSAQAWVDKCILAHGAPS-----TR-----YELGENLFYSSSPYSWTDII
+SAWHSEVSHYLYPNGST------NGQPIGHYTQVVWNSSYRVGCGATLCPN---NIYFY-
+-----GCHYYRA----------------------------------------GNFRSW--
+-----------------PPYKAGPPCASCPNACEDKLC-TN---PCPYINKFI-------
+----NCPA-LKDI-YGCKN---KLVYD--WCPA----------AC-------KC-----T
+-NEIIAVA----------------------
+>ENSAMXP00000030474 ENSAMXG00000031919	247	no_data	no_data	Astyanax_mexicanus	117A
+------------------------------------------------------------
+-MFVW---------------------------------SVCLLALMQ-------------
+VCMLAPA--TLAQVSSSCSV-PADICTD-VTSVQDEIVNLHNVFRRGVSPSATNMLKM--
+-N--WSREAAVSAQNWANTCSMVHGDPS-----TRMLG-TYQMGENLFKSTGMVKWTSVV
+TAWHNEVANYVYPTGSA------NTQPIGHYTQVVWYSSYSVGCGAAKCGS----NYFY-
+-----VCHYYRA----------------------------------------GNFKGV--
+-----------------APYTQGQSCAACPGACDDKLC-TN---PCPHVNKYS-------
+----NCAS-LVAA-LKCTY---PRMTD--WCPA----------SC-------LC-----S
+-GKIIPVGK---------------------
+>ENSPNAP00000022216 ENSPNAG00000029548	207	no_data	cysteine-rich venom protein-like	Pygocentrus_nattereri	117A
+------------------------------------------------------------
+------------------------------------------------------------
+GITFIFI--TV----------ILAISDGGRDFQSEEIVNLHNAFRRSVVPQASNMLKM--
+-VEE-------NLERWSSYLF-------------CEPA-AYEMGENLFKSTGMFAWTAVV
+TAWHSEVVDYEYPTGSI------NGEPIGHYTQVIIFCPG------AYKGS---KYSIV-
+-----VCV--YR----------------------------------------GNFKGV--
+-----------------PPYSKGEPCSACPDACEDGLC-TN---PCPYIDRYA-------
+----NCPS-IKED-YTCED---DIVKK--YCPA----------IC-------LC-----E
+-NKVIPIAKK--------------------
+>ENSACLP00000034441 ENSACLG00000023325	229	CRISP2	cysteine rich secretory protein 2	Astatotilapia_calliptera	117A
+------------------------------------------------------------
+----------------------------------------------LFILKV--LFPCS-
+----L-C--F----------GSLPLWLT-TTTEKNEIVNKHNTLRGNVQPTASNMLKM--
+-V--K---LRTTAQRWANTCSMKHSPAS-----DRVIS-TSGCGENLYMSSFQNTWSNAI
+QSWYDEVKDFSYGVGSI------NGGVVGHYTQVVWYRSNQIGCAMAYCPNS-AYKYFY-
+-----VCHYCPP----------------------------------------YLINKA--
+---------------NLKLLSPHQLNAYYVLYAFLSLA-AN---PCPFSDKYS-------
+----NCPQ-LKQQ-WGCNN---PTVAS--WCPA----------SC-------KC-----T
+-NQII-------------------------
+>ENSHBUP00000031641 ENSHBUG00000017430	235	CRISP2	cysteine-rich venom protein-like	Haplochromis_burtoni	117A
+------------------------------------------------------------
+-------------------------------MTFYTFLLLCALGLTAVLQ-----VPGTL
+-------------------------GVT-TTTEKNEIVNKHNTLRGNVQPTASNMLKM--
+-N--WNNESEATAQRWANTCSMKHSLAS-----DRVIS-TSGCGENLYMSSFQNTWSNAI
+QSWYDEVKDFSYG-VGSI-----NGGVVGHYTQVVWYRSNQIGCAMAYCP-NSAYKYFY-
+-----VCHYCPP----------------------------------------GNYQ----
+---------------LTQPYKKGPSCGDCPNACENNLC-TN---PCPFSDKYS-------
+----NCPQ-LKQQ-WGCNN---PNVAS--WCPA----------SC-------KC------
+TNQII-------------------------
+>ENSMZEP00005037562 ENSMZEG00005028016	235	CRISP2	cysteine rich secretory protein 2	Maylandia_zebra	117A
+------------------------------------------------------------
+----------------------------------------CISSCLLFILKV--LLPCS-
+----L-C--F----------GSLPLWLT-TTTEKNEIVNKHNTLRGNVQPTASNMLKM--
+-V--K---LRTTAQRWANTCSMKHSPAS-----DRVIS-TSGCGENLYMSSFQNTWSNAI
+QSWYDEVKDFSYGVGSI------NGGVVGHYTQVVWYRSNQIGCAMAYCPNS-AYKYFY-
+-----VCHYCPP----------------------------------------YLINKA--
+---------------NLKLLSPHQLNAYYVLYAFLSLA-AN---PCPFSDKYS-------
+----NCPQ-LKQQ-WGCNN---PTVAS--WCPA----------SC-------KC-----T
+-NQII-------------------------
+>ENSNBRP00000028054 ENSNBRG00000021378	260	no_data	cysteine-rich venom protein-like	Neolamprologus_brichardi	117A
+-----------------------------------------------------MLSCLHL
+VMFTV-----P--CSLCFGSLPLWRHYVHSSQLFPHMSPLPLITSCVLIC-----FNCFH
+-------------------------LVT-TTTEKNEIVNKHNTLRRNVQPTASNMLKM--
+-N--WSNEAEANAQRWANTCSMKHSPA------------TSGCGENLYYSSFQNTWSNAI
+QSWYNEVKDFSYG-VGST-----NGGVVGHYTQVVWYRSNQIGCAMAYCP-NSKYKYFY-
+-----VCHYCPP----------------------------------------GNYQ----
+---------------LTQPYKKGPSCGDCPNACENNLC-TN---PCPFSDKYS-------
+----NCPQ-LKQQ-WGCNH---PDVAS--WCPA----------SC-------KC------
+TNQII-------------------------
+>ENSONIP00000007636 ENSONIG00000006063	245	CRISP2	cysteine-rich venom protein Cau1	Oreochromis_niloticus	117A
+------------------------------------------------------------
+-----------------MQSLTG----LESTMLFYTFPLLCALGLTAVLQ-----VPGTL
+-------------------------GVT-TTTEKNEIVNKHNALRRNVQPTASNMLKM--
+-N--WNNEAEATAQRWANTCSMGHSPAS-----YRVIS-TSGCGENLYYSSFQNTWSNVI
+QSWYDEVKDFSYG-VGSI-----NGGVVGHYTQVVWYRSNQIGCAMAYCP-NSAYKYFY-
+-----VCHYCPP----------------------------------------GNYQ----
+---------------FTQPYKKGPSCGDCPNACENNLC-TN---PCPFSDKYN-------
+----NCPE-LKQQ-WGCSH---PDVAS--WCPA----------SC-------KC------
+TNQII-------------------------
+>ENSPNYP00000030678 ENSPNYG00000023117	255	CRISP2	cysteine rich secretory protein 2	Pundamilia_nyererei	117A
+------------------------------------------------------------
+-------------------MIHAYWLKKLTAL------LECMAEWLTEGWTV--LIPKDP
+QKRLS-P--S----------NDWPITLT-TTTEKNEIVNKHNTLRGNVQPTASNMLKM--
+-V--K---LRTTAQRWANTCSMKHSPAS-----DRVIS-TSSCGENLYMSSFQNTWSNAI
+QSWYDEVKDFSYGVGSI------NGGVVGHYTQVVWYRSNQIGCAMAYCPNS-AYKYFY-
+-----VCHYCPP----------------------------------------YLINKA--
+---------------NLKLLSPHQLNAYYVLYAFLSLA-AN---PCPFSDKYS-------
+----NCPQ-LKQQ-WGCNN---PTVAS--WCPA----------SC-------KC-----T
+-NQII-------------------------
+>ENSCHAP00000042015 ENSCHAG00000019587	246	no_data	no_data	Clupea_harengus	117A
+------------------------------------------------------------
+---------------------------------AAMFSITFVLTVITLLQ-----VPATW
+---------GEVNAQ---------LNTN-NIAVQEDIVNKHNELRRSVNPTASNMLKM--
+-G--WNSEVAASAQEWADTCAEKHSTPS-----ERKIS-TSGCGENLFFSSAPLPWDEAI
+QAWFNEDKHYKYG-HGPI-----GNATVGHFTQLVWYRSNELGCGVANCP-DSGFAYFY-
+-----VCHYCPA----------------------------------------GNIFFAGH
+-------------NGYAHPYKEGPPCGDCPDACDKGLC-TN---PCPYSDKYG-------
+----NCPQ-FAKA-WGCGN---KNIAD--WCPA----------SC-------KC------
+DGKIM-------------------------
+>ENSDCDP00000019172 ENSDCDG00000015373	229	no_data	cysteine-rich venom protein ENH1-like	Denticeps_clupeoides	117A
+------------------------------------------------------------
+---------------------------------------------KILIT----------
+MLLLLSI--TLFHMCTACNVVS--------TATQQEIVDQHNNFRRVVKPSASNMLKM--
+-T--WSQTVADSAQQWVNQCQLTHGPVS-----S------YQCGENLFLASKPYSWTEVI
+TAWHSEVQNYHFPTGST------NGQPIGHYTQVVWYSSYQVGCGAAQCGN----LYFY-
+-----GCQYFRA----------------------------------------GNFKGI--
+-----------------APYTAGEPCAECPNSCEDNLC-TN---PCPYINKYL-------
+----NCPA-LKRQ-GGCGN---YFVRT--WCPA----------LC-------EC-----T
+-DKIIPISRK--------------------
+>ENSDCDP00000019475 ENSDCDG00000015435	261	no_data	cysteine-rich venom protein ENH1-like	Denticeps_clupeoides	117B
+-------------------MYEF--YPKVRC------IKKK-------------------
+-KNFY---------------------------------QSCLIKLSKILI----------
+MMLLLFI--TLFHMCTACNVVSVYLYTK-LTATQQEIVDQHNNFRRLVQPSASNMLRM--
+-K--WDNTLADSAQQWVNQCQLTPSPVS-----GT----SLFYGENLFLASKPCSWTEVV
+TAWHSEVKNYQFPTGST------NGRPIGLYTQVVWYSSYQVGCGAAQCGN----LYFY-
+-----ACQYLRA----------------------------------------GNFKGI--
+-----------------APYTAGEPCAECPNSCEDNLC-TN---PCPYIDKSS-------
+----NCPT-LKLQ-EGCNS---SFMRT--WCPA----------LC-------EC-----T
+-DNHPNFK----------------------
+>ENSCARP00000046723 ENSCARG00000019495	235	no_data	no_data	Carassius_auratus	117A
+------------------------------------------------------------
+-------------------------------------------LFLFLLL----------
+LLLLLLL--VLLLLCSIC--------TD-LPSVQQEIVDVHNAFRRAVVPTASNMLKM--
+-S--WSDAVAQSAQSWIDQCNITHGPPS-----SRMID-GYETGENLFKASEDYSWTKVI
+NAWHSEVNNYEYPTGST------NGLSIGHYTQVVWYSSYEVGCAVAKCGN----SYFY-
+-----GCHYYRA----------------------------------------GNFRGV--
+-----------------PPYSQGEPCAACPGNCEDGLC-TN---PCPYINTFS-------
+----NCDE-LKEI-ATCDH---SFVSE--YCPA----------SC-------LC-----E
+-DKIHPIARK--------------------
+>ENSCVAP00000003076 ENSCVAG00000006874	271	CRISP3	cysteine-rich venom protein TEL1-like	Cyprinodon_variegatus	117B
+---------------------MF--KDRNKPKE-VISV------------------VFEC
+HTFFLLLLNIKVHLVITTGISQVWCYLI---F------GCCLKNWNGLEFAPINVPPAGP
+QLCLRIN--RHHVSSLRSLHPRPCAIRA-TSAEQTEIVNKHNTLRRGVNPTASNMMKM--
+-S--WNKEAAANAQAWAATCSMQHSSSS-----SREI--TSGCGENLYMSSSKNTWSNAI
+QTWYNEVKDYRYGVGST------NGGVVGHYTQVVWAKSNQVGCAMAYCPNS-KYKYFY-
+-----VCHYCPP----------------------------------------CRSEIL--
+---------------LLPSLH---FS----LILLLLF-------FFQPNDQYS-------
+----NCPE-LKQQ-----------------------------------------------
+------------------------------
+>ENSFHEP00000020063 ENSFHEG00000022008	198	CRISP2	cysteine rich secretory protein 2	Fundulus_heteroclitus	117A
+------------------------------------------------------------
+------------------------------------------------------------
+---------TLPSLIVFLLSLLPLSLKS-YSLQFNEIVNKHNTLRRGVQPTASNMLKM--
+-R--WNNEAGSNAAKWAAKCTMSHSPA------------TSGCGENLYMASWKNSWSNAI
+QSWYNEVKDFRYG-VGSV-----NGGVVGHYTQVVWHNSNQIGCAMAYCP-NSQYKYFY-
+-----VCHYCPP----------------------------------------GNYQ----
+---------------LARPYKSGPSCSDCPGACDNKLC-SK---CKNIQGCCL-------
+----SCLF-TLDS-----------------------------------------------
+------------------------------
+>ENSKMAP00000020197 ENSKMAG00000015004	229	no_data	cysteine-rich venom protein-like	Kryptolebias_marmoratus	117A
+------------------------------------------------------------
+-------------------------------------------TPRSL------------
+-----------AIPLFTP--RQSHVCPE-STTVQAEIEDVHNAFRRAVEPPAADMLKM--
+-T--YSEELAVSAQAWVDRCILSHGPRS-----TRLLD-GYELGENLYFSSSPSSWTEVI
+STWHAEKSHYLYPDVST------NGQPIGHYTQVVWSGSYQVGCGVTRCPD---DIYFY-
+-----GCHYKRA----------------------------------------GNFKTW--
+-----------------TPYKVGQPCASCPNDCVDQLC-TN---PCPYINGFI-------
+----NCPD-LKIR-NGCNN---PLVSK--WCPA----------SC-------NC-----T
+-TEIIPIY----------------------
+>ENSPREP00000005901 ENSPREG00000004098	201	no_data	no_data	Poecilia_reticulata	117A
+------------------------------------------------------------
+------------------------------------------------------------
+------------N---LL--FTHRFLMC-NTTVQAEIVNVHNAFRRAVEPAAADMLMM--
+-V--VL-------------------PCV-----SLHYP-GYELGENLFYSSSPSSWTTVL
+TAWHNEKSHYLYPNGST------NGQPIGHFTQVVWNSSYKVGCGLALCPN---NIYFY-
+-----GCHYFRA----------------------------------------GNFKRW--
+-----------------PPYKVGTSCASCPNNCVDKLC-TN---PCPYINTFI-------
+----NCPR-LKVL-SGCSN---PLVFA--WCPA----------SC-------KC-----T
+-TEIMPIY----------------------
+>ENSXMAP00000018692 ENSXMAG00000018655	235	no_data	cysteine-rich venom protein-like	Xiphophorus_maculatus	117A
+------------------------------------------------------------
+-MFVI---------------------------------LICILTLQDV------------
+-----------HT---AC--VLTDVCPE-NTIVQAEIVNVHNAFRRAVEPAAADMLMM--
+-T--YSLELAASAQAWVDKCTLSHGPAS-----TRLLD-GYELGENLFSSSSPSSWTTVV
+TTWHNEKSRYLYPNGST------NGKPIGHYTQVVWNSSYKVGCGLALCPN---NMYYY-
+-----GCHYFRA----------------------------------------GNFKRW--
+-----------------PPYKVGTSCASCPNNCVDKLC-FN---PCPYVNTFI-------
+----NCPR-LKDV-KGCNN---PLVFA--RCPA----------SC-------KC-----T
+-TEIVPIY----------------------
+>ENSELUP00000021694 ENSELUG00000020741	206	no_data	no_data	Esox_lucius	117A
+------------------------------------------------------------
+--------------------------------MATITLFISVVGLLAFLK-----PYCS-
+---------------------LADTNTR-NPAVQKEIVDLHNDLRRAVQPPARDMLQM--
+-S--WNREAAANAKKWANRCIPGHSPPD-----QRRIR-TSGCGENLFMSTNERPWTSAI
+QSWHSEVKDYNYDSNRSL-----NGKVVGHYTQVVWATSKEIGCGVAHCP-NSVWKYIY-
+-----VCQYCPP----------------------------------------GNYI----
+---------------GEKPYKAGSRCADCPNNCQGGLC-QS---STGGTGIL--------
+------------------------------------------------------------
+------------------------------
+>ENSELUP00000060541 ENSELUG00000026105	200	no_data	cysteine-rich secretory protein 2-like	Esox_lucius	117B
+------------------------------------------------------------
+--------------------------------MATMTLFISVVGLLALLQ-----PYCL-
+---------------------LADTNTQ-NPAVQKEIVDLHNDLRRGVQPPARNMLQM--
+-S--WNNEAAINAQKWANQCTMSHSPAD-----QRRTS-TSGCGENLFMSTNERPWTSAI
+QSWYSEVNNYNYDSNGSI-----NGKVVGHYTQVVWATSKEIGCAVAKCP-NSVWKFYY-
+-----VCQYCPP----------------------------------------GNYV----
+---------------GRKPYNTGSRCADCPNNCQNGLC-QS---ST--------------
+------------------------------------------------------------
+------------------------------
+>ENSGMOP00000007663 ENSGMOG00000007190	209	no_data	no_data	Gadus_morhua	117A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------ICPT-DPAIENQIVDAHNAFRRAVQPSAANMLKM--
+-I--WSNDVAALSQAWLDHCMLKHGPPS-----SRMLN-GYELGENLFYSTSALDWATVI
+TAWHNEVQHYTYPNGSG------NGESVGHYTQVVWNSSWQVGCGMTKCG----SKYFY-
+-----GCQYYRA----------------------------------------GNYVGW--
+-----------------PPYKEGTACDSCPNNCEDKLC-TN---PCQYINRYL-------
+----NCPA-LKKE-AGCGN---HWVNL--WCLA----------EC-------KC-----P
+-NEII-------------------------
+>ENSNMLP00000026371 ENSNMLG00000016808	239	no_data	no_data	Neogobius_melanostomus	117A
+------------------------------------------------------------
+-----------------------------ITIRENIWTFISKTV--------------SV
+---------LNPESY-----RRLLRLTS-SATEQEEIVNKHNTLRREVKPTASNMLKM--
+-S--WSSEAAANAQRWADTCSMNHSPDS-----DRVIN-TSGCGENLYMASYKNSWSNAI
+QSWYDEVKDYEYG-VGSI-----NEGVIGHYTQVVWYRSNLIGCAMAYCP-NAEYKYFY-
+-----VCHYCPP----------------------------------------GNYQ----
+---------------YTHPYKSGPSCADCPNACDNKLC-TN---PCHYTDKYS-------
+----NCPQ-LKQQ-LGCSD---SDVAS--SCPA----------SC-------KC------
+TSEII-------------------------
+>ENSEEEP00000005604 ENSEEEG00000002642	228	no_data	no_data	Electrophorus_electricus	117A
+---------------------MI--WPLPLPQT-SVSLSLSL-----------SLSLCVC
+ACVCS---------------------------------LVCSATRSRVVD----------
+LILAVCN--RL-----VC-VYRYMICTN-LTSVQEEIVSVHSKMRRNVNPTASDMLQM--
+-S--WSKEVAASSQDWLFFCVFC------------EPE-GYQMGENLFQSTTPLTWTDVV
+TAWHSEYKNYKYGFGSI------NGKSIGHYTQVIILSISYTR--------------LS-
+-----IIAFVNR----------------------------------------GNFNGV--
+-----------------APYTEGVPCSACPQACEDKLC-SK----CHYTAYCL-------
+----PQRR-IEQ------------------------------------------------
+----IPL-----------------------
+>ENSMMDP00005008911 ENSMMDG00005003507	233	no_data	cysteine-rich venom protein-like	Myripristis_murdjan	117A
+---------------------------------------RK-------------------
+-MFVF---------------------------------LICILTLHTV------------
+-----------HS---------AYICTE-NPTVQAEIVDQHNAFRRAVEPTAADMLIM--
+-N--WSDEIAATAQAWVDKCILSHGPVS-----TRMLE-GYAMGENLFFASAPHMWTDVI
+NAWHSEVENYQYPNGST------NGKAIGHYTQVVWYSSYKVGCGAKLCPG---NIYFY-
+-----GCHYYRA----------------------------------------GNFRTV--
+-----------------APYKAGPPCASCPNSCENKLC-NN---PCPYINRFR-------
+----NCPA-LKKQ-HGCSN---TLVYA--WCPA----------EC-------KC-----N
+-NEIIAVG----------------------
+>ENSMMDP00005016219 ENSMMDG00005008205	238	no_data	no_data	Myripristis_murdjan	117B
+------------------------------------------------------------
+-------------------------SRVTVIVSKLSHTLLCVFLF---------------
+-------------LC-----FIIDTIMT-SASDQQEIVNKHNDLRRDVQPTASNMLKM--
+-S--WNSEAAANAQRWANTCSMSHSPAS-----SRQIS-TSGCGENLYMSSYKDTWSNAI
+QSWYDEVKDWRYG-VGST-----NGEVVGHYTQVVWYRSNQVGCGMAYCP-NSSYKYFY-
+-----VCQYCPP----------------------------------------GNYQ----
+---------------YAEPYKAGPSCGDCPHACDNKLC-TN---PCPYSDLYS-------
+----NCPD-LKQQ-WGCNN---KQVAS--WCAA----------SC-------KC------
+TTQII-------------------------
+>ENSSORP00005040574 ENSSORG00005018946	249	CRISP3	serotriflin-like	Sphaeramia_orbicularis	117B
+------------------------------------------------------------
+---------------------------------MTMYTFLCALGFLAALQ-----VPSLA
+---------ENGEPEVLPRMEAMDSVMA-STSDRNDILNKHNDLRRAVQPTASNMLKM--
+-S--WSAEAAANAQRWANTCSMKHSPDS-----ARTIS-TSGCGENLYMSSAKNPWSEAI
+QSWYDEVNNFRYG-TGSI-----NGGVVGHYTQVVWYRSNLLGCAMSYCP-NSRFKYFY-
+-----VCHYCPP----------------------------------------GNYQ----
+---------------LKRPYTAGRPCGDCPNACDNKLC-TN---PCPYADQYS-------
+----NCPE-LKEQ-WGCSN---SNVAS--WCKA----------SC-------KC------
+TDQII-------------------------
+>ENSLBEP00000028072 ENSLBEG00000021285	250	no_data	serotriflin-like	Labrus_bergylta	117A
+------------------------------------------------------------
+-------------------------------MTPYTLTFTWALALCAVLQ-----AFDWH
+---------PAPSNP-NNGTQGSGNNET-SSSEDVEIVNKHNDLRRNVQPSASNMLKM--
+-S--WSSEAAANAKRWADSCSMKHSRKS-----SRKIS-SSGCGENLYMSSNKRSWSHAI
+QSWYDEVKDWRYG-AGSI-----NGEDVGHFTQVVWYRSNLVGCAMAHCP-GSRYSYFY-
+-----VCQYCPP----------------------------------------GNYQ----
+---------------LSRPYKRGPSCGDCPNSCDNGLC-TN---PCKYTDRYN-------
+----NCPS-LKRQ-HGCGH---RKVAA--WCPA----------SC-------RC------
+SSEII-------------------------
+>ENSPKIP00000028459 ENSPKIG00000010105	238	no_data	no_data	Paramormyrops_kingsleyae	117A
+------------------------------------------------------------
+-------------------------------------------------M----------
+MVFAVCI--TVLLVSLTCGDLT-GVSPQ-NADVQQEIVNVHNAFRRTVQPTATNMLKM--
+-S--WNAQLSTNAQNWINNCNLTHGPPS-----SREID-GYQCGENLFKSNAVYNWTSVV
+GAWHNEVKNYQFPIGSI------NGNPIGHYTQVVWYGSYEVGCGVTYCSNS--ATYFY-
+-----GCHYFRA----------------------------------------GNFKEV--
+-----------------PPYTKGDSCADCPNNCDDKLC-TN---PCPYIDKYS-------
+----NCPN-LVQT-NGCGN---SDVKE--WCPS----------LC-------QC-----Q
+-AKIRPIAKK--------------------
+>ENSSFOP00015052688 ENSSFOG00015030436	206	no_data	no_data	Scleropages_formosus	117A
+SIVNVTFKNNGGQC--CQEPYRL--YKKSAK------LSST-------------------
+-----------------------------------------PRT----------------
+------------PRNDQSNFALTEISPE-NATVQQQIVDLHNAFRRAVEPTASNMLMM--
+-S--WSEEVAASAQKWVTLIRSL--FVL-----LFIFI-DYQCGENLFLSDSIMAWSDVV
+GAWHSEVKNYQYPSGSK------NGGQIGHYTQVTVTAA---------C-----------
+----------CR----------------------------------------GNFRGV--
+-----------------PPYTAGPPCGECPNNCEDKLC-SKRQIPCSPVYKPN-------
+----S-------------------------------------------------------
+------------------------------
+>ENSCGOP00000054364 ENSCGOG00000023802	229	no_data	cysteine-rich venom protein TEL1-like	Cottoperca_gobio	117A
+------------------------------------------------------------
+------------------------------------------------IN-----CQGQE
+---------REKSYH-----CYRSPTSL-FQTDPNEIVNKHNDLRRNVQPTASNMLEM--
+-S--WSSEAAANAQRWANTCSMTHSSDS-----SRTIS-TGGCGENLYMSSREDTWSNAV
+QDWYDEVQNWRYG-VGST-----NGKVVGHFTQVVWYRSNKVGCAVAYCP-NSTYKYFY-
+-----VCQYCPA----------------------------------------GNFQ----
+---------------YTRPYKSGPSCGDCPNACNNKLC-TN---PCPYTDKYN-------
+----NCAD-LKQQ-WTCGN---KDVAS--WCPA----------SC-------KC------
+SSQII-------------------------
+>ENSGACP00000017227 ENSGACG00000013026	235	no_data	no_data	Gasterosteus_aculeatus	117A
+----------------------------------------K-------------------
+-MFTL---------------------------------LVCILTLQQV------------
+-----------HSACV-D--SFDIICPD-KPAIQAEIIDVHNAFRRAVEPTASDMLLM--
+-S--YSEEVAASAQAWADNCVLAHGEPS-----TRMLN-GYELGENLFYSSSPYPWTAVV
+NAWHSEVANYLYPNGST------NAKTVGHYTQVVWNSSYKVGCGMTLCPN---GIYFY-
+-----ACHYYRA----------------------------------------GNFRTW--
+-----------------PPYKVGPSCASCPNNCEDKLC-TN---PCPYINKYL-------
+----NCPS-LKTL-VGCSN---NLVSS--WCPA----------SC-------QC-----I
+-DEII-------------------------
+>ENSCSEP00000032534 ENSCSEG00000020883	244	no_data	cysteine-rich venom protein TEL1-like	Cynoglossus_semilaevis	117A
+------------------------------------------------------------
+---------------------------------MNTLVFLCALSLLAALQ-----VPGTL
+---------TEEVEA-----VEVTQPLM-TTTERSEIVNKHNALRRGVSPTASNMLKM--
+-S--WNKEAEANAQRWANTCFMNHSLDS-----SREIS-TSGCGENLYMASSKNTWNDAI
+QSWYNEVKDWRYG-VGSV-----NGQIVGHFTQIVWYRSNQIGCAMAYCP-NSKYRYFY-
+-----VCHYCPP----------------------------------------GNEQ----
+---------------FARPYKSGPTCADCPNACENKLC-TN---PCPYSDMYS-------
+----NCPD-MKEQ-IGCGN---SQVAS--WCPA----------SC-------KC------
+SSQII-------------------------
+>ENSSMAP00000030654 ENSSMAG00000018766	209	no_data	no_data	Scophthalmus_maximus	117A
+------------------------------------------------------------
+---------------------------------TSHHPSLCLVTM---------------
+--------------AIFPLEERGSTATS-SYYAPDEIVNKHNDLRRSVQPTASNMLQM--
+-S--WNREAAANAQRWANTCSMNHSPD------------TSGCGENLYMSSYQSSWSDAI
+QSWYDEVKDWRYG-MGSV-----NGGVVGHYTQLVWYRSNQVGCAMASCP-NAAYKYFY-
+-----VCHYCPP----------------------------------------FSVS----
+---------------IC-------------------LP-AN---PCPYADQYN-------
+----NCPD-LKQQ-WGCSN---KDVAS--WCPA----------SC-------KC------
+TTQII-------------------------
+>ENSLOCP00000020177 ENSLOCG00000016342	245	no_data	no_data	Lepisosteus_oculatus	117A
+--------------------------------------------------------MLDS
+AM----------------------------------FTLSCALCFIALLQ-----NVFTQ
+---------D----------DLTEISTS-NGIVQQEIVKKHNDPRRNVSPTASNMLKM--
+-G--WNTEAAANAQRWAQTCSMNHSPDS-----SRRIK-TSECGENLYMSTDPSTWNEVI
+QSWYNEVSNYKYG-VGSV-----NGGVIDHYTQVVWYRSNKIGCAAAYCP-KSPYKYFY-
+-----VCHYCPA----------------------------------------GNYV----
+-------------QSLLTPYKAGPPCGDCPNDCEDGLC-TN---PCEQFDKAG-------
+----NCKV-LMQLKNACEN---PLISS--WCAA----------SC-------QC------
+GKKIY-------------------------
+>ENSIPUP00000007341 ENSIPUG00000005071	234	no_data	cysteine-rich venom protein pseudechetoxin-like	Ictalurus_punctatus	117A
+------------------------------------------------------------
+-MFLW---------------------------------SVCVLALLH-------------
+-------------MSATCSV-TDQICTS-LEAVQDEIVDVHNAFRRAVVPTASNMLKM--
+-N--WSEEVATSAQDWANTCAMAHGPPS-----SRMLG-SYQMGENLFKSSELLPWTDVV
+TAWHNEVANYNYPTGSA------NGKSIGHYTQVIWFSSYEVGCGVAKCGN----DYFY-
+-----DCQYYRA----------------------------------------GNYRRV--
+-----------------PPYSLGEPCSACPQACEDKLC-TN---PCPYVNTFA-------
+----NCPA-LKKQ-GPCS----DYLQK--WCSA----------QC-------FC-----T
+-TEIVPTN----------------------
+>ENSSAUP00010037736 ENSSAUG00010015948	234	no_data	no_data	Sparus_aurata	117A
+------------------------------------------------------------
+-MFAL---------------------------------LISVLTLHHV------------
+-----------HA---AC--NVAALCPGTNGTVQDEIVNLHNHFRRNVSPTAANMLKM--
+-D--YNDSVAVSAQAWTEKCVLAHGPPS-----TRLLN-GYEMGENLFYSSAPMSWTDVI
+TAWHNEVALFKYPKGD--------WKATGHYTQVVWSSSYRVGCGMTHCTNK--GVYIY-
+-----GCHYYRA----------------------------------------GNFKGW--
+-----------------PVYKEGDSCASCPNNCEDRLC-TN---PCPYINPYL-------
+----NCPT-LKTI-FGCSS---KWVA---ECAA----------SC-------KC-----P
+-TEIIPIG----------------------
+>ENSSAUP00010027574 ENSSAUG00010011915	165	CRISP3	cysteine rich secretory protein 3	Sparus_aurata	117B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MHP--SIVYFFVLISSVLI-SSSDKTAIVNKYNALRRGVQPTASNMLEM--
+-K--WSNEAAANAQKWANTCSMNHSPAS-----SRTI--TSGCGENLYISSFKNTWSNVI
+QAWYDEVADFQYG-VGST-----NGGVVGHYTQVVWYRSNLVGCALARCP-NAQYEYFY-
+-----VCQYCPP----------------------------------------SLNC----
+---------------QLEVLI---------------------------------------
+------------------------------------------------------------
+------------------------------
+>ENSMAMP00000007987 ENSMAMG00000005415	240	no_data	no_data	Mastacembelus_armatus	117A
+------------------------------------------------------------
+-----------------TGLAHYRCVFS----------LACVL-----AVAA--LVPLSA
+TIEVGYI--R----------QQVNTILT-SSADQNEIVNKHNALRRDVQPTASNMLKM--
+-S--WNSEAEANAQRWANTCSMKHSPA------------TSDCGENLYMSSIKNTWSDAI
+QSWYDEVKNWRYGVGPV------NGGVVGHYTQVVWYRSNQIGCAMAYCPNS-TYKYFY-
+-----VCQYYSV----------------------------------------PLSTPI--
+---------------NFIQLF------VCPLILSLSLA-AN---PCPYADQYS-------
+----NCPD-LKQQ-WGCSN---KDVAS--WCPA----------SC-------KC-----T
+-TQII-------------------------
+>ENSMALP00000015985 ENSMALG00000011209	238	no_data	no_data	Monopterus_albus	117A
+------------------------------------------------------------
+----------------------------------------MILTESK-------------
+------L--SVCACLCVYMRVHVELCPD-NARTQRQIIDHHNNIRRNVKPPASNMLKL--
+-VSPVSTHLAVIAQDWVEQCQLNHGPPE-----ARRWN-GYDLGQNLYYSDTPDAWPAVI
+NAWADEVQHYNYPSGSK------DGGVVGHYTQVVSYSTSLAGCGMFLCPD---GIYLY-
+-----ACDYYRS----------------------------------------GNFKDY--
+-----------------PPYKAGRPCADCPKACEKNLC-TN---PCPHLNMYL-------
+----DCFK-NANE-TSCSD---PKFNE--ECEA----------SC-------NC-----K
+-GKIIPIG----------------------
+>ENSHCOP00000004101 ENSHCOG00000000179	246	no_data	cysteine-rich venom protein-like	Hippocampus_comes	117B
+------------------------------------------------------------
+-------------------------------MNAFLFTFLCASGLCAALH-----VSASL
+---------GEEVEI-----VPVSTVLT-SASEQNEIVNKHNDLRRNVKPTASNMLKM--
+-S--WNKEAAANAQRWANTCSMNHSPDS-----SRVIS-TSGCGENLYMASYKNSWSNAI
+QSWYDEVNDWRYG-VGSI-----NGRVVGHFTQIVWYRSNQIGCAMAYCP-NSRYKYFY-
+-----VCHYCPP----------------------------------------GNYQ----
+---------------YTHPYKSGSPCADCPNACENKLC-TN---PCPYTDKYS-------
+----NCPE-LKKQ-YGCNN---SNVAS--WCPA----------SC-------KC------
+SSQII-------------------------
+>ENSMMOP00000022724 ENSMMOG00000017283	184	no_data	no_data	Mola_mola	117A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------FFTQ--
+-S--YDENVALTAQAWVDKCILDHGEPE-----TRILN-GYELGENLFFSTKLTQWTVVI
+KAWHSEVSHYLYPNVST------NGQPTGHYTQVVWNSSYKVGCGMALCPN---SIYIY-
+-----GCHYYRA----------------------------------------GNFKGW--
+-----------------VPYKVGPPCASCPSHCEDKLC-TN---PCPYINSFL-------
+----NCQK-LKDR-FGCSH---ELVSA--WCPA----------AC-------KC-----T
+-SEIIPIA----------------------
+>ENSMMOP00000002267 ENSMMOG00000000237	232	no_data	no_data	Mola_mola	117B
+------------------------------------------------------------
+------------------------------------------------------------
+--ML-----FFFV--FDCGCLGPSTSGV-SVAEQSEIVNKHNEFRRSVQPPASNMLKM--
+-S--WNSEAAANAQAWADQCIMDHKVQTISISTSITVD-LNKCGENVASSGNRISWSEVI
+QGWYNEAKDWRYGVGSI------NGKTVGHFTQVVWYNSHEIGCGMAYCPNS-ENLYHY-
+-----VCQYCPP----------------------------------------GNYQHT--
+---------------QP--YKSGTPCGDCPKACSDNLC-TN---ACPYMDTYN-------
+----VCPD-LKRE-WSCDD---SDVAS--WCPA----------SC-------QC-----P
+-SDII-------------------------
+>ENSTRUP00000051224 ENSTRUG00000021304	235	no_data	cysteine-rich venom protein ophanin-like	Takifugu_rubripes	117A
+------------------------------------------------------------
+-MLLF---------------------------------LMCFLSLQQA------------
+-----------SA---AC--VLTGICTD-NTSVQAEIVDMHNSLRRAVQPAASDMLKM--
+-S--YDGAVAASAQAWVSKCLLKHGPPT-----SRVIN-GYEMGENLFYSSSPFSWTTVI
+SSWHSEAANFLYPNVSV------NGASTGHYTQIVWNSSYKVGCGVAVCPN---NIYFY-
+-----GCHYYRA----------------------------------------GNYKGW--
+-----------------NPYQKGPSCASCPNNCEDKLC-TN---PCPVVNDFL-------
+----NCGA-LKAL-FGCNN---RWVPS--WCPA----------SC-------QC-----S
+-DKIIPIA----------------------
+>ENSTNIP00000006803 ENSTNIG00000004182	244	no_data	no_data	Tetraodon_nigroviridis	117A
+------------------------------------------------------------
+--------------------MHL----------FNSLLF--VVKFLFSFS-----FPLSR
+---------------RGSVSSGGTGSDV-TAAEQNEIVDKHNALRRGVQPSASNMLKM--
+-S--WNKEAAANAQAWVSKCTGGHSKPE-----DREIS-TSGCGENWAGSTAKVSWSTII
+QDWYSEVNDWRYG-VGST-----NGNAVGHFTQVVWYNSIYVGCGIARCP-NHQYEYQY-
+-----ICQYCPP----------------------------------------GNYQ----
+---------------FARPYASGQTCGDCPNNCDNKLC-TN---PCKYTNQYS-------
+----NCAS-LKSQ-WGCSN---SDVSS--WCPA----------SC-------KC------
+TTEII-------------------------
+>ENSBBBP00000024830 ENSBBBG00000019922	244	CRISP2	cysteine-rich secretory protein 2-like	Bison_bison_bison	117A
+------------------------------------------------------------
+-----------------------------------MALLPVVLFLTAVLL-----PSF--
+------------PTEG-KDPSFTALITT-QTQVQREIVNKHNELRKSVSPPASNMLKM--
+-E--WSREVTANAQKWANKCTLEHSSPN-----ERKTS--TKCGENLYMSSDPTAWSDAI
+QSWFNEHHDFIYGSGPKS-----AGAIVGHYTQLVWYSSFRVGCGIAYCPNQESLKYYY-
+-----VCQYCPA----------------------------------------GNNVSK--
+---------------KNTPYQQGAPCGSCPGNCDNGLC-TN---TCEYEDLLS-------
+----NCDS-LKKT-AGCEH---ELLKEK--CKA----------TC-------LC------
+EGK--IY-----------------------
+>ENSBBBP00000024855 ENSBBBG00000019958	257	CRISP3	cysteine-rich secretory protein 3-like	Bison_bison_bison	117B
+------------------------------------------------------------
+-------I-----KQLLHPAPKTN----------TMALFTVVLFLAAVWL-----PFF--
+------------PAKG-QDRRFADLSNT-LKNVQTEIVNKHNDLRRGVSPPPSNMLKM--
+-Q--WNTTAAANAQNWANKCLFKHSKKE-----DRRIG-TRNCGENLFMSSYPSTWSNAI
+QSWYDEVHDFVFEVGPKS-----PQAVIGHFTQIVWYSSFLIGCGVAYCPKQ-SLKYLY-
+-----VCQYCPA----------------------------------------GNIVGR--
+---------------QHVPYQKGTPCGSCPNHCDNGLC-TN---SCEYEDTYS-------
+----NCAS-LKET-WTCAS---DFVKTN--CKA----------AC-------NC------
+QGKIY-------------------------
+>ENSBTAP00000002805 ENSBTAG00000002166	244	CRISP2	cysteine rich secretory protein 2	Bos_taurus	117A
+------------------------------------------------------------
+-----------------------------------MALLPVVLFLTAVLL-----PSF--
+------------PTEG-KDPSFTALITT-QTQVQREIVNKHNELRKSVSPPASNMLKM--
+-E--WSREVTANAQKWANKCTLEHSSPN-----ERKTS--TKCGENLYMSSDPTAWSDAI
+QSWFNEHHDFIYGSGPKS-----TGAIVGHYTQLVWYSSFRVGCGIAYCPNQESLKYYY-
+-----VCQYCPA----------------------------------------GNNVSK--
+---------------KNTPYQQGAPCGSCPGNCDNGLC-TN---TCEYEDLLS-------
+----NCDS-LKKT-AGCEH---ELLKEK--CKA----------TC-------LC------
+EGK--IY-----------------------
+>ENSBTAP00000017167 ENSBTAG00000012918	244	CRISP3	cysteine-rich secretory protein 3	Bos_taurus	117B
+------------------------------------------------------------
+-----------------------------------MALFTVVLFLAAVWL-----PFF--
+------------PAKG-QDRRFADLSNT-LKNVQTEIVNKHNDLRRGVSPPPSNMLKM--
+-Q--WNTTAAANAQNWANKCLFKHSKKE-----DRRVG-TRNCGENLFMSSYPSTWSNAI
+QSWYDEVHDFVFEVGPKS-----PQAVIGHFTQIVWYSSFLIGCGVAYCPKQ-SLKYLY-
+-----VCQYCPA----------------------------------------GNIVGR--
+---------------QHVPYQKGTPCGSCPNHCDNGLC-TN---SCEYEDTYS-------
+----NCAS-LKET-WTCAS---DFVKTN--CKA----------AC-------NC------
+QGKIY-------------------------
+>ENSCDRP00005028110 ENSCDRG00005019315	244	CRISP2	cysteine-rich secretory protein 2-like	Camelus_dromedarius	117A
+------------------------------------------------------------
+-----------------------------------MALLPLVLFLAAVLL-----PSF--
+------------PTEG-KDPSFTALLTT-QTEVQREIVNKHNELRRSVSPPARNMLKM--
+-E--WSRDATANAQKWANKCTLEHSNPD-----DRKTS--TKCGENLYMSSDPVAWSDAI
+QSWYEERHNFVYGAGQKS-----PSAVVGHYTQLVWYSSYLVGCGIAYCPNQESLKYYY-
+-----VCQYCPA----------------------------------------GNNVNK--
+---------------KNTPYQQGTPCASCPGNCDNGLC-TN---TCEYEDLLS-------
+----NCDS-LKKT-AGCEH---ELLKEK--CKA----------TC-------RC------
+EGK--IY-----------------------
+>ENSCDRP00005028156 ENSCDRG00005019335	258	CRISP3	cysteine-rich secretory protein 3-like	Camelus_dromedarius	117B
+------------------------------------------------------------
+----------------------IKQILHPALTSNTMASFTLWLFLVAVWL-----PFF--
+------------LANG-QDPAFGTLSTA-HKEVQIKIVDKHNDLRRTVSPPASNMLKM--
+-Q--WDSKAAANAQNWANQCLYKHSKAK-----HRTIG-TRQCGENLFMSSSPTSWSNAI
+QSWYDEINDFTYGVGPKR-----PKAVVGHLTQVVWYSSFRVGCGIAYCPNQRILKYFY-
+-----VCQYCPA----------------------------------------GNIIGR--
+---------------QYVPYLQGTRCASCPKHCDNGLC-TN---SCEYDNTYA-------
+----NCDS-LKKQ-WTCNV---PFVKNN--CKA----------AC-------KC------
+SDKIY-------------------------
+>ENSCHIP00000005213 ENSCHIG00000009328	244	CRISP2	cysteine rich secretory protein 2	Capra_hircus	117A
+------------------------------------------------------------
+-----------------------------------MALLPLVLFLTAVLL-----PSF--
+------------PIEG-KDPSFTALITT-QTQVQREIVNKHNELRKSVSPPASNMLKM--
+-E--WSRDVTANAQKWANKCTLEHSDPN-----ERKTS--TKCGENLYMSSDPMAWSDAI
+QSWFDEHHNFVYGSGPKS-----ASAIVGHYTQLVWYSSFRVGCGIAYCPNQESLKYYY-
+-----VCQYCPA----------------------------------------GNNVSK--
+---------------KNTPYQQGAPCGSCPDNCDNGLC-TN---TCEYEDLLS-------
+----NCDS-LKKT-AGCQH---ELLKEK--CKA----------TC-------LC------
+EGK--IY-----------------------
+>ENSCHIP00000010473 ENSCHIG00000012989	244	CRISP3	cysteine-rich secretory protein 3	Capra_hircus	117B
+------------------------------------------------------------
+-----------------------------------MALFTVVLFLAAVWL-----PFF--
+------------PAKG-QDQRFADLSTT-LKNVQTEIVNKHNDLRRGVSPPPSNMLKM--
+-Q--WNSKAAANAQNWANKCLFKHSNKK-----DRTVG-TRNCGENLFMSSYPSTWSNAI
+QNWYDEVHDFAFEVGPKS-----PQAVVGHFTQVVWYSSFLIGCGVAYCPKQ-SLKYLY-
+-----VCQYCPA----------------------------------------GNIVGR--
+---------------QHVPYQKGTPCGSCPNHCDNGLC-TN---SCEYEDTYS-------
+----NCAS-LKET-WTCAS---DFVKTN--CKA----------AC-------NC------
+QGKIY-------------------------
+>ENSCWAP00000012674 ENSCWAG00000009872	244	CRISP2	cysteine rich secretory protein 2	Catagonus_wagneri	117A
+------------------------------------------------------------
+-----------------------------------MALLPVVLFLAAVLL-----PSF--
+------------PTEG-KDPSFTDLLTS-QPQIQKEIVAKHNELRKSVSPPASNMLKM--
+-E--WSREATANAQKWANKCTLEHSNPD-----DRKTS--TKCGENLYMSSDPAAWSDAI
+QSWFEERHNFVYGAGPKS-----SSAIVGHYTQLVWYSSYRIGCGIAYCPNQDSLKYYY-
+-----VCQYCPA----------------------------------------GNNVSK--
+---------------KNTPYQQGRPCASCPGDCDDGLC-TN---TCQYEDLLS-------
+----NCDS-LKKT-AGCGH---DLLKEK--CKA----------TC-------LC------
+EGK--IY-----------------------
+>ENSCWAP00000012583 ENSCWAG00000009771	268	CRISP3	cysteine rich secretory protein 3	Catagonus_wagneri	117B
+------------------------------------------------------------
+-------I-----KQILHPALRTNSLCSLCSFFPAMALFTAVVFLAAAWL-----PSF--
+------------LANG-QDPGFDALSTT-LTKVQAEIVDKHNNLRRTVSPSASNMLKM--
+-Q--WDTRAAGNAQKWANKCLLKHSEAS-----SRRVG-TRSCGENLFMSSRPTSWSNAI
+QSWYDETNDFTYGVGPKY-----PEAVVGHFTQLVWYSSFRIGCGIAYCPNQKILKYYY-
+-----VCQYCPA----------------------------------------GNIIGR--
+---------------ENVPYQKGAPCASCPKHCDNGLC-TN---SCEYDDTVS-------
+----NCKD-LMKI-VPCSH---DLLKKN--CQA----------TC-------NC------
+SDKIF-------------------------
+>ENSDLEP00000001564 ENSDLEG00000001268	250	CRISP2	cysteine rich secretory protein 2	Delphinapterus_leucas	117A
+------------------------------------------------------------
+-----------------------------------MASLPVVLFLAAVLL-----PSF--
+------------PTEA-KDPSFTALLTT-QTEVQREIVNKHNELRKSVSPPASNMLKM--
+-E--CSREATANAQKWANKCTLEHSNPD-----GQKTN--TKCGENLYMSSDPTAWSDAI
+QSWFEEHHNFVYGAGPKS-----FSAIVGHYTQLVWYSSFRVGCGIAYCPNQESLKYYFN
+TNNSIVCILHYS----------------------------------------GNNVSK--
+---------------KSTPYQQGTPCASCPNNCDSRLC-TN---SCEYEDLLS-------
+----NCDS-LKKT-AGCEH---ELLKEK--CKT----------TC-------LC------
+EGK--IY-----------------------
+>ENSMMSP00000013847 ENSMMSG00000010560	244	CRISP2	cysteine rich secretory protein 2	Moschus_moschiferus	117A
+------------------------------------------------------------
+-----------------------------------MALLPVVLFLTAVLL-----PSF--
+------------PTEG-KDPSFTSLITT-QTQVQREIVNKHNELRKSVSPPASNMLKM--
+-E--WSREVSANAQKWANKCTLEHSNPD-----ERKTS--TKCGENLYMSSDPTAWSDAI
+QSWFDEHHDFVYGAGPKS-----ASAVVGHYTQLVWYSSFRVGCGIAYCPSQESLKYFY-
+-----VCQYCPA----------------------------------------GNNVSK--
+---------------KNTPYQQGTPCGSCPGNCDNGLC-TN---TCEYEDLLS-------
+----NCDS-LKKT-AGCQH---ELLKEK--CKA----------TC-------LC------
+EGK--IY-----------------------
+>ENSMMSP00000013961 ENSMMSG00000010609	267	CRISP3	cysteine rich secretory protein 3	Moschus_moschiferus	117B
+------------------------------------------------------------
+-------I-----KQIFHPAQKTNSLCSFCFVFPAMALFTVVLFLAAVWL-----PFF--
+------------PAKG-QDQHFADLSTT-LENVQTEIVNKHNDLRRGVSPPPSNMLKM--
+-E--WNSTAAANAQNWANKCLFKHSNKE-----DRTLG-TRNCGENLFMSSYPSTWSNAI
+QNWYDEVHDFVFEIGPKS-----PQAVVGHFTQIVWYSSFLIGCGVAYCPKQ-SLKYLF-
+-----VCQYCPA----------------------------------------GNIVGR--
+---------------QHVPYQKGTPCGSCPNHCDNGLC-TN---SCEYEDTYS-------
+----NCAS-LKET-WTCAS---DFVKTN--CKA----------AC-------NC------
+EGKIY-------------------------
+>ENSOARP00000013328 ENSOARG00000012436	244	CRISP2	cysteine rich secretory protein 2	Ovis_aries	117A
+------------------------------------------------------------
+-----------------------------------MALLPVVLFLTAVLL-----PSF--
+------------PTEG-KDPSFTALITT-QTQVQREIVNKHNELRKSVSPPASNMLKM--
+-E--WSREVTANAQKWANKCTLEHSDPN-----ERKTS--TKCGENLYMSSDPTAWSDAI
+QSWFDEHHNFVYGSGPKS-----ASAIVGHYTQLVWYSSFRVGCGIAYCPNQESLKYYY-
+-----VCQYCPA----------------------------------------GNNVSK--
+---------------KNTPYQQGAPCGSCPNDCDNGLC-TN---TCEYEDLLS-------
+----NCDS-LKKT-AGCQH---ELLKEK--CKA----------TC-------LC------
+EGK--IY-----------------------
+>ENSOARP00000013414 ENSOARG00000012520	244	CRISP3	cysteine rich secretory protein 3	Ovis_aries	117B
+------------------------------------------------------------
+-----------------------------------MALFTVVLFLAAVWL-----PFF--
+------------PAKG-QDQRFADLSTT-LKNVQTEIVNKHNDLRRGVSPPPSNMLKM--
+-Q--WNSKAAANAQNWANKCLFKHSNKK-----DRIVG-TRNCGENLFMSSYPSTWSNAI
+QNWYDEVHDFAFEVGPKS-----PQAVVGHFTQVVWYSSFLIGCGVAYCPKQ-SLKYLY-
+-----VCQYCPA----------------------------------------GNIVGK--
+---------------QHVPYQKGTPCGSCPNHCDNGLC-TN---SCEYEDTYS-------
+----NCAS-LKET-WTCAS---DFVKTN--CKA----------AC-------NC------
+QGKIY-------------------------
+>ENSPCTP00005014099 ENSPCTG00005010038	244	CRISP2	cysteine rich secretory protein 2	Physeter_catodon	117A
+------------------------------------------------------------
+-----------------------------------MALLPVVLFLAAVLL-----PSF--
+------------PTEA-KDPSFTALLTT-QTQVQREIVDKHNELRKSVSPPASNMLKM--
+-E--WNREATANAQKWANKCTLEHSNPD-----DRKTS--TKCGENLYMSSDPTAWSDAI
+QSWFEEHHNFVYGAGPKS-----SSAIVGHYTQLVWYSSFRVGCGIAYCPNQESLKYYY-
+-----VCQYCPA----------------------------------------GNNVSK--
+---------------KNTPYQQGTPCASCPSNCDSGLC-TN---SCEYEDLLS-------
+----NCDS-LKKT-AGCEH---ELLKEK--CKA----------TC-------LC------
+EGK--IY-----------------------
+>ENSSSCP00000001893 ENSSSCG00000001736	244	CRISP2	cysteine rich secretory protein 2	Sus_scrofa	117A
+------------------------------------------------------------
+-----------------------------------MALLPMVLFLAAVLL-----PSF--
+------------PTEG-KDPSFTALLTS-QPQIQKEIVAKHNELRRSVSPPASNMLKM--
+-E--WSRETSANAQKWANKCTLEHSNPD-----DRKTS--TKCGENLYMSSDPAAWSDAI
+QSWFDERHDFVYGAGPKS-----SSAVVGHYTQLVWYSSYRVGCGIAYCPNQENLKYYY-
+-----VCQYCPA----------------------------------------GNNVSK--
+---------------KNTPYKEGTPCASCPGDCDDGLC-TN---TCQYEDLLS-------
+----NCDS-LKKT-AGCGH---ELLKEK--CKA----------TC-------LC------
+EGK--IY-----------------------
+>ENSSSCP00000028167 ENSSSCG00000024347	245	CRISP3	cysteine-rich secretory protein 3	Sus_scrofa	117B
+------------------------------------------------------------
+-----------------------------------MALFTVVVFLAAAGL-----PFF--
+------------LANG-QDPGFDALSTK-LTKVQAEIVNKHNDLRRAVSPSASNMLKM--
+-Q--WDSQAAANAQKWANNCVLKHSDAN-----SRKVG-TRHCGENLFMSSRPTSWSNAI
+QSWYDETNDFTYAVGPTS-----PQAVVGHYTQVVWYSSYLIGCGIAYCPNQSVLKYYY-
+-----VCQYCPA----------------------------------------GNIIGR--
+---------------EHVPYQKGTPCASCPKSCDNGLC-TN---SCEYDDTIS-------
+----NCKD-LMKV-VNCDH---DLLKTN--CPA----------TC-------KC------
+SDKIY-------------------------
+>ENSTTRP00000003296 ENSTTRG00000003516	250	CRISP2	cysteine rich secretory protein 2	Tursiops_truncatus	117A
+------------------------------------------------------------
+-----------------------------------MASLPVVLFLATVLL-----PSF--
+------------PTEA-KDPSFTVLLTT-Q-TVQREIVNKHNELRKSVSPPASHMLKM--
+-E--WSREATANAQKWANKCTLEHSNPD-----DQKTS--TKCGENLYMSSDPTAWSDAI
+QSWFEEHHNFVYGAGPKS-----SSAIVGHYTQ---------------------------
+-----VCQYCPAIKTYFNREGIN-LWKYCL----RRYI--QLIRGDQVLISNGNNVSK--
+---------------KSTPYQQGTPCASCPDNCDSGLC-TN---SCEYEDLLS-------
+----NCDS-LKKT-AGCEH---ELLKEK--CKT----------TC-------LC------
+EGKIY-------------------------
+>ENSVPAP00000009271 ENSVPAG00000009962	243	CRISP2	cysteine rich secretory protein 2	Vicugna_pacos	117A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------DPSFTALLTT-QTEVQREIVNKHNELRKSVSPPARNMLKM--
+-E--WSRDATANAQKWANKCTLEHSNPD-----DRKTS--TKCGENLYMSSDPVAWSDAI
+QSWYEERHNFVYGVGQKS-----PSAVIGHYTQLVWYSSYLVGCGIAYCPNQESLKYYY-
+-----VCQYCPAMKAYFREGIHF-Q----------------FIRGEQVLRSNGNNVNK--
+---------------KNTPYQQGTPCASCPGNCDNGLC-TN---TCEYEDLL--------
+----NCDS-LKKT-AGCEH---ELLKEK--CKA----------TC-------RC------
+EGKIY-------------------------
+>ENSVPAP00000009272 ENSVPAG00000009963	222	CRISP3	cysteine rich secretory protein 3	Vicugna_pacos	117B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------DPAFGTLSTA-HKEVQIKIVDKHNDLRRTVSPPASNMLKM--
+-Q--WDSKAAANAQNWANQCLYKHSKAK-----DRTIG-TRQCGENLFMSSSPTSWSNAI
+QSWYDEINDFTYGVGPKR-----PQAVVGHLTQVVWYSSFRVGCGIAYCPNQRILKYFY-
+-----VCQYCPA----------------------------------------GNIIDR--
+---------------QYVPYLQGTRCASCPKHCDNGLC-TN---SCEYDNTYA-------
+----NCDS-LKKQ-WTCNV---PFVKNN--CKA----------AC-------KC------
+SDKIY-------------------------
+>ENSAMEP00000009259 ENSAMEG00000008761	257	no_data	no_data	Ailuropoda_melanoleuca	117A
+------------------------------------------------------------
+----------------------IKQTLHPALRTNKMALFPIVVFLAAVLL-----PTI--
+------------PTEG-KDPSFTALLTT-QTQVQKDIVNKHNELRKSVSPPASNMLKM--
+-E--WNREAAANAQKWANKCTLEHSAAE-----DRKTS--TKCGENLYMSSYPAPWSDAI
+QNWYEESRNFVYGVGPKS-----SDAVVGHYTQLVWYSSYRVGCGIAYCPNQESLKYYY-
+-----VCQYCPV----------------------------------------GNNVSK--
+---------------KNTPYQQGTPCASCPGNCDNGLC-TN---SCEYEDLLS-------
+----NCDS-LKKT-AGCGH---ELLKEK--CKA----------TC-------LC------
+ENKIY-------------------------
+>ENSCAFP00000044670 ENSCAFG00000023105	321	CRISP2	cysteine rich secretory protein 2	Canis_lupus_familiaris	117A
+--------------------MWFPTVPDTSELPVSKCVNLWTHLASWEISRRKAFALNEE
+TSFLNSIG-----EKALH---KIKQMLHLSLRINTMALFLELLFLAVVLL-----PFF--
+------------PANG-QGPSFTALLTT-QTQVQKEIVNKHNELRKSVSPPASNMLKM--
+-E--WNKEAAANAQKWANKCTLEHSPAK-----DRETH--TKCGENLFMSSYPASWSDAI
+QNWYEEHHDFVYGVGPKS-----SDAVIGHYTQVVWYSSYHVGCGIAYCPNQESLKYYY-
+-----VCQYCPA----------------------------------------GNNVSK--
+---------------KNNPYQQGTPCASCPGNCDNGLC-TN---SCEYEDLLS-------
+----NCDS-LKKT-AGCLR---STKLHKFICGM----------HL-------LH------
+TDSSYVDCHPT---TC--------------
+>ENSFCAP00000060174 ENSFCAG00000028647	257	CRISP3	cysteine rich secretory protein 2	Felis_catus	117B
+------------------------------------------------------------
+----------------------IKQMFQPALRISTMALLLELLFLALVLL-----PFF--
+------------PANG-QDPSFAALSTT-RTQVQKEIVDKHNELRRSVSPPASNMLKM--
+-E--WSKEAAANAQKWANKCTLEHSNAE-----DRKTS--TNCGENLYMSSHPKSWSAPI
+QNWYDEEDNFIYGKGAKT-----AGAVVGHYTQVVWYSSYHVGCGVAYCPNQDILKYYY-
+-----VCQYCPA----------------------------------------GNHVNK--
+---------------INTPYLEGKPCASCPYDCDNGLC-TN---GCKYEDKYQ-------
+----NCND-LKKT-LSCTH---SLPKDS--CKA----------SC-------YC------
+KDKIY-------------------------
+>ENSLCNP00005007189 ENSLCNG00005004719	244	no_data	cysteine-rich secretory protein 2-like	Lynx_canadensis	117A
+------------------------------------------------------------
+-----------------------------------MAVFLIALFLAAVLL-----PSL--
+------------PTEA-KDPSFTALLTT-QTQIQKEIVNKHNELRKSVSPPASNMLKM--
+-E--WNRETAANAQKWANKCTLEHSNAE-----DRKTS--TKCGENLYMSSDPASWSNAI
+QNWYEERNNFVYGVGPKS-----SSSVVGHYTQLVWYSSFHVGCGIAYCPNQESLKYYY-
+-----VCQYCPA----------------------------------------GNNVSK--
+---------------KNTPYQQGTPCASCPGNCEDGLC-TN---SCEYEDLLS-------
+----NCDS-LKTT-AGCGH---ELLQEK--CKA----------TC-------LC------
+ENKIY-------------------------
+>ENSLCNP00005007206 ENSLCNG00005004731	257	CRISP3	cysteine-rich secretory protein 2-like	Lynx_canadensis	117B
+------------------------------------------------------------
+----------------------IKQMFQPALRISTMALFLELLFLALVLL-----PFF--
+------------PANG-QDPSFAALSTT-RTQVQKEIVDKHNELRRSVSPPASNMLKM--
+-E--WSREAAANAQKWANKCTLEHSNAK-----DRKTS--TNCGENLYMSSHPKSWSAPI
+QNWYDEKDNFIYGKGAKT-----AGAVVGHYTQVVWYSSYHVGCGVAYCPNQDILKYYY-
+-----VCQYCPA----------------------------------------GNHLNK--
+---------------INTPYLEGKPCASCPYDCDNGLC-TN---VCKYEDKYQ-------
+----NCND-LKKT-LSCAH---SLPKDS--CKA----------SC-------YC------
+KDKIY-------------------------
+>ENSMPUP00000009129 ENSMPUG00000009206	244	CRISP2	cysteine rich secretory protein 2	Mustela_putorius_furo	117A
+------------------------------------------------------------
+-----------------------------------MALFPVVLFLAILLL-----PSL--
+------------PTEG-KDPSFTALLTT-QTQIQKDIVNKHNELRKSVSPPASNMLKM--
+-E--WNREAAANAQKWANKCTLEHSVPE-----DRKTS--TKCGENLYMSSYPAPWSDAI
+QSWYDERHNFVYGVGPKS-----SNAVVGHYTQLVWYSTYHVGCGIAYCPNQENLKYYY-
+-----VCQYCPA----------------------------------------GNNVSK--
+---------------KNTPYQQGTPCASCPGNCDNGLC-TN---SCEFEDLLS-------
+----NCDS-LKKT-AGCGH---ELLKEK--CKA----------TC-------LC------
+ENKIY-------------------------
+>ENSMPUP00000009111 ENSMPUG00000009188	261	CRISP3	cysteine rich secretory protein 3	Mustela_putorius_furo	117B
+------------------------------------------------------------
+---MRLLI-----KPMLHLALRIN----------TMVLFLKLLFLAVVLL-----PFF--
+------------PANG-QDPSFKTLLAT-QKQVQEKIVNKHNELRKSVSPPASNMLKM--
+-E--WSTEAAANAQKWANKCTLEHSVPE-----DRKTN--TKCGENLFMSSYPASWSDAI
+QNWYDEYHDFVYGVGPKS-----SKAVVGHYTQVVWYSSYRVGCGVAYCPNQETLRYYY-
+-----VCQYCPA----------------------------------------GNIISK--
+---------------INTPYLKGKTCASCPHHCVNGLC-TN---SCEYKNEYS-------
+----NCDV-LKKN-YSCEH---DFVKKN--CKA----------SC-------EC------
+EDKIY-------------------------
+>ENSNVIP00000031484 ENSNVIG00000024203	244	CRISP2	cysteine rich secretory protein 2	Neovison_vison	117A
+------------------------------------------------------------
+-----------------------------------MALFPVVLFLAILLL-----PSL--
+------------PTEG-KDPSFTALLTT-QTQIQKDIVNKHNELRKSVSPPASNMLKM--
+-E--WNREAAANAQKWANKCTLEHSVPE-----DRKTS--TKCGENLYMSSYPAPWSDAI
+QSWYDERHNFVYGVGPKS-----SNAVVGHYTQLVWYSTYHVGCGIAYCPNQENLKYYY-
+-----VCQYCPA----------------------------------------GNNVSK--
+---------------KNTPYQQGTPCASCPGNCDNGLC-TN---SCEFEDLLS-------
+----NCDS-LKKT-AGCGH---ELLKEK--CKA----------TC-------LC------
+ENKIY-------------------------
+>ENSNVIP00000005571 ENSNVIG00000004466	267	CRISP3	cysteine rich secretory protein 3	Neovison_vison	117B
+------------------------------------------------------------
+-------I-----KPMLHLVLRINSLCSLCFVFPAMVLFLELLFLAVVLL-----PFF--
+------------SANG-QDPSFRTLLTT-QKQVQEKIVNKHNELRKSVSPPASNMLKM--
+-E--WSTEAAANAQKWANKCTLEHSVPE-----DRKTN--TKCGENLFMSSYPASWSDAI
+QNWYDEHHDFVYGVGPKS-----SNAVVGHYTQVVWYSSYRVGCGVAYCPNQKTLRYYY-
+-----VCQYCPA----------------------------------------GNIISK--
+---------------INTPYLKGKTCASCPHHCVNGLC-TN---SCEHKNEFS-------
+----NCNV-LKKN-YSCEH---DFVKKN--CKA----------SC-------EC------
+EDKIY-------------------------
+>ENSPLOP00000003507 ENSPLOG00000002530	244	CRISP2	cysteine rich secretory protein 2	Panthera_leo	117A
+------------------------------------------------------------
+-----------------------------------MAVFPIVLFLAAVLL-----PSL--
+------------PTEA-KDPSFTALLTT-QTQIQKEIVNKHNELRKSVSPPASNMLKM--
+-E--WNRETAANAQKWANKCTLEHSNAE-----DRKTS--TKCGENLYMSSDPTSWSNAI
+QNWYEERNNFVYGVGPKS-----SSSVVGHYTQLVWYSSFHVGCGIAYCPNQESLKYYY-
+-----VCQYCPA----------------------------------------GNNVSK--
+---------------KNTPYQQGTPCASCPGNCEDGLC-TN---SCEYEDLLS-------
+----NCDS-LKTT-AGCGH---ELLQEK--CKA----------TC-------LC------
+ENKIY-------------------------
+>ENSPLOP00000003556 ENSPLOG00000002561	264	CRISP3	cysteine rich secretory protein 3	Panthera_leo	117B
+------------------------------------------------------------
+-------------MQVFV--PFVFFFFFSFFPPPAMALFLELLFLALVLL-----PFF--
+------------PANG-QDPSFAALSTT-RIQVQKEIVDKHNELRRSVSPPASNMLKM--
+-E--WSREAAANAQKWANKCTLEHSNAK-----DRKTS--TNCGENLYMSSHPTSWSAPI
+QSWYDEKDNFIYGKGAKT-----AGAVVGHYTQVVWYSSYHVGCGVAYCPNQDILKYYY-
+-----VCQYCPA----------------------------------------GNHLNK--
+---------------INTPYLEGKPCASCPYDCDNGLC-TN---VCKYEDKYQ-------
+----NCND-LKKT-LTCAH---SFPKDN--CKA----------SC-------YC------
+KDKIY-------------------------
+>ENSSSUP00005013995 ENSSSUG00005008980	258	CRISP2	cysteine rich secretory protein 2	Suricata_suricatta	117A
+------------------------------------------------------------
+--------------------MNILCG-SHLCFANAMALFPVVLFLAAVLL-----PSL--
+------------PTEG-KDPSFTALLTT-QNEIQKEIVNKHNELRKSVSPPASNMLKM--
+-E--WNREAASNAQKWANKCTLEHSNPE-----DRKTS--TKCGENLYMSSDPTYWSNAI
+QSWYEEGNNFAYGTGPKS-----SNAVVGHYTQLVWYSSFRIGCGIAYCPNQESLKYYY-
+-----VCQYCPA----------------------------------------GNNVSK--
+---------------KNTPYQQGAPCASCPGNCENGLC-TN---SCEYEDLLS-------
+----NCDS-LKTT-AGCGH---ELLKEK--CKA----------TC-------LC------
+ENKIY-------------------------
+>ENSUMAP00000005855 ENSUMAG00000004625	244	CRISP2	cysteine-rich secretory protein 2-like	Ursus_maritimus	117A
+------------------------------------------------------------
+-----------------------------------MAFFPIVVFLAAVLL-----PSI--
+------------PTEG-KDPSFTALLTT-QMQVQKDIVNKHNELRKSVSPPASNMLKM--
+-E--WNREAAANAQKWANKCTLEHSAAE-----DRKTS--TKCGENLYMSSYPAPWSDAI
+QNWYDESHNFVYGVGPKS-----SDAVVGHYTQLVWYSSYRVGCGIAYCPNQESLKYYY-
+-----VCQYCPA----------------------------------------GNNVSK--
+---------------KNTPYQQGTPCASCPGNCDNGLC-TN---SCEYEDLLS-------
+----NCDS-LKKT-AGCGH---ELLKEK--CKA----------TC-------LC------
+ENKIY-------------------------
+>ENSUMAP00000005842 ENSUMAG00000004620	244	CRISP3	cysteine-rich secretory protein 2-like	Ursus_maritimus	117B
+------------------------------------------------------------
+-----------------------------------MALFLELLFLAVVLL-----PFF--
+------------PANG-QDPSFAALLTT-RTKVQKEIVNKHNELRKSVSPPASNMLKM--
+-E--WSKEAAANAQKWANKCTLEHSLPE-----ARKTS--TKCGENLFMSSYPASWSDAI
+QNWYEEHHDFVYGVGPKS-----SDAVVGHYTQVVWYSSYHVGCGIAYCPNQQSLKYYY-
+-----VCQYCPA----------------------------------------GNLLSK--
+---------------IHTPYLKGKSCASCPHHCDNGLC-TN---RCEKIDDYS-------
+----NCNV-LKKD-YTCDH---NFVKKN--CKA----------SC-------EC------
+EGKIY-------------------------
+>ENSVVUP00000041218 ENSVVUG00000029335	254	CRISP2	cysteine-rich secretory protein 2-like	Vulpes_vulpes	117A
+------------------------------------------------------------
+-----------------------------------MALFPVVVFLAAVLL-----PSL--
+------------PTEG-KDPSFTALLTT-QTQVQKEIVNKHNELRKSVSPPASNMLKM--
+-E--WNRDAAANAQKWANKCTLEHSVPE-----DRKTS--TKCGENLYMSSDPTPWSDAI
+QNWYEERHNFVYGVGPKS-----SDAVVGHYTQLVWYSSYRVGCGIAYCPNQESLKYYY-
+-----VCQYCPA----------------------------------------GNNVSK--
+---------------KNNPYQQGTPCASCPGTCDNGLC-TN---SCEYEDLLS-------
+----NCDS-LKKT-AGCLR---STKLHKFICGM----------HL-------LH------
+ADSSCVYCHPT---RC--------------
+>ENSMLUP00000018624 ENSMLUG00000026053	40	no_data	no_data	Myotis_lucifugus	117A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------VVGHYTQLVWYSSYRLGCGVAYCPNQENLKYFY-
+-----VCHYCPA------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------
+>ENSMLUP00000001937 ENSMLUG00000002126	245	CRISP3	cysteine rich secretory protein 3	Myotis_lucifugus	117B
+------------------------------------------------------------
+-----------------------------------MALFPALLFLAAVLL-----PFF--
+------------PANG-QKPGFAAMATG-RREVQKEIVNKHNEVRRSVSPPARNMLKM--
+-Q--WDSKAAANAQRWANKCVLKHSSSQ-----DRKVG-KRSCGENLFMSSQPNSWSYAI
+QKWFDEGNDFIYAMGPKQ-----KNIVVGHYTQVVWYSSYRVGCGVAYCPNERSLKYFY-
+-----VCQYCPS----------------------------------------GNIVGR--
+---------------SLTPYLKGTPCASCPGHCDNGLC-TN---ACEYDDMYS-------
+----NCKD-LKNQ-LSCGN---DFVKTN--CKA----------AC-------NC------
+SKKIY-------------------------
+>ENSPVAP00000015171 ENSPVAG00000016072	276	CRISP2	cysteine rich secretory protein 2	Pteropus_vampyrus	117A
+------------------------------------------------------------
+-----------------------------------MALLPGMVFLVAVLF-----LSS--
+------------PTEG-KDPAFTALLTT-QSQVQREIVNKHNELRKSVSPPASNMLKM--
+-E--WSREATANAQKWANKCTLEHSSAE-----DRKTS--TKCGENLYMSSDPTAWSNAI
+QNWYDESHNFVYGVGPKS-----SSAVVGHYTQVVWYSSYRVGCGIAYCPNQDNLKYYY-
+-----VCQYCPAKKKYFSREGINLKC------SLRRYI--ELIRKDQVLRSNGNNVSK--
+---------------KNTPYQQGIPCASCPGNCDNGLC-TN---SCEYEDLLS-------
+----NCDS-LKAT-AGCDH---ELLKEK--CKA----------TC-------QC------
+ENKIY-------------------------
+>ENSPVAP00000015172 ENSPVAG00000016073	243	no_data	no_data	Pteropus_vampyrus	117B
+------------------------------------------------------------
+-----------------------------------MALFPVLLFLVPVLL-----PFFPA
+------------NVQA---SNVDALSTT-RKEIQREIVNKHNDLRRAVSPPASNMLKM--
+-X--XXXXXXXXXXXXXXXXXXXXXXXX-----XXXXX-TRSCGENLFMSSYPASWSDAS
+QNWYNEERDFIYGVGPKR-----PDAVVGHYTQVAWASSFSIGCGIAHCPNQQVLKYFY-
+-----VCQYCPA----------------------------------------GNISNK--
+---------------KNTPYQKGKPCASCPDHCDNGLC-XX---XXXXXXXXX-------
+----XXXX-XXXX-XXXXX---XXXKN--SCKA----------C--------N-------
+SNKIY-------------------------
+>ENSRFEP00010012740 ENSRFEG00010008622	244	CRISP2	cysteine rich secretory protein 2	Rhinolophus_ferrumequinum	117A
+------------------------------------------------------------
+-----------------------------------MAVLPVVVFLAAVLL-----LSF--
+------------PAEG-KDPAFTALSTS-QSSVQREIVDKHNELRKSVSPPASNMLRM--
+-E--WNKEATSNAQKWANKCTLEHSNAA-----DRKTS--MKCGENIYMSSDPDAWSKAI
+QNWYDESQNFVYGVGPKS-----SNVAVGHYTQVVWYSSYHVGCGVAYCPNQDSLKYYY-
+-----VCQYCPA----------------------------------------GNNVSK--
+---------------KNTPYQRGTPCASCPGNCENGLC-TN---SCQYEDLLS-------
+----NCDS-LKTT-AGCEH---ELLKEK--CKA----------TC-------QC------
+ENKIY-------------------------
+>ENSRFEP00010012872 ENSRFEG00010008695	255	CRISP3	cysteine rich secretory protein 3	Rhinolophus_ferrumequinum	117B
+------------------------------------------------------------
+-----------------------KWVLDLALRTNTMAVFPVLLFLAPVLL-----PFF--
+------------PANG-EDPDFNTLKTT-RNEVQREIVNKHNDLRRAVSPPASNMLKM--
+-K--WDSQAAANAQEWANKCLYKHST-------DRKIG-TSSCGENLFMSSHPTSWSYAI
+QSWYDENRDFIYGVGPKN-----PEAVVGHYTQVAWYSSFRVGCGIAHCPGENKLQYYY-
+-----VCQYCPA----------------------------------------GNIISR--
+---------------ENTPYLEGTPCARCPNDCVNGLC-TN---SCDYEDAYS-------
+----NCKQ-LKDQ-VGCKD---SITKDN--CKA----------SC-------NC------
+PDKIY-------------------------
+>ENSDNOP00000006104 ENSDNOG00000007872	244	CRISP2	cysteine-rich secretory protein 2	Dasypus_novemcinctus	117A
+------------------------------------------------------------
+-----------------------------------MDLLRLVVFLAAILL-----TSL--
+------------PADG-KDPGFSALLTT-QTQVQKEIVNKHNELRRNVSPPASNMLKM--
+-E--WSREAAANAQKWANKCTLEHSDKE-----DRKTN--TKCGENLYMSSDPSSWSTGI
+QSWYDENGNFIYGVGPKS-----SDVVVGHYTQVVWFSSYLVGCGVAYCPNQEYLKYYY-
+-----VCHYCPA----------------------------------------GNVVNK--
+---------------KHIPYQKGTPCASCPNHCENGLC-TN---SCEYEDALS-------
+----NCAQ-LKAT-AGCEH---ELLKEK--CKA----------TC-------NC------
+EDKIF-------------------------
+>ENSSHAP00000002113 ENSSHAG00000001880	241	no_data	cysteine-rich secretory protein 3-like	Sarcophilus_harrisii	117A
+------------------------------------------------------------
+-----------------------------------MTLLPGLLSLASILL-----LFCGD
+------------AKS----VDFESLSTE-DEKNQQEIVDKHNALRAQASPPASNMLKM--
+-E--WFQEAQKTAQIWADTCSFEHSQRN-----NRTI--GSVCGENLYMSTAPTTWSNVV
+QSWYDEVSDFKFGRGST------SGKAVGHYTQVMWHNSHQVACGVAKCPNS-FFKYFF-
+-----VCHYCPA----------------------------------------GNVLPK--
+---------------QNFPYEIGTPCAKCPNSCSNNLC-NH---SCEYKDMYG-------
+----NCDE-LIKQ-ASCQH---PMVHL--YCKA----------SC-------QC------
+TNKIY-------------------------
+>ENSMODP00000038517 ENSMODG00000025686	240	CRISP2	cysteine rich secretory protein 2	Monodelphis_domestica	117A
+------------------------------------------------------------
+-----------------------------------MTLQPVLLCLITLLF-----SSSVG
+------------SQS----PTFESLSTK-NEAIQEEIVNKHNDLRSNVSPPAKNMLKM--
+-K--WSPEAQESAQSWANKCTLEHSLVK-----NRTI--GSPCGENLFMSTVPMHWSKAI
+QAWHDEVSNFEYGKGPID-----PNQPVGHYTQVVWHSSFKVGCGVAYCPDA-TYPYFF-
+-----VCQYCPS----------------------------------------GNY--G--
+---------------TKYPYEKGASCDKCPHSCTNNLC-NN---PCLYTNKFG-------
+----NCEE-MKNK-VSCRN---KYVKS--NCKA----------TC-------LC------
+VNEIY-------------------------
+>ENSMEUP00000013451 ENSMEUG00000014734	183	no_data	no_data	Notamacropus_eugenii	117A
+------------------------------------------------------------
+------------------------------------------------------------
+----------------EP--SFSFFSTH-NTSIQREIVDKHNELRRMTNPSATNILKM--
+-Q--WSKEAQKTAQAWAEHCVLEHSKSQ-----NRTH--GRLCGENLFMSSAPLPWTKAI
+EAWHDEYKHFEFGKGSTS-----D-QAVGHYTQXXXXXXXXXXXXXXXXXXXXXXXXXX-
+-----XXXXXXX----------------------------------------GNIKRSD-
+-----------RPDALYKPYKRGKACNDCPDHCDNGLC----------------------
+------------------------------------------------------------
+------------------------------
+>ENSPCIP00000026467 ENSPCIG00000019841	264	CRISP2	cysteine rich secretory protein 2	Phascolarctos_cinereus	117A
+------------------------------------------------------------
+-MFEK-----P--HSSMN---IYWVPSTF-SRSEAMILLPVLLSLTAILL-----PSYGD
+------------AQS----VSFESLSTE-HEEIQHEIVDKHNALRAQASPPAANMLQM--
+-E--WSEEAQKSAQSWANKCTLTHSDVA-----SRTI--GSICGENLFMSTAPVPWSKAV
+QAWYDEVEYFVFGKGST------SNQAVGHYTQVMWYSSYKVGCGCAECPNA-SYKYFF-
+-----VCHYCPA----------------------------------------GNILPR--
+---------------QNSPYEVGTPCAKCPKNCSNNLC-TN---PCEHTDGYS-------
+----NCSQ-LKKQ-YSCSN---QIVKK--NCKA----------SC-------EC------
+TNKIY-------------------------
+>ENSVURP00010004244 ENSVURG00010003390	241	CRISP2	cysteine rich secretory protein 2	Vombatus_ursinus	117A
+------------------------------------------------------------
+-----------------------------------MILLPVLLFLTAILL-----PSCGD
+------------AQS----ISFESLSTE-REETQHEIVNKHNALRAQASPPAANMLQM--
+-K--WSEEAQKSAQDWANKCTLRHSDVH-----SRTI--GSICGENLFMSTALVPWSKAI
+QAWYDEVEYFVFGKGST------STKPVGHYTQVMWYSSHKIGCGLAECPNA-SYKYFF-
+-----VCHYCPA----------------------------------------GNVMPG--
+---------------ENSPYEIGTPCAKCPESCSNNLC-TN---PCEYTDGAS-------
+----NCPQ-LKKQ-FSCNN---PTVKK--YCKA----------SC-------QC------
+INKIY-------------------------
+>ENSEEUP00000002896 ENSEEUG00000003168	199	no_data	no_data	Erinaceus_europaeus	117B
+------------------------------------------------------------
+-----------------------------------MALSLALLFLTAMFM-----PFFYV
+------------NGQ---NPDINRLSTT-RPEVQKEIVDVHNIARRNA--SATNMLKM--
+-G--WNSLAEKNARKWAQHCIYEHSKGE-----DRMAD-IGACGENLFMSSS-ISWSEAI
+QSWDNEKYDFTYGVGPKS-----PQAMVGHYTQVVWFSSYQVGCAVAYCANQ-ALKYFY-
+-----VCQYCPA----------------------------------------GNIQPR--
+---------------LYTPFEQGKPCARCPGACDNGLC----------------------
+------------------------------------------------------------
+------------------------------
+>ENSSARP00000003685 ENSSARG00000004065	279	CRISP2	cysteine rich secretory protein 2	Sorex_araneus	117A
+------------------------------------------------------------
+-----------------------------------MALLPAIVFLTAVLL-----PFL--
+------------PAEA-RDPSFSSLLTS-QSSIQKEIVNKHNEFRKSVRPPASNMLKM--
+-E--WSREVTLNAQKWANKCTLEHSSPE-----ERKTS--TKCGENLYMASDPTPWSAAI
+QNWYDESQNFEYGVGAKS-----SGVAVGHYTQVVWYSSYRVGCGVAYCPNQENLKYFY-
+-----VCQYCPAXXXXXXXXXXX-XXXXXX--XXXXXX--XXXXXXXXXXXXGNNVMK--
+---------------KNTPYLSGTPCASCPNNCDKGLC-TN---SCEHEDLLS-------
+----NCDS-LKST-AGCEH---EMLKLK--CKA----------TC-------LC------
+EDK--IY-----------------------
+>ENSSARP00000003718 ENSSARG00000004106	226	no_data	no_data	Sorex_araneus	117B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------GQSIESLSVS-LKKIQEEIVNKHNELRRSVSPTASNMLKM--
+-K--WSKEAAANAQRWADQCTLSHSTQQ-----HREIS-TSNCGENLFMASYPATWSKAT
+QSWVDESKRFYTGKGPKLRRTIISGSLLGHYPEVVWYSSSLVGCGISYCPNS-ILKYYF-
+-----VCQYCPA----------------------------------------GNLRSK--
+---------------LHVPYLSGPPCASCPNDCDNGLC-TN---SCKYNDKYS-------
+----NCKS-LVKT-VGCTH---DITKD--GCQA----------SC-------KC------
+QDKIY-------------------------
+>ENSPCAP00000012356 ENSPCAG00000013232	273	CRISP2	cysteine rich secretory protein 2	Procavia_capensis	117A
+------------------------------------------------------------
+-----------------------------------MALLPVVLFLATVLL-----PSF--
+------------PAKG-KDPAFTALLTT-QTAVQKEIVNKHNELRKGVSPPASNMLKM--
+-E--WNREATTNAQKWANRCTLEHSSPE-----DRKTS--KRCGENLYMSSDPTSWSNAI
+QSWYDESQDFIYGVGAKN-----SHVAVGHYTQVVWYSSYHVGCGIAFCPNQENLKYFY-
+-----VCHYCPAIKTHFNRNCCKY---FPL-RH-------IQFLREDLLSSNGNSVSR--
+---------------KHTPYEEGAPCASCPGHCENRLC-TN---SCEYEDLLS-------
+----NCAD-LKAT-VGCEH---ELLKEK--CQA----------TC-------QC------
+ENKIY-------------------------
+>ENSPCAP00000012404 ENSPCAG00000013292	241	CRISP3	cysteine rich secretory protein 3	Procavia_capensis	117B
+------------------------------------------------------------
+-----------------------------------MTSLSVMVFLAAVLL-----SPF--
+------------LANC-QGSTFADLSTT-LIQVQTEIINKHNELRRAVSPQASNMLKM--
+----WDKEAAANAQKWANKCVYKHSDPK-----RTN----ISCGENLFMSSAPLLWSHGI
+QSWYDEEKDFVYAVGPKS-----PGAVIGHYTQLVWATSHRLGCAVAYCPNQSVLKYFY-
+-----VCQYCPA----------------------------------------GNYVNR--
+---------------KYYPYKQGPPCSSCPGYCDNGLC-TN---GCNYENVYS-------
+----NCGN-LKTM-LTCKH---ELVKNN--CKA----------SC-------NC------
+AGKIY-------------------------
+>ENSOPRP00000013415 ENSOPRG00000014692	283	CRISP2	cysteine rich secretory protein 2	Ochotona_princeps	117A
+------------------------------------------------------------
+-----------------------------------MALFPVLLLLVTLLL-----PSL--
+------------PTEG-KDPAFTALLTT-QTQVQKEIVNKHNQLRKAVSPSASNMLKM--
+-E--WNREAMVNAQKWANKCTLEHSDPE-----DRKTS--TKCGENLYMSSDPTAWSDAI
+QNWFDESRYFTYGVGPKT-----PHVITGHYTQLVWYSSYRVGCAIAFCPNQENFKYYY-
+-----VCQYCPAVKYIRGTYHGEDMIHMYL-KIIRHYYEYILIRGKLYFNFKGNNVNK--
+---------------KSTPYQQGIPCASCPGHCDNGLC-TN---SCEYEDLLS-------
+----NCNS-LKNT-AGCDH---ELLKEK--CKA----------TC-------LC------
+EDKIY-------------------------
+>ENSOPRP00000013426 ENSOPRG00000014715	200	no_data	no_data	Ochotona_princeps	117B
+------------------------------------------------------------
+-----------------------------------MALLPVLLFLAAALN-----SSL--
+------------LCNR-NSNSAATLSTN-QIKVQGEIVNKHNELRRSVDPTASNMLKM--
+-N--WNNQTAVNAQKWANQCKL-HSNSE-----DRKTN--LSCGENLFMSTAPSSWSDAI
+QAWYDEQSDFVYGKGPTS-----RNAVTGHYTQVAWYASHSIGCGYAYCPNEN-FKHYY-
+-----VCQYCPA----------------------------------------GNFQNR--
+---------------QYFPYNKGKPCDDCPTHCDNGLC----------------------
+------------------------------------------------------------
+------------------------------
+>ENSOCUP00000015595 ENSOCUG00000022149	249	CRISP2	cysteine rich secretory protein 2	Oryctolagus_cuniculus	117A
+------------------------------------------------------------
+------------------------------MRTNTMALFPVVLFLVTVLL-----PSL--
+------------PTEG-KDPAFTALLTT-QTQVQKEIVNKHNELRKAVSPSASNMLKM--
+-E--WSRDATVNAQKWANKCTLEHSDPE-----DRKTS--TKCGENLYMSSDPTSWSDAI
+QNWFDESQYFTYGVGPKS-----PHAIVGHYTQLVWYSSYRVGCGIAFCPNQDNLRYYY-
+-----VCQYCPA----------------------------------------GNNVNR--
+---------------KNTPYQQGIPCASCPGHCENGLC-TN---SCEFEDLLS-------
+----NCGS-LKNT-AGCEH---ELLKEK--CKA----------TC-------LC------
+EDKIF-------------------------
+>ENSOCUP00000035002 ENSOCUG00000012801	254	CRISP3	cysteine rich secretory protein 3	Oryctolagus_cuniculus	117B
+------------------------------------------------------------
+-----------------------------------MALLLGLLFVAAVLH-----PSF--
+------------PADGNQNQASAALSTS-LIEVQQEIVNKHNDLRKSVNPPASNMLKM--
+-R--WNSGAAANAQKWANQCKYEHSDRE-----DRKIN--ISCGENLFMSSGPTSWSQAV
+QTWYDEQLNFVYGVGPKT-----SNAVVGHYTQVVWYSSYNVGCGYAYCPNE-YLKHFM-
+-----VCQYCPP----------------------------------------GNDVSR--
+---------------QYIPYTKGEPCGSCPDHCDNGLC-TN---GCEYENIYS-------
+----NCDD-LERM-LSCEH---QLVKNN--CKA----------SC-------YW------
+TNGEAMGGNHL---ARWL------------
+>ENSOANP00000029533 ENSOANG00000032114	241	CRISP2	cysteine rich secretory protein 2	Ornithorhynchus_anatinus	117A
+------------------------------------------------------------
+-----------------------------------MASLHLLVFLAAFLY-----L----
+-------------SSG-QDISFSNLSTS-NSQVQNEIVNKHNALRRQVSPPASNMLRM--
+-E--WSPEAAKNAKAWADQCTLQHSSPE-----KRVTN--TNCGENLFMSSSPNSWSNAI
+QSWYDEVKDFTYGKGAKT-----ANAVIGHYTQVVWYNSYQIGCSAAYCPNQPVFKYYM-
+-----VCQYCPA----------------------------------------GNNREK--
+---------------INEPYQRGTPCGSCKNACDKGLC-TN---PCKYENKWS-------
+----NCEE-LKNS-ATCNH---PQVKSD--CEA----------SC-------KC------
+TTEIK-------------------------
+>ENSECAP00000054102 ENSECAG00000006482	266	CRISP2	cysteine-rich secretory protein 2	Equus_caballus	117B
+------------------------------------------------------------
+-------V-----KQMLH--LALRTNCLYSFVFPAMALLPVLLFLAAVLL-----PFF--
+------------PASG-QDPGFAALSIT-KSEVQKEIVNKHNDLRRTVSPLASNMLKM--
+-Q--WDSKTATNAQNWANKCLLQHSKAE-----DRAVG-TMKCGENLFMSSIPNSWSDAI
+QNWHDEVHDFKYGVGPKT-----PNAVVGHYTQVVWYSSYRVGCGIAYCPKQGTLKYYY-
+-----VCQYCPA----------------------------------------GNYVNK--
+---------------INTPYEQGTPCARCPGNCDNGLC-TN---SCKYEDLVS-------
+----NCDS-LKKI-AGCEH---ELLKEN--CKA----------TC-------RC------
+ENKIY-------------------------
+>ENSCJAP00000058872 ENSCJAG00000047298	258	CRISP3	cysteine rich secretory protein 3	Callithrix_jacchus	117B
+------------------------------------------------------------
+----------------------MKQILHPALETTAMILLPLLLFLVAELL-----PSF--
+------------PANGSEDPAFTTLSTT-QTQVQREIVDKHNELRKAVSPPASNMLKM--
+-K--WNKEAAENAQKWANACSHSHSNPR-----DRKTS--LKCGENLYMSSAPNSWSQAI
+QSWFDEFHDFHFGVGPKT-----PDVVVGHYTQVVWYSSYLVGCGSAYCPNQKVLKYYY-
+-----VCHYCPA----------------------------------------GNWANR--
+---------------LYVPYEQGSPCASCPDYCDNGLC-TN---ACKYEDLYS-------
+----NCAS-LKAT-LTCQH---QLVRDG--CKA----------SC-------NC------
+TNSIY-------------------------
+>ENSCATP00000015246 ENSCATG00000031597	278	CRISP2	cysteine rich secretory protein 2	Cercocebus_atys	117A
+------------------------------------------------------------
+-----------------------------------MALLPV-LFLVMVLL-----PSL--
+------------PAEG-KDPAFTALLTT-QGQVQREIVNKHNELRKGVSPPASNMLKM--
+-E--WSKEVTANAQRWANKCTLQHSDPE-----DRKTS--TKCGENLYMSSDPTSWSAAI
+QSWYDESLDFVYGVGPKS-----PNAVVGHYTQLVWYSTYQVGCGIAYCPNQDALKYFY-
+-----VCQYCPAMKTYLNKGEGINVWKCF--LRLRH---FQLPRGEQLLSFSGNNVSR--
+---------------KNTPYQQGTPCASCPDNCDQGLC-TN---SCQYQDLLS-------
+----NCDS-LKKT-AGCEH---QLLKEK--CKA----------TC-------LC------
+ENKIY-------------------------
+>ENSCATP00000032951 ENSCATG00000039496	270	CRISP3	cysteine rich secretory protein 3	Cercocebus_atys	117B
+------------------------------------------------------------
+--LE-TTG-----NSC--TNHFNADPCSTGFVFPAMTLFPVLLFLVAGLL-----PSF--
+------------PANEDKDPTFTALLTN-QTQVQREIVNKHNELRRAVSPPASNMLKM--
+-E--WNKEAAANAQKWANQCNYRHSNPR-----DRKTS--LKCGENLYMSSAPNSWSQAI
+QSWFDEYKDFDFGVGPKT-----PNAVVGHYTQVVWYSSYLVGCGIAYCPNQAVLKYYY-
+-----VCQYCPT----------------------------------------GNWVNR--
+---------------LYVPYEQGAPCASCPNNCDDGLC-TN---GCKYEDLYS-------
+----NCEN-LKRT-YSCQH---PFVRDS--CKA----------SC-------NC------
+SNSIY-------------------------
+>ENSCSAP00000009028 ENSCSAG00000012852	243	CRISP2	cysteine rich secretory protein 2	Chlorocebus_sabaeus	117A
+------------------------------------------------------------
+-----------------------------------MALLPV-LFLVMVLL-----PSL--
+------------PAEG-KDPAFTALLTT-QGQVQREIVNKHNELRKGVSPPASNMLKM--
+-E--WSKEVTANAQRWANKCTLQHSDPE-----DRKTS--TKCGENLYMSSDPTSWSAAI
+QSWYDESLDFVYGVGPKS-----PNAVVGHYTQLVWYSTYQVGCGIAYCPNQDALKYFY-
+-----VCQYCPA----------------------------------------GNNVSR--
+---------------KNTPYQQGTPCASCPDNCDQGLC-TN---SCQYQDLLS-------
+----NCDS-LKKT-AGCEH---ELLKEK--CKA----------TC-------LC------
+ENKIY-------------------------
+>ENSCSAP00000009036 ENSCSAG00000012862	245	CRISP3	cysteine rich secretory protein 3	Chlorocebus_sabaeus	117B
+------------------------------------------------------------
+-----------------------------------MTLFPVLLFLVAGLL-----PSF--
+------------PANEDKDPAFTALLTT-QTQVQREIVNKHNELRRAVSPPASNMLKM--
+-E--WNKEAAANAQKWAKQCNYRHSNPK-----DRKTS--LKCGENLYMSSAPNSWSQAI
+QSWFDEYKDFDFGVGPKT-----PNAVVGHYTQVVWYSSYLVGCGIAYCPNQAVLKYYY-
+-----VCQYCPT----------------------------------------GNWVNR--
+---------------LYVPYEQGAPCASCPNNCDDGLC-TN---GCKYEDLYS-------
+----NCEN-LKRT-YSCQY---PFVRDS--CKA----------SC-------NC------
+SNSIY-------------------------
+>ENSGGOP00000035715 ENSGGOG00000024118	278	CRISP2	cysteine rich secretory protein 2	Gorilla_gorilla	117A
+------------------------------------------------------------
+-----------------------------------MALLPV-LFLVTVLL-----PSL--
+------------PAEG-KDPAFTALLTT-QLQVQREIVNKHNELRKAVSPPASNMLKM--
+-E--WSREVTTNAQRWANKCTLQHSDPE-----DRKTS--TRCGENLYMSSDPTSWSSAI
+QSWYDESLDFVYGVGPKS-----PNAVVGHYTQLVWYSTYQVGCGIAYCPNQDSLKYYY-
+-----VCQYCPAMKTYLNKREGINVWKCF--LRLRH---FQLLRGEQLLAFSGNNMNR--
+---------------KNTPYQQGTPCASCPDDCDKGLC-TN---SCQYQDLLS-------
+----NCDS-LKNT-AGCEH---ELLKEK--CKA----------TC-------LC------
+ENKIY-------------------------
+>ENSGGOP00000010631 ENSGGOG00000010906	268	CRISP3	cysteine rich secretory protein 3	Gorilla_gorilla	117B
+---------------------------------------------------MKQ------
+---------------ILHPALETTDPCSTGFVFPAMTLFPVLLFLVAGLL-----PSF--
+------------LANEDKDPAFTALLTT-QTQVQREIVNKHNELRRAVSPPARNMLKM--
+-E--WNKEAAANAQKWANQCNYRHSNPK-----DRMTS--LKCGENLYMSSAPSSWSQAI
+QSWFDEYNDFDFGVGPKT-----PNAVVGHYTQVVWYSSYLVGCGSAYCPNQKVLKYYY-
+-----VCQYCPA----------------------------------------GNWANR--
+---------------LYVPYEQGAPCASCPDNCDDGLC-TN---GCKYEDLYS-------
+----NCKS-LKLT-LTCKH---RLVRDS--CKA----------SC-------NC------
+SNSIY-------------------------
+>ENSP00000484609 ENSG00000124490	243	CRISP2	cysteine rich secretory protein 2	Homo_sapiens	117A
+------------------------------------------------------------
+-----------------------------------MALLPV-LFLVTVLL-----PSL--
+------------PAEG-KDPAFTALLTT-QLQVQREIVNKHNELRKAVSPPASNMLKM--
+-E--WSREVTTNAQRWANKCTLQHSDPE-----DRKTS--TRCGENLYMSSDPTSWSSAI
+QSWYDEILDFVYGVGPKS-----PNAVVGHYTQLVWYSTYQVGCGIAYCPNQDSLKYYY-
+-----VCQYCPA----------------------------------------GNNMNR--
+---------------KNTPYQQGTPCAGCPDDCDKGLC-TN---SCQYQDLLS-------
+----NCDS-LKNT-AGCEH---ELLKEK--CKA----------TC-------LC------
+ENKIY-------------------------
+>ENSP00000389026 ENSG00000096006	268	CRISP3	cysteine rich secretory protein 3	Homo_sapiens	117B
+---------------------------------------------------MKQ------
+---------------ILHPALETTDPCSTGFVFPAMTLFPVLLFLVAGLL-----PSF--
+------------PANEDKDPAFTALLTT-QTQVQREIVNKHNELRRAVSPPARNMLKM--
+-E--WNKEAAANAQKWANQCNYRHSNPK-----DRMTS--LKCGENLYMSSASSSWSQAI
+QSWFDEYNDFDFGVGPKT-----PNAVVGHYTQVVWYSSYLVGCGNAYCPNQKVLKYYY-
+-----VCQYCPA----------------------------------------GNWANR--
+---------------LYVPYEQGAPCASCPDNCDDGLC-TN---GCKYEDLYS-------
+----NCKS-LKLT-LTCKH---QLVRDS--CKA----------SC-------NC------
+SNSIY-------------------------
+>ENSMMUP00000026054 ENSMMUG00000019818	295	CRISP3	cysteine rich secretory protein 3	Macaca_mulatta	117B
+-------------------------MTKTSES-GSKVIKL-----------MTS---FKR
+GSYPTLMS-----CKASSVFIDALDKVKPQLLSKTMTLFPVLLFLVAGLL-----PSF--
+------------PANEDKDPAFTALLTT-QTQVQREIVNKHNELRRAVSPPASNMLKM--
+-E--WNKEAAANAQKWANQCNYRHSNPR-----DRKTS--LKCGENLYMSSAPNSWSQAI
+QSWFDEYEDFDFGVGPKT-----PNAVVGHYTQVVWYSSYLVGCGIAYCPNQAVLKYYY-
+-----VCQYCPT----------------------------------------GNWVNR--
+---------------LYVPYEQGAPCASCPNNCDDGLC-TN---GCKYEDLYS-------
+----NCEN-LKRT-YSCQY---PFVRDS--CKA----------SC-------NC------
+SNSIY-------------------------
+>ENSMLEP00000035483 ENSMLEG00000041877	278	CRISP2	cysteine rich secretory protein 2	Mandrillus_leucophaeus	117A
+------------------------------------------------------------
+-----------------------------------MALLPV-LFLVMVLL-----PSL--
+------------PAEG-KDPAFTALLTT-QGQVQREIVNKHNELRKGVSPPASNMLKM--
+-E--WSKEVTANAQRWANKCTLQHSDPE-----DRKTS--TKCGENLYMSSDPTSWSAAI
+QSWYDESLDFVYGVGPKS-----PNAVVGHYTQLVWYSTYQVGCGIAYCPNQDALKYFY-
+-----VCQYCPAMKTYLNKGEGINVWKCF--LRLRH---FQLPRGEQLLSFSGNNVSR--
+---------------KNTPYQQGTPCASCPDNCDQGLC-TN---SCQYQDLLS-------
+----NCDS-LKKT-AGCEH---QLLKEK--CKA----------TC-------LC------
+ENKIY-------------------------
+>ENSMLEP00000002459 ENSMLEG00000009946	271	CRISP3	cysteine rich secretory protein 3	Mandrillus_leucophaeus	117B
+------------------------------------------------------------
+--LETTGN-----NSC--TNHFNADPCSTGFVFPAMTLFPVLLFLVAGLL-----PSF--
+------------PANEDKDPAFTALLTN-QTQVQREIVNKHNELRRAVSPPASNMLKM--
+-E--WNKEAAANAQKWANQCNYRHSNPR-----DRKSS--LKCGENLYMSSAPNSWSQAI
+QSWFDEYKDFDFGVGPKT-----PNAVVGHYTQVVWYSSYLVGCGIAYCPNQAVLKYYY-
+-----VCQYCPT----------------------------------------GNWVNR--
+---------------LYVPYEQGAPCASCPNNCDDGLC-TN---GCKYEDLYS-------
+----NCEN-LKRT-YSCQH---PFVRDS--CKA----------SC-------NC------
+SNSIY-------------------------
+>ENSMICP00000040493 ENSMICG00000014964	267	CRISP2	cysteine-rich secretory protein 2-like	Microcebus_murinus	117A
+------------------------------------------------------------
+-----------------------------------MALLPVLLFLVTTLL-----PSL--
+------------PTEG-KDPAFTALLTT-ETQVQREIVNKHNELRKAVSPPASNMLKM--
+-E--WNREASANAQKWANKCTLQHSDPE-----ERKTT--TKCGENLYMSSDPTSWSTAI
+QSWYDESLDFEYGVGQRN-----PEKVVGHYTQLVWYSSYLVGCGIAYCPNQDFLKYYY-
+-----VCQYCPA--------GGINVWKYFF-LRLRH---FQ------LLSSNGNNVSK--
+---------------KNTPYQHRSTCASCPDHCEKGYAVTN---SCQYEDLLS-------
+----NCDS-LKNT-AGCEH---ELLKEK--CKA----------TC-------LC------
+ENKIY-------------------------
+>ENSMICP00000002388 ENSMICG00000002617	245	CRISP3	cysteine rich secretory protein 3	Microcebus_murinus	117B
+------------------------------------------------------------
+-----------------------------------MALFLVLLFLAAGLL-----PCF--
+------------PADGSEDPKFASVLTS-RKEVQREIVDKHNELRRAVSPSASNMLKM--
+-E--WSSQAAANAQKWANQCKYQHSTPE-----FRRTN--TSCGENLYMSSAITSWSSAI
+QSWDNEKHDFIFEVGPKT-----PNAVVGHHTQVVWYSSHLVGCGFAHCPNQNGLSFFF-
+-----VCQYCPA----------------------------------------GNSFSR--
+---------------IYAPYQQGKSCASCPNDCDDGLC-TN---VCKYEDKYS-------
+----NCKQ-LKNK-FGCIH---QLVEDS--CKA----------AC-------NC------
+VNEIY-------------------------
+>ENSPTRP00000084221 ENSPTRG00000018262	277	CRISP2	cysteine rich secretory protein 2	Pan_troglodytes	117A
+------------------------------------------------------------
+-----------------------------------MALLPV-LFLVTVLL-----PSL--
+------------PAEG-KDPAFTALLTT-QLQVQREIVNKHNELRKAVSPPASNMLKM--
+-E--WSREVTTNAQRWANKCTLQHSDPE-----DRKTS--TRCGENLYMSSDPTSWSSAI
+QSWYDESLDFVYGVGPKS-----PNAVVGHYTQLVWYSTYQVGCGIAYCPNQDSLKYYY-
+-----VCQYCPAMKTYLNKREGINVWKCF--LRLRH---FQLLR-EQLLTFSGNNMNR--
+---------------KNTPYQQGTPCASCPDDCDKGLC-TN---SCQYQDLLS-------
+----NCDS-LKNT-AGCEH---ELLKEK--CKA----------TC-------LC------
+ENKIY-------------------------
+>ENSPANP00000038666 ENSPANG00000008643	278	CRISP2	cysteine rich secretory protein 2	Papio_anubis	117A
+------------------------------------------------------------
+-----------------------------------MALLPV-LFLVMVLL-----PSL--
+------------PAEG-KDPAFTALLTT-QGQVQREIVNKHNELRKGVSPPASNMLKM--
+-E--WSKEVTANAQRWANKCTLQHSDPE-----DRKTS--TKCGENLYMSSDPTSWSAAI
+QSWYDESLDFVYGVGPKS-----PNAVVGHYTQLVWYSTYQVGCGIAYCPNQDALKYFY-
+-----VCQYCPAMKTYLNKGEGINVWKCF--LRLRH---FQLPRGEQLLSFSGNNVSR--
+---------------KNTPYQQGTPCASCPDNCDQGLC-TN---SCQYQDLLS-------
+----NCDS-LKKT-AGCEH---QLLKEK--CKA----------TC-------LC------
+ENKIY-------------------------
+>ENSPANP00000012950 ENSPANG00000020813	245	CRISP3	cysteine rich secretory protein 3	Papio_anubis	117B
+------------------------------------------------------------
+-----------------------------------MTLFPVLLFLVAGLL-----PSF--
+------------PANEDKDPAFTALLTN-QPQVQREIVNKHNELRRAVSPPASNMLKM--
+-E--WNKEAAANAQKWANQCNYRHSNPR-----DRKTS--LKCGENLYMSSAPNSWSQAI
+QSWFDEYKDFDFGVGPKT-----PNAVVGHYTQVVWYSSYLVGCGIAYCPNQAVLKYYY-
+-----VCQYCPT----------------------------------------GNWVNR--
+---------------LYVPYEQGAPCASCPNNCDDGLC-TN---GCKYEDLYS-------
+----NCEN-LKRT-YSCQR---PFVRDS--CKA----------SC-------NC------
+SNSIY-------------------------
+>ENSPPYP00000018673 ENSPPYG00000016690	212	CRISP2	cysteine rich secretory protein 2	Pongo_abelii	117A
+------------------------------------------------------------
+-----------------------------------MALLPV-LFLVTVLL-----TSL--
+------------PAEG-KDPSFTALLTT-QLQVQREIVNKHNELRKAVSPPASNMLKM--
+-E--WSREVTTNAQRWANQCTLQHSDPE-----DRKTS--TRCGENLYMSSDPTSWSAAI
+QSWYDESLDFVYGVGPKS-----PNAVVGHYTQLVWYSTYQVGCGIAYCPNQDSLKYYY-
+-----VCQYCP-------------------------------------------------
+----------------------------------------N---SCQYQDLLS-------
+----NCDS-LKNT-AGCEH---ELLKEK--CKA----------TC-------LC------
+ENKIY-------------------------
+>ENSPPYP00000018674 ENSPPYG00000016691	245	CRISP3	cysteine rich secretory protein 3	Pongo_abelii	117B
+------------------------------------------------------------
+-----------------------------------MTLFPVLLFLVAGLL-----PSF--
+------------PANEDKDPAFTALLTT-QTQVQREIVNKHNELRRAVSPPARNMLKM--
+-E--WNKEAAANAQKWANQCNYRHSNPK-----DRKTS--LKCGENLYMSSAPSSWSQAI
+QSWFDEHNDFDFGVGPKT-----PNAVVGHYTQVVWYSSYLVGCGSAYCPNQKVLKYYY-
+-----VCQYCPA----------------------------------------GNWANR--
+---------------LYVPYEQGAPCASCPDNCDDGLC-TN---GCKYEDLYS-------
+----NCKS-LKLT-LTCKH---RLVRDS--CKA----------SC-------NC------
+SNSIY-------------------------
+>ENSTGEP00000037357 ENSTGEG00000029714	243	CRISP2	cysteine rich secretory protein 2	Theropithecus_gelada	117A
+------------------------------------------------------------
+-----------------------------------MALLPV-LFLVMVLL-----PSL--
+------------PAEG-KDPAFTALLTT-QGQVQREIVNKHNELRKGVSPPASNMLKM--
+-E--WSKEVTANAQRWANKCTLQHSDPE-----DRKTS--TKCGENLYMSSDPTSWSAAI
+QSWYDESLDFVYGVGPKS-----PNAVVGHYTQLVWYSTYQVGCGIAYCPNQDALKYFY-
+-----VCQYCPA----------------------------------------GNNVSR--
+---------------KNTPYQQGTPCASCPDNCDQGLC-TN---SCQYQDLLS-------
+----NCDS-LKKT-AGCEH---QLLKEK--CKA----------TC-------LC------
+ENKIY-------------------------
+>ENSTGEP00000000046 ENSTGEG00000000066	269	CRISP3	cysteine rich secretory protein 3	Theropithecus_gelada	117B
+------------------------------------------------------------
+----MLLS-----NSC--TNHFNADPCSTGFVFPAMTLFPVLLFLVAGLL-----PSF--
+------------PANEDKDPAFTALLTN-QTQVQREIVNKHNELRRAVSPPASNMLKM--
+-E--WNKEAAANAQKWANQCNYRHSNPR-----DRKTS--LKCGENLYMSSAPNSWSQAI
+QSWFDEYKDFDFGVGPKT-----PNAVVGHYTQVVWYSSYLVGCGIAYCPNQAVLKYYY-
+-----VCQYCPT----------------------------------------GNWVNR--
+---------------LYVPYEQGAPCASCPNNCDDGLC-TN---GCKYEDLYS-------
+----NCEN-LKRT-YSCQH---PFVRNS--CKA----------SC-------NC------
+SNSIY-------------------------
+>ENSLAFP00000004488 ENSLAFG00000005361	244	CRISP2	cysteine rich secretory protein 2	Loxodonta_africana	117A
+------------------------------------------------------------
+-----------------------------------MALLPVVLFLATVLL-----PSL--
+------------PAEG-KDPAFTALLTT-QTSVQKEIVNKHNELRKGVSPPASNMLKM--
+-E--WNREAMTNAQKWANKCTLEHSSPE-----DRKTS--TKCGENLYMSSDPTSWSNAV
+QNWYDESHDFVYGVGAKS-----PNVAVGHYTQVVWYSSFRVGCGIAFCPNQEELKYFY-
+-----VCHYCPA----------------------------------------GNNVNR--
+---------------KHTPYKEGAPCASCPGNCENGLC-TN---SCEYEDFLS-------
+----NCAD-LKIK-AGCEH---ELLKEK--CQA----------TC-------KC------
+ENKIY-------------------------
+>ENSLAFP00000000834 ENSLAFG00000000995	176	no_data	no_data	Loxodonta_africana	117B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------IVDKHNELRRAVSPEASDMLKM--
+-G--WDNEAAKNAQNWANKCIYEHSDKK-----DRRTN--TSCGENLFMSSAPTSWSYGI
+QSWYDESSDFVYGAGPTS-----PNAVIGHYTQVVWSTSFRVGCGIAYCPNQGVLKYFY-
+-----VCQYCPA----------------------------------------GNYINR--
+---------------QYFPYKKGPPCSSCPGYCDKGLC-SK---YEIINLYYF-------
+----QWK-----------------------------------------------------
+------------------------------
+>ENSCCNP00000006935 ENSCCNG00000007426	244	Crisp2	cysteine-rich secretory protein 2-like	Castor_canadensis	117A
+------------------------------------------------------------
+-----------------------------------MTSLPMVIFVITMLF-----PNV--
+------------PAQG-KDPAFAALLTT-QTQVQREIVSKHNELRKSVSPPASNMLKM--
+-E--WNREATGNAQKWANKCILSHSSSE-----DRKTR--TRCGENLYMSSDPTPWSTAI
+QSWFNEREGFTYGVGPKG-----PDVVVGHYTQLVWYSSYQIGCGIAFCPNQENLKYFY-
+-----VCQYCPV----------------------------------------GNNVSK--
+---------------KNTPYQQGTPCASCPGSCENGLC-TN---SCEYEDLLS-------
+----NCDS-LKQS-AGCEH---EVLKEK--CKA----------TC-------LC------
+ENKIH-------------------------
+>ENSCCNP00000006921 ENSCCNG00000007423	244	no_data	cysteine-rich secretory protein 3-like	Castor_canadensis	117B
+------------------------------------------------------------
+-----------------------------------MAPFPALLFLVAVLI-----PSCPA
+------------YVYED--QDVGSLSTH-LPEIQEEIVGKHNELRKSVSPSASNMLKM--
+-R--WSSAASKNAQKWAENCNYAHSMSS-----FRRT--NMSCGENLYMSSHLPTWSNAI
+QSWYDEVHDFTFGEGPKE-----PFAIVGHYTQIVWYSSFLIGCGVAYCPEN-SLKYFM-
+-----VCHYCPA----------------------------------------GNYLNR--
+---------------YYVPYDEGEPCARCPDHCDDGLC-TN---SCGYEDQYS-------
+----NCPV-LAKT-ATCNH---LVVKA--KCQA----------TC-------KC------
+QGKIY-------------------------
+>ENSCPOP00000009992 ENSCPOG00000011111	244	CRISP2	Cysteine-rich secretory protein 2	Cavia_porcellus	117A
+------------------------------------------------------------
+-----------------------------------MALLPVVVFLITMLL-----PCV--
+------------LTNG-KDPAFTALITT-QSQVQNEIINKHNQLRKSVTPPASNMLKM--
+-E--WSREAAVNAQKWANRCTLVHSNPD-----DRKTS--TKCGENLYMSSDPSSWSDAI
+QSWFDESQDFTFGVGPKS-----HNAVVGHYTQLVWYSSYLVGCGIAYCPNQDSLKYYY-
+-----VCQYCPA----------------------------------------GNNVYT--
+---------------KNTPYKQGIPCASCPGHCENGLC-TN---SCEYEDLLS-------
+----NCES-LKNT-AGCEH---QLLVEK--CKA----------TC-------RC------
+EDKIY-------------------------
+>ENSCLAP00000013973 ENSCLAG00000009665	244	CRISP2	cysteine-rich secretory protein 2	Chinchilla_lanigera	117A
+------------------------------------------------------------
+-----------------------------------MALLPMVVFLITMLL-----PSL--
+------------PTEG-KDPAFTALLTT-QSQVQTEIVNKHNELRKSVTPSASNMLKM--
+-E--WSREATVNAQKWANKCTLQHSNPD-----DRKTS--TKCGENLYMSSDPAAWSNAI
+QSWFDESRDFTFGVGPKS-----RSAVVGHYTQLVWYSSYLVGCGVAYCPNQDSLKYYY-
+-----VCQYCPA----------------------------------------GNNANT--
+---------------KNTPYKQGTPCASCPNHCENGLC-TN---SCEYEDLLS-------
+----NCES-LKES-AGCDH---QLLVEK--CKA----------TC-------RC------
+ENKIH-------------------------
+>ENSCLAP00000015402 ENSCLAG00000010600	259	CRISP3	cysteine-rich secretory protein 3-like	Chinchilla_lanigera	117B
+------------------------------------------------------------
+-------M-----KQILHPALRS---------NGAMALFPVILFLVAVLL-----PSL--
+------------PVNGNEDPAFAVLSTT-LPQVQEEIVNKHNELRRAVSPSASDMLKM--
+-K--WSSAAAENAQAWASKCTYSHSSSE-----DRKLN--VSCGENLFMSTAPSSWSSAI
+QQWYDESKNFEYGVGPLS-----PNGVVGHYTQVVWYSSFSVGCAYAHCPSQSPLEYFM-
+-----VCQYCPA----------------------------------------GNNVAK--
+---------------LYTPYKQGTPCASCPDHCEDGLC-TN---SCDYGDKYS-------
+----NCES-LKKA-VTCDH---EMVKNN--CQA----------SC-------NC------
+EGKIY-------------------------
+>ENSDORP00000010727 ENSDORG00000011413	149	no_data	cysteine-rich secretory protein 2-like	Dipodomys_ordii	117A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------DPAFTSLLTT-QPQIQREIVNKHNELRRSVSPTASNMLKM--
+-E--WNLDATANAQKWANKCTLQHSLAE-----ERKTT--VKCGENLYMSSDPTSWSDVI
+QNWFNEREGFNYGVGPKT-----PTTPVGHYTQLAWYSSYQVGCGIAYCPNQENFKYYY-
+-----VCQYCP-------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------
+>ENSDORP00000010731 ENSDORG00000011420	152	no_data	cysteine-rich secretory protein 3-like	Dipodomys_ordii	117B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------VSCGENLFMSSHLTTWSHAI
+QTWYDEHFDFNFGVGPKT-----SDAVVGHYTQVVWYASHLVGCGVSYCPKQ-SLKIFM-
+-----VCQYCPA----------------------------------------GNVYNR--
+---------------LYTPYNKGKPCGSCPNDCDDGLC-TN---SCPYNNKYS-------
+----NCNY-LKQT-ASCEH---PMVKSN--CAA----------SC-------YC------
+NGKIYN------------------------
+>ENSSTOP00000011769 ENSSTOG00000013131	255	CRISP2	cysteine rich secretory protein 2	Ictidomys_tridecemlineatus	117A
+------------------------------------------------------------
+------------------------RKQVFYSVFPTMALLPMALLLIAMLL-----PSL--
+------------PAEG-KDPAFTSLLTT-QTQVQMEIVNKHNELRKSVSPPASNMLKM--
+-E--WNREATQNAQKWANKCTLQHSGPE-----DRQTT--TKCGENLYMSSDPAPWSTAI
+QSWYDESRGFTYGKGPKN-----PQAIVGHYTQLVWYSSFRVGCGVAYCPNQDSLKYFY-
+-----VCQYCPA----------------------------------------GNNVSK--
+---------------KNNPYQQGTPCASCPNNCENGLC-TN---SCEFEDLLS-------
+----NCES-LKST-AGCDH---ELLKEK--CKA----------TC-------QC------
+ENKIY-------------------------
+>ENSSTOP00000024527 ENSSTOG00000033453	244	CRISP3	cysteine-rich secretory protein 3	Ictidomys_tridecemlineatus	117B
+------------------------------------------------------------
+-----------------------------------MASYPVLLFLATVLH-----SFF--
+------------PAYGNENQDLNALSTT-QKEVQSEIVNKHNELRKSVSPTASNMLKM--
+-K--WSNEAAANAQKWANQCIYSHSAPD-----ARKTN--ISCGENLFMSDYLPSWSEAI
+QAWYDEHHDFIYNVGGKT-----PSAVVGHYTQVVWYSSFHVGCGIALCTNQ-NLKYFL-
+-----VCQYCPA----------------------------------------GNYLSR--
+---------------INTPYDKGAPCGSCPGHCEDGLC-TN---GCDHEDGYG-------
+----NCKY-LKNA-LTCEN---PITKKG--CNA----------TC-------NC------
+ENKIY-------------------------
+>ENSMUGP00000027588 ENSMUGG00000022906	243	Crisp2	cysteine-rich secretory protein 2-like	Meriones_unguiculatus	117A
+------------------------------------------------------------
+-----------------------------------MAWFQLMLLLFALLL-----QSL--
+------------PIEG-KDPEFTSLTTN-HPHIQSEIVSKHNELRKAVKPSARNMLKM--
+-E--WSVAATTNAQKWANNCVLEHSKPE-----DRKIN--VGCGENLFMASDPTLWSVVI
+QSWFDESKSFIYGTGAKG-----N-AAVGHYTQLVWYSSFKVGCGVAFCPNQEMLKYFY-
+-----VCHYCPA----------------------------------------GNNVMK--
+---------------KATPYIQGEPCASCPNNCENGLC-TN---NCNFEDVLS-------
+----NCES-LKAS-AGCEH---QLLKEK--CQA----------TC-------LC------
+EDKIH-------------------------
+>ENSMUGP00000019895 ENSMUGG00000016814	243	no_data	cysteine-rich secretory protein 1-like	Meriones_unguiculatus	117B
+------------------------------------------------------------
+-----------------------------------MALFPALLFLAAVLP-----SSLLQ
+------------DNYEN--KDLEDLSTT-LKSVQEEIVNKHNQLRRMVSPPGSDLLKM--
+-Q--WNHDAQRNAQSWANKCKYHHSSEE-----FRTI--DKKCGENLFMANYLTSWSSVI
+QNWFDEHNDFVIGFGPNK-----LGAKVGHYTQIVWNSTYQVACGIAECPEN-PLNFFY-
+-----VCHYCPA----------------------------------------GNYVRR--
+---------------LYTPYTEGEPCALCPNDCEDGLC-TN---SCEYVDVYS-------
+----NCED-MK-I-LSCEN---PTVKK--DCQA----------TC-------DC------
+EDKIH-------------------------
+>ENSMAUP00000006581 ENSMAUG00000008482	243	Crisp2	cysteine-rich secretory protein 2-like	Mesocricetus_auratus	117A
+------------------------------------------------------------
+-----------------------------------MGWFQVMLLLFALLL-----QSL--
+------------PSEG-KDPAFTALLTN-QVHVQREIVSKHNELRRGVNPTASNMLKM--
+-E--WSIEATGNAQKWANKCMLEHSNSE-----DRKTS--TRCGENLYMSSDPTSWSAVV
+QNWYDESEDFTYGVGAK------PNAAVGHFTQVVWYSSYKIGCGVAYCPNQETLKYFY-
+-----VCQYCPA----------------------------------------GNNVMK--
+---------------KSTPYQQGEPCASCPNNCDNGLC-TN---SCEFEDYLS-------
+----NCES-LKSS-AGCEH---EVLKEK--CQA----------TC-------LC------
+EGKIH-------------------------
+>ENSMAUP00000008175 ENSMAUG00000009650	244	no_data	no_data	Mesocricetus_auratus	117B
+------------------------------------------------------------
+-----------------------------------MTLLPLLLFLAAVLP-----PSLLQ
+------------DDWEN--EDFENLSTS-RVSVQEQIVNKHNELRRMVSPPASDLLKM--
+-Q--WSNDAQVNAQRWANQCSFHHSPRE-----DRRI--NIGCGENLFMSSYPASWSAAI
+QSWYDESNDFVFGSGPKT-----SGAAVGHYTQLVWNTSYLIGCGVAECPGQ-SWRFYY-
+-----VCQYCPP----------------------------------------GNLVAR--
+---------------IYNPYTIGEPCGSCPNDCEDGLC-TN---SCGYEDNYS-------
+----NCED-LKAS-LTCNH---PIVKK--DCKA----------AC-------NC------
+EGKIH-------------------------
+>ENSMOCP00000016065 ENSMOCG00000015071	243	Crisp2	cysteine-rich secretory protein 2-like	Microtus_ochrogaster	117A
+------------------------------------------------------------
+-----------------------------------MAWFQVMLFLFALLL-----QSL--
+------------PTEG-KDPAFAALLTG-QVQVQREIVNKHNELRRAVNPTASNMLKM--
+-E--WSVETTGNAQKWANKCTLEHSNPE-----ARKTS--TRCGENLYMSSDPTPWSTLI
+QSWYDENEYFTYGVGAQ------PNAAVGHFTQVVWYSSYKIGCGVAYCPNQNTLKYFY-
+-----VCQYCPA----------------------------------------GNNVLT--
+---------------KATPYKQGEPCASCPNNCENGLC-TN---SCEFEDSLS-------
+----NCEA-LKKS-AGCEH---KLLMEK--CKA----------TC-------LC------
+ENKIH-------------------------
+>ENSMOCP00000011620 ENSMOCG00000011880	239	no_data	cysteine-rich secretory protein 1-like	Microtus_ochrogaster	117B
+------------------------------------------------------------
+-----------------------------------MTSFPLLLFLAAMLP-----PSL-Q
+------------DDYEK--LVFEDLSTT-TESVIEKIVFKHHELRVLLDPRGSDLLEM--
+-Q--WNSEAQVNAQAWANQCSYQHSSQE-----TRKIE-NLRCGENIFMASYPASWSQVI
+KSWHAESKNFKFGSGPTT-----PGAAVGHYTQLVWNSSHQLGCGVAECPNN-PLKYFY-
+-----VCHYCPP----------------------------------------GNFLNR--
+---------------IYTPYTVGEICGSCPNHCDEGLC-TN---RCYYEDKYS-------
+----NCPS-LKAS-VTCEH---ILTFG--NCDA----------TC-------HC------
+------------------------------
+>ENSMUSP00000156411 ENSMUSG00000023930	243	Crisp2	cysteine-rich secretory protein 2	Mus_musculus	117A
+------------------------------------------------------------
+-----------------------------------MAWFQVMLFVFALLL-----RSP--
+------------LTEG-KDPDFTSLLTN-QLQVQREIVNKHNELRRSVNPTGSDILKM--
+-E--WSIQATTNAQKWANKCILEHSSKD-----DRKIN--IRCGENLYMSTDPTLWSTVI
+QSWYNENEDFVYGVGAK------PNSAVGHYTQLVWYSSFKIGCGIAYCPNQDNLKYFY-
+-----VCHYCPM----------------------------------------GNNVMK--
+---------------KSTPYQQGTPCASCPNNCENGLC-TN---SCDFEDLLS-------
+----NCES-LKTS-AGCKH---ELLKTK--CQA----------TC-------LC------
+EDKIH-------------------------
+>ENSMUSP00000026498 ENSMUSG00000025431	244	Crisp1	cysteine-rich secretory protein 1	Mus_musculus	117B
+------------------------------------------------------------
+-----------------------------------MALMLVLFFLAAVLP-----PSLLQ
+------------DSSQE--NRLEKLSTT-KMSVQEEIVSKHNQLRRMVSPSGSDLLKM--
+-E--WNYDAQVNAQQWADKCTFSHSPIE-----LRTT--NLRCGENLFMSSYLASWSSAI
+QGWYNEYKDLTYDVGPKQ-----PDSVVGHYTQVVWNSTFQVACGVAECPKN-PLRYYY-
+-----VCHYCPV----------------------------------------GNYQGR--
+---------------LYTPYTAGEPCASCPDHCEDGLC-TN---SCGHEDKYT-------
+----NCKY-LKKM-LSCEH---ELLKK--GCKA----------TC-------LC------
+EGKIH-------------------------
+>ENSODEP00000012773 ENSODEG00000009452	235	CRISP2	cysteine-rich secretory protein 2	Octodon_degus	117A
+------------------------------------------------------------
+---------------------------------------PN-TYV----I-----FIP--
+------------LNLF-TDPAFTSLLTT-QPQVQSEIVNKHNELRKSVSPPASNMLKM--
+-E--WSREATVNAQKWANKCTLEHSEPD-----DRKTS--TKCGENLYMSSDPTSWSNAI
+QSWFDESQDFTYGVGPKT-----HSAIVGHYTQLVWYSSYLVGCGVAYCPNQDSLKYYY-
+-----VCQYCPA----------------------------------------GNSVSA--
+---------------KNTPYKQGQPCASCPGHCEHGLC-TN---SCEYEDLLS-------
+----NCES-LKST-AGCEH---QLLVEK--CKA----------TC-------RC------
+ENKIY-------------------------
+>ENSPEMP00000027045 ENSPEMG00000022961	243	Crisp2	cysteine-rich secretory protein 2	Peromyscus_maniculatus_bairdii	117A
+------------------------------------------------------------
+-----------------------------------MASFQVMLFLFALLH-----QSL--
+------------PTEG-KDPAFTALLTN-QPQIQREIVNKHNELRRSVNPTASNMLKM--
+-E--WSIAASGNSQKWANKCILEHSNSQ-----DRKIN--TKCGENLYMSSDPTSWSAVI
+QNWYDESEFFTYGVGAK------PNAAVGHYTQVVWYSSYKVGCGIAYCPNQDILKYFY-
+-----VCQYCPA----------------------------------------GNNALT--
+---------------KSTPYQQGEACASCPNNCDNGLC-TN---SCEYEDLLS-------
+----NCES-LKNS-AGCAH---ELLKEK--CQA----------TC-------LC------
+EGKIH-------------------------
+>ENSPEMP00000025077 ENSPEMG00000021612	244	no_data	no_data	Peromyscus_maniculatus_bairdii	117B
+------------------------------------------------------------
+-----------------------------------MTLFPLLLFLIAVLP-----PSLPQ
+------------DDYED--TNFEDLITS-KESVQEEIVNKHNQLRRMVSPPGSDLLKM--
+-H--WSYDSQANAQIWASQCSYQHSPAD-----SRTT--KIRCGENIFMSSYPASWSHVI
+QSWFDEGKYFNFDSGPNP-----PDAIVGNYTQVVWNSSFQVACGVAKCSHQ-LLPFLY-
+-----VCHYCPP----------------------------------------GNIERW--
+---------------QYIPYTIGKPCALCPDHCEDGLC-TN---SCEYEDKFS-------
+----ICEE-LKAS-LTCDY---PMVNQ--VCKA----------TC-------NC------
+KRKIH-------------------------
+>ENSRNOP00000017996 ENSRNOG00000013225	243	Crisp2	cysteine-rich secretory protein 2	Rattus_norvegicus	117A
+------------------------------------------------------------
+-----------------------------------MAWFQVMLFVFAVLL-----PLP--
+------------PTEG-KDPDFATLTTN-QIQVQREIIAKHNELRRQVSPPGSNILKM--
+-E--WNVQAAANAQKWANNCILEHSSTE-----DRKIN--IKCGENLYMSTDPTSWRTVI
+QSWYEENENFVFGVGAK------PNSAVGHYTQLVWYSSFKVGCGVAYCPNQDTLKYFY-
+-----VCHYCPM----------------------------------------GNNVMK--
+---------------KSTPYHQGTPCASCPNNCDNGLC-TN---SCDFEDLLS-------
+----NCES-LKSS-AGCKH---ELLKAK--CEA----------TC-------LC------
+EDKIH-------------------------
+>ENSRNOP00000018162 ENSRNOG00000013496	246	Crisp3	cysteine-rich secretory protein 3	Rattus_norvegicus	117B
+------------------------------------------------------------
+-----------------------------------MALMLVLLFLAAVLP-----PSLLQ
+------------DTTDEWDRDLENLSTT-KLSVQEEIINKHNQLRRTVSPSGSDLLRV--
+-E--WDHDAYVNAQKWANRCIYNHSPLQ-----HRTT--TLKCGENLFMANYPASWSSVI
+QDWYDESLDFVFGFGPKK-----VGVKVGHYTQVVWNSTFLVACGVAECPDQ-PLKYFY-
+-----VCHYCPG----------------------------------------GNYVGR--
+---------------LYSPYTEGEPCDSCPGNCEDGLC-TN---SCEYEDNYS-------
+----NCGD-LKKM-VSCDD---PLLKE--GCRA----------SC-------FC------
+EDKIH-------------------------
+>ENSTBEP00000005597 ENSTBEG00000006498	272	CRISP2	cysteine rich secretory protein 2	Tupaia_belangeri	117A
+------------------------------------------------------------
+-----------------------------------MALFPVVLFLLTVLL-----PPL--
+------------PAEG-KDPFTA-L----TTQIQRRVIT-----HDKVSPPASNMLKM--
+-E--WNREAATNAQKWANKCTLEHSTPE-----DRQTS--TKCGENLYMSSDPTSWSTAI
+QSWYDEGLDFVYGVGSKS-----PTAVTGHYTQLVWYSSYRVGCGIAYCPNQESLKYYY-
+-----VCQYCPAIKRHXXXXXXX-XXXXXXXXXXXXXX--XXXXXXXXXXXXGNNVNK--
+---------------KNTPYQQGIPCSSCPGNCDSGLC-TN---SCEYEDFLS-------
+----NCGS-LKAS-AGCDH---ELLKEK--CKA----------TC-------LC------
+ENKIY-------------------------
+>ENSANIP00000006831 ENSANIG00000004633	201	CRISP2	cysteine rich secretory protein 2	Accipiter_nisus	117A
+------------------------------------------------------------
+----------------------M----ILPVVF------LCLTA---LLP----------
+------------PSTGEEPEGFDALSTS-KASQQELIVDRHNTLRRGVKPTASNMLKM--
+-E--WCPPAAKNAQEWANQCTLSHSPGN-----MRTTS--VQCGENLFMSSAPFPWSDVI
+DAWYNEKEDFKYGTGAKT-----QGAVIGHYTQMVWYNSYQIGCAVAFCP-NSRYKYFY-
+-----VCQYCPM----------------------------------------GNLISS-I
+----------------PTPYKEGEPCGDCPNACDNGLC-KV-------------------
+------------------------------------------------------------
+------------------------------
+>ENSACCP00020013262 ENSACCG00020009125	231	CRISP2	cysteine rich secretory protein 2	Aquila_chrysaetos_chrysaetos	117A
+------------------------------------------------------------
+--------------------------------F------LVL------------------
+QVLSY-----VSLPLLREPEGFDALSTS-KASQQKLIVDGHNTLRRGVKPTASNMLKM--
+-E--WCPPAAKNAQEWANQCTLSHSPGN-----MRRTT--VQCGENLFMSSAPFPWSDVI
+DAWYNEKKDFKYGTGAKT-----QGAVIGHYTQMVWHNSYQIGCAVAFCP-NSKYKYFY-
+-----VCQYCPM----------------------------------------YKYQTR-T
+WFSINISSFYFYLLYLANPCKYQDVFGNCRN-------------L---------------
+----------KTL-FSCNN---SFVKE--KCPA----------TC-------RC------
+TTKII-------------------------
+>ENSAOWP00000017304 ENSAOWG00000011838	271	CRISP2	cysteine rich secretory protein 2	Apteryx_owenii	117A
+------------------------------MCRKSL-V---------------RYLGFGE
+T-ISL-----K--SGATENLYSQ----GLPNF----KAVDCTHI---FTL----------
+------------NPLLAQGYLFDALSTS-KADQQKLIVDKHNALRRGVKPSASNMLKM--
+-E--WSPEIAKNAKAWANQCTLSHSPAD-----MRKIN--VTCGENLFMSTAPFSWPDVV
+QDWYDEVKDFSYGTGATS-----LGAVVGHYTQVVWYRSYKVGCAVAHCP-KAKFSCFY-
+-----VCQYCPA----------------------------------------GNRIDS-L
+----------------GKPYKEGNPCGDCPNNCDNGLC-TN---PCKYVDVYD-------
+----NCPD-LAKS-FGCAF---NFVKL--NCPA----------TC-------QC------
+KTEIK-------------------------
+>ENSDNVP00000016955 ENSDNVG00000011856	241	CRISP2	cysteine-rich venom protein-like	Dromaius_novaehollandiae	117A
+------------------------------------------------------------
+----------------------M----ILP------AVFLCLTA---VLP----------
+------------QSTAEEHASFDVLSXS-KADQQKLVVDKHNALRRGVNPSASNMLKM--
+-K--WSPEVAKNAEAWANKCTLSHSPTA-----LRKIN--VTCGENLFMSTAPSSWPDVV
+QKWYDEVKNFKYGTGATS-----AGAVVGHYTQVVWYRSNKVGCAVAHCP-EANFQYFY-
+-----VCQYCPA----------------------------------------GNNIAS-L
+----------------GKPYKEGKPCGDCPKDCDNGLC-TN---PCEYVDVYE-------
+----NCPA-LAKS-FGCTF---NLVAL--NCPA----------TC-------QC------
+KTEIK-------------------------
+>ENSCPUP00000020046 ENSCPUG00000013720	202	CRISP2	cysteine-rich venom protein pseudechetoxin-like	Calidris_pugnax	117A
+------------------------------------------------------------
+----------------------M----ILSVVF------LCLAA---VLS----------
+------------PSTGVEPASFDALSTS-RADQQKAIVDKHNSLRRGVNPTASNMMKM--
+-E--WSPAAAKNAQKWADKCTLSHSPVD-----KRTTT--VPCGENLFMSTAPFPWSDAI
+QAWYDEEKDFKYGVGAKT-----PGAVIGHYTQVVWYNSYQIGCAIAFCP-NSKYKYFQ-
+-----VCHYCPA----------------------------------------GNLRSS-I
+----------------PKPYKKGAPCGDCPNACDNGLC-TK---L---------------
+------------------------------------------------------------
+------------------------------
+>ENSCPRP00005002360 ENSCPRG00005001719	188	no_data	serotriflin-like	Crocodylus_porosus	117A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------D-KIDQQNVIVVKHNTLRTQVTPTASNMLRM--
+-V--RYI----------------------------L--QFTVCGENLYMSTAPNAWSDVI
+QAWYNENKDFKYGSGPTR-----PGAVIGHYTQVVWYKSYQIGCAVAFCP-QSEFKYFY-
+-----VCHYCPA----------------------------------------GNVKPF-I
+----------------NTPYQSGPPCGDCPNACDNGLC-TN---PCKYEDIYS-------
+----NCPK-LAES-YGCDE---DIVKA--NCYA----------SC-------QC------
+TTEIK-------------------------
+>ENSCPIP00010009409 ENSCPIG00010007291	258	CRISP2	cysteine rich secretory protein 2	Chrysolophus_pictus	117A
+------------------------------------------------------------
+----------------------M----ILPAIL------LYLAA---VLC-----PSAGE
+DLSYVPLPLLTASSSQQVPEASLALSTN-RTDQQKLIVDKHNALRRRVSPPASNMLRM--
+-E--WSPQAAANAQNWANRCSLSHSPPN-----QRDIG--EPCGENLYMSTAPSSWSDAI
+QAWYNEEKDFKYGTGATT-----ANAVIGHYTQLVWYSSYKVGCAVAYCP-ERTFKYFY-
+-----VCHYCPA----------------------------------------GNIMGS-I
+----------------ETPYKEGQPCGDCPNSCDNGLC-TN---PCKFHDVYY-------
+----NCPE-MAKK-HGCDH---SFIKS--NCLA----------SC-------RC------
+QNEII-------------------------
+>ENSCJPP00005002300 ENSCJPG00005002501	241	CRISP2	cysteine-rich venom protein-like	Coturnix_japonica	117A
+------------------------------------------------------------
+----------------------M----ILPAVF------LCLAA---VLC-----PSAG-
+----------------EIPEPSLALSTN-RTDQQTLIVDKHNDLRRRVSPPASNMLKM--
+-E--WSPQAAVNAQNWANQCSLSHSPPN-----RRETD--VPCGENLYMSTAPSSWSNAI
+QAWYDEEKDFKYGTGATS-----ANAMTGHYTQLVWHNSYQVGCAVAHCP-ERQFKYFY-
+-----VCHYCPP----------------------------------------GNIMGS-I
+----------------ETPYKEGQPCGDCPDACDNGLC-TN---PCKFRDVYS-------
+----NCPE-MAKS-YGCDH---NFIKT--NCPA----------SC-------RC------
+QNEIK-------------------------
+>ENSMGAP00000015070 ENSMGAG00000014249	241	CRISP2	cysteine-rich venom protein-like	Meleagris_gallopavo	117A
+------------------------------------------------------------
+----------------------M----ILLAVL------LCLAA---VLC-----PSTGE
+-----------------IPEASLALSTN-RTDQQKLIVDKHNALRRRVSPPASNMLRM--
+-E--WSPQAAANAQNWANRCSLSHSPPN-----QREIG--EPCGENLYMSTAPSSWSDSI
+QAWYNEEKDFKYGAGATT-----ANAVIGHYTQVVWYNSYKVGCAVAYCP-ERTFKYFY-
+-----VCHYCPA----------------------------------------GNIMGS-I
+----------------ETPYKEGQPCGDCPDSCDNGLC-TN---PCKFHDVYY-------
+----NCPE-MAKN-YGCDH---SFIKK--NCLA----------SC-------RC------
+QNEIK-------------------------
+>ENSPCLP00000022033 ENSPCLG00000019364	251	CRISP2	cysteine rich secretory protein 2	Phasianus_colchicus	117A
+------------------------------------------------------------
+----------------------M----KNN------------DK---QVV-----VQWGL
+QIEVGS-DPVVKQQVHSVPEASLALSTN-RTDQQKLIVDKHNALRRRVSPPASNMLRM--
+-E--WSPQAAANAHNWANRCSLSHSPPN-----QRDIG--EPCGENLYMSTAPSSWSDSI
+QAWYNEEKDFKYGTGATT-----ANAVIGHYTQLVWYSSYKVGCAVAYCP-ERTFKYFY-
+-----VCHYCPA----------------------------------------GNIMGS-I
+----------------ETPYKEGQPCGDCPDSCDNGLC-TN---PCKFHDVYS-------
+----NCPE-MAKK-YGCDH---SFIKA--NCPA----------SC-------RC------
+QNEII-------------------------
+>ENSCPVP00000013100 ENSCPVG00000009492	248	CRISP2	cysteine rich secretory protein 2	Camarhynchus_parvulus	117A
+------------------------------------------------------------
+----------------------------LPLLHHMTDSWTAFPP---NSS----------
+------------ISPLNETAALSALSSS-RAEQQKLIVDRHNALRRGVKPTASNMMKMVS
+WE--WCSAAAENAQNWANQCTLRHSPAN-----LRRTN--VQCGENLFMSSAPFSWSDVL
+QAWYNEEKNFEYGTGAKP-----KGAMFGHYTQMVWHNSYKIGCGFAFCS-NTTYSYFY-
+-----VCQYCPA----------------------------------------GNLIGS-M
+----------------KTPYKEGEPCGDCPSACEDGLC-TN---PCKYQDLLG-------
+----NCKN-LKML-FGCSH---SLVKK--KCPA----------SC-------KC------
+TTQII-------------------------
+>ENSCCEP00000023450 ENSCCEG00000020991	202	CRISP2	cysteine-rich venom protein kaouthin-2-like	Cyanistes_caeruleus	117A
+------------------------------------------------------------
+----------------------M----ILPVVF------LCFTA---VLP----------
+------------PSTGQEAEALSALSSS-RAEQQKLIVDRHNALRRGVKPTASNMMKM--
+-E--WCPPAAENAQNWANQCTLRHSPPN-----LRRTN--VLCGENLFMSSAPFSWADVL
+QAWYNEKKNFEYGIGAKT-----KGAMFGHYTQMVWHNSYKIGCGFAFCS-NTTYSYFY-
+-----VCQYCPA----------------------------------------GNLISS-M
+----------------KTPYKEGEPCGDCPNACEDGLC-TN---P---------------
+------------------------------------------------------------
+------------------------------
+>ENSEGOP00005001214 ENSEGOG00005001018	174	CRISP2	cysteine rich secretory protein 2	Erythrura_gouldiae	117A
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------RAEQQKLIVDRHNALRRGVKPTASNMMKM--
+-E--WCPAAAANAQNWANQCTLRHSPPN-----LRRTN--VQCGENLFMSSAPFSWSDVL
+QAWYNEEKNFEYGIGAKM-----KGAMFGHYTQMVWHNSYKIGCGFAFCS-NTTYSYFY-
+-----VCQYCPA----------------------------------------GNLISS-M
+----------------KTPYKEGEPCGDCPSACEDGLC-SK---FQAF------------
+------------------------------------------------------------
+------------------------------
+>ENSFALP00000013321 ENSFALG00000012765	205	CRISP2	cysteine-rich venom protein TRI1-like	Ficedula_albicollis	117A
+------------------------------------------------------------
+----------------------M----LLPVVF------LCFTA---LLS----------
+------------PFTGQGTEALSALSSS-RAEQQKLIVDRHNALRRGVKPTASNMMKM--
+-E--WCPAAAKNAQNWANHCILRHSPLN-----LRRTN--VQCGENLYLSSAPRSWLDVL
+QAWYNEEKNFEYGTGAKT-----KGAIFGHYTQMVWHNSNKVGCGLAFCN-NTRYSYFY-
+-----VCQYCPV----------------------------------------GNLISS-M
+----------------KTPYKEGVPCGDCPSACEDGLC-SK---FQAF------------
+------------------------------------------------------------
+------------------------------
+>ENSGFOP00000001766 ENSGFOG00000001233	202	CRISP2	cysteine-rich venom protein kaouthin-2-like	Geospiza_fortis	117A
+------------------------------------------------------------
+----------------------M----ILPAVF------LCLTA---VLP----------
+------------PSTGQETAALSALSSS-RAEQQKLIVDRHNALRRGVKPTASNMMKM--
+-E--WCSAAAENAQNWANQCTLRHSPAN-----LRRTN--VQCGENLFMSSAPFSWSDVL
+QAWYNEEKNFKYGTGAKP-----KGAMFGHYTQMVWHNSYKIGCGFAFCS-NTTYSYFY-
+-----VCQYCPA----------------------------------------GNLIGS-M
+----------------KTPYREGEPCGDCPSACEDGLC-TK---P---------------
+------------------------------------------------------------
+------------------------------
+>ENSJHYP00000007226 ENSJHYG00000005792	202	CRISP2	cysteine rich secretory protein 2	Junco_hyemalis	117A
+------------------------------------------------------------
+----------------------M----ILPAVF------LCLTV---VLP----------
+------------PSTGQETAALSALSSN-RAEQQKLIVDRHNALRRGVKPTASNMMKM--
+-E--WCPAAAENAQNWANKCALRHSPPN-----LRRTN--VQCGENLFMSSAPFSWSDVL
+QAWYNEEKNFEYGTGAKP-----KGAMFGHYTQMVWHDSYKIGCGFAFCF-NTTYSYFY-
+-----VCQYCPA----------------------------------------GNLIGS-M
+----------------KTPYKEGEPCGDCPNACEDGLC-TK---P---------------
+------------------------------------------------------------
+------------------------------
+>ENSLSDP00000007989 ENSLSDG00000005917	272	CRISP2	cysteine rich secretory protein 2	Lonchura_striata_domestica	117A
+------------------------------------------------------------
+----------------------F----MFPSPP------IFRVG---KLP----------
+------------PCLI---DSSSANWLS-RTEQQKLIVDRHNALRRGVKPTASNMMKM--
+-E--WCPAAAENAQNWANQCTLSHSPPN-----LRGTN--VLCGENLFMSSAPFSWSDVL
+QAWYNEEKNFEYGTGAKM-----KGAMFGHYTQMVWHNSNKIGCGFAFCS-NTTYSYFY-
+-----VCQYCPA----------------------------------------GNLISS-M
+----------------KTPYKEGEPCGDCPSACEDGLC-SN---LSPEMSRNM---CSKT
+--TTLCEAQLLMF-LGHET---YLVTMIPKGPV----------AI-------SA------
+GKRLNSHYNIHFLSAYWKAVSLVPYSFCQH
+>ENSMVIP00005000316 ENSMVIG00005000294	288	CRISP2	cysteine rich secretory protein 2	Manacus_vitellinus	117A
+--------MGGGEEETKKKPYYIVTWAKVRKCTGKRCIKYQ------------RNESYI-
+---KN-----K--SNPHSPFSEM----ILPVVF------LCLMA---ALP----------
+------------PSTAQEAGGVDALSTS-RADQQKLIVDRHNALRRGVKPTASNMMKM--
+-E--WCPRAAENAQKWANQCTLSHSPPN-----LRRTD--VLCGENIFMSTAPFSWSDVL
+QAWYDEEKNFKYGTGAKT-----KGAMIGHYTQMVWHNSYKVACGLASCS-NSRFKYFY-
+-----VCQYCPM----------------------------------------GNLLSS-M
+----------------KTPYKEGKPCGDCPNACEDGLC-SN---RIRSRNCMPDGTCEEQ
+PLSNECHGSMVSA-VYCQL---HL------------------------------------
+------------------------------
+>ENSPMJP00000017265 ENSPMJG00000013003	202	CRISP2	cysteine-rich venom protein kaouthin-2-like	Parus_major	117A
+------------------------------------------------------------
+----------------------M----ILPVVF------LCFTA---VLP----------
+------------PSTGQEAEALSALSSS-RAEQQKLIVDRHNALRRGVKPTASNMMKM--
+-E--WCPPAAENAQNWANQCTLRHSPPN-----LRRTN--VLCGENLFMSSAPFSWPDVL
+QAWYNEKKNFEYGIGAKT-----KGAMFGHYTQMVWHNSYKIGCGFAFCS-NTTYSYFY-
+-----VCQYCPA----------------------------------------GNLISS-M
+----------------KTPYKEGEPCGDCPNACEDGLC-TN---P---------------
+------------------------------------------------------------
+------------------------------
+>ENSSCAP00000019768 ENSSCAG00000014279	202	CRISP2	cysteine-rich venom protein kaouthin-2-like	Serinus_canaria	117A
+------------------------------------------------------------
+----------------------M----ILTAVF------LCLTA---VLP----------
+------------PSTGQETAALSALSSS-RAEQQKLIVDRHNALRRGVKPTASNMMKM--
+-E--WCPAAAENAQNWANQCTLRHSPPN-----LRRTN--VQCGENLFMSSVPFSWSQVL
+QAWYNEEENFKYGTGAKT-----KGAMFGHYTQMVWHNSYKIGCGFAFCS-NTTYSYFY-
+-----VCQYCPA----------------------------------------GNLISS-M
+----------------KTPYKEGEPCGDCPSACEDGLC-TR---P---------------
+------------------------------------------------------------
+------------------------------
+>ENSTGUP00000013656 ENSTGUG00000013263	202	CRISP2	cysteine rich secretory protein 2	Taeniopygia_guttata	117A
+------------------------------------------------------------
+----------------------M----ILSVVF------LCLTA---VLP----------
+------------PSTGQETEALSALSSS-RAEQQKLIVDRHNALRRGVKPTASNMMKM--
+-E--WCPAAAENAQNWANQCTLSHSPPH-----LRRTN--VLCGENLFMSSAPFSWSDVL
+QAWYNEEKNFEYGTGAKK-----KGAMFGHYTQMVWHNSYKIGCGFAFCS-NTKYSYFY-
+-----VCQYCPA----------------------------------------GNLISS-M
+----------------KTPYKEGKPCGDCPSACEDGLC-TK---T---------------
+------------------------------------------------------------
+------------------------------
+>ENSZALP00000020876 ENSZALG00000016395	244	CRISP2	cysteine rich secretory protein 2	Zonotrichia_albicollis	117A
+------------------------------------------------------------
+---------------------EM----ILPAVF------LCLTV---VLP----------
+------------PSTGQETAALSALSSS-RAEQQKLIVDRHNALRRGVKPTASNMMKM--
+-E--WCPAAAENAQNWANKCALSHSPPN-----LRRTSKYVQCGENLFMSSAPFSWSDVL
+QAWYNEEKNFEYGTGAKP-----KGAMFGHYTQLIWYNSYKVGCGVSYCP-TGSYKYFY-
+-----VCQYCPA----------------------------------------GNNPMQ-I
+----------------AMPYRSGPKCADCPGHCDKGLC-TN---PCKYQDLLG-------
+----NCKN-LKML-FGCSH---SLVKK--KCPA----------SC-------KC------
+TTQII-------------------------
+>ENSACOP00000018318 ENSACOG00000012641	282	CRISP2	cysteine rich secretory protein 2	Amazona_collaria	117A
+-------------MQPS-QLTFFLLIPH--SFTGSIYL---------------TLPLYHP
+T-GPE-----P--CASLFAHS--------PILS------TCITD---FFQ-----AAKQA
+NIISR-----HLEWFFPEPEDFNALSTN-RADQQNLIVNTHNTLRRGVKPTASNMLKM--
+-E--WNAPAAKNAQNWANKCTLTHSPAS-----MRKTS--VQCGENLFMSTGPFSWSDVI
+QSWYNEEENFEYGIGAKT-----QGAVIGHYTQVVWYNSYQIGCAVAFCP-NKTYKYFY-
+-----VCQYCPM----------------------------------------GNLISS-I
+----------------QTPYKKGEPCGDCPDACDDGLC-KK---Y---------------
+----------QLI-YANE-----YFLI--ICSNTGPKALLQNHTS-------PC------
+------------------------------
+>ENSMUNP00000013552 ENSMUNG00000010580	202	CRISP2	cysteine rich secretory protein 2	Melopsittacus_undulatus	117A
+------------------------------------------------------------
+----------------------M----ILPVVF------LCLTV---VVP----------
+------------LSTAEEPEDFDALSTN-RTDQQKLIVDTHNTLRKGVKPTASNMLKM--
+-E--WNAPAAKNAQNWANECTLSHSPAS-----KRKTN--VQCGENLFMSSGPFSWSDVI
+QSWYKEEENFEYGIGAKS-----EGAVIGHYTQVVWHNSYQVGCAVAFCP-NSTYKYFY-
+-----VCQYCPM----------------------------------------GNLVSS-M
+----------------KTPYKKGEPCGDCPNACDDGLC-TK---L---------------
+------------------------------------------------------------
+------------------------------
+>ENSSHBP00005013849 ENSSHBG00005012112	222	CRISP2	cysteine-rich venom protein piscivorin-like	Strigops_habroptila	117A
+------------------------------------------------------MLKHHL
+S-VAD-----P--CTQMELQERM----ILPVVF------LCLTA---VVP----------
+------------LSTGEEPEDFDALSTN-RTDQQNLIVDTHNTLRRGVKPTASNMLKM--
+-E--WYAPAAKNAQNWANQCTLSHSPAN-----MRRTS--VQCGENLFMSSGPFSWSDVI
+QSWYNEEEDFEYGTGAKT-----QGAVIGHYTQVVWYNSYQIGCAVAFCP-NRTYKYFY-
+-----VCQYCPM----------------------------------------GNLISS-I
+----------------QTPYKNGEPCGDCPDACDDGLC-TK---L---------------
+------------------------------------------------------------
+------------------------------
+>ENSSPUP00000023598 ENSSPUG00000017951	252	no_data	no_data	Sphenodon_punctatus	117B
+------------------------------------------------------------
+--MIP-----P--CHAL--ETPD----TLDWG------WL---Q---TLF----------
+------------SSPWLISPSLGST-SL-ARQRQEEIVNKHNDLRRMVEPTASNMLRM--
+-K--WNATAAKNAESWANDCILGHSPKT-----RRQIENGLQCGENLYYASVPKSWSSGI
+QGWFDERSDFIFGKGPDE-----DTAIIGHYTQMVWYKSYEIGCAVAYCPKSALYKFFY-
+-----VCHYCPA----------------------------------------GNLLGSSF
+----------------YSPYTPGNPCGDCPDACDNGLC-TN---PCAYEDEYM-------
+----NCRK-LLQT-YSCQH---KTLQE--GCKG----------SC-------QC------
+TNEIQ-------------------------
+>ENSACAP00000005324 ENSACAG00000005354	243	no_data	serotriflin	Anolis_carolinensis	117A
+------------------------------------------------------------
+----------------------M----TSFLN------EK-GLP---ILE----------
+------------NNKKGIMTSFAALSTD-LPEVQKEIVDIHNALRKQVEPSASNMLKT--
+-E--WNGTAAINAKRWAENCVYSHSPGN-----QRKIEGDMACGENLFYSSVPKPWSDVM
+QAWFDERKDFIYGKGPTY-----EKAAIGHYTQLVWYTSYLIACATSQCD-HAKYNFFY-
+-----VCQYCPA----------------------------------------GNVLGINF
+----------------YYPYKEGEKCGDCPSKCDDGLC-TN---PCPQEDLLS-------
+----NCAN-LKKA-HSCEH---PVMKQ--NCRA----------SC-------LC------
+VSEIH-------------------------
+>ENSACAP00000018816 ENSACAG00000023476	241	CRISP3	cysteine-rich venom protein helothermine	Anolis_carolinensis	117B
+------------------------------------------------------------
+----------------------M----VLHGL------YICVII---LLH----------
+------------QSGIKAEGDIDALMTT-RADQQKEIVDKHNNLRRSVKPTARNMLKM--
+-E--WDNELAKNAQKWANRCTFKHSSKS-----SRI-INGKKCGENLYMSTAPNPWSDAV
+QSWYDEVHDFEHGYGAIW-----QDAVVGHYTQVVWYRSWKVGCGFARCP-NKRYENYY-
+-----VCQYSPA----------------------------------------GNRKDL-L
+----------------NTPYAAGTPCGDCPKHCDNGLC-TN---PCNYDDNYS-------
+----NCKN-LKEE-WGCDI---SLMKD---CEA----------SC-------KC------
+TTEIQ-------------------------
+>ENSLLTP00000018702 ENSLLTG00000014092	242	no_data	no_data	Laticauda_laticaudata	117A
+----------------------------------LLPV------------------LFKV
+IQFLI--------------------VFI--------------------------------
+------L--FYFACSLKV--DFNSESTR-RQEKQKETVDLHNSLRRSVSPTASNMLKM--
+-E--WYPEAASNAEHWANNCSLHHSPNS-----SRIL--GIQCGENLYKSSHHHAWSRVI
+QSLYDEYKYFTYDIGANP-----PGSLIGHYTQIVWYDSYRIGCAVNYCPSS-AYNYFY-
+-----VCQYCPS----------------------------------------YVSTMISI
+----------FVTFIASLIRMI-LIALEKKKMSLN--K-IL---IKYYLQSYT-------
+----KTKH------KAVYH---KKNKM--NANV----------AV---------------
+-----KYGYS--------------------
+>ENSNSUP00000001520 ENSNSUG00000001307	222	no_data	cysteine-rich venom protein-like	Notechis_scutatus	117A
+------------------------------------------------------------
+----------------------------------------------------MDENPK--
+------------------GENNSRILGN-SKKYDHRSPDQHNTLRKKNK---KSKKKP--
+-E--WNSRAAQNAQRWADRCTFAHSLPH-----TRTVG-KLSCGENIFMSTQPFAWSGVV
+QDWYDEIKNFVYGIGAKP-----PGSIIGHYIQVVWYKTHLLGCASAKCSS---TKYLY-
+-----VCQYCPA----------------------------------------GNIRGS--
+---------------IATPYKSGPTCGDCPSACVNGLC-TN---PCKYEDAFT-------
+----NCND-LVKG-TKCQT---EWIKS--KCPA----------TC-------FC-----H
+-NKII-------------------------
+>ENSPMRP00000010907 ENSPMRG00000007258	241	CRISP2	cysteine-rich venom protein helothermine-like	Podarcis_muralis	117A
+------------------------------------------------------------
+----------------------M----ILLILC------ACLAA---GLH----------
+------------QSAAQASDHFASLSTI-NEDQKKEIVDIHNKLRREVQPPASNMVKM--
+-E--WSDDIRKIAQWWADQCTLEHSAAS-----DRTLN-GRSCGENLFMSTSLKSWTEAI
+LSWYNEKDDFLYASGAKT-----EGAVIGHYTQVVWYNSHLIGCAIAFCP-DQEYQYYY-
+-----VCQYSPA----------------------------------------GNIKGK-I
+----------------ATPYEAGEPCGHCPNDCDKGLC-TN---PCTESNLYS-------
+----NCVS-LKHQ-VGCDH---PIME---KCGA----------SC-------KC------
+PTQII-------------------------
+>ENSPVIP00000001990 ENSPVIG00000001722	225	no_data	cysteine-rich venom protein helothermine-like	Pogona_vitticeps	117B
+------------------------------------------------------------
+-----------------------------------------------LL-----------
+--------------VANSASSHVTASMN-TVIHQKEIVEKHNALRRRVQPPARNMLRM--
+-E--WNIDIARNAKRWASECAFKHSSAR-----SRT---IRNCGENLFMSSRRHSWSRAI
+QTWYDEVKFFRYGFGPTS-----ENRVIGHYTQVIWYNSYQVGCGIAYCPYQPDYKYFY-
+-----VCQYCPA----------------------------------------GNRADI-M
+----------------NTPYKTGKPCEDCPNACDKGLC-TN---PCKYMDKFR-------
+----NCPD-LKNR-WGCNH---HLTKD---CKA----------SC-------KC------
+TTEIK-------------------------
+>ENSPTXP00000009015 ENSPTXG00000006485	240	no_data	no_data	Pseudonaja_textilis	117A
+------------------------------------------------------------
+----------------------M----ALVIQFLIVFILF--------------------
+------------YFACYLKVDFNSESTR-RQEKQKEIVDLHNSLRRSVSPTATNMLKM--
+-E--WYPEAASSAERWANNCSLHHSPNS-----SRVLG--IQCGENLYKSSHPHAWSRAI
+QSLYDEYKYLTYDIGANP-----PGSLIGPYTQIVWYNSYRIGCAVNYCP-SSAYNYFY-
+-----VCQYCPL----------------------------------------GNIKGS-I
+----------------ATPYKSGPPCADCPLACDNGLC-TN---PCKYVDSFW-------
+----NCES-LVNR-TGCHI---GLIRT--HCPA----------TC-------FC------
+QNKII-------------------------
+>ENSSMRP00000007349 ENSSMRG00000005909	243	no_data	no_data	Salvator_merianae	117A
+------------------------------------------------------------
+----------------------M----ILLFE------YVCLAA---LLH----------
+------------QPSVQASISLASLMTT-NVDQQNXIVNKHNQLRRGVKPTASNMLKM--
+-K--WDFEAAQKAQSWANQDSLEHSSPE-----NRRKKNGMKCGENLFMSSKPVFWSEVI
+QAWYDEVCDFEYGTGAKH-----QGAVIGHYTQVVWYKSVLVGCAVSFKPKQPIYKWFY-
+-----VCHYCPA----------------------------------------GNRKDL-I
+----------------PTPYSTGKPCEACPDACDNGLC-TN---PCMKTDSYS-------
+----NCPE-LKKT-WSCDI---SFMKS---CKA----------SX-------EC------
+TTEIK-------------------------
+>ENSVKKP00000011454 ENSVKKG00000007985	203	no_data	no_data	Varanus_komodoensis	117A
+------------------------------------------------------------
+-FFFF--------------------PEI--------------------------------
+------L--ILIA--TDT--PFRPPSSN-FRGVQQQIVDKHNDLRRGVTPPASNMLKM--
+-E--WNTIAAENAKNWAKQCTLSHSPRM-----KRVVK-GIVCGENLFMSTVATPWPAVI
+QSWYNEEKYFKHGVGPVP-----QDAETGHYTQIVWYKSYQVGCYGTYCPSA-GFSYYY-
+-----VCHYCPG----------------------------------------CSCTPGLN
+----------GQLCLSAVPWFHSQPCSGS---CLSRPQ-PD---NR--------------
+-----------------------------------------------------TFK----
+------------------------------
+>ENSVKKP00000011452 ENSVKKG00000007982	234	no_data	no_data	Varanus_komodoensis	117B
+------------------------------------------------------------
+------------------------------MK------SKCRIM---F------------
+--------------ILKTSLDLDDLMTT-NPEIQNEIINKHNDLRRTVDPPAKNMLKM--
+-S--WDNIIAESAKRAALRCNYKEHTSI-----AERTIGGVVCGENYFMSSNPRTWSSSI
+QSWFDERNNFMFGFGPTI-----PGVMVGHYTQVVWYKSYKVGCAINLCP-AQSLKYFQ-
+-----VCQYCSG----------------------------------------GNVAGR-K
+----------------YEPYTIGEPCAACPKDCDNGLC-TN---PCEYNDDYT-------
+----SCPD-LTKQ-VGCNH---PVTAN---CKA----------SC-------QC------
+TTEIQ-------------------------
+>ENSACUP00000012540 ENSACUG00000008397	259	CRISP2	cysteine rich secretory protein 2	Athene_cunicularia	117A
+--------------------MYFPEVPVHRPCDLDL-PKTQ------------PYTCYFP
+TVLQA-----A--VTQLSPFLIL-------QLLRYVPLPLFTVP---SSQ----------
+------------HISLISPNSFDALSTS-NADQQKLIIDTHNTLRRGVKPTASNMLKM--
+-L--WCPPAAKNAQNWANQCTLKHSPAT-----LRRTT--VQCGENLFMSSAPYSWSDVI
+QAWHSEEKNFEYGTGAKT-----QDAVIGHYTQMVWYNSYQTGCAVAFCP-NSTFKYFY-
+-----VCQYCPA----------------------------------------GNLRSS-I
+----------------NTPYKAGKPCGDCPDACENGLC-NV---YSNCFGKVS-------
+-----------RM-YP--------------------------------------------
+------------------------------
+>ENSSCUP00000011616 ENSSCUG00000008446	241	CRISP2	cysteine-rich venom protein-like	Struthio_camelus_australis	117A
+------------------------------------------------------------
+----------------------M----ILP------AAFLCLAA---MLP----------
+------------QSAGEVPATFDVLSTS-KADQQKLIVEKHNALRRGVNPPASNMLKM--
+-E--WSPEVAKNAEIWANKCTLSHSPAT-----MRKIN--VTCGENLFMSPDAFSWPSAI
+QYWYDEVKDFKYGTGATR-----RGAVVGHYTQVVWYKSYQVGCAVAFCP-ETTYKYFY-
+-----VCQYCPA----------------------------------------GNRIDL-L
+----------------GTPYKEGNPCGDCPNDCDNGLC-TN---PCKHVDAYS-------
+----NCSG-LAKS-FGCSR---SFVKL--NCPA----------TC-------QC------
+KTEIK-------------------------
+>ENSCABP00000022888 ENSCABG00000016829	215	CRISP2	cysteine rich secretory protein 2	Chelonoidis_abingdonii	117A
+------------------------------------------------------------
+----------------------M----LFAPS------RAPSLS---TL-----------
+------------PPLPSTGKELASLSAD-NINQQKEIVDKHNALRRRVMPTASNMLRM--
+-E--WSPAAAKNAKSWANECTLSHSPPN-----KRT--TTVDCGENLYMSTAPNSWSNAI
+QTWYNEVGHFIYGIGSTI-----PNAMIGHYTQVVWYRSYQIGCAIAFCP-QRFYKYYY-
+-----VCHYCPA----------------------------------------GNYRNV-M
+----------------NTPYKSGPVCGDCPNQFEVLQ--------------WH-------
+----SCHL-LK----QCLI---PLAGR--L------------------------------
+------------------------------
+>ENSCSRP00000025982 ENSCSRG00000019365	197	no_data	no_data	Chelydra_serpentina	117A
+------------------------------------------------------------
+---------------------------IFHEL---------MMF---IK-----------
+------------THYLELIPSFAALSTD-KEDQRKEIVDQHNALRRGVMPTSRNMLKM--
+-E--WSPAAAENAKSWANECTLSHSPEK-----RRI--TTVGCGENLYMSTAPNSWSDAI
+QSWYNEVENFMYGIGPTK-----PGAVIGHYTQVVWYKSYQIGCAVAFCP-QSEYNYFY-
+-----VCQYCPA----------------------------------------GNYENI-M
+----------------STPYKSGAACGDCPNACDNGLC-SK---F---------------
+------------------------------------------------------------
+------------------------------
+>ENSCPBP00000012017 ENSCPBG00000009100	240	CRISP2	cysteine rich secretory protein 2	Chrysemys_picta_bellii	117A
+------------------------------------------------------------
+----------------------M----ILLAA------FLGLAA---VL-----------
+------------QPSTGQTPGLASLSTD-NAYQQKEIVDKHNALRRGVMPTASNMLRM--
+-E--WSPAAAKNAKSWANQCTLSHSPPN-----RRT--TTVGCGENLYMSTALKSWSDAI
+QAWYNEVGNFIYGIGSTT-----PGAAIGHYTQVVWYKSYQIGCAIAYCP-QRFYKYYY-
+-----VCHYCPA----------------------------------------GNYRNT-M
+----------------NTPYKSGPVCGDCPNACDNGLC-TN---PCKYVDDYS-------
+----NCPS-LKVF-PGCTN---PTIKA--RCAA----------SC-------RC------
+TTEIK-------------------------
+>ENSCPBP00000030325 ENSCPBG00000021336	246	no_data	no_data	Chrysemys_picta_bellii	117B
+------------------------------------------------------------
+--MFA-----P--ST-------N----FLLFS------FL---P---AAG----------
+------------LSNFYLSPVYAALSTD-LPEVQIEITDQHNELRRLVYPTARNMLKM--
+-V--WNAEAAKNAKSWAEQCIYSHSPVS-----RRKVG-NITCGENLYYSSVPKSWSSAL
+QGWFDERDSFTFGVEPTS-----SNAVTGHYTQMVWYKSYEIGCSFAFCPYSALYKYYY-
+-----VCHYYPA----------------------------------------GNVVGST-
+----------------TTPYKKGDPCGDCPDACDNVLC-TN---PCKYEDTYA-------
+----NCGQ-LKKQ-YTCKH---PFVLK--YCTG----------SC-------QC------
+TTEIQ-------------------------
+>ENSGAGP00000024173 ENSGAGG00000017679	240	CRISP2	cysteine rich secretory protein 2	Gopherus_agassizii	117A
+------------------------------------------------------------
+----------------------M----ILLAV------FLGLAA---VL-----------
+------------QTSTGQTPELDSLPTD-NINQQKEIVDKHNALRRQVIPTASNMLRM--
+-E--WSPAAAKNAKSWANNCTLSHSPPN-----KRR---TMNCGENLYMSTAPNSWSNAI
+QTWYNEVGHFMYGNGSTI-----PNAMIGHYTQVVWYRSYQIGCALAFCGAQKYYKYYY-
+-----VCHYCPA----------------------------------------GNDINL-M
+----------------NTPYKSGPVCGDCPNACDNGLC-TN---PCKYVDMYL-------
+----NCPN-LKVF-PGCTN---SMIDA--ICPA----------SC-------RC------
+TTEIK-------------------------
+>ENSPSIP00000009580 ENSPSIG00000008487	240	no_data	no_data	Pelodiscus_sinensis	117A
+------------------------------------------------------------
+----------------------M----ILLTA------FLCLAA---VL-----------
+------------QQTTGQISNVASLSTD-NAVQQKEIVDKHNALRRAVKPTARNMLRM--
+-E--WSHAAAKNAKRWANECTLSHSPPA-----ERS--TSTGCGENLYMSTKPHSWSDAI
+QSWYSEVENFVYGTGPTT-----PDAVIGHYTQVVWYTSYQVGCAIAVCLES-EFNYYY-
+-----VCHYCPA----------------------------------------GNYRKL-M
+----------------KTPYKAGPACGDCPKACDNGLC-TN---PCNYVDVFS-------
+----NCPA-LKSF-FGCSH---PLVKK--KCPA----------SC-------LC------
+TTEIK-------------------------
+>ENSPCEP00000013071 ENSPCEG00000010339	220	no_data	no_data	Pelusios_castaneus	117A
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MTLNLPSLSTD-NPARQMEIVNKHNALRRGVMPTASNMLRM--
+-E--WNPAAARNAQNWANRCILSHSPPG-----IRK---TSNCGENLFMSTAPRSWSDAI
+QAWYSEERDFQYGVGATR-----PGAAIGHYTQVVWYNSYRIGCAIAFCP-QRFYKYFY-
+-----VCHYCPP----------------------------------------GNYPNL-M
+----------------KTPYKSGATCGDCPNACDRGLC-TN---PCKYVDAYS-------
+----NCPA-LKMF-LGCEH---PMVKK--NCPA----------SC-------RC------
+TTEIH-------------------------
+>ENSTMTP00000010994 ENSTMTG00000007961	238	CRISP2	cysteine rich secretory protein 2	Terrapene_carolina_triunguis	117A
+------------------------------------------------------------
+-------------------------------------------S---VD-----------
+------------IPLVFKTSGFAALSTD-KADQQKEIVDKHNALRRGVMPTASNMLRM--
+-E--WSRTAAENAKSWANECTLSHSPES-----RRT--TTVGCGENLYMSTAPNSWSDAI
+QAWYNEVENFMYGIGPTT-----PGAVIGHYTQVVWYKSYQIGCAVAFCP-ESEYNYFY-
+-----VCHYCPA----------------------------------------GNINTL-I
+----------------NTPYKSGAACGDCPNACDNGLC-TT---AKQ-------------
+----------------CLI---PLEGR--LWEI----------ITQKPWLQSQTAMPL--
+PTLIAKHAMFENEHV----LGLM-------
+>ENSTMTP00000011031 ENSTMTG00000007986	242	CRISP3	cysteine rich secretory protein 3	Terrapene_carolina_triunguis	117B
+------------------------------------------------------------
+----I--------------------PMQ--------------------------------
+------I--IFFD--PAP--VYAALSTD-LPEVQIEITDKHNALRRLVNPTARNMLKM--
+-V--WNAEAAKNAKSWAEQCVYSHSPVS-----RRKVG-NITCGENLYYSSVPKSCSSAL
+QGWFDKRDSFTFGVGPTS-----SNAVTGHYTQMVWYKSYEIGCSFAFCPYSALYKYYY-
+-----VCHYDPA----------------------------------------GNVVRS--
+---------------ATTPYKKGDPCGDCPDACDNGLC-SK---LIYYLINYA-------
+----WGNV------KGCHR---DKSKT--SCGL----------TV-------LLFKLMAK
+-PTLISVGEEQVHG----------------

@@ -1,0 +1,832 @@
+>ENSBTAP00000073458 ENSBTAG00000049125	171	no_data	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Bos_taurus	56B
+------------------------------------------------------------
+--------------------MKALAAVLLALL---WCRLQ--------------------
+------GRGRAQED--EDDDPDAGRE--GYDDED-----------E------E------E
+EEAGVPAGSRDS--GPQCYTCQSLHKGESCEQVQSCVLPG-TCKAIVSSWNTE----SGP
+QTTYSGWCADTCQ--AISRTVDGSLTTISCCQSSLCNTPPWQD-----------------
+------------------------------------------------------------
+---------PQGRGAGGPQGSPATVAATVLLSLLASLQEM-GL---------
+>ENSCDRP00005020135 ENSCDRG00005014041	178	GPIHBP1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Camelus_dromeda
+------------------------------------------------------------
+--------------------MKELAAVLLALL---LCGLQ--------------------
+------GRGRMQED--KDDDGDFGTA--GYDEED-----------E-----EE----EEE
+EEAIMIAGSRGRV-LLQCYTCQSLHRNESCEQMQNCIPYQ-TCKTIIYHWNTE----SDP
+QTTYSGWCADTCQ--PITKMVVGTLTTITCCQSRLCNVPPWQG-----------------
+------------------------------------------------------------
+---------PPGTWAGSSQSSPKTVATTFLLSLLAGFLATGFVGG-------
+>ENSCWAP00000013197 ENSCWAG00000010286	178	GPIHBP1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Catagonus_wagne
+------------------------------------------------------------
+--------------------MKALVAVLLSVL---LCEQQ--------------------
+------GRGRAQED--EN-DVDLEPE--VYDDDD-----------DD----DN----EEE
+EEASVAAGDRGSV-LLQCYACQSLHREESCKKLQSCVLAQ-TCKTIISHWNTE----SGP
+QTTYSGWCADMCQ--PISKTVGGALTTISCCHSSLCNSPPWQG-----------------
+------------------------------------------------------------
+---------AGDSGAGGPRGSPTAVAAALLFSLLSSRLRAVGFSG-------
+>ENSDLEP00000022765 ENSDLEG00000016516	199	GPIHBP1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Delphinapterus_
+------------------------------------------------------------
+--------------------MKVLVAVLLALL---LCGQQGHPDGYGPAAVQGQHTTPSV
+AGKEHTGRGQTQEV--EDDDVDAGPE--GYDEDD-----------D-----EE------D
+DEASVTAGSRGTV-QLRCYSCQSLHRDESCRQMQSCILPK-TCKTIVSHWNTE----SGP
+RTTYSGWCADTCQ--PISRTVDGSLTTISCCQASLCNTPPWQD-----------------
+------------------------------------------------------------
+---------PQGSGAGGPQGRPSTVATALLFSLLAGLQAMVF----------
+>ENSMMSP00000024229 ENSMMSG00000018257	171	no_data	no_data	Moschus_moschiferus	56B
+------------------------------------------------------------
+--------------------MKALAAVLLALL---WCGEQ--------------------
+------GRGRA-QD--EDDDPDAGRE--GYDDEE-----------D-----EE------D
+DEADAPAGSRGS--GPQCYMCQSLRKGESCKQLQSCVLPR-TCKAIVSSWNAE----SGP
+QTTYSGWCADMCH--PISRTVEGSLTTISCCQASLCNAPPWQE-----------------
+------------------------------------------------------------
+---------PQGRGAGGPRGSPVTVAATLLLSLLASLLVMGV----------
+>ENSOARP00000001355 ENSOARG00000001306	206	no_data	no_data	Ovis_aries	56B
+--------------------------------------------------QAFVPLPTDS
+EP--QRGPGEQTRQRWQPRRMKALAAVLLALL---WCRQQGVPA----------------
+----WPGRGQAQED--EDDDPDPGRE--GYDDGE-----------E------E------E
+EEAGAPAGSRGS--GPQCYTCQSLHKGESCEQVQSCVLPR-TCKAIVSSWNAE----SGP
+QTTYSGWCADTCQ--AISRTVEGSLTTISCCQSNLCNTPPWQD-----------------
+------------------------------------------------------------
+---------PQGRGAGGPRGSPATVAATVLLRAFRPWGSEWGG---------
+>ENSSSCP00000036748 ENSSSCG00000034689	180	GPIHBP1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Sus_scrofa	56B
+------------------------------------------------------------
+--------------------MKALVAVLLSVL---LCGQP--------------------
+------GRGRAQED--EN-NVDLEPE--DYDDDD-----------EDNDDNDD----EEE
+DEASMAAGSKGSV-LLQCYACQSLHRDESCKKLQNCILAH-TCKTIISHWNTE----SGH
+QTTYSGWCADMCQ--PISKTVDGALTTISCCHSSLCNAPPWQY-----------------
+------------------------------------------------------------
+---------PGESGAGGPQGSPTTVAATLLLSLLTSCLRAVGF---------
+>ENSTTRP00000002708 ENSTTRG00000002887	170	GPIHBP1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Tursiops_trunca
+------------------------------------------------------------
+--------------------MKVLVAVLLALL---LCGQP--------------------
+------GRGRTQEV--EDDDVDAGPE--GYDEDD-----------D-----EE------D
+DEASVTAGSRGTV-QLRCYSCQSLHRDESCRQMQSCILPK-TCKTIVSHWNTE----SGP
+RTTYSGWCADTCQ--PISRTVDGSLTTISCCQASLCNIPPWQD-----------------
+------------------------------------------------------------
+---------P-GKGAAGPRGRPSTVATALLFSLLAGLQAM------------
+>ENSAMEP00000010986 ENSAMEG00000010456	154	no_data	no_data	Ailuropoda_melanoleuca	56B
+------------------------------------------------------------
+--------------------MKAFVALLLALL---LCGQP--------------------
+------GTGRGHPCSERGHGLGPRLD--GYDDDD-----------EE-----------EE
+EEASVTAGGRGRA-LLQCYSCQSLYRGEHCKQVQNCVRSHSFCKAVISHGNTE----SGP
+LTMYSAWCADACQ--PFTKTLEGTLMTLTCCQSTLCNAPPWQD-----------------
+------------------------------------------------------------
+---------PPGSGAAGAQG--------------------------------
+>ENSCAFP00000037471 ENSCAFG00000028810	201	GPIHBP1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Canis_lupus_fam
+--------------------------------------------------MASVPLPTDP
+EP--EREPDRA--DPAAPGGMTALPTVLLALL---LCGRP--------------------
+------GRAQ--DKEEEDDDADFGLD--GYDDDD-----------DD----------EEE
+EAASVNAGGRGQA-LLRCYSCQSLHSGESCGRIQNCIRSHSFCKAVISHGNTE----SGP
+LTTYSAWCADACK--PITKTLEGTLMTLTCCQSALCNLPPWQD-----------------
+------------------------------------------------------------
+---------PLGRGAGSPQGDTAMVATALLLSLLPGLQAVGS----------
+>ENSFCAP00000050742 ENSFCAG00000043732	178	GPIHBP1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Felis_catus	56B
+------------------------------------------------------------
+--------------------MKVPTAVLLALL---LCQQP--------------------
+------GRGQVQGEEEEDNDTDFGLD--GYDDDD-----------EE-----------EE
+EEASVTTGGRGRA-VLQCYSCQALHRGESCDRIQNCVHSHSFCKAVISHGNTG----SGP
+LTTYSTWCADTCQ--PFAKTVEGTLMTVTCCQSTLCNLPPWQD-----------------
+------------------------------------------------------------
+---------PLGRGAGSPQGSPSLVAT-VLLSLLPGLQAVASVGG-------
+>ENSMPUP00000008437 ENSMPUG00000008502	173	GPIHBP1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Mustela_putoriu
+------------------------------------------------------------
+--------------------MKVLLALLLALL---LCGQP--------------------
+------GTGRAQEE-E-EDDQDIGQD--GYDDEE-----------ED-----------EE
+E-ASVAAGGGDRA-LLQCYSCQSLHRGEGCEQVQICAHSHSFCKTLISHGNTE----SGP
+LTTYSVWCTDTCH--PFTKTLEGTLMTVTCCQSALCNLPPWQD-----------------
+------------------------------------------------------------
+---------PPGSGASSARGRRTVVAIALLLGLLSGLQAMGS----------
+>ENSNVIP00000013625 ENSNVIG00000010726	178	GPIHBP1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Neovison_vison	
+------------------------------------------------------------
+--------------------MKALSALLLALL---LCGQP--------------------
+------GTGRAQDEEE-EDDEDIGQD--GYDDEE-----------ED-----------EE
+EAASVAAGGGDRA-LLRCYSCQSLRRGEGCEQVQNCAHSHSFCKTLISHGNTE----SGP
+LTTYSVWCTDTCH--PFTKTLEGTLMTVTCCQSPLCNLPPWQD-----------------
+------------------------------------------------------------
+---------PPGSGASSARGRRTVVAVALLLGLLSGLQAMGSTGR-------
+>ENSPLOP00000000550 ENSPLOG00000000429	178	GPIHBP1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Panthera_leo	56
+------------------------------------------------------------
+--------------------MKMPTAVLLALL---LCQQP--------------------
+------GRGQVQGEEEEDDDADIGLD--GYDDDD-----------EE-----------EE
+EEASVTAGGRGRA-VLQCYSCQALHRGESCDQIQNCVHSHSFCKAIVSHGNTG----SGP
+LTTYSAWCTDACQ--PFAKTVEGTLMTMTCCQSTLCNLPPWQD-----------------
+------------------------------------------------------------
+---------PLGRGAGSPQGSPTLVAT-VLLSLLPGLQAVGSMGG-------
+>ENSSSUP00005022216 ENSSSUG00005014487	178	no_data	no_data	Suricata_suricatta	56B
+------------------------------------------------------------
+--------------------MTMLTTLLVALL---LCQQP--------------------
+------GRGRAQDE--EDDDADFGLD--GYDDED-----------DEN---DD----DDD
+EEASVTAGGRRGA-SLQCYSCQALHGGESCDQVQSCVHGHSFCKALVSHGNTX----XXP
+LTTYSAWCVDTCQ--PFTRTVAGTLMTLTCCQSTLCNFPPWQD-----------------
+------------------------------------------------------------
+---------PRGSGAGSPQSSPTMVAT-LLLSLLPGLQAVGSV---------
+>ENSUMAP00000028114 ENSUMAG00000020407	95	no_data	ly-6/neurotoxin-like protein 1	Ursus_maritimus	56B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------M-------------RLL----LGL
+LL--AAALSLELARALSCHQCKGF---GGCLHASRCPWGSNYCVSIATRVPFS----VID
+LPLVTKSCYSGCP--DVSTLGLGPHVSIVCCQFSLCNTD---------------------
+------------------------------------------------------------
+----------------------------------------------------
+>ENSVVUP00000018884 ENSVVUG00000013905	95	no_data	secreted LY6/PLAUR domain containing 2	Vulpes_vulpes	56B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------M-------------RLL----LGL
+LL--AAALSLEPARALSCHQCKGF---GGCLHPSTCPWGSNYCVSIATRVPFS----VID
+MPLVTKSCYSGCP--DIATLGLGPHVSIVCCQFSLCNTD---------------------
+------------------------------------------------------------
+----------------------------------------------------
+>ENSRFEP00010022923 ENSRFEG00010015372	179	no_data	no_data	Rhinolophus_ferrumequinum	56B
+------------------------------------------------------------
+--------------------MKVLPAVLLALL---LCRQP--------------------
+------GRGRAQDEDND---DYFGYDEDDEDDKD-----------DKD---DK----DDE
+DDREDEAGSGGRG-WLQCYSCKVLHEEQDCKEMRSCPLSQPFCKTLSSQGNTE----SGP
+WTTYSGWCADTCK--PSTREVAEILMTTTCCQTTLCNIPPWQG-----------------
+------------------------------------------------------------
+---------LLARGAGDPQGSPETVAAAFLFSLLTGLWAMAS----------
+>ENSSHAP00000020951 ENSSHAG00000017767	98	no_data	no_data	Sarcophilus_harrisii	56A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------GNTLICYTCKEPTDIYKCRNISICNHGETSCKTRLENVESE--YPFFN
+NAMVTRSCSNNCV--ATDPDTIGLAHPVSCCYRDLCNTDSALG---DGTRP---------
+------------------------------------------------------------
+--------------------RILLG-------L-------------------
+>ENSSHAP00000002986 ENSSHAG00000002643	178	no_data	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Sarcophilus_har
+------------------------------------------------------------
+--------------------MRVFITILVAVL---LCLDQ--------------------
+------GSEQKETKS----VDESTDEDYDYKDDDDE--------------DDE----EDE
+VEIKHIPYE----GSLECYTCESESIEDRCNKIQTCSPSQTFCKTIITRGNAE----SNY
+FTTFSAWCSDTCK--EATKIIEGTHVTVNCCQFDMCNPLSLEGQS-PDMNS---------
+------------------------------------------------------------
+---------KTA----NCGGILTGVGTTIMIMLLCSWMGKDL----------
+>ENSMODP00000053095 ENSMODG00000039273	124	no_data	secreted LY6/PLAUR domain containing 1	Monodelphis_domestica	56A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------MPRPVL
+TVLLLAVAALPLGSSLSCFSCSKPTALSLCTDVANCSAAEGWCQTTLLPVQSG--FPFME
+EKTVQRGCVASCA--STDHDAIGELKPILCCNTDLCVDNGALVSQGSGLIL---------
+------------------------------------------------------------
+--------------------TG----------FLFVLLSAG-----------
+>ENSMODP00000041266 ENSMODG00000027533	120	no_data	ly-6/neurotoxin-like protein 1	Monodelphis_domestica	56B
+------------------------------------------------------------
+--------------------MKSFSVMFLIAI---IMTRPLA------------------
+-----------QALN---------CHVCTAMDDDCSK-------------PMR----CPE
+LATYCKTIRTYSPTTIY-------------------------------------------
+-----KSCVSVCTKDSMEEIHINQNAKVSCCQSDLCNGAASWTPG-SSG-----------
+------------------------------------------------------------
+------------------------LVFAGLLSIFWGLFALGL----------
+>ENSPCIP00000053987 ENSPCIG00000030979	124	no_data	no_data	Phascolarctos_cinereus	56A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------MPRRVL
+AVLLLAAAALPLGGSLSCFSCSKPTALSLCTNVTNCSATEGWCKTTLLSLQTG--YPFME
+EKTVQRECVASCV--PTDPDAIGEYQPILCCNTDRCVGNGAPVPQGSGLIL---------
+------------------------------------------------------------
+--------------------TG----------FLSVLLSAG-----------
+>ENSPCIP00000032112 ENSPCIG00000023835	177	no_data	no_data	Phascolarctos_cinereus	56B
+------------------------------------------------------------
+--------------------MKVFITILLAAL---LCLDQ--------------------
+------GSEQKETKS----ADESREEDYDYKDNDDD--------------EED----DDE
+VEIKHIPYE----GSLECYTCESESIEEHCNKIKTCAPSQTFCKTIITRGNAD----SNY
+LTTFSAWCSDTCK--EATKIIEGTHVTVNCCQSDMCNPLLVDGKA-SDTNA---------
+------------------------------------------------------------
+----------KA----NCGGILTGVGVTTLFMLLCSWLGRDL----------
+>ENSEEUP00000000696 ENSEEUG00000000784	153	no_data	no_data	Erinaceus_europaeus	56B
+------------------------------------------------------------
+--------------------MKVLTVVLLVLL---LLGLP--------------------
+------GREQVLDLTEDEDDVDPGLE--GYDDDD-----------ESE---E-------E
+EA------ASSRA-LLQCYSCQSLHRQEGCSLQQNCAPGK-PCKALISHSETG----SGP
+LTTYSAWCSDTCQ--PVTRTVERTLMTIICCQSTLCNTPPWQD-----------------
+------------------------------------------------------------
+---------PPGSEAGKPGERGAVF---------------------------
+>ENSECAP00000008688 ENSECAG00000010834	176	GPIHBP1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Equus_caballus	
+------------------------------------------------------------
+--------------------MKALTAVLLALL---LCRQP--------------------
+------GSGQVQDEEDE--DTDLEVE--DFEDNE-----------D-----ED----EDE
+EEASMTAGSRGTA-LLRCYSCQALHGEERCNQTQSCILRQAFCKTLLSHGNTE----LGP
+LTTYSAWCADMCQ--PINKTVEETVITMTCCQSNLCNVPPWQD-----------------
+------------------------------------------------------------
+---------PLGRGAGSPQGSPTTVAPALLLGLLASRQAMGS----------
+>ENSCJAP00000076276 ENSCJAG00000064441	263	GPIHBP1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Callithrix_jacc
+MAFPAGGRGSRLSSSGKLSTGHKQEQHCRQREQQGQRLEVEVRGSQEASGPANTLLSGGE
+EELQSPTQGLRVRDTAATGEMKVLGAVLLVLL---LCRWP--------------------
+------GRGQAEPEE---EE--EE-EDYRP-------------DGYDEEDEDE----VEE
+-ETDRLPGGRDRV-LLRCYTCQSLPRNERCNLTQNCRHGH-TCTTLIAHGNTE----SGL
+LTTHSTWCADSCQ--PFTKTVEGTQMTMTCCQSSLCNVPPWQSSQ-VQDPLGKGAG----
+------------------------------------------------------------
+----------------SPRDSSKTVGTAFLLILLTGLGAIEAGRA-------
+>ENSCATP00000042440 ENSCATG00000043830	97	LYNX1-SLURP2	Ly6/neurotoxin 1	Cercocebus_atys	56B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------M-------------QFH----TGL
+LLAAVLSLQLAAAQALWCHQCTGF---GGCSRGSRCPRDSTHCVTTATRVLSN----IEN
+LPLVTKMCHTGCP--DIPSLGLGPYVSIACCQTSLCNHD---------------------
+------------------------------------------------------------
+----------------------------------------------------
+>ENSCSAP00000005453 ENSCSAG00000009205	133	LYNX1-SLURP2	LYNX1-SLURP2 readthrough	Chlorocebus_sabaeus	56B
+------------------------------------------------------------
+--------------------MTPLLTLFLVV----LMGLPLAPV----------------
+-----------QALD---------CHVCAYNGDNCFN-------------PMR----CPA
+MVAYCMTTRTSAAQALWCHQCTGF---GGCSRGSRCPWDSTHCVTTATRVLSN----VEN
+LPLVTKMCHTGCP--DIPSLGLGPYVSIACCQTSLCNHD---------------------
+------------------------------------------------------------
+----------------------------------------------------
+>ENSGGOP00000040788 ENSGGOG00000039919	184	GPIHBP1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Gorilla_gorilla
+------------------------------------------------------------
+--------------------MKALGAVLLALL---LCGRP--------------------
+------GRGQTQQEE---EE--EE-EDHGP-------------DDYDEEDEDE----VEE
+EETNRLPGGRSRV-LLRCYTCKSLPRDERCNLTQNCSHGQ-TCTTLIAHGNTE----SGL
+LTTHSTWCTDSCQ--PITKTVEGTHVTMTCCQSSLCNVPPWQSSR-VQDPTGKGAG----
+------------------------------------------------------------
+----------------GPRGSSETVGTALLLNLLAGLGTMGAGRP-------
+>ENSP00000479586 ENSG00000284505	131	LYNX1-SLURP2	LYNX1-SLURP2 readthrough	Homo_sapiens	56B
+------------------------------------------------------------
+--------------------MTPLLTLILVV----LMGLPLA------------------
+-----------QALD---------CHVCAYNGDNCFN-------------PMR----CPA
+MVAYCMTTRTSAAEAIWCHQCTGF---GGCSHGSRCLRDSTHCVTTATRVLSN----TED
+LPLVTKMCHIGCP--DIPSLGLGPYVSIACCQTSLCNHD---------------------
+------------------------------------------------------------
+----------------------------------------------------
+>ENSMMUP00000019650 ENSMMUG00000041404	131	SLURP2	secreted LY6/PLAUR domain containing 2	Macaca_mulatta	56B
+------------------------------------------------------------
+--------------------MTPLLTLFLVV----LMGLPL--V----------------
+-----------QALD---------CHVCAYNGDNCFN-------------PMR----CPA
+MVAYCMTTRTSAAQALWCHQCTGF---GGCSRGSRCPRDSTHCVTTATRVLSN----IEN
+LPLVTKMCHTGCP--DIPSLGLGPYVSIACCQTSLCNHD---------------------
+------------------------------------------------------------
+----------------------------------------------------
+>ENSMLEP00000030997 ENSMLEG00000039696	97	LYNX1-SLURP2	Ly6/neurotoxin 1	Mandrillus_leucophaeus	56B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------M-------------QFH----TGL
+LLAAVLSLQLAAAQALWCHQCTGF---GGCSRGSRCPRDSTHCVTTATRVLSN----IEN
+LPLVTKMCHTGCP--DIPSLGLGPYVSIACCQTSLCNHD---------------------
+------------------------------------------------------------
+----------------------------------------------------
+>ENSMICP00000013463 ENSMICG00000014747	177	GPIHBP1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Microcebus_muri
+------------------------------------------------------------
+--------------------MKALGAVLLTLL---LCRQP--------------------
+------GRGQLQEE-------DDD-GDYGL-------------DTYEEKDDDE----DEE
+EEANSIPGSSGRG--LRCYTCQSLRREESCNLTQSCALSQTFCTTLVAHGNTE----SGL
+LTTYSTWCADSCQ--PVTRTAEGTQMTVTCCQSTLCNIPPWQGSR-VQDSPGNGAG----
+------------------------------------------------------------
+----------------G----SESVGTALLLSLLTGLWAMGPRP--------
+>ENSPTRP00000074850 ENSPTRG00000044147	184	GPIHBP1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Pan_troglodytes
+------------------------------------------------------------
+--------------------MKALGAVLLALL---LCGRP--------------------
+------GRGQTQQEE---EE--ED-EDHGP-------------DDYDEEDEDE----VEE
+EETNRLPGGRSRV-LLRCYTCKSLPRDERCNLTQNCSHGQ-TCITLIAHGNTE----SGL
+LTTHSTWCTDSCQ--PITKTVEGTQVTMTCCQSSLCNVPPWQSSR-VQDPTGKGAG----
+------------------------------------------------------------
+----------------GPRGSSETVGAALLLNLLAGLGAMGAGRP-------
+>ENSPANP00000018395 ENSPANG00000002799	97	LYNX1-SLURP2	Ly6/neurotoxin 1	Papio_anubis	56B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------M-------------QFH----TGL
+LLAAVLSLQLAAAQALWCHQCTGF---GGCSRGSRCPRDSTHCVTTATRVLSN----IEN
+LPLVTKMCHTGCP--DIPSLGLGPYVSIACCQTSLCNHD---------------------
+------------------------------------------------------------
+----------------------------------------------------
+>ENSPPYP00000021227 ENSPPYG00000018923	131	LYNX1-SLURP2	LYNX1-SLURP2 readthrough	Pongo_abelii	56B
+------------------------------------------------------------
+--------------------MTPLLTLILVV----LTGLPLA------------------
+-----------QALD---------CHVCAYNGDNCFN-------------PMR----CPA
+MVAYCMTTRTSAAEAIWCHQCTGF---GGCSHGSRCLRDSTHCVTTATRVLSN----TED
+LPLVTKMCHIGCP--DIPSLGLGPYVSIACCQTSLCNHD---------------------
+------------------------------------------------------------
+----------------------------------------------------
+>ENSTGEP00000020364 ENSTGEG00000016362	186	GPIHBP1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Theropithecus_g
+------------------------------------------------------------
+--------------------MKVLRALLLALL---LCGQP--------------------
+------GRGQAQQEE---EEEDED-EDHKP-------------DDDDEEDEDE----VEE
+EETNRLPGGRGRV-LLWCYTCQSLSRDEHCNLTRSCSHGQ-ACTTLIAHGNTE----SGL
+LTTHSAWCTDNCQ--PITKTVEGTQVTTTCCQFNLCNVPPWQSSR-VQDPPGKGAG----
+------------------------------------------------------------
+----------------GPRGSCETAGTALLLNLLAGLGAMGAGRP-------
+>ENSLAFP00000025570 ENSLAFG00000026142	190	no_data	no_data	Loxodonta_africana	56B
+------------------------------------------------------------
+--------------------MKAWTAVLLALLLLWPCAWP--------------------
+------GRGQAQNEE---DED-EDDEDFGV------------------DSYED----DYD
+EEINLFPVEEDKG-QLRCYYCRGLQEGEVCNQMQDCFPDQAFCETLIARDSIE----SSL
+QSTYTAWCADDCE--PVTRTMEGTWVTVTCCQLPLCNAPPWLTAE-DQESPGSTAGGLLD
+GRAG--------------------------------------------------------
+----------------SSKGSPPTLGTALLLSLLAGLPATGS----------
+>ENSCCNP00000000973 ENSCCNG00000001088	200	Gpihbp1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Castor_canadens
+------------------------------------------------------------
+--------------------MKALGAVLLAVL---LCGHS--------------------
+------GSRQTQEDN---DYEDMGQESYGYDDDDD--------------NDDE----EEE
+EETNLISSSRDRV-FLECYTCQLLQSGESCEDTQRCFHSQAFCTTLISHGNTD----SGL
+LTTYSMWCTDTCQ--PIVKTVEGTQMTQTCCQSTLCNVPPWQSSQ-HQDTPDVRTG----
+------------------------------------------------------------
+SPQGGRAGQPQGNGAGGHPDCPKSVGITLLLSLLSSLWATGP----------
+>ENSCPOP00000025748 ENSCPOG00000040336	194	GPIHBP1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Cavia_porcellus
+------------------------------------------------------------
+--------------------MKALGAMVLILL---LCGQP--------------------
+------GSSQAQEEE---EEGDRDSDSYSYDDE-------------------E----DEE
+EETNMIPGSRDRA--LSCYTCPLLHHGDSCNQTERCSSSQDSCVMLVSHSNTD----SGP
+LTTYSMWCKDSCQ--PITKTVKGTQMTKTCCHSPMCNAPPWQHPQ-IQDPLNGTTSSPQD
+SRTS--------------------------------------------------------
+--------HPQAGGSHAPPSCPQNVGTALLLNLLTSLWVVGA----------
+>ENSCLAP00000012724 ENSCLAG00000008784	188	GPIHBP1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Chinchilla_lani
+------------------------------------------------------------
+--------------------MKALGAVVLALL---LCGQP--------------------
+------GSSQAQEEE----EDDRSPDSYGYDDD-------------------D----EEE
+ET-----HSRDRA--LPCYHCPLLHHGDRCDQIQNCSSSQDSCVMLVSHSNTD----SGS
+LTTYSMWCTDSCQ--PVIKTVEGTQMTETCCQSPMCNVPPWQHPQ-VEDLLNGKTGSPQD
+DRAS--------------------------------------------------------
+--------HPQAGGSHAPPSCPQNVGTALLFSLFTSLWVVGT----------
+>ENSDORP00000010735 ENSDORG00000011422	205	no_data	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Dipodomys_ordii
+------------------------------------------------------------
+--------------------MEALGAVLLTLL---LCQQP--------------------
+------GHRLAQEDE---ED--VKSEGYGYDDD-----------------DEE----EEE
+DETNMIFSSKDRV-TLECYTCLLLKDRERCQETKRCSSGQTFCTTMVSHGRTD----SGF
+LTTYSMWCTDSCR--PLTKTVEGTQMNQTCCQSTLCNAPPWQRPP-SG------A-----
+-----------------------------------GSPQGGRTGQPQGGRAGGPREDGPG
+--------SSRGSGAPGFTGCPKSMGTALLLPLLASLWTVEA----------
+>ENSMUGP00000011006 ENSMUGG00000009652	278	Gpihbp1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Meriones_unguic
+------------------------------------------------------------
+--------------------MKALRAILLILL---LSGQP--------------------
+------GSKWAQEED---GDVNLGPKRDDFDDDDDDDNDDDDDDDDDDDDDEE----EEE
+EETNMIPGSRDRV-PLQCYFCQVLGFGESCNQTQKCSHSQPFCTTLISHTNTD----KGL
+LITYSVWCTDTCQ--PLARTLQDTHITQTCCQSSFCNTLPWEQPQ-VYSPPGGRADGPLD
+GGSRHPQGGSSSSPLDGEARHPQGSSSSSPLDDGARHPQGGKIGHPQVVKAAHPRNDGAS
+LPKGGKANGPQGSGAGCLPGWTKFGNTALLLSFLTSLWVSGA----------
+>ENSMAUP00000023648 ENSMAUG00000020734	229	Gpihbp1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Mesocricetus_au
+------------------------------------------------------------
+--------------------MEALRAVLLVLL---LSGQS--------------------
+------GSRWAQEED---GDVDVGSESYDYDDD-----------------YEE----EEE
+EESNMVPDSRDRE-SLRCYICQSLHSGESCNQTRGCYHSRAFCTTLISHGNTD----KGL
+LTTYSMWCTDTCQ--AFTRTVLGTQVTKSCCQSTLCNIPPWQSPQ-VLDSLGGWAGIPVD
+GGAR--------------------------------HPQGGRVGHPQVVKITHPQRDEAS
+LPKGGRANKPQGSGAGCPPGWHRFGDTALLLSLLTSLWASGV----------
+>ENSMOCP00000005018 ENSMOCG00000004404	228	Gpihbp1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Microtus_ochrog
+------------------------------------------------------------
+--------------------MEALRVVLLVLL---ISGQS--------------------
+------GSRWAQEED---GDTDLGSESYGYDDD-----------------YEE----EEE
+EETNEIPESRDRE-SLQCYMCLSLHSGESCNQTQSCYHSHDFCTTLVSHGNTD----KGP
+LTTYSMWCTDTCR--PFTKTLLGTQMIKTCCQSKLCNIPPWQSPQ-VQDSPGGWTGSPVD
+SGTR--------------------------------GPQGSRVDPPPVVKVVPPQSGGAS
+LPKDSRDDHPWDSGAGCPPGWPKFGNTVFLLSLLTSLWAGA-----------
+>ENSMUSP00000023243 ENSMUSG00000022579	228	Gpihbp1	GPI-anchored HDL-binding protein 1	Mus_musculus	56B
+------------------------------------------------------------
+--------------------MKALRAVLLILL---LSGQP--------------------
+------GSGWAQE-D---GDADPEPENYNYDDD-----------------DDE----EEE
+EETNMIPGSRDRA-PLQCYFCQVLHSGESCNQTQSCSSSKPFCITLVSHSGTD----KGY
+LTTYSMWCTDTCQ--PIIKTVGGTQMTQTCCQSTLCNIPPWQNPQ-VQNPLGGRADSPLE
+SGTR--------------------------------HPQGGKFSHPQVVKAAHPQSDGAN
+LPKSGKANQPQGSGAGYPSGWTKFGNIALLLSFFTCLWASGA----------
+>ENSODEP00000019207 ENSODEG00000014168	131	LYNX1-SLURP2	LYNX1-SLURP2 readthrough	Octodon_degus	56B
+------------------------------------------------------------
+--------------------MAALLALFLVA----LVGLPLA------------------
+-----------QALE---------CHVCSYNGDNCFN-------------PIR----CPA
+MVRYCMTTRTSTAQGLRCHRCKGF---GGCSQPFSCPRGSTHCVIIATRTPIS----FTD
+LPLVTKMCDKGCP--EVSSLGLGPHVSVACCQFSLCNRD---------------------
+------------------------------------------------------------
+----------------------------------------------------
+>ENSPEMP00000014171 ENSPEMG00000014054	225	Gpihbp1	GPI-anchored HDL-binding protein 1	Peromyscus_maniculatus_bairdii	56B
+------------------------------------------------------------
+--------------------MKALGVVLLVLL---LSGQS--------------------
+------G--WAQEED---GDVDLGPESYGYDDD-----------------YEE----EE-
+EETNMIPGGRDRE-YLQCYTCQSIHSGESCNQIQRCYHK-TFCTTFISHGNTD----QGL
+LTTYSMWCTDTCQ--PITKTISGTQMTQTCCQSALCNIPPWQSPQ-VQDAPAAGAGSPVE
+GGVR--------------------------------HPQGDRVGHPPQVKSANPQGGGAG
+SPKGGKNNEPQGSRSGCPPGWAKFGDTALLLSLLTSLWASGA----------
+>ENSRNOP00000009811 ENSRNOG00000007475	236	Gpihbp1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Rattus_norvegic
+------------------------------------------------------------
+--------------------MKALRAVLLILL---LSGQP--------------------
+------GSSWAQE-A---GDVDLELERYSYDDDG----------DDDDDDDEE----EEE
+EETNMIPGSRDRAPPLQCYFCQVLHSGESCNETQSCSSSKPFCITVISHGKTD----TGV
+LTTYSMWCTDTCQ--PIVKTVDSTQMTQTCCQSTLCNIPPWQSPQ-IHNPLGGRADSPLK
+GGTR--------------------------------HPQGDRFSHPQVVKVTHPQSDGAH
+LSKGGKANQPQGNGAGFPAGWSKFGNVVLLLTFLTSLWASGA----------
+>ENSTBEP00000000472 ENSTBEG00000000555	131	LYNX1-SLURP2	LYNX1-SLURP2 readthrough	Tupaia_belangeri	56B
+------------------------------------------------------------
+--------------------MAPLLALFLMA----LVGLPLA------------------
+-----------QALD---------CHVCTYNGENCFN-------------PMR----CPA
+MVSYCMTTRTSASQAMWCHQCKGF---GGCSQEASCPQDTTHCIAIATPAPIN----FPG
+VPVVTKMCYRGCP--DSHSLGLGPYVSIICCQASLCNHD---------------------
+------------------------------------------------------------
+----------------------------------------------------
+>ENSANIP00000013200 ENSANIG00000008969	127	no_data	no_data	Accipiter_nisus	56A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------MK----TLL
+VGLLLGLAFVELAQSLRCYTCKEPMDIDRCRTATLCPPKATVCTTTLHSVDSG--YPFFG
+NITVTRSCEEECL--AY--NGIGATRPKSCCYTDLCTDDT-KSSNGVGSSS---------
+------------------------------------------------------------
+--------------------AALGLMAMVFGTLLQCAL--------------
+>ENSACCP00020006101 ENSACCG00020004179	141	no_data	no_data	Aquila_chrysaetos_chrysaetos	56A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------MCLVSGTTRTCR-------------FAVC----LRC
+CDHLRPILFPSAAQSLRCYTCKEPTDIAQCRTATLCPPKATVCTTTLHSVDSG--YPFFG
+NITVTRSCEEECL--AY--NGIGATRPKSCCYTDLCTDDT-KSSNGVGSSS---------
+------------------------------------------------------------
+--------------------AALGLMAMVFGTLLQCAL--------------
+>ENSAPLP00020002206 ENSAPLG00020001622	170	no_data	no_data	Anas_platyrhynchos	56A
+------------------------------------------------------------
+-----------------------MSSPLLT-------------PGES-------------
+-A-HRIKRRWRVERH---IKLPGSRSPLLSRLHGSA-------------LSMK----SLL
+VGLLLGLACVELAQSLRCYTCKEPTDINDCRTPTVCPPNAKVCTTTLHSLDMG--YPFFG
+NITVTRKCDETCV--DY--DGIGSSRPTTCCYTDLCSDDT--KNKGERSSS---------
+------------------------------------------------------------
+--------------------SALGLMALVVGTLLQCAL--------------
+>ENSACDP00005011146 ENSACDG00005008132	114	no_data	no_data	Anser_cygnoides	56A
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------TT
+EQRSCSLAVCLCSQSLRCYTCKEPTDISECRTPTLCPPKAKVCTTTLHSLDTG--YPFFG
+NITVTRKCDETCV--DY--DGIGSSRPTSCCYTDLCSDDT-KT-----------------
+------------------------------------------------------------
+----------------------PGLMSLAVGILLQRAL--------------
+>ENSAOWP00000021668 ENSAOWG00000014652	126	no_data	no_data	Apteryx_owenii	56A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------GTK
+RWTVQEMLLIIMAQSLRCYTCKEPTDISLCKRVTLCPLKATACTTTLLSVDSG--YPFFG
+NITVIKSCSENCI--AS--NGIGANRPTLCCYSDLCNDNSSNGSPGLRTSF---------
+------------------------------------------------------------
+--------------------AALGITAVVLIMFFKPTL--------------
+>ENSDNVP00000027443 ENSDNVG00000019057	131	no_data	no_data	Dromaius_novaehollandiae	56A
+------------------------------------------------------------
+----------------------------------------------M-------------
+-E-NALASLW-----------------------------------------------ALL
+LVFLFPSA----AQSLRCYTCKEPTDISLCKTETLCPMKAKACTTTLLSVDSG--YPFFG
+NITVIRSCAENCT--AS--GGIGANRPMSCCYTDLCNDDSSNSSPGLKTSY---------
+------------------------------------------------------------
+--------------------AALSVTALVLVMLFKPAL--------------
+>ENSCPUP00000014764 ENSCPUG00000010335	127	no_data	ly6/PLAUR domain-containing protein 2-like	Calidris_pugnax	56A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------MK----TLL
+VGVLLGLAFVDLAQCLRCYTCKEPTDIAECRTVTLCPPKATVCTTTLHSLETG--YPFFG
+NITVTRSCEEECI--SY--NGIGDSRPKSCCYTDLCTDNT-RTISGVGRSS---------
+------------------------------------------------------------
+--------------------STLGLMAMAIGTLLRCAL--------------
+>ENSCPIP00010001829 ENSCPIG00010001441	127	no_data	no_data	Chrysolophus_pictus	56A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------MK----MPL
+VGLLLGLACIELAQSLQCYTCKEPTDISKCRTPTECPPRAKVCTTTLHSVDLG--YPFFG
+NITVTRSCEEECV--TY--EGIGSNRPTSCCYTDLCSDDT-KSSKGERSSS---------
+------------------------------------------------------------
+--------------------AMLGVMAMVFGTLLQCVL--------------
+>ENSCPIP00010001830 ENSCPIG00010001442	127	no_data	no_data	Chrysolophus_pictus	56B
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------MK----LFL
+PLLLVAIAGMEFAQTLKCYTCHEPTASEKCMKIQKCGKNETMCKTTMYSLEEV--YPFVG
+LSTVTKMCSSVCS--PSDVDGIGMTRPVSCCYSNLCNVDGAA-S--LRISF---------
+------------------------------------------------------------
+--------------------VPVGMLASVVCCLFWSRL--------------
+>ENSCJPP00005012310 ENSCJPG00005010475	212	no_data	ly6/PLAUR domain-containing protein 2-like	Coturnix_japonica	56A
+-----------------------------MGPTSGHKPEEEMRYGTSLLIMMTSPYPGTH
+SS-------------ANPNPGWSWASPLLN-------------PGES-------------
+-A-HRIKRRWRVERD---IKLPRSSSTLLPQLHGST-------------LSMK----MPL
+VGLLLGLACIELAQSLQCFTCNEPMDISMCRTPTECPPRAKVCTTTLHSVDLG--YPFFG
+NVTVTRGCAEDCV--TY--DGIGSSRPTSCCYTDLCFEDS-RSSKGERSSS---------
+------------------------------------------------------------
+--------------------AALGLMAIVFGTFLQCVL--------------
+>ENSCJPP00005012311 ENSCJPG00005010476	127	no_data	ly6/PLAUR domain-containing protein 2-like	Coturnix_japonica	56B
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------MK----LFL
+PLLLVAIAGMEFAQTLKCYTCLEPTVSEKCMKIQKCGKNETMCKTTMYSLEEV--YPFVG
+VSTVTKMCSSVCI--PSDVDGIGMTRPVSCCYSNLCNIDNAA-S--LKVSF---------
+------------------------------------------------------------
+--------------------VPAGMLASVVCGLFFSRL--------------
+>ENSGALP00000058845 ENSGALG00000046632	127	no_data	ly6/PLAUR domain-containing protein 2-like	Gallus_gallus	56A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------MK----MPL
+VGLLLGLACIELAQSLQCYTCKEPTDISKCRTPTECPPKAKVCTTTLHSVDLG--YPFFG
+NVTVTRSCEEECI--TY--DGIGSNRPTSCCYTDLCSDDT-KSSKGERSSS---------
+------------------------------------------------------------
+--------------------AALGVMAMVFGTLLQGVL--------------
+>ENSGALP00000065791 ENSGALG00000051312	188	no_data	no_data	Gallus_gallus	56B
+------------------------------------------------MALSFLPCYEEL
+NL------------H--LRLCLADQTNVFLI----LCNANMFYCFI--------------
+-----SVQCMSILES---DTSQMSLR-----ERGQN---------------LT----FYT
+KA--NLMFFLLTAQSLKCYTCHEPTASEKCMKIQKCAKNETMCKTTMYSLEEV--YPFVG
+LSTVTKMCSSVCS--PSDVDGIGMTRPVSCCYSNLCNIDGAA-S--LRISF---------
+------------------------------------------------------------
+--------------------VPVGMLASVVCGLFWSRL--------------
+>ENSMGAP00000013697 ENSMGAG00000012988	124	no_data	no_data	Meleagris_gallopavo	56A
+------------------------------------------------------------
+------------------------------------------------------------
+-----ILGCWDLVFA---LD----------------------------------------
+-----LPKFCHCLQSLQCYTCKEPMDISKCRTPTECPPRAKVCTTTLHSVDLG--YPFFG
+NITVTRSCEEECV--TY--EGIGSNRPTSCCYTDLCSDDT--SSKGERSSS---------
+------------------------------------------------------------
+--------------------AALGVMAMVFGTLL------------------
+>ENSNMEP00000010835 ENSNMEG00000010223	127	no_data	ly6/PLAUR domain-containing protein 2-like	Numida_meleagris	56A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------MK----IPL
+VVLLLSLACVELAQSLRCYTCKEPTDISMCRTPTECPPRAKVCTTTLHSVDLG--YPFFG
+NITVTRSCEEECV--TY--DGIGSNRPTSCCYTDLCSDDT-RSSKGERSSS---------
+------------------------------------------------------------
+--------------------AVLGVMAMVFGTLLQCVL--------------
+>ENSNMEP00000010836 ENSNMEG00000010226	127	no_data	ly6/PLAUR domain-containing protein 2-like	Numida_meleagris	56B
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------MK----LFL
+PLLLVAVAGVEFAQTLQCYTCHEPTVAEKCMKIQNCAKNETMCKTTMYSLEEV--YPFVG
+LSTVTKMCSSVCI--PSDADGIGMTRPVSCCYSNLCNIDSAA-S--LRISF---------
+------------------------------------------------------------
+--------------------APAGMLASVICGLFWSRL--------------
+>ENSPCLP00000005304 ENSPCLG00000004526	125	no_data	no_data	Phasianus_colchicus	56A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------MK----MPL
+VGLLLGLACIELAQSLQCYTCKVPMDISKCRTPTECPPRAKVCTTTLHSVDLG--YPFFG
+NITVTRSCEEECV--TY--EGIGSNRPTSCCYTDLCSDDT---SKGERSSS---------
+------------------------------------------------------------
+--------------------AVLGVMAMVFGTLLQCVL--------------
+>ENSCPVP00000006090 ENSCPVG00000004486	145	no_data	no_data	Camarhynchus_parvulus	56A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------MRK----LNPKK-------------SPLS-------
+-LLFSRLNSCRGSQSLRCYMCKEPTDISKCRTPITCPPKATVCTTTLHSVDTGECYPFFG
+NITVTRGCEEECL--SY--DGIGAQKPKSCCYTDLCTDDT-KSSSGVRSSP---------
+------------------------------------------------------------
+--------------------AALGLVALVLLPELRLQLELPDFPFQMF----
+>ENSCCEP00000013117 ENSCCEG00000012628	127	no_data	no_data	Cyanistes_caeruleus	56A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------MKK----IL---------------------------
+VGFLLGLAFVELAQSLRCYTCKEPTDISKCKTAVTCSPKATVCTTTLHSVEIG--YPFFG
+NITVTRACEEECL--PD--NGIGSSRPKSCCYTDLCTDDT-KSSSGVRSSS---------
+------------------------------------------------------------
+--------------------TALALVAVVAGMVLQCSL--------------
+>ENSCCEP00000013119 ENSCCEG00000012629	131	no_data	ly6/PLAUR domain-containing protein 2-like	Cyanistes_caeruleus	56B
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------MTFS---------------AE----HEE
+SQAWTIPKCLSLGHSLQCYTCRDLTPVEKCLTIENCTGSDFICKTTMYSEEDV--YPPTG
+ISVVTKMCSSSCV--PSDLDGIGMTHPVTCCYSDLCNFDGAA-S--LRISV---------
+------------------------------------------------------------
+--------------------VPVGILASSLCAFFWTRL--------------
+>ENSEGOP00005001148 ENSEGOG00005000969	127	no_data	no_data	Erythrura_gouldiae	56A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------MKK----LL---------------------------
+VGFLLGLAFMEFAQSLRCYTCKEPTDISKCRTATLCPPKATVCTTTLHSMDTG--YPFFG
+NITVTRDCEEECL--SY--DGIGAQKPKSCCYTDLCTDDT-RNSSGVRSSS---------
+------------------------------------------------------------
+--------------------TALALLALVAGMVLQCSL--------------
+>ENSEGOP00005001151 ENSEGOG00005000970	130	no_data	no_data	Erythrura_gouldiae	56B
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------MCK---------------MK----VFL
+SLLLAAVTCMDLGHSLQCYTCKELTPVEECLTIENCTGSENICKTTIYSREDV--YPAPE
+VSTVTKMCSSVCE--PSDVDGIGMTHPVSCCYSDLCNFDGAA-S--LGISV---------
+------------------------------------------------------------
+--------------------VPVAILACSLCAFFWTKL--------------
+>ENSFALP00000010011 ENSFALG00000009604	124	no_data	no_data	Ficedula_albicollis	56A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------GVS----LPC
+CVTSGSSSVPSAARSLRCYTCKEPTEISRCRTAVVCPPKATVCTTTLHSVETG--YPFFG
+NITVTRDCEEECL--SY--DGIGASRPKSCCYTDLCMDDT-KGSNGVRSSS---------
+------------------------------------------------------------
+--------------------AGLALVALVAGTLL------------------
+>ENSFALP00000010007 ENSFALG00000009599	127	no_data	ly6/PLAUR domain-containing protein 2-like	Ficedula_albicollis	56B
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------MK----VFL
+SLLLAAVTCMDLGHSLQCYTCRDLTSVDKCQTIENCTKEETMCKTTMYSLEDV--YPPTG
+VSTVTKMCASSCE--PSSVDNIGMTRPVTCCYSDLCNFDGAA-S--LSTNM---------
+------------------------------------------------------------
+--------------------VPAGILASSLCAFFWSRL--------------
+>ENSGFOP00000020670 ENSGFOG00000013799	135	no_data	no_data	Geospiza_fortis	56A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------MRK----LNPKK-------------SPLS-------
+-LLFSRLNSCRGSQSLRCYMCKEPTDISKCRTPITCPPKATVCTTTLHSVDTGECYPFFG
+NITVTRGCEEECL--SY--DGIGAQKPKSCCYTDLCTDDT-KSSSGVRSSP---------
+------------------------------------------------------------
+--------------------AVLGLVALVAGTVLQCSL--------------
+>ENSJHYP00000004014 ENSJHYG00000003319	127	no_data	no_data	Junco_hyemalis	56A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------MKK----LL---------------------------
+VGFLLGLAFVELAQSLQCYVCKQPIDISQCRTPVTCPPRATVCTTTLHSVDIG--YPFFG
+NITVTRDCEEECL--TY--DGIGAQKPKSCCYTDLCTDAT-NSSSGVRSSS---------
+------------------------------------------------------------
+--------------------AALALVALVAGTVLQCSL--------------
+>ENSJHYP00000004029 ENSJHYG00000003336	122	no_data	no_data	Junco_hyemalis	56B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-MFSILLFSLLTGHSLQCYTCKELTPVQECLKIENCTEKETICKTTIYSLEDV--YPHTG
+VSTVTKMCSSVCE--PSDVDGIGMTHPVTCCFSDLCNVDDAAST--LGVSI---------
+------------------------------------------------------------
+--------------------VPVGILTSSLGAFFWTRL--------------
+>ENSLSDP00000019225 ENSLSDG00000013711	137	no_data	no_data	Lonchura_striata_domestica	56A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------MRA----VLRPH-------------SALR----MAD
+TALKFKSCPRLLIPSLRCYTCKEPTDISKCKTATLCPPKATVCTTTLHSVDTG--YPFFG
+NITVTRDCEEECL--SY--DGIGAQKPKSCCYTDLCTDDT-RSSSGVRSSS---------
+------------------------------------------------------------
+--------------------AALGLVAVVAGMALQCSL--------------
+>ENSLSDP00000019222 ENSLSDG00000013710	119	no_data	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	Lonchura_striat
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-MFSILLFSLLTGHSLQCYTCKDLTPVEECMRIENCTESENICKTTIYSREDV--YPAPE
+VSTVTKMCSSVCE--PSDVDGIGMTHPVSCCYSDLCNFDGAA-S--LGISV---------
+------------------------------------------------------------
+--------------------VPV--LACSLCAFFWTRL--------------
+>ENSMVIP00005016159 ENSMVIG00005011606	121	no_data	ly6/PLAUR domain-containing protein 2-like	Manacus_vitellinus	56A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-WRGSSLCVPSAAQSLRCYTCKEPTDISKCRTATLCPPKSNVCTTTLHSVDTG--YPFFG
+NITVTRSCEEECL--PN--NGIGDNKPKSCCYTDLCTSDT-RASSGVRSSS---------
+------------------------------------------------------------
+--------------------SALPLLVLLLGKLLQCSL--------------
+>ENSPMJP00000017513 ENSPMJG00000013167	127	no_data	uncharacterized LOC107216204	Parus_major	56A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------MKK----LL---------------------------
+VGFLLGLAFVELAQSLRCYTCKEPTDISKCNTAVVCSPKATVCTTTLHSVEIG--YPFFG
+NITVTRACEEECL--PD--NGIGSSRPKSCCYTDLCTDDT-KSSSGVRSSS---------
+------------------------------------------------------------
+--------------------AALALVAVVAGTVLQCSL--------------
+>ENSPMJP00000017514 ENSPMJG00000013169	127	no_data	ly6/PLAUR domain-containing protein 2-like	Parus_major	56B
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------MK----VFL
+SLLLAAVTCLDLGHSLQCYTCRDLTPVEKCLTIENCTGAEFICKTTMYSEEDV--YPPTG
+VSVVTKMCSSSCV--PSDVDGIGMTHPVTCCYSDLCNFDGAA-S--LRISV---------
+------------------------------------------------------------
+--------------------VPVGILASSLCAFFWTRL--------------
+>ENSSCAP00000000378 ENSSCAG00000000333	127	no_data	ly6/PLAUR domain-containing protein 2-like	Serinus_canaria	56A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------MKK----LL---------------------------
+VGFLLGLAFVELAQSLQCYVCKEPTDISKCRTPIVCPPKATVCTTTLHSVETG--YPFFG
+NITVTRGCEEECV--SY--NGIGDQRPKSCCYTDLCTDDT-KSSSGVRSSS---------
+------------------------------------------------------------
+--------------------AALALVALVAGTVLQCSL--------------
+>ENSSCAP00000000368 ENSSCAG00000000328	189	no_data	ly6/PLAUR domain-containing protein 2	Serinus_canaria	56B
+--------------------------------------------------MVVLPFQNHK
+LL------------L--LRDMMEKG----LH----LEPVDLDPGTES-------------
+-VHGKSRGPVTSVKS---GDNPVTRQ-----QGLCK---------------MK----VFL
+SLLLAAVTCMDLGHSLQCYTCKDLTPVEECMKIENCTEAENICKTTIYSLEDV--YPHTG
+VSTVTKMCSSVCE--PSDVDGIGMTRPVTCCYSDLCNIDGAA-S--LGISV---------
+------------------------------------------------------------
+--------------------VPVGILASSLCAFFWTRL--------------
+>ENSTGUP00000013102 ENSTGUG00000012729	137	no_data	no_data	Taeniopygia_guttata	56A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------MRA----VLRPH-------------SALR----MSD
+TALKFKSCPQLLIPSLRCYTCKEPTDISKCRTATLCPPKATVCTTTLHSMDTG--YPFFG
+NITVTRDCEEECL--SY--DGIGAQKPKSCCYTDLCTDDT-RSSSGVRSSS---------
+------------------------------------------------------------
+--------------------TALSVVAVVAGMVLQCSL--------------
+>ENSTGUP00000028046 ENSTGUG00000021003	123	no_data	no_data	Taeniopygia_guttata	56B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------M---------------IP----S--
+---FVCALLDVQGHSLQCYTCKDLTPVEECLTIENCTASENICKTTIYSREDV--YPAPE
+VSTVTKMCSSVCE--PSDVDGIGMTHPVSCCYSDLCNFDGAA-S--LGISV---------
+------------------------------------------------------------
+--------------------VPVGILACSLCAFFWTRL--------------
+>ENSZALP00000018460 ENSZALG00000014777	118	no_data	no_data	Zonotrichia_albicollis	56A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+MRGSRAFSVPSAAQSLQCYVCKQPIDISQCRTPVTCPPRATVCTTTLHSVDLG--YPFFG
+NITVTRDCEEECL--TS--DGIGAQKPKSCCYTDLCTEDT-NSSSRL-------------
+------------------------------------------------------------
+------------------------------LPELRLQLELPDFPFQMF----
+>ENSACOP00000000026 ENSACOG00000000020	121	no_data	no_data	Amazona_collaria	56A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------MENLLLVTRFCR-------------NPY--------
+--KQAPVLFLSAAQSLRCYTCKEPTDIAKCKTVTLCPPKSIVCSTTLHSVDSG--YPFFG
+NITVTRNCEEECV--SN--DGIGSNKPKSCCYTDLCTDDN-RSRNGTLLSA---------
+------------------------------------------------------------
+--------------------KLNS----------------------------
+>ENSSHBP00005001340 ENSSHBG00005001201	135	no_data	no_data	Strigops_habroptila	56A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------M--------
+--EILPILFLSAAQSLRCYTCKEPTDITKCKTVTLCPPKSIVCTTTLHSVDSG--YPFFG
+NITVTRNCEEECV--SY--DGIGANKPKSCCYTDLCTDDT-RSRNGVGRSS---------
+------------------------------------------------------------
+--------------------AALGSRWILVLTLLPAQWSAASYCKELALNSV
+>ENSACAP00000001173 ENSACAG00000001280	125	no_data	no_data	Anolis_carolinensis	56B
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------MPA----------------------------------NFE
+LMLLTRFLLAISAHALKCYTCKRPTDLGKCVSITNCSAEMTACRTTVLSLDTG--YPFFG
+NVSVEKSCSKDCK--PSDPDSLGERHPDYCCYTDLCNVGAGSE---VSAIV---------
+------------------------------------------------------------
+--------------------STTTVAVTLALALLW-----------------
+>ENSLLTP00000015408 ENSLLTG00000011814	98	no_data	no_data	Laticauda_laticaudata	56A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------VVFSAIKFGVVSICIYSM----TIQFCV-LSLGQTIV--YPFVG
+ESTVTRSCSLACN--LSEIDAIGSTRLITCCHTDLCNHDGASW---LEISY---------
+------------------------------------------------------------
+--------------------TMLGGLLASFFLFLN-----------------
+>ENSNSUP00000013620 ENSNSUG00000010133	123	no_data	no_data	Notechis_scutatus	56A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------------VLSA
+WNLQDLVAQLWSTQSLKCFSCREPTRPEKCMAVMNCMPDQTTCMTTMHSIEEV--YPFVG
+ESTVTRSCSLACN--LSEIDAIGSTRLIICCHTDLCNHDGASW---LEISY---------
+------------------------------------------------------------
+--------------------TMLGGLLVSFFLFLR-----------------
+>ENSPMRP00000008447 ENSPMRG00000005706	151	no_data	no_data	Podarcis_muralis	56B
+------------------------------------------------------------
+------------------------------------------------------------
+--MAVSIGTWVALW-----VKPESLE-----LADQK---------------VG----SSN
+PCNGVSSRCSVPAPANLCYNCQEPTDFSNCLTFVNCSADSTHCKITVHSVDSG--YPFFG
+NITVTKSCAKNCV--PSEPDGIGETRPAYCCDTDLCNVGSGQQ---ARAAI---------
+------------------------------------------------------------
+--------------------SATAFIATLAFGLLWTRL--------------
+>ENSSMRP00000010241 ENSSMRG00000008125	117	no_data	no_data	Salvator_merianae	56A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------VSIR-----------------------------------
+WASQLSF---LAVFSLQCFTCKEPTDLSTCVSIVNCSVQATACKTTIHSVDSG--YPFFG
+NITVTKSCSENCV--PSEPDGIGDSHPDYCCYTDLCNIGKSEI---EEASV---------
+------------------------------------------------------------
+--------------------GKGSQS----Q-NRNHC---------------
+>ENSVKKP00000025915 ENSVKKG00000016957	126	no_data	no_data	Varanus_komodoensis	56B
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------QLTV-----------------------------------
+WHLLLLLEVGPDALSLRCFTCTKPTDLANCLTIANCSEGEGTCKTTVHSVDSG--YPFFG
+NITVTKSCSEVCV--PAEPDGIGENHPDYCCSTDLCNVGAGQP---ASTTS---------
+------------------------------------------------------------
+--------------------SAVVVTAAVASGLLWTRL--------------
+>ENSACUP00000001887 ENSACUG00000001326	127	no_data	secreted Ly-6/uPAR-related protein 1-like	Athene_cunicularia	56A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------MK----TLL
+VGLLLGLAYVELAHSLRCYTCKEPTDIAKCRTATLCPPKSTVCTTTLHSVETG--YPFFG
+NITVTRSCEEECL--SY--DGIGATRPKSCCYTDLCTDDT-RSSNGVRSSS---------
+------------------------------------------------------------
+--------------------AGLGLMAMALGVLLQCSL--------------
+>ENSSCUP00000019687 ENSSCUG00000014481	192	no_data	no_data	Struthio_camelus_australis	56A
+-----------------------------------------------------MPKPLQH
+QL------------RPSSVRVWPFHSEVSKH----CCCLQLCLVSRV-------------
+-T-APLSEGWSTAQH---TFPTPK-------QKNCR-------------LAVCLCRDDQL
+RPVLFPSA----AQSLRCYTCEKPTDISLCRTVTVCPPRARACTTTMLSVDSG--YPFFG
+NITVMRSCIEDCV--AS--GGIGANHPMSCCYTDLCNDNSSRSSPGLRTSY---------
+------------------------------------------------------------
+--------------------AALGAMALVLVMLFKPPL--------------
+>ENSCABP00000012687 ENSCABG00000009496	130	no_data	no_data	Chelonoidis_abingdonii	56B
+------------------------------------------------------------
+------------------------------------------------------------
+-------GGWTTLA-----LRALPP-----------------------------------
+TTAILFL---LTAQSLRCYTCKEPTDLSACTLVSNCSENDTACRTTVHSVDSG--YPFFG
+NITVSKSCAKMCI--PSDPDGIGESHPDSCCRTDLCNTDGVPE---LTANA---------
+------------------------------------------------------------
+--------------------MAIT------AAALWTLLRVML----------
+>ENSCSRP00000020100 ENSCSRG00000015304	105	no_data	no_data	Chelydra_serpentina	56B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------M-----------------------------------
+RHAILFL---LTAQSLQCYTCEEPTDLAACTTVSNCSEKDTACKTTVYSVDSG--YPFFG
+NITVSKSCAETCV--PSDPDGIGESHPDSCCYTDLCNTAAQRM---ELLDT---------
+------------------------------------------------------------
+--------------------SFG-----------------------------
+>ENSCPBP00000026875 ENSCPBG00000019075	120	no_data	no_data	Chrysemys_picta_bellii	56B
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------ISIQ-----------------------------------
+RHAILFL---LTAQSLRCYTCREPTDLSECTSISNCSANDTACKTTVHSVDSG--YPFFG
+NITVSKSCAKTCM--PSDPDGIGESHPDSCCYTDLCNTGGELE---GSSES---------
+------------------------------------------------------------
+--------------------SS-----------RLQIPLPGSRERP------
+>ENSPSIP00000007525 ENSPSIG00000006914	130	no_data	no_data	Pelodiscus_sinensis	56B
+------------------------------------------------------------
+------------------------------------------------------------
+-------KQSQTL------RLLRPI-----------------------------------
+LRDLVFL---LPALTLQCYTCKEPTDLSACTTVTNCSEKATACKTTVLSVDSG--YPFFG
+NITVSKSCAETCV--PSDPDGIGEAHPDSCCSTDLCNTDGAPG---FTVAS---------
+------------------------------------------------------------
+--------------------SLHAGN----GTARWLCSSPL-----------
+>ENSTMTP00000000349 ENSTMTG00000000295	118	no_data	no_data	Terrapene_carolina_triunguis	56B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------M-----------------------------------
+RHAILFL---LAAQSLRCYTCREPTDLSACTSVSNCSANDTACKTTVLSVDSG--YPFFG
+NITVSKSCVKTCV--PTDPDGIGESHPDSCCYTDLCNTGGHVE---LTLAE---------
+------------------------------------------------------------
+--------------------DISP------VNCGFFFFKPGI----------
+>ENSNPEP00000021292 ENSNPEG00000015796	118	no_data	no_data	Nothoprocta_perdicaria	56A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----FPTSSLVLLWSLRCYTCKEPTDISVCKNVTLCPLKANACTTTMLSIDMG--YPFFG
+NITVIRSCAENCT--AS--DGIGANRPMSCCYTDLCNDES-SSSPGLRTSY---------
+------------------------------------------------------------
+--------------------TALSITALLLIMVFKPIL--------------

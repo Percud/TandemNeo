@@ -1,0 +1,644 @@
+>ENSORLP00000029869 ENSORLG00000028943	134	no_data	C-C motif chemokine 2	Oryzias_latipes	540B
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MAIRG--IAAASLLCFLLGML------CPAPAD
+S--------------A-RSNLSCCTAYNKMQLPFQRIRGYREQTS-NYCHIEAIIFYTIN
+NRQFCANAKETWVKHSLELLSTKL-KRMSKILPGPEKAVMEKPKNPELSK---TLEVIPE
+-------TFHNKTESV----------------------------
+>ENSPNAP00000032672 ENSPNAG00000020755	127	no_data	C-C motif chemokine 20-like	Pygocentrus_nattereri	540A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------MPAIMPAKGLVATALIICGVLYTL------SPTTAA
+Y--------------G-PMNHACCVKYTRKPVGFSLIKGYFEQSSREVCRIDAIIFITKR
+NKKICATTADDWVRKALARLSDKM-KKMSKLQSNQSAGVSISTLSARGITSSS-------
+--------------------------------------------
+>ENSACLP00000005629 ENSACLG00000003798	128	no_data	C-C motif chemokine 20-like	Astatotilapia_calliptera	540B
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MAPRGTITLTALLLCFILGIL------CPAPAE
+C--------------A---RASCCTSYSKTPVSFNRIKGYREQRNWENCRIEAIIFYTVA
+NRQMCANPKAEWVKKLLEQLSAKL-KNMSKGGSV------KKTGNTSGRDGSGSDLTATE
+-------AFTAY--------------------------------
+>ENSHBUP00000033480 ENSHBUG00000020431	128	no_data	C-C motif chemokine 20-like	Haplochromis_burtoni	540B
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MAPRGTITLTALLLCFILGIL------CPAPAE
+C--------------A---RTACCTSYSKTPVSFNRIKGYREQRNWENCRIEAIIFYTVA
+NRQLCANPKAEWVKKLLEQLSAKL-KNMSKGGSV------KKTGNASGRDGSGSDLTATE
+-------AFTAY--------------------------------
+>ENSNBRP00000027682 ENSNBRG00000021118	128	no_data	c-C motif chemokine 20-like	Neolamprologus_brichardi	540B
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MAPRGTITLTALLLCFILGIL------CPAPAE
+C--------------A---RTACCTSYSKTPVSFNRIKGYREQRNWENCRIEAIIFYTVA
+NRQMCANPKAEWVKKVLEQLSAKL-KNMSKGGSV------KKTGNASGRDGSGSDLTATE
+-------AFTAY--------------------------------
+>ENSONIP00000033519 ENSONIG00000027385	131	no_data	C-C motif chemokine 20	Oreochromis_niloticus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MALRGTITLTALLLCFILGIL------SPAPAE
+C--------------A---RTACCTSYSKTQVSINRVKGYREQTGYEYCRIEAIIFYTVA
+NRQVCADPKAHWVKKLLEQLSAKL-KNMSKGGSVGGKTSVKKTGNASGRDGSGSAT---E
+-------AFTAY--------------------------------
+>ENSPNYP00000006642 ENSPNYG00000005133	128	no_data	C-C motif chemokine 20-like	Pundamilia_nyererei	540B
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MAPRGTITLTALLLCFILGIL------CPAPAE
+C--------------A---RTSCCTSYSKTPVSFNRIKGYREQRNWENCRIEAIIFYTVA
+NRQMCANPKAEWVKKLLEQLSAKL-KNMSKGGSV------KKTGNASGRDGSGSDLTATE
+-------AFTAY--------------------------------
+>ENSCARP00000115260 ENSCARG00000059784	99	no_data	C-C motif chemokine 20-like	Carassius_auratus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTRI--SATVIVLLVAAL------S---VL
+C--------------ADASALSCCRKYTKGKIPMAIIKGFSIQTMMRNCHIDAVILHTKG
+GRNICTDPSKRWVMDIIQKLRERV-QVISRKHSKD-------------------------
+--------------------------------------------
+>ENSDARP00000096549 ENSDARG00000071499	159	cxcl32b.1	chemokine (C-X-C motif) ligand 32b, duplicate 1	Danio_rerio	540A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------MRSALITLLCLAVMLL------VQESYQ
+V--------------S-SSSNCPCLKLSDGVLRKANIKSYIRQRA-GVCHIDAIVFTTVR
+GITFCADPKLTWVIDAMKFLDKKK-AASEPKTTTQPIN---STFNATSMPNTTANLNTTN
+TTSDLNTTNTNTTSHLNTTNTNTKAQTKRLFTTIQPC-------
+>ENSSFOP00015016808 ENSSFOG00015010836	102	no_data	C-C motif chemokine 2-like	Scleropages_formosus	540A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MAQFSLT--AASVLLLLS---------V---AL
+L--------------CTNAAAACCSRYVENEISIARINGYSIQTNRGRCHINAVIFHTIK
+GKDLCADPAQPWVMNRIKFLREKV-KSMKGSNTTSQAN----------------------
+--------------------------------------------
+>ENSLOCP00000008400 ENSLOCG00000006945	100	no_data	no_data	Lepisosteus_oculatus	540A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------NNKMASSNLI--TVILFGLLTVNL------L---AL
+H--------------SEAAQGNCCLSYSKKPLPRHLIAGYTIQTVKYRCNIDAIVFHTVK
+GKSVCANPAEHWVMNRIEWLKEKA-NQLVQ------------------------------
+--------------------------------------------
+>ENSMALP00000031587 ENSMALG00000021794	111	no_data	C-C motif chemokine 20-like	Monopterus_albus	540A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------MITFTAALLCFTVGPL------SPAPAA
+L--------------GSRMGKSCCTSYNRKPVPFQVIKGYREQTTRENCRMEAIIFYTAK
+KNEICATRRDEWVRKTLELLSSKL-KKMSKVRSDAARACPGRC------------L----
+--------------------------------------------
+>ENSBBBP00000002361 ENSBBBG00000011473	116	CCL24	C-C motif chemokine ligand 24	Bison_bison_bison	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPVTMATSL-LLLALC-------IAPAD
+---------------SVTLPSSCCITFISKKIPESRVISYQLTNR-SICPQAGVIFTTRK
+GQKFCGNPKLPWVQKYVKNLDAKQ-KKASARTRVMSTT----APFWRHLANSTFI-----
+--------------------------------------------
+>ENSBTAP00000037106 ENSBTAG00000026275	116	CCL24	C-C motif chemokine ligand 24	Bos_taurus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPVTMATSL-LLLALC-------IPPAD
+---------------SVTLPSSCCITFISKKIPESRVISYQLTNR-SICPQAGVIFTTQK
+GQKFCGNPKLPWVQKYVKNLDAKQ-KKASARARAMSTT----APFWRHLANSTFI-----
+--------------------------------------------
+>ENSCDRP00005009974 ENSCDRG00005007099	119	CCL24	C-C motif chemokine ligand 24	Camelus_dromedarius	540A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPVTIAASL-LLLVLC----AYCMSPAG
+---------------SVTIPSSCCITFISKKIPESRVESYQLSNG-SICPKAGVIFTTKK
+GLKFCGDPRQPWVQRYVKNLDAKR-KKDSTRSRVMGTK----VLVQRHPANGTSI-----
+--------------------------------------------
+>ENSCHIP00000007220 ENSCHIG00000010803	116	CCL24	C-C motif chemokine ligand 24	Capra_hircus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPVTMATSL-LLLALC-------ITPAD
+---------------SVILPSSCCITFISKKISESRVISYQLTNR-SICPQAGVIFTTRK
+GQKFCGNPKLPWVQKYMKNLDAKQ-KKASTGTRVMSTT----APFWRHPANSTFI-----
+--------------------------------------------
+>ENSCWAP00000022624 ENSCWAG00000017250	119	CCL24	C-C motif chemokine ligand 24	Catagonus_wagneri	540A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPVTVVATL-LLLVLC----PCIFAPAD
+---------------SVTLPSSCCLSFISKKIPASRVASYQLSNG-SVCPQAGVIFTTKK
+GQQFCGDPKQLWVQKYMKNLDAKR-KKASTGTRATGTR----APAQRGPANSTSI-----
+--------------------------------------------
+>ENSDLEP00000010486 ENSDLEG00000007617	119	CCL24	C-C motif chemokine ligand 24	Delphinapterus_leucas	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAAPMTMATGL-LLMALC----TCCIVLAG
+---------------PVIIPSSCCLAFISKRIPERRVINYQLSNR-SVCPKAGVIFTTRK
+GQRFCGNPKLLWVQRYMKNLDAKQ-KKASSRTRVMGAK----VAVQRHPANSTFI-----
+--------------------------------------------
+>ENSMMSP00000007958 ENSMMSG00000006164	116	CCL24	C-C motif chemokine ligand 24	Moschus_moschiferus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGLVTMATSL-LLLALC-------ITPAD
+---------------SVTLPSSCCITFIAKKIPQSRVISYQLSNG-SVCPQAGVIFTTRK
+GQKFCGNPKLPWVQKYMKNLDAKQ-KKASTRSRAMSTI----APFRRHPANSTFI-----
+--------------------------------------------
+>ENSOARP00000014305 ENSOARG00000013346	116	CCL24	C-C motif chemokine ligand 24	Ovis_aries	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPVTLATSL-LLLALC-------ITPAD
+---------------SVILPSSCCITFISKKISERRVISYQLTNR-SICPQAGVIFTTRK
+GQKFCGNPKLPWVQKYMKNLDAKQ-KKASTGTRAMSTT----APVWRHPANSTFI-----
+--------------------------------------------
+>ENSPCTP00005012703 ENSPCTG00005009082	118	CCL24	C-C motif chemokine ligand 24	Physeter_catodon	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAAPMTMATSL-LLMALC----TYCIVPAG
+---------------SMIIPSSCCISFISKKIPERQVINYQLSNS-SVCPKAGVIFTTRK
+GQRFCGNPKLL-VQRYMKNLDTKQ-KKGSTSTRVMGAK----VAAQRHPANSTFI-----
+--------------------------------------------
+>ENSSSCP00000032478 ENSSSCG00000035736	183	no_data	C-C motif chemokine ligand 24	Sus_scrofa	540B
+LPDLL-------------RRR--------KRFYICWCYSCD----FVTSSS------LIK
+------AS---------------GQLQCPAG----------------------------N
+RLLAPTLSSCIA------ALSPELPLLLSRHGRPVTVAASL-LFLGLC----AYSFAPAD
+---------------SVTMPSSCCIYFISKKIPESRVASYQLSNS-SVCPQAGVIFTTRK
+GQKFCGDPKQLWVQKYMKKLDAKR-KKASTRIRAMGTG----APVRRGPANSTSI-----
+--------------------------------------------
+>ENSTTRP00000000992 ENSTTRG00000001055	119	CCL24	C-C motif chemokine ligand 24	Tursiops_truncatus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAAPMTMATGL-LLMVLC----TYCIVLTG
+---------------SMIIPSSCCLAFISKRIPERRVINYQLSNR-SVCPKAGVIFTTRK
+GQRFCGNPKLLWVQRYMKNLDAKQ-KKASSRTRVMGAK----VAVQRHPANSTFI-----
+--------------------------------------------
+>ENSAMEP00000011545 ENSAMEG00000010985	119	CCL24	C-C motif chemokine ligand 24	Ailuropoda_melanoleuca	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGLATLGASL-LLLTLC----AHHLDPAG
+---------------SVPIPSSCCMSFISKTVSEKRVASYQLSSA-SVCPMAGVIFTTRK
+GQKFCGDPKQHWVQKITKLVDARR-KKASPIVRAMSTK----APVQESPANTTSI-----
+--------------------------------------------
+>ENSCAFP00000061999 ENSCAFG00000013396	232	CCL24	C-C motif chemokine ligand 24	Canis_lupus_familiaris	540A
+-------------------------------MNLSWCLPQS----LILPPLDS----YNI
+------AS---------------SQPSCSSPFLPHLPVDPIIPLEHRSDL--TLHIQTLG
+GPTAYRIKAELP------ALGPEL--LLQQMAGLATFVVSL-LLVTLC----AHCIDPAG
+---------------SVSIPSSCCMFFISKKVPENRVVTYQLLNG-SVCPKAGVVFTTKK
+NQKFCGDPQLHWVQKLMKNIEARR-KKVSPGVRAMSTK----ALVQRCPKLVPVQESQMN
+-KNPRK------YS---------ALLPHALPDPGLPCTHLMECD
+>ENSFCAP00000019412 ENSFCAG00000023127	119	CCL24	C-C motif chemokine ligand 24	Felis_catus	540A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGLATMVASL-LLLALC----AHRIAPAG
+---------------SVTIPSSCCMSFISKKVPESRVVSYQLSSG-SLCPKAGVIFTTRK
+GQKFCGDPEQHWVQTYVKNLDAKR-KKAATGLRATGVK----ALPQRSPASSTA-I----
+--------------------------------------------
+>ENSLCNP00005033889 ENSLCNG00005022022	119	CCL24	C-C motif chemokine ligand 24	Lynx_canadensis	540A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGLATMVASL-LLLALC----AHRIAPAG
+---------------SVTIPSSCCMSFISKKVPESRVVSYQLSSG-SLCPKAGVIFTTRK
+GQKFCGDPEQRWVQTYMKNLDAKR-KKAATGLRATGVK----ALPQRSPASSTA-I----
+--------------------------------------------
+>ENSMPUP00000015926 ENSMPUG00000016032	119	CCL24	C-C motif chemokine ligand 24	Mustela_putorius_furo	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGLATLGAGL-LLLTLC----AHCIAPAG
+---------------SAPVPSSCCMSFISKKVPENRVVSYQLSSA-SVCPMAGVIFTTRK
+GQKFCGDPKEHWVQTYMTKLDTRR-KKASRGVRAMTAK----APVRGKPANTTAI-----
+--------------------------------------------
+>ENSNVIP00000004909 ENSNVIG00000003959	119	CCL24	C-C motif chemokine ligand 24	Neovison_vison	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGLATLGAGL-LLLTLC----AHCIAPAG
+---------------SAPIPPSCCMSFISKKVPENRVRSYQLSSA-SVCPMAGVIFTTRK
+GQKFCGDPKEHWVQTYMTKLDARQ-KKASRGVRAMTAK----APVRGKPADTTAI-----
+--------------------------------------------
+>ENSPLOP00000030541 ENSPLOG00000022317	119	CCL24	C-C motif chemokine ligand 24	Panthera_leo	540A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGLATMVASL-LLLALC----AHRIAPAG
+---------------SVTIPSSCCMSFISKKVPESRVVSYQLSSG-SLCPKAGVIFTTRK
+GQKFCGDPEQRWVQTYMKNLDAKQ-KKAATGLRAMGVK----ALRQRPPASSTA-I----
+--------------------------------------------
+>ENSSSUP00005025830 ENSSSUG00005016757	132	CCL24	C-C motif chemokine ligand 24	Suricata_suricatta	540A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MLS------ALGPEL--PLLHMAGLVTMVASL-LLLALC----AHSIAPAD
+---------------SVTIPSSCCMSFIPKKVPESRVVSYQLSSG-SLCPKAGVIFITKK
+GQKFCGDPEEHWVQKYMKNLDAKQ-KKVSLGPRAMGIK----ALQQRRPASNTA-F----
+--------------------------------------------
+>ENSUMAP00000017590 ENSUMAG00000012913	119	CCL24	C-C motif chemokine ligand 24	Ursus_maritimus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGLATLGASL-LLLTLC----AHHLDPAG
+---------------SVSIPSSCCMSFISKTVPEKRVASYQLSSA-SVCPMAGVIFTTRK
+GQKFCGDPKQPWVQKITKLVDARQ-KKASPTVRAMSTK----APVQGSPANTTSI-----
+--------------------------------------------
+>ENSVVUP00000032847 ENSVVUG00000023779	119	CCL24	C-C motif chemokine ligand 24	Vulpes_vulpes	540A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGLATFVVSL-LLVTLC----AHCIDPAG
+---------------SVSIPSSCCMSFISKKVPENRVVSYQLLNG-SVCPKAGVVFTTKK
+NQKFCGDPQLHWVQKLMKNIEARR-KKVSPGVRAMSTK----ALVQRYPANSTSI-----
+--------------------------------------------
+>ENSRFEP00010012731 ENSRFEG00010008667	114	CCL24	C-C motif chemokine ligand 24	Rhinolophus_ferrumequinum	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPTTMAASL-LLLVLC----THCIAPAG
+---------------SVTIPSSCCMSFISKKIPESRVVSYQLSSG-SICPKAGVIFTTKK
+GQKFCGNPKKQWVQRYMKNLNSKQ-KKASSWGQGNGHP----SLSPETPY----------
+--------------------------------------------
+>ENSDNOP00000026541 ENSDNOG00000049402	134	CCL24	C-C motif chemokine ligand 24	Dasypus_novemcinctus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPVTVATGL-LLLALW----ACHLVPAD
+---------------SVVIPSSCCMSFVSKKIPEGRVASYQLANG-SVCPKAGVIFVTKK
+GQKFCGDPKQPWVQRFVKSLHAKQ-KKLPAGPRGVKTP------FQRHPPQQHHPLTSPT
+SRPPLG------TR---------GSQQ-----------------
+>ENSSHAP00000004336 ENSSHAG00000003817	90	no_data	no_data	Sarcophilus_harrisii	540B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------TMISLPVLSILLLSTSGLFWG----STADT-
+------------------SQIICCFNYIQRMIPRKVVADYAHTS--QLCSSPAIIFITKR
+GLKVCANPQDKWVQEYVTDLSRGT------------------------------------
+--------------------------------------------
+>ENSMODP00000039819 ENSMODG00000028122	98	no_data	C-C motif chemokine 4-like	Monodelphis_domestica	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MASLTVLAIFFLSISGICLG----SPNSEG
+V-------------ESPRKNHTCCFSYTKLKIPKRHVVDYTYTS--EMCSQPGVIFITRK
+GLQICADPSSRWVQTYVASLEAKV-RGS--------------------------------
+--------------------------------------------
+>ENSPCIP00000047656 ENSPCIG00000036427	133	no_data	no_data	Phascolarctos_cinereus	540B
+------------------------------------------------------------
+-----------------------------MISIAKKALPQSNPD----QPLCNS------
+--------NPSHLLQLSGAKQNKSNPSKSTMVSLPVFSILIISISGLFYI----SPADA-
+------------------FPTSCCFSYVTRKVPRQFVVDYVYTS--ELCLNPGVIFTTKK
+VRRICANPQEEWVQKYVSELTEGR-L----------------------------------
+--------------------------------------------
+>ENSOPRP00000015292 ENSOPRG00000016754	103	no_data	no_data	Ochotona_princeps	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPATTAASL-LLLALV----AGHISRAG
+---------------SVVIPASCCMSFATTKIPRSRVVGYQLSNG-SMCPRAGVIFLTKK
+GLKLCGDPRQPWVQSYIKNLDAKR-KKSSKRARTA-------------------------
+--------------------------------------------
+>ENSOCUP00000000184 ENSOCUG00000025061	113	no_data	no_data	Oryctolagus_cuniculus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPATIAASL-LLLALS----AHHFTPAG
+---------------AVVIPSSCCMNFIPKKIPESQVVSYQLSSG-SVCPRAGVIFTTKK
+GYRVCGDPKQQWVQSYVRNLVAKR-RKPSTGARAPGGR----RPGEMRA-----------
+--------------------------------------------
+>ENSECAP00000028397 ENSECAG00000032357	109	CCL24	C-C motif chemokine ligand 24	Equus_caballus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPATVIAGL-LLLALC----AHHIAPAG
+---------------SAHIPSFCCMSFISKKIPESRVVSYQLSNG-SVCPMAGVLFTTRK
+GQKFCGDPRQRWVKRYVKNLAAKN-KKASTGTRAMSTT----VAV---------------
+--------------------------------------------
+>ENSCHOP00000000648 ENSCHOG00000000731	82	no_data	no_data	Choloepus_hoffmanni	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGSTAMATGL-LLLALW----AELPFLAD
+---------------SVILPSSCCMSFISKKIPEDRIASYQLSNG-SVCPRAGVIFTTKK
+GHKFCGDPKQPWV-----------------------------------------------
+--------------------------------------------
+>ENSCJAP00000031297 ENSCJAG00000017018	119	CCL24	C-C motif chemokine ligand 24	Callithrix_jacchus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MASPMTVVTSL-LFLAVC----AHHIIPTD
+---------------SVLLPSTCCMLFISKRIPENRVVSYQLTNG-SMCLNAGVIFTTKK
+GHEFCGDPRQEWVQRYMKNLDAKK-KKASSRARPVGVR----VPIQRLLSNRTTL-----
+--------------------------------------------
+>ENSCATP00000036761 ENSCATG00000041170	119	CCL24	C-C motif chemokine ligand 24	Cercocebus_atys	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPMTIVTSL-LFLGVC----AHHIIPTG
+---------------SVVIPSSCCMSFLSKRIPENRVVSYQLSNR-SMCLNVGVIFTTKK
+GQQFCGDPKQTWVQRYMKNLDAKQ-KKASPRARAVGVK----APVQRYPGNQTTH-----
+--------------------------------------------
+>ENSCSAP00000014170 ENSCSAG00000018154	119	CCL24	C-C motif chemokine ligand 24	Chlorocebus_sabaeus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPMTIVTSL-LFLGVC----AHHIIPTG
+---------------SVVIPSSCCMSFLSKRIPENRVVSYQLSNR-STCLNVGVIFTTKK
+GQQFCGDPKQAWVQRYMKNLDAKQ-KKASPRARAVGVK----GPVQRDPGNQTTL-----
+--------------------------------------------
+>ENSP00000400533 ENSG00000106178	119	CCL24	C-C motif chemokine ligand 24	Homo_sapiens	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGLMTIVTSL-LFLGVC----AHHIIPTG
+---------------SVVIPSPCCMFFVSKRIPENRVVSYQLSSR-STCLKAGVIFTTKK
+GQQFCGDPKQEWVQRYMKNLDAKQ-KKASPRARAVAVK----GPVQRYPGNQTTC-----
+--------------------------------------------
+>ENSMLEP00000009449 ENSMLEG00000028903	119	CCL24	C-C motif chemokine ligand 24	Mandrillus_leucophaeus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPMTIVTSL-LFLGVC----AHHIIPTG
+---------------SVVIPSSCCMSFLSKRIPENRVVSYQLSNR-STCLNVGVIFTTKK
+GQQFCGDPKQAWVQRYMKNLDAKQ-KKASPRARAVGVK----GPIQRYPGNQTTH-----
+--------------------------------------------
+>ENSMICP00000019578 ENSMICG00000026489	119	CCL24	C-C motif chemokine ligand 24	Microcebus_murinus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPVSVAAGL-LLLALC----AYHLAPTG
+---------------SVAIPISCCMTFVSKKIPESRVISYQLSNG-SVCPKAGVIFTTKK
+GLSFCGDPKQQWVQKYMKKLDAKQ-KRASMRAKAVGAK----VPAQRRPGNSTTS-----
+--------------------------------------------
+>ENSPTRP00000033030 ENSPTRG00000019311	119	CCL24	C-C motif chemokine ligand 24	Pan_troglodytes	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGLMTIVTSL-LFLGVC----AHHVIPTG
+---------------SVVIPSPCCMFFVSKRIPENRVVSYQLSSR-STCLKAGVIFTTKK
+GQQFCGDPKQEWVQRYMKNLDAKQ-KKTSPRARAVAVK----GPVQRYPGNQTTL-----
+--------------------------------------------
+>ENSPANP00000015698 ENSPANG00000022015	119	CCL24	C-C motif chemokine ligand 24	Papio_anubis	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPMTIVTSL-LFLGVC----AHHIIPTG
+---------------SVVIPSSCCMSFLSKRIPENRVVSYQLSNR-STCLNVGVIFTTKK
+GQQFCGDPKQAWVQRYMKNLDAKQ-KKASPRARAVGVK----GPVQRYPGNQTTH-----
+--------------------------------------------
+>ENSPPYP00000019591 ENSPPYG00000017476	119	CCL24	C-C motif chemokine ligand 24	Pongo_abelii	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGLITIVTRL-LFLGVC----AHHIIPTG
+---------------SVVIPSPCCMFFVSKRIPENRVVSYQLTSR-STCLNAGVIFTTKK
+GQQFCGDPKQEWVQRYMKNLDAKQ-KKASPRARAVAVK----GPAQRYPGNQTTL-----
+--------------------------------------------
+>ENSTGEP00000006333 ENSTGEG00000005201	117	CCL24	C-C motif chemokine ligand 24	Theropithecus_gelada	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPMTIITSL-LFLGVC----AHHIIPTG
+---------------SVVIPSSCCM--FSKRIPENRVVSYQLSNR-STCLNVGVIFTTKK
+GQQFCGDPKQAWVQRYMKNLDAKQ-KKASPRARAVGVK----GPVQRYPGNQTTH-----
+--------------------------------------------
+>ENSLAFP00000010430 ENSLAFG00000012485	119	CCL24	C-C motif chemokine ligand 24	Loxodonta_africana	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGTATLIASL-LLLALC----AHSITPAG
+---------------SVAIPSSCCMSFISKKIPEGRVVGYQVSNG-SVCPKAGVIFTTKK
+GQKFCGDPKQLWVQRYMKNLEARR-KKASPGDKAIGRK----APVRRHPANSTT-I----
+--------------------------------------------
+>ENSCCNP00000014712 ENSCCNG00000015182	119	Ccl24	C-C motif chemokine ligand 24	Castor_canadensis	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPRMIVLGL-LLLAFC----AHCISPTG
+---------------SVIIPSSCCMSFTSKKIQENRVVSYQVANR-SVCPKAGVIFTTKK
+GLKFCGDPKQAWVQKYIRNLDAKR-KRSSSGPRPVGVK----GVIQRHCGNNTAF-----
+--------------------------------------------
+>ENSCLAP00000007482 ENSCLAG00000005258	120	CCL24	C-C motif chemokine ligand 24	Chinchilla_lanigera	540A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPVTTAAGL-LLLVLC----AHCIVPTD
+---------------SVGIPFSCCITFVPKKIPEDWVASYQLSSR-SVCLKAGVIFTTKK
+GLQFCGDPQQPWVQKYMRKLDAKR-KRPSPGVRAVGGN----VPTLRRHGNSTTLT----
+--------------------------------------------
+>ENSSTOP00000004463 ENSSTOG00000004986	119	CCL24	C-C motif chemokine ligand 24	Ictidomys_tridecemlineatus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPSSIIAGF-LLLALC----VQCIIPTG
+---------------SVVTPFSCCFNFTAKKIPQKRVVSYQLTSG-STCVQAGVIFTTTA
+GRKVCADPSQLWVQEYKKNLDSKQ-KQPSAEARVRGVK----VRRPRHRGNRTAI-----
+--------------------------------------------
+>ENSMUGP00000001307 ENSMUGG00000001238	118	Ccl24	C-C motif chemokine ligand 24	Meriones_unguiculatus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPTTIIASL--LLVAC----TCCVFLTD
+---------------SVTIPSSCCISFISKKIPENRVVSYQLANG-SVCPKAGVIFITKK
+GHKICSDPKLLWVQRHIRNLDAKR-NRTSAGAKAVGTR----FSIQRHHRNNTEG-----
+--------------------------------------------
+>ENSMAUP00000004959 ENSMAUG00000006711	120	Ccl24	C-C motif chemokine ligand 24	Mesocricetus_auratus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MASPATIVASL-LLLVVC----TCRVYPTD
+---------------SVTIPFSCCMSFITKEIPGNRVASYQLANG-SICPKAGVIFITKG
+GHKFCGDPKLPWVQKHIRNLDAKRRKQPSAGAKALGIK----FSIQRHRANSTEI-----
+--------------------------------------------
+>ENSMOCP00000025100 ENSMOCG00000021321	119	Ccl24	C-C motif chemokine ligand 24	Microtus_ochrogaster	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGSTTVIASL-LLLVAC----MGYIFPTD
+---------------SATIPSSCCMSFVSKKIPRHRVVSYQLANG-SVCPKAGVIFITKK
+GQKFCGDPKLPWVQRYIKNLDAKK-KPPSSRVKALGTR----FSIQSLRGNSTEV-----
+--------------------------------------------
+>ENSMUSP00000004936 ENSMUSG00000004814	119	Ccl24	chemokine (C-C motif) ligand 24	Mus_musculus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGSATIVAGL-LLLVAC----ACCIFPID
+---------------SVTIPSSCCTSFISKKIPENRVVSYQLANG-SICPKAGVIFITKK
+GHKICTDPKLLWVQRHIQKLDAKK-NQPSKGAKAVRTK----FAVQRRRGNSTEV-----
+--------------------------------------------
+>ENSODEP00000020527 ENSODEG00000015142	120	CCL24	C-C motif chemokine ligand 24	Octodon_degus	540A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPVTIAAGL-LLLALC----AHCILPTD
+---------------SVVIPSSCCITFVSKKIPEDRVVSYQLTSR-STCTKAGVIFTTKK
+GLQLCSDPNQPWVQRYMRKLDSKK-KRPSQRAWAAGGK----VLMKRPRGNSTTLW----
+--------------------------------------------
+>ENSPEMP00000033544 ENSPEMG00000025178	118	Ccl24	C-C motif chemokine ligand 24	Peromyscus_maniculatus_bairdii	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPATIVASL--LLVAC----ACCIFPTD
+---------------SVTIPSSCCISFISKKIPGKLVVSYQLTNG-STCRKAGVIFITKG
+GHKICSDPKLPWVQRHMQNLDAKR-KQPPAGAKARGAK----FSVQTHHGNSTQV-----
+--------------------------------------------
+>ENSRNOP00000056109 ENSRNOG00000031162	119	Ccl24	C-C motif chemokine ligand 24	Rattus_norvegicus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGSTTIIASL-LLLVAC----TCCICPTG
+---------------SVTIPSSCCVTFISKKIPVNRVISYQLANG-SICPKAGVIFITKK
+GHKICTDPKLPWVQKHIKNLDAKR-NQPSEGAKALGPK----FVIQKLRGNSTKV-----
+--------------------------------------------
+>ENSTBEP00000004452 ENSTBEG00000005187	119	CCL24	C-C motif chemokine ligand 24	Tupaia_belangeri	540A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MAGPTTIAASL-LLLALC----AHYLALTG
+---------------SVIIPSSCCLNFISKKFPENRVVSYQLSNR-SVCPQAGVIFTTRK
+GQKFCGDPEQQWVQKYMKNLDAKQ-KKASSGVRAKGTK----VPLRKNPGKGNT-L----
+--------------------------------------------
+>ENSCPUP00000004277 ENSCPUG00000003189	129	no_data	C-C motif chemokine 5-like	Calidris_pugnax	540B
+------------------------------------------------------------
+---------MSMGR-----------A-RSWWSSPELGF------------------SLRD
+GGF-------QGV--SQGGYSTGDGESPGR------------LRQSLC------HSVGSH
+WGGL--------SVPTGTIPTPCCFSFLRTPIPRRLLASAYTTS--SQCSQPAVILVTKK
+GKTLCANPQAPWVQEHLKYLEMQE-Y----------------------------------
+--------------------------------------------
+>ENSCPIP00010004664 ENSCPIG00010003635	91	no_data	no_data	Chrysolophus_pictus	540A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MKGPAAILSAL-LLLALC------SSAVAH
+---L------------DGLTTTCCISYVQRPIPRNVIASAYITS--SKCRLPGVVLVTKK
+GKEVCANPEESWVQKRLELFQNEG-N----------------------------------
+--------------------------------------------
+>ENSCJPP00005011678 ENSCJPG00005010023	94	no_data	C-C motif chemokine 4-like	Coturnix_japonica	540A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MKGSAAVLSAL-LLLALC------SSAVAQ
+LGES------------DGLPTTCCFSYTPRPIPRNLIASAFLTS--SKCRLPGVILVTKK
+GREVCANPEEPWVQKRLELFQNQE-N----------------------------------
+--------------------------------------------
+>ENSGALP00000049505 ENSGALG00000049551	91	no_data	chemokine	Gallus_gallus	540A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MKGSAAALAAL-LLLALC------SSAVAH
+---L------------DGLPSTCCLSYVQRPVPRNLIASAYITS--SKCRLPAVILVTKK
+GREICANPEESWVQKRLELLQEQE-N----------------------------------
+--------------------------------------------
+>ENSGALP00000052468 ENSGALG00000054196	91	no_data	chemokine	Gallus_gallus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MKGSAAALAAL-LLLALC------SSAVAH
+---L------------DGLPSTCCFSYVQRPVPRNLIASAYITS--SKCRLPAVILVTKK
+GREICANPKESWVQKRLELLQEQE-N----------------------------------
+--------------------------------------------
+>ENSMGAP00000004063 ENSMGAG00000004283	91	no_data	no_data	Meleagris_gallopavo	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MKGPAAVLTAL-LLLALC------SSAVAH
+---L------------DELPTTCCFSYVQRPIPRNVIASAFPTS--SKCRLPAVILVTKK
+GKEVCANPKESWVQNYLELFQNEE-N----------------------------------
+--------------------------------------------
+>ENSNMEP00000017825 ENSNMEG00000015533	91	no_data	C-C motif chemokine 3-like	Numida_meleagris	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MKGSAAALAAL-LLLALC------SSAVAH
+---L------------DGVSTTCCSTYIQHPIPSNFIASAFPTS--RKCRLPGVILVTKK
+GREICANPKESWVQKRLELFQNQE-N----------------------------------
+--------------------------------------------
+>ENSPSTP00000010824 ENSPSTG00000007637	100	no_data	no_data	Pavo_cristatus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MKGSAAGLAAL-LLLALC------SSAVAQ
+PGES------------DGLPRTCCFSYVQRPIPHNLIASAYITS--SKCRLPAVILVTKK
+GREVCANPKESWVQKRLDVFQNQE-NWPFMES----------------------------
+--------------------------------------------
+>ENSPCLP00000004500 ENSPCLG00000003905	91	no_data	no_data	Phasianus_colchicus	540A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MKGPAAILSAL-LLLALC------SSAVAH
+---L------------DGLTTTCCISYIQRPIPRNAIASAYITS--SKCRLPGVVLVTKK
+GKEVCANPEESWVQKRLELFQNQG-N----------------------------------
+--------------------------------------------
+>ENSCPVP00000016730 ENSCPVG00000012235	91	no_data	no_data	Camarhynchus_parvulus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MRVLAAALAVL-LLVAIC------SLAEAD
+PIK---------------IPTPCCFSYISRPIPRSIISSAYKTS--NFCPQPAVVLVTRK
+GRKVCADPSAHWVQEYLKDLELQE-Y----------------------------------
+--------------------------------------------
+>ENSCCEP00000026196 ENSCCEG00000023078	98	no_data	C-C motif chemokine 3-like	Cyanistes_caeruleus	540A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------PPSIMRVL----AVL-LLVSLC------HSVGSH
+WA--------HLSAPTESIPISCCLAYISRPIPPWIIRSAYRTS--SSCVTQAVVLVTKN
+GREVCVDPTARWVQKYLKHLELLE-H----------------------------------
+--------------------------------------------
+>ENSEGOP00005001819 ENSEGOG00005001497	101	no_data	no_data	Erythrura_gouldiae	540A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MRVLAAALAVL-LLVAIC------SMAEAD
+LRVS----RSAALSKN-EARSICCLSYISRPIPRSSISSAYKTS--NTCSVPAVVLITRK
+GKELCADLKAPWVQKYLKHLEILE-Y----------------------------------
+--------------------------------------------
+>ENSFALP00000010125 ENSFALG00000009708	102	no_data	C-C motif chemokine 3-like	Ficedula_albicollis	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MRVLAASLAVL-LLVAIC------SQAEAD
+HRVS----GNAALFKKETKPTSCCFSYISRPIPRGMINSAYRSS--SSCSLQAVILVTKK
+GREVCADPKAPWVQKYLEDLELLE-Y----------------------------------
+--------------------------------------------
+>ENSGFOP00000001528 ENSGFOG00000001062	91	no_data	no_data	Geospiza_fortis	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MRVLAAALAVL-LLVAIC------SLAEAD
+PIK---------------IPTPCCFSYISRPIPRSIISSAYKTS--NFCPQPAVVLVTRK
+GRKVCADPSAHWVQEYLKDLELQE-Y----------------------------------
+--------------------------------------------
+>ENSJHYP00000005652 ENSJHYG00000004598	152	no_data	no_data	Junco_hyemalis	540B
+----------------------------------------------------------MT
+DS-------FSSLK-----------P-CAHPVVGD--I-KGDQQQQ--------RLLCRG
+QPH-------RH---RSSSVTRGSLSLPSTMRVLSAALAVL-LLVAIC------SLAEAD
+PSIP----SSAALHKRNAEDTTCCFSYISRPIPRMMISSAYVTS--NTCSRPAVVLVTRR
+GTKVCADPSARWVQEYLKDMGLQ-------------------------------------
+--------------------------------------------
+>ENSLSDP00000015440 ENSLSDG00000011113	93	CCL5_0	C-C motif chemokine 5-like	Lonchura_striata_domestica	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MKVLAAALAVL-LLVAIC------SLAEAD
+RRVS----RSPALSKD-EDKTMCCFSYISYPLPHSIIRSAYKTS--NTCSMPAVVLITRK
+GKEICADPKALWVQKYL-------------------------------------------
+--------------------------------------------
+>ENSMVIP00005004661 ENSMVIG00005003585	103	no_data	C-C motif chemokine 4-like	Manacus_vitellinus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MKVLAAAMALL-LLVAIC------SLAEAA
+PGDSSIG---TPSQPQDIIPTSCCFKHLSRPIPRRMIASAHRTS--NTCPQPAVIVVTRN
+GKMLCADPETRWVQPYLKDLEIVE-S----------------------------------
+--------------------------------------------
+>ENSPMJP00000022179 ENSPMJG00000016445	102	no_data	C-C motif chemokine 4 homolog	Parus_major	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MRVLEAALPVL-LLVAIC------SLAEAD
+LGVS----RNAALSRDESKPIFCCFTHISRPIPSRVIRSAYRTS--SSCPTQGVVLVTKN
+RKEVCADPTAHWVQEYLKHLELLK-H----------------------------------
+--------------------------------------------
+>ENSSCAP00000021616 ENSSCAG00000015522	129	no_data	C-C motif chemokine 3-like	Serinus_canaria	540B
+------------------------------------------------------------
+--------------------------------------------------------MCKG
+QPF-------RH---PSSSLTRGSLSLPSTMRVLAAALAVL-LLVAIC------SLAEAD
+INISTPVKRSAALLKNVAEAPTCCFSYISHRIPRRIISSAYMTS--NLCGSPGVVLITRK
+GRHLCANPSADWVQKYLKDLELQE------------------------------------
+--------------------------------------------
+>ENSTGUP00000020008 ENSTGUG00000010325	145	no_data	C-C motif chemokine 3-like	Taeniopygia_guttata	540B
+----------------------------------------------------------MV
+GSPSPGESPIPTVR-----------PSCPWRRLGADGIPSAGTKPQ--------RWRFSG
+AVP-------RG-------HSTGDGKPPGS------------HRQSLC------RSVGSH
+WA---------HLSSLTEDKTMCCFSYISRRIPRSVISSAYITS--NTCSMPAVVLITRQ
+GKKICADPKADWVQKHLKHLERLE-H----------------------------------
+--------------------------------------------
+>ENSZALP00000004850 ENSZALG00000004544	152	no_data	C-C motif chemokine 5	Zonotrichia_albicollis	540B
+----------------------------------------------------------MT
+DS-------FSSVK-----------P-CTHPVVGD--I-KGDQQEQ--------RLLCRG
+QPY-------RH---RSSSVTRGSLSLPSTMRVLSAALAVL-LLVAIC------SLAEAD
+PSIP----SSAALYKQNAEDTTCCFSYISRPIPRMMISSAYVTS--NTCSRPAVVLVTRR
+GTKVCADPSARWVQEYLKDMRLQ-------------------------------------
+--------------------------------------------
+>ENSLLTP00000014121 ENSLLTG00000010820	91	no_data	no_data	Laticauda_laticaudata	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------SDAFSAISS-------------PR---LAL
+A-------------TSSDSPTSCCFSYTKKKIPRNLVTDFYETN--SRCSQPAVVFITRR
+KLLLCSNPAEKWVQDYVNYLKVNR-TVSTTQAY---------------------------
+--------------------------------------------
+>ENSNSUP00000007395 ENSNSUG00000005809	105	no_data	no_data	Notechis_scutatus	540B
+------------------------------------------------------------
+------------------------------------------------------------
+-----ILDNHKVLL--------------SFIAEINNCSS-------------THLLFSFP
+P-------------IAYDTPTSCCFSYTKKKIPRNLVTDFYETN--GKCSQPAVVFITRR
+KLLLCSNPAEKWVQDYMNYLKVNR-TVSTTRAY---------------------------
+--------------------------------------------
+>ENSPMRP00000026295 ENSPMRG00000016982	97	CCL24	C-C motif chemokine ligand 24	Podarcis_muralis	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MSSLRPLNSALLFLQGS-FAGCTQPILLSL
+P-------------VGSDPPTSCCFTYTAKKIPRNYIADFYETN--SRCSQPGVVFTTKK
+GREICANPAEKWVQEYMDHFELN-------------------------------------
+--------------------------------------------
+>ENSPVIP00000009602 ENSPVIG00000007639	101	no_data	C-C motif chemokine 4-like	Pogona_vitticeps	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------MT-RTAASATAPLLLLLLLLLGALWDSC--PPAASA
+P-------------VGSDPPTSCCFTYTAKKIPREYVVDYYETN--SRCSQPAVVLITRK
+RKEICANPTERWVQEYVKDLELN-------------------------------------
+--------------------------------------------
+>ENSPTXP00000014671 ENSPTXG00000010155	101	no_data	C-C motif chemokine 4-like	Pseudonaja_textilis	540B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MRASA--------------QTAGALALLAL-------------LVLMLSSS
+I-------------LAYDSPTSCCFSYTKKKIPRNLVTDFYETN--GRCSQPAVVFITRR
+KLLLCSNPAEKWVQDYMNYLKVNR-TVSTTQAY---------------------------
+--------------------------------------------
+>ENSSMRP00000009868 ENSSMRG00000007846	237	no_data	no_data	Salvator_merianae	540B
+MPRIPRGKSAHLQTPGSRAGRSRTSLSSPRLGANCRCSPTPQPAALRFSPDKSTFSRLAQ
+ESRGGGGGGFPGCRRRPLPAFLYEAPDELSGEIPTGGIPRSPPLPARAGPVHKSRRRRRG
+RILAAILPASSALLLSSGT-----MRAPSAAATLCALAAPLLLLLAT-----LCPPASPA
+P-------------VALNTPTSCCFSYA-KRIPRSYVAEYYETS--SQCSQPAVVFTTHK
+GRKICANPTDSWVQDYVKSLQQV-------------------------------------
+--------------------------------------------
+>ENSACUP00000000398 ENSACUG00000000308	92	no_data	no_data	Athene_cunicularia	540B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MKVPAATLAIL-LVMAIC------SSAHNP
+LGES--------------MATSCCVKYVSRSIPRANISSAYMTS--NTCSLPGVVLVTKK
+GIQLCADPKAHWVQAHLKHFQALK-N----------------------------------
+--------------------------------------------

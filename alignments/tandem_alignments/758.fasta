@@ -1,0 +1,552 @@
+>ENSATEP00000027999 ENSATEG00000019358	141	no_data	cornifelin homolog A-like	Anabas_testudineus	758B
+------------------------------------------------------------
+-------------------MASGKWSSGLCDCCKSASTCCYGFWCCPCLACTVAAQFGEN
+RCLPLCDLLSPAAFAACGIPLCAP-PAGLSMRVAMRNKYGI-------------------
+------------------------KGSVCKDIATSCFCGCCSWCQMHRELKHRKKHPNVV
+K------VANTQPAPVMMQPAMQQQV---VVVH---------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSBSLP00000042241 ENSBSLG00000020324	143	no_data	no_data	Betta_splendens	758B
+------------------------------------------------------------
+-------------L----AHVLSYWHSGLCDCFENASTCCYGFWCCPCLTCTVTGQFGES
+RCLPVCDILSPAAFTGCGIPLFAP-PAGVSMRAAMRNRYNI-------------------
+------------------------KGSLCDDIAVACICPWCSWCQMHRELKHRQKNHTTV
+--------INVQPAPVVMAPVSAGPVVI-VNNH---------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSORLP00000031663 ENSORLG00000023913	172	no_data	cornifelin homolog B	Oryzias_latipes	758B
+------------------------------------------------------------
+-------------M----SHKSSEWNSGLLSCCDDMNSCCYGFWCCPCLACTVAGSFGEN
+RCLPLCDICSPTAFSSFGIPLCVP-PAGLSLRVGIRHMYGIKVKWKIGVHFFLNINAMFS
+YNKLPTQKLCSCCKILELIDCFSPQGSLCRDIATSCFCVWCNWCQMHRELKIRNRDTSVV
+I---------KQPTPAVSK-----------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSGWIP00000007541 ENSGWIG00000004416	139	no_data	no_data	Gouania_willdenowi	758B
+---------------------------------------------------------HSM
+--TTVVNLALSNMP----EHNLTNWDSDLCSCCQDVSSCCYGFWCCPCMACTVAGNFGEN
+RCVPLCDIFSPSVLSACSIPLFTP-PAVLSLRVGIRHKFGI-------------------
+------------------------KGSICNDIATSCVCMWCSWCQMHRELKYRKNQPKVV
+N-------MHVVY-----------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSSFAP00005038886 ENSSFAG00005019461	147	no_data	no_data	Salarias_fasciatus	758B
+-----------------------------------MCVY-------------RFFG-LGL
+W------IILFPMA----AHRQTNWNTGLFGCCEDVSSCCYGFWCCPCLACSVAGSFGEN
+RCLPLCDICSPAVVSAFGIPLFTP-PAVLALRVGIRHKYDI-------------------
+------------------------KGSLCKDIATSCVCLWCSWCQMHRELKYRKKTNVQS
+C-------FFTV---QLAIP----------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSENLP00000030366 ENSENLG00000013476	149	no_data	cornifelin homolog A-like	Echeneis_naucrates	758A
+------------------------------------------------------------
+-------------M----AYPLTTWNTGLFDCFDDVKSCCYGFWCCPCLACTVSGKFGEN
+RCLPLCDLCSPAITAACGIPLCAP-PAALALRVGIRHKYGI-------------------
+------------------------QGSLCKDIATSCFCMWCSWCQMHRELKNRKKNV-TV
+--------VNMQPAPVMMAPG--PTA-P-VIF--GGP--------------------PGV
+V---VASY----------------------------------------------------
+-----------------------------------------------------
+>ENSSDUP00000017343 ENSSDUG00000012675	150	no_data	no_data	Seriola_dumerili	758A
+------------------------------------------------------------
+-----------MAI----SIQQTEWNSGLCDCFESISTCCYGFWCCPCLACTVSERFGEN
+RCLPLCDLCSPAVMSACGIPLFVP-PASVALRASLRNRYNI-------------------
+------------------------KGSICKDIIASCFCVSCVWCQMHRELKYRKKNTITV
+N-------VQPAPV--MMAPVNTAP------AVVIGQ--------------------QRV
+I---MTS-----------------------------------------------------
+-----------------------------------------------------
+>ENSAMXP00000046706 ENSAMXG00000034892	153	ponzr10	placenta-specific gene 8 protein-like	Astyanax_mexicanus	758B
+-----------------------------------------------------------M
+A-GTTVVVQPAPKA----VPRVTFWTTGLCDCCQDMNNCCFAFWCCPCHACSTTEKFGEN
+RCLPLVDICGPAVMAAFGVAICVP-PVALSMRVAVRYRYQI-------------------
+------------------------SGDICEDIAITCFCAWCSWCQMNREITQRQQRAMV-
+--ISSQPVVPVVTTQ----------P-------------AAVIVSAV-------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSPNAP00000036272 ENSPNAG00000004970	160	ponzr10	placenta-specific gene 8 protein-like	Pygocentrus_nattereri	758B
+-----------------------------------------------------------M
+A-ATTVVVQQAPKV----VPKITSWSSGLCHCCQDMSSCCYAFWCCPCFACSTTSKFGEN
+SCLPLVDICGPGLMSAFGMPVCVP-PVTLSMRVAMRYKYQI-------------------
+------------------------SGGICEDIAISCFCIWCSWCQMNREIQHRQRLATA-
+--VNAQQAAPIITMA----------PIV---T---TVQPTAVVVSAM-------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSACIP00000002070 ENSACIG00000001680	160	no_data	no_data	Amphilophus_citrinellus	758A
+------------------------------------------------------------
+-------------S----RRFYFSWDNGLFDCFEDAR--CCGFWCCPCLACSVSESFGEN
+RCLPLCDILGTGVLAAIGIPVCVP-PAVLSVRAAMRNKYGI-------------------
+------------------------KGSLCRDIAVSCFCEWCSWCQMHRELKHRKKTPPVI
+NIQ-NNPVVHMQPIPVVQPPVMMIPAQP-GPAGYVVQ--------------------PGV
+V---MQSY----------------------------------------------------
+-----------------------------------------------------
+>ENSACLP00000013738 ENSACLG00000009391	163	no_data	placenta-specific gene 8 protein-like	Astatotilapia_calliptera	758B
+------------------------------------------------------------
+------------MA----EKPLTDWDSGLCDCFEDARTCCYGFWCCPCLACTVSGRFGEN
+NCLPLCDICGSGVLAAFGIPVCVP-PAVLSVRAAMRNRYGI-------------------
+------------------------KGSLCKDIAISCFCEWCSWCQMHRELRHRKKTPTVI
+NIQ-NNTVVNMQPIPTFQPGVMMLPAQP-VATGFMSQ--------------------PTV
+V---VQTK----------------------------------------------------
+-----------------------------------------------------
+>ENSHBUP00000032774 ENSHBUG00000019270	154	no_data	cornifelin-like	Haplochromis_burtoni	758A
+------------------------------------------------------------
+------------MA----EKPLTDWDSGLCDCFEDAHTCCYGFWCGPCLACTVSGRFGEN
+YCLPLCDILGPAALAACGIPLCVP-PAVLSVRAAMRNRYGI-------------------
+------------------------KGSLCKDIAVSCFCALCSWCQMHRELKHRKKTPTVI
+TIE-NNTVYNMQPVPVAQLPAVMVSAQP-PTAGFVA------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSHBUP00000032777 ENSHBUG00000019294	142	no_data	cornifelin-like	Haplochromis_burtoni	758B
+------------------------------------------------------------
+-------------S----TTMTANWNTGLFGCCDDIKSCCYGFWCCPCLACTVAGMFEEN
+RCLPLCDICSPAVLSAFGIPLFVP-PAALGLRVGVRHKYGI-------------------
+------------------------QGSICKDIATSCVCVWCTWCQLHRELKIRKHGTHVV
+N-------MHPARPGKT---FHFST------MKFTSF---------------------TV
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSMZEP00005024485 ENSMZEG00005018305	140	no_data	no_data	Maylandia_zebra	758B
+------------------------------------------------------------
+-------------S----TTMTANWNTDLFGCCDDIKSCCYGFWCCPCLACTVAGMFEEN
+RCLPLCDICSPAVLSAFGIPLFVP-PAALGLRVGVRHKYGI-------------------
+------------------------QGSICKDIATSCVCVWCTWCQLHRELKIRKHGTHPV
+P-------VAQLPAVMVS--AQPPT------AGFVA------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSNBRP00000026501 ENSNBRG00000020255	161	no_data	cornifelin-like	Neolamprologus_brichardi	758B
+------------------------------------------------------------
+------------MV----EKPLTDWDSGLCDCFEDARTCCYGFWCCPCLACTVSGRFGEN
+NCLPLCDICGSGVLAAFGIPICVP-PAVLSVRAAMRNRYGI-------------------
+------------------------KGSLCKDIAVSCFCEWCSWCQMHRELKHRKKTPTVI
+NLH-NNTVINMQPIPTVQAGVMMMPAQP-VATGFMTQ--------------------PGV
+V---IH------------------------------------------------------
+-----------------------------------------------------
+>ENSONIP00000061851 ENSONIG00000009980	91	no_data	no_data	Oreochromis_niloticus	758B
+------------------------------------------------------------
+-------------------------------------------------------MSEEN
+RCLPLCDICSPAVLSAFGIPLFVP-PAALGLRVGVRRKYGI-------------------
+------------------------QGSICKDIATSCVCMWCTWCQMHRELKIRKQGTHVV
+N-------MQPTSTGKN-------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSPNYP00000016515 ENSPNYG00000012509	154	no_data	no_data	Pundamilia_nyererei	758A
+------------------------------------------------------------
+------------MA----EKPLTDWDSGLCDCFEDAHTCCYGFWCGPCLACTVSGRFGEN
+YCLPLCDILGSAALAACGIPLCVP-PAVLSVRAAMRNRYGI-------------------
+------------------------KGSLCKDIAVSCFCALCSWCQMHRELKHRKKTPTVI
+TIE-NNTVYNMQPVPVAQLPAVMVSAQP-PTAGFVA------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSPNYP00000016499 ENSPNYG00000012491	142	no_data	no_data	Pundamilia_nyererei	758B
+------------------------------------------------------------
+-------------S----TTMTANWNTDLFGCCDDIKSCCYGFWCCPCLACTVAGMFEEN
+RCLPLCDICSPAVLSAFGIPLFVP-PAALGLRVGVRHKYGI-------------------
+------------------------QGSICKDIATSCVCVWCTWCQLHRELKIRKHGTHVV
+N-------MHPARPGKT---FHFST------MNFTSS---------------------IV
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSCARP00000084703 ENSCARG00000040842	126	no_data	no_data	Carassius_auratus	758A
+-----------------------------------------------------------S
+R-ITMT---TVIVQ----TPQKSGWNSGICDCCEDMNSCCYGFWCFPCFTCTTTGNFGES
+TCLPLLDIF-----------VCVP-PVSLGMRVAVRHKYDI-------------------
+------------------------GGSICEDIMVTCCCIWCSWCQMSREIKARKQTVTV-
+--LNTYPVISF-------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSCCRP00000092096 ENSCCRG00000049803	174	no_data	placenta-specific gene 8 protein-like	Cyprinus_carpio	758A
+------------------------------------------------------------
+----MT---TVIVQ----TPQKSGWNSGICDCCQDMNSCCYGFWCFPCFTCTTTGDFGES
+TCLPLLDIFGPGIMAAFGVPVCVP-PVTLGMRVAVRHKYDI-------------------
+------------------------GGSICEDIMVSCCCIWCSWCQMSREIKARKQTVTV-
+--LTTYPVIQSIPMA----------TTT---QVVSTQQSVGVIGAAPV--------APAV
+QMA---------P------------------ISYVTK-DVK-------------------
+-----------------------------------------------------
+>ENSDARP00000116223 ENSDARG00000087764	174	ponzr10	plac8 onzin related protein 10	Danio_rerio	758A
+-----------------------------------------------------------M
+A-AVVV---QQVPS----KPQETLWNSGICDCFQDLNSCCYAYWCCPCFACSTAGEFGES
+TCLPLVDILGPAVMASFGVAFCVP-PVTMSLRVAIRHKYNI-------------------
+------------------------RGSICNDIAVSCCCVMCSWCQMNREIKARKNAPNM-
+-ILTTQPLVQQ--ST----------TTT---QVITSQQTVGMPAAPAVQ------MVPGQ
+--------------------------------PVIAK-VVQ-------------------
+-----------------------------------------------------
+>ENSDARP00000150432 ENSDARG00000109946	163	BX005027.3	cornifelin homolog B-like	Danio_rerio	758B
+-----------------------------------------------------------M
+A-V------VVVQD----PNKETNWSSNLCSCCQDLNSCCYAYWCCPCFACTTTKMFGES
+RCLPLVDILGPAVMGNFGIAICVP-PVTLSLRVAMRHKYKI-------------------
+------------------------KGSICNDIAVSCCCVMCSWCQMHREIKARNNKPANM
+VLVTQQPQVQQ--TT----------TTT---QVITSQQTIGMAAPVITT------VVQ--
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSSGRP00000112623 ENSSGRG00000055344	179	no_data	cornifelin homolog	Sinocyclocheilus_grahami	758A
+------------------------------------------------------------
+M-NEKL---SFLCH----PSILSGWNSGICDCCQDMNSCCYAYWFFPCFTCTTTGEFGES
+TCLPLLDIFGPGIMAAFGVPVCVP-PVSLGMRVAVRHKYDI-------------------
+------------------------GGSICEDIMVTCCCMWCSWCQMSREIKARKQTVTV-
+--LTTHPMIQPIPMA----------TTT---QVIATQQAFGVINVAPVA------FAPAV
+QMA---------P------------------IPSVTT-VVK-------------------
+-----------------------------------------------------
+>ENSCVAP00000001768 ENSCVAG00000002780	124	no_data	no_data	Cyprinodon_variegatus	758B
+------------------------------------------------------------
+------------------MANEVDWNSGLFGCCDDMKSCCYGFWCCPCLACTVAGNFGQN
+RCLPLCDICSPSVMSAFGIPLFVP-PAGLALRVGVRHKYNI-------------------
+------------------------KGSICKDIATSCICVWCNWCQMHRELKYRKKGPAVV
+---------NMQPSK---------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSFHEP00000021134 ENSFHEG00000023198	147	no_data	cornifelin-like	Fundulus_heteroclitus	758B
+------------------------------------MFF-------------NLLK-KGH
+Y-HLHKKQPNFGEE----MSGETDWTSDLCNCCDDTKSCCYGFWCCPCLACTVAGNFNQN
+RCLPLCDICSPAVMSAFGIPLCVP-PAGLALRVGVRYKYNI-------------------
+------------------------KGSLCKDIATSCICVWCSWCQLHRELKYRKVGPAVV
+---------NMQPTK---------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSGAFP00000011782 ENSGAFG00000007990	137	no_data	no_data	Gambusia_affinis	758B
+------------------------------------------------------------
+------------MA----DQPLTDWDSDLFDCCEDAQACCYGFWCGPCLACTVSGRFGES
+RWLPLCDMCVD---------IVIS-PAALSLRVAMRHKYGI-------------------
+------------------------KGSICKDIAVSCCCPTCAWCQMYRELKYRKKSPIVI
+NMQ-VQPHVNMQPHPMMAVSAQPVFNR---------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSKMAP00000016322 ENSKMAG00000012171	145	no_data	cornifelin homolog B-like	Kryptolebias_marmoratus	758B
+------------------------------------------------------------
+------------------MGKDSDWSSGLCNCCQDMNTCCFGFWCCPCLACTVAGNFGEN
+ACLPICDVLSPAVFAACGIPLCVP-PAVLSLRSAMRNRYGI-------------------
+------------------------EGSLCNDIVVSCFCVWCSWCQMHRELKVDRTEEPAV
+--------VNMQPQNIINVQTSNVTSQS--TALSVGK-----------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSPREP00000014644 ENSPREG00000009898	136	no_data	cornifelin homolog A-like	Poecilia_reticulata	758B
+------------------------------------------------------------
+--------------------MSENWNSDLLSCCDDMKSCCYGLWCCPCLACTVSGLFGQN
+RCLPLCDICSPAVMSAFGIPLCVP-PAGLALRVGIRQKYEI-------------------
+------------------------KGSLCKDIATSCVCVWCSWCQLHRELKYRKHTPMQS
+P-------VNMQPHPMMALPPQPVF------NR---------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSXMAP00000022076 ENSXMAG00000002258	152	no_data	cornifelin homolog A-like	Xiphophorus_maculatus	758B
+-----------------------------------------------------IIP-HTF
+Y--L-----KQEGL----LMAGEDWNSGLFSCCDDIKSCCYGFWCCPCLACTVSGLFGQN
+HCLPLCDICSPAVTSAFGIPLCVP-PAGLALRVGIRQKYEI-------------------
+------------------------KGSLCKDIATSCVCVWCSWCQLHRELKYRNHTPAVL
+---------TIQSSAPIYLEFSPRT------TAITY------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSELUP00000013657 ENSELUG00000013745	159	ponzr10	plac8 onzin related protein 10	Esox_lucius	758B
+------------------------------------------------------------
+-----------------------------MSCFCCVCSGCYGFWCCPCLACSTTGEFGES
+PCLPLVDFIGPAFAVAFGVPVCVP-PASLAMRVAIRHKYKI-------------------
+------------------------KGNLCWDILASCFCIWCSWCQMAREVKEHNKGCVY-
+--TNVQPMALQGQPSVITIENNMS---------------CVVNQPASETHPYTVYLRDGI
+KKKNPGNHIV--------------------------------------------------
+-----------------------------------------------------
+>ENSNMLP00000032585 ENSNMLG00000020347	126	no_data	no_data	Neogobius_melanostomus	758B
+------------------------------------------------------------
+------LQPPMAQS----RLALRKWLLAGVLC---FSSGCYGFWCGPCLTCTVSGRMKEC
+YCLPLCDICVLGW-------GCVR-PAAYGLRVALRHKYKI-------------------
+------------------------KGSLPNDLCVSCCCTSCSWCQMHRELKLRNTKPTVI
+SIQ-NVSTLHL-------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSPMGP00000027268 ENSPMGG00000022015	124	no_data	no_data	Periophthalmus_magnuspinnatus	758A
+------------------------------------------------------------
+-------------M----AQQLTNWNSGLYSCCDNMSSCCYGFWCCPCMACSVAGSFGEN
+RCLPLCDIFSPAITASCGLPLCVP-PAALALRVAVRHRYGI-------------------
+------------------------KGSLCKDICTSCFCEWCSYCQMHRELKYRKKHHNNV
+--------VNMQP-----------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSEEEP00000002278 ENSEEEG00000001369	161	ponzr10	cornifelin-like	Electrophorus_electricus	758B
+-----------------------------------------------------------M
+A-ATVVVQQTTMMT----GTKTTEWSSGLCQCCEDMDSCCYAYWCCPCFACSTTSEFREA
+MCLPLIDILGPGLLEASGMAVCVP-PVTLSMRAAVRNKYEI-------------------
+------------------------RGSMFEDIMISCFCIWCSWCQMHREIKHHNIPVTV-
+--ISTQPAINP---------------IA---T---TVPNTLVLVSTPLS------VSTF-
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSMMDP00005030185 ENSMMDG00005014306	156	no_data	no_data	Myripristis_murdjan	758B
+------------------------------------------------------------
+-------------M----TQPQTHWNSDLLDCCDDMNSCCYGFWCCPCFACTTSGKFGEN
+DCLPLLDIFTPAITAACGIPLCVP-PAALSLRVAIRHKYGI-------------------
+------------------------KGSLCKDIAVSCFCSWCSWCQMSREIKHRKKSHA-V
+--------INVQAQSAVVNAQPASTVVA-AQVHTINQ--------------------QNI
+-----VYYHPLC------------------------------------------------
+-----------------------------------------------------
+>ENSSORP00005000194 ENSSORG00005000145	131	no_data	cornifelin homolog A-like	Sphaeramia_orbicularis	758A
+------------------------------------------------------------
+-------------M----ALPLTNWNSGLFDCCDDKKSCCYGFWCCPCLACTVAGKFGEN
+RCLPLCDIFSPAITAACGLPLCVP-PAVLALRVGIRHRYGI-------------------
+------------------------KGSLCKDIASSCFCMWCSWCHMHRELKYRKKHAPAV
+--------VNMQPASHPAAK----------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSLBEP00000007798 ENSLBEG00000006028	152	no_data	cornifelin homolog	Labrus_bergylta	758A
+------------------------------------------------------------
+-----------MSN----TRPQTEWKTGLFDCCEDVSSCCYGFFCCPCLACTVSSNFGES
+RCLPLCDICSPAITSAIGVPLCVP-PALLSLRVGIRHAYGI-------------------
+------------------------KGSLCNDIATSCVCVWCTWCQMHRELKYRKNNQTVI
+--------VNVQPQPVMMAPG--NPP-P-AGF--MGQ--------------------PGI
+V---MNSY----------------------------------------------------
+-----------------------------------------------------
+>ENSSFOP00015011222 ENSSFOG00015007189	201	ponzr10	plac8 onzin related protein 10	Scleropages_formosus	758A
+----------------------------------------------------------IM
+A--QNVIVQQQALQ----MIQSKQWNTGIFECFDDMNSCCYSFWCFPCFQCTTAKKAGDN
+TCVPLFEWVSAGIMALAGIPLCIP-PISLAMRVAVRNKYGI-------------------
+------------------------EGSICQDCPVATFCACCSWTQISRELDLRSQPLLF-
+--VNTQPQVITIQGGVMAAQPVVVAPQP---GLITPQPGVMVSQPEVIS------VQPGI
+ITP---------P-------------------SYTTHEPINMN---M-------PPQFK-
+-----------------------------------------------------
+>ENSCGOP00000000346 ENSCGOG00000000301	136	no_data	no_data	Cottoperca_gobio	758A
+------------------------------------------------------------
+-------------M----AHPLTDWNTGLFDCCEDTSTCCYGFWCCPCLACTVSGNFGEN
+RCLPLCDMLTPAITAAIGLPLCVP-PAGLALRVGIRHRYGI-------------------
+------------------------KGSLCRDIASSCFCEWCSWCQMQRELKYRKKHTAVI
+--------VNMQPPPVMMAPG--VNR-Y--------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSGACP00000025363 ENSGACG00000019183	154	no_data	no_data	Gasterosteus_aculeatus	758B
+------------------------------------------------------------
+------------MS----TQPLEDWNTDFCDCFEEANTCCYGFWCCPCLASTVSVRFGES
+RFLPLCDVCSVTVFVVTRIPLCVP-PAALSLRAAMRNRYNI-------------------
+------------------------KGSICNDLAVSCFCGWCSWCQMHRELKHRRKAPTVV
+TVQ-KPSVLQMQPAQVIMAAYPPTAAYP--GTVTILK-----------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSCSEP00000027582 ENSCSEG00000017620	153	no_data	cornifelin-like	Cynoglossus_semilaevis	758A
+------------------------------------------------------------
+-----------MAL----QQPLSDWHSGLFDCFESSSTCCYGFWCCPCLACTVAGKFGQN
+RCLPLCDLCGPAALTACGIPLFAP-PAVISLRAGIRYKYNI-------------------
+------------------------KGTLCKDICSSCFCVWCTWCQLHRELKKRDKNPTVV
+--------VNVQPRHAHTTGKREKQKDRFSKWWFMFK--------------------NKV
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSSMAP00000033846 ENSSMAG00000020706	151	no_data	no_data	Scophthalmus_maximus	758A
+------------------------------------------------------------
+-------------M----AYPLTDWHSDLFDCFESTSTCCYGFWCCPCLACTVAGKYGEN
+RCLPLCDMFSPAITAAVGLPLCVP-PAAVTLRASIRARYGI-------------------
+------------------------KGSLCKDIAASCFCMWCSWCQMHRELKHRKKNPTVV
+--------VNMQPAPVMMAAP--RNQAA-PVL--VSN--------------------HGV
+I---MTSY----------------------------------------------------
+-----------------------------------------------------
+>ENSHHUP00000044366 ENSHHUG00000027162	134	no_data	no_data	Hucho_hucho	758A
+---------------------------------------------------------LKE
+T-TIWS--IHQQVA----APAIKGWNTGLFDCCQDMNSCCYGFWCCPCLACSTTGEFGES
+TCLPLVDIIGPACMVAFGVPIIVP-PASLSMRVAVRHKYGI-------------------
+------------------------QTTC-------------HWNTVMVAD----NGPLY-
+---------AYVDIPL-KSAISSYNS---------HLQH---------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSOTSP00005005320 ENSOTSG00005003090	206	no_data	no_data	Oncorhynchus_tshawytscha	758A
+-----------------------------------------------------------M
+A-ANII--VHQQVA----VY-------------TGCIRCCYGFWCCPCFACSTTGVFGES
+TCLPLVDIIGPACMLAFGVPIIVP-PASLSMRVAVRHKYGI-------------------
+------------------------QGSLFEDILVSCFYACCLWCQMAREINKHKKGCTF-
+--TTTQPVAIHLQPPTMTNSNVSYTT---------NQQSYVITDPQFPN-----------
+------------------------------QQTYVITDPPSSNMAEMPPGMMAGPPEMAR
+GGHMKMRGSQSMPSSSSPDGRR-------------------------------
+>ENSSTUP00000020522 ENSSTUG00000009136	289	no_data	protein PLANT CADMIUM RESISTANCE 10-like	Salmo_trutta	758A
+-----------------------------------------------------------M
+Q-ANII--VHQQVA----APAVKGWNTGLFDCCQDMNSCCYGFWCCPCLACSTTGEFGES
+TCLPLVDIIGPACMVGFGVPIIVP-PASLSMRVAVRHKYGI-------------------
+------------------------QQSLCEDIMVSCCCVWCSWCQMAREIKDHKKGCTF-
+--TTTQPVAIQVQPPAMTNSNVSYTT---------NQQSYIMTSPQSPN--QKSYVMTGP
+QSPNQQSYIMTSPQSPNQQGYIMTSPQSPNQQSYVMTSPQSSSMVEMYPGMMAGPPGIAG
+GAQIKMASDQRAIAGHSQMTTSDPPAYNPAVMMPPDMYNHMVNTTVSTQPSKC
+>ENSIPUP00000028670 ENSIPUG00000019418	160	ponzr10	placenta-specific gene 8 protein-like	Ictalurus_punctatus	758A
+------------------------------------MFV-------------RESKLIIM
+A-ATTVVIQQQPMA----VPRVTAWSSGLFHCCQDMDSCCLAFWCFPCFTCKTSSKFGES
+LCLPLVDLLGPLLMAATGLGICVP-PVTLSMRVAIRHKYQI-------------------
+------------------------PGSLCEDILVSCFCVTCSWCQMNREISHRKRTEAV-
+--MSSQPMTTFNTVT----------STV---P---VM-----------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSSAUP00010028545 ENSSAUG00010012291	139	no_data	no_data	Sparus_aurata	758B
+------------------------------------------------------------
+-------------------MAMTPWSTGLFDCCDDMSSCCYGFWCCPCLACTVAGKFGEN
+RCLPLCDILSPAITAACGLPLCVP-PAVLSVRVGIRHTYGI-------------------
+------------------------KGSLCNDIATSCFCEWCSWCQMHRELKYRKKNQPAV
+--------VIMQPVSLFNDST--ALI-K-SKV--SG------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSMAMP00000013102 ENSMAMG00000008890	132	no_data	no_data	Mastacembelus_armatus	758B
+------------------------------------------------------------
+------------MA----HHYTTKWSSGLLDCCDNISSCCYGFWCCPCLACTVSGNFGEN
+RCLPLCDILSPAITASCGIPLCVP-PAVLSMRVAMRERYGI-------------------
+------------------------KGSLCKDIAVSCFCEWCSWCQMHRELKYRKKNP-TV
+--------INVQPAPVIMRPM---------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSMALP00000027086 ENSMALG00000018774	116	no_data	no_data	Monopterus_albus	758B
+------------------------------------------------------------
+-------------------CDLVLW----------FGVLLPGFWCCPCLACTVSGNFGEN
+RCLPLCDIFSPAITASCGIPLCVP-PAGLAMRVAIRHRYNI-------------------
+------------------------KGSLCKDICVSCFCEWCSWCQMHRELKQRGQNSTAI
+--------VNVPPARGM-------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSHCOP00000004645 ENSHCOG00000006130	128	no_data	cornifelin homolog	Hippocampus_comes	758A
+------------------------------------------------------------
+-----------MSP----KQTLTEWDSGLLDCCQDKSSCCYGFFCCPCLACSVAGKFGEN
+RCLPLCDMLSPAVLTAFGIPLFAP-PAALSLRVGIRNRGGV-------------------
+------------------------KGSMCNDILSSCFCMWCTWCQMHRELKFRKKNPTV-
+--------INMQPAPL--------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSMMOP00000008402 ENSMMOG00000006501	152	no_data	no_data	Mola_mola	758B
+------------------------------------------------------------
+------------MA----VQPLTQWETGLLSCCDDINSCCYGFWCCPCLACTVSGNAGEN
+RCLPLCDICSPAIASACSIPLCVP-PAVLAMRVGIRHRYGI-------------------
+------------------------KGSYCKDIATSCFCVWCSWCQMHREMKYRKKNPTNI
+--------VSIQPGPMRSAPA--NPPPA-GFV--SHP--------------------QGV
+V---VASY----------------------------------------------------
+-----------------------------------------------------
+>ENSTRUP00000053075 ENSTRUG00000025886	141	no_data	no_data	Takifugu_rubripes	758B
+------------------------------------------------------------
+------------MA----VHAVTEWSSGLLSCCDNCSSCCYGFWCCPCLACTVSGMVGEN
+RCLPLCDMFSPAILSSCGVPLFIP-PALLSLRVGIRHKYGI-------------------
+------------------------KGSYCRDIMTSCFCVWCSWCQMHRELKYRKKNP-TV
+--------VNMQPTPANAVKL--NHVDG-SI-----------------------------
+----PK------------------------------------------------------
+-----------------------------------------------------
+>ENSTNIP00000001451 ENSTNIG00000000173	194	no_data	no_data	Tetraodon_nigroviridis	758B
+------------------------------------------------------------
+------------MA----AEAWTDWHTNLCDCLDDTSTCCYGFWCCPCLACTVSSRFGEN
+ACLPSCDILSLSLMAALGIPLFGPPPAALALRSSIRNRYRI-------------------
+------------------------KGSICRDIATTCFCVWCSWCQMHREVNYRRNQPTVL
+NV------VSVQPAPAAQPNPVIRT-YPLLTHTYPPH--------------------PHT
+CPPRTHTYPPHTH------TYP------PHTHTY----PPHTHTYPLHAGAVVAPH----
+-----------------------------------------------------
+>ENSBBBP00000014128 ENSBBBG00000005784	109	no_data	placenta-specific gene 8 protein-like	Bison_bison_bison	758A
+------------------------------------------------------------
+-MNPVVSQPGYSSA---VS-ASSDWQTGTFDCFDDIGICLCGAFFPLCLSCQIASDMNEC
+C-------------------LW---GSSVAMRTMYRTRYGI-------------------
+------------------------PGSICKDCLCLTFFPLCALCQLKRDIEKRKAMNAL-
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSBTAP00000061404 ENSBTAG00000009849	109	PLAC8	placenta-specific 8	Bos_taurus	758A
+------------------------------------------------------------
+-MNPVVSQPGYSSA---VS-ASSDWQTGIFDCFDDIGICLCGALFPLCLSCQIASDMNEC
+C-------------------LW---GSSVAMRTMYRTRYGI-------------------
+------------------------PGSICKDCLCLTFLPLCALCQLKRDIEKRKAMNAL-
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSCHIP00000010373 ENSCHIG00000012923	109	no_data	placenta-specific gene 8 protein	Capra_hircus	758A
+------------------------------------------------------------
+-MNPVVSQPGYGSA---VS-GSSDWQTGTFDCFDDIGICLCGAFFPLCLSCQIASDMDEF
+C-------------------LC---GSSVAMRTMYRTRYGI-------------------
+------------------------PGSICKDFLCLAFLPHCTLCQLKRDIEKRKAMNAL-
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSOARP00000002355 ENSOARG00000002231	109	no_data	no_data	Ovis_aries	758A
+------------------------------------------------------------
+-MNPVVSQPGYGSA---VS-GSSDWQTGTFDCFDDIGICLCGAFFPLCLSCQIASDMNEF
+C-------------------LC---GSSVAMRTMYRTRYGI-------------------
+------------------------PGSICKDFLCLAFLPHCALCQLKRDIEKRKAMNAL-
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSPCTP00005014387 ENSPCTG00005010266	110	no_data	no_data	Physeter_catodon	758A
+------------------------------------------------------------
+----MFSDPKHPPTVFRGFLRPPDATNFLFKDDPNVNKGLCGTLLPLCLSCQIASDMNEC
+C-------------------LC---GASVAMRTMYRTRYGI-------------------
+------------------------PGSICNDFLCLAFFTPCILCQLKRDIEKRKAMNAF-
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSAMEP00000005296 ENSAMEG00000005018	109	no_data	placenta-specific gene 8 protein	Ailuropoda_melanoleuca	758A
+------------------------------------------------------------
+-MNPVVSQPGYGSG---GM-MNSDWQTGIFDCFDDLGICLCGTFFPLCLSCQIASDMNEC
+C-------------------LC---GASVAVRTLYRTRYGI-------------------
+------------------------PGSICSDFLWLRCCLLCSLCQLKRDIEKRKAMNAF-
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSFCAP00000060661 ENSFCAG00000043039	170	no_data	placenta-specific gene 8 protein-like	Felis_catus	758A
+MASCFVKCQGYFLYGLCSVSTFPGCELFQDRHDIAYLFYQVAYVCSDYCSHGSALRNLAL
+EMNPVVSQPGYGTG---GV-MHSDWQSGVFDCCDDLGICLCGTFFPLCLSCQIASDMNEC
+C-------------------LC---GASVAMRTLYRTRYGI-------------------
+------------------------PGSICSDFLWLGCFPHCTLCQLKRDIEKRKAMNAF-
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSLCNP00005007413 ENSLCNG00005004860	147	no_data	placenta-specific gene 8 protein-like	Lynx_canadensis	758A
+-------------------MLLPPLSLPA--PALPLALLQGGPS--CPSVQGSALRNLAL
+KMNPVVSQPGYGTG---GV-MHSDWQSGVFDCCDDLGICLCGTFFPLCLSCQIASDMNEC
+C-------------------LC---GASVAMRTLYRTRYGI-------------------
+------------------------PGSICSDFLWLGCFPHCTLCQLKRDIEKRKAMNAF-
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSNVIP00000005224 ENSNVIG00000004190	94	no_data	no_data	Neovison_vison	758A
+------------------------------------------------------------
+--------------------MNSDWQTGVFDCCDDLGICLCGTFLPLCLSCQIASDMDEC
+C-------------------LC---GASVALRTLYRTRYGI-------------------
+------------------------PGSICGDFLWLGCFPLCTLCQLKRDIEKRKAMNAF-
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSPLOP00000014309 ENSPLOG00000010500	109	no_data	no_data	Panthera_leo	758A
+------------------------------------------------------------
+-MNPVVSQPGYGTG---GV-MHSDWQSGVFDCCDDLGICLCGTFFPLCLSCQIASDMNEC
+C-------------------LC---GASVAMRTLYRTRYGI-------------------
+------------------------PGSICSDFLWLGCFPHCTLCQLKRDIEKRKAMNAF-
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSSSUP00005023655 ENSSSUG00005015431	109	no_data	no_data	Suricata_suricatta	758A
+------------------------------------------------------------
+-MNPVVSQPGYGTG---GM-MTSDWQSGVFDCCDDLGICLCGTFFPLCLSCQIASDMNEC
+C-------------------LC---GASVAMRTLYRTRYGI-------------------
+------------------------PGSICSDFLWLGCFPQCTLCQLKRDIEKRKAMNSF-
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSVVUP00000021524 ENSVVUG00000015827	152	no_data	placenta-specific gene 8 protein-like	Vulpes_vulpes	758A
+-----MTPVPFFSFPFTK--------------LTNFLIATESVSPAAETRTGSAFWNLVL
+KMNPVVSQPGYGTG---GSMMNSDWQTGMFDCFDDLGICLCGAFCPLCLSCQIASDMNEC
+C-------------------LC---GASVAMRTLYRTRFGI-------------------
+------------------------PGSIFSDFLWLGCFPLCTLCQLKRDIEKRKAMNAF-
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSRFEP00010003621 ENSRFEG00010002549	110	no_data	no_data	Rhinolophus_ferrumequinum	758A
+------------------------------------------------------------
+-MNPVVTQPGYGMG---GTVMTSDWQTGAFDCCGDIGICLCGTFFPLCLSCQIASDMNEC
+C-------------------LC---GASVAMRTKYRTRYGI-------------------
+------------------------PGSICSDFLMLSCFPQCVLCQLKRDIEKRKEMNAF-
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSMODP00000038310 ENSMODG00000025523	111	no_data	no_data	Monodelphis_domestica	758A
+------------------------------------------------------------
+-MNPVVNQPQFGAT--TGYGTRSDWQTGIFDCFDDWGICLCGTFCALCLSCQIAADMNEC
+C-------------------LC---GGSVAMRTLYRTKYGI-------------------
+------------------------PGSIYNDFFWLYCCPNCTLCQLKRDIEKRKEMNAF-
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSOANP00000054347 ENSOANG00000044592	114	no_data	no_data	Ornithorhynchus_anatinus	758A
+--------------------------------------------------------TPAL
+AMTTVVTQPQPGTD----AAVASDWQSGVFGCFEDTGVCVRGTFCYLCLGCQVAKDMNEF
+C-------------------LC---GSSVALRTLYRTKYGI-------------------
+------------------------PGSILSDFLWLSCFSPCALCQLKRDINKRKSTNTF-
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSLLTP00000009006 ENSLLTG00000006891	118	no_data	no_data	Laticauda_laticaudata	758A
+-----------------------------------------------------------M
+NPHTIISQPQMTVT----QHQTCEWQTDLFDCFNDWGVCICGMCCPLCLGCQIASEMNEC
+P-------------------LC---GITMAFRTLYRTRYGI-------------------
+------------------------PVSRGSLQYFLLVFI----WILKTTLTWLSTHKIFL
+WSF--RPKAR----PF--------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSNSUP00000004474 ENSNSUG00000003572	58	no_data	no_data	Notechis_scutatus	758A
+------------------------------------------------------------
+--------------------------------------------------------MNEC
+C-------------------CC---GASVAMRAVYRTKYNI-------------------
+------------------------PGSICGDTFIVGCLPACSLCQVQRDIKKRKEMGIF-
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------

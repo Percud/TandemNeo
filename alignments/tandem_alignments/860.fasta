@@ -1,0 +1,222 @@
+>ENSATEP00000008001 ENSATEG00000005609	88	afp4	antifreeze protein type IV	Anabas_testudineus	860B
+------------------------------------------------------------
+------------MKFSLIAALVVVLAV--GSEAASLVKRDVQA---EVDRLTKIFNDISA
+GITS------------------TTYMEDSKAKIQPLVEKVQVEAAKLQEQVKPFVTNIED
+QVK---------------------------------------------------------
+--------------------------------
+>ENSORLP00000020348 ENSORLG00000016252	186	afp4	type-4 ice-structuring protein LS-12	Oryzias_latipes	860B
+------------------------------------------------------------
+------------MAFSCVAALLVVLAVTHGCEAVSLVRRDAPS---NVDKLTQLIENMSA
+SITAATQEMVDKMKALEMTSTAQAYMEDSRAKIQPLVEQVQAEATKLQEQVKPYISNIEE
+HIRPLTDNFNSHVKPLTDNFH-------EQVKPLTDM----MEKLFQQASALCEPGVLDV
+KAEEDDEGAKGNVRAGQTVQGSEPASEQRAQL
+>ENSGWIP00000020899 ENSGWIG00000011311	116	afp4	antifreeze protein type IV	Gouania_willdenowi	860B
+------------------------------------------------------------
+--------------CVCVCVCVCVCVCVSGAEARTLVK-----------------RDMSA
+SLSAATQDMVEKVKALEMTQTAQTYVEGGKEQFQPLVDKVQAEALKLQEQMKP-------
+---------------LTDSLS-------AQVQPLGEV----MEKFFQQMVDQTKALIPAQ
+--------------------------------
+>ENSENLP00000017773 ENSENLG00000008154	133	afp4	antifreeze protein type IV	Echeneis_naucrates	860B
+------------------------------------------------------------
+---------------------------------MSLVKRDVQS---DVDRITKLIKDMST
+SITTATHDMVEKVRALEMANTAQTYVEDSRARIQPLVEKVQAEATKLQEQVKPYITNIEE
+QMKPLTENLNAQVKPLTDNFH-------AQVKPLTDL----MENLFKQMMEQTKALLPPQ
+--------------------------------
+>ENSSDUP00000009604 ENSSDUG00000007059	154	afp4	type-4 ice-structuring protein LS-12-like	Seriola_dumerili	860B
+------------------------------------------------------------
+------------MKFSLVAALVVVLAVAHGSEAVSLVKRDIQS---DVDRITKLINDMSA
+SITTATQDMVEKVKALEVTNTAQTYMEDSRAKIQPLVDKVQAEAAKLQEQVKPFIANIED
+QIKPLTENLNAQVKPLTDNFH-------TQVKPLTDM----MEKFFQQVMDQTKALLPPQ
+--------------------------------
+>ENSAMXP00000031380 ENSAMXG00000036698	128	afp4	type-4 ice-structuring protein LS-12-like	Astyanax_mexicanus	860B
+------------------------------------------------------------
+------------MKFFLIAALVVAL--AIGSESASLAKREV---PEELQKMGQYFQGLVD
+ALK--------TVEGPELANMAKTYVEQSRAQFQPMVE-------KLHEQLK-LS-NIDE
+QIKPLAASLQ------------------AQISPYTDLVQTQVEDVLRFMVDQTKAILPAQ
+--------------------------------
+>ENSPNAP00000037122 ENSPNAG00000028495	129	afp4	type-4 ice-structuring protein-like	Pygocentrus_nattereri	860A
+------------------------------------------------------------
+------------MKFALIAALVTVL--AIGSESASLVKREV---PEELQKISQYFQGLVD
+SLK--------TAEGPELATMAKTYIEESRAQLQPIVE-------KLHAQLKPLT-SIDE
+QIKPLAASLQ------------------AQIAPYTDLVQTQVEDVLRFMVDQTKAILPSQ
+--------------------------------
+>ENSCHAP00000018468 ENSCHAG00000009551	139	no_data	type-4 ice-structuring protein LS-12-like	Clupea_harengus	860B
+------------------------------------------------------------
+------------MKFALA-VTLVVLVISQGTESASLGKHDIPA---EIEKITKYFQDLSR
+MLTTTTTELMETLKAHDLTGKAEAYLQDSKAQVQPLLE-------KVKEQLKPLATNFEE
+QFKPLSESIL------------------AQLKPLAQSVETQLEDLLETVMAQTKALLPPQ
+--------------------------------
+>ENSDCDP00000061757 ENSDCDG00000035151	128	afp4	type-4 ice-structuring protein LS-12-like	Denticeps_clupeoides	860A
+------------------------------------------------------------
+------------MKVLIV-AVLAVLALAHGSESASMVKREAPA---DIEKLTKYLEDMSA
+LLSSTTQDL---------VSQAQTYIQEGKGQIEPLAE-------KIQAQLKPLAANMEE
+QLKPLAESVQ------------------AQLKPLADSVQTQMEDIFKMLMEKTKAIGQ--
+--------------------------------
+>ENSCARP00000005292 ENSCARG00000002545	130	no_data	type-4 ice-structuring protein LS-12-like	Carassius_auratus	860B
+------------------------------------------------------------
+------------MKFSLIAVLVVAL--AIGSESASLVKREA---PAELDKIAKYFQDLVD
+NLK--------NVEGPELANKASAYFEESRAQLQPMVE-------KLQEQLKPLSSNIED
+HLKPLAASVQ------------------AQVAPLAGMVQSQVEDVLKFVADQTKAMLPPQ
+--------------------------------
+>ENSCCRP00000041859 ENSCCRG00000022321	201	afp4	type-4 ice-structuring protein LS-12-like	Cyprinus_carpio	860B
+MALWRTHISSKNLWKQGKITATLYAWSVDDFISTGHPLNLSQDYI-NPWLFGEHTSALRT
+SGSKENLAQPATMKFSLIAVLVVAL--AIGSESASLVKRDA---TAELDKIAKYFQDLVD
+NLK--------NIEGPELANKANAYFEESRAQLQPMVE-------KLQEQLKPLSSNTED
+HIKSLAASVQ------------------AQVAPLAGMVQTQVEDVLKFVADQTKAMLPPQ
+--------------------------------
+>ENSDARP00000120318 ENSDARG00000041490	129	afp4	antifreeze protein type IV	Danio_rerio	860A
+------------------------------------------------------------
+------------MKLSLITILVVAL--AIRSESASLVKRDA---SAELDKIAKYFQDFVD
+NLK--------NVEGPELANKANAYLEESRAQFQPMVE-------KLQEQLKPFS-NIED
+QIKPIAASVQ------------------AQVAPLADIVQTHIEDVLKFVADKTKTILPPQ
+--------------------------------
+>ENSDARP00000060821 ENSDARG00000095863	130	afp4	antifreeze protein type IV	Danio_rerio	860B
+------------------------------------------------------------
+------------MKFSLIAVIVVAL--AIGSESASLVKRDA---PAELDKIAKYFQDLVD
+NLK--------NVEGAELANKANAYLEQSRAQFQPMVE-------KLQEQLKPFSGNIEE
+QIKPLAASVQ------------------SQVAPLAGMVQTHVEDMIKFVADQAKAMLPPQ
+--------------------------------
+>ENSSGRP00000096555 ENSSGRG00000048232	130	afp4	apolipoprotein A2	Sinocyclocheilus_grahami	860B
+------------------------------------------------------------
+------------MKFSLIAVLVVAL--AIGSESASLVKRDA---PAELEKIAKYFQDLVD
+NLK--------NIEGTELANKANVYFEQSRAQLQPMVE-------KLQEQLKPLSSNIED
+HIKPLAASVQ------------------AQVAPLAGLVQTHVEDVLKFVADQTKAILPPH
+--------------------------------
+>ENSCVAP00000031459 ENSCVAG00000000531	154	afp4	type-4 ice-structuring protein LS-12-like	Cyprinodon_variegatus	860B
+------------------------------------------------------------
+------------MKFSLVATLLVVLAVAHGSEARALVKREVQA---EVERLTQLLKDMSA
+SVTTATQDMVEKMKALEMTNTAQTYMEDSRARIQPLVEKVQAEAAKLQEQVKPFISNIEE
+HVRPLTDDLNSQVQPLTENLQ-------AQVKPLTDM----MEKFLQQVMEQSKALMPPQ
+--------------------------------
+>ENSFHEP00000012092 ENSFHEG00000013547	143	afp4	type-4 ice-structuring protein LS-12-like	Fundulus_heteroclitus	860B
+------------------------------------------------------------
+------------MKFSLVAALLVVLALAYGSEARTLVKREVQA---EVDGISQVLKEMSA
+RISTVTQDMVEKMKALEMTNSAQTYMEDSRAKIQPLVERVQAEATKLQEQVKPFISNIEE
+QVQPLTDNFNAQV------------------QPLTDM----MEKFLQQVMEQSKALLPPQ
+--------------------------------
+>ENSGAFP00000032227 ENSGAFG00000021696	152	afp4	antifreeze protein type IV	Gambusia_affinis	860B
+------------------------------------------------------------
+------------MKFSLFATILVVLAVAHGSEARSLVKREVQA---EVDRITQLLRDMST
+SITTATQDMVEKMKALEMTNTAQTYMEDSRAKIQPLVEQVQSEAAKLQEQVKPLISNIEE
+HIRPLTDNFNGQV--LTDNLQ-------NQVKPLTDM----MEKFLQQAMEQSKTLLPPQ
+--------------------------------
+>ENSKMAP00000019469 ENSKMAG00000014474	139	afp4	type-4 ice-structuring protein LS-12-like	Kryptolebias_marmoratus	860A
+------------------------------------------------------------
+------------MKLSLVASLLVVLAFACG-EARTLVKRDVPS---DVDKITQLFRDMST
+SLSAATQEMVEKMKASEMTNTAQTYMEGS---IQPLTETFQAEASKLQEQVKPYISNIEE
+HMKPLTENLQT------------------QVKPLADM----MEKLLQEIVDQSKTLLPSQ
+--------------------------------
+>ENSPREP00000026016 ENSPREG00000017587	148	afp4	type-4 ice-structuring protein LS-12-like	Poecilia_reticulata	860B
+------------------------------------------------------------
+------------MKFSLVATILVALAV---SEARSLVKREVQA---EVDRITQLLRDVSA
+SVTTATQDMVEKMKALEMTNTA-TYMEDSRAKIQPLVEQVQSEAAKLQEQVKPLISNIEE
+RIRPLTDDFNTQV--LTDNLQ-------NQVKPLTDM----MEKFLQQVMEQSKALLPPQ
+--------------------------------
+>ENSXMAP00000013495 ENSXMAG00000013467	189	afp4	type-4 ice-structuring protein LS-12-like	Xiphophorus_maculatus	860B
+-----------------------------------MVINSSCAAIKASDILREGTIKSKN
+PRSEGLCYSSAAMKFSLVATILVVLAVAHGSEARSLVKREVQA---EVDRITQLLREMSA
+SVTTATQDMVEKMKALEMTNSAQTYMEDSRAKIQPLVEQVQSEAAKLQEQVKPLISNIEE
+HIRPLTDDFNAQV--LTDNLQ-------NQVKPLTSM----MEKFLQQVMEQSKALLPPQ
+--------------------------------
+>ENSELUP00000005667 ENSELUG00000006663	152	afp4	apolipoprotein A-IV	Esox_lucius	860B
+------------------------------------------------------------
+------------MKSTLVAALLVVL--AIGCESGSLVKRDIPA---DVETLTKYFQDAIE
+-----------EIKTHPLVSKAQDYLEEGKAQITPLTGKIQEHADKIQEQIQPYITDIEG
+KVRPLAENIQIQLSPLTENLQAQVDKVQAKIKPLANDFQEQMEKLYQTMVDQTKAMLPSQ
+--------------------------------
+>ENSEEEP00000033624 ENSEEEG00000015998	130	afp4	type-4 ice-structuring protein LS-12-like	Electrophorus_electricus	860B
+------------------------------------------------------------
+------------MKFALIAAFVVVL--AIGSESASLVKRDV---SAEVEKLGKYFQDLFE
+NLK--------TVEGPELADKAKDYIEQSRAQLQPMME-------KLQEKLKPLAGNIEQ
+QIKPLAASMQ------------------AQIAPYTDLVQSQVEDLFKFMVDQTKAILPNQ
+--------------------------------
+>ENSMMDP00005005708 ENSMMDG00005003187	151	afp4	type-4 ice-structuring protein LS-12-like	Myripristis_murdjan	860B
+------------------------------------------------------------
+------------MKFSLVAALVVVLAVAHGTEAVSLVKREVPS---EVDMITKIIKDMSV
+TITSATNDMVEKVKALELTNQAQTYMEGSRAQVQPLVEKVQAEAEKLQEQLKPFLTNIED
+QFKPLTDNIQTQVKPLTDNFH-------SQVQTLTTQ----MERLFQQLLDQAKALQ---
+--------------------------------
+>ENSLBEP00000020409 ENSLBEG00000015698	149	afp4	type-4 ice-structuring protein LS-12-like	Labrus_bergylta	860B
+------------------------------------------------------------
+------------MKFSLVAALVVVLAVAHGSDAGSLVKRDVQA---DVDKITGLINDMSA
+SLTATTQELVDQVKALDVTNTAQTYMENSKAKLQPLVEKAQAEAAKMQEQIKPFIASMEE
+QMKPLTDAFDIQVKPLTDNIQ-------EQVKPLTDM----LEKFLQQVMDRPRP-----
+--------------------------------
+>ENSPKIP00000002746 ENSPKIG00000020524	136	no_data	apolipoprotein A2	Paramormyrops_kingsleyae	860B
+------------------------------------------------------------
+------------MKFSLIAVLVVF-ALA-QGESLSLVKREAP----EIERLTKYFQDLSD
+MLSKTAEDLVEKVKTHELTGQAQTYFEDGKAQLQPFAD-------KVQEQLKPLASNIED
+QLKPLADSVQ------------------AQLKPLADSVQSQLEDIWQQVMQHTKALGSK-
+--------------------------------
+>ENSSFOP00015014017 ENSSFOG00015009052	127	afp4	type-4 ice-structuring protein-like	Scleropages_formosus	860B
+------------------------------------------------------------
+------------MKFSLIAALVVVLALAQASESRFLTKREAP----ELEQLVKNLQDMSS
+TFSKIAEDLVEKLKTHELTGQAQTYLEDGKAQLQPLAE-------KVQEHLKPL------
+-----ADSMQ------------------GHLKPLTDTWQTHMDELWKQIVEHTKSLTSQ-
+--------------------------------
+>ENSGACP00000017393 ENSGACG00000013154	154	afp4	antifreeze protein type IV	Gasterosteus_aculeatus	860B
+------------------------------------------------------------
+------------MNFSNIAALVLVLAVAHGTQAGSLVRRDAQS---ELDKITKLINDMSA
+GLSNATQEVVEKIKTLEMSNTAQTYMEDSRSQIQPLVDKVQAEAAKLQEQVKPFVSDMEE
+QIRPVMENFQTQVKPLADNFQ-------AQVKPLADT----MMKIFQQLMDRTKALPAPQ
+--------------------------------
+>ENSCSEP00000021583 ENSCSEG00000013772	154	afp4	type-4 ice-structuring protein LS-12-like	Cynoglossus_semilaevis	860B
+------------------------------------------------------------
+------------MKFSIVAALVVLLAVAHGSEAKSVVRRDVQA---DMEKMVKLIKDMSA
+SITTATQDMVEKVQAMELANTAQTYVEDSRTKIQPLVDQVQAEATKLQEQVKPFITNIDD
+HIKPITDNFNAQVKPLTDNFY-------TQVKPLTNL----MEKFFQQVAEQAKALLPPQ
+--------------------------------
+>ENSSMAP00000021235 ENSSMAG00000013010	143	afp4	antifreeze protein type IV	Scophthalmus_maximus	860B
+------------------------------------------------------------
+------------MKFSLVAALVVVLAVAHGSEAGSLVKRDVQA---EVDKITKLIRDMSA
+TFTRETQDIVEKVKALEVTNSAQTYMEASKAQIQPLVDKVQAEATRMQEQLKPFLANIED
+QLKPLGDNVNV------------------HVKPLTDM----MASFFQQVVDQTKALLPPQ
+--------------------------------
+>ENSHHUP00000067980 ENSHHUG00000040082	145	no_data	no_data	Hucho_hucho	860B
+------------------------------------------------------------
+------------MKFSLVAALVVVL--AIGCESSSLVKRDIPA---EIETLTKYFQDAIE
+-----------IVKSHELISQAQGYLEDGKTQITPLTDKIQEHAEMIQEQMKPFVSDIEK
+KVRPVADNLQAQFMPLVD-------KMQAQFKPLADDMQAQMEQLLQTVVDQTKALLPAQ
+--------------------------------
+>ENSOTSP00005014885 ENSOTSG00005007475	145	no_data	no_data	Oncorhynchus_tshawytscha	860B
+------------------------------------------------------------
+------------MKFSLVAALVVVL--AIGCESGSLVKRDIPA---EIETLTKYFQDAIE
+-----------TVKSHELISQAQGYLEEGKTQITPLTDKIQEHAEKIQEQMKPFVSDIEK
+QVRPMADNLQAQFMPLVD-------KMQAQFKPLADDLQAQMEQLFQTVVDQTKALLPPQ
+--------------------------------
+>ENSSTUP00000085227 ENSSTUG00000037480	145	no_data	type-4 ice-structuring protein LS-12-like	Salmo_trutta	860A
+------------------------------------------------------------
+------------MKFSIVAALVVVL--AIGCESSSLVKRDIPA---EIETLTKYFQDAIE
+-----------KVKSHELISQAQGYLEEGKTQITPLTDKIQEHAEKIQEQMKSFVSDIEK
+QVRPMADNLQAQFMPLVD-------KMQAQFKPLADDLQAQMEQLFQTVVDQTKALLPPQ
+--------------------------------
+>ENSLOCP00000000530 ENSLOCG00000000481	145	no_data	type-4 ice-structuring protein LS-12-like	Lepisosteus_oculatus	860B
+------------------------------------------------------------
+------------MKFFLVSALAVVLALTHGTEALSLVKREAPPSLPDFERLTKYFQDLSA
+TLTSGTQDLVEKLKAQELTNKAQAYLEDSKAQLQPLAE-------NIQAQLKPLVDNIEE
+QLRPLTDNLQ------------------SQLKPLAENAQVQLLELWKKFLDQAKALAPAP
+QQ------------------------------
+>ENSIPUP00000009573 ENSIPUG00000006556	133	afp4	apolipoprotein A2	Ictalurus_punctatus	860B
+------------------------------------------------------------
+------------MKFFLIASFIVTL--TIGSQAASLVKRESPELPPEVEKITSYIQDFIQ
+NLK--------ALETPELASKAKSYIEESRAQLQPMVE-------KLQEQLKPLSSNIEE
+QIEPLAASVR------------------AQITPYTNLMQSQIEDLLKYVVDQTKAILPPQ
+--------------------------------
+>ENSSAUP00010033389 ENSSAUG00010014184	154	afp4	type-4 ice-structuring protein LS-12-like	Sparus_aurata	860B
+------------------------------------------------------------
+------------MKFSLVAALVVVLAVAHGTEAGSLVKRDVKS---EVDRIAKVINDMSA
+SITTATKDLVEKVKALEVTNTAQTYVEDSRAKILPLVEKVQAEAAKLQEQVKPFISNIEE
+QIKPVTDNFNAQVKPLTDNFQ-------GQVKPLTDL----IEKLFQQVMDQTKALLPPQ
+--------------------------------
+>ENSMAMP00000015591 ENSMAMG00000010579	154	afp4	type-4 ice-structuring protein LS-12-like	Mastacembelus_armatus	860A
+------------------------------------------------------------
+------------MKFSYIAALVVFLAVAHGSEAVSLVKHDIQS---EVDKITKLLNDMSA
+SISSATQDMVEKVKALEMTNTAQTYMEDSRSQIQPLVDKVQAEATKLQEQVKPFIANIED
+QIKPLTENFNAQVKPLTDNFH-------SQVKPLTDM----MEMLFQQVMDKTKALLPPQ
+--------------------------------
+>ENSMMOP00000022604 ENSMMOG00000017183	119	afp4	antifreeze protein type IV	Mola_mola	860B
+------------------------------------------------------------
+--------------------MKTSECVFAGTKAMSLANRDIQA---EVDRITKIIKDMST
+SIT-----------ALEVTNTAQTYMEDSRAKILPLVQKVQT----------------ED
+QIKPLTDNFSTQVQPLSDNFH-------AQVKPLTDM----MEKFFKQVVDQTKALLPPQ
+--------------------------------

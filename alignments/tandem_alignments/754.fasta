@@ -1,0 +1,693 @@
+>ENSATEP00000008768 ENSATEG00000006162	251	no_data	CD209 antigen-like protein C	Anabas_testudineus	754B
+------------MC-----ENTKPDLTG----------------------KVRFQRGRNE
+DRNTGEIYENTYVEESTP---SKLQ---DTTEDRWQGNIS----------SRKW-PLVLL
+VLLCFLLLAA-VMVLVVLL---------IQDKCLN---ANLSREKEKLYSE---------
+---------------------------------MQTLS------------------ANLT
+-QKI--DELQMKLETAYCPDEW--RSYGSSCYL-----ISTT--AENWKNGKQSCESLNG
+HLVIINSREEQ----------KFISSL--GL-------EAWIGLKDQE-----RGSF--W
+KWDDGSV--VNTMYWGNGE-----LQ---DYLSSEKCALISNFYPSS-NNWKV--LPCTY
+QLKFICEIGMK--------------------------------
+>ENSENLP00000001997 ENSENLG00000001090	297	no_data	no_data	Echeneis_naucrates	754A
+--------MTEMAE----------EINY----------------ASVVFKAKKNAQPEAN
+EEEEEIVYDEVKVPN---------QTS-EQSGHTKYGFIP------EKSHSFQV-VACCL
+VILCVILTIG-IITVCVYHS-TV---------------KNLTEENQKLLEQNQNMEINWN
+NITQDNQKL-------LEQNQNLEKEKNSLTQQIQKMETE-------WNKLNVSRAQWSI
+DAYC--PKKDRRGECKACQDGW--QQNRNSCYAIVHQYYVNN--WKNWTEAQNDCKGKAS
+DLVVVGDDTEK----------EYVCQK--SW----YNKGYWIGLRVED-------GK--W
+KWIDGSD--LKYDFWIKS-------------PEEGHCAVS-----YY-SGWRS--VSCSE
+TNQWICEKEALSV------------------------------
+>ENSSDUP00000017424 ENSSDUG00000012741	262	no_data	C-type lectin domain family 4 member A-like	Seriola_dumerili	754A
+-----------MSLNIYEEPSLTMDVRY-----------------SKGIRE---DRGERV
+E-RLVDIYDGQNNS-TEHHVYLSTQDR--GAHTQKPPPAV------Q-RNPFRA-AALIL
+GLLCILLLVG-CIVLSKLY---MQI---IEEKDV---------------VE-----ATNN
+EL---------------------------QVTNNEL--------------------QVRL
+-DTM--LKENCQAQGNMTVAGW--KRFRSSCYY-----KSTD--MKNWNDSRKDCQSIGA
+DLVIINSKEEQ----------EFVMKM--NK-----HGASWIGLQSEKRKVWLEEWQ--W
+KWVDGSL--PEYLGWQVGV-----N----VIPVDRSTAYM-----DV-QGLMH--AK-NG
+SKQWICEKQI---------------------------------
+>ENSACLP00000017526 ENSACLG00000011981	265	no_data	CD209 antigen-like protein E	Astatotilapia_calliptera	754A
+-----------MSSDIYAKPDLSKKVRY----------------------SRKQDGAEWE
+Q-REVDIYESTDEM---RDSYDHFQSQ-EGGPQTL-NPPS------VLKGSFRC-ATLGL
+RVLCLLMLAG-IIILSICYA-L-------NKSEFNK-----------LHFKHNKLNHSYN
+ELQTEH--------------QE----------------------------TKRLNSQL-Q
+-EEV--KKLKEKIEGKWCPEEW--TRFGCSCYF-----KSTE--WKTWSESRRACQDKGA
+DLVMINSKEEQ----------EFVSN---------FRGFSWIGLRANQ-T--SGRSK--W
+EWVDGSA--LTETFRGTGW-----S-----DPYSGYRGV---CCDDD-GRWTR--SYYSE
+SKTFICEK-----------------------------------
+>ENSONIP00000081469 ENSONIG00000031788	286	no_data	C-type lectin domain family 12 member B	Oreochromis_niloticus	754B
+-----------MSSDIYAKPDLSTKVRY----------------------SRKEDRAEWE
+Q-REVDIYESTDEI---RDSYDHFQSQ-EGGPQTQ-SPPS------VQKGSFRC-ATLAL
+RVLCLLMLAG-IIILSICYA-L-------NKNENKT-----------LHAKYDKLNHVYN
+DTKKNH--------------TELQDQLQDTKTNLTQLQSS----Y---DELSKNHSQL-Q
+-EEV--KKLKVKIEGKWCPEGW--RRFGCSCYF-----KSTE--SKTWSESRRDCWYKGA
+DLVMINSKEEQ----------EFVNE---------FGGFFWIGLRAKQ-T--SGGSK--W
+EWVDGSA--LTETFWAEGH-----G-----NPSSGSRGV---CCDDS-GRWTG--SHYSE
+SKTFICEK-----------------------------------
+>ENSCARP00000023343 ENSCARG00000010534	329	si:ch211-193e13.5	si:ch211-193e13.5	Carassius_auratus	754B
+------MFLVSMKCKAVQPKQPKPDRVHALYYITFIGQRYLKFYVIMRTQTVEMDRGERV
+E-MMVAIYDS---ADTERHHDLRTH-ADRQQPLQHTGSNL------I-YLKQRA-AEVCL
+SLLCFLLLTA-AIVLCVCF--------TTERNQLLTQISNLSEEREKTLTKYEQILNNNN
+NRTEECKQILSKYEQILNHNKNLTKEREQLFTNNIKLIAEKEHLLMENKNKT--------
+--EK--RDQIIKTYQQNDPFKW--IYYNFSFYY-----ISSE--LKSWTDSRRDCQQRGA
+DLVNINSPKE---------------QI--AV----SD-HFWIGLGKV------E-GK--W
+KWISGTI--MT-----N--------GSRHQHSQGSYCAMT-----TS-SGWVD--DKCEY
+NKKWICKKSILK-------------------------------
+>ENSCCRP00000018614 ENSCCRG00000010339	224	no_data	CD209 antigen-like protein E	Cyprinus_carpio	754A
+-----------------------------------------------------MLDSERS
+E-IPEAIYNN---VDPVRRLDLKI--TEKQQPLQHTGSVS------VMNRKHRA-AEVCL
+CLLCVLLLTA-VIVLCVCF--------TSERKQFLTQISNLTEEREKIMEY-------NN
+NFTNERVQIMN---------------------DQSRL-----------------------
+------QRWLYAQDQQGEPFKW--IYYNSSFYY-----ISSE--NKSWSDSSKDCQKRGA
+DLVIIKKDSEK----------EFLQKV--VI----KNNLFWVEL----------------
+----------------------------MKSPWNDYCVLM-----GA-SKTLR--SGCGA
+THRWICERTLDNY------------------------------
+>ENSDARP00000103486 ENSDARG00000074732	278	BX682234.1	C-type lectin domain family 12 member B-like	Danio_rerio	754A
+--------------------------------------------------------MTKS
+E-IPEAIYQNINTKDTEGCVDLKTH-REKHQPPQLTGSVS------RRNRKQRA-VEECL
+GLLCALLLTA-VIVICVCF--------SIQRKHLLTHITKLNEEQEQLLND-------NK
+VLTEEREQL-------LKYNNDLSEEREQIFTNITNLKGERERLLNHNNDLTKERDQLRN
+-DKW--KMWPYEQDLPADKFRW--ICYNNSLYF-----ISSE--MKSWSDSRQDCQQRRA
+DLAIIKSPEEK----------TFFQKV--VD-----R-NFWIGLTKT--------DV--W
+KWLDGTV--LT-----NGS---------K--TDSSNCAVV-----AA-GGYYT--SACNS
+NNGWICEKTHYY-------------------------------
+>ENSDARP00000117607 ENSDARG00000052656	257	si:ch211-193e13.5	si:ch211-193e13.5	Danio_rerio	754B
+--------------------------------------------------------MTDS
+A-IPEAVYENFNT---EGHLYLKTL-AQKHQPPQITGSVS------VKSRKQRA-VEVCV
+CLLCALLLTA-VIVLCVFF--------IIQRKHLLTHISKLIEEQEEILTN-------IT
+KLNEERE---------------------ETITNITNLIEERQQIKNK------------I
+-DEL--QLGFYEQDQLSDNFKW--IYYNFSFYY-----ISSE--KKSWEDSRRDCQQRNA
+DLAIIKSPEEK----------KCLLKV--AA----SD-FYWIGLTKK------HYRQ--W
+NWVDGSL--LT-----DWY---------FNRHSHYYCAMI-----TS-AGWRE--KSCAN
+LNKWICKRTVLKITH----------------------------
+>ENSSGRP00000052547 ENSSGRG00000027767	301	si:ch211-193e13.5	CD209 antigen-like protein E	Sinocyclocheilus_grahami	754B
+-------------------------------------NHTLLLYVIMRTETMEMDRGERV
+E-MMVAIYDS---ADTVRHHDLRTH-AERRQPLQHTGSVS------VKNRKHRA-AEVCL
+CLLCFLLLIA-VIVLCVCF--------TSERKQLLTHISNLTEEREKTLTKHEQVLYNNN
+NLTEERKQILSKYEQILNHNNKLTKEREQIFTNNIKLIQIKKTGE---------------
+--------LQQGLLEQEDPFKW--IYYNFSFYY-----ISSE--KKSWSDSSRDCQQKGA
+DLVIINSSKEQ----------DFVQKI--AV----SD-HFWIGLGKM------E-GE--W
+KWIGGTI--MN-----LLHCCFRYWSSQYLHSYGSYCALI-----TS-SGWID--DKCDY
+NKKWICKRRILT-------------------------------
+>ENSSORP00005043064 ENSSORG00005019931	281	no_data	CD209 antigen-like protein E	Sphaeramia_orbicularis	754A
+-----------MSTDPEAGPQPHPDVRR-----------------SPEIQEESEDPGEVC
+E-R-------------AQ----LKGGR--VV-IGRP--VV------RRSRCCSV-PALIQ
+HLLIVLLV---LILGGLYAR-YIFS--TVERQNLLLETQ-----QLQNTIN-----DLNN
+TLNEPNNTV-------NEPNN---TVTEQIVQKSEV--------------------QAKE
+-NSL--EDQQNTRKEELCPNGW--KRYQCKCYK-----LSTE--NKTWVNSRADCQHRGA
+DLVTIKSRKEE----------DFVSRL--SE-----HEDFWIGLEVTPS----WDPK--W
+IWVDGTP--AEYMNFPKGT-----K----VNPGSKNYFYK-----EK-NGPWK--SVTDG
+TKRWICEKPVPEPNEDDE-------------V-----------
+>ENSLBEP00000010873 ENSLBEG00000008409	199	no_data	no_data	Labrus_bergylta	754A
+------------------------------------------------------------
+----------------------AVAGK--QT-ETWPLF--------------KV-STVCL
+GLLCFLLLTT-AIVISILCE-F------FKRQ----------------------------
+----------------------------------------------------------KL
+-KWR--EERGRRRTDCKCPDGW--RRFGCSCYF-----FSTS--VSTWSRSKQMCQLHGA
+DLVIINSQSEM----------MFLNKV--RA-----HSKFWIGMDGTS-----SSYS--N
+KWTDGSS--LK-----TTL-----M----IIHAN-----S-----EH-NTPSY--SNDKR
+HAQWLCNWQIQFECQCHAKF-----NRLYSPLGGSVHTESLKV
+>ENSPKIP00000017115 ENSPKIG00000003167	199	no_data	no_data	Paramormyrops_kingsleyae	754A
+------MFKE--------------------------------------------------
+-----NIYANTSNT-TDQIR--KR-----SNTTQCPGSES------AGRRDHRP-AVVCL
+GLLCFLLLTA-LIVLVVYHS-RVIH--QAETQHNNLRKE-----RDQLL--------LNY
+SLQ-----------------T---AERDQLLLNYSL--------------------QTA-
+---E--REFDEYKKNHVCPSGW--RRLSTSCYY-----ISTE--KKNWNDSRQACMQSGA
+DLAIISCREEQ----------IFLEGL--SG-------YFWIGLSERE-----REGT--W
+KWVDGTT--FPVD------------------EG---------------------------
+-------------------------------------------
+>ENSGACP00000017610 ENSGACG00000013327	292	no_data	no_data	Gasterosteus_aculeatus	754A
+MEQELNYVQVKFKTDGSSARDKPCDL----------------------------------
+----ETIYDEVQTYEEWA---WDT-----NRATQGNKKKA------TLFTPVHL-VASGL
+AILCVLLVSV-VVTLVVYFS-AVVS--EQHSENL-------------------DLTAKNL
+--------------QLWTEKSHLEKETAQLTRERDGLNWTVGVVL--------EYEGFPV
+NTYCPQK------VCKPCLDGW--ISFQSKCYMFSTYTYSSW--WKTWQDSRHECHNQRA
+DLVVIESQEEQ----------EFLNNH--TEKYHDDNHGYWTGLSKT--------DT--W
+TWADGSN--LTVTYWNTE-------------NDNSHCGLIQATKHPL-GNWRK--ASCNM
+RNRWICERRALIKTHPDSAA-----------------------
+>ENSHHUP00000028744 ENSHHUG00000018334	339	no_data	no_data	Hucho_hucho	754B
+MAEELHYSTVVFKNPIVSSPKEKKEEETAYAEVKAKG-----------SAVTQRNPSTAE
+KKEEETAYAEVKAKGSAV---TQR-----NPSTAVDKKSA------LHSQPFRR-AAVCL
+GLLCSLLVSA-IIGLCVYFS-SALS--EHNTKSG---------------P-DQDLMNLNR
+NLSTANHILQSDYSNVSNANRRLAAEKEEVSRERDRLNWNLQFVF--------QFDDFPV
+KKYCSQKDGTGERTCNSCQDGW--ILFQSSCYWILH--PDAP--WKTWIQSQQCCKQENS
+DLAVIGSQEEQ----------EFIHNH--TKEYYDGYHGYWIGLTDKA-----AVGK--W
+LWVNGSHQNLTDGFWNSQ-------------T-RGNCVLTVPKNAPL-ANWNA--ESCDM
+QNRWICESRALIWSD----------------------------
+>ENSSTUP00000017050 ENSSTUG00000007724	204	no_data	no_data	Salmo_trutta	754B
+------------------------------------------------------------
+-----------VEN---QCTYANASSF-RASPREGTIYFQ------WWKRPSRA-AAVCL
+GLLCVLLLAG-IISLSVYQR-N-------Q-------------------------STSYN
+N-------------------------------------------------LTKERDQL-Q
+-KEK--ENLNKKIKGRRCPEGW--REFEFSCYY-----ITNE--NKAWSQSREECQEFGA
+DLVIINSKEEQ----------VFINGL--NQ----TKNNVWIGLTDS-----VIEGT--W
+KWVDGTP--LTTANWGKGQ-----P-----NSNNGID--------QD-WWWND--ETCSI
+KNKGICEK-----------------------------------
+>ENSSAUP00010003075 ENSSAUG00010001578	286	no_data	no_data	Sparus_aurata	754A
+-----------MSTDIYAKPDLSKKVRY----------------------TRKE---EWH
+E-NEVNIYESADDV---G--IHRFQSH-DGGPQNEKQPPA------VQRKWFSS-AVFCL
+GVLCFLMLTA-IIVLSTCYI-L-------DKDQL---------------------QTRYN
+TLTTNQ--------------TQLQETVSDITVNNSQLQDEVKKLK---DKIEDNNRQF-E
+-AKV--KQLKDKIKGMTCPDGW--TRFGCSCYF-----RSNQ--MKTWQQSRTDCQNKGA
+DLVVINNKDEN----------NFVSDL--TK----LNGESWIGLKTEWST--VRGYE--W
+KWVDGSP--LTEIFGASRL-----P-----AASREEYAA---YCNRQ-RQWRH--INYGS
+YKYWICEKEISCTL-----------------------------
+>ENSBBBP00000027084 ENSBBBG00000000343	190	no_data	no_data	Bison_bison_bison	754A
+------------------------------------------------------------
+--------------------------------------FTGFQT--T---PWRL-ISGVL
+GVICLLLMVT-LGVLLKNLN-----NTEKKIEP---PM----------------------
+--------------------S----------S----------------------------
+-SSV--LSFLLESGCYSCQEKW--IGYQCNCYF-----ISNE--VKTWKDSRDFCVSHNS
+SLLQIQNRNEPVNMLVSVSKQDFMK----FS-----SSFYWIGLSYSE-----EHHA--W
+LWEDNST--LSQDLLPLFH-----T------VNPKNCIIY-----NPSRGALN--EDCER
+TNTYICKQQFI--------------------------------
+>ENSBBBP00000027298 ENSBBBG00000023454	139	CLEC2B	C-type lectin domain family 2 member B	Bison_bison_bison	754B
+------------------------------------------------------------
+----------------------------------------------------------SV
+VINVVLTS---IFQ----------------------------------------------
+------------------------------------------------------------
+------VTKEDRGAQYFCPDNW--IGFQDKCYY-----FSEE--EKDWNSSRYDCLSQNA
+SLVMIATTKEK----------HFLKRF--KC-----TSDHWIWRDMT------EDLT--G
+QWVDENI--HN-----KGA-----N----M-KGNEICFYL-----NE-DGVAT--ARCYT
+ERKWICRKKVH--------------------------------
+>ENSCDRP00005011684 ENSCDRG00005008277	179	KLRD1	natural killer cells antigen CD94-like	Camelus_dromedarius	754B
+------------------------------------------------------------
+--------------------------------------MAAFQT--T---PWRL-ISGIL
+GVLCLLLMAA-LGVLLKHSF-AKQNDQPTFSPG---PS----------------------
+--------------------IDL----QEG------------------------------
+------------SDCCSCQEKW--VGYQCNCYF-----ISNE--LKTWKDSSNFCASHNS
+SLLQMQSRNEL----------HFLS----PS-----SYLYWIGLSYSE-----EHRA--W
+LWEDNST--LSKDLFLLSH-----P------VNPKSCIIY-----NPSYSVLD--ENCRS
+KYRYICKQWLI--------------------------------
+>ENSCHIP00000013102 ENSCHIG00000014652	190	no_data	natural killer cells antigen CD94	Capra_hircus	754B
+------------------------------------------------------------
+----------------------------------MADFRECFQT--T---PWRL-ISGIL
+GVICLLMMTT-LGVLLKNSL-----TKQSVHLG---PS----------------------
+--------------------TDL----SEGWF----------------------------
+-HTL--ENFCVESGCCSCQEKW--IGYQCNCYF-----ISNE--LKTWKDSRDFCIFHNS
+SLLQVQNRNE----------LGFMK----FS-----SKFYWIGLSYSE-----EHHA--W
+LWEDNST--LSQDVVPLSH-----T------VNPKNCIIY-----NPSRGTLD--EDCEN
+TNNYICKQQFV--------------------------------
+>ENSCWAP00000013724 ENSCWAG00000010565	174	KLRD1	killer cell lectin like receptor D1	Catagonus_wagneri	754B
+------------------------------------------------------------
+--------------------------------------MAAFRT--T---AWRL-ISGIL
+GVTCLLLMAA-LGILLNS-F-----NKQTVHPG---PS----------------------
+--------------------TDL----LEG------------------------------
+------------SDCCSCQEKW--IGYQCNCYF-----ISNE--LKTWEDSRNFCISHNS
+SLLQMQSRNEL----------HFMS----SS-----TYFYWTGLSFSD-----EHHA--W
+LWEDNST--LSQDLHLFFN-----T------VNPKNCIIY-----NPRGSGLD--EDCGS
+EHLFICKQRLS--------------------------------
+>ENSDLEP00000000617 ENSDLEG00000000588	136	no_data	no_data	Delphinapterus_leucas	754B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------MSS----------------------------
+-SHV--LFILLGSGCCSCREKW--IGYQCSCYF-----ISNE--SKTWKDSRNFCVSHNS
+SLLQIQNRNE----------LYFMN----SI-----SYYYWTGLSYSE-----EHHG--W
+LWEDNST--LSQDLFLSLH-----P------VNPKNCIIH-----GPSGSVMD--ADCGN
+KYRYVCKQQLI--------------------------------
+>ENSMMSP00000031706 ENSMMSG00000023526	175	no_data	no_data	Moschus_moschiferus	754B
+------------------------------------------------------------
+--------------------------------------MAALQT--T---AWRL-ISGVL
+GVICILLMAA-LGVLLKNSL-----TKQSVQPG---PS----------------------
+--------------------TDL----QEG------------------------------
+------------SGCYSCQEKW--IGYQCNCYF-----VSSE--LKTWKDSKDFCVSHNS
+SLLQLKTRNE----------LGFMK----FS-----TSFYWIGLSYSE-----EHHT--W
+LWEDNST--LSQDLFPFLK-----S------VNPKNCIIH-----IPGRSILD--RHCGK
+KSHYICKQQLI--------------------------------
+>ENSOARP00000022571 ENSOARG00000021003	175	no_data	no_data	Ovis_aries	754B
+------------------------------------------------------------
+--------------------------------------MAGFQT--T---PWRL-ISGIL
+GVICLLMMIT-LGVLLKNSL-----IKQSVQLG---PS----------------------
+--------------------TDL----SE-------------------------------
+-----------ESGCCSCQEKW--IGYQCNCYF-----ISNE--LKTWKDSRDFCIFHNS
+SLLQVQNRNE----------LGFMK----FS-----SKFYWIGLSYSE-----EHHA--W
+LWEDNST--LSQDVVPLSH-----T------VNPKNCIIY-----NPSRGTLD--EDCEN
+TNNYICKQQFV--------------------------------
+>ENSVPAP00000003461 ENSVPAG00000003731	149	no_data	no_data	Vicugna_pacos	754A
+------------------------------------------------------------
+----------------------------------------------IKDTCKKY-SACAF
+ILAILLVA---NIV--LIV-----L-----------------------------------
+------------------------------------------------------------
+------VIKIAQGARHYCPDNW--IGSKDKCYY-----FSKE--EKDWNSSRYNCTSQHA
+DLAEIDTAEKM----------EFLMRF--KC-----SWDHWIGQVKTE-----I-QT--G
+QSIDGTV--FK-----NWD-----L------RRNEICTYN-----E-----NG--TARYT
+ERKWICQKKIG--------------------------------
+>ENSVPAP00000001934 ENSVPAG00000002093	180	KLRD1	killer cell lectin like receptor D1	Vicugna_pacos	754B
+------------------------------------------------------------
+--------------------------------------MAAFQT--T---PWRL-ISGIL
+GVLCLLLMAA-LGVLLKHSF-TKQNDQPTFSPG---PS----------------------
+--------------------IDL----QEG------------------------------
+------------SDCCSCQEKW--VGYQCNCYF-----ISNE--LKTWKDSSNFCASHNS
+SLLQMQSKNEL---------QHFLS----LS-----SYLYWIGLSYSE-----EHRA--W
+LWEDNST--LSKDLFLLSH-----P------ENPKSCIIY-----SPSYSVLD--ENCRS
+KYRYICKQRLI--------------------------------
+>ENSFCAP00000036913 ENSFCAG00000039286	77	no_data	no_data	Felis_catus	754B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----TIILSLK----------DFLKRY--KC-----TADHWIGLEIT------ENQT--L
+QWVNGTM--SK-----KWF-----P----V-RGNEKCAYL-----DN-DGAAT--ARCYT
+DRKWICRMQMH--------------------------------
+>ENSMPUP00000006118 ENSMPUG00000006170	199	CD69	CD69 molecule	Mustela_putorius_furo	754A
+MNSEDCSITENSSLHPEGGQQNN-------------------------------------
+--------------------------------ASRPHFAT------QREGCLQV-PIPCA
+VMNVVFIT---VLIIALVA-----I--SVG--------------Q---------------
+-YN------------------------------------------------------CPG
+-QDM--SLFPSKSHVSSCSDGW--IGYQRKCYF-----ISTE--KRGWTLAQNFCYEQDA
+TLAFIDSEKDM----------SFLKRY--VG-----ITNHWIGLKTE------DNQT--W
+KWSDGKE--FN-----NWF-----N----L-TGSENCAYL-----NS-MGVSS--TACGK
+NLHSICSKAAK--------------------------------
+>ENSNVIP00000013447 ENSNVIG00000010590	199	CD69	CD69 molecule	Neovison_vison	754A
+MNSEDCSITENSSLHPEGGQQSN-------------------------------------
+--------------------------------ASRPHFAT------QREGCLQV-PIPCA
+VMNVVFIT---VLIIALVA-----I--SVG--------------Q---------------
+-YN------------------------------------------------------CPG
+-QDM--SLFPSKSHVSSCSDGW--IGYQRKCYF-----ISTE--KRGWTLAQNFCYEQDA
+TLAFIDSEKDM----------SFLKRY--VG-----LTNHWIGLKTE------DNQT--W
+KWSDGKE--FN-----NWF-----N----L-TGSENCAYL-----NS-MGVSS--TACGK
+NLHSICSKAAK--------------------------------
+>ENSPLOP00000007380 ENSPLOG00000005394	199	CD69	CD69 molecule	Panthera_leo	754A
+MNSEECSITENSSLHPERGQQST-------------------------------------
+--------------------------------TASPQFAT------QHEGSLQV-PIPCA
+VLNVVFIT---CLIIALIA-----L--SVG--------------Q---------------
+-YN------------------------------------------------------CPE
+-QYS--HPLPSNSPVSSCSDDW--IAYRRKCYF-----ISTV--TKDWKSAQNFCSEHWA
+TLAFVDSEEDM----------IFLKRF--VG-----RAEHWIGLKNE------DGRT--W
+KWSDGKV--FN-----NRF-----N----L-TGSENCAFL-----NS-TGVIS--TECEK
+NLYWICSKPFK--------------------------------
+>ENSSSUP00005015846 ENSSSUG00005010238	157	no_data	no_data	Suricata_suricatta	754A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------M-------LLPDN---RTQQDKSTVE-----------------------NLT
+-TTE--FPLDTGHKKDVCKTRW--SCCGDKCYH-----FSRD--FKTFQESKTICKSMRA
+SLVKIEDENEL----------NFIRTQ--MS------YFTWIGLSRKG-----ASSS--W
+KWEDNST--SSLQMIRNWR-----E------PKDGNCASI-----TK-TRISA--SHCSN
+SRPFICEKRFSCVTTS---------------------------
+>ENSSSUP00005007819 ENSSSUG00005005056	75	no_data	no_data	Suricata_suricatta	754B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------MIRKT----------DFLMRF--KC-----ISDHWIGLEMT------ENQT--L
+QWVNGTI--SK-----IWF-----P----V-RGHEKCAYL-----DS-VGAAT--ARCYT
+DGKWICRKQLH--------------------------------
+>ENSUMAP00000022288 ENSUMAG00000016308	83	no_data	no_data	Ursus_maritimus	754B
+------------------------------------------------------------
+------------------------------------------------------------
+--MC--------------P-----------------------------------------
+--------------------------PYYLSPVYPI--------------------PPPP
+-SPL--KPSVCFPESTVSHGEW--IGVRKKCFY-----FSRD--TKNWTASKRFCSSQGS
+ELAHIDTQEDM----------VRKGES--S------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSVVUP00000006769 ENSVVUG00000005218	185	KLRF1	killer cell lectin like receptor F1	Vulpes_vulpes	754A
+------------------------------------------------------------
+M-QDEESYMTLNLQLKKRSSS-------------QIFQLKHKDCSVMLH-WYKV-LLGIS
+GTVNGILLLS-LISLSL-------------------------------------------
+------------------------------------------------------------
+--------------LGLCPSEW--LKYQEKCYW-----FSNE--MKSWSDSYGYCLERKS
+HLPIIQDQLEM----------AFIQ-KNLKQ-----SNYVWIGLNFTS-----LEKT--W
+TWVDGSS--LDSNIFIIKG-----P------AKEDSCAAT-----NE-NKIYS--ETCSS
+VFKWICQSINKQ-------------------------------
+>ENSMLUP00000016226 ENSMLUG00000017786	121	no_data	no_data	Myotis_lucifugus	754B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------CPSEW--LKYQEKCYW-----FSNE--LKSWSDSYGYCLERNS
+HLVIIQDQFEM----------AFIQ-KNLKQ-----SNYVWIGLNFTS-----QKRT--W
+NWVDGSP--FASKIFFIKG-----P------ATENSCAAI-----KG-NKIYS--ETCSS
+VFKWICQFLSK--------------------------------
+>ENSDNOP00000030361 ENSDNOG00000034296	137	no_data	natural killer cells antigen CD94-like	Dasypus_novemcinctus	754B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------MAGSDCCSCHEKW--IGYRCNCYF-----FSTE--EKSWEESRIACASQNS
+TLFQLENKDEL----------GFLI----NH-----QSFYWIGLSYNK-----TQGA--W
+VREDGSA--LSPDLFLGCQ-----P------LLPKDCTVF-----QTNKCVFN--ENCWE
+KHRYICKQQLQMFHGAVGLGE----------------------
+>ENSSHAP00000010072 ENSSHAG00000008711	224	no_data	no_data	Sarcophilus_harrisii	754A
+MKKGK---KENAVAWKHNKKKVEHEVK-------------------EEKQEEEEEQDDEK
+----------------------GRDGREDVVEVKVPPRER------RISKRLIYSSVAGV
+GFIIVIA----------LAI-FISK--EVRRKSE--------------------------
+-----------------------------------------------------------E
+-LIQ--EQPLCSDNSLMCPEDW--IKAFNKCYY-----ISVD--HKSWHESQQACANLGA
+NLARFKTHQEM----------DFLMKR--VG----SASDCWFGLINEE-----GNSS--W
+KWTDGTS--PP-----EWL-----Q----I--QGAGCARL-----SD-DGISS--DSCMS
+SRNYICSKEDRCS------------------------------
+>ENSSHAP00000006531 ENSSHAG00000005684	194	no_data	no_data	Sarcophilus_harrisii	754B
+------------------------------------------------------------
+--------------------------------------MACINWHTV-----------IS
+VVIVLTVKAV-GTTFFLLYLPQIFP--PVLEENFNSTS----------------------
+--------------------T----ERSTTVPQ-------TSHV-------------TSE
+R-NS--RHLTTENSRAVCPIRW--DLYKGRCYF-----FSTN--ERNWEDSRNQCTNEGA
+TLAVINNKEEQ----------KFLQER--AG-----TEIYFMGLRYQI-----SLGS--W
+QWIDGSE---FMIKIITS-------------SPNFDCGTI-----GL-DPDVEM-ASCKT
+PHRWICEKRAL--------------------------------
+>ENSMODP00000046127 ENSMODG00000000013	194	no_data	C-type lectin domain containing 5A	Monodelphis_domestica	754A
+------------------------------------------------------------
+--------------------------------------MAFINCHMI-----------LS
+VVIVVTIKVT-GTTFFLLYLPQIFP--PVLERSLNSTS----------------------
+--------------------T----EKSITAPS-------ISPT-------------TFE
+G-T---FNSTIKNNITVCPIRW--EYEKGKCYF-----FSTN--EENWNKSQSSCLKEGA
+TLAIINNSGEQ----------NFLQNR--AG-----VEPYFIGLRYNF-----SQRK--W
+RWIDGSE--DFVVTMSID-------------PPGFGCGTI-----GV-SINVED-SSCDI
+SHRWICEKIAP--------------------------------
+>ENSPCIP00000053107 ENSPCIG00000034555	212	CLEC2L	C-type lectin domain family 2 member L	Phascolarctos_cinereus	754A
+--------MEPVREPPRRSRPPPPPAPA-----------------ASAPLPRVLSPGDGE
+G-R-------------GQEVLLRRSGS--GY-EGSTSWKA------ALED--TT-TRLLL
+GAIAVLLFAI-LVVMSI-------------------------------------------
+------------------------------------------------------------
+---L--ASKGCIKCDAPCPEDW--LLYGRKCYF-----FSEE--PRDWNTGRQYCHTHEA
+SLTVIQSQKEL----------EFMFKF--TR------KEPWIGLRRVG-------DE--F
+HWVNGDP--FH-----PEE-----F----SVSGHGECVFV-----EP-TRLVT--SDCLM
+TRPWVCSKMAYT-------------------------------
+>ENSVURP00010018610 ENSVURG00010014164	212	CLEC2L	C-type lectin domain family 2 member L	Vombatus_ursinus	754A
+--------MEPVREPPRRSRPPPPPAPA-----------------ASAPLPRVLSPGDGE
+G-R-------------GQEVLLRRSGS--GY-EGSTSWKA------ALED--TT-TRLLL
+GAIAVLLFAI-LVVMSI-------------------------------------------
+------------------------------------------------------------
+---L--ASKGCIKCDAPCPEDW--LLYGRKCYF-----FSEE--PRDWNTGRQYCHTHEA
+SLTVIQSQKEL----------EFMFKF--TR------KEPWIGLRRVG-------DE--F
+HWVNGDP--FH-----PDE-----F----SVSGHGECVFV-----DP-TRLVT--SDCLM
+TRPWVCSKMAYT-------------------------------
+>ENSOPRP00000012729 ENSOPRG00000013956	137	no_data	no_data	Ochotona_princeps	754B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------TETQ-----E--------------------QNHS
+-SHI--RRTQKAYHCHLCPKEW--FIYSNNCYY-----FSTE--KKTWSESVTACASKNS
+NLLYIDSKEEM----------EFLALI--SA---------WIGVSRSS-----SRDP--W
+MTTNGST--FKLR----IS-----E----SLHGEYNCAIL-----YK-HVLES--SNCGS
+LNSYSCKRKLS--------------------------------
+>ENSOANP00000037723 ENSOANG00000037292	179	no_data	no_data	Ornithorhynchus_anatinus	754A
+------------------------------------------------------------
+-----------------------------------------MNWAAV-----------IP
+GLIVLVLKVI-GSTLFLQYFSEIFP--PVTFS----------------------------
+-----------------------------------------------------------D
+S-DL--LNATNRSSGTVCPILW--QFRGGRCYF-----FSTQ--EKAWNQSRDSCTQEDA
+SLAVGTSRAKL----------DFLNSS--VK-----LESYFVGLRYHH-----SDNK--W
+RWVDGTE--LSADIAITR-------------RPDFDCATV-----GF-GRNLSP-TLCDN
+AHRWICEKPALSSGKPKRA------------------------
+>ENSECAP00000030815 ENSECAG00000035527	233	KLRF1	killer cell lectin like receptor F1	Equus_caballus	754A
+------------------------------------------------------------
+M-QDEETYMTLNVRSKKRSSS-------------QTSQLKCKDYSEMLH-RYKI-LLGIS
+GTVNGILVLT-LISLTLLVS-QGVL--LKCQKGNNSNT----------------------
+--------------------TQHDDIGNLKRNSDTR--GNI----------------SNK
+DTGH--CVSRTADHTGLCPSEW--LKYQEKCYW-----FSNE--MKNWSDSYGYCLGRQS
+HLLIIQDQLEM----------SFIQ-KNLKQ-----SNYVWIGLNFTS-----LKRT--W
+TWVDGSP--LDSKIFFIKG-----P------AKENSCAAT-----KE-NKIYS--ETCSN
+VFKWVCQY-----------------------------------
+>ENSCHOP00000000242 ENSCHOG00000000276	123	no_data	no_data	Choloepus_hoffmanni	754B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------SDCCSCG-EW--IGYQCNCYF-----FSNE--QKPLGESRDFCASQNS
+SLLQLKNRDEL---------QGF-V----NS-----QYFHWIGLSYND-----ASNA--W
+LWEDGSA--LSFDLFSVSL-----T------PNPDSCMLY-----SSSNALLD--ESCMK
+KYRYICKQWLM--------------------------------
+>ENSCJAP00000060574 ENSCJAG00000021669	180	CD94	killer cell lectin like receptor D1	Callithrix_jacchus	754A
+------------------------------------------------------------
+--------------------------------------MAVFKA--T---FWRL-ISGTL
+GIICLSLMAT-LGILLKNSF-TKLSIESAFTPG---PN----------------------
+--------------------IEL----QKD------------------------------
+------------SDCCSCQEKW--IGYRCNCYF-----ISSE--SRTWNESRHLCASQKS
+SLLQLQSRDEL-----Q----DFMS----SS-----QQFYWIGLSYSE-----EQNA--W
+LWESGSV--LSQDLFPLFG-----T------SNRKNCIAY-----NPKGNAVD--EPCEI
+KNRFICKQQVI--------------------------------
+>ENSCSAP00000004645 ENSCSAG00000008387	130	CLEC2L	C-type lectin domain family 2 member L	Chlorocebus_sabaeus	754A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MSI-------------------------------------------
+------------------------------------------------------------
+---L--ASKGCIKCEAPCPEDW--LLYGRKCYF-----FSEE--PRDWNTGRQYCHTHEA
+VLAVIQSQKEL----------EFMFKF--TR------REPWIGLRRVG-------DE--F
+HWVNGDP--FD-----PDT-----F----TIAGPGECVFV-----EP-TRLVS--TECLM
+TRPWVCSKMAYT-------------------------------
+>ENSMICP00000050055 ENSMICG00000004007	197	KLRF1	killer cell lectin-like receptor subfamily F member 1	Microcebus_murinus	754A
+------------------------------------------------------------
+M-QDEEGYMTLNVQSKKKSSI-------------QTSQLRFKDSSAALH-WYKI-RLGIS
+GAVNGILAFT-LVSLIVLVS-QGVL--LKCPRGNNSDI----------------------
+--------------------IQYDDVGNLKVNNGTR--GDI----------------SNK
+DTGH--CVSRAADQ-TVCPSEW--LKYQGKCYW-----FSAE--MKTWNDSYVYCLERKS
+HLLIIQDQPEM----------AFIQ-RNLKQ-----SNYVWIGLYFTS-----MKKP--W
+TWVDGSP--LDSKM----------------------------------------------
+-------------------------------------------
+>ENSLAFP00000026478 ENSLAFG00000030972	126	CLEC2L	C-type lectin domain family 2 member L	Loxodonta_africana	754A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------ASKGCIKCEAPCPEDW--LLYGRKCYF-----FSEE--PRDWNTGRQSCHTHEA
+VLAVIQSQKEL----------EFMFKF--TR------REPWIGLRRVG-------DE--F
+HWVNGDP--FD-----PDT-----F----PVSGPGECVFV-----EP-TRLVS--TECLM
+TRPWVCSKMAYT-------------------------------
+>ENSCCNP00000026728 ENSCCNG00000025900	84	no_data	C-type lectin domain family 5 member A-like	Castor_canadensis	754A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--IMSPLMQGA----------KYLQDI--AG-----TEKYFIGLLLQP-----SEKRWQW
+RWINNSV---FNGNVTNQ-------------NQNFRCVTI-----GL-TKTFDA-ASCDI
+HYRWICEKNAK--------------------------------
+>ENSCCNP00000031556 ENSCCNG00000030050	180	Klrd1	natural killer cells antigen CD94-like	Castor_canadensis	754B
+------------------------------------------------------------
+--------------------------------------MAVSQI--I---LWRL-TSGVF
+GVMCLFLMAT-LGILMKISF-TKQSIQTALSLG---PI----------------------
+--------------------IEF----QEV------------------------------
+------------SDCCSCSDKW--IGYQCNCYF-----FSTE--SSTWEESRHFCASRNA
+SLFQLKNSGEL-----G----HFLN----SI-----QTHFWIGMFYNK-----EHAA--W
+LWEDGSV--PSQDLFPTSQ-----K------ISTNYCMMY-----SPSRSFLE--EHCEK
+KNNFICKQQLI--------------------------------
+>ENSCPOP00000024459 ENSCPOG00000040151	192	CLEC9A	C-type lectin domain containing 9A	Cavia_porcellus	754B
+------------------------------------------------------------
+-------------M-HEEEIYTS-------LQWDSPPSES-------SQKCLSF--TRIS
+GTSCTVMMISCIFCMGLLTT-SIFL-----------------------------------
+------------------------------------------------------------
+--------GIKSHNCSPCPYNW--IQNGESCYH-----VFEN--QKIWHSSKEDCLKDGS
+SLLQIDSKEEM----------DFINSI--LQKV-KAGSEYWVELSQDG-----LRGQ--W
+LSQDGSS--PS-----PEL-----LQIKRTQSISQVCRYI-----RD-SSLFS--TNCSY
+LKYFICEKEALRSPV----------------------------
+>ENSCLAP00000022204 ENSCLAG00000015230	176	KLRD1	natural killer cells antigen CD94-like	Chinchilla_lanigera	754B
+------------------------------------------------------------
+--------------------------------------MAASQI--T---VWRL-ISGTF
+GVICLSLMAT-LGILLKNAF-SKQSIQPTFSSG---HI----------------------
+--------------------KEE----QKV------------------------------
+------------SDCCSCQEEW--IGYQCNCYF-----ISDE--KKSWEESRHFCASHNS
+SLLQLQNSDEL----------DFMN----TN-----QRLFWTGLSFTE-----ERDA--W
+LWEDGSV--PSQDLFSLLP-----T------PTPGYCIAY-----SPRKVADS--RPCAI
+NIHYICKQ-----------------------------------
+>ENSSTOP00000014282 ENSSTOG00000015960	185	CLEC5A	C-type lectin domain containing 5A	Ictidomys_tridecemlineatus	754A
+------------------------------------------------------------
+-----------------------------------------MNWHMI-----------IY
+GLIVVVLKSV-GVTLFLLYFPQILN--TNND-GFNSTS----------------------
+--------------------S----YGT--VPP------------------------SFG
+STKN--SLMPTSRYGTVCPQNW--DFHQRRCFF-----LSTS--ELSWNKSRDDCASKGS
+TLAIVDTPEKL----------EYLQHI--AN-----AEKYFIGLTYQS-----AEKK--W
+RWINNSV---FNGNITHQ-------------NQNFNCVTI-----GL-TKTFDA-ALCDV
+SYRWICEKNPE--------------------------------
+>ENSMOCP00000000262 ENSMOCG00000000226	207	no_data	killer cell lectin-like receptor subfamily B member 1	Microtus_ochrogaster	754A
+------------------------------------------------------------
+M-DTSPIYATINFAEVQELKL-------------ASSSLPADTCQCPLRRRLTL-KLDCA
+G---LILVLI-L--IGISVA-VGFL--VQSPPRVNM------------------------
+------------------------------------------------------------
+------TEPTGTSAVLTCPRDW--HPCWDKCLF-----ISQI--TGSWVEGQADCSVKGA
+TLLLIENEEEL----------KFIWDFTKTK-----STRFFIGLNYVP-----AEKI--W
+KWVNGSI--LNPDVLQITV-----T------NEDNRCAII-----SG-LEVLS--EECSL
+FKHYICQKKLKPV------------------------------
+>ENSMOCP00000023209 ENSMOCG00000019998	179	Klrd1	natural killer cells antigen CD94-like	Microtus_ochrogaster	754B
+------------------------------------------------------------
+----------------------------------------VSRI--N---LWRL-MSVIF
+GIKCLLLMVT-LGVLMKNSF-TIQSIQPTPSPT---SV----------------------
+---------------------------KEV------------------------------
+------------SECCACLEKW--VGYQCNCYF-----ISKE--EKSWEESRDFCAAKNS
+SLLYLKTRNEM-----SFTTKNFMS----SS-----QMYFWIGMRYNQ-----KQEA--W
+LWEDGSS--PSKDLFPEFS-----Y------NKTKNCIAY-----IPSKTIFI--EPCKN
+KNHFICKQLRI--------------------------------
+>ENSMUSP00000107694 ENSMUSG00000030165	179	Klrd1	killer cell lectin-like receptor, subfamily D, member 1	Mus_musculus	754A
+------------------------------------------------------------
+--------------------------------------MAVSRI--T---RWRL-MSVIF
+GIKCLFLMVT-LGVLLINSF-TIQNIQSTPSPT---TT----------------------
+--------------------VEF----QEV------------------------------
+------------SECCVCLDKW--VGHQCNCYF-----ISKE--EKSWKRSRDFCASQNS
+SLLQPQSRNEL-----S-----FMN----FS-----QTFFWIGMHYSE-----KRNA--W
+LWEDGTV--PSKDLFPEFS-----V------IRPEHCIVY-----SPSKSVSA--ESCEN
+KNRYICKKLPI--------------------------------
+>ENSRNOP00000074715 ENSRNOG00000060246	179	Klrd1	killer cell lectin like receptor D1	Rattus_norvegicus	754B
+------------------------------------------------------------
+--------------------------------------MAVSRI--T---RWRL-MSMFF
+GIKCLFLIVA-LGVLVKNSF-TIQNIQSTPSST---PI----------------------
+--------------------VEF----QKV------------------------------
+------------SKCCACLEKW--IGHQCSCYF-----ISKE--EKSWKGSREFCASQNS
+SLLQLQTRNEL-----S-----FMS----SS-----QAFFWIGIHYNE-----ERSA--W
+LWEDGTF--PSKDLFPEFS-----K------FRQDHCIGY-----SISREISS--ESCEN
+KNRFICKQLPT--------------------------------
+>ENSTBEP00000007010 ENSTBEG00000008108	125	no_data	no_data	Tupaia_belangeri	754B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------ADCCFCKDKW--IGYQCNCYF-----ISNE--RKTWEESRHLCASQNT
+SLLHLQSREEL-----AL---SFID----SG-----DAFYWIGLSYSQ-----EREA--W
+LWENGSA--LSQDLFPLSH-----T------LNPKNCIVY-----AR-KNILD--EPCGR
+KNRYICKQQLI--------------------------------
+>ENSAPLP00020004126 ENSAPLG00020003054	151	no_data	no_data	Anas_platyrhynchos	754B
+------------------------------------------------------------
+-----------------------------------------------RHQSNRV-PGCDF
+HYQCVLPD---GFG--AHP-----------------------------------------
+------------------------------------------------------------
+--------CRLSQRPCSCPPSW--IGFEGKCFY-----FSDG--EKNQTLSRADCHARNA
+SLAVIQSREEL----------EFVLRY--KG-----SHDHWIGLSRQN-----PRQR--W
+EWDDGTE--FD-----SSL-----F----PIGGGEDFAFL-----NN-QRVTS--ARSSG
+ERHWICTRQP---------------------------------
+>ENSACDP00005015463 ENSACDG00005011315	198	no_data	no_data	Anser_cygnoides	754A
+------------------------------------------------------------
+---------------------------------------TLEDT--------------SS
+DLVVFFLLLV-FFFLAVWQL-QDLG---QCYATLNTS-----------------------
+------------------------ATDTENWENGCR--GCLERF-------------RLQ
+LKGP--LVLSDGRGCLLCPRDW--LQHGNWCYW-----VSHE--SRDWQRSRDDCAQKGS
+ALFIIRNQEQM----------AQDTLKQSQR-----GGYVWIGLAVTG-----AKGT--W
+TWLDGEA---GVFLFRILG-----S------ATSGSCALM-----KG-SQIHS--EGCNA
+ESRWVCEKDAVSL------------------------------
+>ENSCPUP00000009803 ENSCPUG00000006962	257	no_data	C-type lectin domain family 12 member B-like	Calidris_pugnax	754A
+------------------------------------------------------------
+M-TEEITYANLKFGNSYEVGNLTE-----PEDTKGKGPPPASSR--P---PWPV-V-LIL
+VVLCLALLVA-LVTLTVLFF-QVPKVYRTQLKDLNMTK----------------------
+--------------------NEL----HANFS-NML--QAIGNQ-------------LCL
+EGDK--NLKNNGQNCVLCPANWKWEG-DDMCYY-----HSEQ--KKSFKESRQFCSSQNS
+TLLLIKEAAKL---------ELVKK----FH-----RKIYWLGLRFRG-----GQRD--W
+YWADNTV--LTDKQKSWAN-----Y------LPSHDLCGY-----FYYNAIYS--SSCTE
+ELYYICEKPAIQLQRGNNRWQD-----DWFVRPK---------
+>ENSCPIP00010010381 ENSCPIG00010008028	226	no_data	no_data	Chrysolophus_pictus	754B
+------------------------------------------------------------
+M-DEEITYADLRQPTGSLTP--------------------AKQQHVP---WDFQ-KVSVL
+G-VLLLLLLL-LVGLSVWVF-QKTT---PSPSTAQHCP----------------------
+--------------------E---TNGTKGVELSGK--SSIEQY-------------FCQ
+-STP--DSSAAPAACLLCPQFW--KLLGDRCYR-----LSMG--KGIWTRAKKECENLQS
+QLVVLQKKAEK----------DYLKEIAGAA-----NQPVWIGLEVS-------KNQ--W
+KWVDNSS--FHTAEFGN-L-----S------LKENHCGTF-----KN-TEVEE--DVCNG
+EHEWICQKEPLHLHP----------------------------
+>ENSGALP00000042864 ENSGALG00000029035	229	no_data	C-type lectin domain family 5, member A	Gallus_gallus	754A
+------------------------------------------------------------
+-------------M-EEGVMYAEL------RLPPAPAPMQ------TVRMPWHW-AALSL
+GALSLLLLLAQIILVGLSFH-YLA------RQGSCCHGP-----Q---CME---------
+-----------------------------------------------------------S
+-LSS--GLQALQGSCQFCPAGW--LWHAGRCYY-----FSSA--KRIWEQGKDDCCSRGA
+QLVIIRDNSTL----------AFLTHV--SH-----MDIFHVGLKRSP-----SRFE--W
+RWLDGTV--LK------GL-----FPVQRSTSSFLACGRV-----SG-SGLSG--GHCGE
+EHSWVCEKRAVTLQWLQSSPPTFLWGNTTYTCAGPW-------
+>ENSMGAP00000017785 ENSMGAG00000017235	128	no_data	no_data	Meleagris_gallopavo	754A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------CPAGW--LWHAGRCYY-----FSSA--KRSWEQSKEDCCSRGA
+QLAIIQANSTL----------AFLTRV--SH-----MDVFHVGLKRSL-----SGLE--W
+KWLDGTV--LQ------RL-----FRIQRSTSSFLACGRV-----SG-SGLSG--GDCRE
+AHGWVCEKSAVNLQWLQSS------------------------
+>ENSCCEP00000020869 ENSCCEG00000018936	186	no_data	no_data	Cyanistes_caeruleus	754B
+------------------------------------------------------------
+---------------------------------------------------------GGS
+GRRRLLLSPL-FLSIPLPQQ-QDLP--FKDPRGSPHLP----------------------
+--------------------PIK---GDRRFPP-VP--RRC----------------LRA
+PGSV--RVPAESEGCRLCAVGW--MLIGTKCYW-----ISDG--MNPWNKSREDCGNRGS
+ALLVPWDQDEL------------------KP-----TRHFWIGLSVPV-----AGTG--W
+AWENGSS--LDQDRFQLGL-----D------KRPGACGTL-----KG-NGIYP--QTCHT
+RLQWICQKESAGI------------------------------
+>ENSZALP00000000574 ENSZALG00000000725	232	no_data	no_data	Zonotrichia_albicollis	754A
+--------------------------------FKLILSSLCAL--------------FWF
+P-GSGCTYAEVKVKAQDTNAATS---------CKSSGKSRCSRKHVA-----------IL
+VVIILILV-L-AVYLIIKYG-------PTAGSQKGSTT----------------------
+-----------------------------------------SSL-------------TNQ
+EDTT--TLSHIPERAPVCPTAW--RKHGRKCYF-----FSPEREPKDWNASRAECTAMGS
+DLVVIDSKEEL----------NFLHKR--SK-----DKYYFLGLTYSP-----EEQK--W
+KWINNVE--HDPAMFSISR-----P------YSDYDCTAI-----GF-GEVHATGCGGDN
+TTQNMCEKAPTMTKRH---------------------------
+>ENSSPUP00000004400 ENSSPUG00000003395	132	CLEC5A	C-type lectin domain containing 5A	Sphenodon_punctatus	754A
+------------------------------------------------------------
+-----------------------------------------MKWHLM-----------IA
+GLIVVVMKLV-GTSLFFVYFSEIFP--TPGSP----------------------------
+-----------------------------------------------------------G
+G-----TNSPIDDSKGECPILW--TFYKGRCYF-----FSAQ--QKTWADSRKHCVDSGS
+DLVIINSREEL----------AFLFNH--TQ-----NEVYFIGLTDQD-----AEGK--W
+KWIDNTA--LNINM----------------------------------------------
+-------------------------------------------
+>ENSACAP00000013671 ENSACAG00000013943	64	no_data	no_data	Anolis_carolinensis	754B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------DLCPSGW--IEFQRKCYY-----FSED--EGNWASSSLYCSSHNA
+SLAVIDSQEEM----------KFLLRY--KS-----PPDHWIGLR---------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSLLTP00000002975 ENSLLTG00000002274	169	no_data	no_data	Laticauda_laticaudata	754B
+------------------------------------------------------------
+-----------------------------------------MNWQQV-----------VP
+GIVLLLVKLT-GTSLFFVFFPQIFP--KGNIT---STS----------------------
+--------------------T----E----------------------------------
+---------NSSARTPLKQQRW--ERFREHDYL-----FSEE--KAKWLISQADCEQWKS
+KLVIINDTKEL----------EFVINK--TA-----MANYFIGLIYSE-----STKK--W
+EWTNHKE--HKMNLFPIK------------ATMDKECAAI-----RA-GVVS-P-VSCYD
+EYNWICEKTYS--------------------------------
+>ENSNSUP00000006617 ENSNSUG00000005238	137	no_data	no_data	Notechis_scutatus	754B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------VCNV--------------------NSPT
+-WCA--LKPYISSFSLGCSLRW--TLYEGKCYY-----FSTL--QKTWVESQKECARLNS
+HLAIISNKAEL----------AFLNSK--TQ-----ITDYFIGLRNSN-------GQ--W
+KWIDNTK--FD-----PGL-----FN---IQDKTNDCSTI-----GL-NSTIS--RSCSE
+LNRFICEETV---------------------------------
+>ENSVKKP00000023365 ENSVKKG00000015485	141	no_data	no_data	Varanus_komodoensis	754A
+------------------------------------------------------------
+------------------------------------------------------------
+-MSCVKN-----------A-----------------------------------------
+------------------------------------------------------------
+--------C--IPLVPPCTPGW--IGYEGKCYF-----FSED--ERNWTASQAFCASCGS
+SLASIESEPEK----------VFLLRY--KG-----NADHWIGLWKD------QSQI--W
+KWADGAA--FR-----NTV-----H----IGGEGGNCAFL-----SM-DIAIT--SRCYI
+PRNWICSHLDAYRKNRSS-------------AEGP--------
+>ENSCSRP00000016056 ENSCSRG00000012260	144	no_data	no_data	Chelydra_serpentina	754A
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------MI--LPCSPEFC-------------------------
+------------------------------------------------------------
+------QHAHVGSGCKLCPRHW--VPHRDKCYW-----LSQE--SKYWSRGRDDCSRRGS
+HLLVIQDWEVM----------EFIQ-NITRD-----QNQMWIGLNITS-----PGRK--W
+TWVDGSP--LNQTLFTVSG-----P------AEENSCAAV-----KT-NQIQS--EICNT
+DYKWICQKEAVLI------------------------------
+>ENSGAGP00000022426 ENSGAGG00000016457	131	no_data	no_data	Gopherus_agassizii	754B
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------LP-----L-------------------------
+------------------------------------------------------------
+------SKSGKGSECKLCPRHW--VLHMDKCYW-----VSKE--NKYWRSGRDDCSQRGS
+DLLVIQDREEL----------V-KN-NLTGN-----QNPVWIGLSTTS-----SGRM--W
+TWVDGSK-------FTVSG-----P------AEETSCAAV-----KK-TQIKS--EICNT
+HYKWICQKEAVLI------------------------------
+>ENSPSIP00000013690 ENSPSIG00000012280	125	no_data	no_data	Pelodiscus_sinensis	754A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------DSGCRLCPMHW--IPHRDKCYW-----LSDG--STYWSRSRDDCTQRRS
+HLLVIQDQEEM----------AFIQ-NITGD-----QNLMWIGLNVTL-----PGKN--W
+SWVDGSP--LNQTLFTVSG-----L------VDERSCAAI-----KK-HGIES--EICNT
+DLKWICQKK----------------------------------
+>ENSTMTP00000008567 ENSTMTG00000006272	128	no_data	no_data	Terrapene_carolina_triunguis	754A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------MSPSTAKPLQW--EGHRGNYYL-----FSKA--KEVWSSSRTECDDQSS
+DLVVISDRKEL----------EFLRNK--TR-----DADYFIGLTYSE-----MEKR--W
+YWIDKTE--LTRDLFTLKP-----N----TLEYENDCAVI-----RA-GEVS-P-ASCHQ
+QNQWICEKTMK--------------------------------

@@ -1,0 +1,132 @@
+>ENSBTAP00000049850 ENSBTAG00000039325	99	GYPA	glycophorin A (MNS blood group)	Bos_taurus	86B
+---------------------------------------------------MDRKMIFVL
+LLSGYIFTKPVAT--------------------QT-------------------------
+-------------------PG-----------ISDPTHLPGPRIVLQHKFSQPV---MVS
+IIFAVIAGIVGIIVGSAGLILLLRRRNRERTSTPKTSE----------------QPE---
+EIEDLPQ-------------------------
+>ENSSSCP00000029922 ENSSSCG00000009046	164	no_data	glycophorin A (MNS blood group)	Sus_scrofa	86B
+---------------------------------------------------MHGKMIFVL
+LLAVYISTQAVTTTET------------PVTGEQGSATPGNVSNATV-------TA--GK
+PSA----TS----------PG---VMTI-KNTTAVVQKETGVPESYHQDFSHAE---ITG
+IIFAVMAGILLIIFLIAYLIGRMIKKPLPVPKPQDSPDIGTQDTADPSDAQNTADPSELQ
+DTEDPPLTSVEIETPAS---------------
+>ENSCAFP00000038113 ENSCAFG00000031944	129	GYPA	glycophorin A (MNS blood group)	Canis_lupus_familiaris	86B
+---------------------------------------------------MYEKIVIVL
+LLSGYISTQDVTEIIPHEIS------SK-----------LPTQAGFI-----------ST
+EDPS---FNT---------PS-TRQDPSGTMYQHLPDGGQKARQQLVHIFSEPV---IIG
+IIYAVMLGIIITILSIAFCIGQLTKKSSLPAQVASPEDV---------------------
+---DPEVL------------------------
+>ENSUMAP00000020968 ENSUMAG00000015349	120	no_data	glycophorin A (MNS blood group)	Ursus_maritimus	86B
+---------------------------------------------------MYKKIVIIL
+LLSGYVFTQEDPVTTTHGSP------SYASTQEDPA-TTAPKSPSLV-----------ST
+EQSS---FV-----------------------------IPGARQQIDHIFSEPE---IIG
+IIYAVMLGVIVTILSFALCIGQLTKKSSLPVPSSPPEDA---------------------
+---DSEVL------------------------
+>ENSVVUP00000012379 ENSVVUG00000009111	172	no_data	no_data	Vulpes_vulpes	86B
+MPQEVTMQSCLQAPRVLRLGSPALSVRRTLLVLPVLNPVRWSQQVCLKDATNQFPRSIPA
+LHIGYISTQDVTETI-------------------------PDISSFI-----------ST
+EDPS---FNT---------PS-TRQDPSGTMYQHLPDGGQKARQQLVHIFSEPV---IIG
+IIYAVMLGIIITILSIAFCIGQLTKKSSLPAQVASPEDV---------------------
+---DPEVL------------------------
+>ENSDNOP00000012928 ENSDNOG00000016686	141	no_data	glycophorin A (MNS blood group)	Dasypus_novemcinctus	86B
+---------------------------------------------------MHGKLLIIL
+LLTVSPTASSN-----------------QTNEKRAT-SEGTVPKSTP-------TS--SK
+IEEHSATTVNPV-------PKSTPTSSKYDEHSVSP--GKTGFRQMEHPFSEPV---IIV
+IVFAVMAAIIGTILLIAYCVSRLRKKS---VQPPPS------------------------
+HETDVPVSSVEIENPGAE--------------
+>ENSECAP00000021991 ENSECAG00000024514	132	no_data	glycophorin A (MNS blood group)	Equus_caballus	86B
+---------------------------------------------------MYEKIIIVL
+LLSGFISAQTIAT--G----------SPPIA-----------------------------
+--------------------GTSDLSTITSAATPTFTREQDGGLQLAHDFSQPV---ITV
+IILGVMAGIIGIILLLAYVCRRLRKRPPADVPPPAS------------QVPSADAPPPVS
+EDTSTNLTSVETDYPGNSQ-------------
+>ENSCJAP00000004930 ENSCJAG00000002707	165	no_data	glycophorin A (MNS blood group)	Callithrix_jacchus	86B
+---------------------------------------------------MYGRIIFVL
+LLSVFIEEVRLSLADGDTEFVSMASSTNPHMEMKTP-GFLSPTENYL-------SS--ST
+ADKHKQSMYPIT-------AGADRVSESSGRNHLRPEQKNRQRQQLVHDFSEPV---ITL
+IIFGVMAVVIGKILFISYCIRRLRKKSSFDVQTPSS------------------------
+PDTDVPLSSVEIENPEKVDQ------------
+>ENSCATP00000025541 ENSCATG00000036237	162	no_data	glycophorin A (MNS blood group)	Cercocebus_atys	86B
+---------------------------------------------------MYGKIIFVL
+LLSEIVR---------------ISASSTTVPATHTS-TSSLVPESYV-------SL--QP
+NDKHTSDTHPTT-------PSAHEVSEFSGRTHYPPEEDNRERVQLVHEFSELV---IAL
+IIFGVMAGVIGTILFISYCIRRLRKKSPSDVQPLPP------------------------
+PDAEVPLSSVEIENPEETDQANLFTKPNEEGT
+>ENSCSAP00000014608 ENSCSAG00000003442	147	no_data	no_data	Chlorocebus_sabaeus	86B
+------------------------------------------------------SLSQLL
+FYTEIVS---------------ISASSTPVPAMHTS-ISSLGPESYV-------SS--QS
+NDKHKSDTHPTT-------PSAHEVLEFSGRTHYPPEEENRERVQLVHEFSELV---IAL
+IIFGVMAGVIGTILFISYGICRLRKKSPSDVQPLPP------------------------
+PDAEVPLSSVEIENPDTSHQ------------
+>ENSGGOP00000015168 ENSGGOG00000015552	148	GYPA	glycophorin A (MNS blood group)	Gorilla_gorilla	86B
+---------------------------------------------------MLDT--SFI
+TPQAIVS---------------ISAWSTTEVAMHTS-TSSSVTKSYI-------SS--QT
+NDKHKRDTYAAP-------PRAHEVSEISVTAVYPPEEYNGERGQLVHRFPEAE---ITL
+IIFGVMAGIIGTILLISYSIRRLIKKSPSDVKPRPS------------------------
+TDTDVPLSSVEIENPETSDQ------------
+>ENSP00000427690 ENSG00000250361	91	GYPB	glycophorin B (MNS blood group)	Homo_sapiens	86A
+---------------------------------------------------MYGKIIFVL
+LLSEIVS---------------ISALSTTEVAMHTS-TSSSVTKSYI-------SS--Q-
+--------------------------------------TNGETGQLVHRFTVPAPVVIIL
+IILCVMAGIIGTILLISYSIRRLIKA----------------------------------
+--------------------------------
+>ENSP00000354003 ENSG00000170180	150	GYPA	glycophorin A (MNS blood group)	Homo_sapiens	86B
+---------------------------------------------------MYGKIIFVL
+LLSEIVS---------------ISALSTTEVAMHTS-TSSSVTKSYI-------SS--QT
+NDTHKRDTYAAT-------PRAHEVSEISVRTVYPPEEETGERVQLAHHFSEPE---ITL
+IIFGVMAGVIGTILLISYGIRRLIKKSPSDVKPLPS------------------------
+PDTDVPLSSVEIENPETSDQ------------
+>ENSMMUP00000042461 ENSMMUG00000044429	162	no_data	glycophorin A (MNS blood group)	Macaca_mulatta	86B
+---------------------------------------------------MYGKIIFVL
+LLSEIVR---------------ISASSTTVPATHTS-TSSLGPESYV-------SS--QS
+NDKHTSDTHPTT-------PSAHEVSEFSGRTHYPPEEDNRERVQLVHEFSELV---IAL
+IIFGVMAGVIGTILFISYCIRRLRKKNQSDVQPLPP------------------------
+PDAEVPLSSVEIENPEETDQSNLFTKPNEERT
+>ENSMLEP00000011314 ENSMLEG00000029837	105	no_data	no_data	Mandrillus_leucophaeus	86B
+---------------------------------------------------MYGKIIFVL
+LLSEIVR---------------ISASSTTVPATHTS-TSSLVPESYV-------SL--QP
+----------------------------------------------------NV---ITL
+IIFGVMAGVIGTILFISYCIRRLRKKSPSDVQPLPP------------------------
+PDAEVPLSSVEIENPEETDQ------------
+>ENSPTRP00000054415 ENSPTRG00000034083	121	no_data	glycophorin-E1	Pan_troglodytes	86A
+---------------------------------------------------MYGKIIFVL
+LLSAIVS---------------ISASSTTGVAMHTS-TSSSVTKSYI-------SS--QI
+NDKHKRDTYPAH--------SVNEVSENSVTTVYPPEEENGERGQTVHPFSGPALVEKIL
+IILCPMAGVIGMILLIYYSIRRLIK-----------------------------------
+--------------------------------
+>ENSPTRP00000028288 ENSPTRG00000016478	149	GYPA	glycophorin A	Pan_troglodytes	86B
+---------------------------------------------------MYGKIIFVL
+LLSAIVS---------------ISASSTTEVAMHTS-TS-SVTKSYI-------SS--ET
+SDKHKWDIYPAT-------PRAHEVSEIYVTTVYPPEEENGEGVQLVHRFSEPE---ITL
+IIFGVMAGVIGTILLIYYSICRLIKKSPSDVKPLPS------------------------
+PDTDVPLSSVEIENPETSDQ------------
+>ENSPANP00000047161 ENSPANG00000021918	162	no_data	glycophorin A (MNS blood group)	Papio_anubis	86B
+---------------------------------------------------MYGKIIFVL
+LLSEIVR---------------ISASSTTVPATHTS-TSSLVPESYV-------SS--QS
+NDKHTSDTYPTT-------PSAHEVSGFSGRTHYPPEEDNRERVQLVHEFSELV---IAL
+IIFGVMAGVIGTILFISYCIRRLRKKSPSDVQPLPP------------------------
+PDAEVPLSSVEIENPEETDQSNLFTKPNEEGT
+>ENSPPYP00000016861 ENSPPYG00000015094	150	no_data	glycophorin A (MNS blood group)	Pongo_abelii	86B
+---------------------------------------------------MYEKIIFVL
+LLSEIVS---------------ISASNTTGEVMHTS-ISSSVTKSYI-------TP--QT
+NDKHKQDTYPAT-------PSAHEVSEISVITIHSPEEENGERGQLVHRFSEPV---ITL
+IVFGVMAGVIGTILLISYCIRRLRKQSPSDVQPLPS------------------------
+PDTDVPLSSVEIENPETIDQ------------
+>ENSTGEP00000015049 ENSTGEG00000012204	150	no_data	no_data	Theropithecus_gelada	86B
+---------------------------------------------------MYGKIIFVL
+LLSEIVR---------------ISASSTTVPATHTS-TSSLVPESYV-------SS--QS
+NDKHTSDTYPTT-------PSAHEVSGFSGRTHYPPEEDNRERVQLVHEFSELV---IAL
+IIFGVMAGVIGTILFISYCIRRLRKKSPSDVQPLPP------------------------
+PDAEVPLSSVEIENPEETDQ------------
+>ENSMUSP00000070836 ENSMUSG00000051839	168	Gypa	glycophorin A	Mus_musculus	86B
+---------------------------------------------------MTE------
+----STAAVT---TSGHSLTTTFHIPSSQHYQEEHS-PSLSGSDSLLQITTPVVASTVGN
+PNQHSATMSTPAIHVSTYHTAPTEVSAAFEEQPVSP-HIGGMPSPIQHDFPALV---MIL
+IILGVMAGIIGTILLISYCISRMTKKSSVDIQSPEG------------------------
+GDNSVPLSSIEQTPNEESSNV-----------
+>ENSTBEP00000008641 ENSTBEG00000009979	139	no_data	no_data	Tupaia_belangeri	86B
+---------------------------------------------------MYEKIIIAL
+LLSDIVCRDAT---------------EPPSAAT--------TAQNNL-------LL--QN
+-NNHRT--HTTS-------ICANKSSES-AVIAMHPGGEREPRKQIDHIFSEPX---XXX
+IVFAAMAGIIGTILLISYGISRLRKKSSFDVQTSFS------------------------
+QDKNVPLSSVETGNAENNNL------------

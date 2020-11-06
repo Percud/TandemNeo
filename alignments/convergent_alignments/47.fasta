@@ -1,0 +1,1980 @@
+>ENSATEP00000025565 ENSATEG00000017510	153	avp	vasotocin-neurophysin VT 1-like	Anabas_testudineus	47B
+--------------------------------------------------------MPHS
+-LSPLC-VLGLIA----LSSACYIQNCPRGGKRALPETG-IR------------------
+---------QCMPCGPG-----DRGRCFGPSICCGDGLGCLLGSPETAHCAEENYLLTPC
+QAGVRPCGS--DGGRCAISGLCCNS-----------------------------------
+------------------------ESCAVDSDCLGETEVSDSAH----G----SAGSSPA
+ELLLRLLHVATRGQT---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSBSLP00000003054 ENSBSLG00000001722	156	oxt	isotocin-neurophysin IT 1-like	Betta_splendens	47B
+--------------------------------------------------------MTAA
+-AVSLC-LLFLLS----VCSACYISNCPIGGKRSIMDAP-LR------------------
+---------RCMSCGPG-----DRGRCFGPGICCGDGFGCLLGSAETARCAEESYLLTPC
+QAGGRPCGA--EGGRCAAAGLCCDA-----------------------------------
+------------------------ESCATDQSCLAEEDGDEQS-----S--H-YEGGDPG
+DLILRLLHLAGHPS----------------PHQGHQ------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSORLP00000043817 ENSORLG00000022162	168	oxt	oxytocin/neurophysin I prepropeptide	Oryzias_latipes	47B
+------------M---------------SG-L-SVRRPHR------------QPAAMHPS
+-LLSLC-ALGFLA----LSSACYIQNCPRGGKRALPEAG-IR------------------
+---------QCMSCGPG-----ERGRCFGPSICCGEGFGCLLGSPESAQCVEENYLLTPC
+QTGGRPCGS--EGGRCAASGLCCNS-----------------------------------
+------------------------EGCVVDSDCLVETEVIDPSH----G----SARSSPA
+ELLLRLLHVASRGQN---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSGWIP00000016281 ENSGWIG00000009143	154	avp	oxytocin/neurophysin I prepropeptide	Gouania_willdenowi	47B
+--------------------------------------------------------MHHS
+-SLALS-VLGMLA----LSSACYIQNCPRGGKRALSDTG-IR------------------
+---------QCMSCGPG-----DRGHCFGPSICCGEGLGCLLGSPESANCVEENFLLTPC
+QAGGRACGS--EGGHCAASGLCCTS-----------------------------------
+------------------------ESCVVDNECVGDTVGMTGQD----R--G-SSRSSPT
+ELLIRLLHVATRGQN---------------QY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSSFAP00005052186 ENSSFAG00005025018	153	avp	vasotocin-neurophysin VT 1-like	Salarias_fasciatus	47B
+--------------------------------------------------------MPQS
+-WSPLC-VLGLLA----LSSACYIQNCPRGGKRALPDTA-VR------------------
+---------QCMSCGPG-----DRGHCFGPSICCGEGLGCLLGSPEAAHCVEENYLLTPC
+QAGGRPCGS--EGGRCAAPGLCCNS-----------------------------------
+------------------------ESCVVDSDCQPEENLSDLAH----S----SVRSSPT
+ELLLRLLHVATRGQN---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSENLP00000009748 ENSENLG00000004703	156	oxt	isotocin-neurophysin IT 1-like	Echeneis_naucrates	47B
+--------------------------------------------------------MTGA
+-AVSVC-LLFLLS----VCSACYISNCPIGGKRSIIDGP-LR------------------
+---------KCMSCGPG-----DRGRCFGPSICCGEGLGCLLGSPETAHCVEENYLLTPC
+QAGGRPCGS--EGGRCAASGLCCDA-----------------------------------
+------------------------ESCTTDQSCLAEEEGDDQT-----G--Q-FEGSDPG
+DILLRLLQLAGHTS----------------PHRMHQ------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSSDUP00000003273 ENSSDUG00000002499	153	avp	vasotocin-neurophysin VT 1-like	Seriola_dumerili	47B
+--------------------------------------------------------MPHS
+-LFPLC-VLGLLA----LSSACYIQNCPRGGKRALPETG-IR------------------
+---------QCMSCGPS-----DRGRCFGPSICCGEGLGCLLGSAETAHCVEENYLLTPC
+QAGGRPCGS--EGGRCAASGLCCSS-----------------------------------
+------------------------ESCAVDSDCLGETEASDPAH----S----SAGSSPA
+ELLLRLLHVASRGQT---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSAMXP00000042945 ENSAMXG00000043043	162	avp	arginine vasopressin	Astyanax_mexicanus	47B
+------------------------------------------------------MAMSES
+-SLAVC-VLCLLALS-ALSSACYIQNCPRGGKRSFPDSAVVR------------------
+---------QCMACGPG-----DRGRCFGPSICCAAELGCYVGSPEAASCVEENYLPSPC
+ESGGKACGS--EGGRCAAPGICCDS-----------------------------------
+------------------------ESCVLDPDCSEDSRYQRPAE--EST--G-LNSGSTG
+EMLLHLLNLATRGQR---------------QF----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPNAP00000003735 ENSPNAG00000010167	158	no_data	oxytocin-neurophysin 1-like	Pygocentrus_nattereri	47B
+----------------------------------------------------------MS
+-AHAQS-VLCLLCALLALSSACYIQNCPRGGKRSALDIDLLR------------------
+---------PCLACGPG-----GKGRCFGSSICCGEGLGCFMGSPETARCSEEDYLPSPC
+EAGRKPCGA--EEGHCAAPGVCCHS-----------------------------------
+------------------------GGCTLDPECTQESKAEEQAE--PNG--S-LLGTSRG
+ELLLRMLQSSR-ARN---------------PY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSACIP00000005530 ENSACIG00000004197	162	avp	arginine vasopressin	Amphilophus_citrinellus	47B
+--------------------------------------------------------MPHS
+-LFPMC-VLGLLA----LSSACYIQNCPRGGKRALPETG-IR------------------
+---------QCKSCGPG-----DKGRCFGPSICCGDGFGCLLSSPETAHCVEENYLLTPC
+QAGGRPCGS--EGGHCAASGLCCNS-----------------------------------
+------------------------ESCMVDADCLGETEATDPVH----G----FARSSPT
+ELLMRLLHVAARGQN---------------DPHRVKSIQPH-------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSACLP00000020405 ENSACLG00000013883	153	avp	vasotocin-neurophysin VT 1-like	Astatotilapia_calliptera	47B
+--------------------------------------------------------MPHS
+-LFPLC-VLGLLA----FSSACYIQNCPRGGKRALTETG-IR------------------
+---------QCKSCGPG-----DRGRCFGPSICCGDGFGCLLGSPETAHCVEENYLLTPC
+QAGGRSCGS--EGGHCAISGFCCNS-----------------------------------
+------------------------EGCMVDSDCVGETEATDPVH----G----SERSSPT
+ELLMRLLHVAARGQN---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSHBUP00000022937 ENSHBUG00000003494	153	avp	vasotocin-neurophysin VT 1-like	Haplochromis_burtoni	47B
+--------------------------------------------------------MPHS
+-LFPLC-VLGLLA----FSSACYIQNCPRGGKRALTETG-IR------------------
+---------QCKSCGPG-----DRGRCFGPSICCGDGFGCLLGSLETAHCVEENYLLTPC
+QAGGRSCGS--EGGHCAISGFCCNS-----------------------------------
+------------------------EGCMVDSDCLGETEATDPVH----G----SARSSPT
+ELLMRLLHVAARGQN---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMZEP00005010412 ENSMZEG00005007270	153	avp	vasotocin-neurophysin VT 1-like	Maylandia_zebra	47B
+--------------------------------------------------------MPHS
+-LFPLC-VLGLLA----FSSACYIQNCPRGGKRALTETG-IR------------------
+---------QCKSCGPG-----DRGRCFGPSICCGDGFGCLLGSPETAHCVEENYLLTPC
+QAGGRSCGS--EGGHCAISGFCCNS-----------------------------------
+------------------------EGCMVDSDCVGETEATDPVH----G----SERSSPT
+ELLMRLLHVAARGQN---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSNBRP00000019216 ENSNBRG00000014710	153	avp	vasotocin-neurophysin VT 1-like	Neolamprologus_brichardi	47B
+--------------------------------------------------------MPHS
+-LFPLC-VLGLLA----FSSACYIQNCPRGGKRALTETG-IR------------------
+---------QCKSCGPG-----DRGRCFGPSICCGDGFGCLLGSPETAHCVEENYLLTPC
+QAGGRSCGS--EGGHCAASGFCCNS-----------------------------------
+------------------------EGCMVDSDCLGESEATDPVH----G----SARCSPT
+ELLMRLLHVAARGQN---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSONIP00000019172 ENSONIG00000015235	156	oxt	oxytocin/neurophysin I prepropeptide	Oreochromis_niloticus	47B
+--------------------------------------------------------MTGA
+-AVSVC-LLFLLS----VCSACYISNCPIGGKRSIMDAP-LR------------------
+---------KCMSCGPG-----DRGRCFGPSICCGEGLGCLLGSPETAHCVEENYLLTPC
+QAGGRACGS--EGGRCAASGLCCDA-----------------------------------
+------------------------ESCATDQSCLIEEEGDEQT-----S--Q-FDGSDPG
+DIILRLLHLAGHSS----------------PHRVHQ------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPNYP00000021361 ENSPNYG00000016008	153	avp	vasotocin-neurophysin VT 1-like	Pundamilia_nyererei	47B
+--------------------------------------------------------MPHS
+-LFPLC-VLGLLA----FSSACYIQNCPRGGKRALTETG-IR------------------
+---------QCKSCGPG-----DRGRCFGPSICCGDGFGCLLGSPETAHCVEENYLLTPC
+QAGGRSCGS--EGGHCAISGFCCNS-----------------------------------
+------------------------EGCMVDSDCLGETEATDPVH----G----SARSSPT
+ELLMRLLHVAARGQN---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCHAP00000044405 ENSCHAG00000020623	158	no_data	vasotocin-neurophysin VT 1-like	Clupea_harengus	47B
+---------------------------------------------------------VPH
+-YTWPD-LLCVLGLL-SLSSACYIQNCPRGGKRSFPDQL-PR------------------
+---------QCMACGPG-----ERGRCFGPSICCGDEMGCYVGSPEAASCVEEDYLPSPC
+EAGGKPCGS--EDGHCAAPGICCDA-----------------------------------
+------------------------ESCVLDPACQEEGKSRPLSE--QNA--T-LMGPSPA
+EILLRILHASGRARS---------------QY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSDCDP00000041313 ENSDCDG00000026954	153	oxt	isotocin-neurophysin IT 2-like	Denticeps_clupeoides	47B
+----------------------------------------------------------MS
+-GAPVS-VFCLLCLL-SACTACYISNCPIGGKRAAQDFP-SR------------------
+---------QCLSCGPG-----DRGRCFGPSICCGEGLGCYMGSPETARCLEENFLPSPC
+EAGGKACGS--EDGHCAAPGICCDS-----------------------------------
+------------------------EGCTVDQSCLDGDNEND------------SQSENGK
+ELLMKLLHMSSHPH----------------PYRFHQ------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCARP00000105294 ENSCARG00000053965	155	avp	vasotocin-neurophysin VT 1-like	Carassius_auratus	47B
+--------------------------------------------------------MSDS
+-LLPAC-VLCLLALS-ALSSACYIQNCPRGGKRSPPE--PVR------------------
+---------QCPACGPG-----SQGRCFGPRICCGAALGCLLGSPETLSCVEENLQPGPC
+DTFGASCGA--R-GRCAAPGVCCDS-----------------------------------
+------------------------ESCVLDPDCPEDLGSLQTE---DGE----ALKGFSG
+EMLLRLLNLASRRQR---------------PF----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCCRP00000069022 ENSCCRG00000037187	145	avp	arginine vasopressin	Cyprinus_carpio	47B
+--------------------------------------------------------MSDS
+-LLPAC-VLCLLALS-ALSSACYIQNCPRGGKRSQPE--PVR------------------
+---------QCPACGPG-----NQGRCLGPSICCGAGLGCLLGSPETLSY----------
+-GRGWSCGG--PGAECAAPGVCCDS-----------------------------------
+------------------------ESCVLDPDCSEDVGSHQTE---DGV----ALKGVSG
+EMLLRLLNLATRRQR---------------PF----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSDARP00000123708 ENSDARG00000058567	151	avp	arginine vasopressin	Danio_rerio	47B
+------------------------------------------------------XEMSDS
+-LLSVC-VLCVLALS-TLSSACYIQNCPRGGKRSQPE--PIR------------------
+---------QCMSCGPG-----GVGRCFGPSICCGPGLGCVLGSPEAQVCMEEEQLSGPC
+ETGGTSCGD--RGGRCAAEGICCDS-----------------------------------
+------------------------ESCAVDPDCPEGS----------SA----GLKSISG
+ETLLRLLNLATRRQR---------------PF----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSSGRP00000036369 ENSSGRG00000020098	156	avp	vasotocin-neurophysin VT 1-like	Sinocyclocheilus_grahami	47B
+--------------------------------------------------------MSDS
+-LLPAC-VLSLLALS-ALSSACYIQNCPRGGKRSQPE--PVR------------------
+---------QCPACGPG-----NQGHCFGPSICCGAGLGCLLGSPDTLSCMEENLLPGPC
+ETDGTSCGA--PGGRCASPGVCCNS-----------------------------------
+------------------------ESCVLDPDCSEVVGSHQTE---DGV----GLKGVSG
+EMLLRLLNLATRRQR---------------PF----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCVAP00000031403 ENSCVAG00000020628	155	oxt	isotocin-neurophysin IT 1-like	Cyprinodon_variegatus	47B
+--------------------------------------------------------MSGS
+-AMFVG-LFFLLS----VCSACYISNCPIGGKRSIMDAP-LR------------------
+---------KCMSCGPG-----DRGRCFGPSICCGEGLGCLMGSPESAHCIEENYLLTPC
+QAGGRPCGS--EGGRCAASGLCCDA-----------------------------------
+------------------------ESCTADQMCLPEDDGDDQT-----S--Q-YEGGDPG
+DIILRLLHLASHSS----------------HR-SHQ------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSFHEP00000016848 ENSFHEG00000018743	163	avp	vasotocin-neurophysin VT 1-like	Fundulus_heteroclitus	47B
+--------------------------------------------------FPVSSAMHHS
+-MLPLC-VLGLLA----LSSACYIQNCPRGGKRALPEGG-IR------------------
+---------QCMPCGPG-----DRGRCFGPSICCGDGLGCLLGSAASAHCEEENYLLTPC
+QAGGRPCGP--EGGRCASSGLCCNS-----------------------------------
+------------------------EGCLLDSDCLGESDATDPAQ----S----SARSSPT
+DLLLRLLHVAKNGVN---------------KRRIMK------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSGAFP00000015639 ENSGAFG00000010566	155	oxt	oxytocin	Gambusia_affinis	47B
+--------------------------------------------------------MSGA
+-AVSVG-LLFLLS----VCSACYISNCPIGGKRSIMDAP-LR------------------
+---------KCMSCGPG-----DRGRCYGPSICCGEGIGCLMGSPESAHCVEENYLLTPC
+QAGGRACGS--EGGRCAAAGFCCDA-----------------------------------
+------------------------ESCTADQSCLPEDNGDDQS-----S--Q-FEGGDPT
+DIILRLLHLARHTS----------------HR-THQ------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSKMAP00000000273 ENSKMAG00000000261	153	avp	vasotocin-neurophysin VT 1-like	Kryptolebias_marmoratus	47B
+--------------------------------------------------------MQHS
+-LLPLS-VLGLLA----LSSACYIQNCPRGGKRALPEAA-TR------------------
+---------QCMSCGPG-----DRGRCFGPSICCGEGLGCLLGSAASGHCVEENYLLTPC
+QAGGRPCGS--EGGRCAASGLCCNS-----------------------------------
+------------------------EGCAVDPDCLGDTEATDSAQ----S----SARSSPT
+ELLLRLLHAASRGPN---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPREP00000023494 ENSPREG00000015860	138	avp	oxytocin/neurophysin I prepropeptide	Poecilia_reticulata	47B
+--------------------------------------------------------MHHS
+---LLC-VLGLLA----LSSACYIQNCPRGGKRALPEGG-VR------------------
+---------QCMPCGPG-----DRGRCFGPSICCGEGLGCLLGSAAAAHCEEENYLLTPC
+QPGGRPCGP--EGGHCASSGLCCNS-----------------------------------
+-------------------------------------DAADPAQ----S----SARSSPT
+DLLLRLLHVASRGQN---------------DY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSXMAP00000016040 ENSXMAG00000016007	171	avp	vasotocin-neurophysin VT 1-like	Xiphophorus_maculatus	47B
+-----------MI---------------GG-L-SVRHPHK-R-------RKSEAAAMHHS
+---LLC-VLGLLA----LSSACYIQNCPRGGKRALPEGG-VR------------------
+---------QCMPCGPG-----DRGRCFGPSICCGEGLGCLLGSAAAAHCEEENYLLTPC
+QPGGRPCGP--EGGHCASSGLCCNS-----------------------------------
+------------------------EGCMVDSDCLGETDAADPAQ----S----SARSSPT
+DLLLRLLHVASRGQN---------------DY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSELUP00000000862 ENSELUG00000002407	156	oxt	isotocin-neurophysin IT 2	Esox_lucius	47A
+--------------------------------------------------------MSGA
+-AVSVC-LLFLLS----LCSACYISNCPIGGKRSIMEAP-QR------------------
+---------KCMSCGPG-----EQGHCFGPSICCVEGLGCWMGTPETAHCLEENYLPTPC
+QAGGRPCGS--EAGRCAAQGFCCDS-----------------------------------
+------------------------EGCSADRSCLSDKEGDDFI-----S--Q-SEGSNSD
+NIIFRLRHLAAQSP----------------AHRIRQ------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSELUP00000001088 ENSELUG00000002611	158	avp	vasotocin-neurophysin VT 2	Esox_lucius	47B
+--------------------------------------------------------MTHF
+-ALPLC-VLGLIA----FSSACYIQNCPRGGKRALQDPS-IR------------------
+---------QCMTCGPG-----EQGHCFGPSICCVEGLGCWMGTPETAHCLEENYLNTPC
+QVGGRPCGS--EAGRCATPGFCCDS-----------------------------------
+------------------------ESCVVDQDCLGESSYHSPSPADQSI--A-ATKNSPG
+ELLLRLLHFATRRQS---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSGMOP00000008122 ENSGMOG00000007594	154	avp	vasotocin-neurophysin VT 1-like	Gadus_morhua	47B
+--------------------------------------------------------MPSS
+-VFPLC-VLGLLA----LSSACYIQNCPRGGKRALADGE-LR------------------
+---------QCMPCGPG-----DRGRCFGPNICCGQEFGCLLGSPGIAQCVEENYLLTPC
+QAGGNPCGS--KGGRCAASGLCCNA-----------------------------------
+------------------------ESCAVSSECLEELQPAEPHG----S--T-GNGNSPA
+ELLLRLLHVATRGQT---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSNMLP00000038556 ENSNMLG00000023779	151	avp	arginine vasopressin	Neogobius_melanostomus	47B
+------------------------------------------------------KMMSLS
+-MLPLC-VLGLLA----LSSACYIQNCPRGGKRALADTS-LR------------------
+---------QCMACGPG-----ERGRCFGPGICCGESLGCLMGSPEASHCAEENYLLTPC
+QSGGRPCGS--EEGRCAASGLCCNS-----------------------------------
+------------------------ESCVLDSDCLVDSKSSEG------------PHSSPA
+ELLLRLLHITSRTQT---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPMGP00000021293 ENSPMGG00000017146	153	avp	arginine vasopressin	Periophthalmus_magnuspinnatus	47B
+----------------------------------------------------VSVCMPHS
+-MLSLC-VLGLIA----LSSACYIQNCPRGGKRALQDPS-LR------------------
+---------QCMSCGPG-----ERGRCFGPSICCGEGLGCLMGSPETAHCVEENYLLTPC
+QSGGRPCGS--EGGRCAASGLCCDT-----------------------------------
+------------------------ESCVLDSDCLVDSESTEG------------AHSSPA
+ELLLRLLHIASRTQT---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSEEEP00000036096 ENSEEEG00000017170	154	no_data	vasotocin-neurophysin VT 2-like	Electrophorus_electricus	47B
+----------------------------------------------------------MT
+-LSTLS-VLCAL-GLLGLSPACYIQNCPRGGKRSFPD-AVPR------------------
+---------QCLACGPA-----DKGQCFGPSICCGESIGCLVGSPASARCVEEDYLPSPC
+ESRGKACGA--EEGRCAAPGVCCHA-----------------------------------
+------------------------DGCTLDPDCMEENKREDDEQ--NR---G-LTG-PSR
+ELLLRMLNFNR-ARS---------------PY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMMDP00005035082 ENSMMDG00005016482	153	avp	vasotocin-neurophysin VT 1-like	Myripristis_murdjan	47B
+--------------------------------------------------------MPHS
+-VFPLC-VLGLLA----LSSACYIQNCPRGGKRALPETG-LR------------------
+---------QCMPCGPG-----DRGRCFGPSICCGEGLGCLLGSPETAHCVEENYLLTPC
+QAGGRPCGS--EGGRCAASGLCCDA-----------------------------------
+------------------------ESCAVDSDCLVETEDVAHSS----P----VSGSSPA
+ELLLRLLHVATRGQT---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSSORP00005015315 ENSSORG00005007776	153	avp	vasotocin-neurophysin VT 1-like	Sphaeramia_orbicularis	47B
+--------------------------------------------------------MSHS
+-MLPLC-VLGFIA----LSSACYIQNCPRGGKRALPETG-IR------------------
+---------QCMSCGPG-----DRGRCFGPSICCAEGLGCLMGSPETAHCVEENYLFTPC
+QAGGRSCGS--EGGHCAASGLCCNS-----------------------------------
+------------------------ESCVVDSDCLGEAEASEPAH----S----SVGSLPA
+DLLLRLLHVASRGQT---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSLBEP00000024569 ENSLBEG00000018613	160	avp	vasotocin-neurophysin VT 1-like	Labrus_bergylta	47B
+-------------------------------------MST------------SLITMPNS
+-VIPLC-VLGLLA----LSSACYIQNCPRGGKRALPETG-IR------------------
+---------QCMSCGPR-----DRGRCFGPSICCGEGLGCLLGSPETAHCVEENYLLTPC
+QAGGRPCGS--EGGRCAASGVCCNS-----------------------------------
+------------------------ESCVVDSDCLGGIEASDPAD----N----HAGSSAA
+DMLLRLLHVANRGQT---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPKIP00000000266 ENSPKIG00000019004	156	avp	vasotocin-neurophysin VT 1-like	Paramormyrops_kingsleyae	47B
+--------------------------------------------------------MPDS
+-AL----LLIMLSLL-TLSSACYIQNCPRGGKRSFPDPD-LR------------------
+---------QCSTCGPG-----ARGRCFGPSICCGEGMGCYVGSPETVRCLEENYLPSPC
+EAGGKVCGT--EGGRCAASGICCDT-----------------------------------
+------------------------DGCALDADCLDDMRQQPSPE--ESS--L-SMGSAPE
+ELLLRLLHMTSRGKS---------------QY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSSFOP00015046875 ENSSFOG00015007848	183	avp	vasotocin-neurophysin VT 2-like	Scleropages_formosus	47B
+-----------ML---------------RG-RQSPRRLCR-RTKARTPTTAFAAAAMPES
+-AL----PLLLLSLL-AFSSACYIQNCPRGGKRSFPDTA-LR------------------
+---------QCLACGPG-----AKGRCFGPSICCGEGMGCYMSSPETARCLEENFLPSPC
+EAGGKVCGA--EGGRCAAPGVCCDT-----------------------------------
+------------------------EGCVLDPDCMEDTRHQLSAE--NHS--S-QIKGSPE
+ELLLNLLHMATRGQN---------------Q-----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCGOP00000049020 ENSCGOG00000021849	153	oxt	vasotocin-neurophysin VT 1-like	Cottoperca_gobio	47B
+--------------------------------------------------------MTGA
+-AVSMC-LLFLLS----VCSACYISNCPIGGKRSIMDAP-LR------------------
+---------KCMSCGPG-----DRGRCFGPSICCGEGLGCLLGAPETAHCVEENYLLTPC
+LAGGRPCGS--DGGRCAASGLCCNS-----------------------------------
+------------------------ESCTVEPDCLGETEASDPAH----G----SAVSSPA
+ELLLRLLHVATRGQT---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSGACP00000008848 ENSGACG00000006670	153	avp	arginine vasopressin	Gasterosteus_aculeatus	47B
+--------------------------------------------------------MPHS
+-SFPLC-VLGLLA----ISSACYIQNCPRGGKRALPETG-IR------------------
+---------QCMSCGPG-----DRGRCFGPSICCGEGLGCLLGSSEMANCVEENYLLTPC
+QAGGRPCGS--DGGHCAASGLCCNS-----------------------------------
+------------------------ESCAVDPDCLGEIEASDPGR----G----TAGASAA
+ELLLRMLHVATRGQA---------------EH----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCSEP00000027828 ENSCSEG00000017786	150	avp	vasotocin-neurophysin VT 1-like	Cynoglossus_semilaevis	47B
+--------------------------------------------------------MPYS
+-LLPLC-LLGLLT----VSSACYIQNCPRGGKRALTETG-VR------------------
+---------QCMSCGPG-----DRGHCFGPSICCGESFGCILGSTETAHCMEENYLLSPC
+QAGGRPCGS--EGGRCAVSGLCCDS-----------------------------------
+------------------------ESCTVDNDCVGDAEASDPGH----------AGSSPV
+ELLLRLLHVN-RGQA---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSSMAP00000005500 ENSSMAG00000003395	174	oxt	oxytocin	Scophthalmus_maximus	47B
+-------------------------------------MTV-SVFPPVCRSFTLSVEMTGA
+-AVSVC-LLFLMS----LCSACYISNCPIGGKRSIMDAP-QR------------------
+---------KCMSCGPG-----DRGRCFGPSICCGEGLGCLMGSPETAHCMEENYLLTPC
+QAGGRPCGS--EGGRCAASGLCCDA-----------------------------------
+------------------------ESCTADQSCLIEEEGDYQT-----G--Q-FEGSDPG
+DIILRLLHLASHTS----------------PHQIHQ------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSHHUP00000033554 ENSHHUG00000021186	156	avp	arginine vasopressin	Hucho_hucho	47B
+--------------------------------------------------------MPHS
+-AILLC-VIGLLA----FSSACYIQNCPRGGKRALQDTG-IR------------------
+---------QCMTCGPG-----DQGRCFGPSICCGEGLGCWMGSSETARCFEENYLPTPC
+QTGGRPCGS--EAGHCAAPGVCCDS-----------------------------------
+------------------------ESCALDPDCLGESRYHSPA--DHNT--G-ATRDSQE
+ELLLRLLHFATGGQS---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSOTSP00005020748 ENSOTSG00005010056	153	no_data	vasotocin-neurophysin VT 1	Oncorhynchus_tshawytscha	47B
+----------------------------------------------------------MP
+-YSTFP-LLWVLGLL-ALSSACYIQNCPRGGKRSFPD-L-PR------------------
+---------QCMSCGPG-----DRGRCFGPNICCGEGMGCYMGSPEAAGCVEENYLPSPC
+EAGGRVCGS--E-GSCAASGVCCDS-----------------------------------
+------------------------ESCVLDPDCLEDSKRQSPSE--QNA--A-LMGGLAG
+D-LLRILHATSRGRP---------------Q-----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSSTUP00000049789 ENSSTUG00000021052	155	avp	vasotocin-neurophysin VT 2	Salmo_trutta	47B
+--------------------------------------------------------MPHS
+-TLLLC-VIGLLA----FSSACYIQNCPRGGKRALPDTG-SR------------------
+---------QCMTCGPG-----DQGRCFGPSICCGEGLGCWMGSSETARCFEENYLPTPC
+QTGGRPCGS--DAGHCAATGVCCDS-----------------------------------
+------------------------ESCVLDPDCLGESRYHSPA--DHSA--G-ARSGSPE
+ELLLRQLHFATRGQS---------------E-----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSLOCP00000001307 ENSLOCG00000001161	132	no_data	no_data	Lepisosteus_oculatus	47B
+--------------------------------------------------------VKWS
+-MFRPS-VLGLLS----LSSACFISNCPLGGKRAVPDLG--H------------------
+---------GHRQCGPE-----DRGRCFGPSICCGEELGCYVGTPETARCLEENYLPSPC
+EAGGRACGA--EGGRCAAPGVCCDE-----------------------------------
+------------------------ESCTIDDSCLEGEGVPRGSGQGQST-----------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSIPUP00000022472 ENSIPUG00000015242	151	oxt	isotocin-neurophysin IT 1-like	Ictalurus_punctatus	47B
+----------------------------------------------------------MS
+-AAPLS-VFCLLCLL-SICTACYISNCPIGGKRAVQDIP-TR------------------
+---------QCMACGPG-----DKGRCFGPNICCGEEIGCMVGTLEAMRCLEEDYVPSPC
+ETGGKTCGS--VAGRCAAPGVCCDS-----------------------------------
+------------------------ESCTTDPSCLEGEGDAAAH----------SLPASGK
+DLLLKLLHWTNY-R----------------PYQ---------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSSAUP00010018284 ENSSAUG00010008261	156	pro-VT	isotocin-neurophysin IT 1-like	Sparus_aurata	47B
+--------------------------------------------------------MTGA
+-AVSVC-LVFLLS----VCSACYISNCPIGGKRSIMDAP-LR------------------
+---------KCMSCGPG-----DRGRCFGPSICCGEGLGCLLGSPETAHCVEENYLLTPC
+QAGGRPCGS--EGGRCAASGLCCDA-----------------------------------
+------------------------ESCTTDQSCLIEEEGDDQS-----S--Q-FEGGDTG
+DIILRLLHLAGHTS----------------PHRIHQ------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMAMP00000030724 ENSMAMG00000020712	153	avp	vasotocin-neurophysin VT 1-like	Mastacembelus_armatus	47B
+--------------------------------------------------------MPHS
+-LFPMC-VLGLIA----LSSSCYIQNCPRGGKRALPETG-IR------------------
+---------QCMSCGPG-----DRGRCFGPSICCGEGLGCLLSSPETAHCVEENYLLTPC
+QAGGKPCGS--DGGRCAAAGLCCNS-----------------------------------
+------------------------ENCAVDSDCLGETEASDPAH----G----SAGSSPT
+ELLLRLLHVATRGQT---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMALP00000025725 ENSMALG00000017898	156	oxt	isotocin-neurophysin IT 1-like	Monopterus_albus	47B
+--------------------------------------------------------MSGA
+-AASVC-LLFLLS----VCSACYISNCPIGGKRSIIDAP-LR------------------
+---------KCMSCGPG-----DRGRCFGPSICCGEGLGCLLGSSETAHCVKENYLLTPC
+QAGGRPCGS--DGGRCAASGLCCDA-----------------------------------
+------------------------ESCTTDQTCLTEEEGDDQT-----S--Q-PEGSGPT
+DLILRLLRLAGHTS----------------PLRLRQ------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSHCOP00000002412 ENSHCOG00000003618	158	avp	oxytocin/neurophysin I prepropeptide	Hippocampus_comes	47B
+-------------------------------------------------------MARSS
+-ALPRC-VLGLLALSIALSSACYIQNCPRGGKRALAETA-LR------------------
+---------QCMSCGPG-----EKGRCYGPNICCVEGFGCLLGSSETTQCVEENYLLTPC
+QAGGRPCGL--EGGRCAASGLCCNS-----------------------------------
+------------------------ESCSVDSSCLGEVDTKNPAE----T----SAGSSPA
+ELLLRLLHVATRGQT---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMMOP00000001321 ENSMMOG00000000380	153	avp	arginine vasopressin	Mola_mola	47B
+-----------------------------------------------------FTMPPHS
+-LLLLC-ALGLLA----LSSACYIQNCPRGGKRALPETG-IR------------------
+---------QCMSCGPR-----DRGRCFGPSICCGEGLGCLLGSPETAHCVEENYLLTPC
+QAGGRPCGS--EGGRCAVSGLCCNS-----------------------------------
+------------------------ESCVVDSDCLAEGEASDSS-----------TMSSPS
+ELLLRLLHVATRGQT---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSTRUP00000039963 ENSTRUG00000015631	155	oxt	isotocin-neurophysin IT 1	Takifugu_rubripes	47B
+--------------------------------------------------------MTGT
+-AISVC-LLFLLS----VCSACYISNCPIGGKRSIMDAP-QR------------------
+---------KCMSCGPG-----DRGRCFGPGICCGESFGCLMGSPESARCAEENYLLTPC
+QAGGRSCGS--EGGRCASSGLCCDA-----------------------------------
+------------------------ESCTMDQSCLSEEEGDERG-----S--L-FDGSDSG
+DVILKLLRLAGLTS----------------PHQTH-------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSTNIP00000019783 ENSTNIG00000016676	152	avp	arginine vasopressin	Tetraodon_nigroviridis	47B
+--------------------------------------------------------MPRF
+-ALLLS-LLGLLS----LSSACYIQNCPRGGKRALPETG-TR------------------
+---------QCLSCGPR-----DRGRCFGPGICCGEGLGCLMGSPETARCAEENYLLTPC
+QPGGRACGP--EGGRCAVSGLCCNS-----------------------------------
+------------------------ESCMVDPDCLEP-EALEPGD----S----LAAGSPA
+ELLLRLLHVSSRGQP---------------EY----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSBTAP00000010554 ENSBTAG00000008026	125	OXT	oxytocin/neurophysin I prepropeptide	Bos_taurus	47A
+--------------------------------------------------------MAGS
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAVLDLDVR-------------------
+---------TCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGICCSP-----------------------------------
+------------------------DGCHEDPACDPEA----AFSQH--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCHIP00000017989 ENSCHIG00000017609	125	OXT	oxytocin/neurophysin I prepropeptide	Capra_hircus	47A
+--------------------------------------------------------MAGS
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAVLDLDVR-------------------
+---------TCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGICCSP-----------------------------------
+------------------------DGCHADPACDPEA----AFSQH--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCHIP00000006784 ENSCHIG00000010500	167	AVP	arginine vasopressin	Capra_hircus	47B
+-------------------------------------------------------MMP-D
+ATLPAC-FLGLLA----FTSACYFQNCPRGGKRAMSDLELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGICCND-----------------------------------
+------------------------ESCVTEPECREGIGFPRRVRASDRS-NATLLDGPSG
+ALLLRLVQL---------------AAAPEPAEPAQPGVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCWAP00000017012 ENSCWAG00000013142	125	OXT	oxytocin/neurophysin I prepropeptide	Catagonus_wagneri	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAVLDLDVR-------------------
+---------KCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGICCSP-----------------------------------
+------------------------DGCRVDPACDPEA----TFSQR--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCWAP00000017060 ENSCWAG00000013171	166	AVP	arginine vasopressin	Catagonus_wagneri	47B
+--------------------------------------------------------MP-D
+ATLPAC-FLGLLA----LTSACYFQNCPRGGKRAMSDLELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGICCND-----------------------------------
+------------------------ESCVTEPECREGAGFPRRARASDRS-NATLLDGPSR
+ALLLRLVQL---------------AGAPEPAEPAQPGVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSDLEP00000020352 ENSDLEG00000014822	125	OXT	oxytocin/neurophysin I prepropeptide	Delphinapterus_leucas	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAVLDLDVR-------------------
+---------KCLPCGPG-----GKGRCFGPSICCGDELGCLVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGICCSP-----------------------------------
+------------------------DGCRGDPACDPEA----AFSQL--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSDLEP00000020364 ENSDLEG00000014830	166	AVP	arginine vasopressin	Delphinapterus_leucas	47B
+--------------------------------------------------------MP-D
+ATLPAC-FLGLLA----FTSACYFQNCPRGGKRATSDLELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCGDELGCLVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGICCND-----------------------------------
+------------------------EGCVTEPECREGASFPRRARASDLS-NTTLLDGPSG
+ALLLRLVQL---------------AGAPEPAEPAQPGVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMMSP00000007581 ENSMMSG00000005907	125	OXT	oxytocin/neurophysin I prepropeptide	Moschus_moschiferus	47A
+--------------------------------------------------------MAGS
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAVLDLDVR-------------------
+---------TCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGICCSP-----------------------------------
+------------------------DGCRADPACDPEA----AFSQH--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMMSP00000007609 ENSMMSG00000005924	166	AVP	arginine vasopressin	Moschus_moschiferus	47B
+--------------------------------------------------------MP-D
+ATLPAC-FLGLLA----FTSACYFQNCPRGGKRAMSDLELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGICCND-----------------------------------
+------------------------ESCVTEPECREGIGFPRRVRASDRS-NATLLDGPSR
+ALLLRLVQL---------------AGAPEPAEPAQPGVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSOARP00000004918 ENSOARG00000004595	107	OXT	oxytocin/neurophysin I prepropeptide	Ovis_aries	47A
+--------------------------------------------------------MAGS
+-SLACC-LLGLLA----LTSACYIQNCX--------------------------------
+--------------GPG-----GKGRCFGPSICCGDELGCFVGTAEALRCREENYLPSPC
+QSGQKPCGS---GGRCAAAGICCSP-----------------------------------
+------------------------DGCHADPACDPEA----AFSQH--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPCTP00005009226 ENSPCTG00005006517	125	OXT	oxytocin/neurophysin I prepropeptide	Physeter_catodon	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAVLDLDVR-------------------
+---------KCLPCGPG-----GKGRCFGPSICCGDELGCLVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGICCSP-----------------------------------
+------------------------DGCRGDPACDPEA----AFSQL--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPCTP00005009250 ENSPCTG00005006538	166	AVP	arginine vasopressin	Physeter_catodon	47B
+--------------------------------------------------------MP-D
+ATLPAF-FLGLLA----FTSACYFQNCPRGGKRATSDLELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCGDELGCLVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGICCND-----------------------------------
+------------------------ESCVTEPECREGASFPRRARASDLS-NATLLDGPSG
+ALLLRLVQL---------------AGAPGPAEPAQPGVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSSSCP00000007626 ENSSSCG00000007164	125	OXT	oxytocin/neurophysin I prepropeptide	Sus_scrofa	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAVLDLDVR-------------------
+---------KCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---EGRCAAAGICCNP-----------------------------------
+------------------------DGCRFDPACDPEA----TFSQR--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSSSCP00000007625 ENSSSCG00000007163	217	AVP	arginine vasopressin	Sus_scrofa	47B
+--------------------------------------------------------MP-D
+ATLPAC-FLGLLA----LTSACYFQNCPKGGKRAMSDLELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGICCNDGKRPGPGRVGRWVSWGP----GM---GWSGGQSGS
+G-EELVVWALSCAPAPHAESVLSAESCVTEPECREGASFLRRARASDRS-NATLLDGPSG
+ALLLRLVQL---------------AGAPEPAEPVQPGVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSTTRP00000011342 ENSTTRG00000011964	85	OXT	oxytocin/neurophysin I prepropeptide	Tursiops_truncatus	47A
+------------------------------------------------------------
+------------------------------------------------------------
+----------CLPCGPG-----GKGRCFGPSICCGDELGCLVGTAETLRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGICCSP-----------------------------------
+------------------------DGCRGDPACDPEA----AFSQL--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSAMEP00000011643 ENSAMEG00000011075	99	AVP	arginine vasopressin	Ailuropoda_melanoleuca	47B
+--------------------------------------------------------MPAT
+-VLPAC-FLGLLA----FTSACYFQNCPRGGKRAMSDLELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGHQPCGS---GGRCA-------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCAFP00000048730 ENSCAFG00000006437	251	OXT	oxytocin/neurophysin I prepropeptide	Canis_lupus_familiaris	47A
+MRGRAGRPGPDPQRPAVTSHAAALLGRPRPAGPGHKKAGRAPPPPQPPAATPRARTMAGP
+-GLACC-LLGLLA----LTSACYIQNCPLGGKRAALDLDVR-------------------
+---------QCLPCGPG-----GQGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGRTPCGS---GGRCAAAGICCSPGELAPGRAREGAPGHR----------AGGRGRGRG
+R--AP--------AGRTLIRRLSSQTA-AAPT----P----PATPTPP--------SPSA
+ELIAEVVNTIKQSF-----------------PPNSTGVLVSEMGGRA-------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCAFP00000061071 ENSCAFG00000006432	211	AVP	arginine vasopressin	Canis_lupus_familiaris	47B
+--------------------------------------------------------MPDT
+MLLPAC-FLGLLA----FTSACYFQNCPRGGKRAMSDLELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGRTPCGS---GGRCAAAGICCNDGGWPGVRA--GARGWRARRPPGAGGXXXXGGRLGS
+-------------RPRRVQPVAPAESCVTEPESREGAGLHRGARASDRS-NATQLDGPTG
+ALLLRLVQL---------------AGAPEPAEPAPPGVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSFCAP00000024172 ENSFCAG00000026996	125	OXT	oxytocin/neurophysin I prepropeptide	Felis_catus	47A
+--------------------------------------------------------MAGS
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAALDLDVR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGHKPCGS---GGRCAAAGICCND-----------------------------------
+------------------------DGCRADPACDAEA----AFSQR--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSFCAP00000027829 ENSFCAG00000046132	166	AVP	arginine vasopressin	Felis_catus	47B
+--------------------------------------------------------MPDT
+-MLPAC-FLGLLA----FTSACYFQNCPRGGKRAMSDLELR-------------------
+---------QCLPCGPE-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGHKPCGS---GGRCAAAGICCND-----------------------------------
+------------------------ESCVTEPECREGAGFHRRARASDRS-NGTQLDGSTG
+ALLLRLVQL---------------AGAPEPAEPAAPGVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSLCNP00005031959 ENSLCNG00005020817	125	OXT	oxytocin/neurophysin I prepropeptide	Lynx_canadensis	47A
+--------------------------------------------------------MAGS
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAALDLDVR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGHKPCGS---GGRCAAAGICCSP-----------------------------------
+------------------------DGCRADPACDAEA----AFSQR--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSLCNP00005031976 ENSLCNG00005020833	166	AVP	arginine vasopressin	Lynx_canadensis	47B
+--------------------------------------------------------MPDT
+-MLPAC-FLGLLA----FTSACYFQNCPRGGKRAMSDLELR-------------------
+---------QCLPCGPE-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGHKPCGS---GGRCAAAGICCND-----------------------------------
+------------------------ESCVTEPECREGAGFHRRARASDRS-NGTQLDGSTG
+ALLLRLVQL---------------AGAPEPAEPAAPGVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMPUP00000008902 ENSMPUG00000008974	125	OXT	oxytocin/neurophysin I prepropeptide	Mustela_putorius_furo	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAALDLDVR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCGDELGCFVGTNEALRCQEENYLPSPC
+QSGHQPCGS---GGRCAAAGICCSP-----------------------------------
+------------------------DGCRADPACDPEA----AFSQR--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMPUP00000008872 ENSMPUG00000008942	170	AVP	arginine vasopressin	Mustela_putorius_furo	47B
+----------------------------------------------------TCARMPDA
+-MLPAC-FLGLLA----FTSACYFQNCPRGGKRALSDLELR-------------------
+---------QCLPLGPG-----GKCRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGHQPCGS---GGRCAAAGICCND-----------------------------------
+------------------------ESCVTDPECRGGSGFHRRARASDRS-NATELDGPTG
+ALLLRLVQL---------------AGAPEPAEPARPGVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSNVIP00000025710 ENSNVIG00000019896	125	OXT	oxytocin/neurophysin I prepropeptide	Neovison_vison	47A
+--------------------------------------------------------MAGP
+-GLACC-LLGLLA----LTSACYIQNCPLGGKRAALDLDVR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGHQPCGS---GGRCAAAGICCSP-----------------------------------
+------------------------DGCRADPACDPEA----AFSQG--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPLOP00000003837 ENSPLOG00000002759	125	OXT	oxytocin/neurophysin I prepropeptide	Panthera_leo	47A
+--------------------------------------------------------MAGS
+-GLACC-LLGLLA----LTSACYIQNCPLGGKRAALDLDVR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGHKPCGS---GGRCAAAGICCSP-----------------------------------
+------------------------DGCRADPACDAEA----AFSQR--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPLOP00000003797 ENSPLOG00000002739	166	AVP	arginine vasopressin	Panthera_leo	47B
+--------------------------------------------------------MPDT
+-MLSAC-FLGLLA----FTSACYFQNCPRGGKRAMSDLELR-------------------
+---------QCLPCGPE-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGHKPCGS---GGRCAAAGICCND-----------------------------------
+------------------------ESCVTEPECREGAGFHRRARASDRS-NGTQLDGSTG
+ALLLRLVQL---------------AGAPEPAEPAAPGVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSSSUP00005017892 ENSSSUG00005011540	166	AVP	arginine vasopressin	Suricata_suricatta	47B
+--------------------------------------------------------MPDT
+-MLPAC-FLGLLA----FTSACYFQNCPRGGKRSMSDLELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCGDELGCFVGTVEALRCQEENYLPSPC
+QSGHKPCGS---GGRCAAAGICCND-----------------------------------
+------------------------ESCVTEPECREGTGFHRRARASDRS-NGTQLDGPTG
+ALLLRLVQL---------------AGAPEPAEPASPGVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSVVUP00000035352 ENSVVUG00000025434	229	no_data	no_data	Vulpes_vulpes	47B
+--------------------------------------------------------MPDT
+MLLPAC-FLGLLA----FTSACYFQNCPRGGKRAMSDLELR-------------------
+---------QCLPCGPG-----GQGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGRTPCGS---GGRCAAAGVCCSPGELGPGRAREGAPGHXXXXXXXXXXXXXXXXXXXX
+-------------XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-XXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPSLQK--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPVAP00000000301 ENSPVAG00000000327	95	OXT	oxytocin/neurophysin I prepropeptide	Pteropus_vampyrus	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAALDLDVR-------------------
+---------KCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---G-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPVAP00000013387 ENSPVAG00000014205	182	AVP	arginine vasopressin	Pteropus_vampyrus	47B
+--------------------------------------------------------MPN-
+AMLPAC-FLSLLA----FTAACYFQNCPRGGKRAMSDLELR-------------------
+---------QCLPCGR------GKGRCFVPSICCGDELG-FVGTAEAVR-QEEKYLPSPC
+QSGQKPCVS---GGRCAAAGICCND-----------------------------------
+------------------------ESCVTEPECREGAGFHRRTRASDPS-NATQLDGQTE
+ALLMRLVQL---------------AGAPEPRPASIE----------P------RRPPA--
+------LAARKI------NLLKCM---GWCL-----------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSRFEP00010023572 ENSRFEG00010015751	125	OXT	oxytocin/neurophysin I prepropeptide	Rhinolophus_ferrumequinum	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAALDLDVR-------------------
+---------KCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAASGICCSP-----------------------------------
+------------------------DGCRADPACDPEA----AFSQR--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSRFEP00010023651 ENSRFEG00010015809	163	AVP	arginine vasopressin	Rhinolophus_ferrumequinum	47B
+--------------------------------------------------------MPDT
+-VLPAC-FFSLLA----FTSACYFQNCPRGGKRAMSDLELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAASGICCND-----------------------------------
+------------------------ESCVTEPECREGVGFQRRARGSDRS-NATLLDPPTE
+ALLLRLVQL---------------AGAPEPAA---PGVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSDNOP00000021688 ENSDNOG00000048281	84	no_data	no_data	Dasypus_novemcinctus	47B
+--------------------------------------------------------MPDS
+-ALPAC-VLGLLA----LTSACYFQNCPRGGRRAAADLELR-------------------
+---------QCLPCGPA-----GRGRCFGPSICCAAELGCFVGTAEALRCQDESRLPSP-
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSSHAP00000000582 ENSSHAG00000000520	128	no_data	no_data	Sarcophilus_harrisii	47B
+------------------------------------------------------------
+------------------------------------------------------------
+---------QCLPCGPG-----SKGRCFGPNICCEEELGCYMGTSESLRCQEENYLLSPC
+QSGQKPCGN---GGRCAAPEICCNA-----------------------------------
+------------------------ESCMVEPACREEAGSQRRARASEKS--NGTLDGPAS
+AFLLRLVQMAGQQMGR-------------PLLPIFPEIY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMODP00000006710 ENSMODG00000005441	170	no_data	oxytocin-neurophysin 1-like	Monodelphis_domestica	47B
+--------------------------------------------------------MPGT
+-ALPAC-FFCLLA----FTSACYFQNCPRGGKRGLADTELR-------------------
+---------QCLPCGPG-----SKGRCFGPSICCGEELGCYMGTAESLRCQEESYLPSPC
+QSGQKPCGN---GGRCAAPGICCND-----------------------------------
+------------------------ENCMMEPACRDEADSRRRARASEKS-NETQLDGPAS
+AFLLRLVQLAGQQMSELQS---------QP--QEEEVTY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMEUP00000006992 ENSMEUG00000007660	124	no_data	no_data	Notamacropus_eugenii	47A
+--------------------------------------------------------RSHP
+-GLACCYLLALLA----LASACYIQNCPIGGKRSVLDVDVR-------------------
+---------KCLPCGPG-----SKGRCFGPSICCGEELGCYLGTTESLRCQEESYLSSPC
+QSGQKPCGN---GGRCAASGICCSN-----------------------------------
+------------------------DGCGLDPLCDQEA----TFS----------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMEUP00000000127 ENSMEUG00000000143	107	no_data	no_data	Notamacropus_eugenii	47B
+--------------------------------------------------------MPDA
+-RLLAC-FLCLVT----FTSACYFQNCPKGGKRSLSDTEMR-------------------
+---------QCLTCGPR-----SKGRCFGPSICCGDELGCYMGTAESLRCQEESYLPSPC
+QSGQKPCGN---GGHCAAAGICCNA-----------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPCIP00000000579 ENSPCIG00000033226	136	no_data	no_data	Phascolarctos_cinereus	47A
+--------------------------------------------MGSPGSLPGLSPRSHP
+-GLACCYLLALLA----LASACYIQNCPIGGKRSALDMDVR-------------------
+---------KCLPCGPG-----SKGRCFGPSICCGEELGCYMGTAESLRCQEENYLPSPC
+QSGQKPCGS---GGRCAASGICCSS-----------------------------------
+------------------------DGCGLDPACDQEP----AFS----------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPCIP00000000589 ENSPCIG00000000490	170	no_data	no_data	Phascolarctos_cinereus	47B
+--------------------------------------------------------MPDT
+-TLPAC-FFCLLA----FTSACYFQNCPRGGKRGLPDTELR-------------------
+---------QCLPCGPG-----SKGRCFGPGICCGEELGCYMGTAESLRCQEESYLPSPC
+QSGQKPCGN---GGRCAAAGICCND-----------------------------------
+------------------------ESCIMEPACREEAGSRRRVRASEKS-NGTQLDGPAS
+AFLLRLVQLAGQQMGERQP---------QP--QEEEVAY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSVURP00010025918 ENSVURG00010019858	136	no_data	no_data	Vombatus_ursinus	47A
+--------------------------------------------MGSPGSLPGLAPRPRP
+-GLACCYLLALLA----LASACYIQNCPIGGKRSTLDMDVR-------------------
+---------KCLPCGPG-----SKGRCFGPSICCGEELGCYMGTAESLRCQEESYLPSPC
+QSGQKPCGS---GGRCAASGICCSS-----------------------------------
+------------------------DGCGLDPACDQEP----TFS----------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSVURP00010025923 ENSVURG00010019865	161	no_data	no_data	Vombatus_ursinus	47B
+--------------------------------------------------------MPDT
+-TLPAC-FFCLLA----FTSACYFQNCPRGGKRSLPDTELR-------------------
+---------QCLPCGPG-----SKGHCFGPNICCGEEVGCYMGTAESLKCQEESYLPSAC
+QSGQKPCGS---GGRCAVAGVCCSD-----------------------------------
+------------------------VSCMMEPACREEAGSGRTARASEKS-NGTQLDWPAN
+AFLLRLVQLAGQQMGELQP-----------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSEEUP00000002541 ENSEEUG00000002789	118	AVP	arginine vasopressin	Erinaceus_europaeus	47B
+--------------------------------------------------------MP-E
+ALLPAC-LLGLLA----LTSACYFQNCPRGGKRAMSDLDLR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCGDELGCFVGSAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGVCCSH-----------------------------------
+------------------------ESCVVEPECRE-------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPCAP00000008381 ENSPCAG00000009023	130	OXT	oxytocin/neurophysin I prepropeptide	Procavia_capensis	47A
+--------------------------------------------------------MAGS
+-CLACC-LLGLLA----LTSACYIQNCPLGGKRAVRDLDVR-------------------
+---------KRLPCGPGGKGPGGKGRCFGPSICCGDQLGCLVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGICCSP-----------------------------------
+------------------------DGCRTEPACDPET----AFSPL--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPCAP00000000603 ENSPCAG00000000661	197	AVP	arginine vasopressin	Procavia_capensis	47B
+--------------------------------------------------------MPDT
+-TLPAC-FLGLLA----LTSACYFQNCPRGGKRAMLDMELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCGDELGCFMGTAEALRCQEENHLPSPC
+QSGQKPCGS---GGRCAAAGICCYE-----------------------------------
+------------------------ESCVTEPECREVAGLYRRARASDRS-NATQLDGPTG
+ALLLRLVRL---------------AGAPEPDEPGRASTEPHDRHPGA------LAPPS--
+------LATREI------NLFKCT---QTVCGL---------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSOPRP00000013655 ENSOPRG00000014962	125	OXT	oxytocin/neurophysin I prepropeptide	Ochotona_princeps	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAALDRDVR-------------------
+---------KXXXXXXX-----XXXXXXXXXXXXXXELGCFVATAEALRCQEENFLPPPC
+QSGQKPCGS---EGRCGAAGVCCNA-----------------------------------
+------------------------DGCRADPTCDLEV----AFPER--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSOPRP00000013663 ENSOPRG00000014980	183	AVP	arginine vasopressin	Ochotona_princeps	47B
+--------------------------------------------------------MPDT
+-VLPVC-FLGLLA----LTSACYFQNCPRGGKRATSDMELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCADELGCFVGTAEALRCQEENFLPSPC
+QSGQKPCGS---GGRCAAIGICCND-----------------------------------
+------------------------ESCVTEPECRE--SFPRRARAGDRS-NATRLDAPAG
+ALLLRLVQL---------------AGAPEPAQPSRAATD---RVPPS------PAPAT--
+------LINLER------RRL---------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSOCUP00000045888 ENSOCUG00000008352	173	OXT	oxytocin/neurophysin I prepropeptide	Oryctolagus_cuniculus	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAALDRDVR-------------------
+---------KCLPCGPA-----GKGRCFGPSICCADELGCFVGTAEALRCQEENFLPSPC
+QSGQKPCGS---GGRCAAAGVCCSAGEWAAG--------FP----------QWGAGP--G
+R--AA--------PNRTSPCRRLPHRSHLRPRGRLLR----ALSTEGP--------DPSD
+RTPQPLPGIIKIK-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSOANP00000020606 ENSOANG00000013035	124	no_data	no_data	Ornithorhynchus_anatinus	47A
+--------------------------------------------------------MACP
+-RVLFS-LLGLLA----LASACYIQNCPLGGKRALPDRDSR-------------------
+---------KCLPCGPG-----GKGRCFGPNICCGEELGCYVGTAEALRCQEENYLPSPC
+QAGHRPCGR--DGGTCAAPAICCS------------------------------------
+-----------------------SDGCSVDPVCEHEPEFP--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSECAP00000044610 ENSECAG00000034091	163	OXT	oxytocin/neurophysin I prepropeptide	Equus_caballus	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAALDLDVR-------------------
+---------KCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGICCSPGEPAPGRGRGRGAGAG----------AWGPGD-RG
+R--GG--------PGRPLTRRLLPDGCLADPSCDHEA----AFSQR--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSECAP00000022402 ENSECAG00000024857	161	AVP	arginine vasopressin	Equus_caballus	47B
+--------------------------------------------------------MPDT
+-MLPAC-FLGLLA----FTSACYFQNCPRGGKRAMSDLELR-------------------
+---------QVQPQPSE-------GCREGADICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGICCND-----------------------------------
+------------------------ESCVTEPECREGAGLPRRARASDRS-NATQLDGPTG
+ALLLRLVQL---------------AGAPEPGEP---GVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCHOP00000002406 ENSCHOG00000002715	94	OXT	oxytocin/neurophysin I prepropeptide	Choloepus_hoffmanni	47A
+------------------------------------------------------------
+---------------------------------AARDLDVR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCADELGCFVGTAEALRCQEETYLPSPC
+QSGQRPCGS---GGRCAAAGICCSP-----------------------------------
+------------------------DGCRTHPACDPEV----SFSQR--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCJAP00000039252 ENSCJAG00000021094	211	AVP	arginine vasopressin	Callithrix_jacchus	47B
+--------------------------------------------------------MPD-
+ATLPAC-FLGLLA----FSSACYFQNCPRGGKRAMSDLELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCVDELGCFVGTAEALRCQEENSLPSPC
+QSGHKACGS---GGRCAAFGICCNDGARRGRAGAGTGAD------------RVGGGHAGG
+GGGGPPSRAAPTPGRPRLQAHTITESCVIEPECRE--GFHRRARAGDRS-NATQLDGPAG
+ALLLRLVQL---------------AGAPEPFEPAQPGVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCATP00000032737 ENSCATG00000039403	125	OXT	oxytocin/neurophysin I prepropeptide	Cercocebus_atys	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAAPDLDVR-------------------
+---------KCLPCGPG-----GKGRCFGPNICCAEELGCFVGTAEALRCQEENYLPSPC
+QSGQKACGS---GGRCAVFGLCCSP-----------------------------------
+------------------------DGCHADPACDMEA----TFSQH--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCATP00000031973 ENSCATG00000039090	164	AVP	arginine vasopressin	Cercocebus_atys	47B
+--------------------------------------------------------MQK-
+KKMPAC-FLGLLA----FSSEKKKKNCPRGGKRAMSDLELR-------------------
+---------QCLPCGPG-----GKGRCKKKKICCADELGCFVGTKKKKRCQEENYLPSPC
+QKKKKACGS---GGRCAAFGICCND-----------------------------------
+------------------------ESCMTEPDCRE--GFHRRARASDRS-NATQLDGPAG
+ALLLRLVQL---------------AGAPEPFEPAQPGVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCSAP00000009476 ENSCSAG00000013313	125	OXT	oxytocin/neurophysin I prepropeptide	Chlorocebus_sabaeus	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAAPDLDVR-------------------
+---------KCLPCGPG-----GKGRCFGPNICCAEEMGCLVGTAEALRCQEENYLPSPC
+QSGQKACGS---GGRCAVFGLCCSP-----------------------------------
+------------------------DGCHADPACDMEV----TFSQH--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCSAP00000009466 ENSCSAG00000013303	164	AVP	arginine vasopressin	Chlorocebus_sabaeus	47B
+--------------------------------------------------------MPD-
+TMLPAC-FLGLLA----FSSACYFQNCPRGGKRAMSDLELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCADELGCFVGTAEALRCQEENYLPSPC
+QSGQKACGS---GGRCAAFGICCND-----------------------------------
+------------------------ESCMTEPDCRE--GFHRRARASDRS-NATQLDGPAG
+ALLLRLVQL---------------AGAPEPFEPAQPGVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSGGOP00000011559 ENSGGOG00000011857	100	no_data	no_data	Gorilla_gorilla	47A
+------------------------------------------------------------
+---------------------------PGREGPAATGARPA-------------------
+---------PCLPCGPG-----GEGRCFGPNICCAEELGCFVGTAEALRCQEENYLPSPC
+QSGQKACGS---GGRCAVLGLCCS------------------------------------
+-----------------------PDGCHADPACDMEA----TFSQH--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSGGOP00000018738 ENSGGOG00000027655	162	AVP	arginine vasopressin	Gorilla_gorilla	47B
+--------------------------------------------------------MPD-
+TMLPAC-FLGLLA----FSSACYFQNCPRGGKRAMSDLELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCADELGCFVGTAEALRCQEENYLPSPC
+QSGQKECGS---GGRPCSH-----------------------------------------
+--------------------VLPAESCMTEPECRE--GFHRRARASDRS-NATQLDGPAG
+ALLLRLVQL---------------AGAPEPFEPAQPDVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSP00000217386 ENSG00000101405	125	OXT	oxytocin/neurophysin I prepropeptide	Homo_sapiens	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAAPDLDVR-------------------
+---------KCLPCGPG-----GKGRCFGPNICCAEELGCFVGTAEALRCQEENYLPSPC
+QSGQKACGS---GGRCAVLGLCCSP-----------------------------------
+------------------------DGCHADPACDAEA----TFSQR--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSP00000369647 ENSG00000101200	164	AVP	arginine vasopressin	Homo_sapiens	47B
+--------------------------------------------------------MPD-
+TMLPAC-FLGLLA----FSSACYFQNCPRGGKRAMSDLELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCADELGCFVGTAEALRCQEENYLPSPC
+QSGQKACGS---GGRCAAFGVCCND-----------------------------------
+------------------------ESCVTEPECRE--GFHRRARASDRS-NATQLDGPAG
+ALLLRLVQL---------------AGAPEPFEPAQPDAY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMMUP00000013990 ENSMMUG00000010678	125	OXT	oxytocin/neurophysin I prepropeptide	Macaca_mulatta	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAAPDLDVR-------------------
+---------KCLPCGPG-----GKGRCFGPNICCAEELGCFVGTAEALRCQEENYLPSPC
+QSGQKACGS---GGRCAVFGLCCSP-----------------------------------
+------------------------DGCHADPACDMEA----TFSQH--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMMUP00000071741 ENSMMUG00000051923	164	AVP	arginine vasopressin	Macaca_mulatta	47B
+--------------------------------------------------------MPD-
+TMLPAC-FLGLLA----FSSACYFQNCPRGGKRAMSDLELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCADELGCFVGTAEALRCQEENYLPSPC
+QSGQKACGS---GGRCAAFGICCND-----------------------------------
+------------------------ESCMTEPDCRE--GFHRRARASDQS-NATQLDGPAG
+ALLLRLVQL---------------AGAPEPFEPAQPGVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMLEP00000027468 ENSMLEG00000037934	125	OXT	oxytocin/neurophysin I prepropeptide	Mandrillus_leucophaeus	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAAPDLDVR-------------------
+---------KCLPCGPG-----GKGRCFGPNICCAEELGCFVGTAEALRCQEENYLPSPC
+QSGQKACGS---GGRCAVFGLCCSP-----------------------------------
+------------------------DGCHADPACDMEA----IFSQH--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMICP00000028338 ENSMICG00000035095	125	OXT	oxytocin/neurophysin I prepropeptide	Microcebus_murinus	47A
+--------------------------------------------------------MAGP
+-SVACC-LLGLLA----LTSACYIQNCPLGGKRAALDLEVR-------------------
+---------KCLPCGPG-----GKGRCFGPSICCADELGCFVGTAEALRCQEENYLPSPC
+QSGLKPCGS---GGRCAAAGFCCGP-----------------------------------
+------------------------DGCKYDLDCNPDA----AFSQP--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMICP00000039711 ENSMICG00000026411	164	AVP	arginine vasopressin	Microcebus_murinus	47B
+--------------------------------------------------------MPDT
+-TLVAC-FLGLLA----FSSACYFQNCPRGGKRAMPDMELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCADELGCFVGTAEALRCQEENYLPSPC
+QSGLKPCGS---GGRCAAAGFCCDY-----------------------------------
+------------------------ESCVAEPECRE--GPHRRARASDGS-NATQLDAPAG
+ALLLRLVQL---------------ARAPELAEPAQPGGY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPTRP00000022589 ENSPTRG00000013189	125	OXT	oxytocin/neurophysin I prepropeptide	Pan_troglodytes	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAAPDLDVR-------------------
+---------KCLPCGPG-----GKGRCFGPNICCAEELGCFVGTAEALRCQEENYLPSPC
+QSGQKACGS---GGRCAVLGLCCSP-----------------------------------
+------------------------DGCHADPACDMEA----TFSQH--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPTRP00000022590 ENSPTRG00000013190	164	AVP	arginine vasopressin	Pan_troglodytes	47B
+--------------------------------------------------------MPD-
+TMLPAC-FLGLLA----FSSACYFQNCPRGGKRAVSDLELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCADELGCFVGTAEALRCQEENYLPSPC
+QSGQKACGS---GGRCAAFGVCCND-----------------------------------
+------------------------ESCTTEPECRE--GFHRRARASDRS-NATQLDGPAG
+ALLLRLVQL---------------AGAPEPFEPAQPDVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPANP00000029974 ENSPANG00000018780	153	OXT	oxytocin/neurophysin I prepropeptide	Papio_anubis	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAAPDLDVR-------------------
+---------KCLPCGPG-----GKGRCFGPNICCAEELGCFVGTAEALRCQEENYLPSPC
+QSGQKACGS---GGRCAVFGLCCSPGEQG----------EA----------RWGQGEAGG
+D---A--------AGGLLTPPLPPDGCHADPACDMEA----TFSQH--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPANP00000016968 ENSPANG00000024265	148	AVP	arginine vasopressin	Papio_anubis	47B
+--------------------------------------------------------MPD-
+TMLPAC-FLGLLA----FSSACYFQNCPRGGKRAMSDLELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCADELGCFVGTAEALRCQEENYLPSPC
+QSGQKACGS---GGRCAAFGICCND-----------------------------------
+------------------------ESCMTEPDCRE--GFHRRARASDRS-NATQLDGPAG
+ALLLRLVQ----------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPPYP00000012094 ENSPPYG00000010828	125	OXT	oxytocin/neurophysin I prepropeptide	Pongo_abelii	47A
+--------------------------------------------------------MASP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAAPDLDVR-------------------
+---------KCLPCGPG-----GKGRCFGPNICCAEELGCFVGTAEALRCQEENYLPSPC
+QSGQKACGS---GGRCAVFGLCCSP-----------------------------------
+------------------------EGCHADPACDMEA----TFSQH--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPPYP00000012093 ENSPPYG00000010827	164	AVP	arginine vasopressin	Pongo_abelii	47B
+--------------------------------------------------------MPD-
+TMLPAC-FLGLLA----FSSACYFQNCPRGGKRAMSDLELR-------------------
+---------QCPPCGPG-----GKGRCFGPSICCADELGCFVGTAEALRCQEENYLPSPC
+QSGQKACGS---DGRCAAFGVCCDD-----------------------------------
+------------------------ESCMTEPECRE--GFHRRARASDRS-NATQLDGPAG
+ALLLRLVQL---------------AGAPEPFEPAQPDVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSTGEP00000014711 ENSTGEG00000011952	125	OXT	oxytocin/neurophysin I prepropeptide	Theropithecus_gelada	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAAPDLDVR-------------------
+---------KCLPCGPG-----GKGRCFGPNICCAEELGCFVGTAEALRCQEENYLPSPC
+QSGQKACGS---GGRCAVFGLCCSP-----------------------------------
+------------------------DGCHADPACDMEA----TFSQH--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSTGEP00000014738 ENSTGEG00000011975	164	AVP	arginine vasopressin	Theropithecus_gelada	47B
+--------------------------------------------------------MPD-
+TMLPAC-FLGLLA----FSSACYFQNCPRGGKRAMSDLELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCADELGCFVGTAEALRCQEENYLPSPC
+QSGQKACGS---GGRCAAFGICCND-----------------------------------
+------------------------ESCMTEPDCRE--GFHRRARASDRS-NATQLDGPAG
+ALLLRLVQL---------------AGAPEPFEPAQPGVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSLAFP00000005943 ENSLAFG00000007073	171	AVP	neurophysin 2-like	Loxodonta_africana	47B
+----------------------------------------------------PAPGMPDT
+TLHALA-SSNLLG----LTSALLLPECPRGGK-AMSDMELRT------------------
+---------ACLPCGPG-----GKGRCFGPSICCGEELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGICCYE-----------------------------------
+------------------------ESCVTEPECREGAGIHRRTRASDRS-NATQLDGPAG
+ALLLRLVQL---------------AGAPEPEEPAKPGVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCCNP00000021020 ENSCCNG00000020903	125	Oxt	oxytocin/neurophysin I prepropeptide	Castor_canadensis	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAALDLDVR-------------------
+---------KCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAARGICCSP-----------------------------------
+------------------------DGCRTDPACDPEA----AFSER--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCCNP00000021015 ENSCCNG00000020899	168	Avp	arginine vasopressin	Castor_canadensis	47B
+----------------------------------------------------ACARMPDT
+-MLPAC-FLGLLA----FTSACYFQNCPRGGKRAMPDMELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAARGICCSD-----------------------------------
+------------------------ESCVTEPECRE--GFHRRARASDRS-NVTQLDGATG
+ALLLRLVQL---------------AGAPEPAEPAEPGVF---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCPOP00000001551 ENSCPOG00000001717	125	OXT	oxytocin/neurophysin I prepropeptide	Cavia_porcellus	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAALDLDVR-------------------
+---------KCLPCGPG-----GQGRCFGPSICCADALGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAANGVCCND-----------------------------------
+------------------------DGCRIDPACDSEA----AFAER--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCPOP00000015497 ENSCPOG00000023592	159	AVP	arginine vasopressin	Cavia_porcellus	47B
+------------------------------------------------------------
+-MLPAC-LLGLLA----FTSACYFQNCPRGGKRALSDTELR-------------------
+---------QCLPCGPG-----GQGRCFGPSICCADALGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAANGVCCND-----------------------------------
+------------------------ESCVIEPECRE--EFHRPVRAGDRS-NVTQLDGPAG
+ALLLRLMQL---------------AGAPEPQPA-APGGY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSDORP00000023426 ENSDORG00000024438	125	Oxt	oxytocin/neurophysin I prepropeptide	Dipodomys_ordii	47A
+--------------------------------------------------------MAGP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAALDLDVR-------------------
+---------KCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEESYLPSPC
+QSGQKPCGS---GGRCAAAGLCCND-----------------------------------
+------------------------DGCRSDPACDPEA----AFSER--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSDORP00000017000 ENSDORG00000026916	109	Avp	arginine vasopressin	Dipodomys_ordii	47B
+--------------------------------------------------------MPDT
+-MLPVC-FLGLLA----FTSACYFQNCPRGGKRAMSDMELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEESYLPSPC
+QSGQKPCGS---GGRCAAAGLCCNDGG---------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSSTOP00000020601 ENSSTOG00000023996	125	no_data	oxytocin-neurophysin 1	Ictidomys_tridecemlineatus	47A
+--------------------------------------------------------MASL
+-SLPCC-LLGLLA----LTSACYIQNCPLGGKRTTLELDMR-------------------
+---------KCLPCGPG-----GKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGFCCSS-----------------------------------
+------------------------DGCHTDPACDPEV----PFSQH--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSSTOP00000016818 ENSSTOG00000023202	145	AVP	vasopressin-neurophysin 2-copeptin-like	Ictidomys_tridecemlineatus	47B
+--------------------------------------------------------MPDT
+-MLPAC-FLGLLA----FTSACYFQNCPRGGKRAMSDLE-LR------------------
+---------QCLPCGPE-----GKGRCFGPSICCGDELGCFVGTAEALPGEP--------
+-----------------ALTLFFSA-----------------------------------
+------------------------ESCVSDPECREGFRRGARASDRNNA--T-QLDRPTG
+ALLLRLLQLAGAPEPA-------------EPMELAK---PSAD-----------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMUGP00000009093 ENSMUGG00000008151	125	Oxt	oxytocin/neurophysin I prepropeptide	Meriones_unguiculatus	47A
+--------------------------------------------------------MACP
+-SLAFC-LLGLLA----LTSACYIQNCPLGGKRAVLDLDMR-------------------
+---------KCLPCGPG-----GKGRCFGPSICCADELGCFVGTAEALRCQEENYLPSPC
+QSGQKACGS---GGRCAASGVCCSP-----------------------------------
+------------------------DGCRTDPACDPES----AFSER--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMUGP00000009104 ENSMUGG00000008159	169	Avp	arginine vasopressin	Meriones_unguiculatus	47B
+----------------------------------------------------MLARMPNA
+AMQSAC-FLSLLA----FTSACYFQNCPRGGKRTTPDMELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCADELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAASGVCCSD-----------------------------------
+------------------------ESCGTEPECRD--GSPRLARAREPS-NATQLDGPAR
+ALLLRLVQL---------------AGAREAAESAKPRIY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMAUP00000024599 ENSMAUG00000021401	85	no_data	no_data	Mesocricetus_auratus	47A
+------------------------------------------------------------
+------------------------------------------------------------
+----------CLSCGPG-----GKGSCFGPDIC-DNDLGCFMGIPEALRCQEKKHLSLPC
+HSSRRPGGN--E-GHRASSGICCTL-----------------------------------
+------------------------NNCFMDPTCNSPGSAFSES-----------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMOCP00000019836 ENSMOCG00000017703	125	Oxt	oxytocin/neurophysin I prepropeptide	Microtus_ochrogaster	47A
+--------------------------------------------------------MACP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAALDLDTR-------------------
+---------KCLPCGPG-----GKGRCFGPNICCADELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGVCCNP-----------------------------------
+------------------------DGCRMDPACDPES----AFSER--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMOCP00000015704 ENSMOCG00000014821	168	Avp	arginine vasopressin	Microtus_ochrogaster	47B
+----------------------------------------------------MLARMLNS
+T-LSAC-FLSLLA----FTSACYFQNCPRGGKRAMPDMELR-------------------
+---------QCLPCGPG-----DQGRCFGPNICCADELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGICCSD-----------------------------------
+------------------------ESCVTDPECRE--DFLRLTRAREPN-NGTQLDGPAR
+ALLLRLLQM---------------AGTRESVDSAKPRVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMUSP00000028764 ENSMUSG00000027301	125	Oxt	oxytocin	Mus_musculus	47A
+--------------------------------------------------------MACP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAVLDLDMR-------------------
+---------KCLPCGPG-----GKGRCFGPSICCADELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAATGICCSP-----------------------------------
+------------------------DGCRTDPACDPES----AFSER--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMUSP00000035551 ENSMUSG00000037727	168	Avp	arginine vasopressin	Mus_musculus	47B
+----------------------------------------------------MLARMLNT
+T-LSAC-FLSLLA----FSSACYFQNCPRGGKRAISDMELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCADELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAVGICCSD-----------------------------------
+------------------------ESCVAEPECHD--GFFRLTRAREPS-NATQLDGPAR
+ALLLRLVQL---------------AGTRESVDSAKPRVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSODEP00000006133 ENSODEG00000004605	129	OXT	oxytocin/neurophysin I prepropeptide	Octodon_degus	47A
+--------------------------------------------------------MTGP
+-SLTCC-LLGLLS----LTSACYIQNCPLGGKRATLDLDVR-------------------
+---------KCLPCGPG-----GQGRCFGPSICCADALGCFVGTAEALRCREENFLPSPC
+QSGRKPCAG---GGRCAADGVCCSS-----------------------------------
+------------------------DGCRTDPACDADADDEAAFSER--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSODEP00000008818 ENSODEG00000006589	164	AVP	arginine vasopressin	Octodon_degus	47B
+--------------------------------------------------------MPDT
+-MLPAC-FLGLLA----FTSACYFQNCPRGGKRALVDMELR-------------------
+---------ECLPCGPG-----GQGRCFGPSICCADALGCFVGTAEALRCREENFLPSPC
+QSGRKPCAG---GGRCAADGVCCND-----------------------------------
+------------------------ESCAMEPECRE--SLHRRARAGDRSNNATQLDGPAG
+ALLYRLVQL---------------AGAPEPDPASPDGY----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPEMP00000007572 ENSPEMG00000009490	125	Oxt	oxytocin/neurophysin I prepropeptide	Peromyscus_maniculatus_bairdii	47A
+--------------------------------------------------------MACS
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAVLDLDMR-------------------
+---------KCLPCGPG-----GKGRCFGPNICCADELGCYVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGVCCSP-----------------------------------
+------------------------DGCRMDPACDPES----AFSEH--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPEMP00000002929 ENSPEMG00000003752	168	Avp	arginine vasopressin	Peromyscus_maniculatus_bairdii	47B
+----------------------------------------------------MLARMLNA
+T-LSAC-FLSLLA----FTSACYFQNCPRGGKRAMSDMELR-------------------
+---------QCLPCGPG-----GKGRCFGPNICCADELGCYVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGVCCSP-----------------------------------
+------------------------ESCVTEPECRE--GFLRLTRAREPS-NGTQLDGPAR
+ALLLRLVQL---------------AGSREAVDSAKPRGY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSRNOP00000028829 ENSRNOG00000021225	125	Oxt	oxytocin/neurophysin I prepropeptide	Rattus_norvegicus	47A
+--------------------------------------------------------MACP
+-SLACC-LLGLLA----LTSACYIQNCPLGGKRAALDLDMR-------------------
+---------KCLPCGPG-----GKGRCFGPSICCADELGCFVGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCATAGICCSP-----------------------------------
+------------------------DGCRTDPACDPES----AFSER--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSRNOP00000028833 ENSRNOG00000021229	168	Avp	arginine vasopressin	Rattus_norvegicus	47B
+----------------------------------------------------MLAMMLNT
+T-LSAC-FLSLLA----LTSACYFQNCPRGGKRATSDMELR-------------------
+---------QCLPCGPG-----GKGRCFGPSICCADELGCFLGTAEALRCQEENYLPSPC
+QSGQKPCGS---GGRCAAAGICCSD-----------------------------------
+------------------------ESCVAEPECRE--GFFRLTRAREQS-NATQLDGPAR
+ELLLRLVQL---------------AGTQESVDSAKPRVY---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSTBEP00000004646 ENSTBEG00000005418	124	OXT	oxytocin/neurophysin I prepropeptide	Tupaia_belangeri	47A
+--------------------------------------------------------MASS
+-SLACC-LLGLLA----LTSACYIQNCPPGGKRA-LDLD-VR------------------
+---------KCLPCGPG-----GRGHCFGSKICCDEELGCFLGPTHSQSCEKEDYLPTPC
+QSGGKPCGN---RATCAAAGFCCSP-----------------------------------
+------------------------EGCHLDPDCDTKDIFS--------------------
+----EP------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSANIP00000017131 ENSANIG00000011656	124	no_data	no_data	Accipiter_nisus	47A
+--------------------------------------------------------MPSK
+-ALAVC-LLGLLA----LSSACYIQNCPIGGKRAVLDMDIR-------------------
+---------KCMPCGPR-----NKGHCFGPNICCGEELGCYIGTSETLRCQEENFLPTPC
+ESGHKPCGG--SGGSCAAPGICCS------------------------------------
+-----------------------SEGCMVDSSCDQEMLFV--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSACCP00020000074 ENSACCG00020000050	124	no_data	no_data	Aquila_chrysaetos_chrysaetos	47A
+--------------------------------------------------------MPCK
+-ALAVC-LLGLLA----LSSACYIQNCPIGGKRAVLDMDIR-------------------
+---------KCMPCGPR-----NKGHCFGPNICCGEELGCYIGTSETLRCQEENFLPTPC
+ESGHKPCGG--SGGSCAAPGICCS------------------------------------
+-----------------------SEGCVVDSSCDQEMLFA--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSAPLP00020007959 ENSAPLG00020005849	124	no_data	neurophysin 1	Anas_platyrhynchos	47A
+--------------------------------------------------------MPSK
+-ALAVC-LLGLLA----LSSACYIQNCPIGGKRAALDVDVR-------------------
+---------KCLPCGPR-----NQGRCFGPNICCGEELGCYLGTPETLRCREENFLPTPC
+EAGRKPCGG--DGANCAAPGICCS------------------------------------
+-----------------------SEGCVADPACEREALFA--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSACDP00005004982 ENSACDG00005003652	124	no_data	no_data	Anser_cygnoides	47A
+--------------------------------------------------------MHAK
+-ALALC-LLGLLA----LSSACYIQNCPIGGKRAVLDGDIR-------------------
+---------KCLPCGPR-----NQGRCFGPRICCGEELGCYLGTPETLRCQEESFLPTPC
+ESGRKPCGG--DGASCAAPGICCN------------------------------------
+-----------------------SEGCVADPACEREALFA--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSAOWP00000006711 ENSAOWG00000004611	126	no_data	no_data	Apteryx_owenii	47A
+--------------------------------------------------------MPCK
+-ALAVC-LLALLA----LSSACYIQNCPIGGKRAILDMDIR-------------------
+---------KCLPCGPR-----NQGRCFGPNICCGEELGCYLGTSETLRCQEENFLPTPC
+ESGRKPCGGGGNGGSCAASGICCS------------------------------------
+-----------------------NEGCTVDSSCDLEAMFP--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSDNVP00000023233 ENSDNVG00000016137	124	no_data	neurophysin 1	Dromaius_novaehollandiae	47A
+--------------------------------------------------------MPCK
+-ALAVC-LLALLA----LSSACYIQNCPIGGKRAVLDMDIR-------------------
+---------KCLPCGPR-----NKGHCFGPNICCGEELGCYLGTPETLRCQEENFLPTPC
+ESGRKPCGS--SGGSCAASGICCS------------------------------------
+-----------------------NEGCVVDSSCDQEVMFP--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCPUP00000012468 ENSCPUG00000008827	124	no_data	neurophysin 1-like	Calidris_pugnax	47A
+--------------------------------------------------------MPCK
+-ALAIC-LLGLLA----LSSACYIQNCPIGGKRAILDMEIR-------------------
+---------KCMPCGPR-----NKGRCFGPNICCGEELGCYMGTSETLRCQEENFLPTPC
+ESGHKPCGG--SGGSCATPGICCS------------------------------------
+-----------------------SEGCVLDSSCDQEMLIA--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCPRP00005027180 ENSCPRG00005018831	124	no_data	neurophysin 1-like	Crocodylus_porosus	47A
+--------------------------------------------------------MAHS
+-ALAVC-VLCLLA----LSSACYIQNCPIGGKRSVLDMDIR-------------------
+---------KCLPCGPR-----NKGHCFGPSICCGEELGCYFGTSETLRCQEENYLPTPC
+ESGRKPCGN--AGGTCAAEGICCS------------------------------------
+-----------------------YEGCTMDSSCDQASMFS--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCJPP00005008490 ENSCJPG00005007570	124	no_data	neurophysin 1-like	Coturnix_japonica	47A
+--------------------------------------------------------MSYK
+-ALTVC-LLGLLA----LSSACYIQNCPIGGKRALPDMDIR-------------------
+---------KCLPCGPR-----NKGHCFGPNICCGEELGCYLGTSETLRCQEENFLPTPC
+ESGRKACGE--DGASCAAPGICCS------------------------------------
+-----------------------SEGCVFDSSCNQEMLFA--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSGALP00000036320 ENSGALG00000019026	124	no_data	oxytocin/neurophysin I prepropeptide	Gallus_gallus	47A
+--------------------------------------------------------MFYK
+-ALTVC-LLGLLA----LSSACYIQNCPIGGKRAVPDMDIR-------------------
+---------KCLPCGPR-----NKGHCFGPNICCGEELGCYLGTSETLRCQEENFLPTPC
+ESGRKACGE--DGASCAAPGICCS------------------------------------
+-----------------------SEGCVLDSSCNQEMLFA--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMGAP00000013970 ENSMGAG00000013229	125	no_data	no_data	Meleagris_gallopavo	47A
+--------------------------------------------------------MSYK
+-ALTVC-LLGLLA----LSSACYIQNCPIGGKRALPDMDIR-------------------
+---------KCLPCGPR-----NKGHCFGPNICCGEELGCYLGTSETLRCQEENFLPTPC
+ESGRKACGE--DGASCAAPGICCSS-----------------------------------
+-----------------------AEGCVLDSSCNQEMLFA--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSNMEP00000004820 ENSNMEG00000005156	124	no_data	neurophysin 1-like	Numida_meleagris	47A
+--------------------------------------------------------MSYK
+-ALIIC-LLGLLA----FSSACYIQNCPIGGKRAVPDMDIR-------------------
+---------KCLPCGPR-----NKGHCFGPNICCGEELGCYLGTSETLRCQEENFLPTPC
+ESGRKACGE--DGASCAAPGICCS------------------------------------
+-----------------------TEGCVLDSSCNQEMLFA--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPSTP00000023864 ENSPSTG00000017604	124	no_data	no_data	Pavo_cristatus	47A
+--------------------------------------------------------MSYK
+-ALTVC-LLGLLA----LSSACYIQNCPIGGKRAVPDMDIR-------------------
+---------KCLPCGPR-----NKGHCFGPNICCGEELGCYLGTSETLRCQEENFLPTPC
+ESGRKACGE--DGASCAAPGICCS------------------------------------
+-----------------------TEGCVLDSSCNQEMLFA--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPCLP00000007912 ENSPCLG00000006626	124	no_data	no_data	Phasianus_colchicus	47A
+--------------------------------------------------------MSYK
+-ALTVC-LLGLLA----LSSACYIQNCPIGGKRAVPDMDIR-------------------
+---------KCLPCGPR-----NKGHCFGPNICCGEELGCYLGTSETLRCQEENFLPTPC
+ESGRKACGE--DGASCAAPGICCS------------------------------------
+-----------------------TEGCVLDSSCNQEMLFA--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCPVP00000004474 ENSCPVG00000003290	123	no_data	neurophysin 1-like	Camarhynchus_parvulus	47A
+--------------------------------------------------------MSCK
+-ALALC-LLGLLT----ISSACYIQNCPIGGKRAVLDMDIR-------------------
+---------KCLPCGPR-----NKGHCFGPNICCGAELGCYIGTSEALRCQEENFLPTPC
+ESGRKPCGS---GGSCAAPGICCS------------------------------------
+-----------------------TEGCGTDSSCDQELLFV--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCCEP00000005803 ENSCCEG00000006319	135	no_data	neurophysin 1-like	Cyanistes_caeruleus	47A
+--------------------------------------------------------MSCK
+-ALALC-LLGLLA----LSSACYIQNCPIGGKRAVLDMDIR-------------------
+---------KCLPCGPR-----NKGHCFGPNICCGEELGCYIGTSETLRCQEENFLPTPC
+ESGHKACGSG---GSCAAPGICCS------------------------------------
+-----------------------TGCVLLSSAPREQILTHPGCTPLSGS---------CG
+E-----------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSEGOP00005001945 ENSEGOG00005001583	123	no_data	no_data	Erythrura_gouldiae	47A
+--------------------------------------------------------MSCK
+-ALALC-LLGLLA----LSSACYIQNCPIGGKRAVLDMDIR-------------------
+---------KCLPCGPR-----NKGHCFGPNICCGEELGCYIGTSDALRCQEENFLPTPC
+ESGRKPCGS---GGSCAAPGICCS------------------------------------
+-----------------------TEGCGTDSSCDQEMLFV--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSFALP00000000223 ENSFALG00000000217	123	no_data	neurophysin 1-like	Ficedula_albicollis	47A
+--------------------------------------------------------MSCK
+-ALALC-LLGLLA----LSSACYIQNCPIGGKRAALDMEIR-------------------
+---------KCLPCGPR-----NKGHCFGPSICCGEELGCYLGTSETLRCQEENFLPTPC
+ESGHKPCGS---GGSCAAPGICCS------------------------------------
+-----------------------TEGCSTDSSCEQEMLFV--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSGFOP00000006753 ENSGFOG00000004770	123	no_data	neurophysin 1-like	Geospiza_fortis	47A
+--------------------------------------------------------MSCK
+-ALALC-LLGLLT----ISSACYIQNCPIGGKRAVLDMDIR-------------------
+---------KCLPCGPR-----NKGHCFGPNICCGEELGCYIGTSEALRCQEENFLPTPC
+ESGRKPCGS---GGSCAAPGICCS------------------------------------
+-----------------------TEGCGTDSSCDQELLFV--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSJHYP00000005557 ENSJHYG00000004528	123	no_data	no_data	Junco_hyemalis	47A
+--------------------------------------------------------MSCK
+-ALALC-LLGLLT----ISSACYIQNCPIGGKRAVLDMDIR-------------------
+---------KCLPCGPR-----NKGHCFGPNICCGEELGCYIGTSEALRCQEENFLPTPC
+ESGRKPCGS---GGSCAAPGICCS------------------------------------
+-----------------------TEGCGTDSSCDQELLLV--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSLSDP00000002006 ENSLSDG00000001590	123	no_data	neurophysin 1-like	Lonchura_striata_domestica	47A
+--------------------------------------------------------MSCK
+-ALALC-LLGLLA----LSSACYIQNCPIGGKRAVLDMDIR-------------------
+---------KCLPCGPR-----NKGRCFGPNICCGEELGCYIGTSDTLRCQEENFLPTPC
+ESGRKACGS---GGSCAAPGICCS------------------------------------
+-----------------------TEGCGTDSSCDQEMLFV--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPMJP00000025306 ENSPMJG00000018542	404	no_data	no_data	Parus_major	47A
+-------------MPESLSRSQDYKNRA-------RGWD-------EQPKIPRPAAMSCK
+-ALALC-LLGLLA----LSSACYIQNCPIGGKRAVLDMD-IRKVGPGGLGALRTPSFPSP
+NLLPPCSPEQCLPCGPR-----NKGHCFGPNICCGEELGCYIGTSETLRCQEENFLPTPC
+ESGHKACGS---GGSCAAPGICCST-----------------------------------
+------------------------GERGTASRGTRTEPPH-------------SRE--GI
+QAFTEQRERGGCPRDC-------------P----CPTRLPT-HGCDSQSTLHALSRPQGT
+DETARVRAGREAGTNKFWGPSKCKTHIPSCCRFSQNSTLLPESNYQKSCYKSREASENGV
+NTSSLNHSARGSLGAGSGISGGCFWGSLGIFWGSLGAGSGISGDCFWGSLGAVFGVPWGL
+FLGVPGDCFWGSLGAGSGISRGCFWGFLGIVFGGPWGLVGAVCFTPHSPLSPLRGLWH
+>ENSSCAP00000013474 ENSSCAG00000009991	123	no_data	neurophysin 1-like	Serinus_canaria	47A
+--------------------------------------------------------MSCK
+-ALALC-LLGLLT----LSSACYIQNCPIGGKRAVLDMDIR-------------------
+---------KCLPCGPR-----NKGHCFGPNICCGEELGCYIGTSEALRCQEENFLPTPC
+ESGRKPCGS---GGSCAAPGICCS------------------------------------
+-----------------------TEGCGTDSSCDQELLFV--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSTGUP00000011316 ENSTGUG00000010980	171	no_data	no_data	Taeniopygia_guttata	47B
+----------------------------------------------------------MK
+-ALVLC-LLGLLA----LSSACYIQNCPIGGKRAVLDMD-IR------------------
+---------KCLPCGPR-----DKGRCFGPNICCGEELGCHIGTSDTLRCQEENFLPTPC
+ESGRKACGS---GGSCAAPGICCST-----------------------------------
+------------------------GEGGTAPRGSCTEGIWGSYNSGRGE----DAQ--GI
+---------GCVPSV-------------------CPSITPTARPLSWE------------
+-------------NKRVWGRGKQTANFGG-------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSZALP00000008821 ENSZALG00000007628	123	no_data	oxytocin/neurophysin I prepropeptide	Zonotrichia_albicollis	47A
+--------------------------------------------------------MSCK
+-ALALC-LLGLLT----ISSACYIQNCPIGGKRAVLDMDIR-------------------
+---------KCLPCGPR-----NKGHCFGPNICCGEELGCYIGTSEALRCQEENFLPTPC
+ESGRKPCGS---GGSCAAPGICCS------------------------------------
+-----------------------TEGCGTDSSCDQELLLV--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSACOP00000009949 ENSACOG00000006926	124	no_data	no_data	Amazona_collaria	47A
+--------------------------------------------------------MPCK
+-VLAVC-LLGLLA----LSSACYIQNCPIGGKRAVLDMDVR-------------------
+---------KCLPCGPR-----NKGRCFGPNICCGEELGCYLGTSETLRCQEETFLPTPC
+EAGHKPCGSG--GGTCAAPGICCG------------------------------------
+-----------------------TEGCLLDSSCDQEMLFA--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSMUNP00000002675 ENSMUNG00000002334	113	no_data	oxytocin/neurophysin I prepropeptide	Melopsittacus_undulatus	47A
+--------------------------------------------------------MPCK
+-ALAVC-LLGLLA----LSSACYIQNCPIGGKRAVLDMDIR-------------------
+---------KCLPCGPR-----NQGRCFGPNICCGEELGCYLGTPETLRCQEETFLPTPC
+EAGHKPCGSG---GSCAAPGICCG------------------------------------
+-----------------------TGGYGSG------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSSHBP00005024462 ENSSHBG00005020382	124	no_data	neurophysin 1-like	Strigops_habroptila	47A
+--------------------------------------------------------MPCK
+-ALAVC-LLGLLA----LSSACYIQNCPIGGKRAVLDMDIR-------------------
+---------KCLPCGPR-----NKGRCFGPNICCGEELGCYVGTSEALRCQEETFLPTPC
+EAGHKPCGSG--SGTCAAPGICCG------------------------------------
+-----------------------TEGCLVDSSCDQEALFA--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSSPUP00000011215 ENSSPUG00000008613	86	no_data	no_data	Sphenodon_punctatus	47A
+------------------------------------------------------------
+---------------------------------------MD-------------------
+---------DCIPCGPR-----NRGHCFGPNICCGEELGCYFGTAETLRCQEENYLPTPC
+ESGRKPCGN--S-GTCAAGGICCG------------------------------------
+-----------------------NEGCMVDSACDQESAFS--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSLLTP00000021436 ENSLLTG00000015981	168	no_data	no_data	Laticauda_laticaudata	47B
+--------------------------------------------------------MSYS
+-MLTFW-LFSLLA----FSSACYIQNCPIGGKRSVLDME-VR------------------
+---------KCISCGPR-----NRGHCFGPNICCGEELGCFFGTAETLRCQEENFLPTPC
+ESGRKPCGG--NGGMCAASGICCNH-----------------------------------
+------------------------GASPSCRELQGAWGDA---SGPARP----ALS--GS
+SLLSSHLAWPGATRAA-------------PSDPSPPTKAPPQAPCS--------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSNSUP00000011545 ENSNSUG00000008693	98	no_data	oxytocin/neurophysin I prepropeptide	Notechis_scutatus	47A
+------------------------------------------------------------
+-----------------MEH-----TCTC--SPAARTNG-DV------------------
+---------YCISCGPR-----NRGHCFGPNICCGEELGCFFGTAETLRCQEENFLPTPC
+ESGRKPCGG--NGGMCAASGICCNH-----------------------------------
+------------------------DGCMVDSTCDQE------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPMRP00000014701 ENSPMRG00000009819	136	no_data	neurophysin 1-like	Podarcis_muralis	47A
+--------------------------------------------------------MSYN
+-MLAFC-LVWLLA----LSSACYIQNCPIGGKRSLLDME-VR------------------
+---------KCISCGPR-----NRGHCFGPNICCGEELGCYLGTAETMRCQEENFLPTPC
+ESGRKPCGN--SGGTCAASGICCNN-----------------------------------
+------------------------GEDISPSETCPF-------SFLFKI----IFI--GF
+YIFIK-------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPVIP00000008993 ENSPVIG00000007196	130	no_data	neurophysin 1-like	Pogona_vitticeps	47A
+--------------------------------------------------------MSYH
+-TLAFC-LLWLLA----FSSACYIQNCPIGGKRSVLDME-VR------------------
+---------KCISCGPR-----NRGHCFGPNICCGEELGCYFGTAETLRCQEENFLPTPC
+ESGRKPCGN--NGGTCAAAGICCNN-----------------------------------
+------------------------GETHPAMPGRTL-------NVTRQQ------S--GH
+S-----------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPTXP00000021853 ENSPTXG00000015127	102	no_data	no_data	Pseudonaja_textilis	47A
+------------------------------------------------------------
+----------------------------------------GM------------------
+---------YCISCGPR-----NRGHCFGPNICCGEELGCFFGTAETLRCQEENFLPTPC
+ESGRKPCGG--NGGMCAASGICCNH-----------------------------------
+------------------------DGSMVDRITCLGALGR-----RERE----EIF--GF
+TFIRSP------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSSMRP00000022987 ENSSMRG00000017838	120	no_data	no_data	Salvator_merianae	47A
+--------------------------------------------------------MSYN
+-TLAFC-LLGLLA----XSSACYIQNCPIGGKRSILDMEVR-------------------
+---------KCISCGPR-----NRGHCYGPNICCAEELGCYFGTAETLRCQEENFLPTPC
+ESGRKPCGN--NGGTCAASGICCS------------------------------------
+-----------------------NEGCMIDSVCDQE------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSVKKP00000028357 ENSVKKG00000018348	85	no_data	no_data	Varanus_komodoensis	47A
+------------------------------------------------------------
+------------------------------------SLL-KL------------------
+---------RCISCGPR-----NRGHCFGPNICCGEELGCYFGTAETLRCQEENFLPTPC
+ESGRKPCGN--NGGTCAASGICCNN-----------------------------------
+------------------------GKNNSFLLVFP-------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSACUP00000021897 ENSACUG00000014628	124	no_data	no_data	Athene_cunicularia	47A
+--------------------------------------------------------MPCK
+-ALALC-LLGLLA----LSSACYIQNCPIGGKRAVLDMDIR-------------------
+---------KCMPCGPR-----NKGRCFGPNICCGEELGCYIGTSETLRCQEENFLPTPC
+ESGHKACGG--SGGSCAAPGLCCS------------------------------------
+-----------------------SEGCVLDSSCDQEMLFA--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSSCUP00000023932 ENSSCUG00000017580	161	no_data	neurophysin 1	Struthio_camelus_australis	47A
+------------MVPACVSSSGHYIYRYPP-GREPKRLP----D--PAPERDGPAAMLNK
+-ALAVC-LLALLA----LSSACYIQNCPIGGKRAVLDMD-IR------------------
+---------KCMPCGPR-----NKGHCFGPNICCGEELGCYFGTSETLRCQEENFLPTPC
+ESGRKPCGN--NEGSCAASGICCSN-----------------------------------
+------------------------EGCMVDSSC------------DQEV----MFP----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCABP00000014278 ENSCABG00000010660	124	no_data	no_data	Chelonoidis_abingdonii	47A
+--------------------------------------------------------MSQN
+-TLTIC-VLWFLA----LSSACYIQNCPIGGKRSVLDLDVR-------------------
+---------KCIPCGPR-----NKGHCFGPSICCGAEMGCYFGTSETLRCQEENYLPTPC
+ESGRKPCGP--NGGTCAAPGICCN------------------------------------
+-----------------------NEGCMVDSACDEESLFS--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCSRP00000008448 ENSCSRG00000006213	126	no_data	no_data	Chelydra_serpentina	47A
+------------------------------------------------------RGGQSN
+-ALAVL-LVWLLA----LSSACYIQNCPIGGKRSVLDMDVR-------------------
+---------KCIPCGPR-----NKGHCFGPSICCGAEMGCYFGTSETLRCQEETYLPTPC
+ESGRKPCGP--NGGTCAAPGICCN------------------------------------
+-----------------------NEGCMVDSACDQESLFS--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSCPBP00000035283 ENSCPBG00000024566	167	no_data	no_data	Chrysemys_picta_bellii	47A
+-----------MVAARLSSCSGRYIYRHPG-RSGDKTWRA-FLSPLESEAGSAAATMSQN
+-TLAIC-VLWFLA----LSSACYIQNCPIGGKRSVLDMD-VR------------------
+---------KCIPCGPR-----NKGHCFGPSICCGAEMGCYFGTSETLRCQEENYLPTPC
+ESGRKPCGP--NGGTCAAPGICCNN-----------------------------------
+------------------------EGCMVDSACDQ------------ES----LFS----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSGAGP00000023035 ENSGAGG00000016895	124	no_data	no_data	Gopherus_agassizii	47A
+--------------------------------------------------------MSQN
+-TLAIC-VLWFLA----LSSACYIQNCPIGGKRSVLDLDVR-------------------
+---------KCIPCGPR-----NKGHCFGPSICCGVEMGCYFGTSETLRCQEENYLPTPC
+ESGRKPCGP--NGGSCAAPGICCN------------------------------------
+-----------------------NEGCMVDSACDEESLFS--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPSIP00000018698 ENSPSIG00000016615	124	no_data	neurophysin 1-like	Pelodiscus_sinensis	47A
+--------------------------------------------------------MSHS
+-TLAVC-LLWLLA----LSSACYIQNCPIGGKRSVLDVDVR-------------------
+---------KCIPCGPR-----NKGHCFGPSICCGAELGCYFGTSETLRCQEENYLPTPC
+ESGRKPCGP--SGGTCAAPGICCN------------------------------------
+-----------------------NEGCLVDSACDQESLFS--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSPCEP00000009805 ENSPCEG00000007773	117	no_data	no_data	Pelusios_castaneus	47A
+--------------------------------------------------------MSHN
+-TIAIC-VLWLLA----LSSACYIQNCPIGGKRSVLDMDVR-------------------
+---------KCIPCGPR-----NKGHCFGPSICCGAELGCYFGTSETLRCQEENYLPTPC
+ESGRKPCGI--SGGTCAAPGICCN------------------------------------
+-----------------------NAFTALQLIF---------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSTMTP00000000712 ENSTMTG00000000607	124	no_data	neurophysin 1	Terrapene_carolina_triunguis	47A
+--------------------------------------------------------MSQN
+-SLAIC-VLWFLA----LSSACYIQNCPIGGKRSVLDMDVR-------------------
+---------KCIPCGPR-----NKGHCFGPSICCGAEMGCYFGTSETLRCQEENYLPTPC
+ESGRKPCGP--NGGTCAAPGICCN------------------------------------
+-----------------------NEGCMVDSACDQESLFS--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>ENSNPEP00000009295 ENSNPEG00000006987	124	no_data	neurophysin 1	Nothoprocta_perdicaria	47A
+--------------------------------------------------------MPCK
+-ALALC-LLALLA----LSSACYIQNCPIGGKRAVLDMDIR-------------------
+---------KCLPCGPR-----NKGHCFGPNICCGEELGCYLGTSETLRCQEENFLPTPC
+ESGRKACGS--NGGSCAAAGICCS------------------------------------
+-----------------------HEGCVFDSSCDQEGLFP--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------

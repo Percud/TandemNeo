@@ -1,0 +1,1458 @@
+>ENSATEP00000003525 ENSATEG00000002484	202	THEM6	protein THEM6-like	Anabas_testudineus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MMLLVLGVLLLLFCSLDVWYFL--RGAQVFVQA-WFQPRIWDILAEQSVDGMVLP
+-------HDLDYMGHMNNSRYLRECDFARF----HHYMRNGLFLAS-R----KLGAKMV-
+VGASTIRYRRSLAFREAFEIRTKIVGWDEKAFYLEQRFVSKKDGFVSAVMLCRQNVVHSS
+PE-RII-----EFVCKR-KI-ECPEFPEDLKHWMSFISASSQALRA-------ESGLEQK
+NK----------------------------------------------------------
+------------------------------
+>ENSATEP00000003529 ENSATEG00000002492	203	them6	protein THEM6-like	Anabas_testudineus	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVLWVLAALLALFCSLDVWYFL--RVAFVILRA-WFKPPVRDITAEQIVTGRVTP
+-------HDID-MCHMNNARYLRECDFARF----SLYIRNGVFKAL-R----ALRASMV-
+VGATTIRYRRALCIGEGYELRSRIVTWDDKAFYLEQRFVSTKDGLVCAVMYCKQSVIRSS
+PD-KIM-----QHLCKR-KV-ECPEFPEDLKHWVDFISASSQALRA-------ESGLEDK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSBSLP00000035021 ENSBSLG00000017103	202	no_data	protein THEM6-like	Betta_splendens	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MMLLVLGALLLLFCTLDVWYFL--RGAQVFVQA-WFQPRILDILAEQSIDGMVLP
+-------HDLDYMGHMNNSRYLRECDFARF----HHYMRNGLFLAS-C----KLGAKMV-
+VGASTIRYRRSLAFREAFEIRTKVVGWDEKAFYLEQRFVSKKDGFVSAIMLCRQNVVHCS
+PE-RII-----EFVCKK-KI-ECPEFPEDLKHWMSFISTSSQALRA-------ESGLEQK
+NK----------------------------------------------------------
+------------------------------
+>ENSBSLP00000035048 ENSBSLG00000017119	203	them6	protein THEM6-like	Betta_splendens	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWLLWVLAALLALFCSLDVWYFL--RVAAVILRA-WFQPPVFDITAEQVMSGWVTP
+-------HDID-LCHMNNARYLRECDFARF----SLYFRNGVFKAL-R----ALRATAV-
+VGATTIRYRRPLCIGEGYELRSRIVTWDDKAFYLEQRFVSTNDGLVCAVMYCKQSIVRSS
+PS-KIM-----EHLCKR-KV-ECPEFPDDLKHWVDFISASSQALRA-------ESGLEEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSORLP00000022205 ENSORLG00000017741	203	no_data	protein THEM6	Oryzias_latipes	623A
+------------------------------------------------------------
+------------------------------------------------------------
+----MLLLLVLSALLLLFCNLDVWYFL--RGALVFFQA-WFQPRIRDILAEQRFDGMVLL
+-------HDLDYLGHMNNSRYLRECDFARF----HHYMRNGLFMAS-C----KLGARMV-
+VGASTIRYRRSLDFREPFEIRTKVLGWDEKAFYLEQRFVSKKDGFVSAVMLCRQNVVRCS
+PE-RII-----EFVCQA-KI-ECPEFPEELKHWISFITASSQALRA-------ESGLDNK
+NK----------------------------------------------------------
+------------------------------
+>ENSORLP00000037268 ENSORLG00000030364	266	them6	protein THEM6-like	Oryzias_latipes	623B
+----------------------------------------------MFNSC-----VGFI
+LKA-LRKH-RKTILSKSVPNFILKAIRKYRKRIRWRADSANLGR-------TEVCGGQVL
+NREMWWLLGVLAGLLVLFCSLDVWYFL--RVAAVAVWA-WFQPPVWDVTAEQVLKGRVTP
+-------HDID-MCHMNNARYLRECDFARI----ALYVRNGVFKAL-R----ALKASMV-
+VGATTIRYRRALCIAEGYELRSRIVTWDDKAFFLEQQFVSSKDGFVCAVMYCKQSVIRSS
+PD-KIM-----QHLCKR-KV-ECPEFPEDLKHWVNFISASSQALRA-------ESGHDDK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSGWIP00000024917 ENSGWIG00000013191	211	no_data	protein THEM6-like	Gouania_willdenowi	623A
+------------------------------------------------------------
+----------------------------------MI--------------------INLC
+VPQMFLLFLLLLLFVLLFSSLDVWYFL--RGAQVFVWS-CFQPRVKDVLSEQSVDGQVLL
+-------HDLDYMGHMNNSRYLRECDFARF----HHYMRNGLFMAS-F----RLGAKMV-
+VGASTVRYRRSLAFRETFEIRTRVLGWDQKSFYLEQRFVSKKDNFVSAVMLCRQNVVHCS
+PE-DIL-----QVVGQE-KI-KSPEFSEDLKHWISFISANSQSLRA-------ESGLKEE
+------------------------------------------------------------
+------------------------------
+>ENSGWIP00000024912 ENSGWIG00000013189	204	them6	protein THEM6-like	Gouania_willdenowi	623B
+------------------------------------------------------------
+----------------------------------------------------------MF
+LNAMDWLMLLLFFLLIVFCCLDVCYFL--RAAAVFLWA-WFQRPIKDITAEQLIFSRVST
+-------SDID-LCHMNNARYLRECDFARF----SLLTRNGVFSAL-R----ALKASAV-
+VGASTARYRRPLCLGEAFGLRSRVVCWDDKAFYLEHRFISSKDHMVSAVVFIKMNIIRTS
+PE-NIM-----EHLCKR-KV-ERVEVPEDLQHWISFMSVNSESLRA-------ESKLS--
+------------------------------------------------------------
+------------------------------
+>ENSSFAP00005050233 ENSSFAG00005024241	202	THEM6	protein THEM6-like	Salarias_fasciatus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLVLLALLLLFCSLDVWYFL--RGAQVFVQT-LFQPRIWDILAEQSFDGMVLP
+-------HDLDYMGHMNNSRYLRECDFARF----HHCMRNGLFMGS-R----KLGARMV-
+VGASTIRYRRSLAFREAFEIRTKVVGWDDKAFYLEQRFVSKRDGFVSAVMLCRQNVVRSS
+PE-TLI-----EFICKK-KI-ECPEFPEDLKHWISYISASSQALRA-------ESGLEDK
+NK----------------------------------------------------------
+------------------------------
+>ENSSFAP00005050231 ENSSFAG00005024240	203	them6	protein THEM6-like	Salarias_fasciatus	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWLLWLLAVLLVLFTCLDVWYFL--RVGAVFLRS-WFQPPVWDVTAEQVLTGRVTP
+-------RDID-MCHMNNARYLRECDMGRC----SLFMRNGVFKAL-R----ALKASLV-
+VGATTIHFRRALCIAEAYELRSRIVSWDDKAFYLEQRFVSTKDGLVCAIMYCKMNIVRSS
+PD-QIM-----QHLCKR-KV-ECPEFPEDLQHWLNFISASSQALRA-------ESGLEEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSENLP00000042111 ENSENLG00000018054	202	THEM6	protein THEM6-like	Echeneis_naucrates	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLVLGALLLLFCSLDVWYFL--RGAQVFVEA-WFLPRIWDILAEQSIDGMVLP
+-------HDLDYMGHMNNSRYLRECDFARF----HHYMRNGLFMAS-R----KLGAKMV-
+VGASTIRYRRSLAFREAFEIRTKIVGWDEKAFYLEQRFVSKKDGFVSAVMLCRQNVVHCS
+PE-AII-----EFVCKR-KI-ECPVFPEDLKHWISFISASSQALRA-------ESGLEEK
+TK----------------------------------------------------------
+------------------------------
+>ENSENLP00000042107 ENSENLG00000018050	213	them6	protein THEM6-like	Echeneis_naucrates	623B
+------------------------------------------------------------
+-----------------------------------------------------MGTEETQ
+TAEMWWVLWILIALLALFCILDVWYFL--RAAGVVLRA-WFQPPVFDITAEQVVTGRVTP
+-------RDID-MCHMNNARYLRECDFARF----SLYTRNGVFKAL-R----ALGASMV-
+VGATTIRYRRALCIGEGYELRSRIVTWDDKAFFLEQRFVSTKDGLVCAVMYCKQSVIRGS
+PD-KIM-----QHLCKR-KV-ECPEFPEDLQHWINFISASSQALRT-------ESGLEEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSSDUP00000021276 ENSSDUG00000015490	202	THEM6	protein THEM6-like	Seriola_dumerili	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLVLGALLLLFCSLDVWYFL--RGAQVFIQA-WFQPRIWDILAEQSIDGMVLP
+-------HDLDYMGHMNNSRYLRECDFARF----HHYMRNGLFMAS-R----KLGAKMV-
+VGASTIRYRRSLAFREAFEIRTKVVGWDEKAFYLEQRFVSKKDGFVSAVMLCRQNVVHCS
+PE-RII-----EFVCKR-KI-ECPEFPEDLKHWISFISASSQALRA-------ESGLEEK
+NK----------------------------------------------------------
+------------------------------
+>ENSSDUP00000021282 ENSSDUG00000015499	203	them6	protein THEM6-like	Seriola_dumerili	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVLWVLAALLALFCSLDVWYFL--RAAVVILRA-WFQPPVFDITAEQVLTGRVTP
+-------HDID-MCHMNNARYLRECDFARF----SLYTRNGVFKAV-R----ALGASMV-
+VGATTIRYRRALCIGEGYELRSRIVTWDDKAFFLEQRFVSTRDGLVCAIMYCKQSVIRSS
+PD-KIM-----QHLCKR-KV-ECPEFPEDLQHWVNFISASSQTLRA-------ESGLEEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSAMXP00000054195 ENSAMXG00000032302	201	THEM6	protein THEM6	Astyanax_mexicanus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+------MLWALSALLVLFGSFDVWYFL--RGLWVILNA-ALQEPVRDILAEQVIDSRVLP
+-------QDLDFMGHMNNARYLRECDMGRF----DLFARNGIFMAG-R----ALKATMV-
+IGASTVRYRRSLAFGEAFQLRTRIVSWDEKSFYVEQRFVSKSDGFISAVMLCRQNVIRST
+PD-KIL-----EHLCKR-KV-ECPDIPEHLQQWIKFISASSQALRA-------ESGLDEK
+TK----------------------------------------------------------
+------------------------------
+>ENSAMXP00000055102 ENSAMXG00000029116	221	them6	protein THEM6-like	Astyanax_mexicanus	623B
+------------------------------------------------------------
+--------------------------------------MMLCEE--------VLESAGIQ
+IFREDVLLWVLAGLLLLFCSLDVWYYL--RMVVLLIRA-WWLSPVFDVTGEQTLGGRVVL
+-------HDID-LCHMNNGRYLRECDFARI----SLYARNGVLKTM-R----ALGSSAV-
+VAATTIRYRRPLCVGEAFELRTRIITWDEKAFYLEQRFVSCKDGMVAAIMFCKQSVLRSS
+PA-KIL-----QHLCQR-KV-EVPEFPEELQHWINFMSASSQALKA-------ESGSEEK
+KCE---------------------------------------------------------
+------------------------------
+>ENSPNAP00000025004 ENSPNAG00000009864	201	no_data	protein THEM6-like	Pygocentrus_nattereri	623A
+------------------------------------------------------------
+------------------------------------------------------------
+------MLWVLSALLVLFGCFDVWYFL--RGAWVVIKC-ALQEPVRDVLAEQVIHSRVLS
+-------QDLDFMGHMNNARYLRECDMGRV----AFYTRNGIFKAS-R----VLKATMV-
+IGASTIRYRRSLAFGEAFELRTRIVAWDEKSFYVEQRFVSKSDGFISAVMLCRQNVLRSS
+PD-KIL-----EFLCKR-KV-ECPDIPEDLQQWIKFISASSQALRA-------ESGLEDK
+TK----------------------------------------------------------
+------------------------------
+>ENSPNAP00000025001 ENSPNAG00000006413	205	them6	protein THEM6-like	Pygocentrus_nattereri	623B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEDMLLLVLAVLLVLFCSVDVWYYL--RILSLLVRA-WWLSPVFDVTGEQTLGGRVLL
+-------NDID-LCHMNNARYLRECDFARI----SLYARNGVLKTM-R----ALGATAV-
+VAATTIRYRRPVCIGEAFELRSRIVTWDEKAFYLEQRFVSCKDGMVAAIMFCKQSVLRSS
+PD-KIL-----QHLCQR-KV-EVPEFPEELQHWINFMSASSQALKA-------ESGVDEK
+KSE---------------------------------------------------------
+------------------------------
+>ENSACIP00000025183 ENSACIG00000019507	202	THEM6	thioesterase superfamily member 6	Amphilophus_citrinellus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MFLLVLGALLLLFCSLDVWYFL--RGAQVFIQA-WFQPRVRDILAEQSIDGMVLP
+-------HDLDYLGHMNNSRYLRECDFARF----HHYMRNGLFMAS-R----KLGAKLV-
+VGASTIRYRRSLAFREAFEIRTKVLGWDEKAFYLEQRFVSKKDSFVSAIMLCRQNVVHCS
+PE-TII-----EYICKK-KI-ERPEFPEDLKHWMNFIAASSQALRA-------ESGLEEK
+NK----------------------------------------------------------
+------------------------------
+>ENSACIP00000025174 ENSACIG00000019499	203	them6	thioesterase superfamily member 6	Amphilophus_citrinellus	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVLWVLAILLALFCILDVWYFL--RAGAVILRA-WFQPPVWDVTAEQVLTGRVTP
+-------RDID-MCHMNNARYLRECDFARF----SLYMRNGVFKAV-R----ALRASMV-
+VGATTIRYRRALCIGEGYELRSRIVTWDDKAFFLEQRFVSTKDGLVCAVMYCKQSVIRSS
+PD-KIL-----QHLCKR-KV-ECPEFPEDLQHWVNFISASSQALRS-------ESGLEDK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSACLP00000021473 ENSACLG00000014609	203	THEM6	thioesterase superfamily member 6	Astatotilapia_calliptera	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLALGALLLLFCSLDVWYFL--RGAQVFIQA-WFQPRIRDILAEQSIEGMVLP
+-------HDLDYLGHMNNSRYLRECDFARF----HHYMRNGLFMAS-R----KLGAKLV-
+VGASTIRYRRSLVFREAFEIRTKVLGWDEKAFYLEQRFVSKKDGFVSAIMLCRQNVVHCS
+PE-TII-----EFICKK-KVRECPEFPEDLKHWMNFIAASSQALRA-------ESGLEGK
+NK----------------------------------------------------------
+------------------------------
+>ENSACLP00000021483 ENSACLG00000014615	203	them6	protein THEM6-like	Astatotilapia_calliptera	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVLWVLAILLALFCIVDVWYFL--RAAAVILRA-WFQPPVWDITAEQVLTGRVTP
+-------HDID-MCHMNNARYLRECDFARF----SLYMRNGVFKAV-R----ALKASMV-
+VGATTIRYRRALCIGEGYELRSRIVTWDDKAFFLEQRFVSTKDGLVCAVMYCKQSVIRGS
+PD-KIL-----QHLCKR-KV-ECPEFPEDLQHWVNFISASSQALRA-------ESGLEEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSHBUP00000009431 ENSHBUG00000010958	202	THEM6	protein THEM6-like	Haplochromis_burtoni	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLALGTLLLLFCSLDVWYFL--RGAQVFIQA-WFQPRIRDILAEQSIEGMVLP
+-------HDLDYLGHMNNSRYLRECDFARF----HHYMRNGLFMAS-R----KLGAKLV-
+VGASTIRYRRSLVFREAFEIRTKVLGWDEKAFYLEQRFVSKKDGFVSAIMLCRQNVVHCS
+PE-TII-----EFICKK-KI-ECPEFPEDLKHWMNFIAASSQALRA-------ESGLEGK
+NK----------------------------------------------------------
+------------------------------
+>ENSHBUP00000009420 ENSHBUG00000010952	203	them6	protein THEM6-like	Haplochromis_burtoni	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVLWVLAILLALFCIVDVWYFL--RAAAVILRA-WFQPPVWDITAEQVLTGRVTP
+-------HDID-MCHMNNARYLRECDFARF----SLYMRNGVFKAV-R----ALKASMV-
+VGATTIRYRRALCIGEGYELRSRIVTWDDKAFFLEQRFVSTKDGLVCAVMYCKQSVIRSS
+PD-KIL-----QHLCKR-KV-ECPEFPEDLQHWVNFISASSQALRA-------ESGLEEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSMZEP00005031577 ENSMZEG00005023556	203	THEM6	protein THEM6	Maylandia_zebra	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLALGALLLLFCSLDVWYFL--RGAQVFIQA-WFQPRIRDILAEQSIEGMVLP
+-------HDLDYLGHMNNSRYLRECDFARF----HHYMRNGLFMAS-R----KLGAKLV-
+VGASTIRYRRSLVFREAFEIRTKVLGWDEKAFYLEQRFVSKKDGFVSAIMLCRQNVVHCS
+PE-TII-----EFICKK-KVRECPEFPEDLKHWMNFIAASSQALRA-------ESGLEGK
+NK----------------------------------------------------------
+------------------------------
+>ENSMZEP00005031579 ENSMZEG00005023557	212	them6	protein THEM6	Maylandia_zebra	623B
+------------------------------------------------------------
+------------------------------------------------------MEEVPP
+EREMWWVLWVLAILLALFCIVDVWYFL--RAAAVILRA-WFQPPVWDITAEQVLTGRVTP
+-------HDID-MCHMNNARYLRECDFARF----SLYMRNGVFKAV-R----ALKASMV-
+VGATTIRYRRALCIGEGYELRSRIVTWDDKAFFLEQRFVSTKDGLVCAVMYCKQSVIRGS
+PD-KIL-----QHLCKR-KV-ECPEFPEDLQHWVNFISASSQALRA-------ESGLEEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSNBRP00000010990 ENSNBRG00000008570	203	THEM6	protein THEM6-like	Neolamprologus_brichardi	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLALGALLLLFCSLDVWYFL--RGAQVFIQA-WFQPRIRDILAEQSIEGMVLP
+-------HDLDYLGHMNNSRYLRECDFARF----HHYMRNGLFMAS-R----KLGAKLV-
+VGASTIRYRRSLVFREAFEIRTKVLGWDEKAFYLEQRFVSKKDGFVSAIMLCRQNVVHCS
+PE-TII-----EFICKK-KVRECPEFPEDLKHWMNFIAASSQALRA-------ESGLEGK
+NK----------------------------------------------------------
+------------------------------
+>ENSNBRP00000010958 ENSNBRG00000008558	280	them6	thioesterase superfamily member 6	Neolamprologus_brichardi	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVLWVLAILLALFCFVDVWYFL--RAAAVILRA-WFQPPVWDITAEQVLTGRVTP
+-------HDID-MCHMNNARYLRECDFARF----SLYMRNGVFKAV-R----ALKASMV-
+VGATTIRYRRALCIGEGYELRSRIVTWDDKAFFLEQRFVSTKDGLVCAVMYCKQSVIRST
+RF-CS--------TCAKERW-SALSF----QR--IFSTGSTSSLPAA-----RPSGLRAA
+WRRRTNKTF-----HGQILKVASCESACLQAQEESLLLFRISSLKHTCACTLYNKLYLNS
+NICRYETLDNSTLHYSERLAVMVKIIIIKY
+>ENSONIP00000011699 ENSONIG00000009303	205	THEM6	thioesterase superfamily member 6	Oreochromis_niloticus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+MR--EMLLLALGALLLLFCSLDVWYFL--RGAQVFIQA-WFQPRIRDILAEQSIEGMVLP
+-------HDLDYLGHMNNSRYLRECDFARF----HHYMRNGLFMAS-R----KLGAKLV-
+VGASTIRYRRSLVFREAFEIRTKVLGWDEKAFYLEQRFVSKKDGFVSAIMLCRQNVVHCS
+PE-TII-----EFICKK-KI-ECPEFPEDLKHWMNFIAASSQALRA-------ESGLEGK
+NK----------------------------------------------------------
+------------------------------
+>ENSONIP00000011700 ENSONIG00000009304	203	them6	protein THEM6	Oreochromis_niloticus	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVLWVLAILLALFCMVDVWYFL--RAAAVILRA-WFQPPVWDVTAEQVLTGRVTP
+-------HDID-MCHMNNARYLRECDFARF----SLYMRNGVFKAV-R----ALRASMV-
+VGATTIRYRRALCIGEGYELRSRIVTWDDKAFFLEQRFVSTKDGLVCAVMYCKQSVIRSS
+PD-KIL-----QHLCKR-KV-ECPEFPEDLQHWVNFISASSQALRA-------ESGLEEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSPNYP00000022565 ENSPNYG00000017027	203	THEM6	protein THEM6-like	Pundamilia_nyererei	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLALGALLLLFCSLDVWYFL--RGAQVFIQA-WFQPRIRDILAEQSIEGMVLP
+-------HDLDYLGHMNNSRYLRECDFARF----HHYMRNGLFMAS-R----KLGAKLV-
+VGASTIRYRRSLVFREAFEIRTKVLGWDEKAFYLEQRFVSKKDGFVSAIMLCRQNVVHCS
+PE-TII-----EFICKK-KVRECPEFPEDLKHWMNFIAASSQALRA-------ESGLEGK
+NK----------------------------------------------------------
+------------------------------
+>ENSPNYP00000022584 ENSPNYG00000017047	203	them6	protein THEM6-like	Pundamilia_nyererei	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVLWVLAILLALFCIVDVWYFL--RAAAVILRA-WFQPPVWDITAEQVLTGRVTP
+-------HDID-MCHMNNARYLRECDFARF----SLYMRNGVFKAV-R----TLKASMV-
+VGATTIRYRRALCIGEGYELRSRIVTWDDKAFFLEQRFVSTKDGLVCAVMYCKQSVIRSS
+PD-KIL-----QHLCKR-KV-ECPEFPEDLQHWVNFISASSQALRA-------EIGLEEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSCHAP00000006343 ENSCHAG00000004002	205	no_data	protein THEM6-like	Clupea_harengus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MYQMLVWVLSGLLLLFGSLDVWYFL--RGLLMIVKS-LFQSPLKDITAEHVIEGKVLP
+-------HDIDYMGHMNNARYLRECDFARF----SYYTRNGLFMAA-R----AMKASMV-
+VGASTIRYRRSLALGEAFELRSRIMTWDEKSFFLEQRFVSKKDGFLSAVMFCRQNVVRSS
+PE-KIL-----EHLCKR-KV-ECPDVPEDLQHWINFISANSQALRA-------ESGLDEK
+SK----------------------------------------------------------
+------------------------------
+>ENSCHAP00000006313 ENSCHAG00000003983	203	them6	thioesterase superfamily member 6	Clupea_harengus	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MDTLLWALAVLLVLFSCLDVWYYL--RAAATLIRA-WFQPHVWDVTGEQTMGGRVLP
+-------HDMD-LCHMNNARYLRECDFARL----SLYTRNGVFKAL-R----ALGGSIV-
+VGATTIRLRQALCVGKAFQLRSRIITWDDKAFFLEHRFVSGKDARVSAVMYCKQNIIGCS
+PD-KIL-----QFLCKR-KV-ECPEVPEDLQHWINFISANSQALKS-------ESGMDEK
+SK----------------------------------------------------------
+------------------------------
+>ENSDCDP00000017076 ENSDCDG00000013895	202	no_data	protein THEM6-like	Denticeps_clupeoides	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MMLWVLSGLLLLFGSLDVWYFL--RGIWVVVKA-WWQGPVKDVLAEQTVVGRVLP
+-------HDLDYMGHMNNARYLRECDFARF----VYYTRSGMFRAV-H----ALRASMV-
+VGASTIRYRRSLELGEAFDLRSRIVTWDDKSFYVEQRFISQKDGFISAVMLSRQNVIRST
+PE-KIL-----ELLCKR-KV-ECPDIPSDLQHWIEFISASSQALRA-------ECGLDEK
+TK----------------------------------------------------------
+------------------------------
+>ENSDCDP00000017069 ENSDCDG00000013890	201	them6	protein THEM6-like	Denticeps_clupeoides	623B
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLQWALGALLLLFCCLDVWYYL--RVAAAVARA-WLQPPVWDVLGEQTVGGRVLP
+-------RDMD-LCHMNNARYLRECDFARF----SLYMRNGVFKAV-R----ALGATMV-
+VGATTIRLRRALCVGEAFQLRSRIVTWDEKSFFVEQRFVSRKDGLVSAVMFCKQNVVRSS
+PD-KIL-----QFLCKR-KV-ECPEVPADLQHWIDFIAASSQALRA-------ESGLDDR
+SK----------------------------------------------------------
+------------------------------
+>ENSCARP00000041715 ENSCARG00000018069	202	THEM6	protein THEM6	Carassius_auratus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLWILSGSLVLFSSFDVWYFL--RGSWMVIKS-WFQVPVGDVLAEQVVHGRVLL
+-------HDLDFMCHMNNARYLRECDFARY----AHCTRNGLFLAA-R----ALDATML-
+VGATTIRYRRSLALGEAFELRTRIVAWDEKSFYLEQRFVSKSDGFVSAVMLCRQNVIRGN
+PQ-KIL-----EHLCKK-KV-DCPEISEDLQHWISFISASSQALRA-------ESGLDDK
+NK----------------------------------------------------------
+------------------------------
+>ENSCARP00000041697 ENSCARG00000018060	205	them6	protein THEM6-like	Carassius_auratus	623B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEDILLWIVGVLLLLFCSLDVWYYL--RVVVVLVRA-WFLSPVFDITAEQTASGRVVL
+-------HDID-LCHMNNARYLRECDFARF----SLYSRNGVFKAL-R----ALGATVV-
+VGATTIRYRRPLCVGEAFEIRSRIITWDEKSFYLEQRFVSCKDGMVSAVMFCKQNVLRSS
+PD-KIL-----QHLCKR-KV-EVPEFPEDLQHWINFISASSKALRG-------ESQLDDK
+KNE---------------------------------------------------------
+------------------------------
+>ENSCCRP00000003098 ENSCCRG00000001918	208	THEM6	protein THEM6-like	Cyprinus_carpio	623A
+------------------------------------------------------------
+-----------------------------------------------------------M
+NDVRSMLLWILSGFLLLFSSFDVWYFL--RATWMVIKS-WFQGPVRDVLAEQVVHGRVFL
+-------HDLDFMCHMNNARYLRECDFARY----AYCTRNGLFLAA-R----AFDASML-
+IGATTIRYRRSLAFGEAFELRTRIVAWDEKSFYLEQRFVSKTDGFVSAVMLCRQNVIGGN
+PQ-TIL-----DHLCKR-KV-DCPEISEDLQHWIRFISASSQALRA-------ESGLDEK
+TK----------------------------------------------------------
+------------------------------
+>ENSCCRP00000003121 ENSCCRG00000001933	210	them6	protein THEM6-like	Cyprinus_carpio	623B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEDTLLWIVGVLLLLFCSLDVWYYL--RVVVVLVRA-WFLSPVFDITAEQSSSGRVVL
+-------HDLD-LCHMNNARYLRECDFARF----SLYTRNGVFKAL-R----ALGATIV-
+VGASTIRYRRPLCVGEAFEIRSRIITWDEKSFYLEQRFVSCKDGMVSAVMFCKQNVLRSS
+PD-KIL-----QYLCKR-KV-EVPEFPEDLQHWINFISASSKALRV-------KISLMRK
+RTNDGSLP----------------------------------------------------
+------------------------------
+>ENSDARP00000138486 ENSDARG00000103914	202	THEM6	si:ch73-52e5.2	Danio_rerio	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLWFLSGSLLLFGTFDVWYFL--RGLWVALRC-CFQSPIRDVLAEQVVHGRVLL
+-------HDMDFMCHMNNARYLRECDFARF----AHGTRIGLFMAA-R----ALKATMV-
+VGATTIRYRRSLALGEGFELRTRIVSWDEKSFYLEQRFVSKSDGFISAVMLCRQNVIRGS
+PQ-NIL-----EFLCKR-KV-DCPDISEELQHWIRFISASSQALRA-------ESGLDDK
+TK----------------------------------------------------------
+------------------------------
+>ENSDARP00000135990 ENSDARG00000100260	205	them6	thioesterase superfamily member 6	Danio_rerio	623B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEDVLLWVVGVLLLLFCTLDVWYYL--RAVLVVTKA-WFLSPVFDVTGEQTASGRVVL
+-------NDID-LCHMNNARYLRECDFARL----SLYTRNGVFKAL-R----ALGATAV-
+VGATTIRYRRPLCVGEAFELRSRIVSWDEKSFYLEQRFVSCKDGMVSAVMFCKQNVLRST
+PD-KIL-----QYLCKR-KV-EVPEFPEDLQHWINFITASSKALRG-------ESQLHDK
+KSQ---------------------------------------------------------
+------------------------------
+>ENSSGRP00000019381 ENSSGRG00000011708	202	no_data	protein THEM6	Sinocyclocheilus_grahami	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLWILSGSLVLFGSFDVWYFL--RGSWMVIKS-WFQGPVRDVLAEQVVHGRVLL
+-------HDLDFMCHMNNARYLRECDFARY----AHCTRNGLFLAA-R----ALDATML-
+VGATTIRYRRSLALGEAFELRTRIVAWDEKSFYLEQRFVSKSDGFVSAVMLCRQNVIRGS
+PQ-KIL-----EHLCKR-KV-DCPEISEDLQHWIRFISASSQALRA-------ESGLDDK
+TK----------------------------------------------------------
+------------------------------
+>ENSSGRP00000102686 ENSSGRG00000051025	205	them6	protein THEM6-like	Sinocyclocheilus_grahami	623B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEDTLLWIVGVLLLLFCSLDVWYYL--RAVVVLIRA-WFLSPVFDITAEQTASGRVVL
+-------HDVD-LCHMNNARYLRECDFARF----SLYTRNGVFKAL-R----ALGATMV-
+VGATTIRYRRPLCVGEAFEIRSRIVTWDEKSFYLEQRFVSCKDGMVSAVMFCKQNVLRSS
+PD-KIL-----QYLCKR-KV-EVPEFPEDLQHWINFISASSKALRG-------EGQLDDK
+KSE---------------------------------------------------------
+------------------------------
+>ENSCVAP00000020222 ENSCVAG00000001470	202	THEM6	protein THEM6-like	Cyprinodon_variegatus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLVLSALLLLFCNLDVWYFL--RGAQVFVEA-WFLPRIEDILAEQSIDGMVLP
+-------NDLDYLGHMNNSRYLRECDFARF----HHYMRNGLFMAS-R----KLGVRLV-
+VGASTIRYRRSLAFREAFQIRTKVLGWDEKAFYLEQRFVSKRDSFVSAVMLCRQNVVGIS
+PE-SII-----EFIYKK-KI-ECPQFPEELKHWISFISASSQALRA-------ESGLEDK
+NK----------------------------------------------------------
+------------------------------
+>ENSCVAP00000000533 ENSCVAG00000001466	203	them6	protein THEM6-like	Cyprinodon_variegatus	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVAWVLAALVVLFCSLDVWYFL--RAGAVILKA-WFQPPVWDVTGEQVVTGLVTP
+-------RDID-MCHMNNARYLRECDFARF----SLYTRNGVFKAV-R----ALRANMV-
+VGATTIRYRRALCIGEGYDLCSRIVTWDDKAFYLEQRFVSRKDKLVCAVMYCKQSVIRSS
+PD-KIL-----QHLCKR-KV-EPPEFPEDLQHWVNFISASSQALRA-------ESGLDDK
+-----SK-----------------------------------------------------
+------------------------------
+>ENSFHEP00000019150 ENSFHEG00000021046	202	no_data	protein THEM6-like	Fundulus_heteroclitus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLVLSALLLLFCNLDVWYFL--RGAQVFVEA-WFLPRIEDILAEQSIDCMVLP
+-------NDLDYLGHMNNSRYLRECDFARF----HHYMRNGLFMAS-R----KLGVRLV-
+VGASTIRYRRSLAFREAFQIRTKVLGWDEKAFYLEQRFVSKRDSFVSAVMLCRQNVVGSS
+PE-SII-----EFIFKK-QI-ECPQFPEELKHWISFISASSQALRA-------ESGLEDK
+NK----------------------------------------------------------
+------------------------------
+>ENSFHEP00000019136 ENSFHEG00000021037	203	them6	protein THEM6	Fundulus_heteroclitus	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWLAWLLAALVVLFSTLDVWYFL--RAGAVILRA-WFQPPVWDVTGEQVVAGRVTP
+-------RDID-MCHMNNARYLRECDFARF----SLYTRNGVFKAA-R----ALGANMV-
+VGATTIRYRRALCIGEGYDLCSRIVTWDDKAFFLEQRFVSTKDRLVCAVMYCKQSVIRSS
+PD-KIL-----QHLCKR-KV-VRPEFPEDLQHWVNFMSASSQALRA-------ESGLDEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSGAFP00000000389 ENSGAFG00000000315	202	THEM6	thioesterase superfamily member 6	Gambusia_affinis	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLVLSTLLLLFCNLDVWYFL--RGAQVFIEA-WFLPRIEDILAEQSIDGMVLP
+-------HDLDYLGHMNNSRYLRECDFARF----HHYMRNGLFMAS-R----KLGAKLV-
+VGASTIRYRRSLAFREAFQIRTKVLGWDDKAFYLEQRFVSKRDGFVSAVMLCRQNVVGSS
+PE-SIM-----EFIYKK-QI-ECPQFPEELKHWISFISASSQALRA-------ESGLEDK
+NK----------------------------------------------------------
+------------------------------
+>ENSGAFP00000000378 ENSGAFG00000000302	203	them6	thioesterase superfamily member 6	Gambusia_affinis	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVAWVLAALVFLFSILDVWYFL--RAGAVLLRA-WFQPPVWDVTGEQVMTGRVTP
+-------RDID-MCHMNNARYLRECDFARF----SLYMRNGVFKAA-R----ALRANLV-
+VGATTIRYRRALCIGEGYDLCSRIVTWDDKAFFLEQRFVSTKDRLVCAVMYCKQSVIRSS
+PD-KIL-----QHLCKR-KV-EPPEFPEDLQHWVNFISASSQALRA-------ESGLEEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSKMAP00000003455 ENSKMAG00000002629	202	no_data	protein THEM6-like	Kryptolebias_marmoratus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLVLFALLLLFCNLDVWYFL--RGALVFIEA-WFQPRIEDILAEQSFDGIVLT
+-------HDLDYLGHMNNSRYLRECDFARF----HHYMRNGLFLTS-R----KLGAKLV-
+VGASTIRYRRSLVFRELFQIRTKVLGWDEKAFYLEQRFVSKKDGFVSAVMLCRQNVVGSS
+PE-RII-----EFICKK-KI-ECPEFSEELKHWISFISASSQALRA-------ESGLEHK
+NK----------------------------------------------------------
+------------------------------
+>ENSKMAP00000003467 ENSKMAG00000002646	203	them6	protein THEM6-like	Kryptolebias_marmoratus	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWLLWVLAALLALFSIVDVWYFL--RVATVILRA-WFQPPVWDVTAEQIVAGRVTP
+-------NDID-MCHMNNARYLRECDFARF----SLYTRNGVFKAA-R----ALGANMV-
+VGATTIRYRRALCIGEGYELRSRIVTWDDKAFFLEQRFVSTKDGLVCAVMYCKQSVIRSS
+PD-KIL-----QHLCKR-KV-EIPEFPEDLQHWVNFISASSQALRA-------ESGLDEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSPREP00000024594 ENSPREG00000016609	202	THEM6	protein THEM6-like	Poecilia_reticulata	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MMLLVLSALLLLFCNLDVWYFL--RGALVFVEA-WFLPRIEDILAEQSIDGMVLP
+-------HDLDYLGHMNNSRYLRECDFARF----NHYMRNGVFMAS-R----KLGAKMV-
+VGASTIRYRRSLAFREAFQIRTKVLGWDDKAFYLEQRFVSKRDGFVSAVMLCRQNVVGSS
+PE-SIM-----EFTYKK-QI-ECPQFPEELKHWISFISASSQALRA-------ESGLEDK
+NK----------------------------------------------------------
+------------------------------
+>ENSPREP00000024608 ENSPREG00000016623	203	them6	protein THEM6-like	Poecilia_reticulata	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVAWVLAVLVFLFSTLDVWYFL--RXGAVLLRA-WFQPPVWDVTGEQVMTGRVTP
+-------RDID-MCHMNNARYLRECDFARF----SLYMRNGVFKAT-R----ALGANLV-
+VGATTIRYRRALCIGEGYDLCSRIVTWDDKAFFLEQRFVSTKDRLVCAVMYCKQSVIRSS
+PD-KIL-----QHLCKR-KV-EPPEFPEDLQHWVNFISASSQALRA-------ESGLEEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSXMAP00000017036 ENSXMAG00000017001	202	THEM6	protein THEM6-like	Xiphophorus_maculatus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLVLSTLLLLFCNLDVWYFL--RGAQVFVEA-WFLPRIEDILAEQSIDGMVLP
+-------HDLDYLGHMNNSRYLRECDFARF----HHYMRNGLFMAS-R----KLGAKMV-
+VGASTIRYRRSLAFREAFQIRTKVLGWDDKAFYLEQRFVSKRDDFVSAVMLCRQNVVGSS
+PE-SIM-----EFTYKK-QI-ECPQFPEELKHWISFISASSQALRA-------ESGLEDK
+NK----------------------------------------------------------
+------------------------------
+>ENSXMAP00000017039 ENSXMAG00000017006	203	them6	protein THEM6-like	Xiphophorus_maculatus	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVVWVLAAIVFLFSTLDVWYFL--RAGAVLLRA-WFQPPVWDVTGEQVMTGRVTP
+-------RDID-MCHMNNARYLRECDFARF----SLYMRNGVFKAA-R----ALRANLV-
+VGATTIRYRRALCIGEGYDLCSRIVTWDDKAFFLEQRFVSTKDRLVCAVMYCKQSVIRSS
+PD-KIL-----QHLCKR-KV-EPPEFPEDLQHWVNFISASSQALRA-------ESGLEEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSELUP00000012602 ENSELUG00000012838	278	them6	protein THEM6	Esox_lucius	623B
+--------------------------------------------MDYPAPS-----EKYR
+VRLRPRVKYRGLWRPV---------VRHVEPKLENGVPILDCGR-------LNMET----
+---ADLCLGALGVLLLLFCSLDVWYFL--RVAWAVIGA-WFQKPVWDVLGEQSVPGRVLL
+-------QDID-MGHMNNARYLRECDFARF----SLYSRNGVFKAC-R----ALRATLV-
+VGATTIRLRRALFLGEAFELRTRIVVWDEKAFYLEQRFVSCRDGLVAAVMFCKQNVIRSS
+PE-KIL-----QYLCKR-KV-ECPDYPEELQHWISFISASSQALRA-------QSGLKDT
+TTESSQANVEEQENAGEQEHLKDKDK----------------------------------
+------------------------------
+>ENSGMOP00000006335 ENSGMOG00000005967	202	no_data	protein THEM6-like	Gadus_morhua	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MFLLLVGALLLLFCTVDVWYFL--RGAQVFFQA-WFQPRIGDIMAEQSVDGQVLP
+-------HDLDYMGHMNNSRYLRECDFARF----HHYMRNGLFMAS-H----RLGARMV-
+VGASTIRYRRSLAFREPFEIRTKVIGWDEKAFYLEQRFVSKRDGFISAVMLCRQNVVRCS
+PE-QII-----EFVCKR-KI-TCPEFPEDLKHWLDYISASSQALRA-------ESGLEKK
+DE----------------------------------------------------------
+------------------------------
+>ENSGMOP00000006327 ENSGMOG00000005963	203	them6	protein THEM6-like	Gadus_morhua	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWLLWVLVALLTLFSCLDVWYFL--RAAAVLTRA-WFQTPVWDVTAEQVVAGRVLP
+-------RDID-MCHMNNARYLRECDFARF----SLYMRNGVFKAL-R----ALGASMV-
+VGATTVRYRRALCIGEGFELRSRIVTWDEKSFFLEQRFVSTKDGLVCAVMYCRQNIIRGS
+PD-KIM-----QHLCKR-KV-ECPEFPEDLQHWVNFISASSQALRA-------EGGLEDK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSNMLP00000038028 ENSNMLG00000023495	203	THEM6	thioesterase superfamily member 6	Neogobius_melanostomus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+----MLLFLVVCAVLLLFCSLDVWYFL--RGVQVFLES-VFQPGISDILAEQKVDGVVST
+-------HDLDYMGHMNNSRYLRECDFARF----HYYMRNGFFMAS-R----KLGAKMV-
+VGASTIRYRRSLNFREAFMIRTKVLGWDDKAFYLEQRFVSKKDGFVSAIMLCRQNVVRCS
+PE-QVI-----EQVCKK-KI-ECPEFPEDLKHWINYITASSQALRA-------ESGLEDK
+NK----------------------------------------------------------
+------------------------------
+>ENSNMLP00000038029 ENSNMLG00000023496	203	them6	thioesterase superfamily member 6	Neogobius_melanostomus	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVLWLLGVLLALFSSLDVWYFL--RAGVVILKA-WFQKPVFDITAEQVVSGRVTF
+-------NDID-MCHMNNARYLRECDFARF----SLYTRNGVFKAV-R----ALRGTMV-
+VGANTIRYRRALCIGEGYELRSRIVTWDEKAFYLEQRFVSTKDGVVCAVMYCKQSVIRST
+PD-QIM-----QHLCKR-KV-EIPEFPEDLQHWVNFISASSQALRA-------ESGLDDK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSPMGP00000000089 ENSPMGG00000000090	203	them6	thioesterase superfamily member 6	Periophthalmus_magnuspinnatus	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVLWLLGALLALFSCLDVWYFL--RAGVVILKA-WFQPPVFDITAEQILSGRVTF
+-------NDID-MCHMNNARYLRECDFARF----SLYTRNGVFKAV-R----ALRANMV-
+VGANTIRYRRALCIGEAYELRSRIVTWDDKAFYLEQRFVSSKDGVVCAVMYCKQSVIRST
+PD-QIM-----QHLCKR-KV-EVPEFPEDLQHWVSFISASSQALRA-------ESGLEDK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSEEEP00000003419 ENSEEEG00000001908	217	THEM6	protein THEM6-like	Electrophorus_electricus	623A
+------------------------------------------------------------
+--------------------------------MYWPN------------------PRNTV
+SDFRRMMLWVVSGLLVVVGSFDVWYFL--RGTWIVIRS-LLREPMRDVVGEQVIYGRVLP
+-------HDLDHMGHMNNSRYLRECDFARF----AYYTHNRMYKAF-R----ALRATVV-
+VGASPIRYRRSLALWEAFEVRSRIVAWDEKSFYVEQRFVSKSDGFVSAVMLCRQNVIRST
+PE-KIL-----EFLCKK-KV-ECPDIPEDLQHWIKYISASSQALRA-------ESGLEEK
+TK----------------------------------------------------------
+------------------------------
+>ENSEEEP00000000943 ENSEEEG00000000639	205	no_data	protein THEM6-like	Electrophorus_electricus	623B
+------------------------------------------------------------
+------------------------------------------------------------
+NEMEDPVLWGFAILLALFCSIDVWYYL--RTMAIILQA-WFLPPVFDVTGQQAIGGRVLL
+-------QDID-LCHMNNARYLRECDFARL----SLYARNGVLKTI-R----ALGANII-
+VGATTVRYRRALCVGEAFELRSRIVTWDEKSFYLEQRFVSCKDGMVAAVVYCKQNVLRCS
+PD-KIL-----QHLCKR-KV-EVPEFPEDLKHWISFIAASSQALKA-------ESGREKS
+E-----------------------------------------------------------
+------------------------------
+>ENSMMDP00005025152 ENSMMDG00005012048	206	no_data	protein THEM6-like	Myripristis_murdjan	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLVLCALLLLFCSLDVWYFL--RGAHVFVHA-WFQPRIWDLLAEQSINGIVLP
+-------HDLDYFGHMNNSRYLRECDFARF----CHYMRSGIFMGS-C----KMGAKLI-
+VGASTIRYRRSLGLGEAFEIRTKILGWDEKAFYLEHRFVSKRDGFVSAVMLCRQNVVRGS
+PE-KLI-----EFICKR-KI-ECPEFPEDLKHWISFISASSQALRA-------ESGLEEK
+NKQMLT------------------------------------------------------
+------------------------------
+>ENSMMDP00005025148 ENSMMDG00005012044	203	them6	protein THEM6-like	Myripristis_murdjan	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVLWALAALLALFCTLDVWYFL--RAAAVVLRA-WFQPPVWDVTAEQIILGRVLP
+-------HDID-MCHMNNARYLRECDFARF----SLYVRNGVFKAL-R----ALGASMV-
+VGATTIRYRRALCIGEGFELRSRIVTWDDKSFFLEQRFVSAKDGLVCAVMYCKQNVIRGS
+PD-KIM-----QHLCKR-KV-ECPEFPEDLQHWVSFISASSQTLRA-------ESGLDEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSSORP00005002406 ENSSORG00005001429	202	THEM6	protein THEM6-like	Sphaeramia_orbicularis	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLVLGALLLLFCSLDVWYFL--RGAQVFFEA-WFQPRIWDILAEQSIDGMVLP
+-------HDLDYMGHMNNSRYLRECDFARF----HHYMRNGLFMAS-R----KLGAKMV-
+VGASTIRYRRSLAFREAFEIRTKVVGWDEKAFYLEQRFVSKRDGFVSAVMLCRQNVVHCS
+PD-RII-----EFVCKR-KI-ECPAFPEDLKHWISFISASSQALRA-------ESGLEEK
+NK----------------------------------------------------------
+------------------------------
+>ENSSORP00005002402 ENSSORG00005001428	203	them6	protein THEM6-like	Sphaeramia_orbicularis	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVLWVLAALLALFCCLDVWYFL--RVPLVIIQA-WFQPPVWDITAEQTLTGRVTL
+-------HDID-MCHMNNARYLRECDFARF----SLYTRNGVFKAA-R----ALGASMV-
+VGATTIRYRRALCIGEGYELRSRIVTWDDKAFYLEQRFVSTKDGLVCAVMYCKQSVVRGS
+PD-KIM-----QHLCKR-KV-ECPEFPEDLQHWVNFISASSQALRA-------ESGLEEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSLBEP00000021428 ENSLBEG00000016472	202	no_data	protein THEM6-like	Labrus_bergylta	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLVLGALLLLFCSLDVWYFL--RGVHVFVEA-WFQPRIWDILAEQSIEGMVLP
+-------HDLDYMGHMNNSRYLRECDFARF----HHYMRNGLFMAS-R----KLGAKMV-
+VGASTIRYRRSLAFREAFEIRTKILGWDEKAFYLEQRFVSKRDGFVSAVMLCRQNVVRSS
+PE-III-----EYICKR-KI-ECPKLPEDLKHWINYISASSQALRA-------ESGLEEK
+NK----------------------------------------------------------
+------------------------------
+>ENSLBEP00000021444 ENSLBEG00000016485	203	them6	protein THEM6-like	Labrus_bergylta	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVLWVLAALLALFCCLDVWYFL--RAAAVILRA-WFQPPIRDITAEQTLTGRVTT
+-------HDID-MCHMNNARYLRECDFARF----SLYTRNGVFKAL-R----ALRASMV-
+VGATTIRYRRALYIGEGYELRSRIVTWDDKAFFLEQRFVSTKDGLVCAVMYCKQSIIRSS
+PD-KIM-----QHLCKR-KV-ECPEFPEDLQHWVNFISASSQALRA-------ESGLEEK
+-----DK-----------------------------------------------------
+------------------------------
+>ENSPKIP00000015753 ENSPKIG00000002358	201	them6	thioesterase superfamily member 6	Paramormyrops_kingsleyae	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLWVLSGLLLLFCSLDVWYFL--RGAVTVLRA-WLQGPVWDILAEQSVRGRVLL
+-------QDVDFMGHMNNGRYLRECDFARF----AHYTRNGLMKGT-R----ALGANMV-
+VGASTIRYRRSLRLGEAFELRSRIVSWDDKAFFVEQRFVSCADGFVAAVMFCRQNVLRSS
+PD-KVL-----QFLCKR-KV-ECPEVPEDLQHWMNYIKSSSEGLRA-------ENDLEKS
+K-----------------------------------------------------------
+------------------------------
+>ENSSFOP00015073264 ENSSFOG00015031535	204	THEM6	protein THEM6-like	Scleropages_formosus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+---MEMLLWVLAGLLLLFSSLDVWYFL--RAVVVVLRA-WLQGPVWDVLAEQSMLGRVLP
+-------HDMDYLGHMNNGRYLRECDFARF----ALYTRNGLFKAT-R----ALGGNMV-
+VGASTIRYRRSLGLGEAFELRSRIVAWDDKSFYLEQRFVSCSDGFVSAIMLCRQNVLRSS
+PD-KIL-----QFLCKK-KV-ECPEYPEELKHWISFITASSQALRA-------ESSVEDK
+SK----------------------------------------------------------
+------------------------------
+>ENSCGOP00000034636 ENSCGOG00000016053	202	THEM6	protein THEM6-like	Cottoperca_gobio	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLVLGALLLLFCTLDVWYFL--RGAQVFFQA-WFQPRIWDLLAEQSIDGMVLP
+-------HDLDYMGHMNNSRYLRECDFARF----HHYMRNGLFMAS-R----KLGARMV-
+VGASTIRYRRSLAFREAFEIRTKIVGWDEKAFYVEQRFVSKKDDFVSAVMLCRQNVVHCS
+PE-SII-----EFVCKR-KI-ECPELPEDLKHWISFISASSQALRA-------ESGLEEK
+NK----------------------------------------------------------
+------------------------------
+>ENSCGOP00000034638 ENSCGOG00000016056	203	them6	protein THEM6-like	Cottoperca_gobio	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVLWVLAALLALFCTLDVWYFL--RVAAVILRA-WFLPPIWDVTAEVIQTGRVTP
+-------NDID-MCHMNNARYLRECDFARY----ALYMRNGMFKAV-R----ALKASVV-
+VGATTIRYRRALCIGEGYELRSRIVTWDDKAFFLEQRFVSAKDGLVCAVMYCKQSIVRSS
+PD-KIM-----QHLCKR-KV-ECPEFPEDLQHWVNFISASSQALRA-------ESGLDEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSGACP00000022717 ENSGACG00000017198	202	no_data	no_data	Gasterosteus_aculeatus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLVLGALLLLFCTLDVWYFL--RGAYVFAQA-WFQPRVRDMLAEQSIDGTVLP
+-------HDLDYMGHMNNSRYLRECDFARF----HHYMRNGLFMAS-W----KLGARLV-
+VGASTIRYRRSLAFREAFEIRTKIVGWDEKAFYIEQRFVSKKDGFVSAVMLCRQNVVHCS
+PE-SIL-----EFVCKR-KI-DCPDFPEDLKHWISFISASSQALRA-------ESGLEEK
+NK----------------------------------------------------------
+------------------------------
+>ENSGACP00000022718 ENSGACG00000017202	203	them6	thioesterase superfamily member 6	Gasterosteus_aculeatus	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVLWVLAALLALFCTLDVWYFL--RVAAVIARA-WFQPPIWDVTAEQIQTGRVSP
+-------GDID-MCHMNNARYLRECDFARF----SLYMRNGVFKAL-R----ALKASMV-
+VGATTIRYRRALCIGEGYELRSRVVTWDDKAFFLEQRFVSTKDGVVCAVMYCKQSVVRSS
+PD-KIM-----QHLCKR-KV-ECPEFPEDLQHWVNFISASSQALRA-------ESGLDEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSCSEP00000019111 ENSCSEG00000012241	212	no_data	no_data	Cynoglossus_semilaevis	623A
+------------------------------------------------------------
+--------------------------------MLWA--------------------TSVL
+VKGREMLLLVLGVLLLLFSTLDVWYFL--RGVQVFVKA-WFQPRISDILAEQSIDGVVLP
+-------HDLDYMGHMNNSRYLRECDFARF----HHYMRNGLFMAS-H----KLGAKMV-
+IGASTIRYRRSLAFREAFEIRTKVLGWDEKAFYLEQRFVSKKDGFVSAIMLCRQNVVHCS
+PE-RII-----EFVCKR-KVSSKV-VAKSVN------------------------CLQRK
+SFHLIYIVLLINLIFQ--------------------------------------------
+------------------------------
+>ENSCSEP00000019105 ENSCSEG00000012235	203	them6	protein THEM6-like	Cynoglossus_semilaevis	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVLGVLATLLALFCSLDVWYFL--RVAVVVLRA-WFQPPVWDVTAEQVLLGRVTP
+-------HDID-MGHMNNARYLRECDFARY----SLYVRNGVWKAV-R----ALRGSMV-
+VGATTMRYRRALCIGEGYELRSRIVTWDDKAFYLEQRFVSTKDGLVCAIMYCKQNVICSS
+PD-KIM-----QHLCKR-KV-ECPEFPGDLQHWVNFISSNSQTLRA-------ESGLEEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSSMAP00000027975 ENSSMAG00000017118	209	THEM6	thioesterase superfamily member 6	Scophthalmus_maximus	623A
+------------------------------------------------------------
+--------------------------------------------------------MYSC
+SR--EMLLLVLGALLLLFCTLDVWYFL--RGAQVFIQA-LFQPRIWDILAEQRIDGMVLP
+-------HDLDYMGHMNNSRYLRECDFARF----HHYMRNGLFMAA-H----KLGAKMV-
+VGASTIRYRRSLAFREAFEIRTKVVGWDEKAFYLEQRFVSKNDGFVSAVMLCRQNVVKCS
+PE-SII-----EYVCKR-KI-ECPVFPEDLKHWISFISASSQALRA-------ESGLEEK
+NK----------------------------------------------------------
+------------------------------
+>ENSSMAP00000027981 ENSSMAG00000017123	261	them6	thioesterase superfamily member 6	Scophthalmus_maximus	623B
+---------------------------------------------------------MFY
+FEDRNRKCFKSVWLNVQLRCFFWCGVEDCVSVCVWSSVCVDC-R-------FGEKREESG
+SREMWWVLWVLAALLALFCSLDVWYFL--RVAAVVLRA-WLQPPIWDVTAEQVLTGRVTP
+-------NDID-MCHMNNARYLRECDFARF----SLYTRNGVFKAT-R----ALKAAMV-
+VGATTIRYRRALCIGEGYELRSRIVTWDDKAFFLEQRFVSTKDGLVCAVMYCKQSVVRIS
+PD-KIM-----QHLCKR-KV-ECPEFPEDLQHWVNFISASSQALRA-------ESELEEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSHHUP00000041207 ENSHHUG00000025456	169	THEM6	thioesterase superfamily member 6	Hucho_hucho	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLCALVALLLLFSCLDVWYFL--RGVVVVVQA-WFQPPVWDVLAEQSVAGRVLP
+-------HDLDYMGHMNNARYLRECDFARL----DQHTRIGLFHCTLR----TLKATMV-
+VGASTIRYRRSLAFGEAFDLRTRIVAWDEKSFFVEQRFVSRSDGFISAVMLCRQNVLRSN
+PE-SIL-----QLLCKR-KV----------------------------------------
+------------------------------------------------------------
+------------------------------
+>ENSOTSP00005079892 ENSOTSG00005037565	236	them6	protein THEM6-like	Oncorhynchus_tshawytscha	623B
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLWVLGVLLLLFSSLDVWYFV--RAAVTVVRA-WFQKPVWDVLGEQSVSGRILL
+-------HDID-LGHMNNARYLRECDFARF----SLYSRNGVFKAC-R----ALRATMV-
+VGATTIRLRRALCLGEAFELRTRIMVWDEKAFYLEQRFVSCRCVSASIMPYGLQWNCVWH
+GDNCVVYNLFWLHVLHPILI-SLSFFPLPGTVWWQLSCCVNRTSCAAVL-----------
+---TRSYSSSAREKWSVPTTLRICSTGSALSQPAARP-----------------------
+------------------------------
+>ENSSTUP00000044966 ENSSTUG00000018924	161	no_data	no_data	Salmo_trutta	623A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------SREMLLCA-WFQPPVSDVLAEQCVAGRVLP
+-------HDLDYMGHMNNARYLRECDFARL----DEHTHIGLPP-------------WW-
+WGPSTIRYRRSLAFGEAFDLRTSHRGMGRQSFFVEQRFVSQGDGFISAVMLCRQNVLRSN
+PE-SIL-----QAALQE-KGGSVPDYPEDLQHWISFISASSLRP----------------
+------------------------------------------------------------
+------------------------------
+>ENSSTUP00000044741 ENSSTUG00000018868	233	them6	protein THEM6-like	Salmo_trutta	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MEMLLWVLGVLLLLFSSLDVWYFV--RAAVTVVRA-WFQKPVWDVLGEQSVSGRVLL
+-------HDID-LGHMNNARFLRECDFARF----SLYSRNGVFKAC-R----ALRATMV-
+VGATTIRLRRALCLGEAFELRTRIVVWDEKAFYLEQRFVSCRDGLVAAVMLCKQNVVRSS
+PD-KIL-----QFLCKR-KV-ECPDYPEDLQHWISFISASSQALRA-------QSGLEDK
+TGAQEDKEK-----WSVPTTLRICSTGLASSQPAARP-----------------------
+------------------------------
+>ENSLOCP00000010261 ENSLOCG00000008438	206	them6	thioesterase superfamily member 6	Lepisosteus_oculatus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-MEIDMWLWILAVLLLLFSNTDVWYFL--RGAVVVLRA-YFQPPVWDVLAEQRRSGRVLP
+-------HDIDFMGHMNNARYLRECDFARF----SLYTRNGMFKAA-R----ALGANMV-
+VGASTVRYRRSLHLGEPFELRSRVLAWDDKAFFVEQRFVSKVDGFLSAIMLCRQNILRSS
+PD-QIM-----QHLCKR-KV-ESPEFSEELQHWISYNNASSQALKA-------ENSPDGK
+LQ----------------------------------------------------------
+------------------------------
+>ENSIPUP00000011219 ENSIPUG00000007650	211	THEM6	protein THEM6-like	Ictalurus_punctatus	623A
+------------------------------------------------------------
+--------------------------------------------------------MFLF
+PCERDMLLWVLSSLLVLFSTVDLWYFV--RGAWAVLKY-LFQDPVRDVLGEQVVNGRVLL
+-------HDIDYMGHMNNARYLRECDFARL----SYYARNGMFKAF-H----ALGARMV-
+IGASTIRYRRSLGLGEAFELRSRIMAWDEKSFFVEQRFVSKSDGFISAVILCRQNVIHST
+PD-QIL-----QHVCKR-KV-DCPDIPEDLQHWINFISANSQALRA-------ECGLDEK
+TK----------------------------------------------------------
+------------------------------
+>ENSIPUP00000011197 ENSIPUG00000007634	248	them6	protein THEM6-like	Ictalurus_punctatus	623B
+------------------------------------------------------------
+------------------------------------------------------------
+--MGDLLLWVLAVLLVLFCFFDVWYYL--RVLAVLLRA-WFLSPVFDVTAEQAVGGHVLL
+-------NDID-MCHMNNARYLRECDFARI----SLCARNGVLKAT-R----ALGAAMV-
+AGAITVRYRRPLCVGEKFELRTRIVTWDEKAFYIEQRFVSSKDGMVAAVLFCKLNVMRGS
+PD-KIL-----QHLCKR-KV-G------NGLKWMKWNDTTKATVCLIWTLASRQ-YIDGT
+-----AYFLSA---YSNI------IAATNSHSPASFFPLEVNKTKHAVHI---HTAKLES
+PLS---------------------------
+>ENSSAUP00010026035 ENSSAUG00010011322	202	THEM6	protein THEM6-like	Sparus_aurata	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLVLGALLLLFCSLDVWYFL--RGAQVFIQA-WFQPRIWDILAEQSIDGMVLP
+-------HDLDYMGHMNNSRYLRECDFARF----HHYMRNGLFMAS-R----KLGAKMV-
+VGASTIRYRRSLAFREAFEIRTKVLGWDEKAFYLEQRFVSKADGFVSAVMLCRQNVVRCS
+PE-TII-----EFVCKR-KI-ECPEFPEDLKHWISFISASSQALRA-------ESGLEEK
+NK----------------------------------------------------------
+------------------------------
+>ENSSAUP00010026038 ENSSAUG00010011325	203	them6	protein THEM6-like	Sparus_aurata	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVLWVLAALLALFCTLDVWYFL--QAVVVIIRA-WFKPTIWDVTAEQTITGRVTP
+-------HDID-MCHMNNARYLRECDFARF----SLYVRNGVFKAV-R----ALGGSMV-
+VGATTIRYRRALCIGEGYELRSRIVTWDEKAFFLEQRFVSTKDRLVCAVMYCKQTVIRSS
+PD-KIM-----QHLCKR-KV-ECPEFPEDLQHWVNFISASSQALRA-------ESGLDEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSMAMP00000026279 ENSMAMG00000017653	202	no_data	protein THEM6-like	Mastacembelus_armatus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLVLGALLLLFCSLDVWYFL--RGAQVFIQA-WFQPRIWDILAEQSIDGMVLP
+-------HDLDYMGHMNNSRYLRECDFARF----HHYMRNGLFMAS-H----KLGAKMV-
+IGASTIRYRRSLAFCEAFEIRTKILGWDEKAFYLEQRFVSKKDGFVSAVMLCRQNVVHCS
+PE-TII-----EFVCKR-KI-ECPEFPEDLKHWISFISASSLALRA-------ESGLEEK
+NK----------------------------------------------------------
+------------------------------
+>ENSMAMP00000026269 ENSMAMG00000017646	203	them6	protein THEM6-like	Mastacembelus_armatus	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVLWVLAALLALFCSLDVWYFL--RVVLVILRA-WFQSPVRDITAEQIITGRVTP
+-------HDID-MCHMNNARYLRECDFARF----SLYMRNGVFKAT-R----ALGASLV-
+VGATTIRYRRALCIGEGYELRSRVVTWDDKAFFLEQRFVSTKDGLVCAVMYCKQSVIRST
+PD-KIM-----QHLCKR-KV-ECPEFPEDLQHWVKFISASSQTLRA-------ESGLEEK
+-----KK-----------------------------------------------------
+------------------------------
+>ENSMALP00000029975 ENSMALG00000020731	210	them6	thioesterase superfamily member 6	Monopterus_albus	623B
+------------------------------------------------------------
+------------------------------------------------------------
+---MWWVLWVLAALLALFCSLDVWYFL--RVVVVIVRA-WLQPPVKDVTAEQIVTGRVTP
+-------HDID-MCHMNNARYLRECDFARF----SLFTRNGVFKAL-R----ALRASMV-
+VGATTIRYRRALCIGEGYELRSRIVTWDDKAFFLEQRFVSTKDGLVCAVMYCKQSVIRSS
+PE-KIM-----QHLCKR-KV-ESPEFPKDLQHWVNFISASSLALRAESGALRAESGLEEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSHCOP00000011404 ENSHCOG00000014208	203	THEM6	protein THEM6-like	Hippocampus_comes	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLVLGGLLVLFCTVDVWYFL--RAVYVLIQT-LLLPRIRDVLAEQQLDGVVLP
+-------HDVDYKGHMNNSRYLRECDFARF----HHYMRTGLFLAL-C----RMGAKMV-
+IGASTIRYRRSLAFAETFEIRTRILGWDDKAFYLEQRFVSKKDGFVSAVLLCRQNVVHSS
+PE-EIV-----EFVCKT-KI-KCPPLGEDVKHWINFISANSQALRA-------ESGLEQK
+KNE---------------------------------------------------------
+------------------------------
+>ENSHCOP00000024688 ENSHCOG00000014211	202	them6	protein THEM6-like	Hippocampus_comes	623B
+------------------------------------------------------------
+------------------------------------------------------------
+----MWLLLLLAALLALFCSLDVWYFV--RAAAVFVRA-WLQPPVRDVTAEQVMTGRVAP
+-------RDID-MCHMNNARYLRECDFARF----SLYMRNGVFKAL-R----ALKASIV-
+VGATTIRYRRPLCIGESYELRSRVVTWDDKAFFLEQRFVSSKDGVVCAVMYCKQAVLRSS
+PD-NIM-----QYLCKR-KV-ECPEFPEDLQHWINFISASSQNLRA-------ESGLQEK
+-----NK-----------------------------------------------------
+------------------------------
+>ENSMMOP00000015107 ENSMMOG00000011542	202	no_data	no_data	Mola_mola	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MLLLLLSALLLLFCSLDVWYFL--RGAQVFIEA-WFQPRILDILAEQSIDGMVLP
+-------HDLDYMGHMNNSRYLRECDFARF----HHYMRNGLFMAS-H----KLGAKMV-
+VGASTIRYRRSLAFREAFEIRTKVLGWDEKAFYLEQRFVSKKDGFVSAIMLCRQNVVRCS
+PE-TII-----EFVCKR-KI-ECPEFPEDLKHWISFITASSQALRA-------ESGLEDK
+IK----------------------------------------------------------
+------------------------------
+>ENSMMOP00000015110 ENSMMOG00000011544	208	them6	thioesterase superfamily member 6	Mola_mola	623B
+------------------------------------------------------------
+----------------------------------------------------------MC
+LREMWWVLCVLAALLALFCSLDVWYFL--RAAVVIIRA-WVQPPVRDITAEQTLTGRVTP
+-------HDID-MCHMNNARYLRECDFARF----SLYTRNGVFKAL-Q----ALGASIV-
+VGATTIRYRRALCIGEGYELRSRVVTWDDKAFFLEQRFVSTRDGLVCAIMYCKQSVIRSS
+PD-KIM-----QHLCKR-KV-ECPEFPDDLQHWVNFISASSQALRS-------ESGHEEK
+-----SK-----------------------------------------------------
+------------------------------
+>ENSTRUP00000034742 ENSTRUG00000013600	204	no_data	protein THEM6-like	Takifugu_rubripes	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-M--LLLLLLLGAALLLFCSLDVWYFL--RGARVFIEA-WFQPQIRDILAEQTIDGIVLP
+-------HDLDYMGHMNNSRYLRECDFARF----HHYMRNGLFMAS-F----KLGAKMV-
+VGASTIRYRRSLAFREAFEIRTKVLGWDDKAFYLEQRFVSKKDGFVSAIMLCRQNMVRHS
+PE-SII-----EFNCKK-KV-ECPEFPEDLKHWIKFISASSQALRA-------ECGLEDK
+KK----------------------------------------------------------
+------------------------------
+>ENSTRUP00000060414 ENSTRUG00000013614	222	them6	protein THEM6-like	Takifugu_rubripes	623B
+------------------------------------------------------------
+-----------------------------------MLIHPDH-P--------TGYVPCVC
+SSEMWWVLLLLLALLVLFSTLDVWYFL--RAAVVVLRA-WFQTPVWDVTAEQTLTGRVTT
+-------HDID-MCHMNNARYLRECDFARF----SLYIRNGVFKAL-R----ALGASMV-
+VGATTIRYRRALCIGEGYELRSRIVTWDDKAFFLEQRFVSTKDGLVCAVMYCKQSIIRSS
+PG-KIM-----EHLCKR-KV-ECPEFPEDLQHWVNFISASSQALRT-------ESGLHEK
+-----NQ-----------------------------------------------------
+------------------------------
+>ENSTNIP00000021801 ENSTNIG00000018626	205	no_data	no_data	Tetraodon_nigroviridis	623A
+------------------------------------------------------------
+------------------------------------------------------------
+ML--LMLLLLVGAALLLFISLDVWYFL--RGARVLVEA-WFKPQVRDILAEQSFDGMVLT
+-------HDLDYMGHMNNSRYLRECDFARL----HHYMRNGLFMAS-F----KLGAKMV-
+VGASTIRYRRSLAFREAFEIRTKVLGWDDKAFYLEQRFVSKKDGFVSAIMLCRQNMVHHS
+PE-RII-----EFICKE-KI-ECPEFPEELKHWIKFISASSQALRA-------ECGLEDK
+KK----------------------------------------------------------
+------------------------------
+>ENSTNIP00000021800 ENSTNIG00000018625	206	them6	thioesterase superfamily member 6	Tetraodon_nigroviridis	623B
+------------------------------------------------------------
+------------------------------------------------------------
+SSDMWWVLLLLLALLVLFSSLDVWYFL--RAAAVMLRA-WFQPPVWDVTAEQTLTGRVTT
+-------HDID-MCHMNNARYLRECDFARF----SLYVRNGVFKAL-R----ALKASMV-
+VGATTIRYRRALCIGESYELRSRIVTWDEKAFFLEQRFVSTKDGLVCAVMYCKQSVIRSS
+PD-KIM-----QHLCKR-KV-ECPEFPEDLQHWVSFISASSQALRT-------ESGLHEK
+-----TQ-----------------------------------------------------
+------------------------------
+>ENSBBBP00000012350 ENSBBBG00000020174	193	no_data	no_data	Bison_bison_bison	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-----------MVEKLPAGLLLGWLRN---------GPRPRQPRVRDLLAEQSYAGRVLP
+-------SDLDLLLHMNNARYLREADVARI----AHLTRCGVLEAL-R----ALGARAV-
+LAASCARYRRSLRLFEPFEVRTRLLGWDDRAFYVEARFISLRDGFVCALLRSRQHVLGTS
+PE-RVV-----QHLCKR-RV-SRPPSPARLPLDQSSISRQIPLLHV-------RAGQSVA
+CQGAG-------------------------------------------------------
+------------------------------
+>ENSBTAP00000006673 ENSBTAG00000005063	208	THEM6	thioesterase superfamily member 6	Bos_taurus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLELLVALLALALAYFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQSYAGRVLP
+-------SDLDLLLHMNNARYLREADVARI----AHLTRCGVLEAL-R----ALGARAV-
+LAASCARYRRSLRLFEPFEVRTRLLGWDDRAFYVEARFISLRDGFVCALLRSRQHVLGTS
+PE-RVV-----QHLCKR-RV-EPPELPADLQHWIAYNEASSQLLRA-------ESGLHDI
+LKEQ--------------------------------------------------------
+------------------------------
+>ENSCDRP00005019246 ENSCDRG00005013436	188	THEM6	thioesterase superfamily member 6	Camelus_dromedarius	623A
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------MAGTWCAC--RAPCCAR---ACCSRASATCWLSRLRGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLARCGVLGAL-R----SLGARAV-
+LAASCARYRRSLRLLEPFEVRTRLLGWDDRAFYLEARFISLRDGFVCALVRSRQHVLGTS
+PE-RVV-----QHLCKR-RV-EPPELPEDLQHWIAYNEASSQLLRA-------ESGLSDV
+VKDE--------------------------------------------------------
+------------------------------
+>ENSCHIP00000021106 ENSCHIG00000019531	208	THEM6	thioesterase superfamily member 6	Capra_hircus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLELLVALLALALAYFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQSYAGRVLP
+-------SDLDLLLHMNNARYLREADVARI----AHLARCGVLEGL-R----ALGARAV-
+LAASCARYRRSLRLFEPFEVRTRLLGWDDRAFYMEARFISLRDGFVCALLRSRQHVLGTS
+PE-RVV-----QHLCKR-RV-EPPELPADLQHWIAYNEASSQLIRA-------ESGLHDV
+LKEQ--------------------------------------------------------
+------------------------------
+>ENSCWAP00000014530 ENSCWAG00000011271	208	THEM6	thioesterase superfamily member 6	Catagonus_wagneri	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVAVLALALAYFALLDGWYLV--RVPWAVLRARLLQPRVRDLLAEQSYAGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLTRCGVLGAL-R----ALGAHTV-
+LAASCARYRRSLRLLEPFEVRTRLLGWDDRAFYLEARFISLRDGFVCALLRSRQHVLGTS
+PE-RVV-----QHLCKR-RV-EPPELPEDLQHWIAYNEASSQLLRA-------ESGLSDI
+VKDQ--------------------------------------------------------
+------------------------------
+>ENSDLEP00000022596 ENSDLEG00000016390	208	THEM6	thioesterase superfamily member 6	Delphinapterus_leucas	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLMAVLTLALAYFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQSYSGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLARCGVLGAL-R----ALGARAV-
+LAASCARYRRSLRLLEPFEVRTRLLGWDDRAFYLEARFISLRDGFVCALLRSRQHVLGTS
+PE-RVV-----QHLCKR-RV-EPPELPADLQHWIAYNEASSQLLRA-------ESGLGSV
+VKDQ--------------------------------------------------------
+------------------------------
+>ENSMMSP00000019072 ENSMMSG00000014433	208	THEM6	thioesterase superfamily member 6	Moschus_moschiferus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLELLVALLALALAYFALLDGWYFL--RVPCAVLRAHLLQPRIRDLLAEQSYAGRVLP
+-------SDLDLLLHMNNARYQREADVARA----AHLARSGVLEAL-R----ALGAHTV-
+LAASCARYRRSLRLFEPFEVRTRLLGWDDRAFYVEARFISLRDGFVCALLRSRQHVLGTS
+PE-RVL-----QHLCKR-RV-EPPELPADLQHWIAYNEASSQLLRA-------ESGLHDV
+LKEQ--------------------------------------------------------
+------------------------------
+>ENSOARP00000001895 ENSOARG00000001806	208	THEM6	thioesterase superfamily member 6	Ovis_aries	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLELLVALLALALAYFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQSYAGRVLP
+-------SDLDLLLHMNNARYLREADVARI----AHLARCGVLEGL-R----ALGARAV-
+LAASCARYRRSLRLFEPFEVRTRLLGWDDRAFYMEARFISLRDGFVCALLRSRQHVLGTS
+PE-RVV-----QHLCKR-RV-EPPELPADLQHWIAYNEASSQLIRA-------ESGLHDV
+LKEQ--------------------------------------------------------
+------------------------------
+>ENSPCTP00005022347 ENSPCTG00005015996	208	THEM6	thioesterase superfamily member 6	Physeter_catodon	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVAVLALALAYFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQSYAGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLARCGVLGAL-R----ALGARAV-
+LAASCARYRRSLRLLEPFEVRTRLLGWDDRAFYLEARFISLRDGFVCALLRSRQHVLGTS
+PE-RVV-----QHLCKR-RV-EPPELPADLQHWIAYNEASSQLLRA-------ESGLSDV
+VKDQ--------------------------------------------------------
+------------------------------
+>ENSSSCP00000059513 ENSSSCG00000032063	208	THEM6	thioesterase superfamily member 6	Sus_scrofa	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVAVLALSLAYFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQSYAGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLARCGVLGAL-R----ALGARAV-
+LAASCARYRRSLRLLEPFEVRTRLLGWDDRAFYLEARFISLRDGFVCALLRSRQHVLGTS
+PE-RVV-----QHLCKH-RV-EPPELPEDLQHWIAYNEASSQLLRA-------ESGLSDV
+GKDQ--------------------------------------------------------
+------------------------------
+>ENSTTRP00000013188 ENSTTRG00000013916	208	THEM6	thioesterase superfamily member 6	Tursiops_truncatus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLMAVLALALAYFALLDGWYLV--RVPCAVLRAHLLQPRVSDLLAEQSYSGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLARCSVLGAL-R----ALGARAV-
+LAASCARYRRSIHMLEPFEVRTRLLGWDDRAFYLEARFISLRDGFVCALLRSRQHVLGTS
+PE-RVV-----QHLCKR-RV-EPPELPADLQHWIAYNEASSQLLRA-------ESGLGSV
+VKDQ--------------------------------------------------------
+------------------------------
+>ENSAMEP00000001474 ENSAMEG00000001405	211	THEM6	thioesterase superfamily member 6	Ailuropoda_melanoleuca	623A
+------------------------------------------------------------
+------------------------------------------------------------
+---LGVGVMRLVVALAYFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQRYGGRVLP
+-------SDLDLLLHMNNARYLREADVARAAHRAPHLARCGVLGAL-R----ALGARAV-
+LAASCARYRRSLRLFEPFEVRTRLLGWDDRAFYLEARFISLRDGFVCALLRSRQHVLGTS
+PE-RVV-----QHLCKR-RV-EPPELPEDLRHWVAYNEASSQLLRA-------ESGLSDV
+VKDQ--------------------------------------------------------
+------------------------------
+>ENSFCAP00000041773 ENSFCAG00000041926	208	THEM6	thioesterase superfamily member 6	Felis_catus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVAPLVLALVYFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQRYAGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLTRCGVLGAL-R----ALGARAV-
+LAASCARYRRSLRLFEPFEVRTRLLGWDDRAFYLEARFISLRDGFVCALLRSRQHVLGTS
+PE-RVV-----QHLCKH-RV-EPPELPEDLRHWIAYNEASSQLLRA-------ESGLSDV
+VKDQ--------------------------------------------------------
+------------------------------
+>ENSLCNP00005030399 ENSLCNG00005019824	208	THEM6	thioesterase superfamily member 6	Lynx_canadensis	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVAPLVLALVYFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQRYAGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLTRCGVLGAL-R----ALGARAV-
+LAASCARYRRSLRLFEPFEVRTRLLGWDDRAFYLEARFISLRDGFVCALLRSRQHVLGTS
+PE-RVV-----QHLCKH-RV-EPPELPEDLRHWIAYNEASSQLLRA-------ESGLGDV
+VKDQ--------------------------------------------------------
+------------------------------
+>ENSNVIP00000018929 ENSNVIG00000014835	208	THEM6	thioesterase superfamily member 6	Neovison_vison	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVAALLVALAYFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQRYAGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLARCGVLEAL-R----ALGARAV-
+LAASCTRYRRSLRLFEPFEVRTRLLGWDDRAFYLEARFISLRDGFVCALLRSRQHVLGTS
+PE-CVV-----QRLCKR-RV-EPPELPEDLRHWIAYNEASSQLLRA-------ESGLSDI
+TKDQ--------------------------------------------------------
+------------------------------
+>ENSPLOP00000000861 ENSPLOG00000000652	208	THEM6	thioesterase superfamily member 6	Panthera_leo	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVAPLVLALVYFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQRYAGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLTRCGVLGAL-R----ALGARAV-
+LAASCARYRRSLRLFEPFEVRTRLLGWDDRAFYLEARFISLRDGFVCALLRSRQHVLGTS
+PE-RVV-----QHLCKH-RV-EPPELPEDLRHWIAYNEASSQLLRA-------ESGLSDV
+VKDQ--------------------------------------------------------
+------------------------------
+>ENSSSUP00005035584 ENSSSUG00005022811	201	THEM6	thioesterase superfamily member 6	Suricata_suricatta	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MAGVRRRLLEG-------GDARDQLALFCACSARRDRQV------PLWRG--EGXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----AHLVRCGVLGAL-R----ALGARAV-
+LAASCARYRRSLRLFEPFEVRTRLLGWDDRAFYLEARFVSLRDGFVCALLRSRQHVLGTS
+PE-RVV-----QHLCKH-RV-EPPELPEDVRHWIAYNEASSQLLRA-------ESGLGAG
+KNQ---------------------------------------------------------
+------------------------------
+>ENSVVUP00000018902 ENSVVUG00000013927	195	THEM6	thioesterase superfamily member 6	Vulpes_vulpes	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLAVASLAVALAYFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQRYAGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLARCGVALNQ-GAALSGFGQAPPE
+QGGSQAHRHRGRAAFPPYQ---KWGNWGSKRPW--------------ELLKATPRAMGTW
+SP--WA-----SYSLPL-QV-EPPELPEDLRHWIAYNETSSQLLRA-------ESGLSDV
+VKDQ--------------------------------------------------------
+------------------------------
+>ENSPVAP00000002511 ENSPVAG00000002657	206	THEM6	thioesterase superfamily member 6	Pteropus_vampyrus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+----MLLVALLAIALAYFALLDGWYLV--RVPCAVLRARLLQPRVRYLLAEQRYADRVLP
+-------SDLDLLLHMNNARYLREADVAHV----AHLARCGVLGAL-R----ALGASSV-
+LAASCARYRRSLRLLEPFEVRTRLLGWDDRAFYLEARFVSLRDGFVCALLRTRQHVLGAS
+PE-RVV-----QHLCKR-RV-EPPELPADLQHWVAYNEASSQLLRA-------ESGLGDA
+AKDQ--------------------------------------------------------
+------------------------------
+>ENSRFEP00010022010 ENSRFEG00010014784	207	THEM6	thioesterase superfamily member 6	Rhinolophus_ferrumequinum	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MSGLLVALLALALAYFALLDGWYLV--RVPCAVLRARLLQPRILDLLAESRYAGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLARCGVLGAL-R----ALGARAV-
+LAASCTRYRRSLRLLEAFEVRTRLLGWDDRAFYLEARFISLRDGFVCALLRSSQHVLGTS
+PE-RVV-----QHLCKR-RV-EPPELPEDLLLWIAYNKASSQLLRA-------ESGVDAV
+KNQ---------------------------------------------------------
+------------------------------
+>ENSDNOP00000021145 ENSDNOG00000041098	208	THEM6	thioesterase superfamily member 6	Dasypus_novemcinctus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLWVLGALIALALAFFAVMDGWYLV--RVPCAVLRARLLQPPVRDLLAEQRFAGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLTRCGVLGAL-R----ALGGRAV-
+LAASCARYRRSLRLLEPFEVRTRLLGWDGRAFYLEARFVSRRDGFVCALLRSRQHVLGTS
+PE-RVV-----QHLCKR-RV-EPPELPEDLQHWIAYNEASSQLLRA-------ESGLSEA
+AKEQ--------------------------------------------------------
+------------------------------
+>ENSMODP00000000039 ENSMODG00000000042	222	THEM6	thioesterase superfamily member 6	Monodelphis_domestica	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLWLLVA-LGLATAYFSLLDGWYLV--RVPLAVLRASLLQSPIRDLLAEQTYVGRVLP
+-------SDIDLLLHMNNARYLREADVARA----AHLTRCGVLGAL-R----ALGAHFV-
+LASSCVRYRRSMNVLEPFEVRTRLLGWDGHAFYVESRFISRRDGFLCALLIFRQHVLGTT
+PD-EVV-----QYVCKK-RV-ESPEFSRELQHWISYNEASSQKLRA-------ESGLSST
+KDQLPPNQHFMDETLL-----KAY------------------------------------
+------------------------------
+>ENSPCIP00000050949 ENSPCIG00000037189	321	THEM6	thioesterase superfamily member 6	Phascolarctos_cinereus	623A
+MTLRANDPRGPGGKRESRRGWTRRRNEPRLGGVGGESVRKGGATLRGPPSLALSPLARLP
+RVVSPMRCIRSVSVSL------SPGLSP-GPQAAGGPSHPACARSLAVRQPSDPSPPAAA
+AGMLWLLVA-LGLAAAYFSLLDGWYLV--RVPLAVLRARLLQPPVRDLLAEQSYAGRVLP
+-------SDLDLLRHMNNARYLREADVARA----AHLARCGVLGAL-R----ALGAHAV-
+LAASCARYRRSLRLLEPFEVRTRLLGWDSRAFYLESRFISGRDGFVCALLLFRQHVLGTT
+PD-QVV-----QYLCKR-RV-ESPELPEDLQHWINYNEASSQKLRA-------ESGLSST
+KDQ---------------------------------------------------------
+------------------------------
+>ENSVURP00010024166 ENSVURG00010018524	206	THEM6	thioesterase superfamily member 6	Vombatus_ursinus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLWLLVA-LGLAAAYFSLLDGWYLV--RVPLAVLRARLLQPPVRDLLAEQTYAGRVLP
+-------SDLDLLRHMNNARYLREADVARA----AHLARCGVLGAL-R----ALGAHAV-
+LAASCARYRRSLRLLEPFEVRTRLLGWDGRAFYLESRFISGRDGFVCALLLFRQHVLGTT
+PD-QVV-----QYLCKR-RV-ESPELPEDLQHWISYNEASSQKLRA-------ESGLSST
+KDQ---------------------------------------------------------
+------------------------------
+>ENSEEUP00000011901 ENSEEUG00000013078	208	THEM6	thioesterase superfamily member 6	Erinaceus_europaeus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLELLAAVLALALAYFALLDGWYLV--RVPCAVLRARLLQPRVPDLLAEQRYSGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLTRCGVLGAL-R----ALGAHAV-
+LAASCARYRRSLRLLEPFEVRTRLLGWDDRAFYLEARFVSLRDGFLCALLRSRQHVLGTT
+PE-RVV-----QHLCKR-RV-EPPELPEDLKHWITYNETSSQLLRA-------ESGLGDT
+AKDQ--------------------------------------------------------
+------------------------------
+>ENSPCAP00000013033 ENSPCAG00000013974	208	THEM6	thioesterase superfamily member 6	Procavia_capensis	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLWLLVAPLALALAYFALLDGWYLV--RVPCAVLRARLLQPPVRDLLAEQSFGGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLTRCGVLGAL-R----ELGARTV-
+LAASCARYRRSLRLLEPFEVRTRLLGWDDRAFYLEARFVSLRDGFVCALVRSRQHVLGTS
+PE-RVV-----QQLCKR-RV-APPELPEDLQCWIAYNELSSQLLRA-------ESGLSGA
+AKDR--------------------------------------------------------
+------------------------------
+>ENSECAP00000038868 ENSECAG00000037572	208	THEM6	thioesterase superfamily member 6	Equus_caballus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVALLALALAYFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQRYAGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLARCGVLGAL-R----ALGARAV-
+LAASCARYRRSLHLLEAFEVRTRLLGWDDRAFYLEARFISLRDGFVCALLRSRQHVLGTS
+PE-RVV-----QHLCKR-KV-ESPELPEDLQHWIAYNEASSQLLRA-------ESGLSDV
+VKDQ--------------------------------------------------------
+------------------------------
+>ENSCJAP00000039994 ENSCJAG00000021481	208	THEM6	thioesterase superfamily member 6	Callithrix_jacchus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVALLALGLAVFALLDGWYLV--RFPGAVLCARLLQPRVRDLLAEQCFAGRVLP
+-------SDLDLLLHMNNARYLREADFARV----AHLTRCGVLGAL-R----GLRAHTV-
+LAASCARYRRSLRLLEPFEVRTRLLGWDDRAFYLEARFVSLRDGFVCALLRFRQHLLGTS
+PE-RVV-----QQLCQR-RV-EPPELPADLQHWISYNEASSQLLRM-------ESGLSDV
+TKDQ--------------------------------------------------------
+------------------------------
+>ENSCATP00000040785 ENSCATG00000042993	208	THEM6	thioesterase superfamily member 6	Cercocebus_atys	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVALLALGLAVFALLDGWYLV--RFPCAVLRARLLQPRVRDLLAEQCFPGRVLP
+-------SDLDLLLHMNNARYLREADFART----AHLTRCGVLGAL-R----ELRAHSV-
+LAASCARHRRSLRLLEPFEVRTRLLGWDDRAFYLEARFVSLRDGFVCALLRFRQHLLGTS
+PE-RVV-----QHLCQR-RV-EPPELPADLQHWISYNEASSQLLRM-------ESGLSDV
+TKDQ--------------------------------------------------------
+------------------------------
+>ENSCSAP00000005483 ENSCSAG00000009228	208	THEM6	thioesterase superfamily member 6	Chlorocebus_sabaeus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVALLALGLAIFALLDGWYLV--RFPCAVLRARLLQPRVRDLLAEQRFPGRVLP
+-------SDLDLLLHMNNARYLREADFART----AHLTRCGVLEAL-R----ELRAHSV-
+LAASCARHRRSLRLLEPFEVRTRLLGWDDRAFYLEARFVSLRDGFVCALLRFRQHLLGTS
+PE-RVV-----QHLCQR-RV-EPPELPADLQHWISYNEASSQLLRM-------ESGLSDV
+TKDQ--------------------------------------------------------
+------------------------------
+>ENSGGOP00000002332 ENSGGOG00000002369	208	THEM6	thioesterase superfamily member 6	Gorilla_gorilla	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVALLALGLAVFALLDGWYLV--RLPCAVLRARLLQPRVRDLLAEQRFPGRVLP
+-------SDLDLLLHMNNARYLREADFARV----AHLTRCGVLGAL-R----ELRAHTV-
+LAASCARHRRSLRLLEPFEVRTRLLGWDDRAFYLEARFVSLRDGFVCALLRFRQHLLGTS
+PE-RVV-----QHLCQR-RV-EPPELPADLQHWISYNEASSQLLRM-------ESGLSDV
+TKDQ--------------------------------------------------------
+------------------------------
+>ENSP00000338607 ENSG00000130193	208	THEM6	thioesterase superfamily member 6	Homo_sapiens	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVALLALGLAVFALLDVWYLV--RLPCAVLRARLLQPRVRDLLAEQRFPGRVLP
+-------SDLDLLLHMNNARYLREADFARV----AHLTRCGVLGAL-R----ELRAHTV-
+LAASCARHRRSLRLLEPFEVRTRLLGWDDRAFYLEARFVSLRDGFVCALLRFRQHLLGTS
+PE-RVV-----QHLCQR-RV-EPPELPADLQHWISYNEASSQLLRM-------ESGLSDV
+TKDQ--------------------------------------------------------
+------------------------------
+>ENSMMUP00000050419 ENSMMUG00000042112	208	THEM6	thioesterase superfamily member 6	Macaca_mulatta	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVALLALGLAVFALLDGWYLV--RFPCAVLRARLLQPRVRDLLAEQRFPGRVLP
+-------SDLDLLLHMNNARYLREADFART----AHLTRCGVLGAL-R----ELRAHSV-
+LAASCARHRRSMRLLEPFEVRTRLLGWDDRAFYLEARFVSLRDGFVCALLRFRQHLLGTS
+PE-RVV-----QHLCQR-RV-EPPELPADLQHWISYNEASSQLLRM-------ESGLSDV
+TKDQ--------------------------------------------------------
+------------------------------
+>ENSMICP00000033278 ENSMICG00000027716	208	THEM6	thioesterase superfamily member 6	Microcebus_murinus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MPVLLVALLALALAFFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQRFPGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLTRCGVLGAL-R----ELGAHTV-
+LAASCARYRRSLRLLEPFDVRTRLLGWDDRAFYLEARFVSLRDDFVCALLRFRQHVLGTS
+PE-RVV-----LHLCKR-KV-ESPELPEDLQHWITYNMASSQLLCA-------ESGLRKV
+NKDE--------------------------------------------------------
+------------------------------
+>ENSPTRP00000035288 ENSPTRG00000020638	208	THEM6	thioesterase superfamily member 6	Pan_troglodytes	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVALLALGLAVFALLDVWYLV--RLPCAVLRARLLQPRVRDLLAEQRFPGRVLP
+-------SDLDLLLHMNNARYLREADFARV----AHLTRCGVLGAL-R----ELRAHTV-
+LAASCARHRRSLRLLEPFEVRTRLLGWDDRAFYLEARFVSLRDGFVCALLRFRQHLLGTS
+PE-RVV-----QHLCQR-RV-EPPELPADLQHWISYNEASSQLLRM-------ESGLSDV
+TKDQ--------------------------------------------------------
+------------------------------
+>ENSPANP00000009576 ENSPANG00000007915	208	THEM6	thioesterase superfamily member 6	Papio_anubis	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVALLALGLAVFALLDGWYLV--RFPCAVLRARLLQPRVRDLLAEQCFPGRVLP
+-------SDLDLLMHMNNARYLREADFART----AHLTRCGVLGAL-R----ELRAHSV-
+LAASCARHRRSLRLLEPFEVRTRLLGWDDRAFYLEARFVSLRDGFVCALLRFRQHLLGTS
+PE-RVV-----QHLCQR-RV-EPPELPADLQHWISYNEASSQLLRM-------ENGLSDV
+TKDQ--------------------------------------------------------
+------------------------------
+>ENSPPYP00000021225 ENSPPYG00000018921	208	THEM6	thioesterase superfamily member 6	Pongo_abelii	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVALLALGLAVFALLDAWYLV--RLPCAVLRARLLQPRVRDLLAEQRFPGRVLP
+-------SDLDLLLHMNNARYLREADFARV----AHLTRCGVLGAL-R----ELRAHTV-
+LAASCARHRRSLRLLEPFEVRTRLLGWDDRAFYLEARFVSLRDGFVCALLRFRQHLLGTS
+PE-RVV-----QHLCQR-RV-EPPELPADLQHWISYNEASSQLLRM-------ESGLSDV
+TKDQ--------------------------------------------------------
+------------------------------
+>ENSTGEP00000019968 ENSTGEG00000016073	208	THEM6	thioesterase superfamily member 6	Theropithecus_gelada	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVALLALGLAVFALLDGWYLV--RFPCAVLRARLLQPRVRDLLAEQCFPGRVLP
+-------SDLDLLLHMNNARYLREADFART----AHLTRCGVLGAL-R----ELRAHSV-
+LAASCARHRRSLRLLEPFEVRTRLLGWDDRAFYLEARFVSLRDGFVCALLRFRQHLLGTS
+PE-RVV-----QHLCQR-RV-EPPELPADLQHWISYNEASSQLLRM-------ESGLSDV
+TKDQ--------------------------------------------------------
+------------------------------
+>ENSCCNP00000029013 ENSCCNG00000027859	208	Them6	thioesterase superfamily member 6	Castor_canadensis	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MVGLLVALLALALAFFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQSYSGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLTRCGVLGAL-R----ELGAHAV-
+LAASCARYRRSLRLLEPFEVRTRLLGWDDRAFYLEARFVSLRDGFLCALLRSRQHVVGTS
+PD-RVV-----QHLCKR-RV-EPPELPEDLQHWIAYNEASSQLLRA-------ESGLSDT
+IKDQ--------------------------------------------------------
+------------------------------
+>ENSCPOP00000017444 ENSCPOG00000021643	208	THEM6	thioesterase superfamily member 6	Cavia_porcellus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLPLLVASMGLALAFFALLDGWYLL--RVPCAALSARLLEPRVLDLLAEQSRAGRVLP
+-------SDLDLLFHMNNARYLREADVARI----THLIRCGILGAL-R----ELGASTV-
+LAASCARYRRALHLFEPFEVRTRLLGWDDRTFYLEARFVSLRSGFVCALLRFRQHVLGTS
+PE-RII-----QHLCKR-RV-EPPELPEDLKHWVTYNEVSSQLLRA-------ESGLSKD
+TKAQ--------------------------------------------------------
+------------------------------
+>ENSCLAP00000011080 ENSCLAG00000007651	208	THEM6	thioesterase superfamily member 6	Chinchilla_lanigera	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVALMALALAFFALLDGWYLL--RVPCAVLSARLLEPRVRDLLAEQRQRGRVLP
+-------SDLDVLLHMNNARYLREADVCRI----AHQARCGILGAL-R----ELGAHAV-
+LGASCARYRRSLHLFEPFEVRTRLLGWDDRAFYLEARFISLRDGFLCALLRFRQHVLGTS
+PE-RVV-----QHLCKR-RV-EPPELPEDLKHWITYNEVSSQLLRA-------ESGLSKD
+IKAQ--------------------------------------------------------
+------------------------------
+>ENSDORP00000027449 ENSDORG00000028228	106	no_data	thioesterase superfamily member 6	Dipodomys_ordii	623A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---SCARYRRPLRLFEPFEVRTRLLGWDDRAFYLEARFVSLRDGFVCALLRSRQHVVGAS
+PD-RVV-----QHLCQR-RV-EPPDLPEDLQHWIAYNEASSQLLRA-------ESGLGDA
+TKDQ--------------------------------------------------------
+------------------------------
+>ENSSTOP00000023824 ENSSTOG00000022145	208	THEM6	thioesterase superfamily member 6	Ictidomys_tridecemlineatus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVASLALALSFFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQRYAGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLTRCGVLGAL-R----ELGAHAV-
+LAASCARYRRSLRLFEPFEVRTRLLGWDDRAFYLEARFVSLRDGFLCALLRSRQHVLGTS
+PE-RVV-----QHLCKR-RV-EPPELPEDLQHWITYNEASSQLLRA-------ESGLSDV
+IKDQ--------------------------------------------------------
+------------------------------
+>ENSMUGP00000010816 ENSMUGG00000009506	207	Them6	thioesterase superfamily member 6	Meriones_unguiculatus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVGSLALALAFFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQQYSGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLTRSGVLGAL-G----DLRGHTV-
+LAASCARYRRSLRLFEPFEVRTRLLGWDDRAFYLEARFVSLRDGFVCALLRFRQHVLGTS
+PD-RVV-----QHLCKR-KV-EPPELPEDLKHWITYNETSSQLLRA-------ESGLSDR
+KDQ---------------------------------------------------------
+------------------------------
+>ENSMAUP00000000056 ENSMAUG00000000073	208	Them6	thioesterase superfamily member 6	Mesocricetus_auratus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVASLALALAFFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQRYVGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLTRCGVLGAL-R----DLSAHTV-
+LAASCARYRRSLRLFEPFEVRTRLLGWDDRAFYLEARFVSLRDGFLCALLRFRQHVLGTS
+PD-LVV-----QHLCKR-RV-EPPELPEDLKHWIAYNETSSQQLRA-------ESGLSDT
+RKDQ--------------------------------------------------------
+------------------------------
+>ENSMOCP00000027023 ENSMOCG00000022648	208	Them6	thioesterase superfamily member 6	Microtus_ochrogaster	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVAFLALALAFFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQRYPGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLTRCGVLGAL-R----DLGGHTV-
+LAASCARYRRSLRLFEPFEVRTRLLGWDDRAFYVEARFVSLRDSFLCALLRSRQHVLGTT
+PD-RVV-----QHLCKR-RV-EPPELPEDLKHWIAYNETSSQLLRA-------ESGLSDT
+KKDQ--------------------------------------------------------
+------------------------------
+>ENSMUSP00000069692 ENSMUSG00000056665	207	Them6	thioesterase superfamily member 6	Mus_musculus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLELLVASLSLALAFFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQRYAGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLTRCGVLGAL-R----DLNAHTV-
+LAASCARYRRSLRLFEPFEVHTRLQGWDDRAFYLEARFVSLRDGFVCALLRFRQHVLGTS
+PD-RVV-----QHLCKR-RV-EPPELPEDLKHWISYNETSSQLLRA-------ESGLSDR
+KDQ---------------------------------------------------------
+------------------------------
+>ENSODEP00000020097 ENSODEG00000014821	208	THEM6	thioesterase superfamily member 6	Octodon_degus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVSSMALALAFFALLDGWYLL--RFPCAVLRARLLEPRVRDLLAEQRRAGRVLP
+-------SDLDLLLHMNNARYLREADVARV----AHLTRCGVLGAL-R----ELGAHAV-
+LAASCARYRRSLHLFEPFEVRTRLLGWDDRAFYLEARFVSLRDGFLCALLRSRQHVLGTS
+PE-RIV-----QHLCKR-RV-EPPELPEDVKHWISYNEASSQLLRA-------ESGLNED
+VKAQ--------------------------------------------------------
+------------------------------
+>ENSPEMP00000014642 ENSPEMG00000014387	208	Them6	thioesterase superfamily member 6	Peromyscus_maniculatus_bairdii	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MLGLLVASLALALAFFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQRYAGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLTRCGVLGAL-R----DLGAHTV-
+LAASCARYRRSLRLFEPFEVRTRLLGWDDRAFYLEARFVSLRDGFLCTLLRSRQHVLGTS
+PD-RVV-----QHLCKR-RV-EPPELPEDLKHWIAYNETSSQLLRA-------ESGLSDP
+RKDQ--------------------------------------------------------
+------------------------------
+>ENSRNOP00000007773 ENSRNOG00000005929	207	Them6	thioesterase superfamily member 6	Rattus_norvegicus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MMELLVVSLSLALAFFALLDGWYLV--RVPCAVLRARLLQPRVRDLLAEQLYAGRVLP
+-------SDLDLLLHMNNARYLREADVARA----AHLTRCGVLGAL-R----DLGAHTV-
+LAASCARYRRSLRLFEPFEVHTRLLGWDDRAFYLEARFVSLRDGFVCALLRFRQHVLGTS
+PD-RVV-----QHLCKR-RV-EPPELPEDLKHWITYNETSSQLLRA-------ESGLSDR
+KDQ---------------------------------------------------------
+------------------------------
+>ENSACAP00000001187 ENSACAG00000001293	207	THEM6	thioesterase superfamily member 6	Anolis_carolinensis	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MGALAWLL-GGAAAFFALLDGWYFL--RMPVLVIYARWVLPTVFDLLQEQSFQSRVLL
+-------SDLDFLRHMNNARYPREADLARS----VHLTRCGLFRAI-R----ALGGHTV-
+LAASSCRFRRSLQFLEPFQIRTQVLGWDERAFFLEQRFVSRKDGFICAVLLVRQHVVGAT
+PE-KAV-----QVLCGR-KV-ESPELPEEVHYWMKYIEASSRRLRA-------ESDLLLD
+SKDH--------------------------------------------------------
+------------------------------
+>ENSLLTP00000007055 ENSLLTG00000005382	208	no_data	no_data	Laticauda_laticaudata	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MSTLLLICGTAAATFFTCLDGWYLL--RMPFSYLYARWLLPSLSDPLQEQQFRSWVLP
+-------SDLDLLVHMNNARYPREADMARC----VYMVRCGLFQAI-R----ALGGHTM-
+LSASCCRFRRSLHLFERFTIRTRIRGWDHRAFFLEQRFVSARDGFVCAVLLVRQHVTGTT
+PG-TAV-----EQVCRR-KV-ESPALSEEIQHWLRYNEASSQNLRM-------ESDVQEK
+SKAP--------------------------------------------------------
+------------------------------
+>ENSNSUP00000013606 ENSNSUG00000010125	208	no_data	protein THEM6-like	Notechis_scutatus	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MSTLLLICGTAAATFFTCLDGWYLL--RMPFAYLYARWLLPRIADPLQEQQYRSWVLP
+-------SDLDLLVHMNNARYPREADMARC----VYMVRCGIFQAI-R----ALGGRTM-
+LSASCCRFRRSLHLFERFTIQTRIRGWDHRAFFLEQRFVSARDGFVCAVLLVRQHVTGTT
+PR-TAV-----EQVCRR-KV-ESPALSEEIQHWLRYNEASSQNLRM-------ESNVQEK
+SKAP--------------------------------------------------------
+------------------------------
+>ENSPMRP00000008430 ENSPMRG00000005690	207	THEM6	thioesterase superfamily member 6	Podarcis_muralis	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MAELAWAL-GALAALFALLDGWYLL--RVPVTLLYARWALPTVWDLLEEQSFASRVLP
+-------SDLDCLVHMNNARYPREADLARL----AHLTRCGLLRAV-R----GLGAHTV-
+LAASTCRYRRSLHLLERFDVRTRLLGWDARAFVLEQRFVRARDGFVCAVLHVRLHVVGAS
+PA-QAV-----EILCRR-KV-ESPELPEEILHWLKYNEVNSQKLRA-------ESDLQEN
+NKEE--------------------------------------------------------
+------------------------------
+>ENSPTXP00000026919 ENSPTXG00000018596	208	no_data	protein THEM6-like	Pseudonaja_textilis	623A
+------------------------------------------------------------
+------------------------------------------------------------
+--MSTLLLICGTAAVTFFTCLDGWYLL--RMPFIYLYARWLLPRLADPLQEQQFRSWVLP
+-------SDLDLLVHMNNARYPREADMARC----MYMVRCGLFQAI-R----ALGGHTM-
+LSASCCRFRRSLHLFERFTIRTRIRGWDHRAFFLEQRFVSARDGFVCAVLLVRQHVTGTT
+PG-TAV-----EQVCRR-KV-ESPALSEEIQHWLRYNEASSQNLRM-------ESNVQEK
+SKAP--------------------------------------------------------
+------------------------------
+>ENSVKKP00000025916 ENSVKKG00000016958	205	THEM6	thioesterase superfamily member 6	Varanus_komodoensis	623A
+------------------------------------------------------------
+------------------------------------------------------------
+----MLAVLL-GAAAAFFALLDGWHLL--RMGLAALRAGLVRPAPRALLQEHRFESRVLP
+-------ADLDLLLHMSNARYPREADLARC----AHLARCGLLGAV-R----ALGARLV-
+LAASCCRYRRPLRLPERFAVRSRLLGWDARAFVAEQRFVRARDGFVCAVLLARLHVEGAS
+PA-QAV-----ARLCGR-QV-ESPELPEEVQHWMKYNEASSRKLRA-------ESGLQTE
+SKSQ--------------------------------------------------------
+------------------------------
+>ENSCABP00000012690 ENSCABG00000009498	205	THEM6	thioesterase superfamily member 6	Chelonoidis_abingdonii	623A
+------------------------------------------------------------
+------------------------------------------------------------
+----MLLLLL-GAGAALFCLLDAWYLL--RLPLAVLHAKWLQPRLRDVLQEQSWPGLVLP
+-------SDLDWLLHMNNSRYLREADLARC----AHLARCGIFDAL-R----ALGGSMV-
+LAASCARHRRSLRLFERFAVRTRLLGWDSRAFYLEQRFVSPRQGFVCALLLCRLHVVGSS
+PG-RLV-----QHLCQK-QV-DSPELPEEVQHWISYNEASSQKLRA-------ESGLGIN
+TKDE--------------------------------------------------------
+------------------------------
+>ENSCSRP00000020191 ENSCSRG00000015336	227	THEM6	thioesterase superfamily member 6	Chelydra_serpentina	623A
+------------------------------------------------------------
+--------------------------------------LPLCNLRP----LLLVLIPASF
+PAAMMLLLLL-GAGAALFGLLDAWYLL--RLPLALLRARWLQPRLRDVLQEQSWPGLVLP
+-------SDLDWLLHMNNARYLREADLARC----AHLARCGIFDAL-R----ALGGSLV-
+LAASCSRHRRPLRLFERFAVRTRLLGWDARAFYLEQRFLSPRHGFVCALLLCRLHVVGSS
+PG-RLV-----QHLCHR-QV-DSPELPEEVQHWISYNEASSQKLRA-------ESGLGIS
+TKDE--------------------------------------------------------
+------------------------------
+>ENSCPBP00000026874 ENSCPBG00000019074	222	THEM6	thioesterase superfamily member 6	Chrysemys_picta_bellii	623A
+------------------------------------------------------------
+--------------------------------M-----LPGCGR------LRRPGIPP--
+-AA-MLLLLL-GAGAALFCLLDAWYLL--RLPLAVLHARWLQPRQRDVLQEQSWPGLVLP
+-------SDLDWLLHMNNARYLREADLARC----AHLARCGIFDAL-R----ALGGSLV-
+LAASCARHRRPLRLFERFAVRTRLLGWDARAFYLEQRFVSPRHGFVCALLLCRLHVVGSS
+PG-RLV-----QHLCRR-QV-DSPELPEEVQHWISYNEASSQKLRA-------ESGLGIN
+TKDE--------------------------------------------------------
+------------------------------
+>ENSGAGP00000009304 ENSGAGG00000007360	266	THEM6	thioesterase superfamily member 6	Gopherus_agassizii	623A
+------------------------------------------------------------
+--------------------------------M-----LPGGGG------RWYSGVPPSF
+AAV-MLLLLL-GAGAALFCLLDAWFLL--RLPLALLHALWLQPRLRDVLQEQSWPGLVLP
+-------SDLDWLLHMNNARYLREADLARS----AYLARCGILDAL-R----ALGGSVV-
+LAASCARHRRSLRLFERFAVRTRLLGWDGRAFYLEQRFVSPRHGFVCALLLCRLHVVGSS
+PG-RLV-----QHLYQR-QV-NSPELPEEVQHWISYNEASSQKLRA-------ESGLGIN
+TKDETAASKMIRKASI-----SLGSSQLAEKRTA-------------------------S
+PVGTMDCLGKPGQQF---------------
+>ENSPCEP00000004855 ENSPCEG00000003935	255	THEM6	thioesterase superfamily member 6	Pelusios_castaneus	623A
+------------------------------------MLRRGLA-----------------
+---EQETAAQRRSKEQ------APGLRP-AASL-----VVAAGPSP----SWFSGFGGAG
+L--AEMLLLL-GAGAALFCLLDAWYLL--RLALALLRAQWLQPRVHDVLQEQSWPGLVLP
+-------SDLDWLLHMNNARYLREADLARI----AHLARCGLLAAL-R----AQGAGSV-
+LAASCARHRRPLHLFERFAVRTRLLGWDARAFYLEQRFVSARDGFVCAVLLCRLHVLGGR
+PG-RVV-----QHLCRR-EV-DSPQLPEELLLWISYNEASSQKLRA-------ESGLGIN
+AKDQ--------------------------------------------------------
+------------------------------
+>ENSTMTP00000000364 ENSTMTG00000000308	225	THEM6	thioesterase superfamily member 6	Terrapene_carolina_triunguis	623A
+------------------------------------------------------------
+--------------------------------M-----RPGCSR------LRRPGIPPSF
+PAA-MLLLLL-GAGAALFCLLDAWYLL--RLPLAVLRARWLQPRQRDVLQEQSWPGLVLP
+-------SDLDWLLHMNNARYLREADLARC----AHLARCGIFDAL-R----ALGGSLV-
+LAASCARHRRPLRLFERFAVRTRLLGWDARAFYLEQRFVSPRQGFVCALLLCRLHVVGSS
+PG-RLV-----QHLCRR-QV-DSPELPEEVQHWISYNEASSQKLRA-------ESGLGIN
+TKDE--------------------------------------------------------
+------------------------------
