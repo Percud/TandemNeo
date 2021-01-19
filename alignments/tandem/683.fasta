@@ -1,0 +1,798 @@
+>ENSANIP00000016115 ENSANIG00000010959	90	None	None	Accipiter_nisus	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-FVAALT
+ILI--AAFCYQTSAAP--IGSDPPTSCCFSYTSRQLPRSFVVEYYETNSQCPQPAVVFIT
+KKGRQVCANPEQDWVQEYMS---DLELN--------------------------------
+------------
+>ENSACCP00020012803 ENSACCG00020008806	90	None	C-C motif chemokine 4	Aquila_chrysaetos_chrysaetos	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-FVAALT
+ILI--AALCYQTSAAP--IGSDPPTSCCFTYTSRQLPRSFVVEYYETNSQCPQPAVVFIT
+KKGRQVCANPEQEWVQEYMN---ELELN--------------------------------
+------------
+>ENSAPLP00020023622 ENSAPLG00020016387	170	None	None	Anas_platyrhynchos	683A	683	A
+------MGTGSFLP---------------ALPPRVPPHVRSPSSGCSMGAIQPWAGTVQ-
+---STTCVWCQQQLRVIPNEKEFKEEGKRPCFSYSPSTSSQTHGDSSPSSLPL-FACHLQ
+LLT---------PVFAFTVGSDPPTSCCFTYVQRALPRSFVTDYYETNSLCSKPGVVFIT
+RKGREICANPEHDWVKKYVI---ELELN--------------------------------
+------------
+>ENSACDP00005014161 ENSACDG00005010389	90	None	None	Anser_cygnoides	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+VLI--AAFCYQTSAAP--IGSDPPTSCCFTYIQRELPRSFVTDYYETNSLCSQPGVVFIT
+RKGREVCANPEHDWVQKYVT---ELELN--------------------------------
+------------
+>ENSAOWP00000018097 ENSAOWG00000012350	90	None	None	Apteryx_owenii	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKI-SVAALA
+VLI--AVFCYQTASAP--IGADTPTSCCFTYISRQLPRSFVVDYYDTHSLCSKSAVVFIT
+RKGREVCANPESKWVQEYVS---DLELN--------------------------------
+------------
+>ENSDNVP00000023906 ENSDNVG00000016599	90	None	C-C motif chemokine 4	Dromaius_novaehollandiae	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKI-SVAALA
+VLI--AAFCYQTSAAP--LGADTPTSCCFTYVSRQLPRSLVMDYYETNSLCSKSAIVFIT
+RKGHQVCANPESKWVQEYMS---ELRRK--------------------------------
+------------
+>ENSCPUP00000018173 ENSCPUG00000012508	188	None	C-C motif chemokine 4	Calidris_pugnax	683A	683	A
+MHERSRNSTGDCFISWRGSESRGESHSSGAGAAALFHHKTAPQAASSLGEIPLCLRKLLH
+G-PPHPINWGVADCLSTR--RKRGFQAPLACFSSSHH---------FSADMKV-SVAALA
+VLI--AVFCYQTSAAP--LGSDPPTSCCFTYTSRQLPRNFVVEYYETNSLCSQPAVVFIT
+RKRREVCANPEQDWVQQYVN---ELELN--------------------------------
+------------
+>ENSCPRP00005009522 ENSCPRG00005006763	91	None	C-C motif chemokine	Crocodylus_porosus	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-TVAALA
+VVL-IAALCSQASSSP--IGSDPPTACCFTYTARQIPRNFVKDYYYTNSMCSQPAIVFIT
+RKGREICANIEEPWVQKYVS---DLELN--------------------------------
+------------
+>ENSCPIP00010004619 ENSCPIG00010003598	116	None	None	Chrysolophus_pictus	683A	683	A
+------------------------------------------------------------
+----------MSQHHREK--RPPSFTC---TLQLLPP---------LPSDMKV-SVAALA
+VLL--IAICYQTSAAP--VGSDPPTSCCFTYVSRQMPFNFVADYYETNSQCPLAGVVFIT
+KKGREVCANPENDWVQDYMN---RLELN--------------------------------
+------------
+>ENSCJPP00005004269 ENSCJPG00005004278	90	None	C-C motif chemokine 4	Coturnix_japonica	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+VLL--IAICYQTSAAP--VGSDPPTSCCFTFISRQMPFSFVTDYYVTNSQCPHAGVVFIT
+RKGREVCANPENDWVQDYMN---KLELN--------------------------------
+------------
+>ENSGALP00000067768 ENSGALG00000032717	96	CCL4	chemokine (C-C motif) ligand	Gallus_gallus	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+VLL--IAICYQTSAAPVAVGSDPPTSCCFTYISRQLPFSFVADYYETNSQCPHAGVVFIT
+RKGREVCANPENDWVQDYMN---KQLHTGGSK----------------------------
+------------
+>ENSMGAP00000001251 ENSMGAG00000001758	90	None	None	Meleagris_gallopavo	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+VLL--IAICYQTSAAP--VGSDPPTSCCFTFVSRQIPFNFVADYYETNSQCPHAGVVFIT
+KKGREVCANPENDWVQDYMN---KLELN--------------------------------
+------------
+>ENSNMEP00000013842 ENSNMEG00000012533	116	None	C-C motif chemokine 4	Numida_meleagris	683A	683	A
+------------------------------------------------------------
+----------MSQHHRET--RPPISTC---PLQLLSP---------LPADMKV-FVAALA
+VLL--IAVCYQTSAAP--VGSDPPTSCCFTYISRQMPFSFVADYYETNSQCPQAGVVFIT
+RKGREVCANPENDWVQDYMS---KLELN--------------------------------
+------------
+>ENSPSTP00000019161 ENSPSTG00000013820	90	None	None	Pavo_cristatus	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+VLL--IAICYQTSAAP--VGSDPPTSCCFTYISRQMPFNFVADYYETNSQCPHAGVVFIT
+RKGREVCANPENDWVQDYMN---KLELN--------------------------------
+------------
+>ENSPCLP00000005242 ENSPCLG00000004483	116	None	None	Phasianus_colchicus	683A	683	A
+------------------------------------------------------------
+----------MSQHHREK--RPPSSTC---TLQLLPP---------LPSDMKV-SVAALA
+VLL--IAICYQTSAAP--VGSDPPTSCCFTYVSRQMPFNFVADYYETNSQCPLAGVVFIT
+KKGREVCANPENGWVQEYMN---KLELN--------------------------------
+------------
+>ENSCPVP00000005212 ENSCPVG00000003849	90	None	C-C motif chemokine 4	Camarhynchus_parvulus	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-FVVALT
+ILV--IAVCYQTSAAP--LGSDPPTSCCFSYVSRQLPRSFVKDYYETNSQCSQPAVVFIT
+RKGREVCANPMEDWVQQYVN---ELELD--------------------------------
+------------
+>ENSCCEP00000001419 ENSCCEG00000001667	90	None	C-C motif chemokine 4	Cyanistes_caeruleus	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-SVVALA
+ILI--AAFCHQTSAAP--LGSDPPTSCCFSYISRQLPRSFVKDYYETNSLCSQPAIVFIT
+RKGREVCANPEDNWVQQYVN---ELELD--------------------------------
+------------
+>ENSEGOP00005015523 ENSEGOG00005012591	90	None	None	Erythrura_gouldiae	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-FVIALT
+ILI--AAFCYQTSAAP--LGSDPPTSCCFSYISRQLPRSFVKDYYETNSQCSQPAVVFIT
+RKGREVCANPMEDWVQQYVN---ELELD--------------------------------
+------------
+>ENSFALP00000014309 ENSFALG00000013714	92	None	None	Ficedula_albicollis	683A	683	A
+------------------------------------------------------------
+------------------------------------------------TNMKV-SVVALA
+IVI--AAFCCQTSAAP--LGSDPPTSCCFSYISRQLPRSFVKDYYETNSQCSQPAVVFIT
+RKGREVCANPMEDWVQQYVN---ELELD--------------------------------
+------------
+>ENSGFOP00000021935 ENSGFOG00000014522	90	None	C-C motif chemokine 4	Geospiza_fortis	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-FVVALT
+ILV--IAVCYQTSAAP--LGSDPPTSCCFSYVSRQLPRSFVKDYYETNSQCSQPAVVFIT
+RKGREVCANPMEDWVQQYVN---ELELD--------------------------------
+------------
+>ENSJHYP00000020628 ENSJHYG00000015616	90	None	None	Junco_hyemalis	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-FVVALT
+ILI--VAFCYQTSAAP--LGSDPPTSCCFSYVSRQLPRTFVKDYYETNSQCSQPAVVFIT
+RKGREVCANPREDWVQQYVN---ELELD--------------------------------
+------------
+>ENSLSDP00000013754 ENSLSDG00000009957	90	None	C-C motif chemokine 4	Lonchura_striata_domestica	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-FVIALT
+ILM--AAFCDQTSAAP--LGSDPPTSCCFSYISRQLPRSFVKDYYETNSQCSQPAVVFIT
+RKGREVCANPMEEWVQQYVN---ELELD--------------------------------
+------------
+>ENSMVIP00005012432 ENSMVIG00005009039	110	None	C-C motif chemokine 4	Manacus_vitellinus	683A	683	A
+------------------------------------------------------------
+----------MT--------HEF-----------LKA---QSRGTAQSSYVLP-QLHSLG
+SQPGSKGAGAHSQTAP--VGSDPPTSCCFSYFSRQLPRSFVVDYYETNSQCPQPGVVFIT
+KKGRQVCANPEQEWVQQYMN---DLELN--------------------------------
+------------
+>ENSPMJP00000025765 ENSPMJG00000018846	90	None	C-C motif chemokine 4	Parus_major	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-SVVALA
+ILI--AAFCYQTFAAP--LGSDPPTSCCFSYISRQLPRSFVKDYYETNSLCSQPAIVFIT
+RKGREVCANPEDNWVQQYVN---ELELD--------------------------------
+------------
+>ENSSCAP00000005038 ENSSCAG00000004062	90	None	C-C motif chemokine 4	Serinus_canaria	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKG-FVVALT
+ILI--AAFCYQTSAAP--FGSDPPTSCCFSYIPRQLPRSFVKDYYETNSQCSQPAVVFIT
+RKGREVCANPMEDWVQQYVN---ELELD--------------------------------
+------------
+>ENSZALP00000004255 ENSZALG00000004026	90	None	C-C motif chemokine 4	Zonotrichia_albicollis	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-FVVALT
+ILI--VAFCYQTSAAP--LGSDPPTSCCFSYVSRQLPRTFVKDYYETNSQCSQPAVVFIT
+RKGREVCANPREDWVQQYVN---ELELD--------------------------------
+------------
+>ENSACOP00000006448 ENSACOG00000004516	90	None	None	Amazona_collaria	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+ILI--AAFCYQTSAAP--IGSDPPTSCCFVYTSRQLPRSFVMEYYETSSQCPQPAVVFIT
+KKGRQVCADPDQDWVKQYRN---DLELQ--------------------------------
+------------
+>ENSMUNP00000011004 ENSMUNG00000008635	90	None	C-C motif chemokine 4	Melopsittacus_undulatus	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+ILI--AAFCYQTSAAP--LGSDPPTSCCFTYTSRQLPRSFVMEYYETSSQCPQPAVVFIT
+KKGRQVCADPDEDWVQQYRS---DLELQ--------------------------------
+------------
+>ENSSHBP00005015185 ENSSHBG00005013297	90	None	C-C motif chemokine 4	Strigops_habroptila	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+ILI--AAFCYQTSAAP--IGSDPPTSCCFTYISRQLPRSFVVEYYETSSQCPQPAVVFVT
+KKGRQVCANPDQEWVQEYRN---ELELQ--------------------------------
+------------
+>ENSSPUP00000007484 ENSSPUG00000005788	91	None	None	Sphenodon_punctatus	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-SAAALA
+VLL-IAALCSQSLAIP--LGSDPPTSCCFTYTLKKIPRSFVVDYYDTNSKCSMPAVVFIT
+KKGREVCANPKDQWVQEYVN---DLELN--------------------------------
+------------
+>ENSLLTP00000014121 ENSLLTG00000010820	91	None	None	Laticauda_laticaudata	683A	683	A
+------------------------------------------------------------
+----------------------------------------------------------SD
+AFSAISSPR---LA--LATSSDSPTSCCFSYTKKKIPRNLVTDFYETNSRCSQPAVVFIT
+RRKLLLCSNPAEKWVQDYVN---YLKVNRTVSTTQAY-----------------------
+------------
+>ENSNSUP00000007395 ENSNSUG00000005809	105	None	None	Notechis_scutatus	683A	683	A
+------------------------------------------------------------
+----------------------------------------------ILDNHKV-LLSFIA
+EINNCSSTHLLFSF--PPIAYDTPTSCCFSYTKKKIPRNLVTDFYETNGKCSQPAVVFIT
+RRKLLLCSNPAEKWVQDYMN---YLKVNRTVSTTRAY-----------------------
+------------
+>ENSPMRP00000026295 ENSPMRG00000016982	97	CCL24	C-C motif chemokine ligand	Podarcis_muralis	683A	683	A
+------------------------------------------------------------
+-----------------------------------------------MSSLRP-LNSALL
+FLQGSFAGCTQPILLSLPVGSDPPTSCCFTYTAKKIPRNYIADFYETNSRCSQPGVVFTT
+KKGREICANPAEKWVQEYMD---HFELN--------------------------------
+------------
+>ENSPVIP00000009602 ENSPVIG00000007639	101	None	C-C motif chemokine	Pogona_vitticeps	683A	683	A
+------------------------------------------------------------
+-----------------------------------------MTRTAASATAPL-LLLLLL
+LLGALWDSCPPAASAP--VGSDPPTSCCFTYTAKKIPREYVVDYYETNSRCSQPAVVLIT
+RKRKEICANPTERWVQEYVK---DLELN--------------------------------
+------------
+>ENSPTXP00000014671 ENSPTXG00000010155	101	None	C-C motif chemokine	Pseudonaja_textilis	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MRA-SAQTAG
+ALALLALLVLMLSS--SILAYDSPTSCCFSYTKKKIPRNLVTDFYETNGRCSQPAVVFIT
+RRKLLLCSNPAEKWVQDYMN---YLKVNRTVSTTQAY-----------------------
+------------
+>ENSACUP00000014054 ENSACUG00000009427	90	None	C-C motif chemokine 4	Athene_cunicularia	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-FVAALA
+VLI--AACCYQTSAAP--IGSDPPTSCCFTYTSRQLPRSFVVEYYETNSQCSQPAVVFVT
+RRGREVCANPDEGWVKQYMN---ELELN--------------------------------
+------------
+>ENSSCUP00000015339 ENSSCUG00000011284	90	None	C-C motif chemokine 4	Struthio_camelus_australis	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKI-SVAALA
+VLI--AAFCYQTSAAP--IGADTPTSCCFTYISRQLPRSFVMDYYETNSLCSQSAVVFIT
+RKGREVCANPESKWVQEYMR---ELELN--------------------------------
+------------
+>ENSCABP00000005972 ENSCABG00000004495	91	None	None	Chelonoidis_abingdonii	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-FMAALA
+VLL-IAAFCSLASSAP--IGSDPPTACCFTYTSRKIPRGLVVDYYDTNSMCSQTAIVFIT
+KKGREVCANPKEDWVQEYVT---HLELN--------------------------------
+------------
+>ENSCSRP00000009994 ENSCSRG00000007461	91	None	None	Chelydra_serpentina	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+VLL-IAAFCSLASSAP--IGSDPPTACCFTYASRKIPRGLVMDYYDTNSMCSQTAIVFIT
+KKGREVCANPKEDWVQEYVA---HLELN--------------------------------
+------------
+>ENSCPBP00000013030 ENSCPBG00000009767	91	None	None	Chrysemys_picta_bellii	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+VLL-IAAFCSQASSAP--IGSDPPTACCFTYASRKIPRGLVVDYYDTNSMCSQTAIVFIT
+KKGREVCANPKEDWVQEYVT---HLELN--------------------------------
+------------
+>ENSGAGP00000015626 ENSGAGG00000011773	91	None	None	Gopherus_agassizii	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+VLL-IAAFCSLASSAP--IGSDPPTACCFTYTSRKIPRGLVVDYYDTNSMCSQTAIVFIT
+KKGREVCANPKEDWVQEYRP---NQEPN--------------------------------
+------------
+>ENSPSIP00000006103 ENSPSIG00000005664	91	None	C-C motif chemokine	Pelodiscus_sinensis	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+VLL-IAAFCSQASSAP--IGSDPPTACCFTYASRKIPRTLVEDYYDTNSMCSQPAIVFIT
+KKGREICANPQADWVQEYVA---YLDQN--------------------------------
+------------
+>ENSPCEP00000016966 ENSPCEG00000013345	91	None	None	Pelusios_castaneus	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-SMSALA
+VLL-IAAFCSQASSAP--IGSDPPTACCFTYTSRKIPLHLLVDYYDTNSMCSQPAIVFVT
+KKGRELCANPKDEWVQEYVN---HLEQN--------------------------------
+------------
+>ENSTMTP00000029888 ENSTMTG00000021606	91	None	C-C motif chemokine	Terrapene_carolina_triunguis	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+VLL-VAAFCSQASSAP--IGSDPPTACCFTYASRKIPRGLVVDYYDTNSMCSQTAIVFIT
+KKGREVCANPKEDWVQEYVT---HLELN--------------------------------
+------------
+>ENSNPEP00000004683 ENSNPEG00000003566	90	None	C-C motif chemokine 4	Nothoprocta_perdicaria	683A	683	A
+------------------------------------------------------------
+--------------------------------------------------MKM-SAAVLA
+ALI--AVFCYQTSAAP--VGADTPTSCCFTYVSRQLPRSFVADYYETNSMCSKPAVVFIT
+RKGREVCANPESQWVQEYVN---DLELN--------------------------------
+------------
+>ENSBBBP00000021200 ENSBBBG00000001120	91	CCL5	C-C motif chemokine ligand	Bison_bison_bison	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SAAALA
+VLLTAAALCAPASASP--YASDT-TPCCFAYLTRPLPRTHVQEYFYPSSKCSMAAVVFIT
+RKNRQVCANPEKKWVREYIN---ALELS--------------------------------
+------------
+>ENSBTAP00000057122 ENSBTAG00000053649	91	CCL5	C-C motif chemokine ligand	Bos_taurus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SATAFA
+VLLMAAALCAPASASP--YASDT-TPCCFAYISRPLPRTHVQEYFYTSSKCSMAAVVFIT
+RKNRQVCANPEKKWVREYIN---ALELS--------------------------------
+------------
+>ENSCDRP00005016180 ENSCDRG00005011357	91	CCL5	C-C motif chemokine ligand	Camelus_dromedarius	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-STAVLA
+IILTAATLCAPASASP--YASDT-TPCCFAYISRPLPRAHIQEYFYTSSKCSMAAVVFIT
+RKNRQVCANPEKKWVREYIN---SLELS--------------------------------
+------------
+>ENSCHIP00000016425 ENSCHIG00000016688	91	CCL5	C-C motif chemokine ligand	Capra_hircus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SSAALA
+VLLMAAALCAPASASP--YASDT-TPCCFAYLSRPLPRTHVQEYFYTSSKCSMAAVVFIT
+RKNRQVCANPEKKWVREYIN---SLELS--------------------------------
+------------
+>ENSCWAP00000009903 ENSCWAG00000007687	91	CCL5	C-C motif chemokine ligand	Catagonus_wagneri	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SATALA
+VILAVAALCVPASASP--YASDT-TPCCFAYLSRPLPRTHIREYFYTSSKCSMAAVVFVT
+RKNRQVCANPEKKWVREYIN---SLELS--------------------------------
+------------
+>ENSDLEP00000028390 ENSDLEG00000020374	91	CCL5	C-C motif chemokine ligand	Delphinapterus_leucas	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-CAAALA
+VILAMAALCAPASASP--YASDT-TPCCFAYLSRPLPRAHLREYFYTSSKCSMAAVVFIT
+RKNRQVCANPEKKWVKEYIN---ALELS--------------------------------
+------------
+>ENSMMSP00000016031 ENSMMSG00000012217	91	CCL5	C-C motif chemokine ligand	Moschus_moschiferus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKI-SAAALA
+VLLTVAALCAPASASP--YASDT-TPCCFAYLSRPLPRTHVQEYFYTSSKCSMAAVVFIT
+RKNRQVCANPEKKWVREYIN---TFELS--------------------------------
+------------
+>ENSOARP00000005319 ENSOARG00000004964	91	CCL5	C-C motif chemokine ligand	Ovis_aries	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-FSAALA
+VLLMAAALCPPAQVLT--YASDT-TPCCFAYLSRPLPRNHVQEYFYTSSKCSMAAVVFIT
+RKNRQVCANPEKKWVREYIN---SLELS--------------------------------
+------------
+>ENSPCTP00005021530 ENSPCTG00005015361	91	CCL5	C-C motif chemokine ligand	Physeter_catodon	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SAAALA
+VILAMAALCAPASASP--HASDT-TPCCFAYLSRPLPRAHLREYFYTSSKCSMAAVVFIT
+RKNRQVCTNPEKKWVQEYIN---ALELS--------------------------------
+------------
+>ENSSSCP00000028561 ENSSSCG00000017705	91	CCL5	C-C motif chemokine ligand	Sus_scrofa	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-STAALA
+VILAMAALCAPASASP--YASDT-TPCCFSYLSRPLPRAHLQEYFYTSSKCSMAAVVFIT
+RKNRQVCANPEKKWVREYIN---SLELS--------------------------------
+------------
+>ENSTTRP00000005524 ENSTTRG00000005848	91	CCL5	C-C motif chemokine ligand	Tursiops_truncatus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SAAALA
+VILAMAVLCAPASASP--YASDT-TPCCFAYLSRPLPRAHLREYFYTSSKCSMAAVVFIT
+RKNRQVCANPEKKWVKEYIN---TLELS--------------------------------
+------------
+>ENSAMEP00000015693 ENSAMEG00000014902	91	CCL5	C-C motif chemokine ligand	Ailuropoda_melanoleuca	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SAATFA
+VLLATAAFCAPASASP--YASDT-TPCCFAYISRRLPFTHIQEYFYTSSKCSMPAVVFVT
+RKHRQVCADPQKKWVRDHIN---SLEMS--------------------------------
+------------
+>ENSFCAP00000001170 ENSFCAG00000001259	91	CCL5	C-C motif chemokine ligand	Felis_catus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-STAAFA
+VLLTAAAFCTPASASP--YASDT-TPCCFAYLSHPLPLTHLQEYFYTSSKCSMPAVVFVT
+RRKRQVCANPQKKWVRDYIN---SLEMN--------------------------------
+------------
+>ENSLCNP00005027229 ENSLCNG00005017728	90	CCL5	C-C motif chemokine ligand	Lynx_canadensis	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-STAAFA
+VLL-TAAFCAPASASP--YASDT-TPCCFAYLSHPLPLTHLQEYFYTSSKCSMPAVVFVT
+RRKRQVCANPQKKWVRDYIN---SLEMN--------------------------------
+------------
+>ENSMPUP00000014852 ENSMPUG00000014962	91	CCL5	C-C motif chemokine ligand	Mustela_putorius_furo	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SAVTFA
+VLLATAAFCAPASASP--YASDT-TPCCFAYISRRLPFTHIQEYFYTSSKCSMPAVVFVT
+RKHRQVCANPQKKWVRDHIN---SLEMS--------------------------------
+------------
+>ENSNVIP00000026444 ENSNVIG00000020449	91	CCL5	C-C motif chemokine ligand	Neovison_vison	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SAATFA
+VLLATAAFCAPASASP--YASDT-TPCCFAYISRRLPFTHIQEYFYTSSKCSMPAVVFVT
+RKHRQVCANPQKKWVRDHIN---SLEMS--------------------------------
+------------
+>ENSPLOP00000029323 ENSPLOG00000021473	91	CCL5	C-C motif chemokine ligand	Panthera_leo	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SPAAFA
+VLLTAAAFCAPASASP--YASDT-TPCCFAYLSHPLPLTHLQEYFYTSSKCSMPAVVFVT
+RRKRQVCANPQKKWVRDYIN---SLEMN--------------------------------
+------------
+>ENSSSUP00005031214 ENSSSUG00005020154	91	CCL5	C-C motif chemokine ligand	Suricata_suricatta	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKA-SAAAFA
+VLLAAAAFCAPASASP--YASDT-TPCCFAYLSHPLPLSHLQEYFYTSSKCSMPAVVFVT
+RRKRQVCANPQKKWVRDYIN---SLEMN--------------------------------
+------------
+>ENSUMAP00000023168 ENSUMAG00000016895	91	CCL5	C-C motif chemokine ligand	Ursus_maritimus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SAATFA
+VLLATAAFCAPASASP--YALDT-TPCCFAYISRRLPFTHIQEYFYTSSKCSMPAVVFVT
+RKHRQVCADPQKKWVRDHIN---SLEMS--------------------------------
+------------
+>ENSVVUP00000027781 ENSVVUG00000020367	91	CCL5	C-C motif chemokine ligand	Vulpes_vulpes	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SAATFA
+VLLATATFCAPASASP--YASDT-TPCCFAYISGRLPFTHIQEYFYTSSKCSMPAVVFVT
+RKHRQVCANPQKKWVREYIN---SLEMS--------------------------------
+------------
+>ENSMLUP00000002623 ENSMLUG00000002891	91	CCL5	C-C motif chemokine ligand	Myotis_lucifugus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SAAAFA
+VLLAAAAFCAPASASP--YASDT-TPCCFAYISRPLPRAHLQEYFYTSSKCSMPAVVLIT
+RKNRQVCANPEKRWVREIIN---ALEMS--------------------------------
+------------
+>ENSPVAP00000015838 ENSPVAG00000016789	91	CCL5	C-C motif chemokine ligand	Pteropus_vampyrus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKI-SAAALA
+VLLATAAFCAPSSASP--YASDT-TPCCFAYISRPLPRAHLQEYFYTSSKCSIPAVVFVT
+RKKRQVCADPEKRWVREYIN---SFEMS--------------------------------
+------------
+>ENSRFEP00010032014 ENSRFEG00010021148	91	CCL5	C-C motif chemokine ligand	Rhinolophus_ferrumequinum	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SAAALA
+VVLAAAAFCAPTSASP--YASDT-TPCCFAYISRALPRAHLQEYFYTSSKCSLPAVVFIT
+RKNRQVCANPDKKWVREYIN---SLEMN--------------------------------
+------------
+>ENSDNOP00000005400 ENSDNOG00000006974	91	CCL5	C-C motif chemokine ligand	Dasypus_novemcinctus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKA-SAAAVA
+VLLTTAALCTLVSTSP--YASDT-TPCCFAYTSRPLPRAHLKEYFYTSGKCSNPAVVFVT
+RKNRQVCANPEKKWVREHIN---ALEMS--------------------------------
+------------
+>ENSMODP00000023864 ENSMODG00000019121	91	None	C-C motif chemokine ligand	Monodelphis_domestica	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MRA-SAVEIS
+IFLVLGTLYCLASSSP--YASDT-TPCCFTFSTRPPPLVHIREYFYTSSRCGNLGVVFIT
+RKNRQLCANPEKKWVRSYIN---SLEMS--------------------------------
+------------
+>ENSPCIP00000004576 ENSPCIG00000003792	91	None	C-C motif chemokine ligand	Phascolarctos_cinereus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-FAALPY
+IILVSGTLYSTTISSP--YASDT-TPCCFSFTTLPLPLNHIKEYFYTSSRCGNQGVVFIT
+RKNRQLCANPEKKWVRSYIN---SLEMS--------------------------------
+------------
+>ENSVURP00010016519 ENSVURG00010012661	90	None	None	Vombatus_ursinus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------NCI-SIALVS
+FVI-LKILLPFFSILP--DASDT-TPCCFSFTTVPIPMNHIKEYFYTSSRCGNQGVVFIT
+RKNRQLCANPEKKWVRSYIN---SLEMS--------------------------------
+------------
+>ENSEEUP00000014146 ENSEEUG00000015507	91	CCL5	C-C motif chemokine ligand	Erinaceus_europaeus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-STVALA
+VGLTTAAFCTPALTSP--YASDT-TPCCFAYITRLLPRAHIQEYFYTSSKCSIPAVVFVT
+RKNRQVCANPEKKWVREYIN---SLEMS--------------------------------
+------------
+>ENSSARP00000003942 ENSSARG00000004360	65	CCL5	C-C motif chemokine ligand	Sorex_araneus	683B	683	B
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------ASDT-TPCCFGYIGRSVPRAHIQDYFYTSSKCSMPAVVFVT
+RKKRQVCANPEDRWVKKYIN---SMEMN--------------------------------
+------------
+>ENSOPRP00000010950 ENSOPRG00000012010	91	CCL5	C-C motif chemokine ligand	Ochotona_princeps	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-PAATLA
+VLLTAAALCAPASASP--YASDT-TPCCFAYIARSLPRAHIKEYFYTSGKCSNPAVVFVT
+RKNRQVCANPEKKWVKEYIN---SLEMS--------------------------------
+------------
+>ENSOCUP00000002470 ENSOCUG00000002848	91	CCL5	C-C motif chemokine ligand	Oryctolagus_cuniculus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MEV-SAAALA
+VLLTAAALCAPASASP--YASDT-TPCCFAYISRLLPRAHVTEYFYTSGKCSFPAVVFVT
+RKNRQVCANPEKKWVREYIN---SLEMS--------------------------------
+------------
+>ENSOANP00000004650 ENSOANG00000002927	135	None	None	Ornithorhynchus_anatinus	683B	683	B
+------------------------------------------------------------
+------------------------------------------------------PEVALS
+TLLLTVALCSLASSAP---RVHVPVTCCTNYLHRPLPQKLVKSYFQNRSQCPKPGIIFIT
+VKGRKVCANPSETWVQKIQARIRDLEWNRKTHQKGREVVGVGIQAKILSSVKPTGHLHFR
+PPLTQPTLISFK
+>ENSECAP00000022430 ENSECAG00000024888	91	CCL5	C-C motif chemokine ligand	Equus_caballus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-FAAALA
+VILATATFCTPASASP--YASDT-TPCCFAYISRPLPRAHIQEYFYTSSKCSIPAVVFVT
+RKKRQVCANPEKKWVREYIN---TLEMS--------------------------------
+------------
+>ENSCHOP00000009948 ENSCHOG00000011247	89	CCL5	C-C motif chemokine ligand	Choloepus_hoffmanni	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-PAAAIA
+VLLAVATLCIPSSASP--YS-DT-TPCCF-YLARTLPRAHLKEYFYTSGKCSNPAVVFVT
+RKNRQVCANPEKKWVREYIN---AFEMS--------------------------------
+------------
+>ENSCJAP00000072650 ENSCJAG00000065875	91	CCL5	C-C motif chemokine ligand	Callithrix_jacchus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+VILVATTLCAPVSATP--YASDT-TPCCFAYIVRLLPRAHIKEYFYTSGKCSIPAVVFVT
+RKNRQVCANPEKKWVREYIN---SLEMS--------------------------------
+------------
+>ENSCATP00000040226 ENSCATG00000042685	91	CCL5	C-C motif chemokine ligand	Cercocebus_atys	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+VILVATALCAPASASP--HASDT-TPCCFAYIARPLPRAHIKEYFYTSGKCSNPAVVFVT
+RKNRQVCANPEKKWVREYIN---SLEMS--------------------------------
+------------
+>ENSCSAP00000002509 ENSCSAG00000006213	91	CCL5	C-C motif chemokine ligand	Chlorocebus_sabaeus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+VILVATALCTPASASP--YASDT-TPCCFAYIARPLPRAHIKEYFYTSGKCSNPAVVFVT
+RKNRQVCANPEKKWVREYIN---SLEMS--------------------------------
+------------
+>ENSMMUP00000073204 ENSMMUG00000054796	91	CCL5	C-C motif chemokine ligand	Macaca_mulatta	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+VILVATALCAPASASP--HASDT-TPCCFAYIARPLPRAHIKEYFYTSGKCSNPAVVFVT
+RKNRQVCANPEKKWVREYIN---SLEMS--------------------------------
+------------
+>ENSMLEP00000018114 ENSMLEG00000033238	91	CCL5	C-C motif chemokine ligand	Mandrillus_leucophaeus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+VILVATALCAPASASP--HASDT-TPCCFAYIARPLPRAHIKEYFYTSGKCSNPAVVFVT
+RKNRQVCANPEKKWVREYIN---SLEMS--------------------------------
+------------
+>ENSMICP00000040793 ENSMICG00000042451	91	CCL5	C-C motif chemokine ligand	Microcebus_murinus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SAAALA
+VILTAAALCAPTSASP--YASDT-TPCCFAYISRPLPRTHVMEYFYTSGKCSNPAVVFIT
+RKNRQVCANPEKKWVREYIN---SLEMS--------------------------------
+------------
+>ENSPTRP00000083031 ENSPTRG00000046869	91	CCL5	C-C motif chemokine ligand	Pan_troglodytes	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SAAALA
+VILIATALCAPASASP--YSSDT-TPCCFAYIARPLPRAHIKEYFYTSGKCSNPAVVFVT
+RKNRQVCANPEKKWVREYIN---SLEMS--------------------------------
+------------
+>ENSPPYP00000009214 ENSPPYG00000008196	91	CCL5	C-C motif chemokine ligand	Pongo_abelii	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SAAALA
+VILIATALCAPASASP--YASDT-TPCCFAYIARPLPRAHIKEYFYTSGKCSNPAVVFVT
+RKNRQVCANPEKKWVREYIN---SLEMS--------------------------------
+------------
+>ENSTGEP00000020853 ENSTGEG00000016787	91	CCL5	C-C motif chemokine ligand	Theropithecus_gelada	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+VILVATALCAPASASP--HASDT-TPCCFAYIARPLPRAHIKEYFYTSGKCSNPAVVFVT
+RKNRQVCANPEKKWVREYIN---SLEMS--------------------------------
+------------
+>ENSCCNP00000029971 ENSCCNG00000028742	91	Ccl5	C-C motif chemokine ligand	Castor_canadensis	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKT-SAAVLA
+VILTAAALCVPASATP--YASDT-TPCCFAYISRPLPRTHIKEYFYTSSKCSNLAVVFVT
+RKNRQVCANPEKKWVREYIN---SLEMS--------------------------------
+------------
+>ENSCPOP00000007949 ENSCPOG00000008852	91	CCL5	C-C motif chemokine 5	Cavia_porcellus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SAAALC
+VILTTAALCVPASASP--YASDT-TPCCFAYISRALPRTHIKEYFYTSSKCSNLAVVFVT
+RKNRQVCANPEKKWVREYIN---SLEMS--------------------------------
+------------
+>ENSCLAP00000022666 ENSCLAG00000015541	91	CCL5	C-C motif chemokine ligand	Chinchilla_lanigera	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKA-SVAALS
+VILTAAALCVPASASP--YASDT-TPCCFAYISRSLPRTHIKEYFYTSSKCSNLAVVFVT
+RKNRQVCANPEKKWVREYIN---FLEMS--------------------------------
+------------
+>ENSDORP00000007204 ENSDORG00000007688	91	Ccl5	C-C motif chemokine ligand	Dipodomys_ordii	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAAFA
+VLLCAMALCHQASPAP--HASDT-TPCCFAYISRPLPRTHIKEYFYTSGKCSNLAVVFVT
+RKNRQVCANPEKKWVREYIN---SLEMS--------------------------------
+------------
+>ENSSTOP00000014170 ENSSTOG00000015833	91	CCL5	C-C motif chemokine ligand	Ictidomys_tridecemlineatus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SAAALA
+VILTAAAFCIPASASP--YASDT-TPCCFAFISRPVPRNHIKEYFYTSSKCSNLAVVFVT
+RRNRQVCADPEKKWVREYIN---SLEMS--------------------------------
+------------
+>ENSMUGP00000020465 ENSMUGG00000017275	93	Ccl5	C-C motif chemokine ligand	Meriones_unguiculatus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKI-SVAALT
+AILTAAALCTPASASP--YGSDT-TPCCFTYRSAQLPRDHVKEYFYTSSKCSNLAVVFVT
+RRNRQVCANPKKKWVREYIN---YLEMNSK------------------------------
+------------
+>ENSMAUP00000001031 ENSMAUG00000000781	91	Ccl5	C-C motif chemokine ligand	Mesocricetus_auratus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKI-STAVLT
+VILTAATLYAPSSASP--RGSDT-TPCCFDYLSFTLPRVHIKEYFYTSSKCSNFAVVFVT
+RRNRQVCANPKKKWVQEYIN---YLEMK--------------------------------
+------------
+>ENSMOCP00000023767 ENSMOCG00000020386	91	Ccl5	C-C motif chemokine ligand	Microtus_ochrogaster	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKI-SAVALT
+IILTAATLCAPASASP--YGADT-TPCCFSYLSLTLPRAHVKEYFYTSSKCSNSAVVFVT
+RKNRQVCANPKKKWVQEYIN---YLEMK--------------------------------
+------------
+>ENSMUSP00000039600 ENSMUSG00000035042	91	Ccl5	chemokine (C-C motif) ligand	Mus_musculus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKI-SAAALT
+IILTAAALCTPAPASP--YGSDT-TPCCFAYLSLALPRAHVKEYFYTSSKCSNLAVVFVT
+RRNRQVCANPEKKWVQEYIN---YLEMS--------------------------------
+------------
+>ENSODEP00000017353 ENSODEG00000012792	91	CCL5	C-C motif chemokine ligand	Octodon_degus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKL-SAAALS
+VILAVAALCAPASASL--YASDT-TPCCFAYISRPLPRTHIKEYFYTSSKCSNLAVVFVT
+RKNRQVCANPEKKWVREYIN---SLEMS--------------------------------
+------------
+>ENSPEMP00000006304 ENSPEMG00000008561	91	Ccl5	chemokine (C-C motif) ligand	Peromyscus_maniculatus_bairdii	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKT-SAAALT
+VILTAATLCGPASASP--YGSDT-TPCCFSYLSLALPRAHVKEYFYTSSKCSNSAVVFVT
+RRNRQVCANPKKKWVQEYIN---YLEMK--------------------------------
+------------
+>ENSRNOP00000014865 ENSRNOG00000010906	92	Ccl5	C-C motif chemokine ligand	Rattus_norvegicus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKISTAASLT
+VILVAAALCTPAPASP--YGSDT-TPCCFAYLSLALPRAHVKEYFYTSSKCSNLAVVFVT
+RRNRQVCANPEKKWVQEYIN---YLEMS--------------------------------
+------------
+>ENSTBEP00000002023 ENSTBEG00000002353	91	CCL5	C-C motif chemokine ligand	Tupaia_belangeri	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKT-SAVVLV
+VILTAAALCSPASASP--YASDT-TPCCFAYISRPLPRTHLREYFYTSGKCSNPAVVFIT
+RKNRQVCANPEKKWVREYIN---SLEMS--------------------------------
+------------
+>ENSANIP00000025696 ENSANIG00000017289	90	None	None	Accipiter_nisus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MNA-SAVCLS
+IIL-VGLLFSQASPAP--IGADT-TVCCFSYTLRKLPQSHVKDYFYTSSKCSQPAVVFIT
+RKDREVCANPDARWVKEYVN---TLELQ--------------------------------
+------------
+>ENSACCP00020012874 ENSACCG00020008851	90	None	C-C motif chemokine	Aquila_chrysaetos_chrysaetos	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MNV-SAVCLS
+IIL-VAALFSQASPAP--IGADT-TVCCFSYTLRKLPQSHVKDYFYTSSKCSQPAVVFIT
+RKDREVCANPDARWVKEYVN---TLELQ--------------------------------
+------------
+>ENSAPLP00020023593 ENSAPLG00020016374	90	CCL5	C-C motif chemokine ligand	Anas_platyrhynchos	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MNI-FSAALS
+ILL-LAGLFSQAFSGP--IGADT-TICCFSYTSQKLPQSHVKDYFYTSSKCPQPAVVFIT
+RRTRQVCANPDARWVKEYVN---FLEMH--------------------------------
+------------
+>ENSACDP00005014187 ENSACDG00005010409	90	None	None	Anser_cygnoides	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MNI-IGAALS
+ILL-VAGLFSQAFSGP--IGADT-TICCFSYTSQKLPRSHVKDYFYTSSKCPQPAVVFIT
+RRTRQVCAKPDARWVKEYVN---FLELH--------------------------------
+------------
+>ENSAOWP00000018122 ENSAOWG00000012369	90	None	None	Apteryx_owenii	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MNI-SAVSLS
+IIL-IAALFSQASSGP--IGADT-TVCCFSYALRKLPQSHVKDYFYTSSKCPQPAVVFIT
+RKKQQVCANPDARWVKEYVN---FLELQ--------------------------------
+------------
+>ENSDNVP00000023923 ENSDNVG00000016614	72	None	C-C motif chemokine	Dromaius_novaehollandiae	683B	683	B
+------------------------------------------------------------
+------------------------------------------------------------
+----------PSQSLP--VGADT-TVCCFSYALRKLPQSHVKDYFYTSSKCSQPAVVFIT
+RKNREVCANPDARWVKEYVN---ALELQ--------------------------------
+------------
+>ENSCPUP00000018187 ENSCPUG00000012521	90	CCL5	C-C motif chemokine	Calidris_pugnax	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MNA-SAVCLS
+IIL-VAALFSQASPAP--FGADA-TVCCFSYTSRKLPQSHVKDYFYTSSKCSQPAVVFTT
+RKDRQVCANPDARWVKEYVN---ALELQ--------------------------------
+------------
+>ENSCPIP00010004624 ENSCPIG00010003601	91	CCL5	C-C motif chemokine ligand	Chrysolophus_pictus	683B	683	B
+------------------------------------------------------------
+-------------------------------------------------MMTT-VAVPFS
+ILL-IAALFPQTSSSP--FGADT-TVCCFSYTVRKLPQNHVKEYFYTSSKCPQPAVVFTT
+RKGRQVCANPDARWVKEYIN---FLELQ--------------------------------
+------------
+>ENSCJPP00005004272 ENSCJPG00005004281	91	CCL5	C-C motif chemokine	Coturnix_japonica	683B	683	B
+------------------------------------------------------------
+-------------------------------------------------MMTT-VAVSLS
+ILL-VAALFPQASSSP--FGSDT-TVCCFGYTARKLPQNHVKEYFYTSSKCPQPAVVFTT
+RKGRQVCANPDARWVKEYVN---FLELQ--------------------------------
+------------
+>ENSGALP00000049143 ENSGALG00000043603	90	CCL5	chemokine (C-C motif) ligand	Gallus_gallus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MTA-VAVSLS
+ILL-VAALFPQASSSP--FGADT-TVCCFNYSVRKLPQNHVKDYFYTSSKCPQAAVVFIT
+RKGRQVCANPDARWVKEYIN---FLELQ--------------------------------
+------------
+>ENSMGAP00000001278 ENSMGAG00000001784	91	None	C-C motif chemokine	Meleagris_gallopavo	683B	683	B
+------------------------------------------------------------
+-------------------------------------------------MMTT-VAVPFS
+ILL-IAALFPQTSSSP--FGADT-TVCCFSYSVRKLPQNHVKEYFYTSSKCPQPAVVFTT
+RKGRQVCANPDARWVKEYIN---FLELQ--------------------------------
+------------
+>ENSNMEP00000013844 ENSNMEG00000012535	90	None	C-C motif chemokine	Numida_meleagris	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MTA-VAVSLS
+ILL-VAALFPQASSSP--LGADT-TVCCFSYTVRKLPQNHVKEYFYTSSKCPQPAVVFTT
+RKGRQVCANPDARWVKEYVN---FLELQ--------------------------------
+------------
+>ENSPSTP00000001550 ENSPSTG00000001210	88	None	None	Pavo_cristatus	683B	683	B
+------------------------------------------------------------
+-------------------------------------------------ML-L-WASHCG
+GLM---VDSCQPSSLP--VGADT-TVCCFSYTVRKLPQNHVKEYFYTSSKCPQAAVVFTT
+RKGRQVCANPDARWVKEYIN---FLELQ--------------------------------
+------------
+>ENSPCLP00000005240 ENSPCLG00000004481	91	None	None	Phasianus_colchicus	683B	683	B
+------------------------------------------------------------
+-------------------------------------------------MMTT-VAVPFS
+ILL-IAALFPQTSSSP--FGADT-TVCCFSYSVRKLPQNHVKEYFYTSSKCPQPAVVFTT
+RKGRQVCANPDARWVKEYIN---FLELQ--------------------------------
+------------
+>ENSCPVP00000005175 ENSCPVG00000003780	90	None	C-C motif chemokine	Camarhynchus_parvulus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MNI-STLCLS
+IIL-VADLFSQALPAP--LGSDM-ALCCFSYISRKLPQSHVQEYFYTSSKCSQPAVVFVT
+RKKREICANPDARWVKEYVN---SLELQ--------------------------------
+------------
+>ENSEGOP00005015525 ENSEGOG00005012595	90	None	None	Erythrura_gouldiae	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MNL-STLCLS
+IIL-VADLFSQALPAP--LGSDM-ALCCFSYISRKLPQNHVQEYFYTSSKCSQPAVVFVT
+RKKREVCANPDARWVKEYVN---SLELQ--------------------------------
+------------
+>ENSGFOP00000021932 ENSGFOG00000014515	90	None	C-C motif chemokine	Geospiza_fortis	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MNI-STLCLS
+IIL-VADLFSQALPAP--LGSDM-ALCCFSYISRKLPQSHVQEYFYTSSKCSQPAVVFVT
+RKKREICANPDARWVKEYVN---SLELQ--------------------------------
+------------
+>ENSJHYP00000020632 ENSJHYG00000015621	90	None	None	Junco_hyemalis	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MNI-STLCLS
+IIL-VAHLFSQALPAP--LGSDM-GLCCFSYISRKLPQSHVQEYFYTSSKCSQPAVVFVT
+RKKREICANPDSRWVKEYVN---SLELQ--------------------------------
+------------
+>ENSLSDP00000013768 ENSLSDG00000009966	90	None	C-C motif chemokine	Lonchura_striata_domestica	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MNI-STLCLS
+IIL-VADLFSQALPAP--LGSDM-ALCCFSYISRKLPQNHVQEYFYTSSKCSQPAVVFVT
+RTKREVCANPDARWVKEYVN---SLEMQ--------------------------------
+------------
+>ENSMVIP00005012402 ENSMVIG00005009029	90	None	C-C motif chemokine	Manacus_vitellinus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-STLCLS
+IIL-VAALLSQVSPAP--LGSDT-TICCFGYTPRKLPQNHVKEYFYTSSKCPQPAVVFIT
+QKNREVCANPGARWVKEYVD---SLELH--------------------------------
+------------
+>ENSSCAP00000005046 ENSSCAG00000004066	90	None	C-C motif chemokine	Serinus_canaria	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MNI-STLCLS
+MIL-VADLFSQALPAP--LGSDM-ALCCFSYISRKLPQSHVQEYFYTSSKCSQPAVVFVT
+RKKREVCANPDARWVKEYVN---SLELQ--------------------------------
+------------
+>ENSZALP00000004252 ENSZALG00000004024	93	None	C-C motif chemokine	Zonotrichia_albicollis	683B	683	B
+------------------------------------------------------------
+-----------------------------------------------MNISTH-SRLCLS
+IIL-VAHLFSQALPAP--LGSDM-GLCCFSYISRKLPQSHVQEYFYTSSKCSQPAVVFVT
+RKKREICANPDSRWVKEYVN---SLELQ--------------------------------
+------------
+>ENSACOP00000006527 ENSACOG00000004566	90	None	None	Amazona_collaria	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MST-SAVCLS
+VLL-IAALFSQASPAP--VGADT-TVCCFSYASRKLPQSHVKDYFYTSSKCSQPAVVFVT
+RKDREVCANPDARWVKDYVN---TLELQ--------------------------------
+------------
+>ENSSPUP00000007469 ENSSPUG00000005743	95	CCL5	C-C motif chemokine ligand	Sphenodon_punctatus	683B	683	B
+------------------------------------------------------------
+-------------------------------------------------MSPP-FWLRVV
+VIC-TCAIWSRDLVVI--LGSDT-TACCFSYVSRQIPQTHVKDYYYTSGKCSQPSVVFIT
+RRNRQVCANPNTKWVQNYIN---ALELGTTTP----------------------------
+------------
+>ENSSCUP00000015331 ENSSCUG00000011278	91	CCL5	C-C motif chemokine ligand	Struthio_camelus_australis	683B	683	B
+------------------------------------------------------------
+-------------------------------------------------MMNI-SAVSLS
+VLL-IAALFSQASSGP--IGADT-TVCCFSYASRKLPQSHVKDYFYTSSKCSQPAVVFIT
+RKNRQVCANPDARWVKEYVN---FLELQ--------------------------------
+------------
+>ENSCABP00000005909 ENSCABG00000004436	90	CCL5	C-C motif chemokine ligand	Chelonoidis_abingdonii	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-TVAALA
+VL-LVAAFCSLASSAP--LGSDT-TVCCFSYTTRKLPQSHLKEYFYTSGKCSQPAVVFVT
+RKNRQVCANPDAKWVKDYVN---FLEMK--------------------------------
+------------
+>ENSCPBP00000013170 ENSCPBG00000009887	136	CCL5	C-C motif chemokine ligand	Chrysemys_picta_bellii	683B	683	B
+--------------------------------------------------MQLVSWNKPE
+TSLLPYKNRGLSRGSVSEVR--------------KSLCSAPVVNPSPDSNMKV-SVAALA
+VL-LIAAFCSQASCAP--HGSDT-TVCCFSYTTRKLPKSHLKEYFYTSGKCSQPAVVFVT
+RKNKQVCANPDTRWVRDYVN---FLEMK--------------------------------
+------------
+>ENSGAGP00000015632 ENSGAGG00000011788	135	CCL5	C-C motif chemokine ligand	Gopherus_agassizii	683B	683	B
+--------------------------------------------------MQLVSRNKQE
+TSLFPYKTWGLSPWSVSEV---------------RGPCSAPTVHPSPDSNMKA-TVAALA
+VLL-IAAFCSLASSAP--LGSDT-TVCCFSYATRKLPQSHLKEYFYTSGKCSQPAVVFVT
+RKNKQVCANPDTKWVKDYVN---FLEMK--------------------------------
+------------
+>ENSPSIP00000005808 ENSPSIG00000005397	90	CCL5	C-C motif chemokine	Pelodiscus_sinensis	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALT
+ILL-VAAFCSQASAAP--LGSDT-SVCCFGYASRKPPQGHLKDYFYTSGKCSQPAVVFVT
+RKNQQVCANPDTKWVKDYVN---YLEMK--------------------------------
+------------
+>ENSPCEP00000016822 ENSPCEG00000013224	90	CCL5	C-C motif chemokine ligand	Pelusios_castaneus	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SVAALA
+ILI-IAAFGSLAFSAP--IGTDM-SVCCFGYVSQKIPRSHVTDYFYTSGKCSLPAVVFIT
+RKNREVCANPNTQWVKKYVN---ALEMK--------------------------------
+------------
+>ENSTMTP00000029867 ENSTMTG00000021594	90	CCL5	C-C motif chemokine ligand	Terrapene_carolina_triunguis	683B	683	B
+------------------------------------------------------------
+--------------------------------------------------MKV-SMAALA
+VL-LIAAFCSQASSAP--HGSDT-TVCCFSYTTRKLPQSHLKEYFYTSGKCSQPAVVFVT
+RKDKQVCANPDTKWVKEYVN---FLEMK--------------------------------
+------------
+>ENSNPEP00000004636 ENSNPEG00000003534	87	None	None	Nothoprocta_perdicaria	683B	683	B
+------------------------------------------------------------
+------------------------------------------------------LNLFRA
+ALV-LCSACLPSQSLA--DGADT-TVCCFSYTLRKLPQNHVKEYFYTSSKCPQPAVVFVT
+RKDRQLCANPDARWVKEYVN---FLELQ--------------------------------
+------------

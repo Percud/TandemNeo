@@ -1,0 +1,1449 @@
+>ENSBBBP00000022302 ENSBBBG00000016121	144	None	phospholipase A2, membrane	Bison_bison_bison	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVIMA--------------------FALLQVHAHLWDF-ARMIKHTTG
+KGALLSYSAYGCYCG--------------VS--------GRGSPKDGTD----WCCWAHD
+C-CYKKLKH-HGCGTKF-LNYNVSIR----------------RG-QITC--ADQGV----
+-------CR-RIVCEC----DKKAAICFARNQKTYNK---KLQYYR--NS---L------
+--CTGRAPQC--------------------------------------------------
+----------------------------------
+>ENSBTAP00000003496 ENSBTAG00000002700	144	PLA2G2A	phospholipase A2, group IIA (platelets, synovial	Bos_taurus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVIMA--------------------FALLQVHAHLWDF-ARMIKHTTG
+KGALLSYSAYGCYCG--------------VS--------GRGSPKDATD----RCCWAHD
+C-CYKKLKH-HGCGTKF-LNYNVSIR----------------RG-QITC--ADQGV----
+-------CR-RIVCEC----DKKAALCFARNQKTYNK---KLQYYR--NS---L------
+--CTGRAPQC--------------------------------------------------
+----------------------------------
+>ENSCDRP00005011742 ENSCDRG00005008305	144	PLA2G2A	phospholipase A2 group	Camelus_dromedarius	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVIIA--------------------FGLLQVRGDLLGF-RKMIQYTTG
+KEPVSTYGFYGCYCG--------------LG--------GKGSPKDATD----RCCMAHD
+C-CYRRLKT-IGCGTML-LSYKFAYL----------------WG-QIIC--DKQEY----
+-------CR-SELCQC----DKRAADCFARNQKTYNK---KLQYYN--NL---L------
+--CSGSAPKC--------------------------------------------------
+----------------------------------
+>ENSCHIP00000022932 ENSCHIG00000020720	144	None	phospholipase A2, membrane	Capra_hircus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVIMA--------------------IGLLQGRGSLADF-QKMVKFTTG
+KDPLTTYGFYGCHCG--------------AG--------KRGTPKDATD----RCCRARD
+C-CYENLRK-RGCRTSF-QSYNFIFQ----------------RG-QIVC--GDQDY----
+-------CK-RRLCQC----DKRAADCFDKNWKTYNK---KFQYYN--NL---L------
+--CFGSAPEC--------------------------------------------------
+----------------------------------
+>ENSCWAP00000009283 ENSCWAG00000007184	144	None	None	Catagonus_wagneri	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVIVA--------------------FGLLQVQGDLLNF-REMIKFTTG
+KAPVPSYGFYGCYCG--------------LG--------GKGAPKDATD----RCCARHD
+C-CYKQLKK-RGCGTKL-LSYKFVFR----------------WG-QIIC--ERQEY----
+-------CR-SALCEC----DKAAADCFARNQNTYNA---KLQYYS--NL---K------
+--CHGTAPKC--------------------------------------------------
+----------------------------------
+>ENSMMSP00000006810 ENSMMSG00000005260	144	None	None	Moschus_moschiferus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLTVIMA--------------------FALLQVHGHLWDF-AAMIKHTTG
+KGALFSYGAYGCYCG--------------VG--------GRGTPKDATD----RCCWAHD
+C-CYKTLKY-HGCGSKF-LKYNVSIR----------------RG-QITC--EDQGV----
+-------CR-RILCEC----DKKAANCFARNQNTYNK---KLQYYR--NS---L------
+--CTGRAPQC--------------------------------------------------
+----------------------------------
+>ENSOARP00000010183 ENSOARG00000009488	144	None	phospholipase A2, membrane	Ovis_aries	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVIMA--------------------VGLLQVHGSLLDF-RKMIKFATG
+KEPATNYSFYGCYCG--------------MR--------GRGTPKDATD----RCCRAHE
+C-CYRNLES-RGCRTRF-LKYNATYE----------------ED-QIIC--EDTDD----
+-------CK-SQVCQC----DKIAASCFATNLKTYNK---KLRFYS--KR---R------
+--CRGPTPQC--------------------------------------------------
+----------------------------------
+>ENSSSCP00000031428 ENSSSCG00000003494	125	PLA2G2A	phospholipase A2 group	Sus_scrofa	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------NVLNF-HKMIKLKTG
+KSPVPNYAFYGCYCG--------------LG--------GKGSPKDATDFCRHRCCAAHD
+C-CYKQLKK-RGCGTKL-LSYKFVFY----------------QG-QTI-----GDD----
+-------CR-RRLCQC----DKIAADCFARNLRTYNV---KLQYYS--NL---R------
+--CTGTECCS--------------------------------------------------
+----------------------------------
+>ENSMLUP00000017285 ENSMLUG00000030740	145	None	None	Myotis_lucifugus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLALTMA--------------------FGLLQTHGNLLDF-QKMIRLATG
+KDAVSSYGFYGCYCG--------------LG--------GRGSPKDATD----RCCAAHD
+C-CYRRLEK-QKCGTKF-LNYNFTYR----------------KG-QIICE-GKQDS----
+-------CR-RKLCEC----DKAAASCFARNRKTYKK---QYQYYP--NH---N------
+--CRGRDHRC--------------------------------------------------
+----------------------------------
+>ENSPVAP00000014945 ENSPVAG00000015841	146	PLA2G2A	phospholipase A2 group	Pteropus_vampyrus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT---LLLLAMTMA--------------------FALLQTHGDLLQF-RKMIHLLTG
+REPVFSYAFYGCYCG--------------FG--------GKGSPKDATG----RCCATHD
+CCCYNWLEK-RGCGTTF-LSYKHEYE----------------SR-NTQILGAKQDY----
+-------GR-RQLCQC----DKVAAFCFARNQKTYNK---KYQYYN--KQ----------
+--CTGKALRC--------------------------------------------------
+----------------------------------
+>ENSRFEP00010027410 ENSRFEG00010018203	144	PLA2G2A	phospholipase A2 group	Rhinolophus_ferrumequinum	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVITS--------------------FGLLETHGDLVDF-AKMIFKKTG
+KEAMSSYGFYGCYCG--------------YG--------GKGTPKDATD----RCCVAHD
+C-CYKRLER-RGCGTKL-LSYKFAYN----------------RG-QVIC--ERGDY----
+-------CK-TQLCEC----DKAAVNCFVRNKSTYNK---NYRFYD--NK---L------
+--CSGRTVQC--------------------------------------------------
+----------------------------------
+>ENSDNOP00000007208 ENSDNOG00000009318	212	None	None	Dasypus_novemcinctus	10A	10	A
+------------------------------------------------LARGS-------
+-SSSPPGSDTHG----RSSCFST-QHSA-RG-----------PAC-------PPGTGEGG
+SRMKT--L-LPLAVIMA--------------------IGLLQVHGSLTNF-WEMIWAVTG
+KEAVTSYGFYGCHCG--------------LG--------GKGSPKDATD----RCCVAHD
+C-CYYRLQK-RGCATKS-LNYKFSYR----------------GG-KVTCVSAKQDS----
+-------CR-SQLCQC----DKAAAYCFVKNRKTYRR---KYQFYP--NK---L------
+--CSGKTPRCSSCAEPSPASLA---S-----RRSRP------GDPTPL------------
+----------------------------------
+>ENSMODP00000019851 ENSMODG00000023936	144	None	basic phospholipase A2	Monodelphis_domestica	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT---VF-LLAALMA-------------------CGLSEVQGDLLQF-QNMIGKLTK
+KNALLSYGMYGCYCG--------------LG--------GKGTPKDATD----RCCMAHD
+C-CYSKLKK-KGCNPYA-QTYNYKYQ----------------AG-SLTC--GSGTF----
+-------CQ-KQTCGC----DVVAARCMQRNLKTYNK---KYRNYP--NS---L------
+--CGKNNAQC--------------------------------------------------
+----------------------------------
+>ENSMEUP00000014460 ENSMEUG00000015837	97	None	None	Notamacropus_eugenii	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT---FLLLAVLMV--------------------YDLSQVQGNLKQL-QEIIQLVTG
+KNALFNYGFYGCHCG--------------LG--------GRGTPKDATD----RCCATQD
+C-CYSRLMK-EGCDPKK-EKYDYTYH----------------ND-TITC-----------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------
+>ENSPCIP00000004757 ENSPCIG00000003932	160	None	None	Phascolarctos_cinereus	10A	10	A
+------------------------------------------------------------
+------------MGEGQTKA---------V-------------------------VERED
+RRVAT---SD-WGPLVSF-------------------AGLSEVQGNLIQF-KNMIGKLTG
+KNALINYGFYGCHCG--------------WG--------GKGTPMDATD----RCCLAHD
+C-CYSKLVK-KGCKLKT-QAYNFKYK----------------SG-SITC--GSGNY----
+-------CQ-KQLCAC----DRTVAYCMKKNQKSYKV---KYRNYP--NF---L------
+--CKGNKPKC--------------------------------------------------
+----------------------------------
+>ENSVURP00010031129 ENSVURG00010023812	144	None	None	Vombatus_ursinus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKI---IF-LLAALMA-------------------CGLSEVQGNLIQF-KNMIGKLTG
+KNALIDYGFYGCHCG--------------WG--------GKGTPLDATD----RCCFFHD
+C-CYSKLRK-KGCIPKI-QTYNYEYQ----------------DG-FIIC--GSGNY----
+-------CQ-KQICVC----DRIVAYCMKKNLKSYSV---KYRYFK--TS---Q------
+--CSEDTPKC--------------------------------------------------
+----------------------------------
+>ENSEEUP00000008230 ENSEEUG00000009053	144	None	None	Erinaceus_europaeus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKV----LLLAAISA--------------------FGLLRADGALWNF-EEMIWKITG
+KEAASAYGFYGCHCG--------------WG--------GRGAPLDATD----WCCAIHD
+C-CYDRLEK-LGCWPKL-QDYDAEYF----------------DK-YIIC--GNQDD----
+-------CE-TQVCEC----DRAVAYCFARNQKTYNT---KYLFYG--KR---K------
+--CHGKSPKCS-------------------------------------------------
+----------------------------------
+>ENSSARP00000004097 ENSSARG00000004535	96	None	None	Sorex_araneus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKI----LLLAMIVA--------------------FGLLPTHGALWNF-QKMIKKTTG
+KNAITNYGFYGCYCA--------------VS--------GKGTPKDATD----RCCFAHD
+C-CYRRLKR-QGCGRKF-LNYKVIYK----------------NG-KITC-----------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------
+>ENSPCAP00000005125 ENSPCAG00000005522	142	None	None	Procavia_capensis	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--F-LLLVVITA--------------------LGLLHVQGNLLDF-RRMIRAVTG
+KEAVSSYGFYGCHCG--------------AG--------GRGSPKDATD----RC-AEHD
+C-CYQRLEK-RKCGTKL-LSYKFLYR----------------RG-QITCA---KQD----
+-------CR-TQLCQC----DRTAAYCFARNQNTYNR---KYQYYS--NG---R------
+--CGGKTPRC--------------------------------------------------
+----------------------------------
+>ENSOPRP00000015190 ENSOPRG00000016641	144	None	None	Ochotona_princeps	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVIMA--------------------CGLLQAYGSLLDF-RKMIKYTTG
+KEATTSYSAYGCHCG--------------VG--------GRGTPKDATD----RCCVAHD
+C-CYRRLEK-HKCGTKF-LGYKFSMK----------------GG-KITC--AKQDY----
+-------CR-SQLCQC----DRRAAHCFARTRSSYSR---KYQFYS--NN---R------
+--CSGRTPRC--------------------------------------------------
+----------------------------------
+>ENSOCUP00000005688 ENSOCUG00000006582	172	None	None	Oryctolagus_cuniculus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVILT--------------------FGFLQVYGHLLDF-RKMIRYTTG
+KEATTSYGAYGCHCG--------------VG--------GRGAPKDATD----RCCLAHD
+C-CYRRLEK-RKCGTKF-LSYKFSMS----------------RG-KITC--GKQDS----
+-------CR-SQLCEC----DKAAAYCFARNRKSYSR---KYQGEE--ELGGKG------
+--CPGSSRNTGLSGARGKGGGG---GEREGGRKREP------GC----------------
+----------------------------------
+>ENSOANP00000030103 ENSOANG00000029118	116	None	None	Ornithorhynchus_anatinus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------MIRQTTG
+KNPIIQYSFYGCYCG--------------IG--------GKGEPKDATD----RCCQAHD
+C-CYGGLIS-HRCWTFW-DRYRYSYT----------------RG-VIRC--GESPS----
+-------SLPTQSSSP----GPSLS-----SVQSYLL---S-AYYV--QS---T------
+---------------------------VLSAWNVQF------GNR---------------
+----------------------------------
+>ENSECAP00000009153 ENSECAG00000010997	144	PLA2G2A	phospholipase A2 group	Equus_caballus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVIMA--------------------FGLLQVQGHLLDF-RKMIRLMTG
+KEATSSYGFYGCHCG--------------VG--------GKGSPKDATD----WCCVAHD
+C-CYYRLQK-RGCGTKL-LNYKFSYR----------------GG-KIIC--AKQDS----
+-------CR-SELCQC----DKTAASCFARNRKTYSK---KYQYYN--NK---S------
+--CRGKTPRC--------------------------------------------------
+----------------------------------
+>ENSCHOP00000000646 ENSCHOG00000000729	144	PLA2G2A	phospholipase A2 group	Choloepus_hoffmanni	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKS--L-LLLAVIVA--------------------FGLLQVRGSLLDF-RKMIKSVTG
+KEAATSYGFYGCHCG--------------VG--------GKGSPKDATD----RCCAQHD
+C-CYRRLEK-RGCGTKL-LDYKFSYQ----------------RG-TIVC--AKQNS----
+-------CK-SQLCQC----DKTAAYCFARNLKTYNK---KLQYYS--NT---Q------
+--CKGRSPRC--------------------------------------------------
+----------------------------------
+>ENSCJAP00000076235 ENSCJAG00000006614	240	None	phospholipase A2 group	Callithrix_jacchus	10A	10	A
+QRDAKKEGTGPRALQESPKFPSRPTAGPWRFAEF--------------------------
+---------------------PENDQVGDRKGSHNQLWLLWLPLWRGWQRIPQ----GCN
+RSVRP---PT-----------------PLYLPRLWSRQGQELQRQCQFLL-GTEVLGWPG
+WKSSQHVGTSALDCCKVAGSLPRVRGGGEIRAPGFLELWDHSPNRMPPC----SCCFAHD
+C-CYKRLER-RGCGTKF-LSYKFSNK----------------GS-SITCA-KQD-S----
+-------CR-SQLCQC----DKAAASCFARNKRSYNK---KYQYYS--NK---Q------
+--CSGSTPRC--------------------------------------------------
+----------------------------------
+>ENSCATP00000020420 ENSCATG00000033986	144	PLA2G2A	phospholipase A2 group	Cercocebus_atys	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVIMI--------------------FGLLQAHGNLVDF-RRMIKLTTG
+KEAALSYGFYGCHCG--------------VG--------GKGAPKDATD----RCCVIHD
+C-CYKRLEK-RGCGTKF-LSYKFSNK----------------GS-IITC--AKQDS----
+-------CR-SQLCEC----DKAAAYCFARNKSTYNK---NYQYYS--NK---F------
+--CRGSTPRC--------------------------------------------------
+----------------------------------
+>ENSCSAP00000017121 ENSCSAG00000000886	144	PLA2G2A	phospholipase A2 group	Chlorocebus_sabaeus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVIMI--------------------FGLLQAHGNLADF-RRMIKLTTG
+KEATLSYGFYGCHCG--------------VG--------GKGAPKDATD----RCCVVHD
+C-CYKRLEK-RGCGTKF-LSYKFSNR----------------GS-TITC--AKQDS----
+-------CR-SQLCEC----DKAAAYCFARNKSTYNK---NYQYYS--NK---L------
+--CRGSTPRC--------------------------------------------------
+----------------------------------
+>ENSGGOP00000008097 ENSGGOG00000008284	144	PLA2G2A	phospholipase A2 group	Gorilla_gorilla	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVIMI--------------------FGLLQAHGDLVNF-RRMIKLTTG
+KEAALSYGFYGCHCG--------------VG--------GKGSPKDATD----RCCVTHD
+C-CYKRLEK-RGCGTKF-LSYKFSNV----------------GS-RITC--AKQDS----
+-------CR-SQLCEC----DKAAANCFARNKTTYNK---KYQYYS--NK---H------
+--CRGSTPRC--------------------------------------------------
+----------------------------------
+>ENSP00000364252 ENSG00000188257	144	PLA2G2A	phospholipase A2 group	Homo_sapiens	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVIMI--------------------FGLLQAHGNLVNF-HRMIKLTTG
+KEAALSYGFYGCHCG--------------VG--------GRGSPKDATD----RCCVTHD
+C-CYKRLEK-RGCGTKF-LSYKFSNS----------------GS-RITC--AKQDS----
+-------CR-SQLCEC----DKAAATCFARNKTTYNK---KYQYYS--NK---H------
+--CRGSTPRC--------------------------------------------------
+----------------------------------
+>ENSMMUP00000028787 ENSMMUG00000021862	144	PLA2G2A	phospholipase A2 group	Macaca_mulatta	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVIMI--------------------FGLLQAHGNLVDF-RRMIKLKTG
+KEAALSYGFYGCHCG--------------VG--------GKGAPKDATD----RCCVVHD
+C-CYKRLEK-RGCGTKF-LSYKFSNK----------------GS-TITC--AKQDS----
+-------CR-SQLCEC----DKAAAYCFARNKSTYNK---NYQYYS--NK---F------
+--CRGSTPRC--------------------------------------------------
+----------------------------------
+>ENSMLEP00000038175 ENSMLEG00000043159	144	PLA2G2A	phospholipase A2 group	Mandrillus_leucophaeus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVIMI--------------------FGLLQAHGNLVDF-RRMIKLKTG
+KEAALSYGFYGCHCG--------------VG--------GKGAPKDATD----RCCVIHD
+C-CYKRLEK-RGCGTKF-LSYKFSNK----------------GS-IITC--AKQDS----
+-------CR-SQLCEC----DKAAAYCFARNKSTYNK---NYQYYS--NK---F------
+--CRGSTPRC--------------------------------------------------
+----------------------------------
+>ENSMICP00000048277 ENSMICG00000043228	144	PLA2G2A	phospholipase A2 group	Microcebus_murinus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT---LLLLAVIVA--------------------FGLLQAHGNLLQL-KEMIKLTTG
+KEVLSSYAFYGCYCG--------------LS--------GIGTPLDGTD----RCCAEHD
+C-CYHRQTE-QGCGSKF-LSYQFSHK----------------GN-KITC--ANEDK----
+-------CR-NQLCEC----DKNLAYCLARNKESYND---EYEFYP--KI---K------
+--CIGGKRPC--------------------------------------------------
+----------------------------------
+>ENSPTRP00000088182 ENSPTRG00000000277	144	PLA2G2A	phospholipase A2 group	Pan_troglodytes	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVIMI--------------------FGLLQAHGDLVNF-HRMIKLTTG
+KEAALSYGFYGCHCG--------------VG--------GKGSPKDATD----RCCVTHD
+C-CYKRLEK-RGCGTKF-LSYKFSNA----------------GS-RITC--AKQDS----
+-------CR-SQLCEC----DKAAANCFARNKTTYNK---KYQYYS--NK---H------
+--CRGSTPRC--------------------------------------------------
+----------------------------------
+>ENSPANP00000003234 ENSPANG00000004179	144	PLA2G2A	phospholipase A2, membrane	Papio_anubis	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVIMI--------------------FGLLQAHGNLVEF-RRMIKLTTG
+KEAALSYGFYGCHCG--------------VG--------GKGAPKDATD----RCCVIHD
+C-CYKRLEK-RGCGTKF-LSYKFSNK----------------GS-TITC--AKQDS----
+-------CR-SQLCEC----DKAAAYCFARNKSTYNK---NYQYYS--NK---L------
+--CRGSTPRC--------------------------------------------------
+----------------------------------
+>ENSPPYP00000002063 ENSPPYG00000001780	144	PLA2G2A	phospholipase A2 group	Pongo_abelii	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVIMI--------------------FGLLQAHGDLVNF-RKMIKLTTG
+KEASLSYAFYGCHCG--------------VG--------GKGSPKDATD----RCCVTHD
+C-CYKRLEK-RGCGTKF-LSYKFSNK----------------GS-RITC--AKQDS----
+-------CR-SQLCEC----DKAAANCFARNKTTYNK---KYQYYS--NK---H------
+--CRGSTPRC--------------------------------------------------
+----------------------------------
+>ENSTGEP00000031944 ENSTGEG00000025550	144	PLA2G2A	phospholipase A2 group	Theropithecus_gelada	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAVIMI--------------------FGLLQAHGNLVDF-RRMIKLTTG
+KEAALSYGFYGCHCG--------------VG--------GKGAPKDATD----RCCVIHD
+C-CYKRLEK-RGCGTKF-LSYKFSNK----------------GS-TITC--AKQDS----
+-------CR-SQLCEC----DKAAAYCFARNKSTYNK---NYQYYS--NK---L------
+--CRGSTPRC--------------------------------------------------
+----------------------------------
+>ENSLAFP00000000301 ENSLAFG00000000361	137	None	None	Loxodonta_africana	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLVVIMA--------------------LGLLQVQGSLLDF-QKMIQLVTG
+KEALSSYGFYGCHCG--------------LG--------GKGSPKDATD----RCCAEHD
+C-CYKRLQK-QGCGTKF-LNYKFTRS----------------GG-QIIC--AKQDS----
+-------CR-TQLCQC----DRKAAYCFARNLNTYNK---KLQHYP--NV---L------
+--C---------------------------------------------------------
+----------------------------------
+>ENSCCNP00000002212 ENSCCNG00000002445	144	None	phospholipase A2, membrane	Castor_canadensis	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MRS--L-LLLAVIAA--------------------FVLIEAQGSLNNF-WAMILLKTG
+KRAEVSYAFYGCHCG--------------LG--------GKGSPKDATD----RCCVTHD
+C-CYRRLEK-RGCGTK--LKYKFTYR----------------GG-KIICA-ANQDS----
+-------CR-SQLCQC----DKAAAECFARNKKSYSV---KYQFYS--NL---L------
+--CHGQAPRC--------------------------------------------------
+----------------------------------
+>ENSCPOP00000000168 ENSCPOG00000000191	145	None	Phospholipase A2, membrane associated	Cavia_porcellus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MKLLLLLLVVMA--------------------SDLPQAHGHLKQF-TEMIKLTTG
+KNGLTSYGAYGCHCG--------------VG--------GKGTPKDATD----RCCVRHD
+C-CYDRLMK-RGCGTKF-LNYRFTHK----------------GS-SITCS-VKQNS----
+-------CQ-KQLCEC----DKAAAYCFAANLKSYSR---RYQFYY--NG---L------
+--CRGKTPSC--------------------------------------------------
+----------------------------------
+>ENSCLAP00000016008 ENSCLAG00000011020	146	PLA2G2A	phospholipase A2, membrane	Chinchilla_lanigera	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKPLL--LLLVVVMA--------------------SDLLQVEGHLTQF-TAMIMLKTG
+KNALTSYGAYGCHCG--------------IG--------GRGTPKDATD----RCCVKHD
+C-CYDRLMK-RGCGTKF-LNYKFTRR----------------GS-SITCN-AKQSF----
+-------CQ-KQVCEC----DKAAAYCFAANLKSYKR---RYQLYN--NA---F------
+--CRGKTPSC--------------------------------------------------
+----------------------------------
+>ENSDORP00000001029 ENSDORG00000001096	145	Pla2g2a	phospholipase A2 group	Dipodomys_ordii	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKT--L-LLLAMLVA--------------------FGFLQAHGSLVDF-QRMILFKTG
+KRADISYGAYGCHCG--------------WG--------GKGTPKDATD----RCCATHD
+C-CYSRLKK-RGCGTKL-LGYKFTYR----------------GG-QITCS-ANQDS----
+-------CR-RQLCQC----DKAAANCFAQNRKSYSI---KYQFFP--NR---F------
+--CRGKAPRC--------------------------------------------------
+----------------------------------
+>ENSSTOP00000019146 ENSSTOG00000022385	145	PLA2G2A	phospholipase A2 group	Ictidomys_tridecemlineatus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MRT--L-LALAVIMV--------------------FGLMWVQGDLLNF-NSMISSVTK
+KNGATNYGAYGCHCG--------------LG--------GKGAPKDATD----RCCARHD
+C-CYKRLEK-RGCGTKF-LSYKFKYQ----------------AG-KVICE-ANQSY----
+-------CR-SQLCQC----DKTAAYCFAKNRKTYNR---KYQFYP--NV---L------
+--CRGKKPSC--------------------------------------------------
+----------------------------------
+>ENSMUGP00000029103 ENSMUGG00000024116	175	Pla2g2a	phospholipase A2 group	Meriones_unguiculatus	10A	10	A
+------------------------------------------------------------
+----------------MCSIISIKMHST-RP-----------TPN-----TEGMKTVQRA
+DSMKV--LLLLAMVILA--------------------LGPIQIQGSIVDF-WKMILLKTG
+KRAESSYAFYGCHCG--------------VG--------GRGSPKDATD----RCCVAHD
+C-CYYRLEK-RGCGTKF-LSYKFSYR----------------GG-KITCA-ANQNS----
+-------CR-KQLCQC----DKVAAECFARNRKSYSL---KYQFYP--NK---F------
+--CSGKSPKC--------------------------------------------------
+----------------------------------
+>ENSMOCP00000014663 ENSMOCG00000014091	131	Pla2g2a	phospholipase A2 group	Microtus_ochrogaster	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------PIQIQGSLAEF-RQMILLKTG
+KRAETSYAFYGCHCG--------------VG--------GRGSPKDATD----RCCVAHD
+C-CYYRLQK-HNCGTKF-LTYKFSYR----------------GG-KITCS-ANQNS----
+-------CR-KQLCQC----DKAAVECFHRNRKSYSL---KYQLYP--NK---F------
+--CSGKSPKC--------------------------------------------------
+----------------------------------
+>ENSMUSP00000138200 ENSMUSG00000058908	145	Pla2g2a	phospholipase A2, group IIA (platelets, synovial	Mus_musculus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKV--LLLLAASIMA--------------------FGSIQVQGNIAQF-GEMIWLKTG
+KRAELSYAFYGCHCG--------------LG--------GKG-PKDATD----RCCVTHD
+C-CYKRLEK-SGCGTKL-LKYKYSHQ----------------GG-QITCS-ANQNS----
+-------CQ-KRLCQC----DKAAAECFARNKKTYSL---KYQFYP--NM---F------
+--CKGKKPKC--------------------------------------------------
+----------------------------------
+>ENSODEP00000022008 ENSODEG00000016173	148	PLA2G2A	phospholipase A2 group	Octodon_degus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKPLLLLLLLVVVLA--------------------SALLQVEGHLTQF-AAMIFLKTG
+KNALTSYGAYGCHCG--------------VG--------GKGAPKDATD----RCCVKHD
+C-CYSRLIK-RKCGTKF-LNYRFAKK----------------GS-SIICS-AKQSS----
+-------CQ-KQVCEC----DKAAAYCFAANRKSYKL---RYQFYN--NA---L------
+--CRGKTPSC--------------------------------------------------
+----------------------------------
+>ENSPEMP00000011505 ENSPEMG00000012135	146	Pla2g2a	phospholipase A2 group	Peromyscus_maniculatus_bairdii	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKV--LLLLAAVIMA--------------------LGPIQTQGSIANF-WQMILLKTG
+KRAESSYAFYGCHCG--------------VG--------GRGSPKDATD----RCCVAHD
+C-CYYRLEK-RGCGTKF-LSYKFKYQ----------------GG-KITCA-ANQNS----
+-------CR-KQLCQC----DKVATECFARNRKSYSL---KYQFFP--NK---F------
+--CSGKSPRC--------------------------------------------------
+----------------------------------
+>ENSRNOP00000022827 ENSRNOG00000016945	146	Pla2g2a	phospholipase A2 group	Rattus_norvegicus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKV--LLLLAVVIMA--------------------FGSIQVQGSLLEF-GQMILFKTG
+KRADVSYGFYGCHCG--------------VG--------GRGSPKDATD----WCCVTHD
+C-CYNRLEK-RGCGTKF-LTYKFSYR----------------GG-QISCS-TNQDS----
+-------CR-KQLCQC----DKAAAECFARNKKSYSL---KYQFYP--NK---F------
+--CKGKTPSC--------------------------------------------------
+----------------------------------
+>ENSTBEP00000011936 ENSTBEG00000013782	123	None	None	Tupaia_belangeri	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------LMQTYLYVL-SFKIINLAG
+KEAK--YGLFDRHC--------------SLECKGY-------PQ-GLVD----WCSAARA
+C-CYKCLEK-HE--TKL-LSYKPVYC----------------GT-TI-HA-KQG-S----
+-------CK-TQLCEC----DKAAAYCFAKNKKSYSL---KYRYFP--NK---L------
+--CRGSTPRC--------------------------------------------------
+----------------------------------
+>ENSAPLP00020010116 ENSAPLG00020007424	184	PLA2G2A	basic phospholipase A2	Anas_platyrhynchos	10A	10	A
+------------------------------------------------------------
+------------------------------------------MMWAS---VSSSRITKKM
+KS------LLVLA-----------------VLSAWG-SSQ--AGGNLWDL-QKMLTKVTG
+RNAFLYYSSYGCYCG--------------LG--------GRGRPKDATD----RCCQLHD
+T-CYDGLQR-HDCNAKK-QRYRYSWH----------------GG-SPTC--SRDSW----
+-------CA-QLSCEC----DRSLGLCLRSSLGSYRK---RYRLYP--RY---K------
+--V-----QVTGAGDS-TRRRRCFGFALCSQWGFVP------GAVRP------G------
+----------------------------------
+>ENSACDP00005012258 ENSACDG00005009054	134	PLA2G2A	phospholipase A2 group	Anser_cygnoides	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------MIKAVTG
+KSALLSYSWYGCFCG--------------IG--------GRGTPVDATD----SCCHAHD
+C-CYRRLRE-RCRGCPQ-TPPATAASPTADASFGGRKSHRRTLH-LSPAG-NEQSW----
+-------CK-RETCLC----DKAVASCFAGTLASYNP---SYRFYF--KL---R------
+--CRGSKLQC--------------------------------------------------
+----------------------------------
+>ENSDNVP00000015009 ENSDNVG00000010554	138	PLA2G2A	basic phospholipase A2	Dromaius_novaehollandiae	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKN---LLLFA-----------------A-LLVC-TVV--AHGNLWDL-QQMITQTTG
+HPAVLYYAFYGCYCG--------------WG--------GHGQPKDATD----RCCQRHD
+A-CYDTLLH-HRCDAKR-QXYRYGWH----------------GS-SPLC--DPGSW----
+-------CA-QLSCEC----DRSLALCLRQNRGSYAA---RYRFYP--KY---A------
+--C-----RW--------------------------------------------------
+----------------------------------
+>ENSCPUP00000027787 ENSCPUG00000018702	150	PLA2G2A	phospholipase A2 group	Calidris_pugnax	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKN---LLFAVL-LACGKYSSFTRPGWNLICLAK-KTYKLRVFGHNSL-QKMITKATG
+KNALLHYSFYGCYCG--------------LG--------GKGQPKDATD----RCCQVHD
+A-CYDSLLS-YGCDPRL-T-----------------------PAFPLPA--RQDPW----
+-------CS-QLSCEC----DRSLALCLKRSKHSYSK---RYLFYL--KH---R------
+--CR--------------------------------------------------------
+----------------------------------
+>ENSCPRP00005026699 ENSCPRG00005018520	146	PLA2G2A	phospholipase A2 group	Crocodylus_porosus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKS---LLLIAVFLICY--------------------VVLAHGNAIQF-GKMIKATTG
+KNALLSYNNYGCFCG--------------LG--------GKGTPVDATD----RCCYAHD
+C-CYRRAKQ-RGCKSPVIIWYKQRIS----------------KG-NITCL-NAPNS----
+-------CK-REVCKC----DRAAALCFKSTLRTYKK---SYLFYP--SK---K------
+--CGRKKLTC--------------------------------------------------
+----------------------------------
+>ENSCJPP00005023630 ENSCJPG00005018708	158	PLA2G2A	phospholipase A2 group	Coturnix_japonica	10A	10	A
+------------------------------------------------------------
+---------------------------------MNGAC----LLWASWLLSSD-------
+----------SDH-----------------CMLSL---CSSLAGGSLWQL-HKVVTKMTG
+KNAVLYYSSYGCYCG--------------MG--------GRGQPKDATD----RCCQLHD
+I-CYDSLQH-YHCNAKQ-QHYRYSWR----------------GG-RLTY---NDLW----
+-------CA-QLSCEC----DRSLGLCLQRSTWSYKW---RYVLYP--KH---P------
+--T-----PRCV-----PAGGPCL------------------------------------
+----------------------------------
+>ENSGALP00000022885 ENSGALG00000018977	158	PLA2G5	phospholipase A2 group	Gallus_gallus	10A	10	A
+-----------------------------------------------MPTMQP-------
+-------MSSRGFPEGS------------LPGKMNALL----AL----------------
+------------A-----------------ILFAW---GSSLAGGSLWQL-QEVVTKMTG
+KNAVLNYSSYGCYCG--------------VG--------GHGQPKDATD----RCCQLHD
+T-CYDSLQR-YHCNAKK-QRYKYSWH----------------SG-RLTC--NRDSW----
+-------CA-QLSCEC----DRSLGLCLQRNRRSYNW---RYVLYP--RC---K------
+--C-----R---------------------------------------------------
+----------------------------------
+>ENSMGAP00000019166 ENSMGAG00000005585	153	PLA2G2A	phospholipase A2 group	Meleagris_gallopavo	10A	10	A
+------------------------------------------------------------
+---------------------------------MNALL----AL----------------
+------------A-----------------MLFAW---GSSLAGGSLWQL-QQVVTKMTG
+KNAVLRYSFYGCYCG--------------VG--------GHGKPKDATD----RCCQLHD
+A-CYDSLQK-YHCDAKQ-QRYHYSWH----------------SG-RLTC--RRDSW----
+-------CA-QLSCEC----DRSLGLCLRRSARSYNW---CYVLYP--KS---K------
+--C-----RAFQ-------SPPCAAQSLLTP-----------------------------
+----------------------------------
+>ENSNMEP00000018511 ENSNMEG00000016085	136	PLA2G2A	phospholipase A2 group	Numida_meleagris	10A	10	A
+------------------------------------------------------------
+---------------------------------MQHLL----------------------
+------------P-----------------KPWLG---CSLLAGGNLWQL-QQVITKMTG
+KNAVLRYSFYGCYCG--------------VG--------GRGQPKDATD----RCCQLHD
+A-CYDSLQR-HHCDAKQ-QYYRYSWD----------------RA-HLTC--SKDSW----
+-------CA-RLSCEC----DRSLGLCLRRSARSYKW---RYVLYP--KS---K------
+--C-----R---------------------------------------------------
+----------------------------------
+>ENSPSTP00000001988 ENSPSTG00000001514	136	PLA2G2A	phospholipase A2 group	Pavo_cristatus	10A	10	A
+------------------------------------------------------------
+---------------------------------MQHLL----------------------
+------------P-----------------KPWLG---CSSLAGGSLWQL-QQVVTKMTG
+KNAVLHYSLYGCYCG--------------VG--------GRGQPKDATD----RCCQLHD
+A-CYDSLQQ-HHCNAKQ-QRYRYSWH----------------GG-ILTC--KRDSW----
+-------CA-QLSCEC----DRSLGLCLRRSARSYNW---RYVLYP--KC---K------
+--C-----R---------------------------------------------------
+----------------------------------
+>ENSPCLP00000022949 ENSPCLG00000020258	177	PLA2G2A	phospholipase A2 group	Phasianus_colchicus	10A	10	A
+----------------------------------------MGIASLLHPQLGS-------
+-------RKERG----Q------------SP-AARGLV----VQWGDDLALGSSSR--AV
+---------GKMN-----------------ALLAL---AMLFAWGNLWQL-QQVVTKLTG
+KNAILYYSSYGCYCG--------------VG--------GQGQPKDATD----RCCQLHD
+A-CYDSLQK-YHCNAKL-QYYQYSWH----------------SN-RLTC--SKDSW----
+-------CP-QMSCEC----DRSLGLCLQRSAKSHNR---RYLLYL--KS---K------
+--C-----R---------------------------------------------------
+----------------------------------
+>ENSCPVP00000015111 ENSCPVG00000011020	146	PLA2G2A	phospholipase A2, membrane	Camarhynchus_parvulus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MR----NLLLAVLLACG------------------KWLLRAGGSVLEL-ERMIRAATG
+RSALLSYSWYGCFCG--------------IG--------GSGSPVDATD----RCCQAHD
+C-CYRRLRE-GSCSPLI-TPYSFTSS----------------DG-NATCS-TEQSW----
+-------CQ-RETCLC----DTAVASCFASSLHSYNN---SYRFYF--KL---K------
+--CQGSKLQC--------------------------------------------------
+----------------------------------
+>ENSCCEP00000016651 ENSCCEG00000015544	136	PLA2G2A	basic phospholipase A2	Cyanistes_caeruleus	10A	10	A
+------------------------------------------------------------
+-----------------------------------------------------------L
+R--------------IL---------MLLLFSHGL-----SPAQGSLLQL-HQMISEATG
+KNAFLHYGFYGCYCG--------------LG--------GKGQPKDATD----RCCQLHD
+T-CYQNLLE-HGCNAKT-RSYCYSWH----------------QG-RLSC--RPGSR----
+-------CS-YLSCEC----DRSLALCLRRNISSYRK---GYQFFP--QI---R------
+--CY--------------------------------------------------------
+----------------------------------
+>ENSEGOP00005019107 ENSEGOG00005015246	145	PLA2G2A	phospholipase A2 group	Erythrura_gouldiae	10A	10	A
+------------------------------------------------------------
+-------------------------------------M----ELLLEGQ---------GI
+T--------------MI---------SLISPAPGL-----SPAHGSLLEL-HQMISEVTG
+KNAFLYYGFYGCYCG--------------LG--------GKGQPKDATD----RCCQLHD
+T-CYENLLK-YHCDAKT-RLYCYNWH----------------YG-RLSC--GQGSR----
+-------CA-FLSCEC----DRSLALCLRRNARSYKK---LYQFYP--NK---L------
+--CR--------------------------------------------------------
+----------------------------------
+>ENSFALP00000011033 ENSFALG00000010570	140	PLA2G2A	phospholipase A2 group	Ficedula_albicollis	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MN---------SLLGLSVLL-----VWAHGNLLQL-HQMISKVTG
+KNALLHYGFYGCYCG--------------LG--------GKGQPKDATD----RCCQLHD
+I-CYQSLHM-HHCDAKT-RIYQYTRH----------------HG-RLSC--RPGSR----
+-------CS-YLSCEC----DRSLALCLRRNLSSYSK---HHRFYP--NN---L------
+--CCRWELRC--------------------------------------------------
+----------------------------------
+>ENSGFOP00000014437 ENSGFOG00000009872	136	PLA2G2A	phospholipase A2 group	Geospiza_fortis	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------TL----SL---------VSLCCLCL------FPAHGSLLQL-HQMISEATG
+KNAFLYYGFYGCYCG--------------LG--------GRGQPKNATD----RCCQLHD
+A-CYNNLLR-YHCDGVP-SPPRLGLT----------------LGSPRAA--GQGSR----
+-------CS-FLSCEC----DRSLALCLRRSARSYRQ---RYRLYP--NW---L------
+--CR--------------------------------------------------------
+----------------------------------
+>ENSJHYP00000020317 ENSJHYG00000015426	128	PLA2G2A	phospholipase A2 group	Junco_hyemalis	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MR----NLLLAVLLACG--------------------LLRAGGSVLEL-ERMIRAATG
+RSALLSYSWYGCFCG--------------IG--------GSGSPVDATD----RCCQAHD
+C-CYRRLRE-GSCSPLI-TPYSFTAS----------------DG-NITCS-EYGAG----
+-------SG-QQHRPQTHPNPIPIPSPITVHPHP--------------------------
+------------------------------------------------------------
+----------------------------------
+>ENSLSDP00000021323 ENSLSDG00000015069	140	PLA2G2A	phospholipase A2 group	Lonchura_striata_domestica	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MRN---LLL----AV---------LLACGKCL------SPAQGSLLEL-HRMISEVTG
+KNALLYYGFYGCYCG--------------LG--------GKGQPKDATD----RCCQLHD
+T-CYKNLLK-YH--------CDPGLT----------------LGSPRPA--GQGSR----
+-------CA-FLSCEC----DRSLALCLRRNARSYKK---LYQFYP--NH---C------
+--NSQPGLPHS-------------------------------------------------
+----------------------------------
+>ENSMVIP00005009386 ENSMVIG00005006914	143	PLA2G2A	phospholipase A2 group	Manacus_vitellinus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------AS-LC---------CLLGVSVLS-----PTTHGSLLQL-HNMITEATG
+KNALLHYAFYGCYCG--------------LG--------GKGQPKDASD----RCCQLHD
+T-CYLSLLS-HDCDAKK-QSYHYKGH----------------HG--------KGSW----
+-------CA-QLSCEC----DRSLALCLKRNVRSYRK---RYQFYP--NY---L------
+--CREEKCRKRVIVPR--------------------------------------------
+----------------------------------
+>ENSPMJP00000002943 ENSPMJG00000002599	138	PLA2G2A	basic phospholipase A2	Parus_major	10A	10	A
+------------------------------------------------------------
+------------------------------------------------L---------GG
+Q--------------LM---------TEWFLMKGL-----SPAQGSLLQL-HQMISKATG
+KNAFLHYGFYGCYCG--------------LG--------GKGQPKDATD----RCCQLHD
+T-CYQNLLE-HRCNAKT-QCYRYSWH----------------HG-RLSC--RPGSR----
+-------CS-YLSCEC----DRSLALCLRRNVSSYRK---SYQFYP--QI---L------
+--CC--------------------------------------------------------
+----------------------------------
+>ENSSCAP00000001703 ENSSCAG00000001435	131	PLA2G2A	phospholipase A2 group	Serinus_canaria	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--LRT---F-------I---------LLLCFLMVS-----AGIIIHLLQL-HQMISEATG
+KNALLYYGFYGCYCG--------------LG--------GRGQPKDATD----RCCQLHD
+T-CYENLLR-YH--------CDPGLT----------------LGSPHSA--GQGSR----
+-------CT-FLSCEC----DRSLALCLRRNVRSYKK---RFQFYP--NK---L------
+--CR--------------------------------------------------------
+----------------------------------
+>ENSTGUP00000031050 ENSTGUG00000024394	132	PLA2G2A	phospholipase A2 group	Taeniopygia_guttata	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------EL----SP---------HPLRAVCL------SPAQGSLLEL-HQMISEATG
+KNALLYYGFYGCYCG--------------LG--------GKGQPKDATD----RCCQLHD
+T-CYKNLLK-GCH-----PPPKPGLS----------------LGSPRPA--GQGSR----
+-------CA-FLSCEC----DRSLALCLRRNAGSYKK---LYQFYP--NM---L------
+--CR--------------------------------------------------------
+----------------------------------
+>ENSZALP00000003989 ENSZALG00000003833	240	None	phospholipase A2, membrane	Zonotrichia_albicollis	10A	10	A
+----------MPSLNQ--SCPFPPDVAPWCWEGQRRSISGWCRVCLLPPQAGSDAAFPPL
+PTQHPPVRGVRGWGLGGFLAFLKRGRMAPSPLQGSPVS----EFWLRQM---------GA
+SYIKQ---AELAAG-HC---------KPAGLSQGL-----SPAHGSLLQL-HQMISEATG
+KNAFLYYGFYGCYCG--------------LG--------GRGQPKDATD----RCCQLHD
+A-CYHSLLR-HGCDAKA-RSYYYSWH----------------HG-RLSC--GQGSR----
+-------CD-FLSCEC----DRSLALCLRRNARSYQR---RYRFYP--NW---L------
+--CR--------------------------------------------------------
+----------------------------------
+>ENSSHBP00005008247 ENSSHBG00005007191	138	PLA2G2A	basic phospholipase A2	Strigops_habroptila	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MNS---LLAFA-----------------VLIAWA-LSP--AHGSLWDL-QKMITKVTG
+KNALLHYSFYGCYCG--------------FG--------GRGQPKDATD----RCCQLHD
+A-CYNSLLR-HHCNASV-QSYRYDWS----------------SS-SPSC--RKGSW----
+-------CS-QLSCEC----DRSLALCLKRSIGSYRR---RLQFYP--KH---W------
+--C-----R---------------------------------------------------
+----------------------------------
+>ENSSPUP00000001750 ENSSPUG00000001349	142	PLA2G2A	phospholipase A2 group	Sphenodon_punctatus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKI---LL-ALAVLLT-------------------FSILLAHGGLLEF-RKMIKQVTE
+KHAFPSYTTYGCWCG--------------LG--------GKGMPKDATD----WCCQNHD
+C-CYSQLN--DKCSPKT-GRYKFTYK----------------DE-VLAC---EGNG----
+-------CE-KQICEC----DKIAVLCMKRNLDTYNK---SYRFYP--NW---K------
+--CSRSGPKC--------------------------------------------------
+----------------------------------
+>ENSLLTP00000006348 ENSLLTG00000004850	160	PLA2G2A	phospholipase A2 group	Laticauda_laticaudata	10A	10	A
+------------------------------------------------------------
+-------------------C---------H--HF-------------------SKLQPLQ
+LKMSL---SVLLLFLLTSGKG----------------QSPPWDGGGFSLR-NSWTAASQG
+GLRFPYYSSYGCYCG--------------LG--------GRGRPKDATD----RCCQRHD
+C-CYGQLQK-WGCCPQI-TCYSELWP----------------GE-DPVC--GANW-----
+-------CQ-EEACSC----DRALALCLKQNAGWYQK---KYTFYP--NF---L------
+--CRGPSPSC--------------------------------------------------
+----------------------------------
+>ENSNSUP00000025972 ENSNSUG00000018672	117	None	basic phospholipase A2	Notechis_scutatus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------MVTQVTG
+KKAVPYYSSYGCYCG--------------LR--------GRGRPKDATD----RCCQRHD
+C-CYGQLQK-WGCRPHI-TSYSYSYG----------------QG-KIQC--GSGA-----
+------NRC-QEACRC----DRALALCLKQNARWYQK---KYTFYP--NF---L------
+--CRGPSLSC--------------------------------------------------
+----------------------------------
+>ENSPMRP00000031597 ENSPMRG00000020458	239	None	None	Podarcis_muralis	10A	10	A
+------------------------------------------------------------
+-----------------MVC---------P--KP-----------------------TWR
+LKLG-----------RSTGKAGV---------L--P-LSAIGVCGSLIQL-AEMIKEMTG
+KNAIPDYMAYGCYCG--------------WG--------GRGMPKDQTD----WCCRNHD
+C-CYKRVDE-QGCDSKL-ATYSYTYK----------------SG-NVIC--GELTF----
+-------CE-RLTCEC----DQKFVQCLKKNLKTYQK---KYTYFP--NF---L------
+--CFGHPPLCPAEPRMRWSKEAVGGGSLHGIQNSVPVLHFPKEDLDRNAAAISESSLLST
+LQRFSPAKKPIYEFRSPHSCMKRKCFSSTRPWAD
+>ENSPVIP00000023911 ENSPVIG00000018041	155	None	None	Pogona_vitticeps	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MTL---LALVMFLLTWG--------------------LTGTGGSLLEL-AQMIKDVTG
+KNAVPHYSSYGCYCG--------------LG--------GKGTPLDETD----RCCYDHD
+R-CYDRVDA-EGCDSKA-TFYHYSVH----------------SG-KVKC--GGGEWWRKR
+IFGHQPPCE-GEICEC----DKRLVLCLKKHVKSYRA---AYRFYP--NF---L------
+--CFGPMRRH--------------------------------------------------
+----------------------------------
+>ENSPTXP00000022618 ENSPTXG00000015662	131	None	None	Pseudonaja_textilis	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------FKG----------------QLTTTHA-DLVQL-YRMVTQVTG
+KKAVPYYSSYGCYCG--------------LR--------GRGRPKDATD----RCCQRHD
+C-CYGQLQK-WGCRPHI-TSYSYRYG----------------QG-KIQC--GE-------
+-------RC-QEACSC----DRALALCLKQNARWYQK---KYTFYP--NF---L------
+--CRGPSLSC--------------------------------------------------
+----------------------------------
+>ENSVKKP00000013606 ENSVKKG00000009386	142	None	None	Varanus_komodoensis	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKL---LR-GLIVLLA-------------------CGVLGAQGSLLEF-RKMIKKLTG
+KSAFPHYTMYGCYCG--------------LG--------GHGQPRDATD----SCCFAHD
+C-CYEKL---RKCRTKT-DRYRFSIT----------------DG-VVTC--GGGTW----
+-------CE-QQICAC----DKAAAACLRGSLSSYNA---KYRFYS--DK---L------
+--CAEPSRKC--------------------------------------------------
+----------------------------------
+>ENSACUP00000022476 ENSACUG00000015008	158	PLA2G2A	phospholipase A2 group	Athene_cunicularia	10A	10	A
+------------------------------------------------------------
+---------------------------------MFKTS----PAWYQ---FGGRRARDAA
+EELGV---SVSPT-----------------DIPPPG-LSP--AHGSLWNL-HKMITKTTG
+KNALLHYSSYGCYCG--------------WG--------GKGQPKDATD----RCCQRHD
+T-CYNNLLS-YHCNAKI-QGYHYGWR----------------RG-SPSC--S-NSW----
+-------CA-QLSCEC----DRSLALCLKQNIWTYSK---RYLFYP--KH---R------
+--C---------------------------------------------------------
+----------------------------------
+>ENSSCUP00000022541 ENSSCUG00000016551	145	PLA2G2A	phospholipase A2, membrane	Struthio_camelus_australis	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKD---LLLFAVLLACE--------------------LPPAHGSVLEL-KRMVKSTTG
+RSALLSYSWYGCFCG--------------IG--------GRGTPVDATD----RCCHAHD
+C-CYRTLRE-SKCRPLI-TPYEFDIA----------------EG-DIICG-DEQSW----
+-------CK-KETCLC----DKKVASCLASALHSYDK---SYRFYF--KL---K------
+--CRGSKLQC--------------------------------------------------
+----------------------------------
+>ENSCABP00000026252 ENSCABG00000019297	141	None	None	Chelonoidis_abingdonii	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MRL---LL-ALAVLFS-------------------C-EFMVHGSLFEF-RKMIKQATG
+KSALPNYTFYGCHCG--------------VG--------GKGMPKDATD----WCCLHHD
+C-CYSELMA-QRCHVKT-DKYRYTYS----------------RG-VITC--G--DW----
+-------CK-RNICEC----DKAAALCMKRNLRSYNK---KYRFYS--NI---K------
+--CTGRKPRC--------------------------------------------------
+----------------------------------
+>ENSCPBP00000033784 ENSCPBG00000023596	144	PLA2G2A	phospholipase A2 group	Chrysemys_picta_bellii	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MRL---LL-ALAVLFS-------------------CSEFMVHGSLLEF-RKMIKQATG
+KSALPNYTSYGCHCG--------------VG--------GKGMPKDATD----WCCLHHD
+C-CYSQLMA-QKCHVKT-ERYHYTYR----------------TG-VITC--GPDSW----
+-------CK-RSICEC----DKTAALCMKRNLQSYNK---KYRFYS--NI---K------
+--CIGRKPKC--------------------------------------------------
+----------------------------------
+>ENSGAGP00000029756 ENSGAGG00000021482	144	PLA2G2A	phospholipase A2 group	Gopherus_agassizii	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MRL---LL-ALALLLS-------------------CSEFMVHGSLFEF-RKMIKQATG
+KSALPNYTFYGCHCG--------------VG--------GKGMPKDATD----WCCLHHD
+C-CYSQLTA-QRCHVIT-DKYHYTYR----------------RG-VITC--GPGSW----
+-------CK-RNICEC----DKAAALCMKRNLRSYNK---KYRFYS--NI---K------
+--CTGRKPRC--------------------------------------------------
+----------------------------------
+>ENSPSIP00000006115 ENSPSIG00000005632	140	None	None	Pelodiscus_sinensis	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------I-HRLKITS-------------------LGEFVVHGSLLEF-RKMIKQATG
+KSAFPNYTFYGCHCG--------------VG--------GKGEPKDATD----WCCLRHD
+C-CYSRLIA-SKCHVIT-DTYHYTYR----------------RG-AITC--GPGSW----
+-------CK-RSICKC----DKAAALCMKRNLRSYNK---AYRFYS--NL---K------
+--CRGRKPKC--------------------------------------------------
+----------------------------------
+>ENSPCEP00000016038 ENSPCEG00000012622	142	PLA2G2A	phospholipase A2 group	Pelusios_castaneus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--HKT---SA-IAFCRYF-------------------AGEFVVHGSLWEF-RKMIKQVTG
+KRALPNYTSYGCHCG--------------AG--------GKGKPKDATD----WCCLYHD
+C-CYSRLQA-RKCHVIT-DHYQYTYK----------------KG-VITC--G--DW----
+-------CK-RSTCEC----DKAAALCMKHNLRSYNK---NYRFYP--NI---K------
+--CKGRKPEC--------------------------------------------------
+----------------------------------
+>ENSTMTP00000030836 ENSTMTG00000022227	139	PLA2G2A	phospholipase A2 homolog sphenotoxin basic subunit	Terrapene_carolina_triunguis	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------E-SKGLVLA-------------------ISEFVVHGSLLEF-RKMIKQATG
+KSALPNYTTYGCHCG--------------VG--------GKGTPKDATD----WCCLHHD
+C-CYSQLMA-QKCHVIT-DRYHYTYR----------------RG-VITC---PDSW----
+-------CK-RSICEC----DKATALCMKRNLQSYNK---KYRFYS--NI---K------
+--CTGRKPRC--------------------------------------------------
+----------------------------------
+>ENSNPEP00000013890 ENSNPEG00000010384	176	PLA2G2A	phospholipase A2 group	Nothoprocta_perdicaria	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MKN---LLVFAVLLVCGKC-----------LPWG---VLAAHGSLWEL-QRMVTQATG
+HSALLHYGSYGCHCG--------------WG--------GRGQPKDATD----GCCQRHD
+S-CYESLLR-HGCQAKR-QRYRYGCT----------------SI----------------
+------------KAEC----IVRFFTCQALYSSTRAA---LYYFYF--HQ----------
+TYCRTKALFCTIVQACSSPAPPVLKAKFCSFYVLKA------SDKQS------TSLLLAA
+----------------------------------
+>ENSBBBP00000008091 ENSBBBG00000016094	139	PLA2G2D	phospholipase A2 group	Bison_bison_bison	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MGL---SLL-CALLV-------------------FAGVAPAEADMLDL-NEMVRQVTG
+KIPIFFYSSYGCYCG--------------IG--------GQGQPRDATD----WCCHEHD
+C-CYRHLK-SDNCDISF-DHYDYTFF----------------QG-NVQCS-TKGSW----
+-------CE-QQLCAC----DKTLAFCLQRNLNTYKN---HLRHL----S---R------
+--CEGE------------------------------------------------------
+----------------------------------
+>ENSBTAP00000027317 ENSBTAG00000046977	147	PLA2G2D4	Bos taurus calcium-dependent phospholipase A2 PLA2G2D5 (PLA2G2D5), mRNA	Bos_taurus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MGL---SLL-CALLV-------------------FAGVAPAEADILDL-NEMVRQVTG
+KIPIFFYSHYGCYCR--------------KG--------GQGQPRDATD----RCCREHD
+C-CYRHLK-SDNCDISF-DHYDYTFF----------------QG-KVQCS-TKGSW----
+-------CE-QQLCAC----DKTLAFCLQRNLNTYKN---HLRRL----S---R------
+--CEGETL-ACPPSS---------------------------------------------
+----------------------------------
+>ENSCDRP00005011856 ENSCDRG00005008427	145	PLA2G2D	phospholipase A2 group	Camelus_dromedarius	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEI---PLL-CMLAV-------------------FAGVIPAQSSILNL-NKMVKQVTG
+KIAVFSYWPYGCHCG--------------LG--------GRGQPKDATD----WCCHAHD
+C-CYHHLK-YHKCHTHW-DHYSYTFS----------------QG-NVQCS-DKGGW----
+-------CE-QQLCAC----DKEVASCLRRNLDTYKK---HLRYYW--RP---R------
+--CKGQTPKC--------------------------------------------------
+----------------------------------
+>ENSCHIP00000021270 ENSCHIG00000019640	148	None	group IID secretory phospholipase	Capra_hircus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MGL---SLL-CVLLV-------------------FAGVAPAEGDMLDL-NKMVRQVTG
+KTPIFFYSSYGCYCG--------------IG--------GQGQPRDATD----WCCHEHD
+C-CYRHLK-SDKCDIVF-NHYHYTFF----------------RG-NVQCS-TKGSW----
+-------CQ-QQLCAC----DKTLAFCLQRNLNTYKS---HLRYL----S---R------
+--CKGETPKSCPPAS---------------------------------------------
+----------------------------------
+>ENSCWAP00000009421 ENSCWAG00000007288	145	PLA2G2D	phospholipase A2 group	Catagonus_wagneri	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---PLL-CLLVA-------------------FAGVIPAQGGILNL-NKMIKQVTG
+KVPFFSYWPYGCHCG--------------LG--------GRGQPKDATD----WCCHAHD
+C-CYQHLK-AHGCRTHW-NHYRYSFS----------------QG-NVQCS-DKGSW----
+-------CE-QQLCAC----DKELAFCMKRNLDSYKK---RLRYYW--RP---H------
+--CEGQIPMC--------------------------------------------------
+----------------------------------
+>ENSDLEP00000007929 ENSDLEG00000005855	161	PLA2G2D	phospholipase A2 group	Delphinapterus_leucas	10B	10	B
+------------------------------------------------------------
+-----------------------------MEGDFQRLP----PP-------------LCA
+GIMRL---ASL-CVLAV-------------------FAGVIPAQGGILDL-NKMIRRVTG
+KRPIFSYFLYGCHCG--------------FG--------GKGQPKDATD----WCCHIHD
+C-CYHHLK-HHKCNIHL-DRYSYKFS----------------QG-TIQCS-DKGSW----
+-------CE-QQLCTC----DEELALCLQRNLDTYKN---HLRYYW--RP---S------
+--CKGQTPTC--------------------------------------------------
+----------------------------------
+>ENSMMSP00000006730 ENSMMSG00000005192	146	PLA2G2D	phospholipase A2 group	Moschus_moschiferus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MDL---TLL-CTLWV-------------------FAGVVPAEGDMLDL-NKMVRQVTG
+KNPIFFYFSYGCYCG--------------IG--------GQGQPRDATD----RCCHDHD
+C-CYGNLT-RHSCDHRY-DHYEYTFF----------------RG-RVQCS-TKGSW----
+-------CE-QQLCAC----DKELAFCLQRNLDTYKN---HLRFL----P---R------
+--CEGETRQCHTL-----------------------------------------------
+----------------------------------
+>ENSOARP00000010155 ENSOARG00000009461	147	PLA2G2D	group IID secretory phospholipase	Ovis_aries	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MGL---PLL-CVLLV-------------------FAGVAPAEGDMLDL-NKMVKQVTG
+KTPIFFYSSYGCYCG--------------FG--------GQGQPRDATD----WCCHEHD
+C-CYRHLK-SDKCDIIF-NHYHYTFF----------------RG-NVQCS-TKGSW----
+-------CE-QQLCAC----DKTLAFCLQRNLNTYKS---HLRHL----S---G------
+--CEGEIPT-CPPAS---------------------------------------------
+----------------------------------
+>ENSPCTP00005021885 ENSPCTG00005015596	145	PLA2G2D	phospholipase A2 group	Physeter_catodon	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MQL---ALL-CMLVV-------------------FAGVIPAQGGILDL-NKMIRRVTG
+KRPIFSYLYYGCHCG--------------FG--------GKGQPKDATD----WCCHTHD
+C-CYHHLK-HHKCNSHL-DHYSYKFS----------------QG-NIQCS-DKGSW----
+-------CE-LQLCTC----DKEVVLCLQRNLDTYKN---HLRYYW--RP---R------
+--CKGQTPTC--------------------------------------------------
+----------------------------------
+>ENSSSCP00000038538 ENSSSCG00000031106	161	PLA2G2D	phospholipase A2 group	Sus_scrofa	10B	10	B
+------------------------------------------------------------
+-----------------------------MEGDFQQLP----PL-------------LCA
+GTMEL---PLL-CFLVA-------------------FAGVIPAQGGILNL-NKMIKQVTG
+KVPFFSYWPYGCHCG--------------IG--------GRGEPKDATD----WCCHAHD
+C-CYSHLK-GHGCRTHL-DHYRYTFS----------------QG-TVQCS-DKGSW----
+-------CE-RELCAC----DKGVAFCMKRNLDSYKK---HLRYYW--RP---H------
+--CKGQTPVC--------------------------------------------------
+----------------------------------
+>ENSTTRP00000016185 ENSTTRG00000017072	142	PLA2G2D	phospholipase A2 group	Tursiops_truncatus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MRL---ASL-CMLVV-------------------FAGVIPAG-GILDL-I--MIRRVG
+ERPIFSXXXXXXXXX--------------XX--------XXXXXXXXXX----XCCHIHD
+C-CYAHLK-HHKCNIHL-DRYSYTSS----------------QG-NIQCS-DKGSW----
+-------CE-QQLCTC----DMELALCLQRNLDTYKN---HLRYYW--RP---R------
+--CKGQTPTC--------------------------------------------------
+----------------------------------
+>ENSVPAP00000000368 ENSVPAG00000000395	79	None	None	Vicugna_pacos	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------CCHAHD
+C-CYHHLK-YHKCHTHW-DHYSYTFS----------------QG-DVQCS-DKGGW----
+-------CE-QQLCAC----DKEWAFCLRRNLDT--K---HLRYYW--PA---R------
+---QGQTPC---------------------------------------------------
+----------------------------------
+>ENSAMEP00000003380 ENSAMEG00000003205	161	PLA2G2D	group IID secretory phospholipase	Ailuropoda_melanoleuca	10B	10	B
+------------------------------------------------------------
+-----------------------------MDGDFQQLR----PL-------------LCA
+GTMEL---PLL-CALLV-------------------FAGVVPTQGGILNL-NKMIKQVTG
+KTPIFSYWPYGCHCG--------------LG--------GKGQPKDATD----WCCQKHD
+C-CYAHLR-QHRCRVHT-DHYDYNFS----------------HG-DIQCS-NKMNW----
+-------CE-QQLCTC----DKAVALCLKQNLDTYQR---HLFYYW--RP---R------
+--CKGQTPMC--------------------------------------------------
+----------------------------------
+>ENSCAFP00000022233 ENSCAFG00000015085	146	PLA2G2D	phospholipase A2 group	Canis_lupus_familiaris	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---PLL-CTLLV-------------------FAGVIPTQGGIMNL-NKMIKQVTR
+KTPIFSYWFYGCHCG--------------PG--------GRGQPKDATD----WCCQTHD
+C-CYEHLK-LHRCRIHT-NHYDYTFS----------------HG-DIQCS-DKGTW----
+-------CE-QQLCAC----DKEMVLCLQRNLDSYQR---HLRYYW--RP---H------
+--CRGQTPMCE-------------------------------------------------
+----------------------------------
+>ENSFCAP00000062303 ENSFCAG00000041746	145	PLA2G2D	phospholipase A2 group	Felis_catus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MKL---ALL-CTLLV-------------------FAGVIPTQGGILNL-NKMIKQVTK
+KTPIFSYWPYGCHCG--------------PG--------GKGQPKDASD----WCCQNHD
+C-CYAHLR-QHRCRIHT-DNYDYTFS----------------QG-DIQCS-DKGSW----
+-------CE-QQLCAC----DKEVAFCLKRNLETYKR---HLRHYW--RP---H------
+--CRGQTPMC--------------------------------------------------
+----------------------------------
+>ENSLCNP00005018277 ENSLCNG00005012003	145	PLA2G2D	phospholipase A2 group	Lynx_canadensis	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MKL---ALL-CTLLV-------------------FAGVIPTQGGILNL-NKMIKQVTR
+KTPIFSYWPYGCHCG--------------PG--------GKGQPKDASD----WCCQNHD
+C-CYAHLR-QHRCRIHT-DNYDYTFS----------------QG-DIQCS-DKGSW----
+-------CE-QQLCAC----DKEVAFCLKRNLETYKR---HLRHYW--RP---H------
+--CRGQTPTC--------------------------------------------------
+----------------------------------
+>ENSMPUP00000016008 ENSMPUG00000016115	161	PLA2G2D	phospholipase A2 group	Mustela_putorius_furo	10B	10	B
+------------------------------------------------------------
+-----------------------------MERYFQQLR----PL-------------LCA
+GTMEL---PLL-CTLLV-------------------FAGVIPTQGGILNL-NKMIKQMTR
+KIPLVSYWSYGCHCG--------------PG--------GKGQPKDATD----RCCQNHD
+C-CYGYLR-QHQCRVHT-DHYNYTFS----------------DG-DIQCP-DKGSW----
+-------CE-QQLCAC----DKTIALCLKQNLDTYQK---HLRYYW--RP---R------
+--CQGQTPTC--------------------------------------------------
+----------------------------------
+>ENSNVIP00000019385 ENSNVIG00000015201	145	PA2GD	phospholipase A2 group	Neovison_vison	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEF---PLL-CTLMV-------------------FAGVIPTQGGILNL-NKMIKQMTR
+KTPLISYWSYGCHCG--------------PG--------GKGQPKDATD----RCCQNHD
+C-CYGYLR-QHQCRVHT-DHYNYTFS----------------HG-DIQCP-DKGSW----
+-------CE-QQLCAC----DKTIALCLKQNLDTYQK---RLRYYW--RP---R------
+--CKGQTPTC--------------------------------------------------
+----------------------------------
+>ENSPLOP00000017413 ENSPLOG00000012716	145	PLA2G2D	phospholipase A2 group	Panthera_leo	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MNL---ALL-CTLLV-------------------FAGVIPTQGGILNL-NKMIKQVTR
+KTPIFSYWPYGCHCG--------------PG--------GKGQPKDASD----WCCQNHD
+C-CYAHLR-QHRCRIHT-DNYDYTFS----------------QG-DIQCS-DKGSW----
+-------CE-QQLCAC----DKEVAFCLKRNLETYKR---RLRHYW--RP---H------
+--CRGQTPTC--------------------------------------------------
+----------------------------------
+>ENSSSUP00005020575 ENSSSUG00005013342	145	PLA2G2D	phospholipase A2 group	Suricata_suricatta	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---PLL-CTLLA-------------------FAGVIPTQAGLLNL-NKMIQQVTR
+KIPVFSYWPYGCYCG--------------LG--------GRGQPKDASD----WCCQNHD
+C-CYAHLR-HHKCHIHT-DNYDYTFS----------------QG-NIQCS-DKGSW----
+-------CE-QQLCAC----DKEVAFCLKRNLETYKK---HLRYYW--RP---H------
+--CTGLTPTC--------------------------------------------------
+----------------------------------
+>ENSUMAP00000025886 ENSUMAG00000018870	161	PLA2G2D	phospholipase A2 group	Ursus_maritimus	10B	10	B
+------------------------------------------------------------
+-----------------------------MEGDFQQLR----PL-------------LCA
+GTMEL---PLL-CTLLV-------------------FAGVMPTQGGILNL-NKMIKQVTG
+KTPIFSYWPYGCHCG--------------PG--------GKGQPKDATD----WCCRKHD
+C-CYAHLR-QDRCRVHT-DHYDYTFS----------------HG-DIQCS-NKMNW----
+-------CE-QQLCAC----DKAVALCLKQNLDTYQR---HLFYYW--WP---R------
+--CKGQTPMC--------------------------------------------------
+----------------------------------
+>ENSVVUP00000041411 ENSVVUG00000029470	145	PLA2G2D	phospholipase A2 group	Vulpes_vulpes	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---PLL-CTLLV-------------------FAGVIPTQGGIMNL-NKMIKQVTR
+KTPIFSYWLYGCHCG--------------PG--------GRGQPKDATD----WCCQTHD
+C-CYEHLR-LHRCRTHT-NHYDYTFS----------------HG-DIQCS-DKGNW----
+-------CE-QQLCAC----DKEMALCLQRNLDSYQR---HLRYYW--RP---H------
+--CRGQTPMC--------------------------------------------------
+----------------------------------
+>ENSMLUP00000013592 ENSMLUG00000014929	163	PLA2G2D	phospholipase A2 group	Myotis_lucifugus	10B	10	B
+------------------------------------------------------------
+-----------------------------CMKDFQQWL----PL-------------LWA
+GIMEL---PLL-CALVV-------------------FAGVTPTQGGLLNL-NKMVKQVTG
+KTPLTSYWYYGCHCG--------------RG--------GKGQPLDATD----WCCHAHD
+C-CYRHLK-LHHCHYFR-DHYNYTFS----------------QG-DIQCS-DKGSW----
+-------CE-QQLCDC----DKEVAFCLKRQLGTYQKKLRLVR-FS--RS---R------
+--CKGQTPTC--------------------------------------------------
+----------------------------------
+>ENSPVAP00000011261 ENSPVAG00000011949	145	PLA2G2D	phospholipase A2 group	Pteropus_vampyrus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---LQL-CMLVV-------------------FAGVCPTQGGILNL-NNMVRQMTE
+KTPIISYWFYGCHCG--------------LG--------GKGPPLDATD----RCCHAHD
+C-CYAHLR-HHRCRFHT-DHYNYNFS----------------HG-DIQCX-XXXXX----
+--------X-EQLCAC----DKEV-FCLQRHLGSQKK-LRFTRQFC--PS---R------
+--CKGKTPMC--------------------------------------------------
+----------------------------------
+>ENSRFEP00010027532 ENSRFEG00010018299	148	PLA2G2D	phospholipase A2 group	Rhinolophus_ferrumequinum	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---LLL-CALVV-------------------FAGVTPTQGGIMNL-NKMVKQVTG
+KTTITSYWPYGCHCG--------------LG--------GKGPPVDATD----WCCHAHD
+C-CYSHLK-LHHCRFHR-DHYTYKFT----------------QG-DILCS-DKGSW----
+-------CE-QQLCAC----DKEVAFCLQRNLGTYNKTLRYIRLFR--RS---R------
+--CSGQTPMC--------------------------------------------------
+----------------------------------
+>ENSDNOP00000028811 ENSDNOG00000041495	161	PLA2G2D	phospholipase A2 group	Dasypus_novemcinctus	10B	10	B
+------------------------------------------------------------
+-----------------------------QEGGFQQLL----PL-------------VSA
+RIMEL---PLL-CVLVV-------------------MAGVTPTQGGILNL-NKMVRQVTG
+KVAAFSYWPYGCYCG--------------LG--------GRGQPKDATD----WCCRAHD
+C-CYHRLK-KERCRVFT-DYYKYTFA----------------QD-EVQCS-ARGSW----
+-------CE-QQLCAC----DKEVAFCLRRNLDTYQK---HLRYYW--RP---R------
+--CGHQTPEC--------------------------------------------------
+----------------------------------
+>ENSSHAP00000014937 ENSSHAG00000012745	145	PLA2G2D	phospholipase A2 group	Sarcophilus_harrisii	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MQL---VLLWVVLITL-------------------GAIAPSHGSLKEL-NKMIKQATG
+KNPIFSYLNYGCHCG--------------LG--------GKGQPKDPTD----WCCKIHD
+C-CYKHLQQ-QRCHVLV-GRYNYNYN----------------DG-NIVC--WGESH----
+-------CE-KKICQC----DKELALCLQRNLESYQK---SYSFFL--KF---L------
+--CEDQNPKC--------------------------------------------------
+----------------------------------
+>ENSMODP00000038665 ENSMODG00000029093	145	PLA2G2D	phospholipase A2 group	Monodelphis_domestica	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MQL---ILLCIILITS-------------------GGMAPSQGSLLQL-KKMIRQATG
+KNPIFSYLNYGCHCG--------------PG--------GRGQPIDATD----WCCKAHD
+C-CYEHLAE-QKCYAHL-DVYKYKYV----------------SG-DIEC--YGKSH----
+-------CE-KEICQC----DKELALCLRRNLETYKK---QFCLSW--LF---F------
+--CQGENPEC--------------------------------------------------
+----------------------------------
+>ENSMEUP00000002605 ENSMEUG00000002852	117	None	None	Notamacropus_eugenii	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------TVPSQGSLLQL-SKMIKQATG
+KNAVFSYLNYGCHCG--------------VR--------GKGQPKDATD----WCCKIHD
+C-CYKQLK-QQKFHVLV-DKYNYSYI----------------DG-DIQCS-DGGSQ----
+-------YE-KEICRC----DKELALCLKRNLDSYQK---SYR-----------------
+------------------------------------------------------------
+----------------------------------
+>ENSPCIP00000042313 ENSPCIG00000029123	145	None	None	Phascolarctos_cinereus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MKL---VLLWVVLIIS-------------------GRMVPSQGSLIQL-IKMIKQATG
+KNPVFSYLNYGCYCG--------------PG--------GKGQPKDATD----WCCKIHD
+C-CYKRLMQ-QRCHVLV-DRYNYSSI----------------SG-DIKC--CGRTQ----
+-------CQ-KEICQC----DKELALCLQRNLVSYQK---AYRFSW--KS---L------
+--CQEKNPKC--------------------------------------------------
+----------------------------------
+>ENSVURP00010031120 ENSVURG00010023803	145	PLA2G2D	phospholipase A2 group	Vombatus_ursinus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MKL---LLLWVVLIFS-------------------GSMVPGQGSLIQL-TQMIKQATG
+KNPVYSYLNYGCHCR--------------PG--------GKGQPKDATD----WCCKIHD
+C-CYKHLMQ-QRCHVLV-DRYNYNFI----------------DG-DIEC--YGRTQ----
+-------CE-KETCQC----DKELALCLRRNLESYQR---NYRFLW--KT---L------
+--CQEQNPEC--------------------------------------------------
+----------------------------------
+>ENSEEUP00000009727 ENSEEUG00000010692	97	None	None	Erinaceus_europaeus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---PLL-CVLVV-------------------LAGVIPTQGGILNL-NKMVRELTG
+KIPLFSYWTYGCHCG--------------LG--------GRGQPLDATD----WCCKVHD
+C-CYAHLR-QHLCRHHT-DHYKYNLS----------------QG-AIQC-----------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------
+>ENSSARP00000007316 ENSSARG00000008105	145	PLA2G2D	phospholipase A2 group	Sorex_araneus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---ALL-CVLVX-------------------XXXVSPTQGSILNL-NKMVQKMTG
+KIPILSYWPYGCHCG--------------PG--------GKGQPKDASD----WCCNAHD
+C-CYDHLR-QHKCKSFT-DNYKYKFS----------------NG-TIVCS-NQGSW----
+-------CE-QQLCAC----DKEVALCLKRNLDTYQK---HLRFTQ--RR---R------
+--CGKQTPLC--------------------------------------------------
+----------------------------------
+>ENSPCAP00000013708 ENSPCAG00000014698	143	PLA2G2D	phospholipase A2 group	Procavia_capensis	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MKL---ALL-CALLL-------------------IAGMTTTQGGILNL-NKMIKQVTR
+KIPIISYWFYGCYCG--------------FG--------GKGQPKDATD----XXXXXXX
+X-XXXXXX-XXXXXXXX-XXXXXXXX----------------XX-XXXXX-DMGSW----
+-------CE-RELCAC----DKELVLCLKKNLDSYTK---SLRYYW--RP---H------
+--CKGQTL----------------------------------------------------
+----------------------------------
+>ENSOPRP00000006707 ENSOPRG00000007326	146	PLA2G2D	phospholipase A2 group	Ochotona_princeps	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---RLL-CGLLL-------------------LAGVIPSQGGILNL-NKMVKQMTR
+KIPFFSYWPYGCYCG--------------PG--------GRGQPKDATD----WCCQVHD
+C-CYSNLKTTHGCRTLR-DHYKYNFS----------------QG-TIQCS-DKGST----
+-------CE-QQLCAC----DKELALCLKRNLDTYQK---HLRYYW--RP---R------
+--CHGKTPEC--------------------------------------------------
+----------------------------------
+>ENSOCUP00000009967 ENSOCUG00000011594	146	PLA2G2D	phospholipase A2 group	Oryctolagus_cuniculus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---PLL-CGLLV-------------------MAGVIPGQGGILNL-NKMVKQVTN
+KTPILSYWSYGCHCG--------------IG--------GRGQPKDATD----WCCRVHD
+C-CYARLKKTHGCHPLV-DSYRYTFA----------------EG-HVQCS-DKGSW----
+-------CE-QQLCAC----DKEVALCFKRNLDTYQK---HLRYYW--RP---R------
+--CSGQAPEC--------------------------------------------------
+----------------------------------
+>ENSOANP00000034921 ENSOANG00000040867	167	None	None	Ornithorhynchus_anatinus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+---DR---PP-LLLLCGR-------------------LGVIRALGSLYEF-QKMIKQATG
+KGAFPHYFAYGCHCG--------------WG--------GRGQPVDATD----WCCHKHD
+C-CYWRLRVHHQCSAKF-KPYKYSFV----------------EG-KFHCA-GPGNW----
+-------CE-THICQC----DMDASLCFRHHLDSYKG---RYRFHW--KP---G------
+--CGRNTPSCQNDTLAQPQKVR---MALSQTSQRL-------------------------
+----------------------------------
+>ENSECAP00000031084 ENSECAG00000035952	145	PLA2G2D	phospholipase A2 group	Equus_caballus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEV---PLL-CVLVV-------------------FAGVIPTQGGILDL-NKMIRQVTG
+KTPFFSYWFYGCHCG--------------LR--------GKGQPKDATD----WCCHAHD
+C-CYTHLK-YHKCRRRW-DRYHYTFS----------------EG-DVQCP-EKGSW----
+-------CE-QQLCAC----DKELAFCLKSNLDTYQN---HLRFYW--RP---R------
+--CKGQTPMC--------------------------------------------------
+----------------------------------
+>ENSCJAP00000077970 ENSCJAG00000042354	145	PLA2G2D	phospholipase A2 group	Callithrix_jacchus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---ALL-CGLMV-------------------MAGVIPIQGGILNL-NKMVKQVTG
+KTPFLSYWPYGCHCG--------------LG--------GRGQPKDASD----WCCRTHD
+C-CYAHLK-THGCHFHT-DHYRYNFS----------------QG-EIYCS-DKGSW----
+-------CE-QQLCAC----DKDVAFCLKRNLDTYQK---KLRFYW--RP---H------
+--CQGQTPGC--------------------------------------------------
+----------------------------------
+>ENSCATP00000020440 ENSCATG00000033996	161	PLA2G2D	phospholipase A2 group	Cercocebus_atys	10B	10	B
+------------------------------------------------------------
+-----------------------------MARDFQQLP----PL-------------LCA
+GIMEL---ALL-CGLVV-------------------MAGVIPIQGGILNL-NKMVKQVTG
+KMPLFFYWPYGCYCG--------------PG--------GRGQPKDATD----WCCQTHD
+C-CYDHLK-THGCCVHT-DHYRYSFS----------------QG-DIHCS-DKGSW----
+-------CE-QQLCAC----DKEVAFCLKRNLDTYKK---RLRFYW--RP---R------
+--CQGQTPGC--------------------------------------------------
+----------------------------------
+>ENSCSAP00000017119 ENSCSAG00000000888	161	PLA2G2D	phospholipase A2 group	Chlorocebus_sabaeus	10B	10	B
+------------------------------------------------------------
+-----------------------------MERDFQQLP----PL-------------LSA
+GIMEL---ALL-CGLVV-------------------MAGVIPIQGGILNL-NKMVKQVTG
+KMPLFFYWPYGCYCG--------------PG--------GRGQPKDATD----WCCQTHD
+C-CYDHLK-THGCCVHT-DHYRYSFS----------------QG-DIHCS-DKGSW----
+-------CE-QQLCAC----DKEVALCLKRNLDTYKK---RLRFYW--RP---R------
+--CQGQTPGC--------------------------------------------------
+----------------------------------
+>ENSGGOP00000008814 ENSGGOG00000009015	145	PLA2G2D	phospholipase A2 group	Gorilla_gorilla	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---ALL-CGLVV-------------------MAGVIPIQGGILNL-NKMVKQVTG
+KMPILFYWPYGCHCG--------------LG--------GRGQPKDATD----WCCQTHD
+C-CYDHLK-TQGCGIYK-DYYRYNFS----------------QG-DIHCS-DKGSW----
+-------CE-QQLCAC----DKEVAFCLKRNLDTYQK---RLRFYW--RP---H------
+--CRGQTPGC--------------------------------------------------
+----------------------------------
+>ENSP00000364246 ENSG00000117215	145	PLA2G2D	phospholipase A2 group	Homo_sapiens	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---ALL-CGLVV-------------------MAGVIPIQGGILNL-NKMVKQVTG
+KMPILSYWPYGCHCG--------------LG--------GRGQPKDATD----WCCQTHD
+C-CYDHLK-TQGCSIYK-DYYRYNFS----------------QG-NIHCS-DKGSW----
+-------CE-QQLCAC----DKEVAFCLKRNLDTYQK---RLRFYW--RP---H------
+--CRGQTPGC--------------------------------------------------
+----------------------------------
+>ENSMMUP00000041436 ENSMMUG00000045550	161	PLA2G2D	phospholipase A2 group	Macaca_mulatta	10B	10	B
+------------------------------------------------------------
+-----------------------------MARDFQQLP----PL-------------LSA
+GIMQL---ALL-CGLVV-------------------MAGVIPIQGGILNL-NKMVKQVTG
+KMPLFFYWPYGCYCG--------------PG--------GRGQPKDATD----WCCQTHD
+C-CYDHLK-THGCCIHT-DHYRYSFS----------------HG-DIHCS-DKGSW----
+-------CE-QQLCAC----DKEVAFCLKRNLDTYKK---RLRFYW--RP---R------
+--CQGQTPGC--------------------------------------------------
+----------------------------------
+>ENSMLEP00000023285 ENSMLEG00000035846	145	PLA2G2D	phospholipase A2 group	Mandrillus_leucophaeus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---ALL-CGLVV-------------------IAGVIPIQGGILNL-NKMVKQVTG
+KMPLFFYWPYGCYCG--------------PG--------GRGQPKDATD----WCCQTHD
+C-CYDHLK-THGCCIHT-DHYRYSFS----------------QG-DIHCS-DKGSW----
+-------CE-QQLCAC----DKEVAFCLKRNLDTYKK---RLRFYW--RP---H------
+--CQGQTPGC--------------------------------------------------
+----------------------------------
+>ENSMICP00000017229 ENSMICG00000027293	145	PLA2G2D	phospholipase A2 group	Microcebus_murinus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---PLL-WGLVV-------------------MAGVMPAQGGILNL-NKMIEKMTR
+KIPLFSYWPYGCYCG--------------LG--------GRGQPKDASD----WCCKVHD
+C-CYAHLK-THGCRFHT-DHYKYNFS----------------QG-VIHCS-DKGTW----
+-------CE-RELCAC----DKEIASCLKRNLDTYNK---RLRFYW--RP---H------
+--CKGPTPNC--------------------------------------------------
+----------------------------------
+>ENSPTRP00000000487 ENSPTRG00000000279	161	PLA2G2D	phospholipase A2 group	Pan_troglodytes	10B	10	B
+------------------------------------------------------------
+-----------------------------MERDCQHLP----PL-------------LCA
+GIMEL---ALL-CGLVV-------------------MAGVIPIQGGILNL-NKMVKQVTG
+KMPILFYWPYGCHCG--------------LG--------GRGQPKDATD----WCCQTHD
+C-CYDHLK-TQGCGIYK-DYYRYNFS----------------QG-NIHCS-DKGSW----
+-------CE-QQLCAC----DKEVAFCLKRNLDTYQK---RLRFYW--RP---H------
+--CRGQTPGC--------------------------------------------------
+----------------------------------
+>ENSPANP00000041860 ENSPANG00000035636	145	PLA2G2D	phospholipase A2 group	Papio_anubis	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---ALL-CGLVV-------------------MAGVIPIQGGILNL-NKMVKQVTG
+KMPLFFYWPYGCYCG--------------PG--------GRGQPKDATD----WCCQTHD
+C-CYDHLK-THGCCVHT-DHYRYSFS----------------QG-DIHCS-DKGSW----
+-------CE-QQLCAC----DKEVAFCLKRNLDTYKK---RLRFYW--RP---R------
+--CQGQTPGC--------------------------------------------------
+----------------------------------
+>ENSPPYP00000002061 ENSPPYG00000001778	145	PLA2G2D	phospholipase A2 group	Pongo_abelii	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---ALL-CGLVV-------------------MAGVIPIQGGILNL-NKMVKQVTG
+KTPILFYWPYGCHCG--------------PG--------GRGQPKDATD----WCCQTHD
+C-CYVHLK-TQGCGIYK-DYYRYNFS----------------QG-DIHCS-DKGSW----
+-------CE-QQLCAC----DKEVAFCLKRNLDTYQK---RLHFYW--RP---H------
+--CRGQTPGC--------------------------------------------------
+----------------------------------
+>ENSTGEP00000000059 ENSTGEG00000000082	145	PLA2G2D	phospholipase A2 group	Theropithecus_gelada	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---ALL-CGLVV-------------------MAGVIPIQGGILNL-NKMVKQVTG
+KMPLFFYWPYGCYCG--------------PG--------GRGQPKDATD----WCCQTHD
+C-CYDHLK-THGCCVHT-DHYRYSFS----------------QG-DIHCS-DKGSW----
+-------CE-QQLCAC----DKEVAFCLKRNLDTYKK---RLRFYW--RP---R------
+--CQGQTPGC--------------------------------------------------
+----------------------------------
+>ENSLAFP00000000260 ENSLAFG00000000312	146	PLA2G2D	phospholipase A2 group	Loxodonta_africana	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--LRF---HLFSPLLGC-------------------LTGVIPTQSGTLNL-NKMIKQVTG
+KIPFFTYWFYGCHCG--------------PG--------GKGHPKDATD----WCCRAHD
+C-CYALLK-NERCRFHT-DNYRYDFL----------------EG-EIQCS-DKGSW----
+-------CE-KQLCAC----DKTMALCLQESLHTYNK---RLRYYW--RP---R------
+--CQGQSPEC--------------------------------------------------
+----------------------------------
+>ENSCCNP00000002159 ENSCCNG00000002382	145	Pla2g2d	phospholipase A2 group	Castor_canadensis	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---ALL-CGMLV-------------------MAGVTPAQGGLLNL-NKMVRQVTG
+KMPILYYWPYACHCR--------------LG--------GRGQPKDATD----WCCQKHD
+C-CYTHLR-IHQCRPTT-DNYKYTFS----------------QG-DIQCS-VKGSW----
+-------CE-QQLCAC----DKEVALCLKRNLDSYNK---HLRYYW--WP---N------
+--CQGQKPAC--------------------------------------------------
+----------------------------------
+>ENSCPOP00000007966 ENSCPOG00000008870	159	PLA2G2D	phospholipase A2 group	Cavia_porcellus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---VLL-CGLLV-------------------MAGVTPTQGSILNV-NKMIKQVTG
+KIP-FNYWAYGCHCG--------------FG--------GRGEPKDATD----RCCLEHD
+C-CYSLLK-TQRCKPQT-NHYKYNFS----------------LG-DIQCS-DKGSW----
+-------CE-KQLCAC----DKAMAFCLKSSLNTYQK---KLRFYL--RP---K------
+--CKGTTPPCTGAANLTLTLPG--------LPP---------------------------
+----------------------------------
+>ENSCLAP00000017096 ENSCLAG00000011736	158	PLA2G2D	phospholipase A2 group	Chinchilla_lanigera	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---VLL-CVLLV-------------------MAGVTPTQGGILNL-NKMIWQVTG
+KLPFFNYWPYGCHCG--------------FG--------GRGQPKDATD----RCCQEHD
+C-CYFHLR-LHRCKTRT-DHYKYTFS----------------LG-DIQCS-DKGSW----
+-------CE-RQLCAC----DKAVAFCLKNSLDTYQK---KLRFYW--RP---K------
+--CKGVAPLCTGPANLTF--LG--------LPN---------------------------
+----------------------------------
+>ENSDORP00000023948 ENSDORG00000027595	145	Pla2g2d	phospholipase A2 group	Dipodomys_ordii	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MQL---TLL-CVLLV-------------------MAGVTPTQGGLLNL-RKMVKQVTG
+KSPFLYYWPYACHCG--------------LG--------GKGQPKDATD----WCCQKHD
+C-CYAHLT-THKCRILT-DSYKFTFS----------------QG-EVQCS-DKGSW----
+-------CE-QQLCAC----DKEVALCLKRNLDTYQK---RLRYYW--RP---H------
+--CQGEKPTC--------------------------------------------------
+----------------------------------
+>ENSSTOP00000008271 ENSSTOG00000009231	145	PLA2G2D	phospholipase A2 group	Ictidomys_tridecemlineatus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MRL---VLL-CGLLV-------------------AAGLTPAQGGLLNL-NKMVRQVTK
+KIPLLNYWPYGCHCG--------------LG--------GRGQPKDATD----WCCQKHD
+C-CYKHLR-TYQCRPKR-DHYNYTFS----------------QG-DVQCP-HRGSW----
+-------CE-QQLCAC----DKEVAFCLKRNLDSHNK---LLRFYR--RS---R------
+--CQDPTPSC--------------------------------------------------
+----------------------------------
+>ENSMUGP00000029132 ENSMUGG00000024150	145	Pla2g2d	phospholipase A2 group	Meriones_unguiculatus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MRL---ALL-CALLL-------------------LAGMSPAQGGLLNL-SKMVTLTTG
+KIAFLNYWPYGCHCG--------------LG--------GKGEPKDATD----WCCQKHD
+C-CYKHLK-TNGCKILT-DNYKYSIS----------------QD-GIQCS-DKGSW----
+-------CE-KQLCVC----DKEVALCLRQNLGSYNK---RLRYYW--RP---H------
+--CKGQTPSC--------------------------------------------------
+----------------------------------
+>ENSMAUP00000001299 ENSMAUG00000000970	145	Pla2g2d	phospholipase A2 group	Mesocricetus_auratus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MRL---ALL-CGLLL-------------------LAGMTPTQGGLLNL-NKMINRVTG
+KIAFFNYWPYGCHCG--------------LG--------GKGGPKDATD----WCCHKHD
+C-CYTHLK-TDGCRIMT-DNYKYSIS----------------QG-IIQCS-DKGSW----
+-------CE-RELCAC----DKEVALCLKQNLNSYNK---RLRYYW--RP---R------
+--CTGHTPTC--------------------------------------------------
+----------------------------------
+>ENSMUSP00000030528 ENSMUSG00000041202	144	Pla2g2d	phospholipase A2, group	Mus_musculus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MRL---ALL-CGLL--------------------LAGITATQGGLLNL-NKMVTHMTG
+KKAFFSYWPYGCHCG--------------LG--------GKGQPKDATD----WCCQKHD
+C-CYAHLK-IDGCKSLT-DNYKYSIS----------------QG-TIQCS-DNGSW----
+-------CE-RQLCAC----DKEVALCLKQNLDSYNK---RLRYYW--RP---R------
+--CKGKTPAC--------------------------------------------------
+----------------------------------
+>ENSODEP00000020651 ENSODEG00000015230	146	PLA2G2D	phospholipase A2 group	Octodon_degus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MEL---VLL-CGLLV-------------------MAGVTPTQGGVLNL-NKMIWQVTG
+KTPLFNYWLYGCHCG--------------PG--------GRGQPKDATD----RCCQQHD
+C-CYSLLK-TQRCRSQT-DHYKYTFL----------------LG-DIHCS-DKGSW----
+-------CE-RQLCAC----DKAVAFCLKSSLDTYQK---KLRLYW--RP---K------
+--CKGATPLCP-------------------------------------------------
+----------------------------------
+>ENSPEMP00000020499 ENSPEMG00000018446	145	Pla2g2d	phospholipase A2 group	Peromyscus_maniculatus_bairdii	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MRL---ALL-CGLLL-------------------LAGLTPTQGGLLNL-NKMVRHTTR
+KIAFFNYWPYGCHCG--------------LG--------GKGEPKDATD----WCCQRHD
+C-CYAHLK-TDGCRIFT-DTYKYSIS----------------QG-DIQCS-DKGSW----
+-------CE-KGLCAC----DKEVALCLKQNLNSYNK---RLRYYW--RP---H------
+--CKGETPTC--------------------------------------------------
+----------------------------------
+>ENSRNOP00000022579 ENSRNOG00000016826	144	Pla2g2d	phospholipase A2, group	Rattus_norvegicus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MRL---ALL-CGLL--------------------LAGITATQGGLLNL-NKMVNHMTG
+KKAFFSYWPYGCHCG--------------FG--------GKGQPKDATD----WCCQKHD
+C-CYAHLK-IDGCKSLT-DNYKYSIS----------------EG-VIQCS-DQGSW----
+-------CE-RQLCAC----DKEVALCLKQNLESYNK---RLRYYW--RP---R------
+--CKGQTPTC--------------------------------------------------
+----------------------------------
+>ENSANIP00000018728 ENSANIG00000012730	148	PLA2G2D	phospholipase A2 group	Accipiter_nisus	10B	10	B
+------------------------------------------------------------
+-------------------------------------M----LLWQP---IPPS-PVHGV
+RS-------WGVG-----------------GGFLAC-LSP--AHGSLWEL-QKMITKATG
+KNALLYYSSYGCFCG--------------FG--------GKGQPKDATD----RCCQLHD
+T-CYNNLLS-YHCSAKM-QGYRYGGV----------------PT-SP----PPGSW----
+-------CA-QLSCEC----DRSLVLCLKQSLRSYST---RYRFYW--KR---W------
+--C---------------------------------------------------------
+----------------------------------
+>ENSACCP00020001792 ENSACCG00020001241	137	PLA2G2D	basic phospholipase A2 daboxin	Aquila_chrysaetos_chrysaetos	10B	10	B
+------------------------------------------------------------
+--------------------------------------------------------MNSL
+---------LAFA-----------------VLFAWG-LSP--AHGSLWEL-QKMITKATG
+KNALLYYSSYGCYCG--------------FG--------GKGQPKDATD----RCCQLHD
+T-CYNNLLS-YHCNAKM-QGYRYGWH----------------TG-SPFC--RQGSW----
+-------CA-QLSCEC----DRSLVLCLKQSLGSYST---RYRFYW--KH---W------
+--C---------------------------------------------------------
+----------------------------------
+>ENSAOWP00000017798 ENSAOWG00000012154	153	PLA2G2D	phospholipase A2 group	Apteryx_owenii	10B	10	B
+------------------------------------------------------------
+---------------------------------MHLLS----APWLL---RNDS------
+--GFC---FLSPP-----------------LFCFPC-VFV--SRLSVLEL-KRMVKSATG
+KSALLSYSWYGCFCG--------------IG--------GRGTPVDATD----RCCQRHD
+A-CYDGLLR-HRCDAKR-ERYRYGWH----------------GG-GPVC--YQGSW----
+-------CA-QLSCEC----DRSLALCLRRSLGTYRA---RYRFYP--KH---A------
+--C-----RR--------------------------------------------------
+----------------------------------
+>ENSCPRP00005026690 ENSCPRG00005018515	158	PLA2G2D	phospholipase A2 group	Crocodylus_porosus	10B	10	B
+------------------------------------------------------------
+------------------------------------------PFGL-----L--------
+-----------P--TRSA-------------------THLTGVNGSVLEY-QKMIKQVTG
+KGAILSYYGYGCYCG--------------SK--------GKGEPKDATD----WCCHIHN
+C-CYKKLKE-SDCHGNT-KRYDYAYK----------------NG-NIIC--ALGSW----
+-------CE-EQVCAC----DRNAVFCLEKNLDTYNS---RFVRYR--DS---K------
+--CTGSTPECYRGCPSPCQSFN---GAFN-------------------------------
+----------------------------------
+>ENSACOP00000016116 ENSACOG00000011228	128	None	None	Amazona_collaria	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------KSPR-----------------VPLAWA-LSP--AHGSLWDL-HKMITKATG
+KNALMHYSFYGCYCG--------------FG--------GKGQPRDATD----RCCQLHD
+A-CYDSLLS-HHCNAKV-QRYLYDWV----------------SS-------RKGSW----
+-------CS-QLSCEC----DRSLALCLKRSIGSYRR----HRFYP--RH---R------
+--C---------------------------------------------------------
+----------------------------------
+>ENSMUNP00000016761 ENSMUNG00000012899	165	PLA2G2D	phospholipase A2 group	Melopsittacus_undulatus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--MKN----LLFA-----------------LLLACG-KCPAFTGPFTWDLFCLMITKATG
+KNALLHYSFYGCYCG--------------FG--------GKGQPKDATD----RCCQLHD
+I-CYDSLLS-HHCNAKL-GVTQ--------------------GS-PLSA--GKGSW----
+-------CS-QLSCEC----DRSLALCLKRSGLQVRM---SWNTLSLLKS---WVNFNYV
+VFCLEKRQKRCAKGSRQRGKRPC-------------------------------------
+----------------------------------
+>ENSSPUP00000001739 ENSSPUG00000001336	120	PLA2G2D	phospholipase A2 group	Sphenodon_punctatus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+----C---R--TVWTMSA-------------------CLPSPAHGSFLEL-RKMIKEVTK
+ENAINS-YAYGCYCG--------------SG--------GHGEPKDATD----WCCQAHK
+C-CYKKLKA-SKCSGKT-KCYSYTYK----------------DG-QVIC--GE--S----
+-------AP-YQVCAC----DKSFILCLTRNLGHLQ------------------------
+------------------------------------------------------------
+----------------------------------
+>ENSCPBP00000033777 ENSCPBG00000023592	143	PLA2G2D	phospholipase A2 group	Chrysemys_picta_bellii	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--YKS---P--HSREGLC-------------------IPALPQESNLLEF-RKMINQATR
+KSAILSYYGYGCYCG--------------SD--------GRGEPKDATD----WCCRAHH
+C-CYKRLKA-NGCYGKR-QRYSYTYK----------------DG-DILC--ALGSW----
+-------CE-EQVCDC----DKSTALCLERNLKTFNS---RYVRYR--DN---K------
+--CTGFTPRC--------------------------------------------------
+----------------------------------
+>ENSGAGP00000029760 ENSGAGG00000021486	141	PLA2G2D	phospholipase A2 group	Gopherus_agassizii	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+--YGC---S--TITIYLC-------------------L--SGTQGSLLEF-RKMINQATG
+KSAILSYYGYGCYCG--------------SD--------GKGEPKDATD----WCCRAHH
+C-CYKRLKA-SGCYGNT-ERYSYTYK----------------DG-DILC--ALGSW----
+-------CE-EQVCDC----DKSTAFCLERNLKTFNS---LYVRYR--DS---K------
+--CTGFTPNC--------------------------------------------------
+----------------------------------
+>ENSPCEP00000015965 ENSPCEG00000012537	178	PLA2G2D	phospholipase A2 group	Pelusios_castaneus	10B	10	B
+------------------------------------------------------------
+---------MTPVGEDLERC---------QLTSLYGIS----PLYL-----LDRALTHCD
+NESRA---P--EVRTCLS-------------------ILSAAAQGSLLEF-RKMINQVTS
+KSAIMSYYGYGCYCG--------------AN--------GRGEPKDATD----WCCRAHH
+C-CYKRLKP-SSCYGKR-QRYSYTFK----------------DG-NILC--AMGSW----
+-------CE-EQVCDC----DRSTALCLERNLKTFNS---RYIRYR--DS---K------
+--CTGFTPSC--------------------------------------------------
+----------------------------------

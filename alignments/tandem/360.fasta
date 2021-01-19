@@ -1,0 +1,736 @@
+>ENSBBBP00000007469 ENSBBBG00000015537	99	CCL2	C-C motif chemokine	Bison_bison_bison	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLTVAAFSTEVL----AQPDAINSQVACCYTFNSK
+KISMQRLMNYRRVTSSKCPKEAV--------IFKTILGKELCADPKQKWVQDSINYLNKK
+NQTPK-----------------------P-------------------------------
+---------
+>ENSBTAP00000013146 ENSBTAG00000037811	99	CCL2	chemokine (C-C motif) ligand	Bos_taurus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLTVAAFSTEVL----AQPDAINSQVACCYTFNSK
+KISMQRLMNYRRVTSSKCPKEAV--------IFKTILGKELCADPKQKWVQDSINYLNKK
+NQTPK-----------------------P-------------------------------
+---------
+>ENSCDRP00005027219 ENSCDRG00005018730	99	CCL2	C-C motif chemokine ligand	Camelus_dromedarius	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKIS-AGLLCLLLAAAAFSTQVL----AQPDAINSPVTCCYTLTGK
+KIPMQKLMSYTRVTSSKCPKEAV--------IFKTTRAKEICADPEQKWVQDYMNYLDKK
+NQISK-----------------------P-------------------------------
+---------
+>ENSCHIP00000027804 ENSCHIG00000023567	98	CCL2	C-C motif chemokine	Capra_hircus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLTVAAFSTEVL----AQPDAINSQIACCYKFNK-
+KIPIQRLTNYRRVTTSKCPKEAV--------IFKTILGKEFCADPNLKWVQDAINHLNKK
+NQTPK-----------------------P-------------------------------
+---------
+>ENSCWAP00000019835 ENSCWAG00000015205	99	CCL2	C-C motif chemokine ligand	Catagonus_wagneri	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLAAATFCTQVL----AQPDAINSPVTCCYTLTSK
+KISMQRLMSYRRVTSSKCPKEAV--------IFKTVLGKEICAEPKQKWVQDSIRHLDKK
+NQTPK-----------------------P-------------------------------
+---------
+>ENSDLEP00000027201 ENSDLEG00000019628	99	CCL2	C-C motif chemokine	Delphinapterus_leucas	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLTTAAFSTQVL----AQPDAINSPVTCCYTFANK
+KISNQRLMSYRRVTSSKCPKEAV--------IFKTILGKDICADPKQKWVQDSMRHLDNK
+RQTPK-----------------------P-------------------------------
+---------
+>ENSMMSP00000018247 ENSMMSG00000013816	98	CCL2	C-C motif chemokine ligand	Moschus_moschiferus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-SALLCLLLAVAAFSTEVL----AQPDAINSPVTCCYKFNK-
+KISLQRLMNYRRVTSSKCPKEAV--------IFKTILGKEICADPEQKWVQDSINHLNKK
+NQTAK-----------------------P-------------------------------
+---------
+>ENSOARP00000010324 ENSOARG00000009627	115	CCL2	C-C motif chemokine	Ovis_aries	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------IQR
+PTAPTLKLESSRCNMKFS-AALLCLLLTVAAFSTEVL----AQPDAINSQIACCYKFNK-
+KIPIQRLTNYRRVTTSKCPKEAV--------IFKTILGKEFCADPNLKWVQDAINHLNKK
+NQTPK-----------------------P-------------------------------
+---------
+>ENSPCTP00005017643 ENSPCTG00005012569	98	CCL2	C-C motif chemokine ligand	Physeter_catodon	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLL-ATAAFSTQVL----AQPEAINSPVTCCYTLTSK
+KFSMQRLMSYRRVTSSKCPKEAV--------IFKTILGKEICADPKQTWVQDSMRHLDNK
+RQTSK-----------------------P-------------------------------
+---------
+>ENSSSCP00000018779 ENSSSCG00000017723	99	CCL2	chemokine (C-C motif) ligand	Sus_scrofa	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLTAATFCTQVL----AQPDAINSPVTCCYTLTSK
+KISMQRLMSYRRVTSSKCPKEAV--------IFKTIAGKEICAEPKQKWVQDSISHLDKK
+NQTPK-----------------------P-------------------------------
+---------
+>ENSTTRP00000013734 ENSTTRG00000014487	99	CCL2	C-C motif chemokine	Tursiops_truncatus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLTTAAFSTQVL----AQPDAINSPVTCCYTFANK
+KISNQRLMSYRRVTSSKCPKEAV--------IFKTILGKDICADPKQKWVQDSMRHLDKK
+RQTPK-----------------------P-------------------------------
+---------
+>ENSVPAP00000002965 ENSVPAG00000003205	70	None	None	Vicugna_pacos	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------NSPVTCCYTLTNK
+KIPMRK-MSYTRVTSSKCPKEAV--------IFKTTRAKEICADPEQKWVQDYMNYLDKK
+NQISK-----------------------P-------------------------------
+---------
+>ENSAMEP00000006089 ENSAMEG00000005780	101	CCL2	C-C motif chemokine	Ailuropoda_melanoleuca	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-ATLLCLLLTAAAFSLQVL----AQPDAISSPVTCCYTLTNK
+KISMQRLGSYKRVTSSKCPKEAV--------IFKTILNKEICADPNQKWVQDSMAHLDKK
+TQTQT-----------------------AKP-----------------------------
+---------
+>ENSCAFP00000027107 ENSCAFG00000018348	162	CCL7	C-C motif chemokine ligand	Canis_lupus_familiaris	360A	360	A
+------------------------------------------------------------
+---------------------------MLPLHHS-------------------------L
+RMMLPWAKLSLLAPP----SLLEIKGRQSRQRGQRSRE----------------AETTQK
+P-PALTSKLPALHDMKVS-AALLCLLLIAAALTTQVL----TQPDAINSPVTCCYTLTNK
+KISIQRLASYKRVTSSKCPKEAV--------IFKTVLNKEICADPKQKWVQDSMAHLDKK
+SQTQT-----------------------AKP-----------------------------
+---------
+>ENSFCAP00000000780 ENSFCAG00000038488	99	CCL2	monocyte chemoattractant protein	Felis_catus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLTAAAFSLQVL----AQPDAINSPVTCCYTLTNK
+KISMQRLVSYKRVTSSKCPKEAV--------IFKTILNKEICADPNQKWVKDSMAHLDKK
+TQTAK-----------------------P-------------------------------
+---------
+>ENSLCNP00005024864 ENSLCNG00005016157	99	CCL2	C-C motif chemokine	Lynx_canadensis	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLTAAAFSLQVL----AQPDAINSPVTCCYTLTNK
+KISMQRLASYKRVTSSKCPKEAV--------IFKTILNKEICADPNQKWVKDSMAHLDKK
+TQTAK-----------------------P-------------------------------
+---------
+>ENSMPUP00000014730 ENSMPUG00000014841	101	CCL2	C-C motif chemokine ligand	Mustela_putorius_furo	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-ATLLCLLLTAAAISIQVL----AQPDAINSPVTCCYTFTNK
+KISVQRLVSYKRVTSSKCPKEAV--------ILKTFLNKEICADPSQKWVRDSMAHLDKK
+TQTQT-----------------------AKP-----------------------------
+---------
+>ENSNVIP00000025385 ENSNVIG00000019643	101	CCL2	C-C motif chemokine ligand	Neovison_vison	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-ATLLCLLLTAAAISIQVL----AQPDAINSPVTCCYTFTNK
+KISVQRLTSYKRVTSSKCPKEAV--------ILKTFLNKEICADPSQKWVRDSMAHLDKK
+TQNQT-----------------------AKP-----------------------------
+---------
+>ENSPLOP00000022048 ENSPLOG00000016154	99	CCL2	C-C motif chemokine ligand	Panthera_leo	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLTAAAFSLQVL----AQPDAINSPVTCCYTLTNK
+KISMQRLMSYKRVTSSKCPKEAV--------IFKTILNKEICADPNQKWVKDSMAHLDKK
+TQTAK-----------------------P-------------------------------
+---------
+>ENSSSUP00005029059 ENSSSUG00005018768	99	CCL2	C-C motif chemokine ligand	Suricata_suricatta	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AVLLCLLLTAAAFSIQTL----AQPDAINSPVTCCYTLTNK
+KIPMQRLASYKRVTSSKCPKEAV--------IFKTIANKEICADPNQKWVKESITLLDKK
+TQTAK-----------------------P-------------------------------
+---------
+>ENSUMAP00000021350 ENSUMAG00000015604	101	CCL2	C-C motif chemokine ligand	Ursus_maritimus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-ATLLCLLLTAAAFSLQVL----AQPDAISSPVTCCYTLTNK
+KISMQRLGSYKRVTSSKCPKEAV--------IFKTILNKEICADPNQKWVRDSMAHLDKK
+TQTQT-----------------------AKP-----------------------------
+---------
+>ENSVVUP00000028066 ENSVVUG00000020543	101	CCL2	C-C motif chemokine	Vulpes_vulpes	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLTAAALTTQVL----TQPDAINSPVTCCYTLTNK
+KISIQRLASYKRVTSSKCPKEAV--------IFKTVLNKEICADPKQKWVQDSMAHLDKK
+SQTQT-----------------------AKP-----------------------------
+---------
+>ENSMLUP00000010354 ENSMLUG00000011369	109	CCL2	C-C motif chemokine ligand	Myotis_lucifugus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----SLKLISSPSSMKVS-AALLCLLLTAAALTTQVL----AQPDAVTSPITCCYTFTEK
+TIPMSKLASYKKVTSSKCPKEAV--------IFKTKAGRDVCADPQLTWVQNAVKLIDKK
+TQTPKP------------------------------------------------------
+---------
+>ENSRFEP00010029902 ENSRFEG00010019809	99	CCL7	C-C motif chemokine ligand	Rhinolophus_ferrumequinum	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLTVSTFSTQVL----AQPDSFGFAVTCCYDFINK
+IIPKPKLVSYRRVTSSRCPKEAV--------IFQTRQMKKVCADPKAPWVQDAMKHLDKK
+IQTPKS------------------------------------------------------
+---------
+>ENSDNOP00000026416 ENSDNOG00000048969	123	CCL2	C-C motif chemokine ligand	Dasypus_novemcinctus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------PAQQRGREQ----------------------PA
+ASGYHSEVLVPPSSMKVS-AVLLCLLL-AASFSTQVL----AQPDAFNSPITCCFTFTPK
+KIPLQKLESYRRITSSKCPKEAV--------IFKTKLAKEICADPKLMWVQDSIAALDKK
+TQTPKP------------------------------------------------------
+---------
+>ENSMEUP00000004816 ENSMEUG00000005275	105	None	None	Notamacropus_eugenii	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------IPKLSFTMKIS-GAVLPMILLAVYFICQVY----ATPDGVYSPENCCFEFTNK
+KIPLKLLVSYK-NTSSMCPKEAV--------IFVTKRGFNICANLKDLWVQDLMKNLDKM
+KTKIMK------------------------------------------------------
+---------
+>ENSPCIP00000040518 ENSPCIG00000029662	99	None	None	Phascolarctos_cinereus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVT-GAVLSLVLIIAALCCQVH----ASPDGPSTPTTCCFEFTSR
+KIPSKLVVSYE-ITSSRCAKEGV--------IFVTRRGFQICTNPKEQWVQDIRNHLDKK
+NAKTQSP-----------------------------------------------------
+---------
+>ENSEEUP00000014551 ENSEEUG00000015933	96	CCL2	C-C motif chemokine	Erinaceus_europaeus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AVLLCLLLTAA---TQVL----AQPDAVTAPVTCCYTFTSK
+TIPIQRLMSYSKITSSKCPKEAV--------IFKTKLGKEICADPKVPWVKESMKQLDVK
+TSTPKP------------------------------------------------------
+---------
+>ENSOPRP00000014236 ENSOPRG00000015591	96	CCL2	C-C motif chemokine ligand	Ochotona_princeps	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------KQFF-SVLLCLLLTMAVFSCQVL----AQLNA-NSPSTCCYAFK--
+KIPVKRLIHYR-ISNSRCPREAV--------LFISIQSKEICADPKQKWVQEAITVLDKR
+AQTLKTW-----------------------------------------------------
+---------
+>ENSOCUP00000015636 ENSOCUG00000021710	125	CCL2	C-C motif chemokine ligand	Oryctolagus_cuniculus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-ATLLCLLLIAVAFSSHVL----AQPDAVNSPVTCCYTFTSK
+TISVKRLMSYRRINSTKCPKEAV--------IFMTKLAKGICADPKQKWVQDAIANLDKK
+MQTPK-----------------------TLT----SYSTTQEHTTNLSSTRTPSTTTSL-
+---------
+>ENSOANP00000004654 ENSOANG00000002929	71	None	None	Ornithorhynchus_anatinus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------DEVHIPQSCCYSWSKK
+PIPLHLLSGYF-VTSSKCSLEAV--------IFKTVKGVEVCADPKEKWVQDRMRRLKIR
+RKKP--------------------------------------------------------
+---------
+>ENSECAP00000021376 ENSECAG00000023949	99	CCL2	chemokine (C-C motif) ligand	Equus_caballus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLTAAAFSTQVL----AQPDAINSPVTCCYTFTGK
+KISSQRLGSYKRVTSSKCPKEAV--------IFKTILAKEICADPEQKWVQDAVKQLDKK
+AQTPK-----------------------P-------------------------------
+---------
+>ENSCJAP00000077107 ENSCJAG00000057655	98	CCL11	C-C motif chemokine ligand	Callithrix_jacchus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MVS-AALLCLLLIAATFSPQGL----AQPDAINAPVTCCYIFTNK
+RISLQRLASYRRITSSKCPKEAV--------IFKTKLAKEICADPKQKWVEDSIDHLDKQ
+IQTPK-----------------------P-------------------------------
+---------
+>ENSCATP00000042391 ENSCATG00000043802	99	CCL2	C-C motif chemokine ligand	Cercocebus_atys	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLIAATFSPQGL----AQPDAINAPVTCCYNFTNR
+KISVQRLASYRRITSSKCPKEAV--------IFKTIVAKEICADPKQKWVQDSMDHLDKQ
+IQTPK-----------------------P-------------------------------
+---------
+>ENSCSAP00000002649 ENSCSAG00000006354	99	CCL2	C-C motif chemokine ligand	Chlorocebus_sabaeus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLIAATFSPQGL----AQPDAINAPVTCCYNFTNR
+KISVQRLASYRRITSSKCPKEAV--------IFKTIVAKEICADPKQKWVQDSMDHLDKQ
+IQTPK-----------------------P-------------------------------
+---------
+>ENSP00000225831 ENSG00000108691	99	CCL2	C-C motif chemokine ligand	Homo_sapiens	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLIAATFIPQGL----AQPDAINAPVTCCYNFTNR
+KISVQRLASYRRITSSKCPKEAV--------IFKTIVAKEICADPKQKWVQDSMDHLDKQ
+TQTPK-----------------------T-------------------------------
+---------
+>ENSMMUP00000000391 ENSMMUG00000000288	185	CCL2	C-C motif chemokine ligand	Macaca_mulatta	360A	360	A
+------------------------------------------------------------
+------------------MEKVSCPDPLLPFPTSWKSPGRCICSA-----------DLTA
+HLLFMEDPSSCLTPPSLSLCLLSIKGRDSSQRNR---E----------------AETNPE
+TSSSQTEACTLTSSMKVS-AALLCLLLIAATFSPQGL----AQPDAINAPVTCCYNFTNR
+KISVQRLASYRRITSSKCPKEAV--------IFKTIVAKEICADPKQKWVQDSMDHLDKQ
+IQTPK-----------------------P-------------------------------
+---------
+>ENSMLEP00000019116 ENSMLEG00000033769	99	CCL2	C-C motif chemokine ligand	Mandrillus_leucophaeus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLIAATFSPQGL----AQPDAINAPVTCCYNFTNR
+KISVQRLASYRRITSSKCPKEAV--------IFKTIVAKEICADPKQKWVQDSMDHLDKQ
+IQTPK-----------------------P-------------------------------
+---------
+>ENSMICP00000030081 ENSMICG00000034682	119	CCL2	C-C motif chemokine	Microcebus_murinus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLVAAAFSPQGL----AQPDAVNAPVTCCYTFSSR
+KISLQRLTSYRRVSNSKCPKEAV--------IFKTILAKEICANPEQNWVKDYIAKLDKK
+TQTPT-----------------------PSN----TPSTTQESTTNLSSPSSP-------
+---------
+>ENSPTRP00000068745 ENSPTRG00000008999	109	CCL2	C-C motif chemokine ligand	Pan_troglodytes	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLIAATFIPQGL----AQPDAINAPVTCCYNFTNR
+KISVQRLASYRRITSSKCPKEAV--------IFKTIVAKEISNPNSED------------
+-----------------------------LN----THSTTQESAANLFSPSFPQTPCFIL
+L--------
+>ENSPANP00000038500 ENSPANG00000035858	99	CCL2	C-C motif chemokine ligand	Papio_anubis	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLIAATFSPQGL----AQPDAINAPVTCCYNFTNR
+KISVQRLASYRRITSSKCPKEAV--------IFKTIVAKEICADPKQKWVQDSMDHLDKQ
+IQTPK-----------------------P-------------------------------
+---------
+>ENSPPYP00000010037 ENSPPYG00000008943	99	None	None	Pongo_abelii	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLIAATFSPQGL----AQPDAINAPVTCCYNFTNR
+KISVQRLASYRRITSSKCPKEAV--------IFKTIVAKEICADPKQKWVQDSMDHLDKQ
+TQTLK-----------------------P-------------------------------
+---------
+>ENSTGEP00000018313 ENSTGEG00000014781	99	CCL2	C-C motif chemokine ligand	Theropithecus_gelada	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLIAATFSPQGL----AQPDAINAPVTCCYNFTNR
+KISVQRLASYRRITSSKCPKEAV--------IFKTIVAKEICADPKQKWVQDSMDHLDKQ
+IQTPK-----------------------P-------------------------------
+---------
+>ENSLAFP00000003945 ENSLAFG00000004719	133	None	C-C motif chemokine ligand	Loxodonta_africana	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-VALVCLLVAAATFICQVF----SQPDAVNSPVTCCYTFVDK
+KIVVQRLASYRKVTNARCPKEAV--------IFKTKLAKELCADPKQKWVRDSTAYLDKK
+TQMSKPKTHNSA--------------AHSTTQESTIYSTTRESTT------YPTTGESAA
+---------
+>ENSCCNP00000002175 ENSCCNG00000002416	162	None	C-C motif chemokine	Castor_canadensis	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVY-TLLLCLVLTAVAISTHVL----AQPDAVNSQSTCCYSFTNK
+KIPMKKLVSYRKITSSKCPREAV--------IFTTIQKKEICTEPTEKWVQDYIAKLDQK
+MQFNQKTQLNQKTQLDHKIQLDQKSTQPETPTPLYNNSTTQEPIVNLSTTSFPSKISNTT
+MTVTSVTVN
+>ENSCPOP00000012126 ENSCPOG00000013468	120	None	C-C motif chemokine 2	Cavia_porcellus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MQRS-SVLLCLLVIEATFCSLLM----AQPDGVNTP-TCCYTFN-K
+QIPLKRVKGYERITSSRCPQEAV--------IFRTLKNKEVCADPTQKWVQDYIAKLDQR
+TQQKQNSTAP-------------------QTSKPLNIRFTTQDPKNRS------------
+---------
+>ENSCLAP00000008177 ENSCLAG00000005731	120	None	C-C motif chemokine	Chinchilla_lanigera	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MQVS-SVILGLLLTAATFSTLLL----AQPGGVNAP-VCCYIFN-R
+KIPLKRVMSYERITSSRCPQEAV--------IFKTVMNREICADPKQSWVEDYIARLDQK
+TQQKQNSTAL-------------------KTSVPLNISLTTPDPKNLS------------
+---------
+>ENSSTOP00000022204 ENSSTOG00000028166	136	None	C-C motif chemokine	Ictidomys_tridecemlineatus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLMLTVAAFSTLVL----AQPDAVNSPVTCCYTLTSR
+KIPMKRLMSYRRVTSSKCPKEAV--------IFTTVLNKEICADPLQKWVEDYVAKMDQK
+TEGNQNPTGLGT--------------AAPVN----ANFTTPEPVANLSATSSPSTNPNTS
+I--------
+>ENSMUGP00000029218 ENSMUGG00000024233	148	Ccl2	C-C motif chemokine	Meriones_unguiculatus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MQIS-STILCLLLIAAACSIHVL----AQPEGVTSPLTCCYSFTSR
+KIPEKRLESYKRITSSKCPKEAI--------VFVTKLKREICANPNEKWVQSYIQNLDQN
+QMRSETTAALKVA-------STL-----G-SSAPLNANLTHEPAASASTISFSTA-TSAS
+VGVTTMAVN
+>ENSMAUP00000023484 ENSMAUG00000020623	143	Ccl2	C-C motif chemokine	Mesocricetus_auratus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MPVSARTLLCLLLTVAACSIHVL----AQPDSVNSPLTCCYSFNAR
+KIPEKRLESYKRITSSKCPKEAV--------IFITKLKREICADPKQDWVQAYTKKLDQS
+QAKSETTTVY--------------------KTAPLNANLTQAPAVNVSTTAFPTADSRTS
+VRLTRMTMN
+>ENSMOCP00000019538 ENSMOCG00000017496	150	Ccl2	C-C motif chemokine	Microtus_ochrogaster	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MQVSARTLLCLLLTVAACSIHVL----AQPDAVNSPLTCCFSFTIK
+KIPERRLESYKRITSSKCPKEAV--------IFITKLKKEICADPKQAWVQAYMNKLDQN
+QARSETTTVSKIV-------STV-----R-SSAPLNANLTHGPAVNASTTPFPAASSRTS
+VRVASPTVN
+>ENSMUSP00000000193 ENSMUSG00000035385	148	Ccl2	chemokine (C-C motif) ligand	Mus_musculus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MQVP-VMLLGLLFTVAGWSIHVL----AQPDAVNAPLTCCYSFTSK
+MIPMSRLESYKRITSSRCPKEAV--------VFVTKLKREVCADPKKEWVQTYIKNLDRN
+QMRSEPTTLFKTA-------SAL-----R-SSAPLNVKLTRKSEANASTTFSTTT-SSTS
+VGVTSVTVN
+>ENSPEMP00000028593 ENSPEMG00000024087	148	Ccl2	chemokine (C-C motif) ligand	Peromyscus_maniculatus_bairdii	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------QVSATSLLCLLLTAAACSLHVL----AQPDAVNAPLTCCYMFAIK
+KIPEKRLESYKRITNSKCPREAV--------IFITKLKREICADPKQEWVQTYTRKLDQN
+QARSETTTVTKIA-------STV-----R-SSAPLNANLTHRPTVNASTTTFPTARSRTS
+RV-TSMIVN
+>ENSRNOP00000009448 ENSRNOG00000007159	148	Ccl2	C-C motif chemokine ligand	Rattus_norvegicus	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MQVS-VTLLGLLFTVAACSIHVL----SQPDAVNAPLTCCYSFTGK
+MIPMSRLENYKRITSSRCPKEAV--------VFVTKLKREICADPNKEWVQKYIRKLDQN
+QVRSETTVFYKIA-------STL-----R-TSAPLNVNLTHKSEANASTLFSTTT-SSTS
+VEVTSMTEN
+>ENSACDP00005025199 ENSACDG00005018241	98	None	None	Anser_cygnoides	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKV-SAAALAALLLLALCSPAEASTLCFFAPTDDVPITCCFTYQHR
+PIPRSLLASAY-TTSSSCSQPAV--------ILVTKRGREICANPQARWVQAHLEHFQKK
+KN----------------------------------------------------------
+---------
+>ENSCPUP00000006406 ENSCPUG00000004669	115	None	C-C motif chemokine	Calidris_pugnax	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------MVQRRALQPP
+QLQLRLRIPGPRSSMKV-LAATLVTVLLVATCSPSQA----HL---DGVPTACCIKYQKR
+PVPRALITSAY-ITSSSCSQPGV--------ILVTKKNKELCADPREPWVQARLKDFQTP
+KN----------------------------------------------------------
+---------
+>ENSCJPP00005011677 ENSCJPG00005010021	94	None	C-C motif chemokine	Coturnix_japonica	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKG-SAAVLSALLLLALCSSAVA----QLGESDSFPTTCCFSYAPR
+PIPRNLIASVY-ITSSKCRLPGV--------ILVTKKGREVCANPEEPWVQKCLELFQNQ
+EN----------------------------------------------------------
+---------
+>ENSMGAP00000001284 ENSMGAG00000001791	92	None	None	Meleagris_gallopavo	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKGCSASTLAALLLLALCSSATDSF--PIDSSDDIPLSCCYRYVSR
+PIPYNFIASVY-ATSSICSTPAV--------IVVTKKKREICADPKQFWVQALLELS---
+------------------------------------------------------------
+---------
+>ENSNMEP00000017829 ENSNMEG00000015537	91	None	C-C motif chemokine	Numida_meleagris	360A	360	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKG-SAAALAALLLLALCSSAVA----HL---DGVPTTCCYTYIKH
+PVPRNLIASAF-PTSSTCRQPGI--------VLVTKKGREICAQPKVHWVQELLERFQIQ
+KN----------------------------------------------------------
+---------
+>ENSPCTP00005017813 ENSPCTG00005012690	91	CCL13	C-C motif chemokine ligand	Physeter_catodon	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------RKVSTAAAISTQVL----PQPNALRDLFNCCLTFNHK
+KIPLQRLKSYG-ITSSQCLQAAV--------LFRTKLAEDISANPKEQWVWNYMKHLGQK
+PHTVKTW-----------------------------------------------------
+---------
+>ENSTTRP00000010122 ENSTTRG00000010680	98	CCL13	C-C motif chemokine ligand	Tursiops_truncatus	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------RKVS-TAPLCLLLTAAASSTQVL----TQPNALRDLFNCCFTFKHK
+QIPLQRLKSYG-ITSSQCPQAAV--------LFRTKLAKDIGANP-EKWVWNYMKHLGQK
+PHTLKTW-----------------------------------------------------
+---------
+>ENSAMEP00000006099 ENSAMEG00000005788	98	CCL13	C-C motif chemokine ligand	Ailuropoda_melanoleuca	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLTAAAFSTQVL----AQPDALNALFTCCFTFNNK
+KIPLRKLESYR-ITSSHCPREAV--------IFSTKLAKAICADPKEKWVQDYVKHLDQK
+SHSQRT------------------------------------------------------
+---------
+>ENSCAFP00000032928 ENSCAFG00000024205	97	CCL13	chemokine (C-C motif) ligand	Canis_lupus_familiaris	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLTAAILTTQVP----AQPDALSAYFTCCFTLI-K
+KISLQRLESYR-ITSSHCLRKAV--------IFSTKLAKAICADPKEKWVQDYVKHLDQR
+TQTPKT------------------------------------------------------
+---------
+>ENSFCAP00000022330 ENSFCAG00000026454	98	CCL13	C-C motif chemokine	Felis_catus	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MRVS-AALLCLLLAAAAFSLQAL----AQPGAFSALFPCCFTFNNK
+KIPLPKLTTYR-ITSSHCPQTAV--------IFRTKLAKEICADPKEKWVQEYVKQLSQK
+SRALKP------------------------------------------------------
+---------
+>ENSLCNP00005024904 ENSLCNG00005016189	98	CCL13	C-C motif chemokine	Lynx_canadensis	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MRVS-AALLCLLLAAAAFSLQAL----AQPGAFSALFPCCFTFNNK
+KIPLPKLTTYR-ITSSHCPQTAV--------IFRTKLAKEICADPKEKWVQEYVKQLSQK
+SHALKP------------------------------------------------------
+---------
+>ENSMPUP00000014735 ENSMPUG00000014846	98	CCL13	C-C motif chemokine	Mustela_putorius_furo	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-ATLLCLLLMATAFSPQVP----AQPDSLSSLFTCCFTFNNK
+KIPLRKLEGYR-ITSSHCPREAV--------IFSTKLAKAICADPKEKWVQDYVKHLNQK
+SHALRT------------------------------------------------------
+---------
+>ENSNVIP00000025424 ENSNVIG00000019676	98	CCL13	C-C motif chemokine ligand	Neovison_vison	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLMAAAFSPQVP----AQPDSLSSLFICCFTFNNK
+KIPLRKLESYR-ITSSHCPREAV--------IFSTKLAKAICADPKEKWVQDYVKHLNQK
+SHPLRT------------------------------------------------------
+---------
+>ENSPLOP00000011402 ENSPLOG00000008357	98	CCL13	C-C motif chemokine ligand	Panthera_leo	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MRVS-AVLLCLLLAAAAFSLQAL----AQPGAFSALFPCCFTFNNK
+KIPLPKLTTYR-ITSSHCPQRAV--------IFRTKLAKEICADPKEKWVQEYVKQLSQK
+SRALKP------------------------------------------------------
+---------
+>ENSSSUP00005028544 ENSSSUG00005018438	98	CCL13	C-C motif chemokine ligand	Suricata_suricatta	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MRVS-TALLCLLVTAAAFSTQAL----AQPDAFSALFTCCFTFNNK
+KVPLPKLTSYR-ITSSHCPQRAV--------IFRTKLAKEVCADPKEKWVQEYMKQLDQK
+SRAPKP------------------------------------------------------
+---------
+>ENSUMAP00000021372 ENSUMAG00000015615	98	CCL13	C-C motif chemokine ligand	Ursus_maritimus	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-ATLLCLRLIAAALSIQVL----AQPDALSALFTCCFTFNNK
+KIPLRKLESYR-ITSSHCPREAV--------IFSTKLAKAICADPKEKWVQDYVKHLDQK
+SHSQRT------------------------------------------------------
+---------
+>ENSVVUP00000028060 ENSVVUG00000020541	190	None	C-C motif chemokine	Vulpes_vulpes	360B	360	B
+------------------------------------------------------------
+------------------MVAHVCS-CFLCGLGSWKEIVPALLQPTASFLKFLE------
+------------NSG----SQPPAQQIQECSASQLDHDSAQANSSLGTPILSGSYKRQAG
+PPA-LQRGRDQAGNMKVS-AALLCLLLTAAILTTPVP----AQPDALGALFTCCFTFNNK
+KIPLQRLESYR-ITSSHCPRKAV--------IFSTKLAKAVCADPKEKWVQDYVKHLDQR
+TQTPKT------------------------------------------------------
+---------
+>ENSPVAP00000010873 ENSPVAG00000011533	98	CCL13	C-C motif chemokine ligand	Pteropus_vampyrus	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-VALLCLLLMVATFRIQVL----AQPDALSALSSCCFTFSNK
+KIPGQRLKSYR-ITSSRCAQKAV--------IFRTKLGKDICVDAKKKWVQNYVKYLDQK
+SHTQRT------------------------------------------------------
+---------
+>ENSDNOP00000027522 ENSDNOG00000047977	98	CCL13	C-C motif chemokine ligand	Dasypus_novemcinctus	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------SMKGS-VALLCLLLA-ASCSTRVL----AQPDALSALSTCCFIFNSK
+KIPLPKLQSYR-VTNSQCPQEAV--------IFRTKQAKEICANPEEKWVQNYMKQLDQK
+SQTLKV------------------------------------------------------
+---------
+>ENSSHAP00000016351 ENSSHAG00000013914	98	None	C-C motif chemokine	Sarcophilus_harrisii	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-RGILILVLIAAALCCQVH----ASPDGPDTP-VCCFIFTSK
+KIPSKLVVNYS-ATSNRCAKEAV--------IFITKQGLNICANPKEQWVQNIMKLLNSK
+KAKTQRP-----------------------------------------------------
+---------
+>ENSMODP00000023912 ENSMODG00000019162	99	None	C-C motif chemokine 3-like	Monodelphis_domestica	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-GAVLYLVLIIAALCCQVH----ASPYGPTTPTTCCFEFTSK
+KIPSKFVVSYG-ITGSRCSKEGV--------IFVTRRNFEICADPNEQWVQNIINDLDMK
+NAKTQSP-----------------------------------------------------
+---------
+>ENSPCIP00000040522 ENSPCIG00000029664	98	None	None	Phascolarctos_cinereus	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-RAVLTLALIAAALCCQVY----ASPDGPATP-TCCYDFTSK
+RIPSKLVVSYA-VTSSRCAKQGV--------IFVTKQGYNICANPKEQWVQHVMKQLDNK
+KAKTQSS-----------------------------------------------------
+---------
+>ENSVURP00010007880 ENSVURG00010006082	107	None	None	Vombatus_ursinus	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-GVVLSLVLIIAALCCQVH----ASPDGPSTPTTCCFEFTTR
+KIPLKLVVSYE-ITSSRCAKEAPLNKHLFFHSFVTRRGFQICTNPKEQWVQDIRNHLDKK
+NAKTQSP-----------------------------------------------------
+---------
+>ENSEEUP00000004463 ENSEEUG00000004921	98	CCL13	C-C motif chemokine	Erinaceus_europaeus	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-TVLLCLLLTAAAFSTQVL----TQPDAVNILSTCCFIFTNK
+KIPLKRLESYR-ITSSQCHQEAV--------IFRTKLAKEICADPKQKWVQNYMKHLSQK
+PHTLKM------------------------------------------------------
+---------
+>ENSECAP00000033652 ENSECAG00000034282	264	None	None	Equus_caballus	360B	360	B
+MSRCGAPLCPTPARSQKICGPIDASLIAELPGPEKRTERNRMCVWRGKPGHGTVPWITSC
+DECQHICALLARPGLLDGNSATGCS-LQLPSYISWKALWQPSLQ----LSRFGTPLHPNL
+TMTLPRQRSLWEPPP----SLLPIKGRQSCRAAEK-------------------LRPAQK
+PTTLRPKLPSSPSSMKVS-AALLCLLLTMATFSPQGL----AQPDALSALTACCFKFNSK
+KMPLQRLRSYR-ITGSQCPQEAV--------IFRTKLAKDVCADPKEKWVQNYMKYLAQK
+SPTRKT------------------------------------------------------
+---------
+>ENSCATP00000028280 ENSCATG00000037447	98	CCL13	C-C motif chemokine ligand	Cercocebus_atys	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLITAAFNPQGL----AQPDALNVPSICCFTFSSK
+KISLQRLKSYR-ITTSRCPQKAV--------IFRTKLGKEMCADPKEKWVQNCMKHLGQK
+AHTLKT------------------------------------------------------
+---------
+>ENSCSAP00000002645 ENSCSAG00000006348	98	CCL13	C-C motif chemokine ligand	Chlorocebus_sabaeus	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLITVAFNPQGL----AQPDALNVPSTCCFTFSSK
+KISLQRLKSYR-ITTSRCPQKAV--------IFRTKLGKEMCADPKEKWVQNCMKHLGQK
+AHTLKT------------------------------------------------------
+---------
+>ENSGGOP00000002835 ENSGGOG00000002887	98	CCL13	C-C motif chemokine ligand	Gorilla_gorilla	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AVLLCLLLITAAFNPQGL----AQPDALNVPSTCCFTFSSK
+KISLQRLKSYV-ITTSRCPQKAV--------IFRTKLGKEICADPKEKWVQNYMKHLGRK
+GHTLKT------------------------------------------------------
+---------
+>ENSP00000225844 ENSG00000181374	98	CCL13	C-C motif chemokine ligand	Homo_sapiens	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AVLLCLLLMTAAFNPQGL----AQPDALNVPSTCCFTFSSK
+KISLQRLKSYV-ITTSRCPQKAV--------IFRTKLGKEICADPKEKWVQNYMKHLGRK
+AHTLKT------------------------------------------------------
+---------
+>ENSMMUP00000012809 ENSMMUG00000009785	98	CCL13	C-C motif chemokine ligand	Macaca_mulatta	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLITAAFNPQGL----AQPDALNVPSTCCFTFSSK
+KISLQRLKSYR-ITTSRCPQKAV--------IFRTKLGKEMCADPKEKWVQNCMKHLGQK
+AHTLKT------------------------------------------------------
+---------
+>ENSMLEP00000021334 ENSMLEG00000034878	98	CCL13	C-C motif chemokine ligand	Mandrillus_leucophaeus	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLITAAFNPQGL----AQPDALNVPSICCFTFSSK
+KISLQRLKSYR-ITTSRCPQKAV--------IFRTKLGKEMCADPKEKWVQNCMKHLGQK
+AHTLKT------------------------------------------------------
+---------
+>ENSMICP00000034869 ENSMICG00000036035	95	CCL13	C-C motif chemokine	Microcebus_murinus	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVP-AALLGLLLLAAAFSPQGL----AQPDALNALATCCFTFSSR
+KIPLQRLKSYY-ITNSQCQQKAV--------IFRTKLGKEICADMKEKWVQSYVKHLKPK
+PTL---------------------------------------------------------
+---------
+>ENSPTRP00000065040 ENSPTRG00000043899	98	CCL13	C-C motif chemokine ligand	Pan_troglodytes	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AVLLCLLLITAAFNPQGL----AQPDALNVPSTCCFTFSSK
+KISLQRLKSYV-ITTSRCPQKAV--------IFRTKLGKEICADPKEKWVQNYMKHLGRK
+AHTLKT------------------------------------------------------
+---------
+>ENSPANP00000020017 ENSPANG00000023023	98	CCL13	C-C motif chemokine ligand	Papio_anubis	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLITAAFNPQGL----AQPDALNVPSTCCFTFSSK
+KISLQRLKSYR-ITTSRCPQKAV--------IFRTKLGKEMCADPKEKWVQNCMKHLGQK
+AHTLKT------------------------------------------------------
+---------
+>ENSTGEP00000018456 ENSTGEG00000014882	98	CCL13	C-C motif chemokine ligand	Theropithecus_gelada	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKVS-AALLCLLLITAAFNPQGL----AQPDALNVPSTCCFTFSSK
+KISLQRLKSYR-ITTSRCPQKAV--------IFRTKLGKEMCADPKEKWVQNCMKHLGQK
+AHTLKT------------------------------------------------------
+---------
+>ENSCPIP00010004663 ENSCPIG00010003634	91	None	None	Chrysolophus_pictus	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKG-PAAILSALLLLALCSSAVA----HL---DGLTTTCCISYVQR
+PIPRNVIPSAY-ITSSTCRLPAV--------VLVTKKGKEVCANPEESWVQKRLELFQNE
+GN----------------------------------------------------------
+---------
+>ENSLSDP00000016722 ENSLSDG00000012030	94	None	None	Lonchura_striata_domestica	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MKV-LAATLVTLLLLATLCPAEG----HLGESNGVPSTCCFSYQRQ
+PIPLRRVSSVF-VTSSSCSLPGV--------IVVTQKKKQVCADPRAAWVQQLQKHFQSL
+EN----------------------------------------------------------
+---------
+>ENSVKKP00000004868 ENSVKKG00000003617	91	None	None	Varanus_komodoensis	360B	360	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MTPS-TAALALLLLAAAACPQSQ----GQH-SKSDPSFCCFEFITK
+EIPLRKLRSYE-FTNFQCAKSAV--------VLILKNNQRRCADPQATWVKRRLQHLPPN
+------------------------------------------------------------
+---------

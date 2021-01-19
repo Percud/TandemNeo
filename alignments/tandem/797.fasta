@@ -1,0 +1,1140 @@
+>ENSPNAP00000020373 ENSPNAG00000004191	331	None	pulmonary surfactant-associated protein	Pygocentrus_nattereri	797A	797	A
+------------------------------------------------------------
+-------MP---PFKHSVLLLLLLEFLIS-----VAGDQPQPLT-CP-LYA---GVPGTP
+GHNGLPGRDGKDGK---DGPVGPKGQKGET------------------------------
+--GS-SVTGPPGKKGPAGDVGPPGVKGSKGEQGVGVRGPSGVAGPPGPKGQKGETGSAGP
+SVTGPPGAKGPAGNIGPPGVKGSKGEQGVGVRGPSGVAGPSGPKGQKGETGSTAN---VN
+EAAVVKTLL----------------SD----VQKLQSR--ISMLEK--------VLGFRA
+FRKVGQKYYISSGLVTTFDAGQSYCRGVKGELALPRNNEENQAVYQVLKQVS-QSETCFL
+GARESKVRGQYADTKG-QKITYTKWHPGQPNR-----LEEQCVCMGPSDQWHDYMCNS-K
+HLIICEIQ-----------------------
+>ENSCARP00000088968 ENSCARG00000043519	253	None	mannose-binding protein	Carassius_auratus	797A	797	A
+------------------------------------------------------------
+-------MAVLKLFLKAGLLLQFALQLLD-------GAEPQNLN-CP-AYC---SVPGTP
+GHNGLPGRDGR------DGAIGPKGEKGEP------------------------------
+--GV-SVQGPPGK-----------------------------AGPPGTAGEKGERGPSGP
+Q-------------------------------------------G---------S---PG
+RELLSDTLK----------------SE----MQQLNAK--IAMIEK--------VVSFNT
+FRKVGQKYYITDGVEATFDAGMKYCKDVGGTIVLPRTAFENQVLLKVSVSSGLGSKKPYI
+RTTDRETEGRFMDTEG-NQLTFTNWHPGQPDD-Y--KGVQDCGTITDSGLWDDVGCNG-Q
+HPIICEIEIR---------------------
+>ENSDARP00000089300 ENSDARG00000068220	251	mbl2	mannose binding lectin	Danio_rerio	797A	797	A
+------------------------------------------------------------
+-------MALLKLFLGALLLLQLVLQLLAG------AADPQSLN-CP-AYA---GVPGTP
+GHNGLPGRDGRDGR---DGATGPKGEKGEP------------------------------
+--GV-NVQGPPGK-----------------------------AGPPGPAGAKGERGPSG-
+------------------------------------------------------L---PG
+QDCMSDSLK----------------SE----LQKLSDK--IALIEK--------VVNFKT
+FKKVGQKYYVTDDVEETFDKGMQYCSSNGGALVLPRTLEEN-ALLKVFVSSA--FKRLFI
+RITDREKEGEFVDTDR-KKLTFTNWGPNQPDN-Y--KGAQDCGAIADSGLWDDVSCDS-L
+YPIICEIEIK---------------------
+>ENSSGRP00000078153 ENSSGRG00000039584	247	None	mannose-binding protein	Sinocyclocheilus_grahami	797A	797	A
+------------------------------------------------------------
+------QMALLKLFFKALLLLQF------------------NLN-CP-AYG---GVPGTP
+GHNGLPGRDGRDGK---DGAIGPKGEKGEP------------------------------
+--GLLSVQGPPGK-----------------------------AGPPGPAGEKGERGPSGP
+Q-------------------------------------------G---------S---PG
+RESISDSLK----------------SE----MQHLNAK--IAMIEK--------VVSFNT
+FRKVGQKYYITDGVEAIFDTGVQYCKDVGGTIVLPRTASENQALLKVSVSSGLGIKKPYI
+RTTDRETEGWFVDSEG-KLLTFKNWALGQPDD-Y--KGLQDCGTITDSGLWDDVGCNG-L
+HPIICEIEIR---------------------
+>ENSBBBP00000022312 ENSBBBG00000016126	248	None	mannose-binding protein	Bison_bison_bison	797A	797	A
+------------------------------------------------------------
+-------MFLFSSLPV-LLCL---VT-VSFS--NTKAVEDAQKT-CP-VVAC-----AIP
+VTNGTPGRDGRDGP---------KGEKGKP------------------------------
+GQGLRGSQGPPGK-----------------------------MGPPGNIGN---PGLPGP
+R----------------------------------------GYKGDRGDSSVAEAK-LAS
+LER---------------------------QIRDLRSE--LDHVKK--------LQTFSL
+GKKSGKKLYVTNREKMPFSSVKALCTALGATVATPKNAEENKAIQDMASD------TAFL
+GITDEVTEGQFMYVTG-GRLGYSNWKKNEPNNYG--S-GEDCVSLLPDGLWNDISCSS-S
+FLAICEFPA----------------------
+>ENSBTAP00000001165 ENSBTAG00000054761	248	MBL1	mannose binding lectin, liver	Bos_taurus	797A	797	A
+------------------------------------------------------------
+-------MFLFSSLPV-LLCL---VT-VSFS--NTKAVEDAQKT-CP-VVAC-----AIP
+VTNGTPGRDGRDGP---------KGEKGEP------------------------------
+GQGLRGSQGPPGK-----------------------------MGPPGNIGN---PGLPGP
+R----------------------------------------GYKGDRGDSSVAEAK-LAS
+LER---------------------------QIRDLRSE--LDHVKK--------LQTFSL
+GKKSGKKLYVTNREKMPFSSVKALCTALGATVATPKNAEENKAIQDMASD------TAFL
+GITDEVTEGQFMYVTG-GRLGYSNWKKNEPNNYG--S-GEDCVSLLPDGLWNDISCSS-S
+FLAICEFPA----------------------
+>ENSCWAP00000015216 ENSCWAG00000011807	241	MBL2	mannose binding lectin	Catagonus_wagneri	797A	797	A
+------------------------------------------------------------
+-------MSLFPPLHLLLLIV---MT-ASYT--ETENCETIQKT-CS-VIAC-----GSP
+GINGLPGKDGRDGA---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------VGPPGSPGI---PGLPGP
+M----------------------------------------GQKGDSGIDPGKEF-TLAS
+-----------------------------------QCH--SHFLIL--------GLIFSR
+GKQVGKKLYLTSGKKMTFHGVKSLCAQFQASVATPTNAEENKAIQELIDA------EAFL
+GITDEETEGQFVDLTG-KMVTYQNWNDGEPNNAD--S-AEHCVEILKDGKWNDISCSS-H
+FLAICEFPA----------------------
+>ENSDLEP00000011394 ENSDLEG00000008274	249	None	mannose-binding protein	Delphinapterus_leucas	797A	797	A
+------------------------------------------------------------
+-------MFPFLSLPVLLLCV---AT-ASCS--ETKACEDAQKT-CP-VVTC-----GIP
+VTNGTPGRDGRDGP---------KGEKGEP------------------------------
+GPGLRGLQGPPGK-----------------------------MGPQGNIGN---PGLPGQ
+K----------------------------------------GHKGDRGDSSVAEAK-LAD
+LEG---------------------------QIRSLKSQ--LDYVKK--------LQSFSL
+GKKSGKMLYVTNGEKMPFSKVKALCAELGATVATPKNAEENKAIQDMAPD------IAFL
+GITDEVTEGQFMYVTG-GRMGYSNWKKNEPNNQG--S-GEDCVLLLRDGLWNDISCSS-S
+FLAICEFPA----------------------
+>ENSPCTP00005008863 ENSPCTG00005006245	248	MBL2	None	Physeter_catodon	797A	797	A
+------------------------------------------------------------
+-------MFLFLSLPVL-LCV---VT-PSCS--ETKACEDAQKT-CS-VVTC-----GIP
+VTNGTPGRDGRDGA---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------MGPQGNIGN---PGLPGP
+K----------------------------------------GHKGDCGDSSVVEAK-LAN
+LEG---------------------------QIRSLESQ--LDHIKK--------SQSFSL
+GKKSGKKLYVTNGEEMPFSKVKALCAELGATVATPKNAEENKAIQDMASD------IAFL
+GITDEVTEGQFMYVTG-GRIGYSNWRKDEPNNQG--S-GEDCVHLRRDGLWNDISCSS-S
+FLAICEFPA----------------------
+>ENSTTRP00000002824 ENSTTRG00000003010	250	None	None	Tursiops_truncatus	797A	797	A
+------------------------------------------------------------
+-------MFLFLSLPVLLLCV---VT-TSCS--ETKACEDAQKT-CS-VVTC-----GIP
+VTNGTPGRDGRDGP---------KGEKGEP------------------------------
+GPGLRGLQGPPGK-----------------------------MGPQGNVGN---PGLPGP
+K----------------------------------------GHKGDRGDSSVHWPIRIIN
+VLK---------------------------SLPRIGNE--KLVLGG--------RESFSL
+GKKSGKTLYVTNGEKMPFSKVKALCAELGATVATPKNAEENKAIQDMAPD------IAFL
+GITDEVTEGQFMYVTG-GRMGYSNWKKNEPNNHG--S-GEDCVLLLRDGLWNDISCSS-S
+FLAICEFPA----------------------
+>ENSVPAP00000005340 ENSVPAG00000005750	245	MBL2	mannose binding lectin	Vicugna_pacos	797A	797	A
+------------------------------------------------------------
+-------MSLLPLLLLLLLIV---VT-ASCT--ETENCEN-VKT-CP-VIAC-----S-P
+GISG-PGKVGRDGA---------REKXXXX------------------------------
+XXXXXXXXXXXXX-----------------------------XXXXXXXXX---XXXXXX
+X----------------------------------------XXXXXXXXXXXDHI-TLAA
+S-----------------------------ERAALRSE--LDRIKK--------WLIFFQ
+GKQVGKKFFLSNGKEMTFAAVKALCAQSQASVATPMNAEENKAILVLASA------EAFL
+GITDEKTEGQFVDLTG-RELTYQNWDSHEPNNAD--S-GEDCVIILKNGKWNDITCSS-S
+FLAVCEFPAR---------------------
+>ENSNVIP00000003831 ENSNVIG00000003058	236	None	None	Neovison_vison	797A	797	A
+------------------------------------------------------------
+-------MLLFSSLPV-LLCV---LT-AANS--EAEVSGDVQKS-CS-VVTC-----AI-
+-----PGRDGRDGP---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPPGNVGAPGVPGAPGP
+K----------------------------------------GTKGDQGDSSGKEL-TPPG
+QP-----------------------------------L--PPIVIS--------VQTFSL
+GKKTGKKFYVTNGEEMTFSKVKALCAELQGTVASPRNANENKAIQDVAKS------TAFL
+GITDEVTEGQFMYVTG-ERLTYSNWNTGEPND-A--S-GEDCVTILEDGLWNDISCGI-P
+HLAVCEFPA----------------------
+>ENSSSUP00005031255 ENSSSUG00005020178	216	None	None	Suricata_suricatta	797A	797	A
+------------------------------------------------------------
+-------MFLSSSLPVLLLCM---LT-ASSS--EIKISEDALKT-CS-AITC-----GI-
+-----PGRDGRDGP---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------MGPPGHIGI---PGVPGQ
+K----------------------------------------GSKGDRGYSSAVET-KLDN
+LET---------------------------EMRKLKSE--LDHVKK--------L-----
+---------------------KALCAELQATVATPRNAEENKAIQDVARS------TAFL
+GITDEVTEGQFMYVTG-GRLAYSNWKKNEPNDHG----GEDCVTLLEDGFWNDISCSS-S
+FLAVCEFPA----------------------
+>ENSUMAP00000019222 ENSUMAG00000014120	240	None	None	Ursus_maritimus	797A	797	A
+------------------------------------------------------------
+-MSVFRTMLPSSSLPILLVCV---LT-AAGS--EAEASVDAQKT-CP-AITC-----AV-
+-----PGRDGRDGP---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------MGPPGHP---GPAGALGP
+K----------------------------------------GSKGDRGDSSGKDS-KPS-
+-----------------------------------QPL--PSIVIS--------VQSFSL
+GKKTGKKFYVTNGEKMPFSKVKALCVELQGTVATPKNAEENKAIQDVAKD------IAFL
+GITDEVTEGRFVYVTG-QGLTYSNWKKNEPNNHG--S-GEDCVILLEDGLWNDISCQA-S
+FLAICEFPA----------------------
+>ENSMLUP00000007593 ENSMLUG00000008329	247	MBL2	mannose-binding protein	Myotis_lucifugus	797A	797	A
+------------------------------------------------------------
+-------MALFPSLSLLLLSV---VT-TSYS--EIEPDENLQKT-CP-VITC-----ASP
+GINGLPGRDGRDGP---------KGEKGEP------------------------------
+GQGLRGIQGPPGK-----------------------------LGPQGNPGP---PGLPGS
+V----------------------------------------GQKGDPGKCPERDD-RLAA
+L-----------------------------EREALRSE--LERVKE--------WLAFGL
+GKQVGKKFFLTNRQKMSFDKVKAVCTHFHASVATPMNAEENTAILHITGG------DAFL
+GITDEEKEGHFVDLTG-RPVAYQNWNDNEPNNAG--S-GEHCVMIRTDGTWNDINCTA-S
+LLAACEFSV----------------------
+>ENSPVAP00000015590 ENSPVAG00000016522	249	None	None	Pteropus_vampyrus	797A	797	A
+------------------------------------------------------------
+-------MFRFSSLPVL-MCV---VT-VSCS--ETKTCEDAQKT-CS-VITC-----GIP
+VTNGTPGRDGRDGP---------KGEKGEP------------------------------
+GQGLRG-QGPPGK-----------------------------FGPPGNTGA---PGLQGA
+K----------------------------------------GQKGDRGDISVYSPIKTIK
+ILK---------------------------RLPGIKNER-ERVFGR--------VEIFSL
+GKKSGKKLYVTNGEIMPFSKVKTLCTELQATVATPKNAEENKAIQDVAKN------TAFL
+GITDEVTEGQFMYMTG-GRLTYSNWKRDEPNDHG--S-GEDCVILLTDGLWNDISCSS-S
+FLAVCEFPA----------------------
+>ENSDNOP00000033841 ENSDNOG00000036947	255	None	mannose-binding protein	Dasypus_novemcinctus	797A	797	A
+------------------------------------------------------------
+-MPTARTMHLFPSLLALLLCV---AT-ASSL--GKEACEDALKS-CS-VITC-----GVP
+VTNGTPGRDGRDGP---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------MGSPGGTGS---PGLRGP
+K----------------------------------------GQKGDHGDNAASEAK-LAD
+LQR---------------------------EIQSLKSE--LDHTRN--------LLTFSL
+GKKSGKKLYVTSGEKMTFSKVKALCAQLGATVATPKNAEENKAIQDVAND------HAFL
+GITDELTEGQFMYVTG-GRLTYSNWKKNEPNNHG--S-EEDCVLLLKEGLWNDISCSS-S
+FLAVCEFPA----------------------
+>ENSSHAP00000000050 ENSSHAG00000000047	164	None	mannose-binding	Sarcophilus_harrisii	797A	797	A
+------------------------------------------------------MPK--A
+TSSKSEKMYLLATLQFLMLALSLTMA-S-----EECECEPKPNT-CN-IMPC-----GLP
+GSNGLPGRDGNQGP---------KGEKGDR------------------------------
+--GERGTLGPPGK-----------------------------VGPMGIK------GDQGP
+L----------------------------------------GPKGPKGDKGDSQE--LIQ
+LKAQMSALQ--------------------EEMRMLKDL--INKYKKVL--------ILSD
+IKIVDQTFYMVVASEETFEEG---------------------------------------
+------------------------------------------------------------
+-------------------------------
+>ENSMODP00000001816 ENSMODG00000001491	277	MBL2	mannose-binding protein	Monodelphis_domestica	797A	797	A
+------------------------------------------------------------
+-------MALFSWVTFLLLIM---IK-TNYS--ETIVSEKTEHTCCCSLVSC-----GTP
+GANGAPGKDGRDGL---------KGEKGEP------------------------------
+GQGLRGIQGPPGK-----------------------------VGPPGPPGS---QGAPGP
+K----------------------------------------GLKGDKGDSSVSLA-KLST
+LEGKIQDLERKMEKINESVLKLVTASN--TQIQNLQAQ--MNRNKK--------VLAFSV
+GKKAGNKLFITNGERDTFDKVKALCEQLEATVATPKNREENKVIQDLAGGI-----SAFL
+GITDREQEGQFTYLTG-GRLIYTNWKKNEPNDYE--P-GEDCVLMQSDGLWNDISCTS-S
+LLTVCEFPA----------------------
+>ENSPCIP00000037164 ENSPCIG00000027411	276	MBL2	mannose binding lectin	Phascolarctos_cinereus	797A	797	A
+------------------------------------------------------------
+-------MAVFSWFPLLLIIM---VK-TDYS--EPVLSERTELP-CCSLVSC-----GTP
+GANGAPGKDGRDGL---------KGEKGEP------------------------------
+GQGLRGIQGPPGK-----------------------------MGPPGQQGS---AGVPGL
+R----------------------------------------GLKGDKGDSSVSLN-KLST
+LERKIQHLETQLENIKESFLRLATTSD--KQIQTLQAQ--VEKNKN--------LLAFSL
+GKKVGKKLFLTNREKANFDRVKVLCEQVEATIATPKNAEENKAIQNLANGT-----PAFL
+GITDKVQEGQFVYITG-ERMTYTNWRENEPNNHG--S-GEDCVLLNNDGSWNDISCTT-S
+LLAVCEFPV----------------------
+>ENSVURP00010018980 ENSVURG00010014458	276	MBL2	mannose binding lectin	Vombatus_ursinus	797A	797	A
+------------------------------------------------------------
+-------MAVFSWFPLLLIIM---AK-TDYS--EPVLSERTEQT-CCSLVSC-----GTP
+GANGAPGKDGRDGL---------KGEKGEP------------------------------
+GQGLRGIQGPPGK-----------------------------MGPPGQPGS---KGVPGL
+P----------------------------------------GLKGDRGDSSVSLN-RLSA
+LERKIQRLETQLENINESFLKLITVSS--KQIEILQAQ--VDKNKN--------ILTFSV
+GKKVGKKLFLSNGEKANFDRVKVLCEQFGATIAIPKNGEENKAIQDLAKDT-----PAFL
+GITDKVQEGQFVYITG-ERMTYTNWKKNEPNDYG--S-GEDCVLLNSDGSWNDISCTT-S
+LLAVCELPA----------------------
+>ENSEEUP00000003364 ENSEEUG00000003716	245	MBL2	mannose binding lectin	Erinaceus_europaeus	797A	797	A
+------------------------------------------------------------
+---------MWIFLPLLL----LMVTASC---SEIEESDNTRKN-CP-AMAC-----CPA
+GLNGLPGRDGRDGI---------KGEKGEP------------------------------
+GQGLRGIQGPPGK-----------------------------VGPPGPRL--SGSGAMGQ
+K----------------------------------------GDPGDRPXXXXXXX--XXX
+XXXXXX-------------------------------X--XXXXXX--------XMAFAM
+GKKVGNKFFLYSVAMMTFDEVKTLCAHFQATMPVPRNEEENKAIQSLAK-----EKTPFL
+GITDQEIEGQFVDMAG-NTITYKNWNDGEPNN-AGPPPGEDCVVLLTNGKWNDATCST-S
+APAICEFSI----------------------
+>ENSOANP00000050819 ENSOANG00000044423	253	None	None	Ornithorhynchus_anatinus	797A	797	A
+------------------------------------------------------------
+-------MSPLESLSLLVLGLSLGMAQ-S---LVSMKCEEISKI-CN-GNLC-----CIP
+GQNGLPGQNGRDGL---------PGLPGLK---------------------------GEK
+GESLRGIQGPPGK-----------------------------AGPQGPA------GPEGP
+K----------------------------------------GLKGDVGECPV-N------
+-QDLLTNLQ--------------------GEIQALQSE--LNRIKK--------FLIFIK
+GKRVGTKQYVSRDEETTFANVKVLCEEINAAVALPKNAEENRAIQALAM-----KKKAFL
+GMTDEKTEGKYLSMTG-EKVTYTNWKSGEPNN-L--GGKENCVIILEDGEWNDVPCSYSH
+GITVCEFPA----------------------
+>ENSECAP00000020459 ENSECAG00000023001	249	None	mannose-binding protein	Equus_caballus	797A	797	A
+------------------------------------------------------------
+-------MFPFSALPVLLLWV---VT-ASGS--GKTACEDAQKT-CS-VITC-----GIP
+VTNGTPGRDGRDGA---------KGEKGEP------------------------------
+GQGPRGLQGPPGK-----------------------------LGPPGNTGV---PGPPGA
+K----------------------------------------GQKGDRGDSSVAES-KLAN
+LEQ---------------------------ELRTLKSE--LDHIKK--------LQFFSL
+GKKSGTKLYVTNGEKMPFSKVKALCAELRAFVATPKNAEENKAIQNVANG------VAFL
+GITDESTEGKFEYVTG-GRLAYSNWKSNEPNNHS--W-GEDCVVLLQDGLWNDIACSS-S
+FTAVCEFPA----------------------
+>ENSCHOP00000010244 ENSCHOG00000011595	234	None	None	Choloepus_hoffmanni	797A	797	A
+------------------------------------------------------------
+-------MHLFPSLLFLFLWV---AP-ASCS--ETKTCEDAQKT-CS-VVAC-----GIP
+VTNGTPGKDGRDGP---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------MGPPGNTGS---PGSLGP
+R----------------------------------------GQKGDRGDSAG--------
+-------------------------------------KR-LQVLGR--------VQTFSL
+GKKSGKKLYVTNGEMTPFSRVKALCTQLQGTVATPKNAEENKAIQDVATD------IAFL
+GITDEVTEGQFMYVTG-GKLTYSNWRKNEPNDHG--SGGEDCVILLRDGNWNDISCSS-S
+FQVVCEFPA----------------------
+>ENSCJAP00000009131 ENSCJAG00000005002	261	MBL2	mannose binding lectin	Callithrix_jacchus	797A	797	A
+------------------------------------------------------MMGCLK
+TAQLVRTMSLFPSLPLLLLSV---LV-ASYS--ETVTSEDAQKT-CPTVIAC-----SSP
+GINGFPGKDGRDGT---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPPGNPGP---SGSPGA
+K----------------------------------------GQKGDPGASPDCDS-SLAN
+P-----------------------------ERKTLQTE--INRIKK--------WVTFSL
+GKQVGKKLFLTNGETMTFDKVKALCAQFQASVATPMNQAENTALQSLVKE------EAFL
+GITDEETEGQFVDLTG-RRLTYTNWNKGEPNNAD--S-REDCVVLLRSGGWNDVPCSS-S
+HLVICEFPV----------------------
+>ENSCATP00000001247 ENSCATG00000006043	253	MBL2	mannose binding lectin	Cercocebus_atys	797A	797	A
+------------------------------------------------------------
+MALEGR--TLFPSLTLLLLSV---VA-TSYS--ETVTCEDSQKI-CPAVIAC-----NSP
+GINGFPGKDGRDGT---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPPGNPGS---SGSPGP
+K----------------------------------------GQKGDPGESPDCES-SLAA
+S-----------------------------ERKALQTE--MARIKK--------WLTFSL
+GRQVGNKFFLTNGEMMTFDKVKALCAEFQASVATPRNAAENRAIQNLIKE------EAFL
+GITDENTEGEFVDLTG-NKLTYTNWNGGEPNNAG--S-NEDCVLLLKNGKWNDVPCSS-S
+HLALCEFPI----------------------
+>ENSCSAP00000003327 ENSCSAG00000007052	255	MBL2	mannose binding lectin	Chlorocebus_sabaeus	797A	797	A
+------------------------------------------------------------
+MALEGRTMSLFPSLTLLLLSV---VA-TSYS--ETVTCEDSQKI-CPAVIAC-----NSP
+GINGFPGKDGRDGT---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPPGNPGS---SGSPGP
+K----------------------------------------GQKGDPGESPDCES-SLAA
+S-----------------------------ERKALQTE--MARIKK--------WLTFSL
+GRQVGNKFFLTNGEMMSFDKVKALCAKFQASVATPRNAAENRAIQNLIKE------EAFL
+GITDENTEGEFVDLTG-NKLTYTNWNNGEPNNAG--S-NEDCVLLLKNGKWNDIPCSS-S
+HLALCEFPI----------------------
+>ENSGGOP00000039651 ENSGGOG00000039764	248	MBL2	Mannose-binding protein C	Gorilla_gorilla	797A	797	A
+------------------------------------------------------------
+-------MSLFPSLPLLLLSM---VA-ASYS--ETVTCEDAQKT-CPAVIAC-----SSP
+GINGFPGKDGRDGT---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPPGNPGP---SGSPGP
+K----------------------------------------GQKGDPGKSPDGDS-SLAA
+S-----------------------------ERKALQTE--MARIKK--------WLTFSL
+GKQVGNKFFLTNGEIMTFEKVKALCVKFQASVATPRNAAENGAIRNLIKE------EAFL
+GITDEKTEGQFVDLTG-NRLTYTNWNEGEPNNAG--S-DEDCVLLLKNGQWNDVPCST-S
+HLAVCEFPI----------------------
+>ENSMMUP00000054006 ENSMMUG00000046929	255	MBL2	mannose binding lectin	Macaca_mulatta	797A	797	A
+------------------------------------------------------------
+MALEGRTMSLFLSLTLLLLSV---VA-TSYS--ETVTCEDSQKI-CPAVIAC-----NSP
+GINGFPGKDGRDGT---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPPGNPGS---SGSPGP
+K----------------------------------------GQKGDPGESPDCES-SLAA
+S-----------------------------ERKALQTE--MARIKK--------WLTFSL
+GRQVGNKFFLTNGEMMTFDKVKALCAEFQASVATPRNAAENRAIQNLIKE------EAFL
+GITDENTEGEFVDLTG-NKLTYTNWNDGEPNNAG--S-NEDCVLLLKNGKWNDIPCSS-S
+HLALCEFPI----------------------
+>ENSMLEP00000027573 ENSMLEG00000038002	248	MBL2	mannose binding lectin	Mandrillus_leucophaeus	797A	797	A
+------------------------------------------------------------
+-----M--SLFPSLTLLLLSV---VA-TSYS--ETVTGEDSQKI-CPAVIAC-----NSP
+GINGFPGKDGRDGT---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPPGNPGS---SGSPGP
+K----------------------------------------GQKGDPGESPDCES-SLAA
+S-----------------------------ERKALQTE--MARIKK--------WLTFSL
+GRQVGNKFFLTNGEMMTFDKVKALCAEFQASVATPRNAAENRAIQNLIKE------EAFL
+GITDENTEGEFVDLTG-NKLTYTNWNGGEPNNAG--S-NEHCVLSLKNGKWNDVPCSS-S
+HLALCEFPI----------------------
+>ENSPANP00000020512 ENSPANG00000022003	255	MBL2	mannose binding lectin	Papio_anubis	797A	797	A
+------------------------------------------------------------
+MALEGRTMSLFPSLTLLLLSV---VA-TSYS--ETVTCEDSQKI-CPAVIAC-----NSP
+GINGFPGKDGRDGT---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPPGNPGS---SGSPGP
+K----------------------------------------GQKGDPGESPDCES-SLAA
+S-----------------------------ERKALQTE--MARVKK--------WLTFSL
+GKQVGNKFFLTNGEMMTFDKVKALCAKFQASVATPRNAAENRAIQNLIKE------EAFL
+GITDENTEGEFVDLTG-NKLTYTNWNGGEPNNAG--S-NEDCVLLLKNGKWNDIPCSS-S
+HLALCEFPI----------------------
+>ENSTGEP00000006945 ENSTGEG00000005674	248	MBL2	mannose binding lectin	Theropithecus_gelada	797A	797	A
+------------------------------------------------------------
+-------MSLFPSLTLLLLSV---VA-TSYS--ETVTCEDSQKI-CPAVIAC-----NSP
+GINGFPGKDGRDGT---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------FGPPGNPGS---SGSPGP
+K----------------------------------------GQKGDPGESPDCES-SLAA
+S-----------------------------ERKALQTE--MARVKK--------WLTFSL
+GKQVGNKFFLTNGEMMTFDKVKALCAKFQASVATPRNAAENRAIQNLIKE------EAFL
+GITDENTEGEFVDLTG-NKLTYTNWNGGEPNNAG--S-NEDCVLLLKNGKWNDIPCSS-S
+HLALCEFPI----------------------
+>ENSCPOP00000002167 ENSCPOG00000002383	245	MBL2	mannose binding lectin	Cavia_porcellus	797A	797	A
+------------------------------------------------------------
+-------MSLFSAFLLLLLSI---SK-THS---ESVPSEN-AQT-CP-VIAC-----GSP
+GLNGFPGKDGHDGA---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPPGPPGV---PGTRGL
+T----------------------------------------GQKGDPGVCPVCDT-SMAD
+R-----------------------------EKNALRNE--LEKIKK--------WLFFSL
+GKKVGKKFFLSSGQQMSFDKVKALCAQFQGSVASPKNAEENRAIKNVVGE------HAFL
+GITDEENEGQFVDMEG-KRLTYTNWNTGEPNNSD--S-GEDCVVLLSDGKWNDIPCSS-V
+SKVVCEFSV----------------------
+>ENSCLAP00000001239 ENSCLAG00000000944	248	None	mannose-binding protein	Chinchilla_lanigera	797A	797	A
+------------------------------------------------------------
+-------MLLFLWLPVL-LCM---VR-SCCS--ETKACEEAHKA-CS-VITC-----NVP
+VTNGTPGRDGRDGP---------KGEKGDP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPPGKTGG---SGPAGS
+K----------------------------------------GQKGERGDSSVAES-KMAN
+LER---------------------------EIRELKSE--LDRIKK--------LQDFSL
+GKKSGKKFYVTNGEKMTFVKVKALCTELGGTVATPRNAEENKAIQEMASD------SVFL
+GITDEVTEGQFMYVTG-GRLAYSNWKSNEPNDYG--K-GEDCVILKTSGLWNDLSCTA-T
+CLAVCEFSA----------------------
+>ENSMAUP00000015232 ENSMAUG00000014755	235	Mbl1	mannose-binding protein	Mesocricetus_auratus	797A	797	A
+------------------------------------------------------------
+-------MLLLPSLPVLVLCV---VG-ISSS--KSQTCEDALKT-CP-VIAC-----G--
+-------RD---GP---------KGEKGEP------------------------------
+GQGLRGAQGPPGK-----------------------------VGPPGNVGF---PGLPGA
+K----------------------------------------GQKGDRGHN--VEA-KLAN
+LEA---------------------------EIRILKSE--LEHTKK--------LHAFSM
+GKKSGKKLFLTNRETMTFAKVKALCTQLRGTVAIPRNAEENQAIQEVAKG------NAFL
+GITDEVTEGQFMYVTG-GNIAYSNWKKNEPNNYG--S-GEDCVVMVEGGIWNDISCQA-S
+FIAVCEFPA----------------------
+>ENSMUSP00000153147 ENSMUSG00000037780	239	Mbl1	mannose-binding lectin (protein A)	Mus_musculus	797A	797	A
+------------------------------------------------------------
+-------MLLLPLLP-VLLCV---VS-VSSS--GSQTCEDTLKT-CS-VIAC-----G--
+-------RDGRDGP---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPPGSVGS---PGSPGP
+K----------------------------------------GQKGDHGDNRAIEE-KLAN
+MEA---------------------------EIRILKSK--LQLTNK--------LHAFSM
+GKKSGKKLFVTNHEKMPFSKVKSLCTELQGTVAIPRNAEENKAIQEVATG------IAFL
+GITDEATEGQFMYVTG-GRLTYSNWKKDEPNNHG--S-GEDCVIILDNGLWNDISCQA-S
+FKAVCEFPA----------------------
+>ENSODEP00000018165 ENSODEG00000013389	238	MBL2	mannose binding lectin	Octodon_degus	797A	797	A
+------------------------------------------------------------
+-------MSLFAP-LLLLLGV---SM-LHS---ETVTDED-VRT-CP-VVTC-----ASP
+GLNGFPGKDGHDGA---------KGEKGEP------------------------------
+GEGLRGLQGPPGK-----------------------------LGPPGPPGS---PGTKGA
+M----------------------------------------GLKGDPGQCPGKKN-TPES
+Q-----------------------------CHP-------L-FPIL--------GLFFSL
+GKKVGKKFYLSRHERRSFDRVQALCTQFQASVPTPRNAEENRAIRNVAHE------NPFL
+GITDERNEGEFVDRKG-IRPSYTNWNNGEPNNAG--S-NEDCVAILRDGKWNDVPCSD-A
+FEAVCEWSV----------------------
+>ENSPEMP00000018982 ENSPEMG00000017415	240	Mbl1	mannose-binding protein	Peromyscus_maniculatus_bairdii	797A	797	A
+------------------------------------------------------------
+-------MLLLPSLPALLLCV---VA-ISSS--KSQTCEDALKS-CS-VIAC-----G--
+-------RDGRDGP---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------VGPPGNAGA---PGISGP
+K----------------------------------------GQKGDPGHSAAIEA-KLLN
+LEA---------------------------EVRTLKSE--LEHTKK--------LHAFSM
+GKKSGKKFFVTNRETMPFSKVKALCAGLRGNVAIPRNAEENKAIQEVAKG------NAFI
+GITDEVTEGQFMYVTG-GKLTYSNWKQNEPNDHG--S-GEDCVIMSESGIWNDIACQS-S
+FIAVCEFPA----------------------
+>ENSRNOP00000015723 ENSRNOG00000011706	238	Mbl1	mannose-binding lectin (protein A)	Rattus_norvegicus	797A	797	A
+------------------------------------------------------------
+-------MLLLPL-L-VLLCV---VS-VSSS--GSQTCEETLKT-CS-VIAC-----G--
+-------RDGRDGP---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPPGSVGA---PGSQGP
+K----------------------------------------GQKGDRGDSRAIEV-KLAN
+MEA---------------------------EINTLKSK--LELTNK--------LHAFSM
+GKKSGKKFFVTNHERMPFSKVKALCSELRGTVAIPRNAEENKAIQEVAKT------SAFL
+GITDEVTEGQFMYVTG-GRLTYSNWKKDEPNDHG--S-GEDCVTIVDNGLWNDISCQA-S
+HTAVCEFPA----------------------
+>ENSTBEP00000008977 ENSTBEG00000010403	239	MBL2	mannose binding lectin	Tupaia_belangeri	797A	797	A
+------------------------------------------------------------
+------------SLPLLLLSV---VT-LSYS--ETENDESVRNT-CP-VIAC-----SAP
+GMNGFPGKDGRDGA---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------VGPPG---P---PGVPGA
+V----------------------------------------GQKGDRGDSSGYDS-GPAD
+A-----------------------------ERQALRSE--LEQVKN--------WLLFSL
+GKKVGKKLYLIKNKEMTFNSVKNLCAQFQGSVATPRNAEENEAIQSLVSA------DIFL
+GFTDEVTEGNFVDLVG-RSMTYKNWAEGEPNNAN--S-GENCVVLLKDGKWNDVPCSF-S
+YQAVCEFPA----------------------
+>ENSPMRP00000004490 ENSPMRG00000003072	243	MBL2	mannose-binding	Podarcis_muralis	797A	797	A
+------------------------------------------------------------
+--------MYLRIFIALMLGTSPALATD------S-----ETNT-CT-VMAC-----GNP
+GIPGLPGRDGRDGP---------KGEKGDQ------------------------------
+GVQVRGQQGFPGK-----------------------------AGPPGLP------GIAGP
+P----------------------------------------GQKGQKGEMA---A--ITS
+TQQQLTALE--------------------KKIQTLQAD--LTKYKK--------IVMLQQ
+-VKVGEKFFVSTGQELTYSNGKRLCENGGAALATPKNAAENAALAEIVKRN---SKIVFL
+GINDIQTEGRFVYVNG-APLSYTNWKQGEPNN-S--GNKEDCVTIVEDGQWNDLDCER-K
+TLTVCEL------------------------
+>ENSPTXP00000015379 ENSPTXG00000010625	254	None	mannose-binding	Pseudonaja_textilis	797A	797	A
+------------------------------------------------------------
+--------MLLCPFYTLVLAVSLVKS-SD---PETCRCEEKVNI-CT-VVPGINGLPGTP
+GSNGLPGRDGKEGP---------PGPKGDS------------------------------
+--GLKGIQGPPGK-----------------------------AGPPGSK------GDEGL
+K----------------------------------------GEKGDR----AGKE--LDV
+LKTQIRDLQ--------------------AELKVLKET--ARKNQEDIQ-----ESAFPT
+FTIIGTKKFASNGGEANFDTAKATCSKFRGKLASPRNEEENAALAKLASKF---GKNSFL
+GMTDQETEGTFKHLNG-DPMRYSQWADGEPNG-----EEEDCIELYQDGQWNDVTCNA-N
+RLIICEF------------------------
+>ENSVKKP00000012011 ENSVKKG00000008353	244	None	None	Varanus_komodoensis	797A	797	A
+------------------------------------------------------------
+-------MMCLQILCIILLATTKVWA-TD---HDECRCEERINT-CI-VRD------GVP
+GANGLPGRDGLPGP---------KGEKGEQ------------------------------
+--GLRGIQGPPGK-----------------------------AGPPGPK------GDRGP
+S----------------------------------------GDKASTDS--VHAE--LEQ
+LKTQMKLLE--------------------ARIQA---------SQGATT-----SKKVPP
+GVRVGEKTFSPY-YRHGYDGAKFLCEQNGGTVASPRNAAENRALQQLVKAQ---KKSAIL
+GINDREVEGSFRYPSG-ENISFTNWAPNEPNN----SNNEDCVQLLDNGFWNDNSCDG-D
+YLFICEY------------------------
+>ENSCARP00000000561 ENSCARG00000000388	258	None	pulmonary surfactant-associated protein	Carassius_auratus	797B	797	B
+------------------------------------------------------------
+-----MALLLLKPFLWALLLLQFALQLLD-------GAEPQNLN-CP-AYG---GVPGTP
+GHNGLPGRDGRDGK---DGAIGPKGEKGES------------------------------
+--GV-SVQGPPGK-----------------------------AGPPGTAGEKGERGPSGP
+Q-------------------------------------------G---------S---PG
+SESVLESLK----------------SE----IQQLKAK--IATFEK--------VSSVCH
+FRKVGQKYYITDGVVGNFDQGLKFCKDFGGTMVSPRTSAENQALLKLVVSSGLGSKKPYI
+GVTDRKTEGQFVDTEG-KQLTFTNWGPGQPDD-Y--KGLQDCGVIEDTGLWDDGGCGD-I
+RPIMCEIDIK---------------------
+>ENSCCRP00000005840 ENSCCRG00000003462	141	hbl2	hexose-binding lectin	Cyprinus_carpio	797B	797	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------WK----------------CEDFRVLRFYTKY--CSIFRV--------SWNVGH
+FRQVGQKYYITDGVVGTFDQGLKFCKDF-----------ENQALLKLVVSSGLSSKKPYI
+GVTDRETEGRFVNTEG-KQLTFTNWGPGQPDD-Y--KGLQDCGVIEDTGLWDDGSCGD-I
+RPIMCEIDNK---------------------
+>ENSDARP00000119245 ENSDARG00000094681	253	hbl2	hexose-binding lectin	Danio_rerio	797B	797	B
+------------------------------------------------------------
+-------MALLKLFLGVFLLLQLVLHVLVG------AAEPQTLN-CP-IYA---GVPGVP
+GHNGLPGRDGKDGR---DGATGPKGEKGEP------------------------------
+--GV-SVQGPPGK-----------------------------AGPPGLDGPQGERGPPG-
+------------------------------------------------------S---HG
+SESVIESLK----------------SE----IQNLKAE--IDTIEK--------AASFSN
+FRRVGQKYYVTDGILGNFNDGIKFCKDAGGTLVVPKTAAENQALVRVSVSSALSTGKPYI
+GVTDRETEGQFVDIEG-KQLTFTNWGPGQPDD-Y--RGGQDCGVIEVSGTWDDGNCGD-I
+RPIICEIDM----------------------
+>ENSHHUP00000086444 ENSHHUG00000050032	252	hbl4	hexose-binding lectin	Hucho_hucho	797B	797	B
+------------------------------------------------------------
+-------MALPRLILSILLTSQLTVYLPSEAQKQTPPPPTSSPS-CL-AYP---GVPGSP
+GHNGLPGRDGRDGH---DGVTGPKGEKGDP------------------------------
+--GGIGAQGPPGD-----------------------------VGPAGPKGEIGEPGDA--
+-----------------------------------------------------------G
+GNSVISHLL----------------AE----IQQLKAR--QSNLEK--------AASFRV
+FQKAGDKYFVSNGVLGSFDEGLKFCNNFGATLAMPRNDVENQALSKFIVGAS----YGFL
+GATDRKTEGVWVDLND-EPLTYLDWHSGEPNSGG--NGIEDCIATTTSGPWVDITCDA-N
+SVIICEI------------------------
+>ENSOTSP00005062920 ENSOTSG00005030114	252	None	None	Oncorhynchus_tshawytscha	797B	797	B
+------------------------------------------------------------
+-------MAMPRLFLNILLTSQLTVFLPSEAQKQTPPPHTSSLS-CP-AYP---GVPGIP
+GHNGLPGRDGRDGH---DGVTGPKGEKGHP------------------------------
+--GGIGVQGPPGD-----------------------------VGPAGPKGEIGESGDA--
+-----------------------------------------------------------G
+SNSVISHLL----------------AE----IQQLKAR--QANLEK--------AASFRV
+FQKAGDKYLVSNGVLGSFDEGLKFCSNVGATLVMPRNDVENQALSKFIVGAS----YGFL
+GATDRKTEGVWVDLND-EPLTYLDWHSGEPNSGG--NGIEDCIATTTSGPWVDITCDA-N
+IVIICEI------------------------
+>ENSSTUP00000055617 ENSSTUG00000023600	250	hbl4	pulmonary surfactant-associated protein	Salmo_trutta	797B	797	B
+------------------------------------------------------------
+-------MAMPRLFLSILLTSQLTVYLPSEAQ--IPPLPTSSPS-CP-AYP---GVPGTP
+GHNGLPGRDGRDGH---DGVTGPKGEKGLP------------------------------
+--GGIGAQGPPGD-----------------------------VGPAGPKGEIGEPGDA--
+-----------------------------------------------------------G
+GNSVISHLL----------------AE----IQQLKAR--QANLEK--------AASFKV
+FQKAGDKYLVSNGVLGSFDEGLKFCNNFGATLVMPRNDVENQALSKFIVGAS----YGFL
+GATDRKTEGVWVDLND-EPLTYLDWLSGEPNSGG--NGIEDCIATTTSGPWVDITCDA-N
+IVIICEI------------------------
+>ENSLOCP00000020694 ENSLOCG00000016745	255	hbl4	hexose-binding lectin	Lepisosteus_oculatus	797B	797	B
+------------------------------------------------------------
+-------MPLSR--RWPVLLTSVTLLLLEL--CPGLAAEAPTST-CS-GYP---GIPGSP
+GNNGVPGRDGRDGKDGRDGASGLKGEKGEK------------------------------
+--GESGAFGPPGK-----------------------------FGPSGPAGMKGQKGEPGP
+S-------------------------------------------A---------I---LE
+R-RYIDKLQ----------------SE----VDMLKIS--LSRLEK--------AAHFQF
+FRRSGNKYFGSNKEPGTFEQGLKICRDAGGKIATPGSQVENNALSKFLAESQ----YAYI
+GANDRTTEGTFVDLEN-KPLQFTSWKDGEPNN-F--KGKEDCAIILTTGIWNDVPCDL-K
+YIIICEF------------------------
+>ENSBBBP00000018754 ENSBBBG00000011792	249	MBL2	mannose binding lectin	Bison_bison_bison	797B	797	B
+------------------------------------------------------------
+-------MSLFTSLPFLLLTA---VT-ASCADTETENCENIRKT-CP-VIAC-----GPL
+GINGIPGKDGRDGA---------KGEKGEP------------------------------
+GQGLRGSQGPPGK-----------------------------MGPQGTPGI---PGIPGP
+I----------------------------------------GQKGDPGENMGDYI-SLAT
+S-----------------------------ERATLQSE--LNQIKN--------WLIFSL
+GKRVGKKAFFTNGKKMPFNEVKTLCAQFQGRVATPMNAEENRALKDLVTE------EAFL
+GITDQETEGKFVDLTG-KGVTYQNWNDGEPNNAS--P-GEHCVTLLSDGTWNDIACSA-S
+FLTVCEFSL----------------------
+>ENSBTAP00000009270 ENSBTAG00000007049	249	MBL2	mannose binding lectin	Bos_taurus	797B	797	B
+------------------------------------------------------------
+-------MSLFTSLPFLLLTA---VT-ASCADTETENCENIRKT-CP-VIAC-----GPP
+GINGIPGKDGRDGA---------KGEKGEP------------------------------
+GQGLRGSQGPPGK-----------------------------MGPQGTPGI---PGIPGP
+I----------------------------------------GQKGDPGENMGDYI-RLAT
+S-----------------------------ERATLQSE--LNQIKN--------WLIFSL
+GKRVGKKAFFTNGKKMPFNEVKTLCAQFQGRVATPMNAEENRALKDLVTE------EAFL
+GITDQETEGKFVDLTG-KGVTYQNWNDGEPNNAS--P-GEHCVTLLSDGTWNDIACSA-S
+FLTVCEFSL----------------------
+>ENSCDRP00005009775 ENSCDRG00005006976	248	None	mannose-binding protein	Camelus_dromedarius	797B	797	B
+------------------------------------------------------------
+-------MFLFSSLPV-LLCV---VT-ASSS--ETKTCEDAQKT-CS-VVAC-----GIP
+VTNGTPGRDGRDGP---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------MGPPGKVGS---PGPLGP
+K----------------------------------------GSKGDRGDSSVAEA-KLAN
+LEG---------------------------QLRSLRSE--LDHIKK--------LQVFSL
+GQNPGKKLYVTNGKKMPFSQVKALCAGFQATVATPRNAEENKAIQDVAQD------SAFL
+GITDEVTEGQFAYVTG-GRITYSNWKSNEPNDHG--S-GEDCVVLLSDGLWNDISCSA-S
+FLAVCELPA----------------------
+>ENSCHIP00000014977 ENSCHIG00000015787	248	None	mannose-binding protein	Capra_hircus	797B	797	B
+------------------------------------------------------------
+-------MSLFSSLPV-LLCV---MT-VSFS--NTKAIEDAQKT-CP-VVAC-----AIP
+VTNGTPGRDGRDGP---------KGEKGEP------------------------------
+GQGLRGSQGPPGK-----------------------------MGPPGNIGN---PGLPGP
+R----------------------------------------GYKGDRGASSVAEAK-LAS
+LEG---------------------------QIRNLRSE--LDHVKK--------LQTFSL
+GKKSGKKLYVTNGEKMPFSSVKALCTALGATVATPKNAEENKAIQDMAPD------TAFL
+GITDEVTEGQFMYVTG-GRLGYSNWKKNEPNNHG--S-GEDCVLLLPDGLWNDISCSS-S
+FLAICEFPA----------------------
+>ENSCWAP00000022030 ENSCWAG00000016806	249	None	None	Catagonus_wagneri	797B	797	B
+------------------------------------------------------------
+-------MFLFSLLPVLLLCV---VT-ASYS--EIKTCEDAQKT-CS-VITC-----GIP
+VTNGTPGRDGRDGP---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------MGPPGNSGM---TGPLGP
+K----------------------------------------GQKGDPGVSYGAEA-KLAN
+LEG---------------------------QIRILKSE--LDHVKK--------LQTFSL
+GKKSGKKFYATNGERMPFSKVKTLCAELQATVATPKNAEENKAIQDMAPD------IAFL
+GITDEVTEGQFMYVTG-GRITYSNWKSKEPNDYG--S-GEDCVILNRDGLWNDISCSS-S
+FLAVCEFPA----------------------
+>ENSMMSP00000031108 ENSMMSG00000023158	248	None	None	Moschus_moschiferus	797B	797	B
+------------------------------------------------------------
+-------MFLFSSLPV-LLCV---VT-VSFS--STKASEDAQKT-CP-VVAC-----AIP
+VTNGTPGRDGRDGP---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------MGPPGNIGN---PGLPGP
+R----------------------------------------GHKGDRGDSSVAEAK-LAS
+LER---------------------------QIRNLQSE--LDHVKK--------LQTFSL
+GKKSGKKLYVTNGERMPFSSVKALCTALGATVATPKNAEENKAIQDMAPD------TAFL
+GITDEVTEGQFMYVTG-GRLGYSNWKKNEPNNHG--S-GEDCVLLLQDGLWNDISCSS-S
+FLAICEFPA----------------------
+>ENSOARP00000010900 ENSOARG00000010165	248	None	mannose-binding protein	Ovis_aries	797B	797	B
+------------------------------------------------------------
+-------MSLFSSLPV-LLCV---MT-VSFS--NTKAAEDAQKT-CP-VVAC-----AIP
+VTNGTPGRDGRDGP---------KGEKGEP------------------------------
+GQGLRGSQGPPGK-----------------------------MGPPGNIGN---PGLPGP
+R----------------------------------------GYKGDRGASSVAEAK-LAS
+LEG---------------------------QIRNLQSE--LDHVKK--------LQTFSL
+GKKSGKKLYVTNGEKMPFSSVKALCTALGATVATPKNAEENKAIQDMAPD------IAFL
+GITDEVTEGQFMYVTG-GRLGYSNWKKNEPNNHG--S-GEDCVLLLPDGLWNDISCSS-S
+FLAICEFPA----------------------
+>ENSSSCP00000063642 ENSSSCG00000010427	239	MBL2	mannose binding lectin	Sus_scrofa	797B	797	B
+------------------------------------------------------------
+-------MSLFPSLHLLLLIV---MT-ASHT--ETENCEDIQNT-CL-VISC-----NSP
+GINGLPGKDGHDGA---------KGEKGEP------------------------------
+GQGLIGLQGLPGM-----------------------------VGPQGSPGI---PGLPGL
+K----------------------------------------GQKGD-GIDPGNSL-ANLR
+-----------------------------------S-E--LDNIKK--------WLIFAQ
+GKQVGKKLYLTNGKKMSFNGVKALCAQFQASVATPTNSRENQAIQELAGT------EAFL
+GITDEYTEGQFVDLTG-KRVRYQNWNDGEPNNAD--S-AEHCVEILKDGKWNDIFCSS-Q
+LLAVCEFPA----------------------
+>ENSTTRP00000007157 ENSTTRG00000007567	246	MBL2	mannose binding lectin	Tursiops_truncatus	797B	797	B
+------------------------------------------------------------
+-------MSLFPSLPLLLLIV---VT-ALCT--ETENCENVQKT-CP-VIAC-----GSP
+GINGLPGKDRHYGA---------KGEKGEP------------------------------
+GQGLRGFQGPPRK-----------------------------VGPQGMPGP---PGLPGQ
+V----------------------------------------GQKGDPGDDLGNYI-SQAT
+S-----------------------------ERAALRSE--LDQLKK--------WLIFS-
+GKKVGKKFYFTNGEKMTFDEVKTLCAQFQASVAIPTNAEENKAIQDTASG------GAFL
+GITYEETDGQSVDLTG-KRVTYQNWHDGKPNNAG--S-EEHCVTLLVDGTWNDITCSA-S
+FLAVCKYSA----------------------
+>ENSAMEP00000013704 ENSAMEG00000013016	322	None	pulmonary surfactant-associated protein	Ailuropoda_melanoleuca	797B	797	B
+----TPGSHGLPGRDGRDGVKGDPGPPGPMGPPGGMPGCPGPEGTTGAPGIAGERGEKGE
+PGER--GPPAKPHVP--GVCG---IE-GPGL--W----------------KQ-----LIG
+PEGRRGPEDGRDGP---------KGEKGEPVFWGRRKSNGTSGKREGATAPGSLFLPLIT
+GQGLRGLQGPPGK-----------------------------MGPPGHTGP---AGAPGP
+K----------------------------------------GSKGDRGDSSVAET-KLAN
+LER---------------------------EIRSLKSE--LDHLKK--------LQSFSL
+GKKTGKKFYVTNGEKMPFSKVKALCIELQGTVATPKNAEENKAIQDVAKD------IAFL
+GITDEVTEGRFVYVTG-QGLTYSNWKKNEPNDHG--S-GEDCVILLQDGVWNDISCQA-S
+FLAVCEF------------------------
+>ENSCAFP00000037509 ENSCAFG00000041785	282	None	mannose binding lectin	Canis_lupus_familiaris	797B	797	B
+MMTLETPEHQSQGRWKGSG----PT-PTP-----------------------HQGKSKLL
+EAVWFRTMFLSSSLPVLLLCM---MT-AASA--DKEALSEAQRT-CP-VVTC-----AL-
+-----PGRDGRDGL---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------VGPPGNTGA---PGAPGL
+K----------------------------------------GHKGDRGDSSVAET-RLAS
+LER---------------------------EIRSLKSE--LGHIKN--------LQTFSL
+GKKTGKKLYVSNGEKMSFSKVKALCAELQATVATPKSAEENKAIQDVAKE------EAFL
+GITDKVTEGHFMYVTG-GSLVYSNWRKNEPNNHG--S-GEDCVILLQDGFWNDISCES-S
+FLAVCELPA----------------------
+>ENSFCAP00000032102 ENSFCAG00000036170	243	None	mannose binding lectin	Felis_catus	797B	797	B
+------------------------------------------------------------
+-------MFLSSSLPVLLLCM---LT-ASSS--EIKISEDALKT-CS-AIAC-----GI-
+-----PGRDGRDGP---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------MGPPGNTGP---PGAPGI
+K----------------------------------------GTKGDRGDNSVVEA-KLAN
+LEA---------------------------EMRRLKSE--LDHVEK--------LQAFSL
+GKTPGKKFYVTNGERMPFSKVKAQCAELQGTVATPKNAEENKAIQDMAGS------PAFL
+GITDEVTEGRFMYVTG-GRLAYSNWKRDEPNDHG--S-GEDCVILLQDGLWNDISCSS-S
+FLAVCEFPA----------------------
+>ENSMPUP00000003550 ENSMPUG00000003579	244	None	None	Mustela_putorius_furo	797B	797	B
+------------------------------------------------------------
+-------MLLFSSLPV-LLCV---LT-AANS--EAEISGDAQKS-CS-VDTC-----AI-
+-----PGRDGRDGP---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPPGNVGAPGVPGAPGP
+K----------------------------------------GPKGDHGDSSVAEM-ILAN
+LDR---------------------------EITSLKSE--LDHVKK--------LLTFSV
+GKKTGKKFYVTNGEEMTFSKVKALCAELQGTVASPRNAEENKAIQDVAKS------TAFL
+GITDEVTEGQFMYVTG-ESVTYSNWNTGEPND-A--S-GEDCVTILEDGLWNDISCSI-P
+HLAVCEFPA----------------------
+>ENSPLOP00000012164 ENSPLOG00000008931	243	None	None	Panthera_leo	797B	797	B
+------------------------------------------------------------
+-------MFLSSSLPVLLLCM---LT-ASSS--EIKISEDALKT-CS-AITC-----GI-
+-----PGRDGRDGP---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------MGPPGNTGP---PGAPGI
+K----------------------------------------GTKGDRGDNSVVET-KLAN
+LEA---------------------------EMRRLKSE--LDHVKK--------LQAFSL
+GKTPGKKFYVTNGERMPFSKVKAQCAELQATVATPKNAEENKAIQDMAGS------PAFL
+GITDEVTEGRFMYVTG-GRLAYSNWKRDEPNDHG--S-GEDCVILLQDGLWNDISCSS-S
+FLAVCEFPA----------------------
+>ENSVVUP00000035538 ENSVVUG00000025563	275	MBL2	mannose binding lectin	Vulpes_vulpes	797B	797	B
+---MGRGARETSGQYAED--------PAR-----------------------R-RNKSGQ
+PDRRFRTMFLSSSLPVLLLCM---MT-AARA--EKEALGEAQRT-CP-VVTC-----AL-
+-----PGRDGRDGL---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------VGPPGNTGA---PGAPGL
+K----------------------------------------GHKGDRGDSSVAET-RLAS
+LER---------------------------EIRSLKSE--LGHIKN--------LQTFSL
+GKKTGKKLYVSNGEKMSFSKVKALCAELQATVATPKSAEENKAIQDVAKE------EAFL
+GITDKVTEGQFMYVTG-GSLVYSNWRKNEPNNHG--S-GEDCVILLQDGFWNDISCES-S
+FLAVCELPA----------------------
+>ENSRFEP00010029289 ENSRFEG00010019463	228	None	None	Rhinolophus_ferrumequinum	797B	797	B
+------------------------------------------------------------
+----------------------------------MKTCDDAQKT-CS-VITC-----GIP
+VTNGTPGRDGRDGP---------KGEKGEP------------------------------
+GQGLRGMQGPPGK-----------------------------LGPPGNACP---RGLHGP
+K----------------------------------------GQKGDRGDSSVAET-KLAN
+LER---------------------------EIRSLKSE--LDHTKK--------LLTFSL
+GRKSGKKLYVTNGEKMPFSKVKALCTELQATVATPKNAEENKAIQDVAKD------DAFL
+GITAEVTEGTFEYVTG-GRLAYSNWKKSEPNDYD--S-KEDCVSLPKEGPWNEVSCSS-S
+YLAVCEFPA----------------------
+>ENSDNOP00000014404 ENSDNOG00000018551	247	MBL2	mannose binding lectin	Dasypus_novemcinctus	797B	797	B
+------------------------------------------------------------
+-------MSLFLSLPFLLLSV---LT-ASCS--ETEICENSQKT-CP-VVAC-----GPP
+GRDGLPGRDGRDGT---------RGEKGEP------------------------------
+GQGIRGLQGPPGK-----------------------------MGPPGIPGP---PGLPGA
+V----------------------------------------GQKGDPGDSSVFDS-SQAD
+L-----------------------------GREDLLSE--LKHIKN--------WLTFSL
+GRKVGKKLFLSYGAKMTFDRVKALCTHFQASVATPQNDAENTAIKIVAKE------DAFL
+GITDEENEGQFVDLTG-RRLTYQNWNTGEPNDAG--S-QEDCVEIQTDGKWNDISCSK-S
+CLAVCEFPA----------------------
+>ENSPCIP00000001386 ENSPCIG00000001128	252	None	None	Phascolarctos_cinereus	797B	797	B
+------------------------------------------------------------
+-------MYLLATFQFLMLAISLTMT-SV---QGKCDCEPKTNT-CN-FVPC-----GLP
+GSNGLPGRDGNQGP---------KGEKGDQ------------------------------
+--GQRGMLGPPGK-----------------------------VGPMGIK------GERGP
+Q----------------------------------------GPKGPKGDKGGNQE--LIS
+LKAEMTALQ--------------------EEMRMLQTF--INKYRQVM--------ILSG
+IRIVDEKWFKVMESEGTFEEGKKICSQSGAQLAAPRNSKENRALQQLAKQF---GKNIYL
+GMSDEEREGTFQYQNG-QTVSYTSWASREPNG----ERKENCVELYTDGDWNDKSCEY-K
+MLVVCEF------------------------
+>ENSVURP00010018962 ENSVURG00010014442	252	None	None	Vombatus_ursinus	797B	797	B
+------------------------------------------------------------
+-------MHLLGTFQFLMLAIKLTMV-SV---QETCDCEPKTNT-CN-FVPC-----GLP
+GSNGLPGRDGNQGP---------KGDKGDQ------------------------------
+--GQRGMLGPPGK-----------------------------VGPMGIK------GAMGP
+Q----------------------------------------GPKGSKGDKGEIQE--LIS
+LKAEMMALQ--------------------RETRMLQAF--INKYRRVM--------ILSG
+IRIVDDKWFMVAAYEKTFEEGKKICSLSGAPLAAPRNARENRALQELARQF---DKNIYL
+GMSDEATEGTFQYQNG-QTVSYTNWASKEPNG----ERKENCVEMYTNGQWNDKDCGH-K
+ILIVCEF------------------------
+>ENSPCAP00000015423 ENSPCAG00000016507	251	None	None	Procavia_capensis	797B	797	B
+------------------------------------------------------------
+-------MFLFPRLPLFLLCM---VT-ASCL--DTKAHEDAQKT-CS-VVAC-----GIP
+GTSGTPGRDGRDGP---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------MGPPGNIGP---LGAPGP
+K----------------------------------------GQKGERGPISVQPVI-IIK
+VFK---------------------------SLPGMRCEGESQVLGK--------GEAFSL
+GKKSGKKLYVTNGEKMSFSKAKDLCTQLQATMASPKNADENEAIKEVAND------DVFL
+GITDEVTEGQFMYVTG-GRLTYSNWKADEPNNHG--S-GENCVVLLTSGLWNDVSCSR-H
+FLVVCEFPA----------------------
+>ENSOPRP00000012975 ENSOPRG00000014220	231	MBL2	mannose binding lectin	Ochotona_princeps	797B	797	B
+------------------------------------------------------------
+-------PFLLTSLPLLP----LSVLAAS---YSEAIEEHSPNN-CP-MIAC-----HSP
+GINGFPGKDGRDGP---------KGEKEEP------------------------------
+GQGLRGLQGPPGK-----------------------------MGPPGNPGAPGLPGAVGQ
+K----------------------------------------GDPGESRECATTVS--SST
+I-EVLV-------------------------------E--LQRIKN--------WVFFSL
+GKKGGNKFFLNHHEMMTLDKAKALCAQFEGSVATPQNAAENNAI---------------T
+GVADSAAEGLFQQLKG-RTINYKNWEREPN-----ADSGEDCTVIMPNGKWNDVPCSS-R
+---RCEFSV----------------------
+>ENSOCUP00000010961 ENSOCUG00000012742	247	MBL2	mannose binding lectin	Oryctolagus_cuniculus	797B	797	B
+------------------------------------------------------------
+-------MFLLPSLPLLLLSV---IA-ASYS--EAITHEDSANN-CP-TIAC-----YSP
+GMNGFPGKDGRDGS---------KGEKGEP------------------------------
+GEGLRGLQGPPGK-----------------------------MGPPGNPGP---PGLPGK
+T----------------------------------------GQKGDPGEIRECDT-SVAD
+S-----------------------------ERGALRAE--LEKIKK--------WLFFSL
+GKKVGKKFFLNNHRKMSFSEVEALCAQFQASVAIPNNAKENSAIQSLIND------NTFL
+GITDKATEGHFVDLKG-RELSYQNWNEHEPNDAG--D-GEDCTVIMPNGKWNDVPCSS-S
+YFAVCEFSA----------------------
+>ENSECAP00000015873 ENSECAG00000018357	255	MBL2	mannose binding lectin	Equus_caballus	797B	797	B
+------------------------------------------------------------
+MLPLVRTMILFPSLPLLLLSM---VT-ASCS--ETGCCENDPKT-CP-VIAC-----GSP
+GLNGLPGRDGSVGA---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPPGSPGP---RGLPGV
+Q----------------------------------------GQKGDNGECPDHDQ-NLAA
+S-----------------------------ERAALRAD--LDRIKK--------WLIFSL
+GKNVGQKFFFTNGEKMTFDKVKALCTHFQGSVATPRNAEEDKAIQEVAKG------DTFL
+GITDVKTEGQFVDLTG-RALTYENWGSGEPNDAN--S-AEDCVMLQTDAKWNDISCSV-S
+LLAVCEFPVS---------------------
+>ENSCHOP00000003605 ENSCHOG00000004077	238	MBL2	mannose binding lectin	Choloepus_hoffmanni	797B	797	B
+------------------------------------------------------------
+-------MSLFLSLSFLLLSV---VT-ASCS--EKEACENVQKT-CP-VVAC-----GSP
+GNNGLPGRDGRDGT---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------MGPPGISGL---PGLQGE
+K----------------------------------------GQKGDPVEV-NYDC-AQAA
+S-----------------------------GREALLSE--LDRIKK--------WLTFSL
+GKKVGKKLFLSFGEKMTFEGVKALCTQFQASVATPRNAAENSAIQNVAKE------EAFL
+GMTDEDNENEFVDLTG-TRLMYQNWNSGEPNNAG--S-QEHCVVIRKDGKWNDITCSE-F
+H------------------------------
+>ENSMICP00000020257 ENSMICG00000030906	249	None	mannose-binding protein	Microcebus_murinus	797B	797	B
+------------------------------------------------------------
+-------MLLFPSLLVLLLRV---VL-TSCS--DAKTCEDAQKS-CS-LITC-----GVP
+VTNGTPGRDGRDGP---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------MGPPGQRGT---TGPPGA
+K----------------------------------------GLKGDRGDNSIAEAK-LAS
+LER---------------------------EVSSLRAE--LDHIKK--------LQAFSL
+GKKHGKKLYVTNGEKMPFSQAKAVCAELRATVAAPRNAEENKAIQDVAKD------TAFL
+GITDEATEGQFVYVTG-ERLTYSNWKKDEPNDFG--S-GEDCVILLKDGIWNDISCKS-S
+FLAVCEFPA----------------------
+>ENSPTRP00000066109 ENSPTRG00000044979	270	MBL2	mannose binding lectin	Pan_troglodytes	797B	797	B
+------------------------------------------------------------
+-------MSLFPSLPLLLLSM---VA-ASYS--ETVTCEDAQKT-CPAVIAC-----SSP
+GINGFPGKDGRDGT---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPPGNPGP---SGSPGP
+K----------------------------------------GQKGDPGKSPDGDS-SLAA
+S-----------------------------ERKALQTE--MARIKK--------WLTFSL
+GKQVGNKFFLTNGEIMTFEKVKALCVKFQASVATPRNAAENGAVRNLIKE------EAFL
+GITDEKTEGQFVDLTG-NRLTYTNWNEGEPNNAG--S-DEDCVLLLKNGQWNDVPCST-S
+HLAVSLILQESMIMEGNRTFASNRQSFGRPL
+>ENSPANP00000020240 ENSPANG00000022578	244	None	mannose-binding protein	Papio_anubis	797B	797	B
+------------------------------------------------------------
+-------MFLFPSFPVLLLSV---VT-ASCS--ETKACEDAQKT-CS-VITC-----GIP
+VTNGTPGRDGRDGP---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------SGPPGNTGA---PGIPGP
+R----------------------------------------GQKGDHGDNSVAEAK-LAN
+LER---------------------------QLQSLRAE--LDHMKK--------LQAFSL
+GKMSGKKLFVTNGERMPFSEVKALCAGLQATVAAPKNAEENKAIQDVAKD------TAFL
+GITDEATEGQFMYVTG-GRLTYSNWKKDEPNDHG--S-GEDCVILLSNGLWNDISCTF-S
+FIAV---------------------------
+>ENSPPYP00000002827 ENSPPYG00000002437	248	None	None	Pongo_abelii	797B	797	B
+------------------------------------------------------------
+-------MSLFPSLPLLLLSV---VA-ASYS--ETVTCEDAQKT-CPAVIAC-----SSP
+GINGFPGKDGRDGT---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPPGNPGP---SGSPGP
+K----------------------------------------GQKGDPGKSPDCDS-SLAA
+S-----------------------------ERKALQTE--MARIKK--------WLTFSL
+GKQVGNKFFLTNGEIMTFEKVKALCVKFQASVATPRDAAENRAIRNLIKE------EAFL
+GITDEKTEGQFVDLTG-NRLTYTNWNEGEPNNAG--S-DEDCVLLLKNGQWNDIPCSS-S
+HLAVCEFPI----------------------
+>ENSTGEP00000021694 ENSTGEG00000017521	224	None	None	Theropithecus_gelada	797B	797	B
+------------------------------------------------------------
+-------MFLFPSFPVLLLSV---VT-ASCS--ETKACEDAQKT-CS-VITC-----GIP
+VTNGTPGRDGRDGP---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------SGPPGNTGT---PGIPGP
+R----------------------------------------GQKGDHGDNSV--------
+-------------------------------------------------------QAFSL
+GKMSGKKLFVTNGERMPFSEVKALCAGLQATVAAPKNAEENKAIQDVAKD------TAFL
+GITDEATEGQFMYVTG-GRLTYSNWKKDEPNDHG--S-GEDCVILLSNGLWNDISCTF-S
+FIAVCEFPA----------------------
+>ENSLAFP00000015990 ENSLAFG00000020683	239	MBL2	mannose binding lectin	Loxodonta_africana	797B	797	B
+------------------------------------------------------------
+-------MFLFSSLPLLLLSV---MT-ASCS--ET--CEEVQKT-CH-VVAC-----GSP
+GINGLPGT---------------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPQGPPGL---PGLQGV
+M----------------------------------------GPKGDPGKNSDYDS-GLAA
+S-----------------------------ERQALRSE--LDRIKQ--------WLIFSL
+GKKVGKKVFLTNGEKTTFGRVKALCAQYQGSVATPMNAEENAAIQNVAKG------ETFV
+GITDEATEGQFVDLTG-RSVTFVNWNNGEPNDAD--N-SEDCVMLLKDGKWNDISCSQ-S
+FVAVCEFPA----------------------
+>ENSCCNP00000027087 ENSCCNG00000026225	243	Mbl1	mannose-binding protein	Castor_canadensis	797B	797	B
+------------------------------------------------------------
+-------MILIPSLPLLLLCT---VR-VSSS--ELKTCEEAQKT-CS-VINC-----SV-
+-----PGRDGRDGA---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------VGPPGNTGF---PGLPGI
+K----------------------------------------GHKGDPGDSSVTET-KVAN
+LER---------------------------EINILKSE--LEHTKK--------LLHFSL
+GKKSGKKFYVTNGEMMPFSKVKSLCRELRATVAAPKDAEENRAIQNVAND------NAFL
+GITDEVTEGQFMYVTG-GRLTYSNWRKDEPNNHG--S-GEDCVIILKEGIWNDISCSA-S
+FLAVCEFPA----------------------
+>ENSCLAP00000023046 ENSCLAG00000015818	245	MBL2	mannose binding lectin	Chinchilla_lanigera	797B	797	B
+------------------------------------------------------------
+-------MSLLSSLLLLLLSV---LT-LHA---ESVPSED-ART-CP-VIAC-----ASP
+GLNGFPGKDGHDGA---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPPGPPGA---PGKSGV
+M----------------------------------------GPKGDPGECPVCDT-SLAD
+R-----------------------------DKEALRSE--LQQIKK--------WLLFST
+SKKVGKKLFLSSGEQVSFDKVKALCAQFGGLVPTPQNEDENRAIRSAARE------NPFL
+GITDQENEGQFVDMKG-ARLTYTNWNQGEPNDAS--P-GEDCVVVLSDGKWNDIPCSS-V
+CEAVCEFSV----------------------
+>ENSDORP00000006559 ENSDORG00000006997	234	Mbl1	mannose-binding protein	Dipodomys_ordii	797B	797	B
+------------------------------------------------------------
+-------MFL---LISLLLCA---LK-VSSL--ELTTCEDAQKV--S-VLTC-----G--
+----SPGRDGRDGA---------KGDKGDP------------------------------
+GEGLRGLQGPPGK-----------------------------LGPPGPSGA---------
+R----------------------------------------GPKGDPGDSFVAQT-KLDA
+LEK---------------------------EIHKLKSE--LDRVKK--------LQAFSL
+GKMPEKKFYVTNGKKVPFTKAKFLCTELGATVAVPKNAEENRAIQSVAKD------ATFL
+GITDEEVEGTFTYVTGGGRLVYSNWKENEPNDYG--S-GEDCVCMRVDGLWNDISCTT-S
+LNFVCEFPA----------------------
+>ENSSTOP00000015655 ENSSTOG00000022645	239	None	mannose-binding protein	Ictidomys_tridecemlineatus	797B	797	B
+------------------------------------------------------------
+-------MFLFPLLPVFLLSV---VT-V-AS--ETKTCEDAQKT-CS-VITC-----G--
+-------RDGRDGL---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPPGNTGE---PGAPGP
+R----------------------------------------GQKGDRGDSSAAET-KLAN
+LER---------------------------EIRNLKSE--LDHIKK--------LQAFSL
+GKKSGKKFYVTNGENMPFSKAKAWCTELQATVAAPKNAEENKNIQQVARD------NAFL
+GITDEVTEGQFMYVTG-GRLTYSNWKAKEPNNHG--S-GEDCVVLLKDGLWNDVSCSS-S
+YLVVCEFPA----------------------
+>ENSMUGP00000008193 ENSMUGG00000007427	240	Mbl1	mannose-binding protein	Meriones_unguiculatus	797B	797	B
+------------------------------------------------------------
+-------MLLHPPLPVLLLCV---LG-MSAS--KSQTCEDTLKS-CS-VIAC-----G--
+-------RDGRDGP---------KGEKGDP------------------------------
+GQGLRGLQGPPGK-----------------------------LGPPGNVGA---PGSSGP
+K----------------------------------------GQKGDRGDSKAIEA-KVAT
+LEA---------------------------ELRNLKSE--LEHTKK--------LHAFSM
+GKRSGKKLFVTNHEKMPFSKVKALCTELRGTVAIPRNAEENNAIREVAKG------VAFI
+GITDEVTEGQFMYVTG-GKLTYSNWKKDEPNDHG--S-GEDCVIIVDGGVWNDISCQS-S
+FLAVCEFPA----------------------
+>ENSMOCP00000007455 ENSMOCG00000007278	237	Mbl1	mannose-binding protein	Microtus_ochrogaster	797B	797	B
+------------------------------------------------------------
+-------MLLLPLLPVLLLCV---AG-ISSS--KSQTCEDALKT-CS-VVAC-----G--
+-------RD---GP---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------MGPPGNVGA---PGSSGP
+K----------------------------------------GQKGDPGNNAEVEA-KVRQ
+LEA---------------------------EIRTLKSE--LEHTKK--------LHAFSM
+GKKSGKKLFVTNYETMPFSKVKALCTGLRGTVAIPRNAEENKAIREVAKG------NAFI
+GITDEVTEGQFMYVTG-GKLTYSNWKKNEPNDHG--S-GEDCVIIVDDGVWNDISCHS-S
+FIAVCEFPA----------------------
+>ENSMUSP00000025797 ENSMUSG00000024863	244	Mbl2	mannose-binding lectin (protein C)	Mus_musculus	797B	797	B
+------------------------------------------------------------
+-------MSIFTS--FLLLCV---VT-VVYAET---LTEGVQNS-CP-VVTC-----SSP
+GLNGFPGKDGRDGA---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------VGPTGPPGN---PGLKGA
+V----------------------------------------GPKGDRGDRAEFDT-SEID
+S-----------------------------EIAALRSE--LRALRN--------WVLFSL
+SEKVGKKYFVSSVKKMSLDRVKALCSEFQGSVATPRNAEENSAIQKVAKD------IAYL
+GITDVRVEGSFEDLTG-NRVRYTNWNDGEPNNTG--D-GEDCVVILGNGKWNDVPCSD-S
+FLAICEFSD----------------------
+>ENSODEP00000015536 ENSODEG00000011470	240	None	mannose-binding protein	Octodon_degus	797B	797	B
+------------------------------------------------------------
+-------MMLFLWLPVLLLCL---VR-ACCS--E-TACEEAHKT-CS-VVAC--------
+------GRDGRDGP---------KGEKGDP------------------------------
+GEGLRGLQGPPGK-----------------------------LGPPGNIGA---PGPSGP
+K----------------------------------------GQKGDCRDSSVAES-KLAN
+LER---------------------------EIRNLKSE--LDHIKK--------LQDFSL
+GKKSGKKFYVTNGEKMTFAKVKALCTELRGTVATPRNAEENKAIQAMATD------NVFL
+GITDEVTEGQFMYVTG-GRLAYSNWKTNEPNDYG--DEGEDCVILKTDGFWNDLSCRA-S
+CLAICEFSA----------------------
+>ENSPEMP00000030911 ENSPEMG00000028403	244	None	mannose binding lectin	Peromyscus_maniculatus_bairdii	797B	797	B
+------------------------------------------------------------
+-------MFLFPS--FLLLGV---VT-ASYAEP---VTEGVQSS-CP-VITC-----SSP
+CLNGFPGKDGRDGA---------KGEKGEP------------------------------
+GQGLRGLQGPPGK-----------------------------VGPEGSPGT---PGPKGA
+V----------------------------------------GPKGDRGERGECDT-RKID
+A-----------------------------EIAALQAE--LRGIKR--------WVLFST
+SERVGKKYFVNTGRKTSFNGVKALCSQFQASVATPRNAEENVAMQKVAKE------IAYI
+GLTDERTENQFLDLKG-NRLQYTNWNDGEPNNTG--D-DEDCAVLLLNSKWNDVRCSD-S
+FLAVCEFLD----------------------
+>ENSACCP00020018377 ENSACCG00020012655	227	MBL2	mannose binding lectin	Aquila_chrysaetos_chrysaetos	797B	797	B
+------------------------------------------------------------
+-------SDLFSHLPFV----LLCSCIST---LENDIPEEKVYS-CP-VIQC-----SAP
+AVNGLPGRDGRDAP---------KGEKQEP------------------------------
+GTELRTFSNI--------------------------------------------------
+-----------------------------------------------------VF--FIL
+LIIPLVLFHAS----FILSFRLFTSLLFFYPIVLLQAP--H-NVRK--------LKMLSN
+IKSIGKKIFVSTEKEDTFYNGKSFCAKAGSALASPRKEAENTTLKDLIT-P---STQAYM
+GISAEQTKSTFMYPNE-EAVTYRNWNAGEPNN----LKNEDCAVMQDSGKWNDVDC----
+-------------------------------
+>ENSAPLP00020020408 ENSAPLG00020014363	256	MBL2	mannose binding lectin	Anas_platyrhynchos	797B	797	B
+------------------------------------------------------------
+-------MTLLQPFSALVLWISLMLVMSS---VNTDKPEENRYS-CP-VIQC-----SAP
+AVNGLPGRDGRDGP---------KGEKGDP------------------------------
+GEGLRGLQGFPGK-----------------------------AGPPGMK------GDVGP
+R----------------------------------------GEKGQKGERGI-VA--SDG
+LQRQVTALE--------------------TKLKVLEDE--LNRYKN--------ALILKN
+IRSIGKKMFVSTGNQDTFENGKSLCARAGSTLASPRNDAENTALKDLVR-P---ARQAHI
+GISDAQTEGRFVYLSG-GAVTYSNWNTGEPNN----QKNEDCVVIYESGKWNDVDCSKTQ
+ALIICEFSS----------------------
+>ENSACDP00005022275 ENSACDG00005016140	256	MBL2	mannose binding lectin	Anser_cygnoides	797B	797	B
+------------------------------------------------------------
+-------MTLLQPFSALVLWISPMMLTSA---VNTDKPEENRYS-CP-VIQC-----SAP
+AVNGLPGRDGRDGP---------KGEKGDP------------------------------
+GEGLRGLQGFPGK-----------------------------AGPPGMK------GDVGP
+R----------------------------------------GEKGQKGEQGI-VA--TDG
+LQRQVTALE--------------------TKLKVLEDE--LNRYKN--------ALILKN
+IRSIGKKMFVSTGNQDTFENGKSLCARAGSTLASPRNDAENTALKDLLR-P---ARQAHI
+GISDAQTEGRFVYLSG-GAVTYSKWNTGEPNN----LRNEDCVVIQESGKWNDVDCSNTQ
+ALIICEILS----------------------
+>ENSCPIP00010007097 ENSCPIG00010005490	254	None	None	Chrysolophus_pictus	797B	797	B
+------------------------------------------------------------
+-------MTVLQPFSALLLCLSLMMATRS---LTTDKPEEKMYS-CP-IIQC-----SAP
+AVNGLPGRDGRDGP---------KGEKGDP------------------------------
+GEGLRGLQGLPGK-----------------------------AGPPGLK------GEVGP
+Q----------------------------------------GVKGQKGERGI-VV--TDD
+LQRQITALE--------------------AKMRVLEDD--LNRYKK--------AMILKD
+IVNVGKKMFVSTGKKDNFEKGKSLCAKAGGVLASPRNEAENTALKDLVS-P---SSQVYI
+GISDAQTEGRFMYLSG-GLLTYSNWRSGEPNN----LKNEDCAVIEGSGKWNDLDCSNSN
+IFIICEL------------------------
+>ENSCJPP00005015246 ENSCJPG00005012664	254	MBL2	mannose-binding	Coturnix_japonica	797B	797	B
+------------------------------------------------------------
+-------MTLLQPLSAILLCLSLMMATSS---LSTEKPEEKMYS-CP-IIQC-----SAP
+AVNGLPGRDGRDGP---------KGEKGDP------------------------------
+GEGLRGLQGLPGK-----------------------------AGPPGLK------GEVGP
+Q----------------------------------------GVKGQKGERGI-DV--SDD
+LHRQITALE--------------------TKIRVLEDD--LNRYKK--------AMTLKD
+IVNVGKKMFVSSGKKDNFEKGKSLCAKAGSVLASPRNEAENAALSDLVN-P---LGSAYL
+GISDAQTEGRFMYLSG-GPLTYSNWKSGEPNN----LRNEDCAVIDGSGKWNDLDCSNSN
+IFIICEL------------------------
+>ENSGALP00000040351 ENSGALG00000002507	254	MBL2	mannose binding lectin	Gallus_gallus	797B	797	B
+------------------------------------------------------------
+-------MTLLQPFSALLLCLSLMMATSL---LTTDKPEEKMYS-CP-IIQC-----SAP
+AVNGLPGRDGRDGP---------KGEKGDP------------------------------
+GEGLRGLQGLPGK-----------------------------AGPQGLK------GEVGP
+Q----------------------------------------GEKGQKGERGI-AV--TDD
+LHRQITDLE--------------------AKIRVLEDD--LSRYKK--------ALSLKD
+FVNVGKKMFVSTGKKYNFEKGKSLCAKAGSVLASPRNEAENTALKDLID-P---SSQAYI
+GISDAQTEGRFMYLSG-GPLTYSNWKPGEPNN----HKNEDCAVIEDSGKWNDLDCSNSN
+IFIICEL------------------------
+>ENSMGAP00000000456 ENSMGAG00000001047	258	None	None	Meleagris_gallopavo	797B	797	B
+------------------------------------------------------------
+-------MTILQPFSALLLCLSLMMATSS---LTTDKPEEKMYS-CP-IIQC-----SAP
+AVNGLPGRDGRDGP---------KGEKGDP--------------------------DQTL
+GEGLRGLQGLPGK-----------------------------AGPPGLK------GEVGP
+Q----------------------------------------GVKGQKGERGI-VV--TDD
+LQRQITALE--------------------AKIRILEDD--LIRYKK--------AMILKD
+IVNVAKKMFVATGKKDNFEKGKSLCAKAGGMLASPRNEAENTALKDLVS-P---SSQAYI
+GISDAQTEGKFMYLSG-GPLTYSNWKPGEPNN----MKNEDCAVIEDSGKWNDLDCSNSN
+IFIICEL------------------------
+>ENSNMEP00000015627 ENSNMEG00000013887	238	None	surfactant protein	Numida_meleagris	797B	797	B
+------------------------------------------------------------
+-----------------------MMATSS---VNTDKAEEKMYS-CP-IIQC-----SAP
+AVNGLPGRDGRDGP---------KGEKGDP------------------------------
+GEGLRGLQGLPGK-----------------------------AGPPGLK------GEVGP
+Q----------------------------------------GEKGQKGERGI-VV--TDD
+LHRQITALE--------------------AKIQVLEDD--LNRYKK--------AMTLKD
+IVNVGKKMFVSTGKKDNFENGKSLCAKAGSVLASPRNEAENRALKDLVT-P---SRQAYI
+GISDAQTEGRFMYLSG-GPLTYSNWRPGEPNN----QKNEDCAVIEDSGKWNDLDCSNSN
+ILIICEL------------------------
+>ENSPSTP00000023652 ENSPSTG00000017431	254	MBL2	mannose binding lectin	Pavo_cristatus	797B	797	B
+------------------------------------------------------------
+-------MTLLQPFSALLLCLSLMMVTSS---LTTDKLEEKMYS-CP-IIQC-----SAP
+AVNGLPGRDGRDGP---------KGEKGDP------------------------------
+GEGLRGLQGLPGK-----------------------------AGPPGLK------GDVGP
+Q----------------------------------------GEKGQKGERGI-VV--TDD
+LQRQITALE--------------------AKIRVLEDD--LDRYKK--------AMILKD
+IVNVGKIMFVSTGKKDNFENGKSLCAKAGGVLASPRNEAENTALKDLVN-P---SSQAYI
+GISDAQTEGRFMYLSG-RPLTYSNWRAGEPNN----VDNEDCAVIEDSGKWNDLDCSNSN
+IFIICEL------------------------
+>ENSPCLP00000015719 ENSPCLG00000012801	238	None	None	Phasianus_colchicus	797B	797	B
+------------------------------------------------------------
+-----------------------MMATSS---LTTDKPEEKMYS-CP-IIQC-----SAP
+AVNGLPGRDGRDGP---------KGEKGDP------------------------------
+GEGLRGLQGLPGK-----------------------------AGPPGLK------GEVGP
+Q----------------------------------------GEKGQKGERGI-VV--TDD
+LQRQITALE--------------------VKMRVLEDD--LNRYKK--------AMILKD
+IVNVGKKMFVSTGKKDNFEKGKSLCAKAGGVLASPRNEAENTALKDLVS-P---SSQAYV
+GISDAQTEGRFMYLSG-GLLTYSNWRSGEPNN----LKNEDCAVIEGSGKWNDLDCSNSN
+IFIICEL------------------------
+>ENSACAP00000004772 ENSACAG00000004891	259	MBL2	mannose-binding protein	Anolis_carolinensis	797B	797	B
+------------------------------------------------------------
+-------MYVLQLLGFLVLGSSLTLAAV------SETCRCEVNS-CP-VMAC-----GNP
+GLNGLPGRDGKDGT---------KGEKGDP------------------------------
+GDSVRGPQGPPGK-----------------------------AGPPGSLGTPGIPGSTGI
+P----------------------------------------GQKGQKGDAA---T--LDT
+IQRQVAALE--------------------QTTRTLQED--LKKIRK--------RLLWHG
+AVSVGDKIFVSTGQQDTFFKGRDLCASAGGKLASPKNEPENRVLAEMVKKNS--PKHAFL
+GINDIQTEGIFVDLNG-APVRYTNWKSGEPND-Y--NNNEDCVVVLENQLWNDLNCEH-K
+SPIFCEFIE----------------------
+>ENSLLTP00000016554 ENSLLTG00000012639	282	None	None	Laticauda_laticaudata	797B	797	B
+-----------------------------------MKELDFA-KSLPEKRIHGELVS--F
+SAVSYSEDMLLCPFYTLVLAVSLVKS-SD---PETCRCEEKVNI-CS-VVPGINGLPGTP
+GSNGLPGRDGKEGP---------PGPKGDS------------------------------
+--GLKGIQGPPGK-----------------------------AGPPGSK------GDEGL
+K----------------------------------------GEKGDS----A--E--LDV
+LKTQIRDLQ--------------------AELKVLKET--ANKNQEDIQ-----GSAFPT
+FTIIGTKKFASNGAEANFETAKATCSKFGGKLASPRNEEENAALAKLASKF---GRHAFL
+GMTDRQTEGTFKHLNG-DPMQYSRWASGEPNG-----EEEDCIEMFPDGQWNDITCNA-N
+RLIICEF------------------------
+>ENSNSUP00000007929 ENSNSUG00000006184	254	None	None	Notechis_scutatus	797B	797	B
+------------------------------------------------------------
+--------MLLCPFYTLVLAVSLVKS-SD---PETCRCEEKVNI-CS-VVPGINGLPGTP
+GSNGLPGRDGKEGP---------PGPKGDS------------------------------
+--GLKGIQGPPGK-----------------------------AGPPGSK------GDEGL
+K----------------------------------------GEKGDS----AGKE--LDV
+LKTQIRDLQ--------------------AELKVLKET--ARKNQEDIQ-----VSAFPT
+FTIIGTKKFASNGAEANFETAKATCSKFGGKLASPRNEEENAALAKLVSKF---GRHAFL
+GMTDRETEGTFKHLNG-DPMRYSRWAGGEPNG-----QEEDCIELYPDGQWNDITCNS-N
+RLIICEF------------------------
+>ENSPMRP00000004460 ENSPMRG00000003054	251	None	pulmonary surfactant-associated protein	Podarcis_muralis	797B	797	B
+------------------------------------------------------------
+--------MQHHVLCILVLGVSSVRM-SD---PEQCNCEEKVPA-CM-VIPGSNGLPGIP
+GSNGLPGRDGKEGP---------QGEKGEQ------------------------------
+--GLRGMQGPPGK-----------------------------AGPPGLK------GESGQ
+-------------------------------------------KGDC----GGKE--LEL
+LKTQISDLQ--------------------GELKALQLT--ASKTQKAIL-----GYIFSN
+STRVGGKLFVTNGDDGDYETSKATCNHFGGQVASPRNENENTAALKLSAKM---GRKVFF
+GMNDQETEGIFKHLNG-ETMEYSNWAPKEPNG-----VEEDCIELYPDGKWNDISCNV-A
+RLIMCEF------------------------
+>ENSPVIP00000005636 ENSPVIG00000004577	249	MBL2	mannose-binding	Pogona_vitticeps	797B	797	B
+------------------------------------------------------------
+-------MHLLRLYAALLLGTSLSLAAV------SETSRFDSNT-CT-VVAC-----STP
+GLNGLPGRDGKDGT---------KGEKGDP------------------------------
+GVAVRGQQGPPGK-----------------------------AGPPGPH------GIQGP
+T----------------------------------------GQKGQKGDTT---A--VDT
+IQRKVTALE--------------------NTIQTLQAD--LSKNKK--------ILMLQG
+AISVGQKTFVSTGKHDTFANGKTLCASAGAALASPRNVAENTALTEVMKRK---SEHAFL
+DINDRQTEGKFVYSNG-ETVGYTNWAGGEPNN----DNNEDCVILNESSRWIDVPCHY-K
+YLIICEI------------------------
+>ENSPTXP00000015375 ENSPTXG00000010621	249	None	None	Pseudonaja_textilis	797B	797	B
+------------------------------------------------------------
+----MFFCQPFHTLLLLFLGASLILAAA------PETRSSDPNS-CP-VLAC-----GNP
+GIAGLPGRDGRDGA---------KGEKGDT------------------------------
+GLQVKGQPGFPGK-----------------------------AGPAGPK------GNTGA
+P----------------------------------------GQKGQKGEMS---A--VDT
+VQRQVAALE--------------------KTVQTLQAE--VR---K--------IFAMLG
+ATTVGGKTFVFTGQTHNFASGKALCSNAGGALAVAMNVAENTALAAMAKRN---GKQIYL
+GMSDLQTEGQFVYLNG-QAVRYTNWKRSEPNN-L---NNEDCVVLIPDTLWNDISCDH-Q
+THIVCEL------------------------
+>ENSSMRP00000010922 ENSSMRG00000008626	260	None	None	Salvator_merianae	797B	797	B
+-------------------------------------------------------MR--T
+KHNLWYSMFLLQLFKVLFLGASLVLPSV------SETSTCEANT-CT-VMAC-----GNP
+GLNGLPGRDGKDGL---------KGEKGDA------------------------------
+GASVRGQQGFPGK-----------------------------AGPPGSS------GVQGP
+R----------------------------------------GQKGEKGETA---A--VDS
+VHGKVTSLE--------------------KNIQTLQDD--LNKYKK--------IVTLQG
+AIHVGRKTFVSTGLHDTFANGKNKCTKEGAALASPRNAAENLALKEIVKKH---AMHAFL
+DINDIQTEGRFVYLNG-SPVAYTNWKRGEPNN-Y--DNVEDCVIILEDALWNDYNCNS-K
+CLIICEI------------------------
+>ENSCABP00000025399 ENSCABG00000018680	254	None	None	Chelonoidis_abingdonii	797B	797	B
+------------------------------------------------------------
+-------MHLCQPFKALVLAMALMMA-SG---VDINKHEENMNS-CP-VIQC-----CAP
+GTNGLPGRDGRDGK---------EGPKGEK---------------------------GDQ
+GEGLRGLQGFPGK-----------------------------AGPQGTK------GDQGP
+Q----------------------------------------GEKGQKGESA---T--FDS
+LQRQVTALE--------------------KNIQTLQAD--ISRHQK--------FFSFRW
+VKSVGKKTFMSTGTKDSFENGKSLCTKAGGGLACPHNHAENTALREILK-D---SEQAYL
+GMSDVQTEGKFLYLNG-RPVTYTNWETGEPNN----DENEDCVAMYDNEKWNDIDCSNSE
+MLIICEF------------------------
+>ENSCSRP00000022006 ENSCSRG00000016600	208	None	None	Chelydra_serpentina	797B	797	B
+------------------------------------------------------------
+-------MYLHQHFKALVLAVALMMA-SG---VDINRHEENMNA-CP-VIQC-----CAP
+GTNGLPGRDGRDGK---------EGPKGEK---------------------------GDQ
+--GLRGLQGFPGK-----------------------------AGPQGAK------GGQGP
+Q----------------------------------------GEKGQKGESA---R--ENG
+AG---------------------------------------SRHQQNKLVFGAFVCFLRW
+AKS-----------VDSFENGKSLCAKAG----------------------------AYL
+GMSDVQIEGKFVYLNG-EPVTYTNWETGEPNN----AKNEDCVIMYGNGKWNDMGCSNSE
+ALIICEF------------------------
+>ENSCPBP00000009485 ENSCPBG00000007336	233	MBL2	mannose binding lectin	Chrysemys_picta_bellii	797B	797	B
+------------------------------------------------------------
+-------MHLCQPFKALVLAVALMMS-S--------------------VLQC-----CAP
+GTNGLSGRDGRDGK---------E------------------------------------
+GAGLRGLQGFPGK-----------------------------AGPQGTK------GDQGP
+Q----------------------------------------GEKGQKGESA---T--FDA
+LQRQVTTLE--------------------KNIQTLQAD--VSRHQKCEI-----CLHDCI
+FGSVGKKTFMSTGTKDSFKNGKSLCAKAGVALACPHNHAENTALQEILK-D---SEQAYL
+GMSDVQTEGKFLYLNG-EPVTYTNWNTGEPND----NKNEVCVAIYDNGKWNDIVCSNSE
+MLIICEF------------------------
+>ENSGAGP00000021535 ENSGAGG00000015807	255	None	None	Gopherus_agassizii	797B	797	B
+------------------------------------------------------------
+-------MHLCQPFKDLVLAMALMMA-TG---VDINKHEKNMNS-CP-VIQC-----CAP
+GTNGLPGRDGRDGK---------EGPKGEK---------------------------GDQ
+GAGLRGLQGFPGK-----------------------------AGPQGTK------GDQGP
+Q----------------------------------------GEKGQKGE-----T--FDA
+LQRQVTALE--------------------KNIQTLQAD--ISRHQKYEI-----FFSFRW
+VKSVGKKTFMLTGTKDSFENGKSLCTKAGGALACPHNRAENTALQEILK-D---SEQAYL
+GMSDVQTEGKFLYLNG-GPVTYTNWETGEPNN----NKNEDCVAMYSNGKWNDIDCSNSE
+ILIICEF------------------------
+>ENSPSIP00000012212 ENSPSIG00000010989	259	None	None	Pelodiscus_sinensis	797B	797	B
+------------------------------------------------------------
+---QSFYSSFVLLLKALALAMALVMA-SG---VDVNKHEEKMST-CP-VIQC-----CAP
+GTNGLPGRDGRDGR---------EGPKGEN---------------------------QTL
+GAGERGLQGFPGK-----------------------------AGPQGTR------GNQGP
+R----------------------------------------GEKGQKGENA---T--FDA
+LQRQVSALE--------------------KNIQTLQAD--ISKFQN--------IFNLRW
+AKIVGKKIFVSTGTKASFQHGKSLCAKAGGSLSCPRNEAENAALQEVMKKE---SNGAYL
+GLTDMQTEGKFVYLNG-EPVAYTNWNSGEPND----QDNEDCVLIYDDGKWNDLDCSTAE
+ILIICEF------------------------
+>ENSPCEP00000009516 ENSPCEG00000007589	255	None	None	Pelusios_castaneus	797B	797	B
+------------------------------------------------------------
+-------MHLLQPFNALVLGMV-MIA-SS---LDVNKHEEKMNI-CP-VIQC-----CAP
+GTNGLPGRDGRDGK---------EGPKGEK---------------------------GDQ
+GAGERGVQGFPGK-----------------------------AGPQGTK------GDQGP
+Q----------------------------------------GEKGQKGESA---T--LPG
+LQGQITTLE--------------------KHIQLLQAE--LIKYRN--------FFSLRW
+IRSVDKKTFVSIGAEDSFEKGKSLCENAGGALASPRNGAENTALVELVKKD---AKPAYL
+GISDVQTEGKFLYLNG-EPVTYTNWAKGEPNN-S--NKGEDCVVLYDNGKWNDADCSTSR
+VLVVCEF------------------------
+>ENSTMTP00000011254 ENSTMTG00000008150	212	None	None	Terrapene_carolina_triunguis	797B	797	B
+------------------------------------------------------------
+-------MHLCQPFKALVLAVALMMS-SG---VDINKHEENMNA-CP-VIQC-----CAS
+GTNGLSGRDGRDGK---------KGPKGEK---------------------------GDQ
+GAGLRGLQGFPGK-----------------------------AGPQGTK------GDQGP
+Q----------------------------------------GEKGQKGESA---T--FDA
+LQRQVTALE--------------------KNIQTLQAD--VSRHQK--------FFSLRW
+VKSVGKKTFMSTGTKDSFKNGKSLCAKAGGALACPHNHAENTALREILK-D---SEQAYL
+GMSDVQTEGNNFFFKL-F-----IWI----------------------------------
+-------------------------------

@@ -1,0 +1,1768 @@
+>ENSATEP00000031670 ENSATEG00000021811	142	nppb	natriuretic peptide	Anabas_testudineus	982A	982	A
+------------------------------------------------------------
+----------------------------VNASSSHLNMR-LSSIQLFGFF-------MLN
+L-QLVSSHP------ISAGL--TDTDMDMLKMLLHRLEDSVLEQTEVDQRVPAERDGL--
+SIED--------------ATDEQET---------GLDEAAIREFFSAKNLKSVR-N-DS-
+SRKSSGCFGRRMDRIGSMSSLGCNTVGKYSKLQLG-------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSORLP00000037551 ENSORLG00000027335	146	nppa	natriuretic peptide	Oryzias_latipes	982A	982	A
+------------------------------------------------------------
+----------------------------MSRCSSHRSSH-MFFIPFWGLL------FILN
+V-QRSTSVP------ISMGL--TNADVNTLKDLLHRLQESVPEQSSVDEEGAVERDTL--
+NQLS-------TEEER--EDEPGLS---------RMEEEVIRELLSSKNLKSLR-SGDS-
+SRRSSGCFGRRMDRIGSMSSLGCNTVGRYNPK----------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSENLP00000020420 ENSENLG00000009309	141	None	brain natriuretic	Echeneis_naucrates	982A	982	A
+------------------------------------------------------------
+----------------------------MNIRISQRSMH-LSPTHLCGLL------LILN
+L-QLINTYP------ISTSL--TDTDMDILKALVHRLEESVSEQTEANPRVPAEQDDL--
+DSLS--------------LEDRPQT---------GLDEASIREFLSAKNLKSVR-N-DP-
+SRRSSGCFGRRMDRIGSMSSLGCNTVGRYSEFQ---------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSDUP00000002105 ENSSDUG00000001624	143	nppb	brain natriuretic	Seriola_dumerili	982A	982	A
+------------------------------------------------------------
+----------------------Q---HRSSSHTRTRNMH-LSPTPLCGFL------LILN
+L-QLISTYP------ISTGL--TDTDMDILKVLLHRLEESVSEQTEVDQRVPAEQDSL--
+DSLN--------------VEEQPQT---------GLDEASIREFLSAKNLKSVR-N-DS-
+SKRSSGCFGRRMDRIGSMSSLGCNTVGRYNPK----------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSACIP00000004267 ENSACIG00000003354	144	None	None	Amphilophus_citrinellus	982A	982	A
+------------------------------------------------------------
+----------------------------LNNSNSQSNMH-LSSVPLCGLL------LILK
+L-QLSSTYP------ISTGL--TDTDMDMLKVLLSRLQESVSEQTAEDQSAPAQRDLL--
+DSLS-------TE-----DGHQPEA---------GLSEAEIREFLSAKNLKSVR-N-DS-
+SRRSSGCFGRRMDRIGSMSSLGCNTVGRYNPKQR--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSACLP00000002077 ENSACLG00000001443	138	nppb	natriuretic peptide	Astatotilapia_calliptera	982A	982	A
+------------------------------------------------------------
+-------------------------------------MR-LSSISLCSLL------LILK
+L-QLTSTYP------ISTGL--TDTDMDILKVLLSRLEESVSDQTAVDQNAPGQRDLL--
+DSLS-------RED-AG-DRHQPDT---------GLDEAEIREFLSAKNLKSVR-N-DS-
+SRKSSGCFGRRMDRIGSMSSLGCNTVGRYNPKQR--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSHBUP00000013884 ENSHBUG00000015701	138	nppb	brain natriuretic	Haplochromis_burtoni	982A	982	A
+------------------------------------------------------------
+-------------------------------------MR-LSSISLCSLL------LILK
+L-QLTSTYP------ISTGL--TDTDMDILKVLLSRLEESVSDQTAVDQNAPGQRDLL--
+DSLS-------RED-AG-DGHQPDT---------GLDEAEIREFLSAKNLKSVR-N-DS-
+SRKSSGCFGRRMDRIGSMSSLGCNTVGRYNPKQR--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMZEP00005029584 ENSMZEG00005022064	138	nppb	natriuretic peptide	Maylandia_zebra	982A	982	A
+------------------------------------------------------------
+-------------------------------------MR-LSSISLCSLL------LILK
+L-QLTSTYP------ISTGL--TDTDMDILKVLLSRLEESVSDQTAVDQNAPGQRDLL--
+DSLS-------RED-AG-DRHQPDT---------GLDEAEIREFLSAKNLKSVR-N-DS-
+SRKSSGCFGRRMDRIGSMSSLGCNTVGRYNPKQR--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSNBRP00000005907 ENSNBRG00000004638	148	None	None	Neolamprologus_brichardi	982A	982	A
+------------------------------------------------------------
+---------------------------RFKRSIFRHNMR-LSSISLCSLL------LILK
+L-QLTSTYP------ISTGL--TDTDMDILKVLLSRLEESVSDQTAVDQNAPGQRDLL--
+DSLS-------RDD-AE-DGHQPDT---------GLDEAEIREFLSAKNLKSVR-N-DS-
+SRKSSGCFGRRMDRIGSMSSLGCNTVGRYNPKQR--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSONIP00000022627 ENSONIG00000017956	230	nppb	natriuretic peptide	Oreochromis_niloticus	982A	982	A
+MFLKQSSIWKQLCHKNTSIQC-FKRSIFRQLVLSELGVRHAGPIPGIPMCVNLKYKRECC
+CWLQHPNTYKSKKKKR-IYPFIQ---LLTRTAATQSIMR-LSSMWLCSLL------LILK
+L-QLTSMYP------ISTGL--TDTDMDILKVLLSRLEESVSEQMAVDQSAPGQRDLL--
+DSLS-------TED-AG-DGPQPDA---------GLDEAEIREFLSAKNLKSVR-N-DS-
+SRRSSGCFGRRMDRIGSMSSLGCNTVGRYNPKQR--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPNYP00000028106 ENSPNYG00000021145	149	nppb	brain natriuretic	Pundamilia_nyererei	982A	982	A
+------------------------------------------------------------
+--------------------------MISQSNYYESNMR-LSSISLCSLL------LILK
+L-QLTSTYP------ISTGL--TDTDMDILKVLLSRLEESVSDQTAVDQNAPGQRDLL--
+DSLS-------RED-AG-DGHQPDT---------GLDEAEIREFLSAKNLKSVR-N-DS-
+SRKSSGCFGRRMDRIGSMSSLGCNTVGRYNPKQR--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCCRP00000063116 ENSCCRG00000033913	130	nppb	brain natriuretic	Cyprinus_carpio	982A	982	A
+------------------------------------------------------------
+-------------------------------------MKS-IDI-SLVGLL-----LLFS
+V-QLMRAFP------LQNTAL-TTEDRDVLKLLLQRLEESIPASSQEQTVMKVKEEED--
+-NP------------E-----ETRVEPQ-PK-T----DMRD--YLSARDLRTVR----QD
+SKRYSGCFGRKLDRIGSMSSLGCNTAGRSGSKKW--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSDARP00000060764 ENSDARG00000052958	129	nppb	natriuretic peptide	Danio_rerio	982A	982	A
+------------------------------------------------------------
+-------------------------------------MK-SLHIPVVGLL------FLLS
+V-QHMRTFP------LQSTAL-TNDDMGVLKFLLQRLEESIPAQDQT----PAEREVK--
+-AAN-------IEETR--AEEQ--------------PDTYLREYLSARDLKTVR-K-DS-
+KKKNSGCFGSKLDRIGSMSSLGCNTVGRSGPKKN--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSGRP00000059608 ENSSGRG00000031001	142	nppb	natriuretic peptide	Sinocyclocheilus_grahami	982A	982	A
+------------------------------------------------------------
+----------------------------RRAAKTSGNMNS-IDI-PLVGLL-----LLFS
+F-QLMGAFP------LQNTAL-TTEDRDVLKLLLQRLEESIPASSQEQTLMKVEEEEG--
+-NP------------E-----ETHVEPQ-PK-T----DMRD--YLSARDLRTVR----QD
+SKRYSGCFGRKLDRIGSMSSLGCNTTGRSGNHFIYVS-----------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCVAP00000032483 ENSCVAG00000022563	178	nppb	natriuretic peptide	Cyprinodon_variegatus	982A	982	A
+------------------------------------------------------------
+---------------------------GLKSKSKSRNLF-LSSIPLCGLL------LILN
+L-EPSSTYP------INTGL--TDTDMDILKVLLQKLEESVSEQTAMDQGTPEENVGV--
+NRLN-------MEET--SSEQQPQM---------GLDEAEIRELLSAKNLKNVR-N-DS-
+SKKTSGCFGRRMDRIGSMSTLGCNTIGRYSKFHSSKPQGHGGFK----------------
+-----------------TCANPFKLVN--------------PKAP--TV-----------
+-----KLRV-----------------------
+>ENSFHEP00000008395 ENSFHEG00000009583	145	nppb	brain natriuretic	Fundulus_heteroclitus	982A	982	A
+------------------------------------------------------------
+----------------------------MNGSVSQRNML-LSFIPLWGLL------LILN
+L-EPSSTYP------ISTGL--TDTDMDILKVLLQRLEESVSEQTSMDQGTPEGNGDV--
+NRLD-------TEDA--SSEQQPRT---------TLDEAEIRELLSAKNLKNVR-N-DS-
+SRRSSNCFGRRMDRIGSMSSLGCNTIGRYNPK----------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSGAFP00000003024 ENSGAFG00000002068	147	nppb	natriuretic peptide	Gambusia_affinis	982A	982	A
+------------------------------------------------------------
+----------------------------MNGSISQRNMF-LFSIPLCGLL------LVFN
+L-EPSSTYP------VSTGF--TDADMDILKVLLQKLEESVSEQTVVDEGVSEDDGRG--
+NRRN-------MEDT--SSEQQPQT---------DLDEEQIREFLSAKNLKSVR-N-DS-
+SKRSSGCFGRRMDRIGSMSSLGCNTIGRYNPKQR--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSKMAP00000012157 ENSKMAG00000009136	143	nppb	brain natriuretic	Kryptolebias_marmoratus	982A	982	A
+------------------------------------------------------------
+----------------------------MNSSCSQKSMH-PSSFALCGLL------LILN
+L-QLFSTYP------INTGF--TGTDMDIFKVLLHKLEESVSEQSQVDKGAPTEIESV--
+--IS-------MEDE--ANEEQPQA---------GLDETQIREFLSAKNLKSLR-N-DS-
+SKRSSGCFGRRMDRIGSMSSLGCNTIGRYNPK----------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPREP00000002994 ENSPREG00000002166	147	nppb	brain natriuretic	Poecilia_reticulata	982A	982	A
+------------------------------------------------------------
+----------------------------MNGSISQRNMF-LSSIPLCGLL------LIFN
+L-EPSSTYP------VSTGF--TDTDTDILKVLLQKLEESVSEQTAADEGVTEEDGRA--
+DRGN-------MEDT--SSERQPQT---------DLDEEQIREFLSAKNLKSVR-N-DS-
+SKRSSGCFGRRMDRIGSMSSLGCNTIGRYNPKQR--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSXMAP00000034238 ENSXMAG00000027565	138	nppb	brain natriuretic	Xiphophorus_maculatus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MF-LSSIPLCGLL------LIFN
+L-EPSSTYP------VSTGF--TDADMDILKVLLQKLEESVSEQTAVDEGVSEDDGRA--
+NRSN-------MEDT--SSERQPQT---------DLDEEQIREFLSAKNLKSVR-N-DS-
+SKRSSGCFGRRMDRIGSMSSLGCNTIGRYNPKQR--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMMDP00005003419 ENSMMDG00005001924	138	nppb	natriuretic peptide	Myripristis_murdjan	982A	982	A
+------------------------------------------------------------
+-------------------------------------MH-LPSFPLCILL------VLLS
+L-QLLDAYP------ISNGL--TDNDVDILKVLLHRLEDSILEQTEVNQEVPAERESL--
+RELN-------VEE-TA-DIERPGI---------GLDEAAIREFLSAKNLKTVR-N-DS-
+SKRSSGCFGRRMDRIGSMSSLGCNTVGRYSPKRR--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSLBEP00000019106 ENSLBEG00000014682	131	nppb	brain natriuretic	Labrus_bergylta	982A	982	A
+------------------------------------------------------------
+----------------------------------------MHLSSVCGLL------LILN
+L-QLITSYP------ISTGL--TDTDMEILKVLLHRLEDSVSEQTEVDQRIPAERDGV--
+DEDE-------AA-----DVQQPQT---------GLDEEMIREFLSAKNLKSVR-N-DS-
+SRRSSGCFGRRMDRIGSMSSLGCNTVGKYTPK----------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCGOP00000034480 ENSCGOG00000015990	131	nppb	natriuretic peptide	Cottoperca_gobio	982A	982	A
+------------------------------------------------------------
+-------------------------------------MH-LSSIPLCGFL------LILK
+L-QLFSTYP------ISTGL--TDSDMDILKVLLHRLEESVPV----DQSVPAGID-I--
+QSLD-------IED-AA-EGQQPQT---------GLDEAVIREFLSAKNLKSVR-N-DS-
+SRKSSGCFGRRMDRIGSMSSLGCNTVGRYNPK----------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCSEP00000007442 ENSCSEG00000004800	149	nppb	natriuretic peptide	Cynoglossus_semilaevis	982A	982	A
+------------------------------------------------------------
+--------------------------VNGSYQRLRTNMH-LSLIPICGLL-------ILN
+L-QLSVSHP------ITTGL--SDTDMDIFKVLLHKLQESVSLQSEVDQRAPVDQDGL--
+DRVA-------AEEVTEEQQQQPQT---------GLDEAAIREFFSAKNLKNVR-N-DS-
+TRRSSGCFGRRMDRIGSMSSLGCNTVGRYSKFE---------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSMAP00000006049 ENSSMAG00000003694	164	None	None	Scophthalmus_maximus	982A	982	A
+------------------------------------------------------------
+------------------------------MCNSDRNMH-LSLIPLCGLL------LILN
+L-QQSSTYP------VSTGL--SDTDMDILKVLLHRLQESVSEQTEVDQRVPAEQDGL--
+DSLH-------VEGVGA-DGWQPQS---------GLDEAAIREYFSAKNLKNVR-N-DS-
+SRRSSGCFGRRMDRIGSMSSLGCNTVGRSKYTFLLCLVALGRDV----------------
+-----------------PCHLYYLP-----------------------------------
+--------------------------------
+>ENSOTSP00005003374 ENSOTSG00005001920	142	nppb	brain natriuretic	Oncorhynchus_tshawytscha	982A	982	A
+------------------------------------------------------------
+-------------------------------------MQ-LSNIPLFGLI------LFLN
+L-PLLSAYP------VYNGLL-TNDDMDVLKVLLHRLGESIPERSEVERVATEKLDNM--
+TLEA-------IAMVAEDEREQQQN---------RLDKSAIREFLSARDLKTVR-NDST-
+SKRYSGCFGRRLDRIGSMSSLGCNTVGKYNPKRR--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSTUP00000082622 ENSSTUG00000036314	142	nppb	brain natriuretic	Salmo_trutta	982A	982	A
+------------------------------------------------------------
+-------------------------------------MQ-LSNIPLFGLI------LFLN
+L-PLLSAYP------VYNGLL-TNDDMDVLKVLLHRLEESIPERSEVERVATEKLDDM--
+TLEA-------IAMVAEDESEQQQN---------QLDKSAIREFLSARDLKIVR-NDST-
+SKRYSGCFGRRLDRIGSMSSLGCNTVGKYNPKRR--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSLOCP00000006706 ENSLOCG00000005558	144	nppb	brain natriuretic	Lepisosteus_oculatus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MQVLTDLSFFYALL-----LLLN
+A-QLCSAQP------FHTDT--VAKDVENLKNLLQRLEEAFPSPDEQEPFLSEQSEQG--
+-VF---DDLPGEAQSE-----QPRDELHPKT-T----DLEK--YLSARDLQTLR-SAHSS
+SKRYSGCFGRRLDRIGSMSSLGCNTSSRYRSKRS--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSAUP00010042695 ENSSAUG00010017930	140	None	brain natriuretic	Sparus_aurata	982A	982	A
+------------------------------------------------------------
+-------------------------------------MH-LSSIPLCGLL------IILN
+L-QLISTYP------ISTGL--TDTDMDILKVILHRLDESISQQTEVDQRLPAERDGL--
+DNLN-------IEDI---DGQQPQT---------GLDEAAIREFFSAKNLKNLR-N-DS-
+SRRSSGCFGRRMDRIGSMSSLGCNTVGKYSKLNSNQ----G-------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMAMP00000021294 ENSMAMG00000014277	138	None	brain natriuretic	Mastacembelus_armatus	982A	982	A
+------------------------------------------------------------
+----------------------------MIKSQNSRNMY-LSFIPLCSLL-------IVN
+M-QLINTYP------VSTGL--TDTDMDILKVLLHRLEESISEQTDTDQRVPVETDGP--
+DSVE-------V--------EEPQT---------GLDVAAIREFLSAKNLKSVR-N-DP-
+FKKSSGCFGRRMDRIGSMSSLGCNTVGRFNPK----------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMALP00000024152 ENSMALG00000016827	139	nppb	brain natriuretic	Monopterus_albus	982A	982	A
+------------------------------------------------------------
+----------------------------LEGSNSQTNMH-LSFISLCGLL-------ILN
+L-QLVSTFP------ISTSL--TDTDMDVLKVLLHRLEESLSEQTQVDQRVPSEVNDL--
+EKA-------------E-DAQQLQT---------GLDEAVIREFLSAKNLKSIR-N-DV-
+SKKPSGCFGRRLDRIGSMSSLGCNTVGKFKPK----------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSHCOP00000011235 ENSHCOG00000014012	152	None	brain natriuretic	Hippocampus_comes	982A	982	A
+------------------------------------------------------------
+-------------------------------------MS-LSSCVACGLF------LLLN
+L-QLFSTYP------VSTSL--TSSDMDILRVLLNTLKESLPEQTEMQQRLSAEKDNT-F
+DNLN-------RD----ADAQQPQD---------ALDEASIREFLSAKNLKSMR-S-DS-
+TRRSSNCFGRRMDRIGSMSSLGCNSVGKYSKLTINSIVSNGVVL----------------
+-----------------KHWKR--------------------------------------
+--------------------------------
+>ENSMMOP00000025814 ENSMMOG00000019574	144	nppb	natriuretic peptide	Mola_mola	982A	982	A
+------------------------------------------------------------
+-----------------------------EFKSSSKKDN-LQFGPVCGLL------LILN
+L-QLFSTYP------ISTGL--TDTDMDILKVILHKLEESVSEQTDVDQRLAAGNDVM--
+DSLN-------TEE-AA-DGQQPQS---------GLDEARIREFLSTKNLKTVR-N-DS-
+SRRSSSCFGRRMDRIGSMSSLGCNTVGRYNPK----------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSTRUP00000079039 ENSTRUG00000000954	275	None	Brain natriuretic peptide	Takifugu_rubripes	982A	982	A
+MFYVA------NRGNHTDVPYRRDGPLKGHCLLSGAGVRNVAPIPGIPICVRLEYKGAWL
+LQLQQLNRKPAKRQ------REQ---SAESKRNGQRNMV-VSFVSICGLL------LIFN
+L-PLSTSFP------VL-----SDTDVDVLEAILHKLEESMSEETEEDQMVPANSES-LE
+PVGS-------MKQTAN---RDQIR---------PVEVEAIREFLSANTRKNVQ-N-DS-
+SRRSSSCFGRRMDRIGSMSSLGCNTVGKYSKSSSRSTSGTTGAL----------------
+-------------------WLTEEISA----------LEALPRVQ--DFYREL------F
+SVPKNHVAMVERFLNLHLELL-SLSH------
+>ENSTNIP00000002734 ENSTNIG00000000929	143	nppb	natriuretic peptide	Tetraodon_nigroviridis	982A	982	A
+------------------------------------------------------------
+----------------------------LRARRTRRNML-VSSASICGLL------LILN
+L-QLFTSFP------II-----SDTDVDTLKMILHKLEESMSEQTEVDRKVPADRDLDLL
+DSLD-------LEQTAN---RDQIR---------PVEVEAIREFLSAKNLKNVR-N-DS-
+SRRSSSCFGRRMDRIGSMSSLGCNTVGKSNPK----------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSBBBP00000014491 ENSBBBG00000022221	129	NPPB	natriuretic peptide	Bison_bison_bison	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTALSRALLLLL--FLHLS
+L-LGCRSHP------VGGPG--PVSELPGLQELLDRLRDRVSELQAEQLRVEPLQQ----
+--------GQGLEETWDS-P-------AAAP-A-GFLGPHHSILRAL---RGP------K
+MMRDSGCFGRRLDRIGSLSGLGCNVLRRY-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSBTAP00000028974 ENSBTAG00000021739	129	NPPB	natriuretic peptide	Bos_taurus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTALSRALLLLL--FLHLS
+L-LGCRSHP------VGGPG--PVSELPGLQELLDRLRDRVSELQAEQLRVEPLQQ----
+--------GQGLEETWDS-P-------AAAP-A-GFLGPHHSILRAL---RGP------K
+MMRDSGCFGRRLDRIGSLSGLGCNVLRRY-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCHIP00000014225 ENSCHIG00000015339	129	NPPB	natriuretic peptide	Capra_hircus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTALSRALLLLL--FLHLS
+L-LGCRSHP------LGGPG--SASELPGLQELLDRLRDRVSELQAEQLRVEPLQQ----
+--------GQGLEETWDS-P-------AAAP-A-GFLGPHHSLLRAL---RGP------R
+MMRDSGCFGRRLDRIGSLSGLGCNVLRRY-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCWAP00000008683 ENSCWAG00000006710	131	NPPB	natriuretic peptide	Catagonus_wagneri	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTALPRVL-LLL--YLHLL
+L-LGCRSHP------LGGAG--LAAELPEIQELLDRLRDRVSELQAEQTDLEPLRR----
+--------DQGLTEAWQA-G-------EAAP-A-GVLGPRGSILQALRGIRSP------K
+TVRESGCFGRRLDRIGSLSGLGCNVLRRY-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSDLEP00000023931 ENSDLEG00000017340	132	NPPB	natriuretic peptide	Delphinapterus_leucas	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTTLPRALMLLL--FLHLS
+L-PRCPSYP------LGGPG--PASELRGIQELLGRLRGRVLELQAEQMDLDPLQQ----
+--------GHSLAEAWET-R-------AVAP-A-GLLGPGNSVLQALRGIRSP------R
+MMRDSGCFGRRLDRIGSLSGLGCNVLRRY-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMMSP00000023329 ENSMMSG00000017574	129	NPPB	natriuretic peptide	Moschus_moschiferus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTALSRALLLLL--FLHLS
+L-LGCGSHP------LGGPG--PSSELPGLQELLDRLRDRVSELQAEQLRVEPLQQ----
+--------GQDLEETRDS-P-------VAAP-A-GFLGPHYSILRAL---RGP------K
+MMRDSGCFGRRLDRIGSLSGLGCNVLRRY-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPCTP00005003716 ENSPCTG00005002689	132	NPPB	natriuretic peptide	Physeter_catodon	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTTLPRAFLLLL--CLHLS
+P-PGCRSSP------LGGPG--PASGLRGRQELLGRLRGRVLELQAGQMDLDPLQQ----
+--------GHGLAEAWET-R-------AAAP-A-GLLGPGNSVLQALRGIRSP------R
+MMRDSGCFGRRLDRIGSVSGLGCNVLRWY-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSAMEP00000010376 ENSAMEG00000009873	132	NPPB	natriuretic peptide	Ailuropoda_melanoleuca	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTALPRALLLLL--FLHLS
+P-LGGRSHP------LGSPN--PGLELSAMQELLDHLRDIVSELQAEQLSLGSLQQ----
+--------DHSPKEAWET-R-------KKPP-A-GALAPSDNALQALRRRHSP------K
+MMLRSGCFGRSLDRIGSLSGLGCNVLRRY-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSLCNP00005035106 ENSLCNG00005022793	132	NPPB	natriuretic peptide	Lynx_canadensis	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PKTALLRALLLLL--FLHLS
+P-LGGRSHP------LGGPG--PASEVSAIQELLDGLRDTVSELQEAQMALGPLQQ----
+--------GHSPAESWEA-Q-------EEPP-A-RVLAPRDNVLRALRRLGSS------K
+MMRDSRCFGRRLDRIGSLSGLGCNVLRRH-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMPUP00000016293 ENSMPUG00000016397	129	NPPB	natriuretic peptide	Mustela_putorius_furo	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTALLRALPLVL--FLL--
+--LGGRSHP------LGGPG--PASQLSAMQELLDHLRDTVSELQAEQMALGPLQQ----
+--------DHSPTEAWET-Q-------EQPP-A-RALGPSDNVLQALRRLRSP------K
+MMHKSGCFGRRLDRIGSLSGLGCNVLRRY-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSNVIP00000010779 ENSNVIG00000008545	129	NPPB	natriuretic peptide	Neovison_vison	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTALLRALPLVL--FLL--
+--LGGRSHP------LGGPG--PASQLSALQELLDHLRDTVSELQAEQTDLGPLQQ----
+--------DYSPTEAWET-Q-------EQPR-A-RALGSSDNVLQALRRRRSP------K
+MMRKSGCFGRRLDRIGSLSGLGCNVLRRY-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPLOP00000009174 ENSPLOG00000006739	132	NPPB	natriuretic peptide	Panthera_leo	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PKTALLRALLLLL--FLHLS
+P-LGGRSHP------LGGPG--PASEASAIQELLDGLRDTVSELQEAQMALGPLQQ----
+--------GHSPAESWEA-Q-------EEPP-A-RVLAPRDNVLRALRRLGSS------K
+MMRDSRCFGRRLDRIGSLSGLGCNVLRRH-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSSUP00005016039 ENSSSUG00005010370	129	NPPB	natriuretic peptide	Suricata_suricatta	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-SKTALLRPLLLLL--FLHLS
+P-LGGRSHP------LGSPG--PASEVSVIQELLEGLRDTVSELQE---ELGPLQR----
+--------GQSPAESWEA-Q-------EEPP-E-GVLAPRDNVLKALKQPGSP------K
+MMRDSGCFGRRLDRIGSLSGLGCNVLRKY-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSUMAP00000031511 ENSUMAG00000022754	132	NPPB	natriuretic peptide	Ursus_maritimus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTALPRALLLLL--FLHLS
+P-LGGRSHP------LGSPS--PALELSAMQELLDRLRDTVSELQAEQMALGPLQQ----
+--------DHSPTEAWEA-R-------EKPP-A-GALAPSDNVLQALRRLRSP------K
+MMRKSGCFGRRLDRIGSLSGLGCNVLRRY-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSVVUP00000040008 ENSVVUG00000028555	149	None	None	Vulpes_vulpes	982A	982	A
+------------------------------------------------------------
+-------------------------------------ME-PCAALPRALLLLL--FLHLS
+P-LGGRPHP------LGGRG--PASEAS---ELLGRLKDTVSELQAEQLALEPLHR----
+--------SHSPTEAPEA-G-------EERP-V-GVLAPRDNVLQALRRLRSP------K
+MMHKSGCFGRRLDRIGSLSGLGCNGKGVLRRQAHCR------------------------
+-------------VLGL---------C----------LW--PPRN--AA-----------
+--------------------------------
+>ENSMLUP00000010754 ENSMLUG00000011813	128	None	None	Myotis_lucifugus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTGLSRALLLLL--FLHLM
+P-LGGRSHP------LGGPSPGPPLKLSRVQELRDHLPGTVGEWQEEQTTPEPLQQ----
+--------GRSSKAAGAA-R-------QAAS-A-AGLGPRDHVLQ------SP------K
+RMRDSGCFGGRMDRIGSSTGLGCNVLKRH-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSRFEP00010025830 ENSRFEG00010017172	183	None	None	Rhinolophus_ferrumequinum	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQMALPRALLLLL--LLHLS
+P-LGGLSHP------VGGPGPTMELHPHPPQKLLDNLQDEVSEQQEEQMAPKLHQQ----
+--------DSGSVEDWEA-K-------QANS-T-GSLGSSD--FQTQQRQQGS------K
+TMPASSCFGRKMDRINTASRLGCNGEAQLAGPCGNRTG--------SPVAQ---------
+--SSHSNQLSHPSAPTFSFWFPIN--C----------LW--LQKQ--RAGSSGWP-----
+--------------------------------
+>ENSSHAP00000009876 ENSSHAG00000008550	134	None	None	Sarcophilus_harrisii	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-SQKALPSILLLLL--L--LQ
+L-PGSFSHP------LEGPR--QVRELTGVQELLYRLKDKISALEKLDSEEPEQRK----
+--------QETRGEVREN-R-KLQ--QQPVP-E-RSRDYRLPAFQALHGLQTP------K
+VMRGSSCFGRRLDRIGSLSDLGCNDLERL-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPCIP00000035335 ENSPCIG00000026129	168	None	None	Phascolarctos_cinereus	982A	982	A
+-----------------------------------------------PEKARR-------
+-----AERGKEEQQRRRQQQQQQPEVSPSPSSPLLPKHG-LQKALPSIFLLLL--L--LQ
+L-QGSFSHP------LDGPR--QARELTGVQELLYRLRDQISALEELETAEQ--------
+--------EETPGEVWEN-K-KPE--HRPVP-E-GSRSDRVLSFQALRGLQSP------K
+LMRESGCFGRRLDRIGSLSSLGCNVSRRN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSVURP00010031385 ENSVURG00010024012	124	None	None	Vombatus_ursinus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-SQKALPSIFLLLL--L--LQ
+L-QGSFSHP------LDGPR--QARELTGVQELLYRLRDEISALE------Q--------
+--------EQTLGEVWEN-R-KPE--HHPVP-E-GSRGDRVPSFQALSGLQSP------K
+LRRESGCFGRRLDRIGSLSSLGCNVSRRN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSOCUP00000018899 ENSOCUG00000027131	139	None	None	Oryctolagus_cuniculus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-LPTGLSRALLLLL--FLHLS
+P-QRCRPHP------LGSPSK-TSSELSEIQQLLGRLRNKVSQLQAQQTTLEPTQQ----
+--------DGGTAKTWET-Q-ETR---EAAP-A-GSPVPLDEARQTLRRLHGP------K
+RMRDSGCFGRRMDRIGSFSGLGCNVLRKHRAL----------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSOANP00000050133 ENSOANG00000050191	143	None	None	Ornithorhynchus_anatinus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MDCHRLAVPRALLLLL--LVLLQ
+A-RGGRALP------LAGLS--PARELAGVQELLNRLREKFSVLEELEADSEPETEAEE-
+--P-----AGNPAELWEE-S-EPRARARPAT-A-GSLEYRSPALQALRGLQNP------K
+FMRESGCFGRRLDRIGSISGLGCNGFRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSECAP00000011959 ENSECAG00000014282	132	NPPB	natriuretic peptide	Equus_caballus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-LQMALPRALLLLL--FLHLS
+P-LGGRSYP------LGGLG--PASEQSGIQELLDRLGDSVLEPQAERMTLEPLQQ----
+--------DRGPAEASET-R-------GAAP-T-GVLGPRTKVLQALRGLRSP------K
+MMRNSGCFGRRLDRIGSFSGLGCNVLRRY-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCJAP00000024696 ENSCJAG00000013447	133	NPPB	natriuretic peptide	Callithrix_jacchus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-LQTASSRVLLLLL--FLHLA
+L-PGGHSHP------LGSPTLPSDLETSRLQEQQGHLQDKLSELQAEQTSLEPLQK----
+--------SPHPTAVWKA-R-------EVAT-E-GIFGLRKLVLSTLRGPRSL------K
+PMRDTGCFGRRMDRISFSSGLGCKRLRW--------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCATP00000033984 ENSCATG00000039939	132	NPPB	natriuretic peptide	Cercocebus_atys	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTAPSWVLLLLL--FLHLA
+L-PGGRSHP------LGSS--ASDLETSGLQEQRNHLQGKLSELQVEQISLEPLQE----
+--------SPHPTGIWKA-Q-------EAAT-E-GIRGHRKMVLYTLRAPRSP------K
+MVRGSGCFGRKMDRISSSSSLGCKVLRRH-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCSAP00000017203 ENSCSAG00000000803	134	NPPB	natriuretic peptide	Chlorocebus_sabaeus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTAPSRVLLLLL--FLHLT
+L-PGGRSHP------LGSPGSASDLETSELQEQRNHLQGKLSELQVEQTSLEPLQE----
+--------SPRPTGVWKA-Q-------EAAT-E-GIRGHRKMVLYTLRAPRSP------K
+MVRGSGCFGRKMDRISSSSGLGCKVLRRH-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSGGOP00000018302 ENSGGOG00000012954	134	NPPB	natriuretic peptide	Gorilla_gorilla	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTAPSRALLLLL--FLHLA
+F-LGGRSHP------LGSPGSASDLETSGLQEQRNHLQGKLSELQVEQTSLEPLQE----
+--------SPRPTGVWKA-R-------EVAT-E-GIRGHRKMVLYTLQAPRSP------K
+MVQGSGCFGRKMDRISSSSGLGCKVLRRH-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSP00000365651 ENSG00000120937	134	NPPB	natriuretic peptide	Homo_sapiens	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTAPSRALLLLL--FLHLA
+F-LGGRSHP------LGSPGSASDLETSGLQEQRNHLQGKLSELQVEQTSLEPLQE----
+--------SPRPTGVWKS-R-------EVAT-E-GIRGHRKMVLYTLRAPRSP------K
+MVQGSGCFGRKMDRISSSSGLGCKVLRRH-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMMUP00000080297 ENSMMUG00000055655	160	NPPB	natriuretic peptide	Macaca_mulatta	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTAPSRVLLLLL--FLHLA
+L-PGGRSHP------LGSS--ASDLETSGLQEQRNHLQGKLSELQVEQISLEPPQE----
+--------SPRPTGIWKA-Q-------EAAT-E-GIRGHRKMVLYTLRAPRSP------K
+MVRGSGCFGRKMDRISSSSGLGCKGEQPLPP-----------------------------
+--------------------------------------W--PPAP--IPVCDTFRVTLGF
+VVSGNHTL------------------------
+>ENSMLEP00000025648 ENSMLEG00000037018	132	NPPB	natriuretic peptide	Mandrillus_leucophaeus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTAPSRVLLLLL--FLHLA
+L-PGGRSHP------LGSS--ASDLETSGLQEQHNHLQGKLSELQVEQISLEPLQE----
+--------SPRPTGIWKA-Q-------EAAT-E-GIRGHRKMVLYTLRAPRSP------K
+MVRGSGCFGRKMDRISSSSGLGCKVLRRH-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMICP00000031134 ENSMICG00000032500	132	NPPB	natriuretic peptide	Microcebus_murinus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MN-PPTALPRALLLLL--FLHLS
+L-LGGRSHP------LGHPS--PASELSGMQELLDRLRDKVSELQAKQMALEPLQQ----
+--------IQGPTEAWGS-Q-------EAAP-E-DVLGPRKNALQFPRSLQGP------K
+MMRDSGCFGRRLDRIGSHSSLGCNVLRRY-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPTRP00000000300 ENSPTRG00000000156	134	NPPB	natriuretic peptide	Pan_troglodytes	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTAPSRALLLLL--FLHLA
+F-LGARSHP------LGSPGSASDLETSGLQEQRNHLQGKLSELQVEQTSLEPLQE----
+--------SPRPTGVWKA-R-------EVAT-E-GIRGHHKMVLYTLRAPRSP------K
+MVQGSGCFGRKMDRISSSSGLGCKVLRRH-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPANP00000005314 ENSPANG00000015122	132	NPPB	natriuretic peptide	Papio_anubis	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTAPSRVLLLLL--FLHLA
+L-PGSRSHP------LGSS--ASDLETSGLQEQRNHLQGKLSELQVEQISLEPLQE----
+--------SPRPTGIWKA-Q-------EAAT-E-GIRGHRKMVLYTLRAPRSP------K
+MVRGSGCFGRKMDRISSSSGLGCKVLRRH-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPPYP00000002172 ENSPPYG00000001876	134	NPPB	natriuretic peptide	Pongo_abelii	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTAPSRALLLLL--FLHVA
+L-LGGLSHP------LGSPGSALDLETSGLQEQRNHLQGKLSELQVEQTSLEPLQE----
+--------SPRPTGVWKA-R-------EVAT-E-GIRGHHKMILYTLRAPRSP------K
+TVQGSGCFGRKMDRISSSSGLGCKVLRRH-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSTGEP00000025785 ENSTGEG00000020766	132	NPPB	natriuretic peptide	Theropithecus_gelada	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQTAPSRVLLLLL--FLHLA
+L-PGSRSHP------LGSS--ASDLETSGLQEQRNHLQGKLSELQVEQISLEPLQE----
+--------SPRPTGIWKA-Q-------EAAT-E-GIRGHRKMVLYTLRAPRSP------K
+MVRGSGCFGRKMDRISSSSGLGCKVLRRH-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSLAFP00000009222 ENSLAFG00000011025	130	None	None	Loxodonta_africana	982A	982	A
+------------------------------------------------------------
+--------------------------------------M-DQTALTRALLLLL--FLHLS
+P-PGGHSHP------LGGPD--LDLELPGLQKLLDHLQDTVSEVQTEPVILEPLQQ----
+--------GHGPVEAGEA-Q-------EVSP-M-GVPQPQ--IPEAQGRLPSP------K
+TMSDSGCFGGKMDRIGFHSRLRCNVILQRW------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCCNP00000025934 ENSCCNG00000025233	116	None	natriuretic peptide	Castor_canadensis	982A	982	A
+------------------------------------------------------------
+-------------------------------------MG-SQMVLPRTLLLLL--FLNLL
+P-LGGHSHP------LSTSQ---ELELSEIQEVLDRLQDKVEELQVETMALEPLQ-----
+--------DQGPAEAQET-G-------KAVP-K-SNLGSRDNAFQALQGLQNP------K
+MARSSGCFGRRMDRI---------------------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSTOP00000015880 ENSSTOG00000020778	132	NPPB	natriuretic peptide	Ictidomys_tridecemlineatus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PQMVLSRGSLLVL--FLSLL
+L-PGGRPHP------LGSPG--QAAELARIQELLGHLQDEGSEPPAKQTTLEPLQQ----
+--------DQGPTAASET-A-------KAAP-K-GVPGPRDSVLQALRGLRTA------K
+IMRDSGCFGRKLDRIGSYSRLGCNVLRRH-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMUGP00000023287 ENSMUGG00000019501	121	Nppb	natriuretic peptide	Meriones_unguiculatus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-LQNVLPQMIMLLL--FLSLS
+P-LGGRAHP------LGSPS--QSPEQFKMQKLLDLMREKSEETAQMQFP-----K----
+--------NQGP--------------TKESP-K-RALGSQDRALQVLQRLRNA------K
+VMHSSSCFGQRIDRIGSVSRLGCNVLKRF-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMAUP00000023250 ENSMAUG00000020459	122	Nppb	natriuretic peptide	Mesocricetus_auratus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-LRKVLSRVVLFLL--FLYLS
+P-LGSHSHP------LGSPS--QSPEQSKMQTLLDLLREKAEAVARGQLL-----K----
+--------DQDVI-------------TKAPL-Q-STLGSQDSTLHVLQKLRNS------K
+KMHNSGCFGQRIDRIGSFSRLGCNVLKRY-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMOCP00000008410 ENSMOCG00000008405	121	Nppb	natriuretic peptide	Microtus_ochrogaster	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-LQKVLSRTVLFLL--FLYLS
+P-LGGRSHP------LGSPS--QSPELVKMQTLLDLLREKAQEMAQGQLR-----K----
+--------DQDP--------------TKAPP-K-STLASQDSTLQDLQRLRNT------K
+KMHNSGCFGHKIDRIGSVSRLGCNVLKRY-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMUSP00000099521 ENSMUSG00000029019	121	Nppb	natriuretic peptide type	Mus_musculus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-LLKVLSQMILFLL--FLYLS
+P-LGGHSYP------LGSPS--QSPEQFKMQKLLELIREKSEEMAQRQLL-----K----
+--------DQGL--------------TKEHP-K-RVLRSQGSTLRVQQRPQNS------K
+VTHISSCFGHKIDRIGSVSRLGCNALKLL-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPEMP00000023011 ENSPEMG00000020191	121	Nppb	natriuretic peptide	Peromyscus_maniculatus_bairdii	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-LQKVLSWMILFLL--FLSLS
+L-LGGHSHP------LSSPS--QSPEQVKMQALLDLLRERAEEVPQGPLL-----K----
+--------DQDT--------------TKASL-Q-STLGSQDSTFQILQRIRNS------K
+KMHTSSCFGHRIDRIGSVSRLGCNVLKRH-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSRNOP00000010778 ENSRNOG00000008141	121	Nppb	natriuretic peptide	Rattus_norvegicus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-LQKVLPQMILLLL--FLNLS
+P-LGGHSHP------LGSPS--QSPEQSTMQKLLELIREKSEEMAQRQLS-----K----
+--------DQGP--------------TKELL-K-RVLRSQDSAFRIQERLRNS------K
+MAHSSSCFGQKIDRIGAVSRLGCDGLRLF-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSTBEP00000002849 ENSTBEG00000003314	132	NPPB	natriuretic peptide	Tupaia_belangeri	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-PYMILPRALLLLL--FLHLS
+P-LGCRSHP------LSSPI--SASELSGVQELLDLLQDKVSKMQAERMVRESLER----
+--------SRSLAEPREG-Q-------EAGP-A-SVLGSREGVLQALRGLRSP------K
+MMRNSSCFGRRLDRIGSLSGLGCNVLRRH-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSANIP00000002266 ENSANIG00000001582	139	NPPB	natriuretic peptide	Accipiter_nisus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFSCGFLLLL----LIQ
+L-QSSRANP------IYSLS--PAKELASMEALLERLEDKFAMIEAL-ESNPDLQEPKT-
+----Q----EIPPELID-DSDDQKAEPRLAP--SSPLSYRDPFLKRLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSACCP00020020869 ENSACCG00020014377	139	NPPB	natriuretic peptides	Aquila_chrysaetos_chrysaetos	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFSCGFLLLL----LIQ
+L-QFSRANP------IYSLS--PAKELASMEALLERLEDKFAMIEAL-ESNPDLQEPKT-
+----Q----EIPPELID-ESDDQKAEPRLAP--SSPLSYRDPFLKRLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSAPLP00020017064 ENSAPLG00020012251	152	NPPB	natriuretic peptides	Anas_platyrhynchos	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFSCGFLLLL----LIQ
+L-QASRANP------IYSLS--PAKELASMEALLERLEDKFALIEAL-ESNPDLQEPKT-
+----Q---EEIPPELID-DSDDQKAESKLAP--NTPLSYRDPFLKRLRGMQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGESSLSQLGEQNR-QQLC------------------
+------------------------------------------------------------
+--------------------------------
+>ENSACDP00005012267 ENSACDG00005009060	140	NPPB	natriuretic peptide	Anser_cygnoides	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFSCGFLLLL----LIQ
+L-QSSKANP------IYSLS--PAKELASMEALLERLEDKFALIEAL-ESNPDLQEPKT-
+----Q---EEIPPELID-DSDDQKTESKLAP--NTPLSYKDPFLKRLRGMQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSAOWP00000013175 ENSAOWG00000008985	140	NPPB	natriuretic peptide	Apteryx_owenii	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFSCGFLLLL----LIQ
+F-QSSRANP------IYSLS--PAKELASMEALLEKLEDKFALIEAL-ESNPDLREPKT-
+----Q---EEIPPELAD-DSDDQKAESRLAP--GTPLSYRDPFLKRLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSDNVP00000025349 ENSDNVG00000017645	140	NPPB	natriuretic peptides	Dromaius_novaehollandiae	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFSCGFLLLL----LIQ
+F-QSSRANP------IYNLS--PAKELASMEALLEKLEDKFALIEAL-ESNPDLQEPKT-
+----Q---EEIPPEFVD-DSDDQKAESRPEP--STPLSYRDPFLKRLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCPUP00000026900 ENSCPUG00000018114	140	NPPB	natriuretic peptide	Calidris_pugnax	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFSCGFLLLL----LIQ
+L-QTSRANP------IYNLS--PAKELASMEALLERLEDKFAMIEAL-ESNPDLQEPKT-
+----Q---EEVPPELLD-DSDDQKAEPRPAP--STPLSYRDPFLKRLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCPRP00005020929 ENSCPRG00005014568	140	NPPB	natriuretic peptide	Crocodylus_porosus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFLYGLLLLL----LFQ
+F-QSNRANP------IYSLS--PAKELASMEALLERLEDKFSLMEAL-ESSPDLQEPKA-
+----E---EEMPAELLE-DSDVPKPEPRFTP--SASQSYRDPFLKRLRGLQAP------K
+MMRDSGCFGRRIDRIGSLSGMGCNGSRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCJPP00005006995 ENSCJPG00005006462	140	NPPB	natriuretic peptides	Coturnix_japonica	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TRGSFSCGFLLLL----LIQ
+L-QPSRANP------IYNLS--PAKELASMEALLERLEDKFALIEAL-ESNPDLQEPQT-
+----Q---EEIPPEPID-DSDEQKAEPKLAP--SAPLSYRNPFLKRLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSGALP00000034287 ENSGALG00000004574	140	NPPA	natriuretic peptide	Gallus_gallus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TRGSFSCGFLLLL----LIQ
+L-QPSRANP------IYNLS--PAKELASMEALLERLEDKFALIEAL-ESNPDLQEPQT-
+----Q---EEIPPELTD-DSDEQKAEPKLAS--NTPLSYRNPFLKRLRGVQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMGAP00000006226 ENSMGAG00000006236	140	NPPB	natriuretic peptides	Meleagris_gallopavo	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TRGSFSCGFLLLL----LVQ
+L-QPSRANP------IYNLS--PAKELASMEALLERLEDKFALIEAL-ESNPDLQEPQT-
+----R---EEIPPELID-DSDEQKAEPKLAS--NTPLSYRNPFLKRLRGVQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSNMEP00000020158 ENSNMEG00000017332	140	NPPB	natriuretic peptides	Numida_meleagris	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TRGSFSCGLLLLL----LIQ
+L-QPSRANP------IYNLS--PAKELASMEALLERLEDKFALIEAL-ESNPDLQEPKT-
+----Q---EEIPPELID-DSDEQKAESKLAS--NTPLSYRNPFLKRLRGMQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPSTP00000007634 ENSPSTG00000005394	140	None	None	Pavo_cristatus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TRGSFSCGFLLLL----LVQ
+L-QPSRANP------IYNLS--PAKELASMEALLERLEDKFALIEAL-ESNPDLQEPKS-
+----Q---EEIPPELID-DSDEQKAEPKLAS--NTPLSYRNPFLKGLRGVQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPCLP00000023083 ENSPCLG00000020421	145	NPPB	natriuretic peptide	Phasianus_colchicus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TRGSFSCGFLLLL----LVQ
+L-QPSRANP------IYNLS--PAKELASMEALLERLEDKFALIEAL-ESNPDLQEPQT-
+----Q---EEIPPELID-DSDEQKAEPKLAS--NTPLSYRNPFLKRLRGVQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGESNLSHSGE--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCPVP00000018217 ENSCPVG00000013343	140	NPPB	natriuretic peptide	Camarhynchus_parvulus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFFYGFLLLL----LIQ
+L-QPSRANP------IYSLS--PAKELASMEALLERLEDKFAMMEAL-ESNPDLQEPKT-
+----Q---EEILPELAD-DSDNQRAEPRLAS--NTPLSYRDPFLKRLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGYRRN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCCEP00000022577 ENSCCEG00000020392	140	NPPB	natriuretic peptides	Cyanistes_caeruleus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFFYGFLLLL----LIQ
+L-QPSRANP------IHSLS--PAKELASMEALLERLEDKFAMIEAL-ESNPDLQEPKT-
+----Q---EEIQSELID-DSDNQKAEPRIAP--NTPLSYRNPFLKRLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRRN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSEGOP00005017758 ENSEGOG00005014273	140	NPPB	natriuretic peptide	Erythrura_gouldiae	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFFYGFLLLL----LIQ
+L-QSSRANP------IYSLS--PAKELASMEALLERLEDKFAMIEAL-ESNPDLQEPKT-
+----Q---EETLSELAD-DSDNQKAEPRLAP--NTPLSYRDPLLKRLRGLQLP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRRN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSFALP00000010517 ENSFALG00000010079	140	NPPB	natriuretic peptides	Ficedula_albicollis	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFFYGFLLLL----LIQ
+L-QSSRANP------IYSLS--PAKELASMEALLERLEDKFAMMEAL-ESNPDLQQPKL-
+----Q---EEIPSELVD-DSDNQKAEARLAP--NTPLSYREPFLKRLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRRN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSGFOP00000018129 ENSGFOG00000012293	160	None	None	Geospiza_fortis	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFFYGFLLLL----LIQ
+L-QPSRANP------IYSLS--PAKELASMEALLERLEDKFAMMEAL-ESNPDLQEPKT-
+----Q---EDILPELAD-DSDNQRAEPRLAS--NTPLSYRDPFLKRLRGLQMP------R
+MMRDSSCFGRRIDRIGSLSGMGCNGESWLSHVTEQHRPCP-CHG--REQLL---------
+--I---------------------------------------------------------
+--------------------------------
+>ENSJHYP00000005304 ENSJHYG00000004334	184	None	None	Junco_hyemalis	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFFYGFLLLL----LIQ
+L-QPSRANP------IYSLS--PAKELASMEALLERLEDKFAMMEAL-ESNPDLQEPKA-
+----Q---EEILPELSD-DGDNQKAEARLAP--NTPLSYREPLLKRLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGDTPPKKEILPKTHIQ------SASQG---------
+--T---ESL-DPHVSPSSGTKPSSHNC---------------PVS--CMFC---------
+--------------------------------
+>ENSLSDP00000012286 ENSLSDG00000008977	140	NPPB	natriuretic peptides	Lonchura_striata_domestica	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFFYGFLLLL----LIQ
+L-QPSRANP------IYSLS--PAKELASMEALLERLEDKFAMMEAL-ESNPDLQEPKT-
+----Q---EEILSELAD-DSDNQKAEPRLAP--NTPLSYRDPFLKRLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRRN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMVIP00005006167 ENSMVIG00005004713	152	NPPB	natriuretic peptides	Manacus_vitellinus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFFYGFLLLL----LIQ
+L-QSSRANP------IYSLS--PAKELASMEALLERLEDKFAMIEAL-ESNPDLPEPKP-
+----Q---EEIRPELDD-DSEDQKAEPRLAP--NPPLSFRDPLLKRLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGESLSGPPRGRSSPLNL-------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPMJP00000007413 ENSPMJG00000006123	140	NPPB	natriuretic peptide	Parus_major	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFFYGFLLLL----LIQ
+L-QPSRANP------IYSLS--PAKELASMEALLERLEDKFAMIEAL-ESNPDLQEPKT-
+----Q---EEILSELTD-DSDNQKAEARIAP--NTPLSYRNPFLKRLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRRN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSCAP00000003732 ENSSCAG00000003081	177	None	None	Serinus_canaria	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFFYGFLLLL----LIQ
+L-QPSRANP------IYSLS--PAKELASMEALLERLEDKFAMMEAL-ESNPDLQEPKT-
+----Q---EEILSELAD-DGDNQKAEPRLAP--NTPLSYRDPFLKRLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGEQNQILVTFV--SCLVCRF--PEKLG---------
+--S---TSL-EPALKNAL--------------------------Q--YPFLPR-------
+--------------------------------
+>ENSTGUP00000016155 ENSTGUG00000015836	140	NPPB	natriuretic peptide	Taeniopygia_guttata	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFFYGFLLLL----LIQ
+L-QSSRANP------IYSLS--PAKELASMEALLERLEDKFAMMEAL-ESNPDLQEPKT-
+----Q---EEILSELAD-DSDNQKAEPRLAP--NTPLSYRDPFLKRLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRRN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSZALP00000014763 ENSZALG00000012222	140	NPPB	natriuretic peptides	Zonotrichia_albicollis	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFFYGFLLLL----LIQ
+L-QPSRANP------IYSLS--PAKELASMEALLERLEDKFAMMEAL-ESNADLQEPKA-
+----Q---EEILPELTD-DGDSQKAEPRLAP--NTPLSYREPLLKGLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGYRRN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSACOP00000009623 ENSACOG00000006698	149	NPPB	natriuretic peptide	Amazona_collaria	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFSCGFLLLL----LIQ
+L-QPGRANP------IYSLS--PAKELASMEALLEKLEDKFAMIEAL-ESNPDLQEPKN-
+----H---EETPPELMD-DSDDQKAEPRLAP--STPLSYRDPFLKRLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGENRKNHNTPQVS-R---------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMUNP00000021541 ENSMUNG00000016252	139	NPPB	natriuretic peptide	Melopsittacus_undulatus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGTFSCGFLLLL----LIQ
+L-QPGRANP------IYSLS--PAKELASMEALLEKLEDKFAMIETL-ESNPDLQEPKT-
+----Q---EEIPPELMD-DSDDQKAEPRLAP--STPLSYRDPFLKRLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGESI--------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSHBP00005009016 ENSSHBG00005007874	140	NPPB	natriuretic peptides	Strigops_habroptila	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFSCGFLLLL----LIQ
+L-QPGRASP------IYSLS--PARELASMEALLEKLEDKFAMIEAL-ESNPDLQEPKN-
+----Q---EEIPSELMD-ESDDQKAELRLAP--STPLSYRDPFLKRLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSPUP00000016242 ENSSPUG00000012569	137	NPPB	natriuretic peptide	Sphenodon_punctatus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFSCGFLMLL----LIQ
+L-QHSTPHP------IDSLS--PARELASMEAILERLEDKFSLLEAL-ESNPEPQEPKA-
+----Q---F---LGISD-DSDDQQPETRLDP--STSLSYRDSFLKQLRGLQNP------K
+MMRESGCFGRRIDRIGSLSGMGCNGSRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSLLTP00000022468 ENSLLTG00000016700	137	None	None	Laticauda_laticaudata	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-AKGSCLIVVCLVL--F--LC
+F-QCPAAHP------IHSLS--PAEELANMELLLDRLEEKVALMEDLQANPDDLESQ-G-
+--E-----HRAEE----NLS----DNPLADD-F-PTFSDRTALLKHMRGIQAA------K
+SMRESGCFGRRLDRIGSVSGMGCKGERNHETKN---------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPMRP00000024236 ENSPMRG00000015665	146	None	None	Podarcis_muralis	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TQGSTAVTFVLLF--L--LC
+F-QHPMAHP------IDSLS--PAKELASMEALLQRLEEKVSLMEDLQNSPNLEDPE-S-
+--Q-----REGLTEFLDDGN-SQQVETPAYS-A-PFLSDRSALLKRMNKLRALF-NSPRS
+LQRSSNCFGQRLDRIGTSTGLGCNRNRVRD------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPVIP00000028002 ENSPVIG00000020808	141	NPPB	natriuretic peptide	Pogona_vitticeps	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-ATKSVLTSFALLF--L--LG
+V-QRSISHP------V-SLS--PAKELASMEALLERLEGKIALMEDLQNNPDPEEAD-T-
+--P-----REDVDGFLEENS-DQRTDPRADP-A-PFTSDRGSVFKHLRGLQAA------K
+SMRESGCFGRRLDRIGSVSGMGCRGEPRKPR-----------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPTXP00000017392 ENSPTXG00000011962	133	NPPB	natriuretic peptides	Pseudonaja_textilis	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-AKGSFLTVVCLVL--L--LC
+F-QCPAAHP------IRSLS--PAEELANMELLLDRLEEKVALLEDLQANPDDFESQ-G-
+--E-----PQAEE----NLS----DSPLADD-F-PAFSDRTALLKHMRGIQAA------K
+SMRESGCFGRRLDRIGSVSGMGCKGPRRH-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSMRP00000020281 ENSSMRG00000015772	141	NPPB	natriuretic peptide	Salvator_merianae	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-AKGAFSVGFSLLF----LLS
+L-QHAASHP------XDSLS--PAKELANMEALLERLEEKFSLMEDQQQSNSDFEEPES-
+----Q---RGDMTEFSE-IGRNQPVESQVDS--IPFGSDRTSLLKRLRGLQAT------K
+SMRDSGCFGRRLDRIGSVSGMGCKGFRRN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSVKKP00000001221 ENSVKKG00000001008	136	NPPB	natriuretic peptide	Varanus_komodoensis	982A	982	A
+------------------------------------------------------------
+-------------------------------------ME-PKGLLVASFSVMF--L--FC
+L-QSPSAHP------IDSLS--PAKELASMEALLERLEEKVSLMEQLRNAPGPEEAE-P-
+--Q-----SVGLE----ALS-ADGVEPGDDS-A-PFLSDRGALLKRMRGLQVA------K
+SMRESGCFGRRLDRIGAVSGMGCKGIRRH-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSACUP00000001275 ENSACUG00000000943	140	NPPB	natriuretic peptide	Athene_cunicularia	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFSCGFILLL----LIQ
+L-QSSRANP------IYNLS--PVKELASLEALLERLEDKFAMIEAL-ESNTDLQEPKT-
+----Q---EEIPPELTD-DSDDRKAEPRLAP--STPLSYRDPFLKRLRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSCUP00000009314 ENSSCUG00000006714	140	NPPB	natriuretic peptides	Struthio_camelus_australis	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-AKGSFSCGFLLLL----LLQ
+F-QSSKANP------IYSLS--PAKELASMEALLEKLEDKFALIEAL-ESNPDLQEPKT-
+----Q---EDSPPELVD-DSDDQKAESRLAP--STLLSYRDPFLKRLKGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCABP00000023394 ENSCABG00000017247	140	NPPB	natriuretic peptide	Chelonoidis_abingdonii	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFSCGILLLL----LMQ
+F-QSSRTNP------IYGLS--PAKELASMEALLERLEDKFSLMEAL-ESNPDLQEPEA-
+----Q---QDTPPEVFD-DNSDQQPEPRPAP--SARLSYSDPILKRLRGLQAP------K
+MMRDSGCFGRRIDRIGSLSGMGCNGFRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCSRP00000012567 ENSCSRG00000009489	147	NPPB	natriuretic peptide	Chelydra_serpentina	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFSCGILLLL----LIQ
+F-QSSRTNP------IYGLS--PAKELASMEALLERLEDKFSLMEAL-ESNPDLQEPEA-
+----Q---QETPPELFD-DSSDQQPEPRLAP--SAPLSYRDPVLKRLRGLQAP------K
+MARDSGCFGRRIDRIGSLSGMGCNGESLLAQLIING------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCPBP00000031298 ENSCPBG00000021971	147	NPPB	natriuretic peptide	Chrysemys_picta_bellii	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFSCGILLLL----LIQ
+F-QSSRTNP------IYGLS--PAKELASMEALLERLEDKFSLMEAL-ESNPDLQEPEA-
+----Q---QETPPELFD-DSSDQEPEPRPAP--SAPLSYRDPILKRLRGLQAP------K
+MMRDSGCFGRRIDRIGSLSGMGCNGESLLTQLIING------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSGAGP00000035415 ENSGAGG00000025180	140	NPPB	natriuretic peptide	Gopherus_agassizii	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFSCGILLLL----LMQ
+F-QSSRTNP------IYGLS--PAKELASMEALLERLEDKFSLMEAL-ESNPDLQEPEA-
+----Q---QDTPPELFD-DNSDQQPEPRPAP--STRLSYSNPILKRLRGLQAP------K
+MMRDSGCFGRRIDRIGSLSGMGCNGFRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPSIP00000008332 ENSPSIG00000007620	140	NPPB	natriuretic peptides	Pelodiscus_sinensis	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFACGFLLLL----LLQ
+F-QSSRTNP------LAGLS--PAKELASMEALLERLEDKFSLMEAL-GSNPDLQEPDT-
+----Q---QEIPPELMD-ESNDQQPEPRLAP--SAPLSYRDPFLKRLRGLQAP------K
+MMRESGCFGRRIDRIGSLSGMGCNGSRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPCEP00000008217 ENSPCEG00000006611	150	NPPB	natriuretic peptide	Pelusios_castaneus	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-IKGSFSCGFLLLL----LIQ
+F-QPSRTNP------LYSLS--PAKELASMEALLERLEDKISLMEAL-EPNSDLQEADA-
+----Q---QEIPPELFD-ERGDQLPEPRLAP--STALSYRDPFLKRLRGLQTP------K
+MMRESGCFGRRIDRIGSLSGMGCNGKSPQPISLQMYYSY---------------------
+------------------------------------------------------------
+--------------------------------
+>ENSTMTP00000030312 ENSTMTG00000021878	147	NPPB	natriuretic peptides	Terrapene_carolina_triunguis	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFSCGMLLLL----LIQ
+F-QSSRTNP------IYGLS--PAKELASMEALLERLEDKFSLMEAL-ESNPDLQEPEA-
+----Q---QETPPELFD-DSSDQQPEPRPAP--SAPLSYRDPILKRLRGLQAP------K
+MMRDSGCFGRRIDRIGSLSGMGCNGESLLTQLIING------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSNPEP00000011285 ENSNPEG00000008473	140	NPPB	natriuretic peptides	Nothoprocta_perdicaria	982A	982	A
+------------------------------------------------------------
+-------------------------------------MD-TKGSFSCGFLLLL----LIQ
+F-QSSRANP------IYSLS--PAKELASMEALLEKLEDKFAMIEAL-ESNPDLQEPKT-
+----Q---EEIPPEFGD-DSDDQKIESRLAP--STPLSYRNPFLKRMRGLQMP------R
+MMRDSGCFGRRIDRIGSLSGMGCNGSRKN-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSATEP00000031638 ENSATEG00000021793	160	nppa	natriuretic peptide	Anabas_testudineus	982B	982	B
+------------------------------------------------------------
+--------------------------------------M--RIAVLWGL---L---ALLC
+QHTLVSSHI------LGRSS--STSDLAQLKSLLERFEETLAEAGQE-EDS----EGDY-
+EGTNQESAR---SREWSQDQEGDQEPLIPER-SQPPAESHSRAASQRSRLQDLL-LATR-
+K-RASSCFGARMDRIGNASGLGCNNGRGKTEGNQAKVCVKAAGT----------------
+-------------DTT--------------------------------------------
+--------------------------------
+>ENSGWIP00000015063 ENSGWIG00000008443	156	None	natriuretic peptides	Gouania_willdenowi	982B	982	B
+------------------------------------------------------------
+-------------------------------------TM--SPVVLWGL---L---VLLV
+QQSLVCSHV------LGRPS--SSSDLSQLKSLLERFEETLAEAAEA-EDQ----ESDY-
+EGTDQQPENSQSSQQWSPDRTGNEERLAPG-----------RALNQKSLLQDLL-LTAR-
+K-RSSGCFGARMDRIGNASGLGCNSGRGKTAIRKIRKCCELLKT--L-------------
+----------LENI----------------------------------------------
+--------------------------------
+>ENSENLP00000020438 ENSENLG00000009317	159	nppa	natriuretic peptide	Echeneis_naucrates	982B	982	B
+------------------------------------------------------------
+--------------------------------------M--RTTVLWGL---L---ALLC
+QHTLVSSHI------LGRAS--STSDLAQLKSLLERFEGTLAEAVQQ-EDS----EGDY-
+EETNQV--------------EEDHEPLLADK-SQPLAVGPSRAMTQRNNLLDLL-MSTR-
+K-RASSCFGARMDRIGNASGLGCNNGRGKTAADDEAGSCKESCS--I-------------
+----------MFIRFEMSLTAG--------------------------------------
+--------------------------------
+>ENSSDUP00000002071 ENSSDUG00000001581	161	nppa	natriuretic peptide	Seriola_dumerili	982B	982	B
+------------------------------------------------------------
+-------------------------------------IM--RTAVLWGL---V---ALLC
+QHTLVSSHI------LGRAS--STSDLAQLKSLLERFEETLAAAAQE-EDS----EADY-
+EGTNQEPERSQTSRGWSINQEGDQEPLISDR-SQPPAEGHSRATSQRSRLQDLL-MATR-
+K-RASSCFGARMDRIGNASGLGCNNGRVRAGCCGISRTVETNMK----------------
+------------------------------------------------------------
+--------------------------------
+>ENSACIP00000004211 ENSACIG00000003326	156	None	None	Amphilophus_citrinellus	982B	982	B
+------------------------------------------------------------
+--------------------------------------M--RTEVLWGM---L---ALLC
+QQTLVSSHI------LGRPS--STTDLAQLKSLLERFEETLAEAVQE-EEL----QTDY-
+EDMNQEPKRSQPSQGWGLDQERNQEALISER-AQPPNEDHSKTASQRSRLQDLL-MATR-
+K-RTSGCFGARMDRIGNASGLGCNSGRGETAVKNTRRKFE--------------------
+------------------------------------------------------------
+--------------------------------
+>ENSONIP00000058879 ENSONIG00000017953	167	nppa	natriuretic peptides	Oreochromis_niloticus	982B	982	B
+------------------------------------------------------------
+--------------------------------------M--RTEVLWGV---L---ALLC
+QQTLVSGHI------LGRPS--SANDLAQLKSLLERFEETLDEVVQK-EDL----EAYY-
+EDMNQDPKSSQTSQGWD--QEGNQEPLISEK-AQPLTEG--KTVNQRSRLQDLL-MATR-
+K-RTSGCFGARMDRIGNASGLGCNSGRGRTAVGDARHKFELNEL--N-------------
+----------KYRA--LEHVNP--------------------------------------
+--------------------------------
+>ENSPNYP00000028058 ENSPNYG00000021122	187	nppa	natriuretic peptide	Pundamilia_nyererei	982B	982	B
+------------------------------------------------------------
+--------------------------------------M--RTEVLWGV---L---ALLC
+QQTLVSSHI------LGRPS--SANDLAQLKSLLERFEETLDEVVQK-EDL----EAYY-
+DDMNQEPKSSQASQGWD--QEGNQEPLISEK-AQPLTEG--KTVNQRSRLQDLL-MATR-
+K-RTSGCFGARIDRIGNVSGLGCNSGRGRTAVGEAKHKFELNLL--N-------------
+----------KYRA--LEHVNPQKCAC----------SW--ILTK--CAFT--------Y
+STSS----------------------------
+>ENSCARP00000103158 ENSCARG00000052704	141	nppa	natriuretic peptides	Carassius_auratus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MI--RGLILTGL---L---LLLW
+SQMDVQAHM------LSRHS--PVSNMAKLKGLLQQLEEAVATEEA--PER----AVDY-
+EDSLPALEQSPASVSWDRDRDREEEAAPAED-TSPP----DGFETQRNRLIDLL-MSTR-
+SKSLSGCFGGRLDRIGSSSTIGCNSKKG--------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCCRP00000063100 ENSCCRG00000033907	157	nppa	natriuretic peptides	Cyprinus_carpio	982B	982	B
+------------------------------------------------------------
+-------------------------------------MI--RGLILTGL---L---VLLC
+HQMDVQAHM------LSRHS--PVSNMAKLKSLLQQFEEALATEEA--PES----AVDY-
+EDSNTELEQSPASASWDRDREE--------E-AAPA----DGFETQRRRLIDLL-MSTR-
+SKSLSGCFGGRLDRIGSSSTLGCNSKKRLAMMSDTVTL-RLQYK--L-------------
+----------FYM-------------------------W--AVIH---------------
+--------------------------------
+>ENSDARP00000108691 ENSDARG00000052960	139	nppa	natriuretic peptide	Danio_rerio	982B	982	B
+------------------------------------------------------------
+-------------------------------------MA--GGLILTGL---L---LLVW
+QQTDVQAHT------LSRHS--SDSNMAKLKSLLQQFEEALATEEA--SER----AVDY-
+EDSNTVLEQSPPSTSWDR--DREEAAAPGED-SNPS----DGFDTQRNRLLDLL-LSTR-
+SKSLSGCFGGRLDRIGSSSTLGCNSKKG--------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSGRP00000059609 ENSSGRG00000031002	130	nppa	natriuretic peptides	Sinocyclocheilus_grahami	982B	982	B
+------------------------------------------------------------
+-------------------------------------MI--RGLILTGL---L---VLLW
+HQMDVQAHT------LSRHS--PASNMAKLKSLLQQLEEALAAEEA--PER----AVDY-
+EDSN---------TSWDR--DREEEAAPAED-SNPS----DGFETQRNRLVDLL-MSTR-
+SKSLSGCFGGRLDRIGSSSTLGCNSKKG--------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSFHEP00000008391 ENSFHEG00000009575	152	nppa	natriuretic peptides	Fundulus_heteroclitus	982B	982	B
+------------------------------------------------------------
+--------------------------------------M--KAALVFTV---L---AVFW
+QQCLVRGHV------LGRPS--LTSNLDQLKTLLERFEESLAEEARK-EEL----DADY-
+EETNQEPEQSQTSRGWSLDPEGDRDNQMPEA-AQPSAVGQSRTASQRNRLKDLL-LSLG-
+K-RASSCFGARMDRIGNVSGLGCNSARGTKRVLHAN------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSKMAP00000012171 ENSKMAG00000009154	139	nppa	natriuretic peptides	Kryptolebias_marmoratus	982B	982	B
+------------------------------------------------------------
+--------------------------------------M--RTTVVCSM---L---ALFC
+QHCLVNSHI------LGRPS--STSDLDQLRSLMERFEETLDEAAL--EES----EADY-
+EETNQEHEHGPASRVWSLDQ----DSAMSEK-PLPSAVSRNRAQSQRSQLQNLL-MSIK-
+K-RASGCFGGRMDRIGNVSGLGCNSGRG--------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPREP00000003010 ENSPREG00000002191	134	nppa	natriuretic peptide	Poecilia_reticulata	982B	982	B
+------------------------------------------------------------
+------------------------------------DSM--KTAVVFTA---L---ALFW
+QHSLVTGHA------LGRPS--LPSNLDQLKSLLERIEETLADEAQEE--------SDY-
+EEPTRE-----AEPSWSPEQQNR-----------------RSEAGQRNRLNDLL-LSLR-
+K-RASSCFGARMDRIGNISGLGCNSGRGKKKILFYIYKYK--------------------
+------------------------------------------------------------
+--------------------------------
+>ENSELUP00000008404 ENSELUG00000009047	151	nppa	natriuretic peptides	Esox_lucius	982B	982	B
+------------------------------------------------------------
+---------------------------------MESYMA--RMTVSWAL---L---VLVC
+QQMLVAAHV------LGRPY--PASDLVQLKNLLERFEETLASVAIA-ENP----AVDY-
+EGPNSESEQSQNNPGWDMVQEAPQRSVLSDIREQTTDESYSRAQSLKNKLQDLL-MASR-
+SKAVSGCFGGRMDRIGTASGLGCTPKKG--------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMMDP00005003416 ENSMMDG00005001921	154	nppa	natriuretic peptides	Myripristis_murdjan	982B	982	B
+------------------------------------------------------------
+--------------------------------------M--RTVVLWGL---L---ALLY
+QHTLVSSHV------LGRSY--SPSDLAQLKSLLGKFEETLSEATQE-EDT----EADY-
+EGVNQEPVHSQDGPRWSSDQEGGQQPSILER-QQPAADSHSWTPSQRSRLQELL-MSTR-
+S-RVSGCFGARMDRIGNASGLGCNNGRGKLAAGHGKRK----------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSMAP00000005951 ENSSMAG00000003660	183	None	None	Scophthalmus_maximus	982B	982	B
+------------------------------------------------------------
+--------------------------------------M--RPAVLSSL---L---ALLC
+QYALVNSHI------LGRAS--STSDLAQLKSLLERFEETLAEAAQE-EDS----EANY-
+EATNQESERSQARPGWNLDQDGDQEPLKLER-FQPPAEGHSKPTSPRSRLQDLL-MTTR-
+K-RASSCFGARMDRIGNASGLGCNSGRGKSRLRRHDDKTFVLVR--L-------------
+----------LWFRSRLQVWSPESLKN-----------------K--NIFS---------
+--------------------------------
+>ENSHHUP00000032471 ENSHHUG00000020586	152	nppa	natriuretic peptide	Hucho_hucho	982B	982	B
+------------------------------------------------------------
+---------------------------------MESGMA--RTAVSWGL---L---LLLC
+QQTLVAAHV------LGRPY--PDSDLAQLKNLLERFEETLAAVATA-DDP----AVDY-
+EGPNPEPEHSKASPEWDMAPEAPQRPLLSDVRELAADESYSRAQSQRSRLQDLL-MATR-
+SKAVSGCFGARMDRIGTSSGLGCSPKRRS-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSOTSP00005036255 ENSOTSG00005017084	150	nppa	natriuretic peptides	Oncorhynchus_tshawytscha	982B	982	B
+------------------------------------------------------------
+---------------------------------MESSMV--RTAVSWGL---L---LLLC
+QQTLVAAHV------LGRPY--PESDLAQLKNLLERFEETLAAVATA-DDP----AVDY-
+EGPNPEPEHSKASPEWDRAPEAPQR--LSDVRELAADESYSRAQSQRSRLQDLL-MATR-
+SKAVSGCFGARMDRIGTSSGLGCSPKRRS-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSTUP00000059037 ENSSTUG00000025394	152	nppa	natriuretic peptides	Salmo_trutta	982B	982	B
+------------------------------------------------------------
+---------------------------------MESRMV--RTAVSWGL---L---LLLC
+QQTLVAAHV------LGRPY--PDSDLAQLKNLLERFEETLAAVATA-DDP----AVDY-
+EGPNPEPEHSKASPEWDRAPEAPQRPLLSDVRELAADESYSRAQSQRSRLQDLL-MATR-
+SKAVSGCFGARMDRIGTSSGLGCSPKRRS-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSAUP00010042690 ENSSAUG00010017928	144	nppa	natriuretic peptide	Sparus_aurata	982B	982	B
+------------------------------------------------------------
+--------------------------------------M--RTAVLWGL---L---VLLC
+QHTLVSGHV------LGRPS--STSDLAQLKSLLGRIEETLMEAAQE-EDS----EAEY-
+EGTNQEPEHSQASPGWSLDQEGDQEPLISER-SQSPSEGHSRTASQRSRLQDLL-LTTR-
+K-RASSCFGARMDRIGNASGLGCNNGRG--------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMALP00000024182 ENSMALG00000016861	146	nppa	natriuretic peptide	Monopterus_albus	982B	982	B
+------------------------------------------------------------
+--------------------------------------M--RIVVLWGPLALL---ALLC
+EHTLVSSHI------LGRAS--STSDLAQLKSLLERFEETLSEAAQEEEDP----EADY-
+EGTNQESARSQAGQGWSLDQ----EPSIPET-SQSAAEGHSRAASQRSRLQDLL-ITAR-
+K-RASGCFGARLDRIGSSSSLGCNSGRGKR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMMOP00000025819 ENSMMOG00000019578	156	nppa	natriuretic peptide	Mola_mola	982B	982	B
+------------------------------------------------------------
+--------------------------------------M--RITVLWGL---L---VLLC
+QDTLVSSHI------LGRPS--SASDLAQLKSLLERFEETVSDAGQ--EDF----EANY-
+DISDQEPEHSQVSREWSLDQEREQDPLISDR-SQWAAESHSRPASQRSRLQDLL-LTAK-
+K-RASSCFGARMDRIGNASGLGCNNGRGKAAAINKSNVLHG-------------------
+------------------------------------------------------------
+--------------------------------
+>ENSTRUP00000088156 ENSTRUG00000020513	152	nppa	Takifugu rubripes atrial natriuretic peptide (nppa), mRNA	Takifugu_rubripes	982B	982	B
+------------------------------------------------------------
+-------------------LCETVSVCVRL-CETVCVCV--CVCVCVCV---C---VCVC
+VCVCVCVCI-------------VSTLPSSPQSLLERLEETISEADQE-QNPELDQEVEY-
+DIRDQD-----PGQRWNLDLGRDQDQVTATR-----SEIHSRPSVQRSHLQDLL-MSLR-
+K-RASSCFGARMDRIGNASGLGCNNGRG--------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSTNIP00000005863 ENSTNIG00000003280	138	None	None	Tetraodon_nigroviridis	982B	982	B
+------------------------------------------------------------
+--------------------------------------M--KIVVLWSL---L---VLLG
+QHPQVSSHV------LGRPS--SASDLSQLKSLLERFEESVSEADQD-QNPELDQEAEY-
+DTRDEE-----PGRGWNLDLLKNQDAATAGR-----SELHT-PSGQRNHLQDLL-MSLR-
+K-RASSCFGARMDRIGNASGLGCNNGRG--------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSBBBP00000014476 ENSBBBG00000022214	152	NPPA	natriuretic peptide	Bison_bison_bison	982B	982	B
+------------------------------------------------------------
+--------------------------------------M-GSSAITVSF-LLF---LAFQ
+LPGQTGANP------VYGSV--SNADLMDFKNLLDRLEDKMPLEDEA-VPSQVLSEQ--N
+EEAGAPLSPLSEMPPWMGEVNPAQREGGVLG-R-GPWESSDRSALLKSKLRALL-TAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSBTAP00000008819 ENSBTAG00000006709	152	NPPA	natriuretic peptide	Bos_taurus	982B	982	B
+------------------------------------------------------------
+--------------------------------------M-GSSAITVSF-LLF---LAFQ
+LPGQTGANP------VYGSV--SNADLMDFKNLLDRLEDKMPLEDEA-VPSQVLSEQ--N
+EEAGAPLSPLSEMPPWMGEVNPAQREGGVLG-R-GPWESSDRSALLKSKLRALL-TAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCDRP00005025522 ENSCDRG00005017599	152	ANP	Camelus dromedarius natriuretic peptide A (NPPA), mRNA	Camelus_dromedarius	982B	982	B
+------------------------------------------------------------
+--------------------------------------M-GSSAITVSF-LLC---LAFQ
+LPGQIGANP------VYSSV--SNADLMDFKNLLDHLEDKMPLEDEA-VPPQVLSEQ--N
+EEAGVPLSPLSEVPPWTGEVNPVQRDGVALG-R-GPWESSDRSAFLKSKLRALL-TAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCHIP00000029669 ENSCHIG00000024714	188	NPPA	natriuretic peptide	Capra_hircus	982B	982	B
+------------------------------------------------------------
+--------------------------------------M-GSSAITTSF-LLF---LAFQ
+LPGQTGANP------VYGSV--SNADLMDFKNLLDRLEDKMPLEDEA-VPSQVLSEQ--N
+EEAGAPLSPLSEVPPWMGEVNAAQRDGGAIG-R-GPWESSDRSALLKSKLRALL-TAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRVRGPEDGS-------------------------
+-GMGRKEIMVSLTFKPCEGTPPGNAFSRKGTA----------------------------
+--------------------------------
+>ENSCWAP00000008634 ENSCWAG00000006676	152	NPPA	natriuretic peptide	Catagonus_wagneri	982B	982	B
+------------------------------------------------------------
+--------------------------------------M-GSSTTTVSL-LLF---LAVQ
+FPGQTGANP------VYGSV--SNADLLDFKNLLDHLEDKTPLEDEA-VPPQVLTEQ--N
+EEVGAPLSPLSEVPPWTGEANAAQRDGGALG-R-GPWDSSDRSALLKSKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSDLEP00000007559 ENSDLEG00000005589	194	NPPA	natriuretic peptide	Delphinapterus_leucas	982B	982	B
+------------------------------------------------------------
+-------------------------------------M--GSATIAASF-LLF---LAFQ
+LPGQTGANP------VYGSV--SNADLMDFKNLLDHLEDKMPLEDEA-VPQQVLSNQ--N
+EEAGVPLSPLSEVPPWTGEVHPAQRDGGALG-R-GPWEPSDTSALLNSKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRVRGTADGN-------------------------
+-GVGGKEIVVLLRLKPCERIPPGDAFSRKGNSTEAYSL----------------------
+--------------------------------
+>ENSMMSP00000023394 ENSMMSG00000017600	152	NPPA	natriuretic peptide	Moschus_moschiferus	982B	982	B
+------------------------------------------------------------
+--------------------------------------M-GSSAITASF-LLF---LAFQ
+LPGQTGANP------VYGSV--SNADLMDFKNLLDRLEDKMPLEDEA-VPSQVLSEQ--N
+EEAGAPLSPLSEVPPWMGEVNPAQRDGGALG-R-GPWESSERSALLKSKLRALL-SAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSOARP00000019562 ENSOARG00000018229	152	NPPA	natriuretic peptide	Ovis_aries	982B	982	B
+------------------------------------------------------------
+--------------------------------------M-GSSAITTSF-LLF---LAFQ
+LPGQTGANP------VYGSV--SNADLMDFKNLLDRLEDKMPLEDEA-VPSQVLSEQ--N
+EEAGAPLSPLSEVPPWMGEVNAAQRDGGALG-R-GPWESSDRSALLKSKLRALL-TAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPCTP00005003739 ENSPCTG00005002703	147	NPPA	natriuretic peptide	Physeter_catodon	982B	982	B
+------------------------------------------------------------
+-------------------------------------M--GSATIAATF-LLL---LAFQ
+LPGQTGANP------VYDSV--SNADLMDFKNLLDHLEDKMPLEDEA-VPQQVLS-----
+--EGVPLSPLSEVPPWTGEVNPAQRDGGALG-R-GPWERSDRSALLKSKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSSCP00000003721 ENSSSCG00000003431	152	NPPB	natriuretic peptide	Sus_scrofa	982B	982	B
+------------------------------------------------------------
+--------------------------------------M-GSSTITVSF-LLV---LVFQ
+FPGQTRANP------VYGSV--SNADLMDFKNLLDHLEDKMPLEDEA-MPPQVLSEQ--N
+EEVGAPLSPLLEVPPWTGEVNPAQRDGGALG-R-GPWDASDRSALLKSKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSTTRP00000010897 ENSTTRG00000011490	177	NPPA	natriuretic peptide	Tursiops_truncatus	982B	982	B
+------------------------------------------------------------
+----ETE----TEEGHGWE---SREAASTRPPIDDASM--GSATIAASF-LLF---LAFQ
+LPGQTGANP------VYGSV--SNADLMDFKNLLDHLEDKMPLEDEA-MPQQVLSDQ--N
+EEAGVPLSPLSEVPPWTGEVHPAQRDGGALG-R-GPWEPSDRSALLNSKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYR-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSAMEP00000010367 ENSAMEG00000009870	145	NPPA	natriuretic peptide	Ailuropoda_melanoleuca	982B	982	B
+------------------------------------------------------------
+-------------------------------------------TITASF-LLF---LAFQ
+LLGQTGANP------AYGSV--SNADLMDFKNLLDHLEDKMPLEDEV-VPPQVLSEQ--N
+EEAGVALSPLPEVPPWTGEVNPAQRDGGALG-R-GPWDASDRSALLKSKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFR---------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCAFP00000053231 ENSCAFG00000016539	237	NPPA	natriuretic peptide	Canis_lupus_familiaris	982B	982	B
+------------------------------------------------------------
+----------------------------------------MGSPIAASF-LLF---LAVQ
+LLGQTGANP------VYGSV--SNADLLDFKNLLDRLEDKMPLEDEA-ESPQALSEQ--N
+AEAGAALSPLPEVPPWTGEVSPAQRDGGALG-R-SPWDSSDRSALLKSKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRVRDAGDGY-------------------------
+-RMGRKLVVV----SPCQKVRPGHASCSRDQSGSLLPLKC-LP-QLGAMTSSSATGCQGY
+S--KGKKRYCH--EHWELKMFMGPNHLHPADR
+>ENSFCAP00000056058 ENSFCAG00000000072	204	NPPB	natriuretic peptide	Felis_catus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFSTITASF-LLF---LACQ
+LLWQTGANP------VYGSV--SNADLMDFKNLLDHLEDKMPLEDEV-VPPQVLSEQ--N
+EEAGAALSPLPEVPPWAGEVNPAQRDGGALG-R-GSWDSSDRSALLKSKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRVRGAGRGN-------------------------
+-GVGRKAVMVSLRLKLCQRTPPGDASCSNETRVEAFFLEILCP-NLGQ------------
+--------------------------------
+>ENSLCNP00005035105 ENSLCNG00005022792	153	NPPA	natriuretic peptide	Lynx_canadensis	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFSTITASF-LLF---LACQ
+LLWQTGANP------VYGSV--SNADLMDFKNLLDHLEDKMPLEDEV-VPPQVLSEQ--N
+EEAGAALSPLPEVPPWAGEVDPAQRDGGALG-R-GSWDSSDRSALLKSKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMPUP00000016295 ENSMPUG00000016399	163	NPPA	natriuretic peptide	Mustela_putorius_furo	982B	982	B
+------------------------------------------------------------
+--------------------------------------M-GSPTVTASF-FLF---LAFQ
+LLGQIGANP------VYGSV--SNADLMDFKNLLDHLEDKMPLEEEV-VPPQVLNEQ--N
+EEAGAALSPLPDVPPWTGEVNPAQRDGGALG-R-SPWDSTDRSALLKSKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRFSREHSTQ-------------------------
+-SRLMDN-----------------------------------------------------
+--------------------------------
+>ENSNVIP00000010760 ENSNVIG00000008524	152	NPPA	natriuretic peptide	Neovison_vison	982B	982	B
+------------------------------------------------------------
+--------------------------------------M-GSPTVTASF-FLF---LAFQ
+LLGQIGANP------AYGSV--SNADLMDFKNLLDHLEDKMPLEEEV-VPPQVLNEQ--N
+EEAGAALSPLPDVPPWTGEVNPAQRDGGALG-R-SPWDSSDRSALLKSKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPLOP00000009217 ENSPLOG00000006760	153	NPPA	natriuretic peptide	Panthera_leo	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFSTITASF-LLF---LACQ
+LLWQTGANP------VYGSV--SNADLMDFKNLLDHLEDKMPLEDEV-VPPQVLSEQ--N
+EEAGAALSPLPEVPPWAGEVNPAQRDGGALG-R-GSWDSSDRSALLKSKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSSUP00005016096 ENSSSUG00005010397	165	NPPA	natriuretic peptide	Suricata_suricatta	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFSTITMSF-LLF---LAFH
+LLAQTGANP------VYGSV--SNADLMDFKNLLDHLEDKMPLEDEV-VPPQVLNEQ--N
+EEAGAALSPLPEVPPWTGEVNPAPRDGGALG-R-GPWDSSDRSALLKSKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRVRGAGGGM-------------------------
+-GWGGRWL----------------------------------------------------
+--------------------------------
+>ENSUMAP00000031514 ENSUMAG00000022756	182	NPPA	natriuretic peptide	Ursus_maritimus	982B	982	B
+------------------------------------------------------------
+--------------------------------------M-DSPTITTSF-LLF---LAFQ
+LLGQMGANP------AYGSV--SNADLMDFKNLLDHLEDKMPLEDEV-VPPQVLSEQ--N
+EEAGAALSPLPEVPPWTGEVNPAQRDGGALG-R-GPWDASDRSALLKSKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRVRGAGNGY-------------------------
+-GMGRKEAVVSLRLKPCQRTPPGHAS----------------------------------
+--------------------------------
+>ENSVVUP00000040005 ENSVVUG00000028550	187	NPPA	natriuretic peptide	Vulpes_vulpes	982B	982	B
+------------------------------------------------------------
+----------------------------------------MGSPIAASF-LLF---LAVQ
+LLGQTGANP------VYGSV--SNAELLDFKNLLDRLEDKMPLEDEA-ESPQVLSEQ--N
+AEAGAALSPLPEVPPWTGEVSPAQRDGGALG-R-SPWDSSDRSALLKSKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRVRGAGDGY-------------------------
+-GMGRKLWFHLVK-KSSQGMPPAAA-----TRVEAYFL----------------------
+--------------------------------
+>ENSMLUP00000010743 ENSMLUG00000011798	153	None	None	Myotis_lucifugus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFSTITASF-LLL---LAVQ
+LPGQTRANP------VYSSV--ANADLMDFKNLLDHLEDKMPLEDEV-MPPQVLSEQ--N
+EEAGAALSPLPEMSPWTGEVNPAPRDGGALG-R-GPWDSSDRSALLKNKLRVLL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPVAP00000001848 ENSPVAG00000001958	179	NPPA	natriuretic peptide	Pteropus_vampyrus	982B	982	B
+------------------------------------------------------------
+------E----TQTDERQETREEGRAVSSRPLLDDTSMG-SFSTITTSF-LLL---LVLQ
+LPGQITANP------LYSSV--SNADVMDFKNLLDHLEDKMPLEDEV-VPPQVLSEQ--N
+EEAEAALGPLPEVPPWTGEVSPAQRDGGTLG-R-GPWDSSDRSALLKNKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYR-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSRFEP00010025757 ENSRFEG00010017062	153	NPPA	natriuretic peptide	Rhinolophus_ferrumequinum	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFSTITISF-LLF---LAFQ
+FPGQTRANP------LYSSM--SNADLMDFKNLLDHLEDKMPSEDEV-MPPQALSEQ--N
+EEAGAALSPLPEVPPWTGEVNPAQREGGALG-R-GPWDSFDRSALLKNKLRALI-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSDNOP00000009487 ENSDNOG00000012229	153	NPPA	natriuretic peptide	Dasypus_novemcinctus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-LFSTVTAGV-LLF---LAFQ
+IPGQSRANP------VYNPV--STADLMDFKNLLDHLEEKMPLEDVV-MPPQVLSDQ--N
+DDAGAALNPLPEVPPWTGELNSAQREGGVTG-R-GPWDSSERSALLKNKLRALL-TAPRS
+LRR-SSCFGGRIDRIGAQSGLGCNSFRYQR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSHAP00000010014 ENSSHAG00000008664	144	NPPA	natriuretic peptide	Sarcophilus_harrisii	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFTTISISI-LLL---LTLQ
+LQGRTKANP------V------SNNDLVDLKNLLDRLEDKIPLEDEV-MPSQGLNEQ--N
+EEAGEALNPV---SSWSGEVSPAQREG-VFN-R-GTWEQSDRSALLKNKLRALL-TSPRS
+LRRSSSCFGGRIDRIGAQSGLGCNSFRF--------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMODP00000013664 ENSMODG00000010914	160	NPPA	natriuretic peptide	Monodelphis_domestica	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFTTISISI-LLL---FTLQ
+LQGRTKANP------V------SNNDLVDFKNLLDRLEDKIPLEEEV-MTSQGLNEQ--N
+EENGEALSPV---SSWPGEVNPAQREG-AFN-R-GTWEQAERATLLKNKLRALL-ASPRS
+LRRSSSCFGGRIDRIGAQSGLGCNSFRVRRSGNENGNGIGRKET----------------
+------------------------------------------------------------
+--------------------------------
+>ENSMEUP00000002900 ENSMEUG00000003183	170	NPPA	natriuretic peptide	Notamacropus_eugenii	982B	982	B
+------------------------------------------------------------
+-----------ETGSEDQEEEETEETASILTDIDDHSMG-SFTTISISI-LLL---LTLQ
+LQGRTKASP------V------SNNDLVDFKNLLDRLEDKIPLEDEV-MASQGLNEQ--N
+EEAGEALSSL---SSWSGEVSPAQREG-NFN-R-GTWEQSERSALLKNKLRALL-TSPRS
+LRRSSSCFGGRIDRIGAQSGLGCNSFRF--------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPCIP00000035334 ENSPCIG00000026127	145	NPPA	natriuretic peptide	Phascolarctos_cinereus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFTTISISI-LLL---LTLQ
+LQGRTKANP------V------SNNDLVDFKNLLDRLEDKIPLEDEV-MASQGLNEQ--N
+EEAEEALSPL---SSWSEEVSPAQREA-AFN-R-GTWEQSERSALLKNKLRALL-TSPRS
+LRRSSSCFGGRIDRIGAQSGLGCNSFRFR-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSVURP00010031386 ENSVURG00010024013	144	NPPA	natriuretic peptide	Vombatus_ursinus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFTIISINI-LLL---LTLQ
+LQGRAKANP------V------SNNDLVDFKNLLERLEDKIPLEDEV-MASQGLNEQ--N
+EEAEEVLSPL---SSWSGEVRPAQREA-AVN-R-GTWEQSERSALLKNKLRALL-TSPRS
+LRRSSSCFGGRIDRIGAQSGLGCNSFRF--------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSEEUP00000007195 ENSEEUG00000007936	150	NPPA	natriuretic peptide	Erinaceus_europaeus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-PFSTIVMSV-LLF---LALQ
+LPGPASATP------MYSAV--PSADLMEFKNLLDLLEEKMPLEDEV--PGQVLSEQ--S
+EEAAGSFSPLPEVPPWTGEVSPVQRDGGALG-R-GPWNPSDRSALLKNKLRALLNTAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFR---------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSARP00000003726 ENSSARG00000004135	116	NPPA	natriuretic peptide	Sorex_araneus	982B	982	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------VSDLMFKNLLDHLEDKLSLGDAD-VPPQGLAEE--A
+EEAGTELNPLPELPSWPGEVNAAPRDGGALG-R-GPWDASERSALLKNKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFR---------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPCAP00000011791 ENSPCAG00000012651	180	NPPA	natriuretic peptide	Procavia_capensis	982B	982	B
+------------------------------------------------------------
+-----TE----TDEDPSREPREEKNKASTRPPLGNTSMG-SFSTVTMGF-LLF---LAFQ
+LPGEIRANP------LYTSM--SNADLTDFKNLLDRLEDKMPLEDEV-VPPQVLNEQ--N
+DEAEVALSSLPEMPPWNREVSPAQREGAALG-R-GSWDDSGRSAVLKNKLRALL-TAPRS
+LRR-SSCFGGRIDRIGAQSGLGCNSFRYR-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSOPRP00000014515 ENSOPRG00000015901	180	None	None	Ochotona_princeps	982B	982	B
+------------------------------------------------------------
+-----ET----VTDKHGERGTEEGEAAYSTSRLTNASMG-CCSTIIVSF-LFC---LAFQ
+PPEPTGANP------VYNAL--SNTDLMDFKNLLDRLEDKMPLEDEA-APLPALSEQSQS
+EDAGAALSSLPEVPPWTGDVSSAQRDGGVLG-R-SPWDGSEQSALLKSKLRALL-AAPRS
+LRR-SSCFGGRIDRIGAQSGLGCNSFR---------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSOCUP00000006321 ENSOCUG00000007311	153	NPPA	natriuretic peptide	Oryctolagus_cuniculus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-PFSTITVSF-LFC---LAFW
+HPDQIGANP------VYNAM--SNADLMDFKNLLDHLEDRMPFEDEA-VPPQALSEQ--S
+DEAGAALSPLPEVPPWTGEVSPAQRDGGALG-R-SPWEASERSALLKSKLRALL-TAPRS
+LRR-SSCFGGRIDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSOANP00000004354 ENSOANG00000002739	150	NPPA	natriuretic peptide	Ornithorhynchus_anatinus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-LCTAICAGM-LLL---LTLQ
+LQGQGLANP------IYEAV--PNSDLVDFKALLDRLEDKMPSEEAA-VPSQGFNEQ--N
+DEIGAALNPL---SPWSGDVSPAQRDG-ALG-R-GPWEQPERAALLKNKLRTLL-TGPRS
+LRRFSSCFGSRIDRIGAQSGLGCNSYRSQR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSECAP00000012495 ENSECAG00000014892	153	NPPA	natriuretic peptide	Equus_caballus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFSTIMASF-LLF---LAFQ
+LQGQTRANP------VYGSV--SNGDLMDFKNLLDRLEDKMPLEDEV-MPPQVLSDQ--S
+EEERAALSPLPEVPPWTGEVNPAQRDGGALG-R-GSWDSSDRSALLKSKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCJAP00000024692 ENSCJAG00000013443	153	NPPA	natriuretic peptide	Callithrix_jacchus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFSTVTVSF-LFF---LAFQ
+LPAQTRANP------VYNAM--SNADLMDFKNLLDHLEEKMPLEDEV-VPPQVLSEQ--N
+EEAGAALSPLPEVPPWTGDVSPAQRDGGAFG-R-GPWDSSDRSALLKSKLRALL-TAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCATP00000001480 ENSCATG00000006882	153	NPPA	natriuretic peptide	Cercocebus_atys	982B	982	B
+------------------------------------------------------------
+-------------------------------------MS-SFSTISVSF-LLF---LAFQ
+LPGQTRANP------MYNAV--SNADLMDFKNLLDHLEEKMPLEDEV-VPPQVLREQ--N
+EEAGAALSPLPEVPPWTGDVSPAQRDGGALG-Q-GPWDSSDRSALLKSKLRALL-TAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCSAP00000017204 ENSCSAG00000000802	153	NPPA	natriuretic peptide	Chlorocebus_sabaeus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MS-SFSTISVSF-LLF---LAFQ
+LPGQTRANP------MYNAV--SNADLMDFKNLLDHLEEKMPLEDEI-VPPQVLREQ--N
+EEAGAALSPLPEVPPWTGDISPAQRDGGALG-Q-GPWDSSDRSALLKSKLRALL-TAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSGGOP00000012630 ENSGGOG00000038850	153	NPPA	natriuretic peptide	Gorilla_gorilla	982B	982	B
+------------------------------------------------------------
+-------------------------------------MS-SFSTTTVSF-LLL---LAFQ
+LLGQTRANP------MYNAV--SNADLMDFKNLLDHLEEKMPLEDEV-VPPQVLSEQ--N
+EEVGAALSTLPEVPPWTGEVSAAQRDGGALG-R-GPWDSSDRSALLKSKLRALL-TAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSP00000483195 ENSG00000175206	152	NPPA	natriuretic peptide	Homo_sapiens	982B	982	B
+------------------------------------------------------------
+-------------------------------------MS-SFSTTTVSF-LLL---LAFQ
+LLGQTRANP------MYNAV--SNADLMDFKNLLDHLEEKMPLEDEV-VPPQVLSEP--N
+EEAGAALSPLPEVPPWTGEVSPAQRDGGALG-R-GPWDSSDRSALLKSKLRALL-TAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYR-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMMUP00000010290 ENSMMUG00000007834	153	NPPA	natriuretic peptide	Macaca_mulatta	982B	982	B
+------------------------------------------------------------
+-------------------------------------MS-SFSTISVSF-LLF---LAFQ
+LPGQTRANP------MYNAV--SNADLMDFKNLLDHLEEKMPLEDEV-VPPQVLREQ--N
+EEAGAALSPLPEVPPWTGDVSPAQRDGGALG-Q-SPWDSSDRSALLKSKLRALL-TAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMLEP00000019977 ENSMLEG00000034207	153	NPPA	natriuretic peptide	Mandrillus_leucophaeus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MS-SFSTISVSF-LLF---LAFQ
+LPGQTRANP------MYNAV--SNADLMDFKNLLDHLEEKMPLEDEV-VPPQVLREQ--N
+EEAGAALSPLPEVPPWTGDVSPAQRDGGALG-Q-GPWDSSDRSALLKSKLRALL-TAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMICP00000003082 ENSMICG00000003392	179	NPPA	natriuretic peptide	Microcebus_murinus	982B	982	B
+------------------------------------------------------------
+-----------MKAGRGKPEERDARQQASDRSLANASMG-SFSTIAVGF-LLF---LAFQ
+LPGRSEANP------VYNAV--SNADLMDFKNLLDHLEDKMPLEDEA-VPPQVLSEQ--N
+DDTGAALSPLPEVPPWAGEVSPAQRDGGALG-R-GPWDSSDRSALLKSKLRALL-AAPRS
+LRR-SSCFGGRIDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPTRP00000000299 ENSPTRG00000000155	153	NPPA	natriuretic peptide	Pan_troglodytes	982B	982	B
+------------------------------------------------------------
+-------------------------------------MS-SFSTTTVSF-LLL---LAFQ
+LLGQTRANP------MYNAV--SNADLMDFKNLLDHLEEKMPLEDEV-VPPQVLSEP--N
+EEAGAALSPLPEVPPWTGEVSPAQRDGGALG-R-GPWDSSDRSALLKSKLRALL-TAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPANP00000010623 ENSPANG00000011778	153	NPPA	natriuretic peptide	Papio_anubis	982B	982	B
+------------------------------------------------------------
+-------------------------------------MS-SFSTISVSF-LLF---LAFQ
+LPGQTRANP------MYNAV--SNADLMDFKNLLDHLEEKMPLEDEV-VPPQVLREQ--N
+EEAGAALSPLPEVPPWTGDVSPAQRDGGALG-Q-GPWDSSDRSALLKSKLRALL-TAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPPYP00000002173 ENSPPYG00000001878	159	NPPA	natriuretic peptide	Pongo_abelii	982B	982	B
+------------------------------------------------------------
+-------------------------------------MS-SFSTTTVSF-LLF---LAFQ
+LLDQTRANPVYNANPVYNAV--SNADLMDFKNLLDHLEEKMPLEDEV-VPPQVLSEQ--N
+EEAGAALSPLPEVPPWTREVSPAQRDGGALG-R-GPWDSSDRSALLKSKLRALL-TAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSTGEP00000025770 ENSTGEG00000020752	153	NPPA	natriuretic peptide	Theropithecus_gelada	982B	982	B
+------------------------------------------------------------
+-------------------------------------MS-SFSTISVSF-LLF---LAFQ
+LPGQTRANP------MYNAV--SNADLMDFKNLLDHLEEKMPLEDEV-VPPQVLREQ--N
+EEAGAALSPLPEVPPWTGDVSPAQRDGGALG-Q-GPWDSSDRSALLKSKLRALL-TAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSLAFP00000017135 ENSLAFG00000022406	153	NPPA	natriuretic peptide	Loxodonta_africana	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFSTITVCF-LLF---LAFQ
+LPGQIRANP------VYTSV--SNADLMDFKNLLDRLEDKMPLEDEV-VPPQVLNEQ--N
+DEAGVAVNPLPEVPPWTREVSPAQRDGGALG-R-GPWDSSERSALLKNKLRALL-TAPRS
+LRR-SSCFGGRIDRIGSQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCCNP00000025936 ENSCCNG00000025236	154	Nppa	natriuretic peptide	Castor_canadensis	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFS-ITMS-LLLF---LAFQ
+LPDQTGANP----------V--SNADLMDFKNLLDHLEEKMPFGDEA-VAPQVLSEQ--N
+DEVGAALSSLPEMPPWTGEVSPSQRDGGALG-R-SPWDSSDRSTLLKSKLRALL-TAPRS
+LRR-SSCFGGRIDRIGAQSGLGCNSFRVRGAGDGNG------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCPOP00000015551 ENSCPOG00000019564	223	NPPA	natriuretic peptide	Cavia_porcellus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MR-SFSTFAVSLLLLF---LAPQ
+LPGQARANP------MYNVV--SNADLVDFKNLLDHLEEKMPLEDEV-VLPQVASEQ--N
+EEAGAVLSALPEVPSWPGEAGPAQREGGALG-R-GPWDSSDRSAPLKSKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSSLGCNSFRVRGDGARVG------GGG---------------
+-----GRRLVFWRFKSCSRVSWRGAVQSLTPGMPAP-TWQVSP-KPQDSAVNS---TTAY
+R--NKESP-AL--EN-----------------
+>ENSCLAP00000016595 ENSCLAG00000011401	183	NPPA	natriuretic peptide	Chinchilla_lanigera	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFPTIAVSL-LLF---LEFQ
+LPGQAQANP------VYNVV--SNADLVDFKNLLDRLEEKMPLEDEV-VLPQVASEP--N
+DEAGAVLSALPEAPSWTGEASPAQRDGGALG-R-GPWDSSDRSALLKSKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSSLGCNSFRVRGDGDGD-------------------------
+-GVRREKIVALLRFEPCQRIPPDYCI----------------------------------
+--------------------------------
+>ENSDORP00000013203 ENSDORG00000014043	153	Nppa	natriuretic peptide	Dipodomys_ordii	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFSTITVSL-LLF---LALQ
+LPDQTGANP------VYNTV--SSADLMDFKNLLDQLEEKMPLEEEA-VPPQGLSEQ--N
+EEVGAALSSLPEVPPWTGEAGPVQRDGGAVG-R-SLWDSSERSALLKSKLRALL-AAPRS
+LRR-SSCFGGRMDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSTOP00000006837 ENSSTOG00000007663	220	None	None	Ictidomys_tridecemlineatus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFSAVAVSL-LLF---LLFQ
+LPGQAGAKP------VYSAV--SSADLAEFKNLLERLEEKMPLESEV--PLRVRGEQ--N
+EEAG---PDVPEEASWTGEVSPDQGDGAGPG-P-DPWDSADRSALLRNKP-----TAPRS
+LPR-SSCFGGRMDRIGAHSGLGCNSFRVRRSGVGNRMGRRWGRIA-IAVLAGD-------
+----------FYRKGTSEKITPSEFLPRLGG----------CPTSLRTMSSHSAVACWKN
+ALKKKVTTTAL--NN-----------------
+>ENSMUGP00000023281 ENSMUGG00000019499	152	Nppa	natriuretic peptide	Meriones_unguiculatus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFS-ITMGF-FLF---LALW
+LPGYIGANP------VYGAV--SNADLMDFKNLLDRLEEKTPLEDEV-LAPQALSEQN-D
+E-AGTVLSSLPEVPPWTGEANPPQRDGNALG-R-GPWDPSDRSALLKSKLRALL-TAPRS
+LRR-SSCFGGRIDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMAUP00000009616 ENSMAUG00000010723	153	Nppa	natriuretic peptide	Mesocricetus_auratus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFS-ITVGF-FLL---LAFW
+LPGHIGANP------VYSAV--SNTDLMDFKNLLDHLEEKMPLEDEV-VPPQALSEQN-D
+EAPGAALSSLPEVAPWTGEVNPPQRDGGTLG-R-SPWDPSDRSALLKSKLRALL-AAPRS
+LRR-SSCFGGRIDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMOCP00000001332 ENSMOCG00000001019	152	Nppa	natriuretic peptide	Microtus_ochrogaster	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFS-ITTGF-FFF---LAFW
+LPGHIGANP------VYSAV--SNTDLMDFKNLLDHLEEKMPLEDEV-VLPQTPSEQN-D
+E-AGAALSSLPEIPPWTGEVNPPQRDGSTLG-R-SPWDPSDRAALLKSKLRALL-AAPRS
+LRR-SSCFGGRIDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSMUSP00000099520 ENSMUSG00000041616	152	Nppa	natriuretic peptide type	Mus_musculus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFS-ITLGF-FLV---LAFW
+LPGHIGANP------VYSAV--SNTDLMDFKNLLDHLEEKMPVEDEV-MPPQALSEQT-E
+E-AGAALSSLPEVPPWTGEVNPPLRDGSALG-R-SPWDPSDRSALLKSKLRALL-AGPRS
+LRR-SSCFGGRIDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSODEP00000018060 ENSODEG00000013314	215	NPPA	natriuretic peptide	Octodon_degus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFSTIAVSL-LLF---LKFQ
+LPGHAQANP------MYNVM--SNADLVDFKNLLDHLEEKMPLEDEV-VLPQVANEQ--N
+EEAGAVLSALPEVPSWTGEASPAQREGGALG-R-GPWDSSDRSALLKSKLRALL-TAPRS
+LRR-SSCFGGRMDRIGAQSSLGCNSFRVRGDGDADGVGVGDGGGGGHGVEVGKGMRMGNG
+CGMRRKKMIVLLRLKSCQRILLECFF-----------LF-----GIGD------------
+--------------------------------
+>ENSPEMP00000023027 ENSPEMG00000020200	152	Nppa	natriuretic peptide	Peromyscus_maniculatus_bairdii	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFS-ITMGC-CFF---LALW
+LPGYIGANP------VYGAV--SDTDLMDFKNLLDHLEEKMPLQDEV-APPQALSEQN-E
+D-AGDALGSLSEVPPWTGEVNVPQRDGSALG-R-SPWDPSDRSALLKSKLRALL-AAPRS
+LRR-SSCFGGRIDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSRNOP00000011005 ENSRNOG00000008176	152	Nppa	natriuretic peptide	Rattus_norvegicus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFS-ITKGF-FLF---LAFW
+LPGHIGANP------VYSAV--SNTDLMDFKNLLDHLEEKMPVEDEV-MPPQALSEQT-D
+E-AGAALSSLSEVPPWTGEVNPSQRDGGALG-R-GPWDPSDRSALLKSKLRALL-AGPRS
+LRR-SSCFGGRIDRIGAQSGLGCNSFRYRR------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSTBEP00000002382 ENSTBEG00000002760	153	NPPA	natriuretic peptide	Tupaia_belangeri	982B	982	B
+------------------------------------------------------------
+-------------------------------------MG-SFPFT-TS-LLLF---LVFL
+LPGQMGHI---GASPVYNGM--SSADLMDFKDLLDRLEDKMPLEDEV-APPQILSEQ--T
+DEAGAALSPLPEVPPWTGEVSPAQRDGGALG-R-SPWDSSERSALLKSKLRAML-AAP-R
+LRR-SSCLGXXXXXXXXXXXXXXXXXXYR-------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSSPUP00000016223 ENSSPUG00000012556	180	NPPA	natriuretic peptide	Sphenodon_punctatus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MGSLTSVVLGLPLLLLC--LFMK
+LQEQAKAHP------VYSSL--TTSELADFKNLLDNLEDKISSEDTEAGLSQGFSEQSE-
+EAP---GDALRPLASWDGEYVRPQKEG-AFG-RSSWEPPEKPPSSLKSKLQVLL-NSPRS
+MRRSSDCFGQRIDRIGSKSGMGCNRNRVRTENSSTEQMWGGVGG--GAVTR---------
+--R---ERMK--------------------------------------------------
+--------------------------------
+>ENSCABP00000023395 ENSCABG00000017248	163	NPPA	natriuretic peptide	Chelonoidis_abingdonii	982B	982	B
+------------------------------------------------------------
+-------------------------------------MGLLTAATLRFPLLLLLLLLSMK
+PQGRAKAHP------MYSSA--SMAELADFKTLLDRLEDKLPSEAAETGLSQEVNEQNE-
+EAP---RDASRPLAPRNSDYIRPQREGLAYG-PNSWELPEKPPSALRSKLRALL-NTPRS
+MRRFSDCFGQRIDRIGAQSGLGCNSYRVRGRGNG--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCSRP00000012525 ENSCSRG00000009456	161	NPPA	natriuretic peptide	Chelydra_serpentina	982B	982	B
+------------------------------------------------------------
+-------------------------------------MGSLTAAALRFPLLL--LLLTMK
+PQGRAKAHP------MYSSA--SAAELADFKTLLDRLEDKLPSEAAQAGLSQEMNEQNE-
+EAP---GDASRPLAPWNSEYVRPQREGLAYG-RDSWELPEKPPSALRSTLRALL-NAPRS
+TRRFSDCFGQRIDRIGAQSGLGCNNYRVRGRGNG--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSCPBP00000031300 ENSCPBG00000021972	155	NPPA	natriuretic peptide	Chrysemys_picta_bellii	982B	982	B
+------------------------------------------------------------
+-------------------------------------MGSFTAAALRFPLLL--LLFSMK
+PQGGANAHP------AYSSA--SAAELADFKTLLDRLEDKLPSEEAEAGLSQEMKEQDE-
+EAP---GDASRPLGPRNSDYVRPQREGLAYG-RNSWELPEKPPSALRSKLRALL-NSPRS
+MRRFSDCFGQRIDRIGAQSGLGCNSYRF--------------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSGAGP00000035413 ENSGAGG00000025179	162	NPPA	natriuretic peptide	Gopherus_agassizii	982B	982	B
+------------------------------------------------------------
+-------------------------------------MGSLTAATLRFPLLLL-LLLSMK
+PQGRAKAHP------MYSSA--SAAELADLKTLLDRLEDKLPLEAAETGLSQEMNERNE-
+EAP---GDASRPLAPRNSDYVRSQREGLAYG-RNSWELPEKPPSALRSKLRALL-NSPRS
+MRRFSDCFGQRIDRIGAQSGLGCNSYRVRGRGNG--------------------------
+------------------------------------------------------------
+--------------------------------
+>ENSPCEP00000008185 ENSPCEG00000006552	169	NPPA	natriuretic peptide	Pelusios_castaneus	982B	982	B
+------------------------------------------------------------
+-------------------------------------MGALTTAVLRFPLLLL-LLFNMK
+PQQRVKAHP------IYSSA--SISELADFKTLLDRLEDKLPPEEA------------D-
+ETP---GDVSHPLAPWNGEYIRPQREDLAYG-RSSWELPEKPSSSLKSKLRALL-NSPRS
+MRRFSDCFGQRLDRIGTQSGLGCNSYRGILISRNNSED--------SPFMA---------
+--V---DRIKFPNLI---------------------------------------------
+--------------------------------
+>ENSTMTP00000030308 ENSTMTG00000021876	161	NPPA	natriuretic peptide	Terrapene_carolina_triunguis	982B	982	B
+------------------------------------------------------------
+-------------------------------------MGSLTAAALRFPLLL--LLLTMK
+PQGGAKAHP------VYSSA--SAAELADFKTLLDRLEDKLPSEEAEAGLSQDMNEQDE-
+EVP---GDASRPLASRNSDYVRPQREGLAYG-RNSWELPEKPPSALRSKLRALL-NSPRS
+TRRFSDCFGQRIDRIGAQSGLGCNSYRVRGRGKG--------------------------
+------------------------------------------------------------
+--------------------------------

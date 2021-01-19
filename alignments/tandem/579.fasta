@@ -1,0 +1,260 @@
+>ENSATEP00000034401 ENSATEG00000023635	207	cd8a	CD8a	Anabas_testudineus	579A	579	A
+--MDQKWIQI------------LLILMFY--QS---------------------------
+---KGGNIEIF--CNPPE---KGSIVTWFR----VLE------KSRIQFIASFSN--TGM
+DKSSGP---------LDPSFSYSKIRD-QKLILKNFKKHEDSGVYSCASLKSNELKFGEV
+---T---------RLVGVTEPAPRA------TSAKPKLFTARPCVCNNQ-----------
+--------------------------------------------------------SAGD
+VNPRLHCSLLMLAPLAGACGLLLLLLIITILYCNKMRTRRCPHHYKKRYVIYCN------
+--------------FNRAF--LFR--------------VLF-------------------
+------------------------------------------------------------
+-------------------------------
+>ENSEEEP00000008220 ENSEEEG00000004294	214	cd8a	uncharacterized	Electrophorus_electricus	579A	579	A
+--MYLLYIGL------------FSLLFL------PH---G----------------AFPK
+EVKNGQNEQIT--CNTRQ----EQGAFWFR----VQD------DAKFQFIAYLSS--TSK
+KIESDK-------------FRA-HQSR-DTLTLQRFDKANDSGLYSCVSVNRNKLHFGQA
+---V---------RLYGEPDPAPTFKPIT--TVAEPTGLTTTPCVGNSHE----------
+-------------------------------------------------------VKKSE
+KAFSVGCEFHILVPLAAGCGLLLILLIITILYCNRLRTRWCPHHCKRRPRNR--------
+--------------PAGHTPLPNQ--------------HVF-------------------
+------------------------------------------------------------
+-------------------------------
+>ENSHHUP00000055206 ENSHHUG00000033052	229	None	None	Hucho_hucho	579A	579	A
+MKMVQKWMET------------LVLLFFC--QETLQ---L----------------SSPT
+VKTDGAKVEIP--CALVS-KTKSNMVIWFR----VQD------NAGMEFIASFST--KDG
+VKKTNT---------TKEVFSEEQINK-NILILNAFKKDRDSGVYSCASINGNSLVFGEV
+---T---------QLAGPAPTTTTTTTTTTTTPMT-TAIELTSSTTAKS-----------
+-------------------------------------------------------CKVGN
+VDPTASCDLIVWAPLAAGCGFLFLLLIITVCHCNRIRTKRCPHHYKRQPRM-AA------
+--------------PGQQRPIANN--------------RLF-------------------
+------------------------------------------------------------
+-------------------------------
+>ENSOTSP00005091055 ENSOTSG00005042741	226	None	T-cell surface glycoprotein CD8 alpha	Oncorhynchus_tshawytscha	579A	579	A
+MKMVQKWMQT------------LVLLFFC--QETLQ---L----------------SSLT
+EKTDGERVEIT--CAPVS-KTKSNMVIWFR----VQD------NAGMEFIASFST--KDG
+MKKTYF---------NNEVFSEEQIKK-NILILKAFKKARDSGVYSCASINGNALVFGEV
+---T---------RLAGPAPMTTTT---TTTTPMT-TTIELTSSTTAKS-----------
+-------------------------------------------------------CKVGK
+VDPTASCDLIVWAPLTAGCGFLFLLLIITVCHCNRIRTKRCPHHYKRQPRM-AT------
+--------------PGQQHPIANN--------------RLF-------------------
+------------------------------------------------------------
+-------------------------------
+>ENSCAFP00000063962 ENSCAFG00000007464	359	CD8A	CD8a	Canis_lupus_familiaris	579A	579	A
+-------MAS---------RVTALLLPLALLLRAAA---------ASGPSRFRMTPP-KV
+VGQLHAQVELQ--CQVLL-STAAPGCSWLY----QRN---E-PAARPVFLMYISQSR---
+AKPA------EGLD-TKHISGQKKTDSTYSLTLSRFR-KEDEGYYFCSVLSNSILYFSPF
+-VPV---------FLPVKPPTTPAPRPPTRAP-----TNASKPVSPRGETCRPAAGSAGE
+TGSGENRGESPLPGPALILEAAPKAVRMVGKPRPARAGGVGWRMLGRLLMSASSVASVKT
+SGLDFACEIYIWAPLAGTCAVLLLSLVITIICNHSKPLGTRASW----GKQSAPLPPLVL
+LAPGS-PARQRMAISGTQLPC--RVRHSPFLSWRLSSRNLLLFLFPLSGRFSGRQSPYPK
+SSSGCIELA---------------------------------------------------
+-------------------------------
+>ENSMPUP00000009228 ENSMPUG00000009302	242	CD8A	CD8a	Mustela_putorius_furo	579A	579	A
+-------MAS---------WVTPLLLPLALLLHAVA---------AAGPSQFRLSPA-KV
+VGQLGEKVELQ--CEVLL-PSAAPGCSWLL----QKN---E-PAARPVFLMYLSQTR---
+TKLA------DGLD-SEQISGKKIRDTLYSLTLRRFR-KEDEGYYFCSVLSNSVLYFSSF
+-VPV---------FLPVKPTPTPAPRLPTRAP-----TNTSQPVSQRPGICRPPAGKPVE
+-----------------------------------------------------------K
+GVLGFACEIYIWAPLAGTCAVLLLSLVITVICNHRNRRRVCK--------CPRPMPR--Q
+GGPGGKPSPSEKYV----------------------------------------------
+------------------------------------------------------------
+-------------------------------
+>ENSNVIP00000023047 ENSNVIG00000017923	242	CD8A	CD8a	Neovison_vison	579A	579	A
+-------MAS---------WVTPLLLPLALLLHAVA---------AAGPSQFRMSPA-KV
+VGQLGEKVELQ--CEVLL-PSAAPGCSWLL----QKN---E-PAARPVFLLYLSQTR---
+IKLA------DGLD-SKQIVGKRIRDTLYSLTLRRFR-KEDEGYYFCSALSNSVLYFSSF
+-VPV---------FLPVKPTPTPAPRLPTRAP-----TNTSQPVSQRPGICRPAAGKPVG
+-----------------------------------------------------------K
+GVLGFACEIYIWAPLAGTCAVLLLSLVITVICNHRNRRRVCK--------CPRPMPR--P
+GGPGGKPSPSEKYV----------------------------------------------
+------------------------------------------------------------
+-------------------------------
+>ENSEEUP00000013542 ENSEEUG00000014842	203	None	None	Erinaceus_europaeus	579A	579	A
+-------MVP---------LVTALLLPLVLQLHPVR-------------SGFRMWPKDGV
+TAQLGQQVTLR--CEVL--PRAQQGCSWLF----QRP---E-PHSSPVFLMYIPQTQ---
+AKMA------EDLN-PTQISGKKVSDTCF-LTLHKFR-KEEEGYYFCFVMNNYKIYFSPF
+-VPV---------FTPGPGG-----------------------------------G----
+-------------------------------------------------------GGVET
+KGLNFSCDLYIWAPLAGTCGVLLLSVVILIIYNRKNQRRVCK--------CPRPQVR--Q
+A---GKSNPSRYL-----------------------------------------------
+------------------------------------------------------------
+-------------------------------
+>ENSOANP00000034193 ENSOANG00000046366	261	None	None	Ornithorhynchus_anatinus	579A	579	A
+----MAWRGSI-----------LVLLPLAQLLVP----------PSWAQPKFRMERQEVT
+ITEPGKTVNLK--CETL--ESSQTGLSWVH----QRPVKPNQNAMAPTFLVFFSG--TVK
+NIRKAE-----GL--EEALEAKRLSSTSFQVTLKNFQ-EKNEGHYYCVVAYNQALYFSRS
+-MSV---------YLKGPPTTSPRTPRTTPR------RLNVTQTTPALDNCQDRPG----
+----------------------------------------------------SKKSPNQR
+SFWDFSCDLYIWGPLVGGCAILLIALLTTIIICQSRTSPDLSLL--R---PSASLALFAL
+HQLGNR-GSGKFCEWATSSPMS--------------------------------------
+------------------------------------------------------------
+-------------------------------
+>ENSMUSP00000068123 ENSMUSG00000053977	247	Cd8a	CD8 antigen, alpha	Mus_musculus	579A	579	A
+-------MAS---------PLTRFL-SLNLLLLGESIILGSGEAKPQ-APELRIFPK-KM
+DAELGQKVDLV--CEVL--GSVSQGCSWLF----QNS---SSKLPQPTFVVYMASSH---
+NKITWD----EKLNSSKLFSAMRDTNNKYVLTLNKFS-KENEGYYFCSVISNSVMYFSSV
+-VPV---------LQKVNSTTTKPVLRTPSPV-----HPTGTSQPQRPEDCRPR------
+-------------------------------------------------------GSVKG
+TGLDFACDIYIWAPLAGICVALLLSLIITLICYHRSRKRVCK--------CPRPLVRQE-
+----GKPRPSEKIV----------------------------------------------
+------------------------------------------------------------
+-------------------------------
+>ENSCPRP00005000566 ENSCPRG00005000438	221	None	None	Crocodylus_porosus	579A	579	A
+-------------------MHLRVLFRCALCCTKTQ--------QKDIQVKLL-S---RT
+PTKPGDPVELE--CAIKDNSFSDSGVSWVH----QGK------DSGLRFIMFISS--ISR
+VTHASD-----VD--K-PRYGGSKGPGTYKLMVKSFQ-EKDQGEYYCIVIRNQMLHFSSG
+-HQV---------FLPGQHQPLVEAA---QC------KEN----------C--MP-----
+-------------------------------------------------------PPSNA
+HKTWLNCDLYIWAPLVGACLFLLVALVVTIITCQSKRTIPCLRQ--SPLHPKPPL-----
+----PCIRSAMYNTK------------------------YF-------------------
+------------------------------------------------------------
+-------------------------------
+>ENSGALP00000066900 ENSGALG00000053568	245	None	T-cell surface glycoprotein CD8 alpha	Gallus_gallus	579A	579	A
+------MSGS---------PALLLLLSLGLCCTDAQ---E----QTDAVADRFLN-RNMK
+HPQEGQQLELE--CPPY---DRDKPIFWIR----LDK------FGNIHFLVSSTPVSVQG
+MAFYGS-----KG--TSSQFDTWWRGNTNLLVVKNFT-TQDEGTYFCISYTNQVLHFSSG
+-QPT---------FFPVATKAAPTTLATTTP----------SSQATKKDNSQQSPD----
+------------------------------------------------------AGTNSK
+NTLHFCYDVVMRVNLAGACLLLLTAITITITHCQSWINISQ--SILHSQTITE-------
+-NV------------------------------------ETSFH----QTVLPLPSQNP-
+------------------------------------------------------------
+-------------------------------
+>ENSNMEP00000006369 ENSNMEG00000006558	262	None	None	Numida_meleagris	579A	579	A
+-----LWICC---------PTLLLLTQGG--PGNTQ---G----QRDTVVIRFQN-RNMK
+HPQEGQRLQLE--CRTY---RTTWGASWVR----LDK------NGNLHFIVSSNS--LHN
+TVFHGN-----TR--MSPHFEASWKDNTFWLVVKSFR-AQDEGIYFCISKINQVLSFSSG
+-QPA---------FLPVAITAAPTTPAATTH----------SSQVTSKDISWHSPH----
+------------------------------------------------------PETSIE
+NKLNSTCEVFLWVRVAGTCLLLLTAITITITLCQSKSHPHTLQSFLQPHTKEHSP--LLQ
+GNG---------------KPYSNK--------------RHCLYHPEIHISGLEVPEPKAL
+------------------------------------------------------------
+-------------------------------
+>ENSMVIP00005021773 ENSMVIG00005015301	249	None	T-cell surface glycoprotein CD8 alpha	Manacus_vitellinus	579A	579	A
+-----KMDGS---------PVLLLLLALGLCCPGIH---G----QMYEMKIRFRN-R-IT
+QLRVGQRLELE--CQTD---KKDSGMFWVH----QDK------NGTLHFIVFISS--LSR
+VTFKGS-----QR--TSARFEASKDNTIYRLVVKSFT-QQHEGNYFCLMNINQMLYFSPG
+-LPA---------FFPVTTTVAPTTTRP---------T--TQHDIAKKDPFLETSD----
+------------------------------------------------------PETSTE
+NELNFFCDLLIWVPLAGACLLLLIALAVTITLCQRK-TQRRRCRCKRLVSDRHWCFSLKF
+GSI---------------SVSGDR--------------AGRG--------------PKAT
+------------------------------------------------------------
+-------------------------------
+>ENSMUNP00000013804 ENSMUNG00000010670	248	None	CD8a	Melopsittacus_undulatus	579A	579	A
+-----MMTAA---------PALLLLLTLGLCCPGIR---G----QKYTVKIHS-----TK
+QPRMGERLMLQ--CESN---NMLSGVFWVH----QDK------AGTLRFIVFISS--LSR
+TIFGGN----SMR--TSQHYQAGKDGRFSWLAVNSFT-PQDQGTYFCLMNVNQVLYFSPG
+-QPV---------FLPVTTTVAPKTTPA---------PTTAAPNITERDPCPRTPD----
+------------------------------------------------------SETSQE
+KGLDLLCDIFIWVPMTAACFLLLLALAVTVMLCQRKKTRRRRCRCKRLVSDRGGCLK--L
+GSI---------------PPARDK--------------AGRC--------------QNPT
+------------------------------------------------------------
+-------------------------------
+>ENSSHBP00005024692 ENSSHBG00005020569	225	None	None	Strigops_habroptila	579A	579	A
+-------QQN---------LQVIMVLP-------------------LHLTSHPMD-S-AT
+QPQMGQRLDLR--CESS---NEDSGVYWVH----QDK------AGTLRFIVFISS--LSR
+TTFAGN-----TR--TSKRFEAGKDSMFYWLVVKSFM-PQDEGNYFCLININQVLYFSSG
+-QPV---------FFPGQQHLHPTSLSSAKM------PSTSCPAFCNQSPLPQTPLSVL-
+------------ACSRHFLTS-----------------------------APRGSLTRAG
+GKLDFLCDIFIWVPLTAACFLLLIALAITVILV--------RCPCPWQGTGNG-------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------
+>ENSSMRP00000022842 ENSSMRG00000017718	236	None	None	Salvator_merianae	579A	579	A
+-----------------------MFLP------------------GTARSPWAVG---NL
+PQTXGDKVQMKXDTTSMDASFMDFGVYWVL----HKS------DQKSHFILYISS--TGK
+KKHG-----------KIQGYEASKMSTFYQLTIAKFQ-KENQGIYYCIILRDQILHMICT
+GHQNNLLPVVLFXFLTEPTTRMPTTL---PQ------VST----TSTKLREEEHP-----
+-------------------------------------------------------YTTTR
+DEPKFHCDLYIWAPLTGGCALLFIILVITILVCNDPRRRRRKCRCKRWVTLCPLSTIFK-
+-YQSPSFSIS-----------TDK--------------YWYKFV----------------
+------------------------------------------------------------
+-------------------------------
+>ENSCSRP00000011630 ENSCSRG00000008662	213	None	None	Chelydra_serpentina	579A	579	A
+----------------------------------LG---G----FLSLRLLLHSG---GS
+PLTLAAPLELE--CVISGHGLSDSGVSWMR----QNR------DSAPEFILFITS--LGR
+VASTEN-----GK--PPARFKAKKE-SNYRLTVTSFQ-EQDQGNYYCIVNHNQRLHFSSG
+-IPL---------YLPGQHQPHPISA---PC------FLVLPL-PTTASTWNQMS-----
+-------------------------------------------------------NKAPK
+KGMDLSCDFYIWVPLASACLLLLIALLATITVCQSNFQPVGFCI--SITGEIPPAEREQ-
+--PGP-------------------------------------------------------
+------------------------------------------------------------
+-------------------------------
+>ENSCPBP00000004224 ENSCPBG00000003118	267	None	None	Chrysemys_picta_bellii	579A	579	A
+-------MGSYYPPPPSRFFTLAIWSPYSGCCRSEG---Q----RSKMSVKLRSG---GS
+PLTLKAPVELE--CVISGPGLSDSGVSWMR----QHR------DSAPQFILFISS--LGR
+VASTEN-----GK--PPARFDAKRESKNYTLTVKSFQ-EQDQGNYYCIVKHSQRLHFSSG
+-IPL---------HLPGQHQPHPISA---PS------FYFLRY-F-------VSA-----
+-------------------------------------------------------AKAPK
+KGLGLSCDFYIWVPLTSACLLLLIALLATITVCQSNSQAREQHL--NLKIVSDGDSTMT-
+--LGKLFRSSITCTV-KIRPISRL--------------NLFSFSFQPLDCVFL-------
+------------------------------------------------------------
+-------------------------------
+>ENSTMTP00000003811 ENSTMTG00000002812	205	None	CD8a	Terrapene_carolina_triunguis	579A	579	A
+-----------------------------------------------MSVKLRSG---GS
+PLTLGAPVELE--CVISGSGLSDSGVSWMR----QHR------QSAPQFILFVTS--LNR
+VAPTDN-----GK--PPARFDAKKENKNYRLTVKSFQ-EQDQGNYYCIINHNQRLHFSSG
+-ISL---------HLPAPPTAVPTTK---AT------TPELSTTTGSKEPCKHSP-----
+-------------------------------------------------------NTAPK
+KGLDLSCDFYIWVPLTSACLLLLIALLVTITVCQKTRRRRCKCK--RLVNFHLGAFSL--
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------
+>ENSSMAP00000016250 ENSSMAG00000009964	225	cd8a	CD8a	Scophthalmus_maximus	579B	579	B
+--MDPKWIQI------------LVILVFC--QKMTS---G----------------TEDR
+VVKEGETVEIK--CKLAE---MLSMVIWFR----VLD------HSGMEFIASFSR--DGT
+KKSPTP---------LSPNFSLLKMDK-QILTLNSFKKARDGGVYACATIKSNELKFGEV
+---T---------RLIGENKVEVTTRSPLAVTSAQTLGPTTTACACHNS-----------
+-------------------------------------------------------NRQGE
+TGLPVFCSIIILGPLAGGCGLLLLLLIVTTLYCHRIRTRRCPHHYKKKKLRTVA------
+--------------PGKQM--MTN--------------RNV-------------------
+------------------------------------------------------------
+-------------------------------
+>ENSMMSP00000017498 ENSMMSG00000013170	386	None	None	Moschus_moschiferus	579B	579	B
+-------MAS---------PLTALILPLALLLLGESASPGGDAAKVLGSLSFRMSPT-QK
+ETRLGEKVELQ--CELLQ-SGMASGCSWLR----QIP---G-DDPRPTFLMYLSSQR---
+VKLA------EGLD-PKHISGARVASSKFQLTLSSFR-QEDQGYYFCSVLSNSILYFSNF
+-VPV---------FLPGSGSPGGLWGSRLSPF-----FTRTPSVSPRSEVCRPSAGSAVD
+-----------------------------------------------------------T
+SRLDFACDIYIWAPLVGTCAVLLLSLVITGICYRRKSWGIARED------SARFLHRFAL
+GSPCGQFSWV--RIS-GILSCHRRARHCLCLSWRENAGKTPSLSTPRE--VFSKAEPHPR
+SG-SCRGAVFHPQSPQVWAYYKRLGWGWGQGGARLWPGDQCPGSPGQNHFRQWFILGPLL
+VSPHPSLDPTAGGRTNPCPPTSVFAMLFKLM
+>ENSTTRP00000013775 ENSTTRG00000014528	236	None	None	Tursiops_truncatus	579B	579	B
+-------MAS---------PVTALLLPLGLLLHAAT------------SSQFRMSPV-RV
+QARLGEKVKLH--CEVLQ-SSMTSSCSWLY----QKP---G-DASRPIFLMYLSSTR---
+SKPA------EGLD-TSYISGTKAEGANFHLTLHRFH-EEDQGYYFCSFMSNSVMYFSNF
+-VPV---------FLPXXXXXXXXXXXXXXXX-----XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX------------------------------------------XXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXPVVR----------------------------
+--QGGKPSPSERCT----------------------------------------------
+------------------------------------------------------------
+-------------------------------
+>ENSTBEP00000014815 ENSTBEG00000017041	222	None	None	Tupaia_belangeri	579B	579	B
+-------MTS---------GVTALLLPVALLLAAAR------------RSQFRMSPS-EK
+TVRPGEQVELR--CEVLL-NNAASGCSWLY----QPL---G-AAASPTLLLYIHKPPRDG
+FRIA------DGVD-AKRISGKRLQSNVYSLTLSQFR-VEDQGYYFCSVTGNSVLFFSPL
+-VPV---------SLPXXXXXXXXXXXXXXXX-----XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX------------------------------------------XX--XXXXXX
+XXXXXXXXX---------------XXXXXXXX----------------------------
+--XXXNRRRVCKCP----------------------------------------------
+------------------------------------------------------------
+-------------------------------
+>ENSGALP00000073699 ENSGALG00000048858	163	None	None	Gallus_gallus	579B	579	B
+------------------------------------------------------------
+------------------------------------------------------------
+MTFYGS-----KG--TSSQFDTWWRGNTNLLVVKNFT-TQDEGTYFCISYTNQVLHFSSG
+-QPT---------FFPVATKAAPTTLATTTP----------SSQATKKDNSQQSPD----
+------------------------------------------------------AGTNSK
+NTLHFCYDVVMRVNLAGACLLLLTAITITITHCQSWINISQ--SILHSQTITE-------
+-NV------------------------------------ETSFH----QTVLPLPSQNP-
+------------------------------------------------------------
+-------------------------------
+>ENSCCEP00000025860 ENSCCEG00000022834	200	None	None	Cyanistes_caeruleus	579B	579	B
+-----MHQGE--------STGVFVVCILG-------------------------------
+-----FEVCDV--HTKS---TQKSGQCWPPSWKHTAT------VEKYKG--LI------N
+HSFTSHRKSCVLL--DEIFHAAGPGEIFLYLTVKSFT-PRDQGKYFCVMNLNQMLYFSPG
+-QPV---------FLPGQQHLHPTSLSPAKM------PSTSCPCPLQPAIPPTNPISLL-
+------------ACPRH------------------------------------------P
+EDLNFFCHIFIWVPLAGACLLLFIALVITIVLCQRKVHQNPL------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------

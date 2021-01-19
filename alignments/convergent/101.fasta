@@ -1,0 +1,602 @@
+>ENSCDRP00005016224 ENSCDRG00005011336	178	None	None	Camelus_dromedarius	101A	101	A
+---------------------------------METQRASLSLGRWP--LWLLLLGLA--
+VPWA--SAQALSYREAVLRAVDRLNEQSS-DPNLYRLLELDLPPK----Q-DEDPDAPKP
+VSFTVKETVCPKRTQLPPEQCDFKEKGVVKQCLGTVNLYQLRDN-FDITCNEV---SDPF
+WASEATGGGG---------VWNSLWTN--------------SPLCHPCSG---RRDLLPW
+LPL----------TGRP------IRV---IYV----------------------------
+------------------------------------
+>ENSCHIP00000007106 ENSCHIG00000010735	158	MAP28	MAP28	Capra_hircus	101A	101	A
+---------------------------------METQRASLSLGRCS--LWLLLLGLV--
+LPSA--SAQALSYGEAVLHAVDRINEQSS-EANLYRLLELDPPPK----D-DENPNIPKP
+VSFRVKETVCPRTSRQPTEQCDFKENGLVKQCVGTVTLDAVKGK-MNITCEEL---QSVG
+RFKRFR--------------------------------------------EKLKRLWHKV
+GPF----------VGPI------LHY---G------------------------------
+------------------------------------
+>ENSCWAP00000017187 ENSCWAG00000013220	174	None	None	Catagonus_wagneri	101A	101	A
+---------------------------------METQRASLCLGHWS--LWLLLLGLV--
+VPPA--SAQALSYRQAVLRAVDRLNEQSS-DANLYRLLELDQLPK----A-DEDPGTPKP
+VSFTVKETVCPRTTQQPLELCDFKEDGVVKQCVGTVTLYPFSDP-QDITCNDV---SGPF
+CSNSGTLRVC---------VCVCVCERE------RERERERERERERERGRERERELL--
+------------------------------------------------------------
+------------------------------------
+>ENSOARP00000002134 ENSOARG00000002027	119	None	None	Ovis_aries	101A	101	A
+---------------------------------METQRASLSLGRWS--LWLLLLGLV--
+LPSA--S-QALSYREAVLRAVNQLSEQSS-EANLYRLLELDPPPK----D-AEDRGARKP
+VSFMVKETVCPRPSLQPSEQCDFKENGAVKEYGLTVTGDHWDDV-F--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------
+>ENSSSCP00000063210 ENSSSCG00000045208	166	PMAP-36	antibacterial	Sus_scrofa	101A	101	A
+---------------------------------METQRASLCLGRWS--LWLLLLALV--
+VPSA--SAQALSYREAVLRAVDRLNEQSS-EANLYRLLELDQPPK----A-DEDPGTPKP
+VSFTVKETVCPRPTWRPPELCDFKENGRVKQCVGTVTLNPSNDP-LDINCDEI---QSVG
+RFR-------------------RLRKK--------------T--RKRLKK---IGKVLKW
+IPP----------IVGS------IPL---GCG----------------------------
+------------------------------------
+>ENSTTRP00000009085 ENSTTRG00000009585	166	None	None	Tursiops_truncatus	101A	101	A
+---------------------------------METQRASLALGRWS--LWLLLLGLV--
+VPSA--SAQTLSYREAVLHAVDRLNERSS-EANLYRLLELDPPPK----A-DVDPDTPKP
+VSFTVKETVCPRTSQQPQENCDFKENGLVKQCVGTVTLDQVKGQ-MNITCEES---VGRF
+RRLRHGS-------------------------------------EEFCRK------FR--
+--I----------VGPL------IDF---GVNCGPM---EESYR----------------
+------------------------------------
+>ENSAMEP00000001459 ENSAMEG00000001387	171	CAMP	cathelicidin antimicrobial	Ailuropoda_melanoleuca	101A	101	A
+---------------------------------METQRDSPSLARWS--LLLLLLGLV--
+ITPA--ASRTLTYREAVLRVVDSLNQRSS-EENFYRLLQLDSQPE----G-DENPNIPKP
+VSFTVKETVCPKTTQKPLEECDFKDNGLVKRCDGTVILDADSSY-YDINCDEA---LEA-
+-KFGR------------------------------------LRNLIEKAGQNIRGKIQGI
+-------------GRRI------KDI---LKNLQPRPQAS--------------------
+------------------------------------
+>ENSCAFP00000019004 ENSCAFG00000012896	172	CAMP	cathelicidin antimicrobial	Canis_lupus_familiaris	101A	101	A
+---------------------------------METQKDSPSLGRWS--LLLLLLGLV--
+ITPA--ASRALSYREAVLRAVNGFNQRSS-EENLYRLLQLNSQPK----G-DEDPNIPKP
+VSFTVKETVCPKTTQQPLEQCGFKDNGLVKQCEGTVILDEDTGY-FDLNCDSI---LQV-
+KKIDR------------------------------------LKELITTGGQKIGEKIRRI
+-------------GQRI------KDF---FKNLQPREEKS--------------------
+------------------------------------
+>ENSFCAP00000008151 ENSFCAG00000008790	171	CAMP	cathelicidin antimicrobial	Felis_catus	101A	101	A
+---------------------------------METQRDSPSLGRWS--LLLLLLGLV--
+ITPA--TPQTLSYEEAVLRAVDGFNQRSS-EKNLYRLLQLDSQPE----G-DEDPNTPKP
+VSFKVKETVCPKTTQRPLEQCDFKDNGLVKQCEGTVILDRNRGY-FDINCDEI---LQV-
+RKLGQ------------------------------------LGELIQQGGQKIVEKIQKI
+-------------GQRI------RDF---FSNLRPRQEA---------------------
+------------------------------------
+>ENSLCNP00005009722 ENSLCNG00005006362	171	CAMP	cathelicidin antimicrobial	Lynx_canadensis	101A	101	A
+---------------------------------METQRDSPSLGRWS--LLLLLLGLV--
+ITPA--TPQTLSYEEAVLRAVDGFNQRSS-EKNLYRLLQLDSQPE----G-DGDPNTPKP
+VSFKVKETVCPKTTQRPLEQCDFKDNGLVKQCEGTVILDQNRGY-FDINCDEI---LQV-
+RKLGQ------------------------------------LGELIQQGGQKIVEKIQKI
+-------------GQRI------RDF---FSNLRPRQEA---------------------
+------------------------------------
+>ENSMPUP00000014865 ENSMPUG00000014975	177	None	None	Mustela_putorius_furo	101A	101	A
+---------------------------------METQRDSTSLQRWS--LLLLLLGLV--
+VTPA--TSRTLSYREAVLRVVDSLNQRSS-DENLYRLLKLNSEPQ----G-DENPNIPQP
+ASFTVKETVCPKTTQQPLEQCDFKDNGLVKQCAGTVSLDEDKSY-FDISCEEN---LEV-
+SKYGG------------------------------------LRDLLGRARRG----IRRI
+-------------GRRIKTGSS---------SLALLLSGLW---QAAISQST--------
+------------------------------------
+>ENSNVIP00000030080 ENSNVIG00000023183	168	CAMP	cathelicidin antimicrobial	Neovison_vison	101A	101	A
+---------------------------------METQRDSTSLQRWS--LLLLLLGLV--
+VTPA--TSRTLSYREAVLRVVDSLNQLSS-DENLYRLLKLNSEPQ----G-DENPNIPQP
+ASFTVKETVCPKTTQQPLEQCDFKDNGLVKQCAGTVSLDEDKSY-FDISCEEN---PEV-
+SKFGG------------------------------------LRDLLRRARQR----IERI
+-------------GRRIGRFFT---------KYQLPQEES--------------------
+------------------------------------
+>ENSPLOP00000016102 ENSPLOG00000011786	204	CAMP	cathelicidin antimicrobial	Panthera_leo	101A	101	A
+MGGSGRLLVGSLHQAQAGHKGGTCRWGGSLLGTMETQRDSPSLGRWS--LLLLLLGLV--
+ITPA--TPQTLSYEEAVLRAVDGFNQRSS-EKNLYRLFQQDSQPE----G-DGDPNTPKP
+VSFKVKETVCPKTTQRPLEQCDFKDDGLVKQCEGTVILDQNRGY-FDINCDAI---LQV-
+SKLGQ------------------------------------LGELIQRGGQKIGEKIQKI
+-------------GERI------RDF---FSNLRPRQEA---------------------
+------------------------------------
+>ENSUMAP00000000782 ENSUMAG00000000848	229	None	cathelicidin antimicrobial	Ursus_maritimus	101A	101	A
+---------------------------------METQRDSPSLARWS--LLLLLLGLV--
+ITPA--ASRTLTYREAVLRVVDSLNQQSS-EENFYRLLQLDSQPE----G-DENPDIPKP
+VSFTMKETVCPKTTQKPLEECDFKDNGLVKRCNGTVTLDADRSY-YDINCDEV---SVP-
+FWIGG------------------------------------VDGVAVHRTS--YGPINHC
+-------------GIQAEKAPPALGF---SLNLSLRSPGLS---LQSLRTVVLKSVVLRT
+WEFVRNANSWAPLRTTESDSGVGPSNLYFNKPARGF
+>ENSVVUP00000041865 ENSVVUG00000029779	172	CAMP	cathelicidin antimicrobial	Vulpes_vulpes	101A	101	A
+---------------------------------METQKDSPSLGRWS--LLLLLLGLV--
+ITPA--ASRALSYREAVLRAVNGFNQRSS-EENLYRLVQLNSQPK----G-DEDPNIPKP
+VSFTVKETVCPKTTQQPLEQCGFKDNGLVKQCEGTVILDEDTGY-FDLNCDSI---LQV-
+KKIDQ------------------------------------LKELITTGVQKIGKKIRRI
+-------------GQRI------KDI---LKNLRPRGEES--------------------
+------------------------------------
+>ENSRFEP00010014575 ENSRFEG00010009904	171	CAMP	cathelicidin antimicrobial	Rhinolophus_ferrumequinum	101A	101	A
+---------------------------------METQGGSPSLRRWS--LLLLLLGLA--
+MPPA--TAQALTYREAVLRAVDGFNQQSS-EASLYRLLELDQQPH----G-DGNPNIPQP
+VSFTVKETVCPRSTQQPTEQCDFKEKGLVKQCVGTVTLDQVDGY-FDISCEEL---RNVK
+LGGRLREI---------------I----------------------RKGGRKIGQGLENI
+-------------GKRI------KDF---FSNVQPR---EES------------------
+------------------------------------
+>ENSDNOP00000018182 ENSDNOG00000036956	165	None		Dasypus_novemcinctus	101A	101	A
+---------------------------------MDSVR-------VA--VLLLLLGLSWA
+EPVPVAKDASLSYTEALAIAVENYNSQSE-EENAFRLLEAQPPAD----W-DPALSKPQL
+LPFAVKETACKKQKNLNLQACPFKDNGQVKSCLGIFKRDEKGFS-MAHTCDPEKPTGPVR
+ARRGL-----------------------------------------RKSFRKLRRKLKKL
+WPK---------KNVPL-------------------LHGTYRF-----------------
+------------------------------------
+>ENSSHAP00000009990 ENSSHAG00000008643	171	None		Sarcophilus_harrisii	101A	101	A
+---------------------------------MEH--------LRN--ILL-LASVATL
+IPTQALPLSSLSYQKALSKALHLYNQAHK-GENAFRLLQTDPPSPN---Q-DLQEQTLKH
+LSFTLKETVCPVTEDLLLDQCDFKVDGLVKECQGSISNEQDIAA-IILTCDPEASAPSRS
+RRYLTFKRKN-GSR-----K------------NGHRP---GGYSLIALGNKKVLKAPYM-
+-------------------------------ESI--------------------------
+------------------------------------
+>ENSPCIP00000035102 ENSPCIG00000025968	191	None	None	Phascolarctos_cinereus	101A	101	A
+---------------------------------MEP--------LRK--LLL-LASAAAV
+LPTRVLPQPSLSYEKALSAAIYFYNQGPG-RENAFRVFQVHSFPSI---Q-PLQEQTQKF
+LSFTLKETVCPVTEELLLDQCDFKTDGLVKECQVSVSNEQDMAA-IILTCNQVPPETLTS
+CVASHLTPIA-SKK-----KNPKQK-------NFDNY---TSYVYTHAHTHTYIWFPLCS
+WYIL-F---------------------YAFKNIILRRDP---------------------
+------------------------------------
+>ENSEEUP00000002701 ENSEEUG00000002959	126	None	None	Erinaceus_europaeus	101A	101	A
+---------------------------------MEVQRESTSLAWWL--PLLLLPGLV--
+IPPA--AAQTPSYREAALRAVDDLNRQSS-DANLYRLLELSEEPM----G-SGDPSSPKP
+INFLAKETVCPKTTRQFPEQCDFKENGVVKQCVGTVTLDQVRGS-FDVNCVE--------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------
+>ENSOCUP00000013325 ENSOCUG00000015518	171	CAMP	Oryctolagus cuniculus cathelicidin antimicrobial peptide (CAMP), mRNA	Oryctolagus_cuniculus	101A	10
+---------------------------------METHKHGPSLAWWS--LLLLLLGLL--
+MPPA--IAQDLTYREAVLRAVDAFNQQSS-EANLYRLLSMDPQQL----E-DAKPYTPQP
+VSFTVKETECPRTTWKLPEQCDFKEDGLVKRCVGTVTRYQAWDS-FDIRCNRA---QES-
+PEPTG------------------------------------LRKRLRKFRNKIKEKLKKI
+-------------GQKI------QGL---LPKLAPRTDY---------------------
+------------------------------------
+>ENSOANP00000050266 ENSOANG00000039837	159	None	None	Ornithorhynchus_anatinus	101A	101	A
+---------------------------------MGG--------TGR---LLLLLGLAA-
+VATAGPPEAEKKYREAVSLALDAYNRGLT-GSSAFRLLEPSQLKP---------DLPRGH
+LKFKIKETVCPVAEKCQQRECDFKEDGLERDCSGIFLAPSDTRI-MVLSCRPAGGRRLRR
+SSGSEE------------PDWSKV---P------SKYR-----EMYENAKYDIIANILRN
+--F---------------------------------------------------------
+------------------------------------
+>ENSECAP00000036992 ENSECAG00000030582	155	None		Equus_caballus	101A	101	A
+---------------------------------METQRDSCSLGRWS--PLLLLLGLV--
+IPLA--TTQTLSYKEAVLRAVDGLNQRSS-DENLYRLLELDPLPK----G-DEAPDTPKP
+VSFTVKETVCPRTTQQPLEQCDFKENGLVKQCVGTVILDPVKAS-VDIGCDEP---QRVK
+RRGSVTTRYQ---------LL--------------------------------------M
+IPR----------VRPQ------VVF---A------------------------------
+------------------------------------
+>ENSCATP00000008271 ENSCATG00000024897	173	CAMP	cathelicidin antimicrobial	Cercocebus_atys	101A	101	A
+------------------------------MGTMKTQRDGPSLGRWS--LVLLLLGLV--
+MPLAI-VAQVLSYQEAVLRAIDGINQRSS-DANLYRLLDLDPRPT----M-DGDPDTPKP
+VSFTVKETVCPRTTQKSPEDCDFKEDGLVKRCVGTVILNQARDS-FDISCDKD---NRKF
+ARLGNFFR---------------------------------------KVKEKIGGGLKKV
+-------------GQKI------KDF---LGNLVP---RTAS------------------
+------------------------------------
+>ENSGGOP00000012112 ENSGGOG00000012414	173	CAMP	cathelicidin antimicrobial	Gorilla_gorilla	101A	101	A
+------------------------------MGTMKTQRDGHSLGWWS--LVLLLLGLV--
+MPLAI-IAQVLSYKEAVLRAIDGINQRSS-DANLYRLLDLDPRPT----M-DGDPDTPKP
+VSFTVKETVCPRTTQQSPEDCDFKKDGLVKRCMGTVTLNQARGS-FDISCDKD---NKRF
+ALLGDFFR---------------------------------------KAKEKIGKESKRI
+-------------VQRI------KDF---LRNLVP---RTES------------------
+------------------------------------
+>ENSP00000296435 ENSG00000164047	173	CAMP	cathelicidin antimicrobial	Homo_sapiens	101A	101	A
+------------------------------MGTMKTQRDGHSLGRWS--LVLLLLGLV--
+MPLAI-IAQVLSYKEAVLRAIDGINQRSS-DANLYRLLDLDPRPT----M-DGDPDTPKP
+VSFTVKETVCPRTTQQSPEDCDFKKDGLVKRCMGTVTLNQARGS-FDISCDKD---NKRF
+ALLGDFFR---------------------------------------KSKEKIGKEFKRI
+-------------VQRI------KDF---LRNLVP---RTES------------------
+------------------------------------
+>ENSMMUP00000013960 ENSMMUG00000010655	173	CAMP	cathelicidin antimicrobial	Macaca_mulatta	101A	101	A
+------------------------------MGTMKTQRDSPSLGRWS--LVLLLLGLV--
+MPLAI-VAQVLSYQEAVLRAIDGINQRSS-DANLYRLLDLDPRPT----M-DGDPDTPKP
+VSFTVKETVCPRTTQKSPEDCDFKEDGLVKRCVGTVILNQARDS-FDISCDKD---NRRS
+ARLGNFFR---------------------------------------KVKEKIGGGLKKV
+-------------GQKI------KDF---LGNLVP---RTAS------------------
+------------------------------------
+>ENSMLEP00000026424 ENSMLEG00000037421	173	CAMP	cathelicidin antimicrobial	Mandrillus_leucophaeus	101A	101	A
+------------------------------MGTMKTQRDGPSLGRWS--LVLLLLGLV--
+MPLAI-VAQVLSYQEAVLRAIDGINQRSS-DANLYRLLDLDPRPT----M-DGDPDTPKP
+VSFTVKETVCPRTTQKSPEDCDFKEDGLVKRCVGTVILNQARDS-FDISCDKD---NRKF
+ARLGNFFR---------------------------------------KVKEKIGGGLKKV
+-------------GQKI------KDF---LGNLVP---RTAS------------------
+------------------------------------
+>ENSMICP00000000662 ENSMICG00000000736	168	CAMP	cathelicidin antimicrobial	Microcebus_murinus	101A	101	A
+---------------------------------METRKDGSSLARWS--LVLLLLGLV--
+MPLA--TAQYLSYQEAVLRAVDGLNQRSS-DANLYRLLDLDPQSG----G-DGDPDTPKP
+VSFTVKETVCPRTTQRPPEQCDFKENGLLKQCVGTVTLDAVRGS-FDIRCNKL---QETK
+RAAGLHGFI--------------------------------------------RGKLEKL
+-------------GQRI------RDF---FNNLLPR---TGSSALP--------------
+------------------------------------
+>ENSPTRP00000025671 ENSPTRG00000014880	173	CAMP	cathelicidin antimicrobial	Pan_troglodytes	101A	101	A
+------------------------------MGTMKTQRDGHSLGRWS--LVLLLLGLV--
+MPLAI-VAQVLSYKEAVLRAIDGINQRSS-DANLYRLLDLDPRPT----M-DGDPDTPKP
+VSFTVKETVCPRTTQQSPEDCDFKKDGLVKRCMGTVTLNQARGS-FDISCDKD---NKRF
+ALLGDFFR---------------------------------------KSKEKIGKEFKRI
+-------------VQRI------KDF---LRNLVP---RTES------------------
+------------------------------------
+>ENSPANP00000007006 ENSPANG00000014733	172	CAMP	cathelicidin antimicrobial	Papio_anubis	101A	101	A
+------------------------------MGTMKTQRDGPSLGRWS--LVLLLLGLV--
+MPLAI-VAQVLSYQEAVLRAIDGINQRSS-DANLYRLLDLDPRPT----M-DGDPDTPKP
+VSFTVKETVCPRTTQKSPEDCDFKEDGLVKRCVGTVILNQARDS-FDISCDKD---N-RF
+ARLGNFFR---------------------------------------KVKKKIGGGLKKV
+-------------GQKI------KDF---LGNLVP---RTAS------------------
+------------------------------------
+>ENSPPYP00000015559 ENSPPYG00000013910	173	CAMP	cathelicidin antimicrobial	Pongo_abelii	101A	101	A
+------------------------------METMNTQMDGHSLGRWS--LVLLLLGLV--
+MPLAI-VAQVLSYKEAVLHAIDGINQRSS-DANLYRLLDLDPSLT----M-DGDPDTPKP
+VSFTVKETVCPRRTQQSPEDCDFKKDGLVKRCVGTVTLNQARGS-FDISCDKD---NRRF
+ALLGDFFR---------------------------------------EAREKIGEEFKRI
+-------------VQRI------KDF---LRNLVP---RTES------------------
+------------------------------------
+>ENSCPOP00000008166 ENSCPOG00000009093	178	None	None	Cavia_porcellus	101A	101	A
+---------------------------------MGTPRDAASGGPRL--LLPLLLLLL--
+LTPA--TAWVLSYQQAVQRAVDGINKNLADNENLFRLLSLDTQPP----G-DNDPYSPKP
+VSFTIKETVCTKMLQRPLEQCDFKENGLVQRCTGTVTLDSAFNV-SSLSCLGG---RRFR
+RMVGLRKKFR---------KT--------------RKRIQKLGRKIGKTGRKVWKAWREY
+GQI---------P------------Y---PCRI---------------------------
+------------------------------------
+>ENSMOCP00000019307 ENSMOCG00000017347	174	Camp	cathelicidin antimicrobial	Microtus_ochrogaster	101A	101	A
+---------------------------------MQAQRDNPSLRWSL--SLLLLLGLV--
+LPLV--FSQTLSYREAVLRAVDDFNQQSL-DTNLYRLLDMDSQPS----G-DEDPDALNY
+MRFRVKETVCDKATYQTPEQCNFREHGLVKQCVATVN--QGTDSFTDISCKGPGTQPQQF
+KNVGR------------------------------------IAGLLRRGGLKIGEKIQKL
+-------------GQKI------RDF---FQKITPEVEK---------------------
+------------------------------------
+>ENSPEMP00000018266 ENSPEMG00000016929	171	Camp	cathelicidin antimicrobial	Peromyscus_maniculatus_bairdii	101A	101	A
+---------------------------------MQTQRDNPPLRWPLS--LLLLLGLV--
+------LSQTRGYREAVLRAVDEFNRQSS-DTSLYRLLDLDSQPQ----G-DEDPDTPQY
+VRFRVKETVCDKALQQLPEQCDFKENGLVKQCVGTVTLSQDTDS-FDINCRGPGTQPQKF
+KKIAK------------------------------------IAGLLRKGGQKIGEKIKKI
+-------------GQKI------ADF---FGKTAPEVEN---------------------
+------------------------------------
+>ENSRNOP00000028130 ENSRNOG00000020733	175	Camp	cathelicidin antimicrobial	Rattus_norvegicus	101A	101	A
+---------------------------------MQPHRDVPSL--WRSLSLLLLLGLG--
+LPLA--VSQTLSYREAVLRAVDDFNQQSL-DTNLYRLLDLDSEPQ----G-DEDPDTPKY
+VRFRVKETVCSKASQQLPEQCAFKEQGVVKQCMGTVTLNQAAES-FDISCDAPGIQPFRF
+KKISR------------------------------------LAGLLRKGGEKFGEKLRKI
+-------------GQKI------KDF---FQKLAPEIEQ---------------------
+------------------------------------
+>ENSACCP00020021969 ENSACCG00020015106	153	None	None	Aquila_chrysaetos_chrysaetos	101A	101	A
+---------------------------------MPS--------CWV--LVLAVLGGAC-
+ALPAPAP---FTYTQALAQAVDSFNQRPE-VQNAFRMLSADPEPT----P-DVQLSSLQR
+LNFTIMETRCPARSGARLDACEFKEDGVIKVCSVPVLQRGSHLV-FDVACVDSTVDPIRV
+----KR-------------FWLLL-----RV--AVKMVA-AGINLFKVIVRK--------
+------------------------------------------------------------
+------------------------------------
+>ENSAPLP00020003518 ENSAPLG00020002584	146	None	None	Anas_platyrhynchos	101A	101	A
+---------------------------------MAS--------CWV--LLLLGLGGAC-
+ALPAPAP---LAYSQALAQAVDSFNQRPE-VHNAFRLLSADPEPA----P-DVQLSSLRS
+LNFTIMETRCPARTGARPDSCDFKEDGVIKDCSGPVVLQSGRPA-LDVTCVDSTMEPRQV
+----KR-------------FWQLV-----PL--AIKIY--------RAWKRR--------
+------------------------------------------------------------
+------------------------------------
+>ENSCJPP00005012496 ENSCJPG00005010622	151	CJ-CATH3		Coturnix_japonica	101A	101	A
+---------------------------------MWS--------CWV--LVLALLGGAC-
+ALPA--P---LDYNQALAQAVDSYNQRPE-VQNAFRLLSADPEPG----P-NVQLSSLHN
+LNFTIMETRCQARSGAQLESCDFKEDGLVKDCAAPVVLQGGRAV-LDVTCVDSMADPVRV
+----KR-------------FWPLV-----PV--AINTVA-AGINLYKAIRRK--------
+------------------------------------------------------------
+------------------------------------
+>ENSGALP00000056590 ENSGALG00000034150	151	CATHL3		Gallus_gallus	101A	101	A
+---------------------------------MLS--------CWV--LLLALLGGAC-
+ALPA--P---LGYSQALAQAVDSYNQRPE-VQNAFRLLSADPEPG----P-NVQLSSLHN
+LNFTIMETRCQARSGAQLDSCEFKEDGLVKDCAAPVVLQGGRAV-LDVTCVDSMADPVRV
+----KR-------------FWPLV-----PV--AINTVA-AGINLYKAIRRK--------
+------------------------------------------------------------
+------------------------------------
+>ENSPCLP00000021080 ENSPCLG00000018445	151	None	None	Phasianus_colchicus	101A	101	A
+---------------------------------MLS--------CWV--LVLALLGGAC-
+ALPA--P---LGYSQALAQAVDSYNQRPE-VQNAFRLLSADPEPG----P-NVQLGSLHN
+LNFTIMETRCQARSGAQLDSCEFKEDGLVKDCAAPVVLQGGRAT-FDVTCVDSMADPVRI
+----KR-------------FWPLV-----PV--AINTVA-AGINLYKAIKRK--------
+------------------------------------------------------------
+------------------------------------
+>ENSACOP00000002582 ENSACOG00000001819	228	None	None	Amazona_collaria	101A	101	A
+---------------------------------MPS--------SWA--LVLVVLGGAC-
+ALPAPAP---LAYTQALAQAIESYNQRPE-VQNAFRLLSADPEPV----P-NIQLSSLQR
+LNFTIMETQCPARSRIRPDACEFKEDGLVKDCSAPVPQLGG-SV-LGITCIDSTTDVSWG
+IPGCCR-------------AWRGTWGSPHPVTPPLPTAR-PGQALLAAAGNSHQDGGRWC
+WHLQVLQGMSPAPGAAI---SSPSTLVSPLPQIKLLPSPT--VPFPATITPLGTGYMGTG
+WG----------------------------------
+>ENSACAP00000019638 ENSACAG00000025845	104	None		Anolis_carolinensis	101A	101	A
+-----------VRAQIPKE-------------TMEK--------VWA--LL-LFLGVA--
+-TAAPVVLGPISYDQAVASAVDTFNREQK-PEFIFQLLESEPQPD----W-KTTGEVTQP
+LKFSIKETECRFTDKANGTRCNFKENGV--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------
+>ENSNSUP00000005011 ENSNSUG00000004014	144	None	None	Notechis_scutatus	101A	101	A
+----------VNSQNSSAI-------------LGNW--------FFW--KTLLVVGALSA
+SGHCAPSQKLLTYDEAVEQGVALYNSKAK-EESLYRLLEAAPQPE----W-DPNSEGTQE
+LEFTIKETVCPAKEEVSLDQCDFEEGGVKRGVVSGTS------------GDDLGGRSNHW
+PSR-------------------RD---P------TSLE--ALHL-------S--------
+------------------------------------------------------------
+------------------------------------
+>ENSPMRP00000025085 ENSPMRG00000016212	171	None	None	Podarcis_muralis	101A	101	A
+------------------M-------------KMES--------SFW--RVLLLVGAAAA
+TTVLPPAKEPLSYEDAAALAVDLYNQKAD-EDFTYRLLKAAPQPN----W-DASSESAQE
+LNFTIQETECLAEEERPVEECSFRDGGVVKECSGFYFLAENPPV-AIVTCEAVEDEPE--
+---------------------------P------KRVKRSWLKKKFKKIKKGVKKGFRK-
+--I--------------------------FKGKGIMVGGT--VRY---------------
+------------------------------------
+>ENSPVIP00000028031 ENSPVIG00000020817	158	None		Pogona_vitticeps	101A	101	A
+---------------------------------MQS--------YWA--LLVLFAGAV--
+-VAAPTPQAPASYEQVVAAAVDTYNQQQK-PEYAFRLLEAEPQTD----W-QTSGETTQP
+LKFSIKETVCRSSETPNVSQCDYKDDGVDRDCSGFYSTQQKPPT-IIIQCEDVDQELQRI
+TRG----------------RWSRW---R------NKAK-----RFIKKHGVSIALTALR-
+--F---------------------------------G-----------------------
+------------------------------------
+>ENSCABP00000017270 ENSCABG00000012813	140	None	None	Chelonoidis_abingdonii	101A	101	A
+---------------------------------MET--------CCR--CLLLLGILAAA
+ATAVPSQHKTLSYEEAVALAVDFYNQGSG-IDHAFRLLKANPQPE----W-DVSSKTIQS
+LTFTVKETVCLVSGNRDPNQCEFKEDGVRITPCWPRGTALIPRS-SVGDMTR------SR
+SHTRTVAA------------WRIQ---P------KFP-----------------------
+------------------------------------------------------------
+------------------------------------
+>ENSCSRP00000007330 ENSCSRG00000005421	155	None	None	Chelydra_serpentina	101A	101	A
+---------------------------------MAS--------CWA--VLLLLVTVTA-
+AVPVKIPQPSQPYEKAIAQAIDFYNQGPT-VKFAFRLLTAAPPPDVAQG----TISNILQ
+LNFTIMETTCPASDKATVEQCDFKENGLVRDCFGHFSTQEACPV-LAITCDVAPPQPVRV
+T---RW--------------WPLVRL-------GAKIIG-HGISFFRSKN----------
+------------------------------------------------------------
+------------------------------------
+>ENSCPBP00000021370 ENSCPBG00000015361	147	None	None	Chrysemys_picta_bellii	101A	101	A
+--------PTQLSLNATGH-------------RMET--------CLK--VLLLVAVVTAA
+PA--PSSAPLPTHEDAVLAAVLVYNQEPG-LTLAYRLLETEPQPD----W-DVSSKTIQP
+LKFTVQETVCPVSEQRDFNQCEFKEDGVRITCCTE----TPPSG-LQALCRT------GL
+EFKITLIN------------WRTF---L------RSTK----------------------
+------------------------------------------------------------
+------------------------------------
+>ENSGAGP00000001021 ENSGAGG00000000799	209	None	None	Gopherus_agassizii	101A	101	A
+--------PTQLSLNATGH-------------RMET--------CLK--VLLLVGVVTAA
+PT--PPSSPQLTHEDAVLAAVQIYNQEPG-TTLAYRLLEAEPQPD----W-DVFSKTIQS
+LKFTVKETVCPVSGNRDPNQCEFKEDGLVKDCSGFFSTEQDPPS-IIIKCEEASEEVSGL
+DSLLSAHG------------WADA---G------LRVSLAEILARYFTLHKCPQNKCPA-
+--P--------PTGSELAKASCPTSLEVEPTAASRTAGSK--F-----------------
+------------------------------------
+>ENSPSIP00000020022 ENSPSIG00000017745	157	None	cathelicidin-related peptide	Pelodiscus_sinensis	101A	101	A
+-----------------------------------M--------VKW--ALLLVLGVA-I
+ATTPSPPPGTLSYKEAVSRAVGLYNQRAA-GDSHFRLLRADSPSG----W-DGNSPGVRE
+LHFLVKETVCLGSERAAMEECDFKEDGRVRRCSGYVSSEQWPAT-ILITCDPAAEAPARV
+R----RASCGRPYKT------RRQ---P------TRHVR-----RHHRMTAGRK------
+------------------------------------------------------------
+------------------------------------
+>ENSPCEP00000026212 ENSPCEG00000019668	154	None	None	Pelusios_castaneus	101A	101	A
+---------------------------------MVS--------GWR--LLFLLVTLAS-
+AVPVQRP---QIYDNAIAQAIDFYNQGPA-VKNAFRLLTAASQPNQV--D-NGSSNPLQQ
+LNFTIMETTCLAADKTPLEQCDFKDNGLVRDCSGFFSTQQECPV-LAITCDVAPPQPARV
+T---RW-------------LFPFLRI-------GAKIAG-HAISIFKGRN----------
+------------------------------------------------------------
+------------------------------------
+>ENSTMTP00000009944 ENSTMTG00000007252	155	None		Terrapene_carolina_triunguis	101A	101	A
+---------------------------------MAS--------CWA--VLLLLVTAAT-
+AVPVKTP---EPYEKAIARAIDFYNQGPT-VKYAFRLLTATPPPEVAQGT-QGTISNTLQ
+LNFTIMETTCQVSDQVRVEQCAFKENGLVRDCSGHFSTQEACPV-FAITCDVAPPQPVRV
+T---RW--------------WPLVRI-------GAKILG-HGISFFHKRG----------
+------------------------------------------------------------
+------------------------------------
+>ENSBBBP00000007994 ENSBBBG00000016009	159	None		Bison_bison_bison	101B	101	B
+---------------------------------METQRASLSLGRWS--LWLLLLGLA--
+LPSA--SAQGLSYREAVLRAVDQLNEKSS-EANLYRLLELDPPPK----EDDENPNIPKP
+VSFRVKETVCPRTSQQPPEQCDFKENGLLKECVGTVTLDQVGSN-FDITCAVP---QSVG
+GLRSLG--------------------------------------------RKILRAWKKY
+GPI----------IAPI------IRI---G------------------------------
+------------------------------------
+>ENSBTAP00000042257 ENSBTAG00000039879	127	None	None	Bos_taurus	101B	101	B
+---------------------------------METQRASLSLGRWS--LWLLLLGLV--
+LPSA--SAQALSYREAMLRAVDQLNERSS-EAHLYRLLELDPPPY----Q-VEDLGARKP
+VNFRVKETVCPRSNLQPPEQCDFKENGLVKQCVGTLSLYRSDDP-FGLNCNEV-------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------
+>ENSDLEP00000024157 ENSDLEG00000017527	159	None		Delphinapterus_leucas	101B	101	B
+---------------------------------METQRASLALGRRS--LWLLLLGLV--
+VPSA--SAQALSYREAVLHAVDRLNERSS-EANLYRLLELDPPSK----T-DGDPDTPKP
+VSFTMKETVCPRTSQEPQENCDFKENGLVKQCVGTVTLDQVKGQ-MNITCDEL---QSVG
+RFRRLR--------------------------------------------NRIRKAWQKI
+GPI----------VGPL------IGR---YG-----------------------------
+------------------------------------
+>ENSMMSP00000029249 ENSMMSG00000021896	162	None	None	Moschus_moschiferus	101B	101	B
+---------------------------------METQRASISLGRWS--LWLLLLGLV--
+LPSA--SAQGLSYREAVLRAVDQLNDGST-EANLYRLLELDPPPK----D-VEDQGARTP
+ASFTVKETVCPKTSQQPPEQCDFKENGLVKQCVGTVSLDRSDDQ-SDINCNEL---QSVR
+AKRPRPPKP--------------------------------------RRPHRPRPRPLPW
+FPP---------RFPGK------R------------------------------------
+------------------------------------
+>ENSPCTP00005023210 ENSPCTG00005016577	159	None	None	Physeter_catodon	101B	101	B
+---------------------------------METQRASLALGRWS--LWLLLLGLA--
+VPLA--SAQTLSYREAVFRALDQLNERSS-EANLYRLLELDLPPK----A-DESLDTPKP
+VSFTVKETVCPRTTQQPPEQCDFKENGLVKECVGTVTLAQVRDN-FDITCTVP---QSVG
+GLRSLG--------------------------------------RKILRG------WKKY
+GPV----------IVPI------IRL---IG-----------------------------
+------------------------------------
+>ENSVPAP00000007212 ENSVPAG00000007755	126	None	None	Vicugna_pacos	101B	101	B
+---------------------------------METQRASLSLGRWS--LWLLLLGLA--
+VPWA--SAQALSYREAVLRAVDRLNEQSS-DPNLYRLLELDLPPK----A-DEDPDAPKP
+VSFTVKETVCPRRTQLPPEQCDFKENGVVKQCVGTVTLDQSRDQ-QDITCDE--------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------
+>ENSMLUP00000018596 ENSMLUG00000029483	126	None	None	Myotis_lucifugus	101B	101	B
+---------------------------------METQRSRLCWGCWP--LLLLLLGLA--
+MPTPLAAARALTYQEAVRLAVQGFNQRSR-EASLYRLLQQDLQPQ----G-DLNPDTPKP
+VSFTVKETVCPRTTRQPPEQCDFKENGLVKECAGTLTLDQDNGY-FDVVC----------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------
+>ENSPVAP00000001721 ENSPVAG00000001822	166	CAMP	cathelicidin antimicrobial	Pteropus_vampyrus	101B	101	B
+---------------------------------METQRDMPSLRRWS--LMLLLLGLA--
+RPPA-TTAQALSYQEAVLRAVDGFNQQST-EANLYRLLELDPQLK----E-DEDRNTPKP
+VSFRVKETVCPRTTRQPPEQCDFKENGLVKQCVGTVTLDQVNGS-FDINCGEG---ARFG
+LGRLLRR-----------------------------------------GGRKIGQGIEGL
+G-------------RGI------KGL---F--SKPR---EDS------------------
+------------------------------------
+>ENSMODP00000059369 ENSMODG00000036406	161	None		Monodelphis_domestica	101B	101	B
+---------------------------------MEH--------LRK--VLL-LVSVVTL
+IPAQVLPQSSPRDGNTLSAAIHFYNQVHG-TKNAFKVLETHPPPSN---Q-GALEQRLKF
+LNVTMKETMCPRNEEFPLQQCDFKRDGLVKKCQASVSNEQDIVA-IILTCDLGALLSPRS
+RRSIFKTKRSRVTK-----YHPLLC-------IGC----------------GLRWPKFG-
+------------------------------------------------------------
+------------------------------------
+>ENSVURP00010015141 ENSVURG00010011583	162	None	None	Vombatus_ursinus	101B	101	B
+---------------------------------MEH--------FTK--LLL-LAGATAV
+LPPRVLPQPSLSYEKALSAVIHFYNQVPG-RENAFRVLQVRSPPSI---Q-PLQEQTQKL
+LSFTLKETVCPVTEELPLDQCDFKTDGLVKECQGSVSNEQDIAA-IILTCDPVPPEPLRF
+KRIRCPPRI---------------C-------NVHNL---LR------SLHSTMWKGKL-
+---------------------------ISLS-----------------------------
+------------------------------------
+>ENSPCAP00000011518 ENSPCAG00000012384	169	None	cathelicidin antimicrobial	Procavia_capensis	101B	101	B
+---------------------------------METQRGSTCLQCWS--SLLLLLGLA--
+VPPT--TARVFSYQEAILRAVDGINQRSS-DASLYRLLELGQLPD----S-DEDPDTPKP
+VSFTVQETVCPRKTQRPPEECNFKENGLVKYCTGTVTLDQTRDF-FNINCDKP---SQKI
+TGLGERL-----------------W----------------------RGGKEIWGKIA--
+--R---------AGQKI------KDF---LKNLPPR---TAS------------------
+------------------------------------
+>ENSOPRP00000001500 ENSOPRG00000001632	167	CAMP	cathelicidin antimicrobial	Ochotona_princeps	101B	101	B
+---------------------------------METQRRGVSL------LPLLLLGLV--
+MPVA--TTQILSYQQAVLRAVDSFNQRSF-HDNLFRLLDLESQPP----E-DNDPNTPKP
+VKFTVKETVCPKTAEQLPEQCDFKKEGLVEQCVGTVMLNQARES-FDLNCDAQ---AREA
+TGLRKSLR---------------------------------------KARKKIKKAFRKF
+RH-------------NI------KD-----SPYLPRV------PLPGGK-----------
+------------------------------------
+>ENSCHOP00000009930 ENSCHOG00000011231	167	CAMP	cathelicidin antimicrobial	Choloepus_hoffmanni	101B	101	B
+---------------------------------METQRRSTPLGQWS--LLLLLLGLV--
+MPLA--TGQTLSYQEAVLRAVDGLNQQSS-DDNLYRLLKQDLQLE----V-DEDPDTPKP
+VSFTVKETVCPRTTRQPPEQCDFKENGLVKQCVGTVTLDQASDY-FDINCDGR---VKRV
+RPLHRRIRRP---------PWI------------------------------------RY
+ELQ---------TLQGI------EDL---LTNLAPR---TES------------------
+------------------------------------
+>ENSCJAP00000069556 ENSCJAG00000002710	186	CAMP	cathelicidin antimicrobial	Callithrix_jacchus	101B	101	B
+------------------------------MGTMKTQRDGPSLGRWS--LVLLLLGLT--
+MPLAV-TGRVLSYQEAVLHAVDGLNQRSS-DANLYRLLNLDPRPT----V-DGDPDTPKP
+VSFTVKETVCPRTIQRSPEECDFKEDGLVKWCVGTVTLNQAKDS-FDISCDKV---SGLF
+WDAGADAH---------------------------------------GVWTI--------
+-------------------------L---WVNYLPSQPRPEKAPPTQGSSFNLSSASGRL
+WNSLEQ------------------------------
+>ENSCSAP00000011989 ENSCSAG00000015913	173	CAMP	cathelicidin antimicrobial	Chlorocebus_sabaeus	101B	101	B
+------------------------------MGTMKTQRDGPSLGRWS--LVLLLLGLV--
+MPLAI-VAQVLSYQEAVLRAIEGINQRSS-DANLYRLLDLDPRPT----M-DGDPDTPKP
+VSFTVKETVCPRTTQKSPEDCDFKEDGLVKRCVGTVTLNQARDS-FDISCDKD---NRRF
+ARLGKFFR---------------------------------------KVKKKIGGGLKKI
+-------------GQKI------KDF---LGNLVP---RTAS------------------
+------------------------------------
+>ENSTGEP00000011690 ENSTGEG00000009524	173	CAMP	cathelicidin antimicrobial	Theropithecus_gelada	101B	101	B
+------------------------------MGTMKTQRDGPSLGRWS--LVLLLLGLV--
+MPLAI-VAQVLSYQEAVLRAIDGINQRSS-DANLYRLLDLDPRPT----M-DGDPDTPKP
+VSFTVKETVCPRTTQKSPEDCDFKEDGLVKRCVGTVILNQARDS-FDISCDKD---NRRF
+ARLGNFFR---------------------------------------KVKKKIGGGLKKV
+-------------GQKI------KDF---LGNLVP---RTAS------------------
+------------------------------------
+>ENSLAFP00000003812 ENSLAFG00000004571	169	CAMP	cathelicidin antimicrobial	Loxodonta_africana	101B	101	B
+---------------------------------METQRGSTSLQWWS--LL-LLLGLV--
+VPPA--AAKAFSYQEAVLRAVDGLNQQSS-DANLYRLLKLNQQPS----G-DENPNTPKP
+VNFTVKETVCPRRTKLPAEQCDFKKNGLVKHCVGTVTLDQTTGF-FDINCDRP---RHVR
+RIRGLRKFFR---------KS-------------K--------EKLKKVGRKVKGFFRDV
+--------------LRR------VPY---LPG----------------------------
+------------------------------------
+>ENSCCNP00000008186 ENSCCNG00000008711	172	Camp	cathelicidin antimicrobial	Castor_canadensis	101B	101	B
+---------------------------------MYTQRDGPFLGQWS--LLLLLLGLL--
+IPPA--TAQTLSYQEAVLRAVDGFNQRSL-DDNLYRLLTLESRPP----E-DEDPDTPKP
+VRFTVKETVCPKTTQQPLQQCDFKKDGLVRRCVGTVTLDQARGS-SDITCDVV---PQHF
+KKVAQ------------------------------------LGSFLQRGGQKTGEKLERL
+-------------GQKI------KDF---FQNLAPMEES---------------------
+------------------------------------
+>ENSDORP00000009981 ENSDORG00000010620	171	Camp	cathelicidin antimicrobial	Dipodomys_ordii	101B	101	B
+---------------------------------MHAQSEGLFLGQWA--LVLLL---L--
+MPPA--FAQSLSYQDAVLRAVDSFNQRSL-DTNAYRLLALDSQPQ----G-EEDPDSPKP
+VSFTMKETVCPKRSRQALEQCDFKENGLVRWCVGTVTMDQGSD--SDLDCNLM---PQPV
+HKFSR------------------------------------LGKFLRKGGKKIGKKLEKL
+-------------GQKI------KDF---FHKFAPKGEPPE---P---------------
+------------------------------------
+>ENSSTOP00000013580 ENSSTOG00000015157	171	CAMP	cathelicidin antimicrobial	Ictidomys_tridecemlineatus	101B	101	B
+---------------------------------MRTQREGPFLEWRS--LLLLLLGLM--
+MPLA--IAQTLSYQEAVLRAVDGFNQQSS-DANLYRLLSLDSQSR----G-DEDPDTPKP
+VSFTVKETVCPKTTQQTLEQCDFKEDGLVKRCVGTVTLDPARDS-FDINCDG----PQHF
+KKIAR------------------------------------LGGLLQKGGEKIGEKLENI
+-------------GRKI------KDF---FQGLVPRLRS---------------------
+------------------------------------
+>ENSMUGP00000022917 ENSMUGG00000019192	179	Camp	cathelicidin antimicrobial	Meriones_unguiculatus	101B	101	B
+---------------------------------MQTQRGISSLQWWL--SLLLPLGLG--
+LPPA--ISQTLSYREAVVRAVDDFNQQSL-DTNLYRLLNLDSQPQ----G-DEDPATPKY
+VRFRVKETVCDKASGQLPEQCSFKEQGLVKQCMGTVSLNQDTDA-FDINCNEPGAQPRRF
+KKIAK--------------------------------KVALLGELLQKGGAKIGKKLEKI
+-------------GQKI------KNF---FQKPELETKK---------------------
+------------------------------------
+>ENSMAUP00000015433 ENSMAUG00000014897	175	Camp	cathelicidin antimicrobial	Mesocricetus_auratus	101B	101	B
+---------------------------------MHTQRDHPFLRWSL--SLLLLLGLV--
+LPLA--ISKTLSYREAVLRAVDNFNQQSL-DTYLYRFLDMDSQPP----G-DEDPGTPKY
+VDFRMKETVCDKATHQIPELCNFREHGVVKRCVGTITLNQDTES-FDIDCQGPGTHPQPV
+KKDSR------------------------------------IAELLRKGGLKIGENFKKI
+-------------GQKI------KDF---FQKTAPQAES---------------------
+------------------------------------
+>ENSMUSP00000107653 ENSMUSG00000038357	172	Camp	cathelicidin antimicrobial	Mus_musculus	101B	101	B
+---------------------------------MQFQRDVPSLWLWRSLSLLLLLGLG--
+F------SQTPSYRDAVLRAVDDFNQQSL-DTNLYRLLDLDPEPQ----G-DEDPDTPKS
+VRFRVKETVCGKAERQLPEQCAFKEQGVVKQCMGAVTLNPAADS-FDISCNEPGAQPFRF
+KKISR------------------------------------LAGLLRKGGEKIGEKLKKI
+-------------GQKI------KNF---FQKLVPQPE----------------------
+------------------------------------
+>ENSODEP00000000145 ENSODEG00000000133	170	None	None	Octodon_degus	101B	101	B
+---------------------------------MATWRDRGQ----L--LLPLLLSML--
+LPPV--SAQALSYLDAVRRAVDSLNQRSA-DANLFRLLSLESEPP----E-DEDPESPKP
+VNFTVKETVCPKRTQLQPEQCDFKEDGRVKRCSGTVTLDSASGA-FNIRSLVL---PGLV
+PHAFKKEGL---------------------------------GKLLRKVVQKLKEKFKKI
+-------------SQKI------KDF---IYNLKPRSE----------------------
+------------------------------------
+>ENSTBEP00000000731 ENSTBEG00000000850	166	None	cathelicidin antimicrobial	Tupaia_belangeri	101B	101	B
+---------------------------------METQKASLSLGLWS--L--LLLGLV--
+MPPA--SGQTLSYREAVLRAVDNYNQQSS-EANLYRLLDLDQPPT----E-DEDPDTPKP
+VSFTVKETVCAKTTRRPPEQCDFKKNGLEKQXXXXXXXXXXXXX-XXXXXXXR---AKST
+K---L-------------------------------------TGLLRRGGEKLAEKFEKI
+-------------GQKI------KNF---FRKLLPE---TES------------------
+------------------------------------
+>ENSCPIP00010014719 ENSCPIG00010011715	155	None	None	Chrysolophus_pictus	101B	101	B
+-------------MSGHGA-------------RMAS--------CWV--LVLALLGGAC-
+ALPA--P---LDYPQALAQAVDSYNQRPE-VQNAFRLLSADPEPG----P-NVQLGSLHN
+LNFTIMETRCQARSGAQLDSCEFKEDGLVKDCAAPVVLQGGRAT-FDVTCVDSMADPVRI
+----KR-------------FWPVV----------IRTVV-AGYNLYRAIKKK--------
+------------------------------------------------------------
+------------------------------------
+>ENSCJPP00005012512 ENSCJPG00005010628	148	CATH1		Coturnix_japonica	101B	101	B
+---------------------------------MWS--------CWV--LVLALLGGAC-
+ALPA--P---LDYNQALAQAVDSYNQRPE-VQNAFRLLSADPEPG----P-NVQLSSLHN
+LNFTIMETRCQARSGAQLESCDFKEDGLVKDCAAPVVLQGGRAV-LDVTCVDSMADPVRV
+----KR-------------VLPLV----------IRTVI-AGYNLYRAIKRK--------
+------------------------------------------------------------
+------------------------------------
+>ENSGALP00000042184 ENSGALG00000027973	148	CATHL1		Gallus_gallus	101B	101	B
+---------------------------------MLS--------CWV--LLLALLGGAC-
+ALPA--P---LGYSQALAQAVDSYNQRPE-VQNAFRLLSADPEPG----P-NVQLSSLHN
+LNFTIMETRCQARSGAQLDSCEFKEDGLVKDCAAPVVLQGGRAV-LDVTCVDSMADPVRV
+----KR-------------VWPLV----------IRTVI-AGYNLYRAIKKK--------
+------------------------------------------------------------
+------------------------------------
+>ENSNMEP00000005076 ENSNMEG00000005327	148	None		Numida_meleagris	101B	101	B
+---------------------------------MPS--------CWV--LVLALLGGAC-
+ALPA--P---LGYTQALTQAVDTYNQRPE-VQNAFRLLTADPEPG----P-NVQLSSLHN
+LNFTIMETRCQARSGAQLDSCEFKEDGLVKDCAAPVVLQGGRAV-FDVTCVDSMSDPVRV
+----KR-------------FWPLV----------IRTVA-AGYNLYRAIKRK--------
+------------------------------------------------------------
+------------------------------------
+>ENSSPUP00000016291 ENSSPUG00000012617	155	None	None	Sphenodon_punctatus	101B	101	B
+---------------------------------MGI--------CRW--RVLLAIIAA--
+TVAATSQHQTLSYEEAVSLAVDFYNQRPN-GARVFRLLKAEPQPG----W-DMTSQSRQE
+LNFTVQETECLASENRRVEECDFKENGLVQDCSGFFSTERACPT-VIINCDTVAPEEMRA
+TTQPTFSRCGPPPNQPSPDTGHHH---P------TN------------------------
+------------------------------------------------------------
+------------------------------------
+>ENSLLTP00000001695 ENSLLTG00000001320	175	None	None	Laticauda_laticaudata	101B	101	B
+---------------------------------MEG--------FLW--KILLLVGVLSV
+SGHPHLPHNPLTYDEALRLGVEIYNKKAR-EDSLYRLLENVPQPE----W-DPYSESDQE
+LNFTIKETVCPVEEEFSMDECDFKENGLVRQCTGYYFLEERPPV-AVLTCDTVVGTAK--
+----EEEKG--------EEEEKDP---P------KRVK--RFKDFFHRIRNGVRD-----
+--F--------------------------FRNNHFVFGVN--FRF---------------
+------------------------------------
+>ENSPTXP00000022017 ENSPTXG00000015233	184	None	cathelicidin-related peptide	Pseudonaja_textilis	101B	101	B
+---------------------------------MEG--------FFC--KTLLVVAALAI
+GGTSSLPHKPLTYEEAVDLAVSTYNGKSG-EESLYRLLEAVPPPK----W-GPLSESNQE
+LNLTIKETVCLVAEERSLEECDFQDDGAVMGCTGYFFFGESPPV-LVLTCEPLGEDEEQN
+QEEEEEEEK--------EEDEKDQ---P------RRVK--RFKKFFRKLKKSVKKRVKK-
+--F--------------------------FKK-PRVIGVS--IPF---------------
+------------------------------------
+>ENSSMRP00000021952 ENSSMRG00000017059	155	None	None	Salvator_merianae	101B	101	B
+---------------------------------MEK--------FCA--ALLI-FGVV--
+-AALPSVPPSPSYEEVLASAVDLYNQKEN-PQYAFRLLELEPKAD----W-DPSAQDIQP
+LKFSIKETVCLNSEKPDVNQCDFKEDGVDKDCSGFYYANQSPAT-VIVQCENVDQALSRI
+TRR----------------RW------R------RRIR-----RFFKKHGVSVAFTVAR-
+--F---------------------------------FG----------------------
+------------------------------------

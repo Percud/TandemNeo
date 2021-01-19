@@ -1,0 +1,644 @@
+>ENSGMOP00000021896 ENSGMOG00000020409	69	None	None	Gadus_morhua	133A	133	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------KAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSS-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSBBBP00000024343 ENSBBBG00000004984	114	None	None	Bison_bison_bison	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKQ-----------------------RKRS
+CKKSYSVYVYKVLKQVHPDTGISSKAMRIMNSFVNYIFEYIAGEASRLAHCNKHSTITSR
+EIQTAVRL-LLPGELANSLCVC--------------------------------------
+------------------------------------------------------------
+------------------------
+>ENSCDRP00005022062 ENSCDRG00005015322	234	None	None	Camelus_dromedarius	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAGRFARDA--LEDVVDERVHDAHGLGRDAGVRVHL
+LQHLVHVDGVALLAAALALLTVLLLSFGDGFLRALLGRRSRLCRLRHNGEHKLQGQRGTT
+RNANPTAAQRLPEATRYLHRRYAN
+>ENSCHIP00000007844 ENSCHIG00000011209	126	H2BC11	histone H2B type	Capra_hircus	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSCWAP00000011355 ENSCWAG00000008855	126	H2BC11	H2B clustered histone	Catagonus_wagneri	133A	133	A
+------------------------------------------------------------
+---MPEA-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSDLEP00000026836 ENSDLEG00000019395	126	H2BC11	histone H2B type	Delphinapterus_leucas	133A	133	A
+------------------------------------------------------------
+---MPEA-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSMMSP00000012864 ENSMMSG00000009869	126	H2BC11	H2B clustered histone	Moschus_moschiferus	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSOARP00000019877 ENSOARG00000018513	140	H2BC11	H2B clustered histone	Ovis_aries	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVIWLSQK-RTRHTHNASLNYCSK-----------
+------------------------------------------------------------
+------------------------
+>ENSPCTP00005024490 ENSPCTG00005017584	126	H2BC11	H2B clustered histone	Physeter_catodon	133A	133	A
+------------------------------------------------------------
+---MPEA-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RRRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSSSCP00000039887 ENSSSCG00000037929	149	H2BC11	H2B clustered histone	Sus_scrofa	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKAQKKDGKKRKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSTTRP00000014908 ENSTTRG00000015742	126	H2BC11	histone H2B type	Tursiops_truncatus	133A	133	A
+------------------------------------------------------------
+---MPEA-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSAMEP00000016852 ENSAMEG00000015970	136	None	None	Ailuropoda_melanoleuca	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPVPKKGSKKAVTKAQKKDSKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSS-KNLVKVL-----KDTK----------
+------------------------------------------------------------
+------------------------
+>ENSFCAP00000050314 ENSFCAG00000046482	126	None	histone H2B type	Felis_catus	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSLCNP00005001380 ENSLCNG00005000986	126	H2BC11	histone H2B type	Lynx_canadensis	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSPLOP00000027744 ENSPLOG00000020331	126	None	None	Panthera_leo	133A	133	A
+------------------------------------------------------------
+---MPEP-AKAAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSS-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSSSUP00005012342 ENSSSUG00005007954	127	None	None	Suricata_suricatta	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGXXXXXXXXXXXXXXXXXXXX-XX------------------------
+------------------------------------------------------------
+------------------------
+>ENSVVUP00000027711 ENSVVUG00000020315	126	H2BC11	histone H2B type	Vulpes_vulpes	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSMLUP00000009757 ENSMLUG00000010719	134	None	None	Myotis_lucifugus	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVN-IFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSS-NKIPYPI-----LIS-----------
+------------------------------------------------------------
+------------------------
+>ENSRFEP00010029240 ENSRFEG00010019413	161	None	None	Rhinolophus_ferrumequinum	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTIS-EAREWIV-----LRGQGK--------
+------------------------LVFWSTLKGRLRGEFSRKCFQSF-------------
+------------------------
+>ENSDNOP00000019725 ENSDNOG00000036554	126	None	histone H2B type	Dasypus_novemcinctus	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSPCIP00000010654 ENSPCIG00000032287	133	None	None	Phascolarctos_cinereus	133A	133	A
+------------------------------------------------------------
+---MPEP-SKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVR--LLPGELAKHAVSEGTKAVTKYTSS-NLHMCLA-----LI------------
+------------------------------------------------------------
+------------------------
+>ENSVURP00010006369 ENSVURG00010004911	126	None	None	Vombatus_ursinus	133A	133	A
+------------------------------------------------------------
+---MPEP-SKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSS-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSSARP00000000969 ENSSARG00000001052	126	None	histone H2B type	Sorex_araneus	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSPCAP00000013243 ENSPCAG00000018893	126	None	None	Procavia_capensis	133A	133	A
+------------------------------------------------------------
+---MPDP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSOPRP00000001129 ENSOPRG00000001242	126	None	None	Ochotona_princeps	133A	133	A
+------------------------------------------------------------
+---MPDP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSOCUP00000024508 ENSOCUG00000035858	161	None	None	Oryctolagus_cuniculus	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELSKRSWGSK--AAPRNAGA-SCQSLHFPEV------SLEGRMKTKI
+IIPVISWHNK---------------VTPANFLK---------------------------
+------------------------
+>ENSECAP00000001004 ENSECAG00000029553	126	H2BC11	histone H2B type	Equus_caballus	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSCHOP00000011800 ENSCHOG00000013339	126	None	None	Choloepus_hoffmanni	133A	133	A
+------------------------------------------------------------
+---MPDP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSCJAP00000020323 ENSCJAG00000045777	126	HIST1H2BJ	histone H2B type	Callithrix_jacchus	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSCATP00000005736 ENSCATG00000018309	126	H2BC11	histone H2B type	Cercocebus_atys	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSCSAP00000018597 ENSCSAG00000019087	126	H2BC11	histone H2B type	Chlorocebus_sabaeus	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSGGOP00000028536 ENSGGOG00000036145	126	H2BC11	H2B clustered histone	Gorilla_gorilla	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSP00000476136 ENSG00000124635	126	H2BC11	H2B clustered histone	Homo_sapiens	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSMMUP00000003469 ENSMMUG00000040348	126	HIST1H2BJ	histone cluster 1,	Macaca_mulatta	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSMLEP00000002006 ENSMLEG00000007917	126	H2BC11	histone H2B type	Mandrillus_leucophaeus	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSPTRP00000030429 ENSPTRG00000045140	126	H2BC11	H2B clustered histone	Pan_troglodytes	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSPANP00000007427 ENSPANG00000030205	126	H2BC11	histone H2B type	Papio_anubis	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSPPYP00000018267 ENSPPYG00000016337	126	H2BC11	histone H2B type	Pongo_abelii	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPVPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSTGEP00000002962 ENSTGEG00000002564	126	H2BC11	histone H2B type	Theropithecus_gelada	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSLAFP00000020313 ENSLAFG00000031220	135	H2BC11	H2B clustered histone	Loxodonta_africana	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-KVTTGQK-------------------
+-------------------------FRI--------------------------------
+------------------------
+>ENSCCNP00000022976 ENSCCNG00000022584	135	None	None	Castor_canadensis	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTIN-LKLENFK-----VKM-----------
+------------------------------------------------------------
+------------------------
+>ENSCPOP00000024381 ENSCPOG00000034161	126	H2BC21	H2B clustered histone	Cavia_porcellus	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSS-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSCLAP00000025772 ENSCLAG00000017898	126	H2BC21	histone H2B type	Chinchilla_lanigera	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSS-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSDORP00000022548 ENSDORG00000028397	126	None	histone H2B type	Dipodomys_ordii	133A	133	A
+------------------------------------------------------------
+---MPDP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSMOCP00000002600 ENSMOCG00000002051	121	None	None	Microtus_ochrogaster	133A	133	A
+------------------------------------------------------------
+---MPEP-AKSAPAPRKGSKKAVTKAQKKDGKKR-----------------------KGS
+RK-----EMYKVLKQVHPDTGISSKAMGIMNSFVSDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKQAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSMUSP00000088287 ENSMUSG00000068854	126	H2bc21	H2B clustered histone	Mus_musculus	133A	133	A
+------------------------------------------------------------
+---MPEL-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIANEASRLAHYNKRSTITSR
+EIQTSVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSPEMP00000026817 ENSPEMG00000026085	126	H2bc21	histone H2B type	Peromyscus_maniculatus_bairdii	133A	133	A
+------------------------------------------------------------
+---MPEP-AKTAPAPKKGSKKAVSKAQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSRNOP00000042464 ENSRNOG00000045753	126	Hist2h2be	histone cluster 2 H2B family member	Rattus_norvegicus	133A	133	A
+------------------------------------------------------------
+---MPEL-AKSAPAPKKGSKKAVTKGQKKDGKK-----------------------RKRS
+RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIANEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSTBEP00000010835 ENSTBEG00000012525	126	None	None	Tupaia_belangeri	133A	133	A
+------------------------------------------------------------
+---MPDP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSGAGP00000009007 ENSGAGG00000007113	67	None	None	Gopherus_agassizii	133A	133	A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------MGIMNSFVNIIFECISGEAPRLAHYNKRSTITSQ
+EIQTAMRL-LLPGELAKHAVSEGTKAVTKYTSS-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSTMTP00000001802 ENSTMTG00000001433	156	None	None	Terrapene_carolina_triunguis	133A	133	A
+DTVLPPPPPHP--------RHCPPIKVSACSFCIL-------------------LSELSS
+EIRMPDPPNSAAAAPKTGSKKAVTKTRKKGDKN-----------------------WFKT
+RKKCYSIYMYKVLKQVHADTSISSKAMGIMNSFVNEGI---------------CLTITSQ
+EIQTAVLL-LLPGELAKHHVIGTTVFPLESSGVHHLCNLVDL------------------
+------------------------------------------------------------
+------------------------
+>ENSCCRP00000000032 ENSCCRG00000000057	67	None	None	Cyprinus_carpio	133B	133	B
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------MGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSS-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSEEEP00000000673 ENSEEEG00000000476	67	None	histone H2B	Electrophorus_electricus	133B	133	B
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------MGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSS-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSMMOP00000015375 ENSMMOG00000011737	67	None	None	Mola_mola	133B	133	B
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------MNVMNSLVNDIFERITGEASRLAQYNKRSTITSR
+EVQTAVRL-LLPGELAKHAVSEGTKAVTKYTSS-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSBTAP00000052749 ENSBTAG00000038173	126	HIST1H2BN	histone cluster 1,	Bos_taurus	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSCHIP00000001016 ENSCHIG00000001191	126	None	histone H2B type	Capra_hircus	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSMMSP00000012807 ENSMMSG00000009831	126	H2BC12	H2B clustered histone	Moschus_moschiferus	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSVPAP00000002007 ENSVPAG00000015434	126	None	None	Vicugna_pacos	133B	133	B
+------------------------------------------------------------
+---MREP-AKSVPAPKKGSKKAVIKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVMKQVHPDTGISSKAMGIMKSLVNDIFERIAGEASRPAHYNKRLIISSR
+EIQTAVRL-LLPGEPAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSAMEP00000008450 ENSAMEG00000008042	137	None	None	Ailuropoda_melanoleuca	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSTPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-KATQRSK-------------------
+-------------------------ENWHS------------------------------
+------------------------
+>ENSCAFP00000045708 ENSCAFG00000042780	126	H2BC15	H2B clustered histone	Canis_lupus_familiaris	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSLCNP00005001854 ENSLCNG00005001351	126	None	histone H2B type	Lynx_canadensis	133B	133	B
+------------------------------------------------------------
+---MLHP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVPEGTKAVTKCTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSSSUP00005012571 ENSSSUG00005008079	168	None	None	Suricata_suricatta	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTA---------LAKHAVSEGTKAVTKYTSA-KLFSEPVFHWKSCNGFDRLHDCHEDL
+FYFA---ENIR------------LALYGTDTLEDT---------YIFTG-----------
+------------------------
+>ENSUMAP00000001254 ENSUMAG00000001178	125	None	histone H2B type	Ursus_maritimus	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQK------------------------DGKKRKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSVVUP00000027538 ENSVVUG00000020235	149	None	None	Vulpes_vulpes	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKAQKKDGKKRKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSPVAP00000005969 ENSPVAG00000024213	126	None	None	Pteropus_vampyrus	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSRFEP00010026555 ENSRFEG00010017666	126	H2BC12	H2B clustered histone	Rhinolophus_ferrumequinum	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSDNOP00000028934 ENSDNOG00000047438	115	None	None	Dasypus_novemcinctus	133B	133	B
+------------------------------------------------------------
+---------------KKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSMEUP00000000802 ENSMEUG00000000873	82	None	None	Notamacropus_eugenii	133B	133	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------VLKQVHPDTGISSKAMGIMNSFVNDIFERIASEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSS-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSPCAP00000008497 ENSPCAG00000018905	126	None	None	Procavia_capensis	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSECAP00000004062 ENSECAG00000035791	187	H2BC12	H2B clustered histone	Equus_caballus	133B	133	B
+--MLGSTPPCAIVTLPSSLLSSSSLRMASCRWRGMMRVFLLSRAALPASSRISAVSKLCF
+LSTMPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSCJAP00000064097 ENSCJAG00000062211	126	H2BC12	histone H2B type	Callithrix_jacchus	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSCSAP00000018596 ENSCSAG00000019086	126	None	histone H2B type	Chlorocebus_sabaeus	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSGGOP00000052409 ENSGGOG00000042115	126	HIST1H2BK	H2B clustered histone	Gorilla_gorilla	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSP00000349430 ENSG00000197903	126	H2BC12	H2B clustered histone	Homo_sapiens	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSMMUP00000080006 ENSMMUG00000058189	126	HIST1H2BK	histone cluster 1,	Macaca_mulatta	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSMICP00000045819 ENSMICG00000047441	126	H2BC12	histone H2B type	Microcebus_murinus	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSPTRP00000030395 ENSPTRG00000043707	126	H2BC12	H2B clustered histone	Pan_troglodytes	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSPPYP00000018270 ENSPPYG00000016340	126	H2BC12	histone H2B type	Pongo_abelii	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSTGEP00000024939 ENSTGEG00000020133	127	None	histone H2B type	Theropithecus_gelada	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRLLLLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSLAFP00000023021 ENSLAFG00000005412	135	None	H2B clustered histone	Loxodonta_africana	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-KAFREKN-------------------
+-------------------------LSD--------------------------------
+------------------------
+>ENSCPOP00000025717 ENSCPOG00000032483	126	None	None	Cavia_porcellus	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSMAUP00000019214 ENSMAUG00000017554	126	None	histone H2B type	Mesocricetus_auratus	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSPEMP00000034235 ENSPEMG00000027956	126	None	histone H2B type	Peromyscus_maniculatus_bairdii	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSRNOP00000069660 ENSRNOG00000055512	126	H2bc12	H2B clustered histone	Rattus_norvegicus	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSTBEP00000010851 ENSTBEG00000012541	126	H2BC12	H2B clustered histone	Tupaia_belangeri	133B	133	B
+------------------------------------------------------------
+---MPEP-AKSAPAPKKGSKKAVTKAQKKDGKK-----------------------RKRS
+RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSA-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSGFOP00000011742 ENSGFOG00000008157	65	None	None	Geospiza_fortis	133B	133	B
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------MGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTS----------------------------
+------------------------------------------------------------
+------------------------
+>ENSPMJP00000002705 ENSPMJG00000002353	67	None	histone H2B	Parus_major	133B	133	B
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------MGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSS-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSZALP00000012920 ENSZALG00000010775	67	None	None	Zonotrichia_albicollis	133B	133	B
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------MGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSS-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSSPUP00000020888 ENSSPUG00000016054	67	None	None	Sphenodon_punctatus	133B	133	B
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------MGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSS-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSSCUP00000020813 ENSSCUG00000015285	116	None	None	Struthio_camelus_australis	133B	133	B
+---------------------------------------------MP--------DSLPL
+VAA--EP-GPAEFPPKKGSKAFVPSAPKKGDTK-----------------------DGEG
+CKESYSIYVYKVLKQ----------AMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTP---------LVKHAVSEGTKAVAKYTSS-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSCABP00000019379 ENSCABG00000014309	67	None	None	Chelonoidis_abingdonii	133B	133	B
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------MGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSS-K-------------------------
+------------------------------------------------------------
+------------------------
+>ENSCPBP00000014718 ENSCPBG00000010933	67	None	None	Chrysemys_picta_bellii	133B	133	B
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------MGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+EIQTAVRL-LLPGELAKHAVSEGTKAVTKYTSS-K-------------------------
+------------------------------------------------------------
+------------------------

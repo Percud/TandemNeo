@@ -1,0 +1,768 @@
+>ENSGGOP00000028452 ENSGGOG00000041311	130	None	None	Gorilla_gorilla	237A	237	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGIQGGSV-----------------LFGLLLVLAVFC-HSGHSLQCYNCP
+NPT-ADCKTAVNCSSDFDVCLITKAG-LQ-----VYNKCWKLEHCNFNDLAAHLKENELT
+YSCCKKDLCNFNEQ----P----KNDTFLKALKDE---KL----------QGLKTKQPGK
+--KSASLS------------------------
+>ENSP00000432362 ENSG00000284969	130	AL049629	None	Homo_sapiens	237A	237	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGIQGGSV-----------------LFGLLLVLAVFC-HSGHSLQCYNCP
+NPT-ADCKTAVNCSSDFDACLITKAG-LQ-----VYNKCWKFEHCNFNDVTTRLRENELT
+YYCCKKDLCNFNEQ----L----ENDTFLKALKDE---KL----------QGLKTKQPGK
+--KSASLS------------------------
+>ENSMLEP00000027098 ENSMLEG00000037740	130	None	CD59 molecule (CD59 blood	Mandrillus_leucophaeus	237A	237	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGIQGGSV-----------------LFGLLLVLAVFC-HSGHSLQCYNCP
+NPT-TDCKTAVNCSSGFDTCLIARAG-LQ-----VYNQCWKFANCNFNDVSTLLKENELQ
+YFCCKKDLCNFNEQ----L----ENDTFLKALKDE---KL----------QGLKTRQPGK
+--KSASLS------------------------
+>ENSPANP00000015661 ENSPANG00000003386	130	None	CD59 molecule (CD59 blood	Papio_anubis	237A	237	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGIQGGSV-----------------LFGLLLVLAVFC-HSGHSLQCYNCP
+NPT-TDCKTAINCSSGFDTCLIARAG-LQ-----VYNQCWKFANCNFNDISTLLKESELQ
+YFCCKKDLCNFNEQ----L----ENDTFLKALKDE---KL----------QGLKTRQPGK
+--KSASLS------------------------
+>ENSPMRP00000003851 ENSPMRG00000002662	113	None	None	Podarcis_muralis	237A	237	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------QGTHSSPAFNKISLC-ISGYALRCYTCE
+QS-PFLCRTNLTCSYEEDACLQIRFG-MY-------NICWKMSQCTTEQVANYFNADSFR
+FLCCQRDLCNKSLN--------------TMVSTVP----LAISA-----MTGIWMMFL--
+--------------------------------
+>ENSPCEP00000014572 ENSPCEG00000011541	110	None	None	Pelusios_castaneus	237A	237	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------GGNGKISFS-HLGYALKCYTCD
+NS-PVLCSTNGTCVPGDDSCLQIRLA-TL-----KTYACWKRSRCNMNEIADVFAVDNFD
+FFCCQKDFCNESPA--------------IMVSKTA----FSIASV----MTMMWMLCF--
+--------------------------------
+>ENSBBBP00000003148 ENSBBBG00000012235	121	None	CD59 molecule (CD59 blood	Bison_bison_bison	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MASKGGYI-----------------VLGLLF-LAVLC-QLGHSLQCYSCI
+NQV--NCTSVVNCSHNQDACLFVKAVPLK-----FYHQCWKYEECSFEFIAKALGEKELH
+YDCCQKNLCNKS-------------GGRSVSEKML---L-LLTLL----LEAVCHFYR--
+--------------------------------
+>ENSBTAP00000002967 ENSBTAG00000002302	121	CD59	CD59	Bos_taurus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MASKGGYI-----------------VLGLLF-LAVLC-QLGHSLQCYSCI
+NQV--NCTSIVNCSHNQDACLFVKAVPLK-----FYHQCWKYEECSFEFIAKALGEKELH
+YDCCQKNLCNKS-------------GGRSVSEKIL---L-LLTLL----LEAVCHFYR--
+--------------------------------
+>ENSCHIP00000001596 ENSCHIG00000003258	122	None	CD59 molecule (CD59 blood	Capra_hircus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MASKGGYI-----------------LLGLLFSLAVLC-QLGHSLQCYSCI
+NQV--DCTSVVNCTHNQDACLYVKAVPLK-----VYRQCWSLEHCNFEFIANALGEKELH
+YDCCQKNLCNKS-------------DGTSVSEKTP---L-LLTLL----LVAVCRFYL--
+--------------------------------
+>ENSCWAP00000029219 ENSCWAG00000021889	123	None	None	Catagonus_wagneri	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGGKGGFV-----------------VLWLLFILAVLC-HLGHSLECYTCL
+NPA-GSCTTAMNCSQDYDSCIFVEAVPPK-----TYYQCWRFADCNFEFISKSLEEKELK
+YHCCREDLCNRS-------------DATTLSGKT----ALLAILL----LVATWHFCL--
+--------------------------------
+>ENSDLEP00000018996 ENSDLEG00000013827	123	CD59	CD59 molecule (CD59 blood	Delphinapterus_leucas	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGSKGGFV-----------------LLGLLFSLAVVC-HVGHSLECYSCI
+NPA-NGCTTTVNCSRNQDTCLIVKAVPTK-----TYYQCWMFDRCNFEAIAKALEEKELK
+YHCCQENLCNKS-------------DGTSISGKT----ALPVILL----LVAVWSFCL--
+--------------------------------
+>ENSMMSP00000018367 ENSMMSG00000013910	129	None	None	Moschus_moschiferus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------MT
+LWL-----VTMASKGGYI-----------------LLGLLFFLAVLC-QLGHSLQCYSCI
+KQV--NCTSVINCSHNQDACLFVKAVPLQ-----VYRQCWKFEDCNFEFIARTLGEKELQ
+YHCCQKNLCNKS-------------DGTSISEKTP---S-LLTLL----LAAVSRFFL--
+--------------------------------
+>ENSOARP00000019219 ENSOARG00000017909	122	None	CD59 molecule (CD59 blood	Ovis_aries	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MASKGGYI-----------------LLGLLFFLAVLC-QLGHSLQCYSCI
+NQV--DCTSVINCTHNQDACLYVKAVPLK-----VYRQCWSLEHCNFEFIANALGEKELR
+YDCCQKNLCNKS-------------DGTSVSEKTP---L-LLTLL----LVAVCRFYL--
+--------------------------------
+>ENSPCTP00005012554 ENSPCTG00005008976	123	CD59	None	Physeter_catodon	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGSKGGFV-----------------LLGLLFSLAVVC-HVGHSLECYNCI
+NPA-NGCTTAVNCSRNQDTCLIVKAVPTK-----TYYQCWMFDRCSFEAIAKALGEKELQ
+YRCCQENLCNKN-------------DGTSISGKT----ALLVILL----LVAVWSFCL--
+--------------------------------
+>ENSSSCP00000025898 ENSSSCG00000024791	123	None	CD59 molecule (CD59 blood	Sus_scrofa	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGSKGGFI-----------------LLWLLSILAVLC-HLGHSLQCYNCI
+NPA-GSCTTAMNCSHNQDACIFVEAVPPK-----TYYQCWRFDECNFDFISRNLAEKKLK
+YNCCRKDLCNKS-------------DATISSGKT----ALLVILL----LVATWHFCL--
+--------------------------------
+>ENSTTRP00000015515 ENSTTRG00000016371	122	None	None	Tursiops_truncatus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGSKGGFA-----------------LLGLLFSLAVVC-HVGHSL-CYSCI
+NPA-NGCTTTVNCSRNQDACLIVKAVPMK-----TYYQCWMFDRCNFAAIAKALEEKELK
+YDCCQKNLCNKS-------------DGTSISGKT----ALLVILL----LVAVWSFCL--
+--------------------------------
+>ENSVPAP00000007260 ENSVPAG00000007805	120	None	None	Vicugna_pacos	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGSKGGFV-----------------LLWLLLILAVLC-HLGHSLQCYNCV
+DPP-HECTTTVNCTHNQDACIVVKAVP-------VYYQCWKIADCKFEVIAKSLEEKELK
+YNCCQKDLCNQS-------------RDEH--GKAV---LLVSLLL----LVAVWHFCL--
+--------------------------------
+>ENSAMEP00000007711 ENSAMEG00000007332	120	None	None	Ailuropoda_melanoleuca	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGSKGGSI-----------------L--LLLVLAVLC-HSGGSLTCYTCV
+D--NKACNKTTVCSVNFDTCLFSLTEPEV-----FQHQCWKFDDCNYNYISKTLGLRKLE
+YHCCQQDLCNRD-------------AAASISGKTA----LLLVPL----LAAVWTLCL--
+--------------------------------
+>ENSCAFP00000040513 ENSCAFG00000028508	123	CD59	CD59	Canis_lupus_familiaris	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGSKGGFI-----------------LPVLLLILAALC-HSGHSLTCYSCP
+E-SEYTCNNTISCGINLDACLFIKADPLR-----YYYQCWRQKDCNYQYISNSFQIKKLE
+YYCCQKDLCNGS-------------AGMSASRKTA----LLVTPL----LAVAWTLYL--
+--------------------------------
+>ENSFCAP00000056596 ENSFCAG00000053575	131	None	CD59 molecule (CD59 blood	Felis_catus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------MQS
+LWM-----ITM-GSQGFI-----------------LLVLLLILAVLC-HSGHSLTCYSCV
+PPVSGNCTKTSVCSSNFDSCLYIEAEPKS-----YYYQCWKLADCSFERISASLGLQKLQ
+YRCCQQDLCNRS-------------FGTTVSGKMA----LLVTPL----LAAAWNLCL--
+--------------------------------
+>ENSLCNP00005032693 ENSLCNG00005021281	126	None	CD59 molecule (CD59 blood	Lynx_canadensis	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--M-----IMM-GSQGFI-----------------LLVLLLILAVLC-HSGHSLTCYSCV
+SPVSGNCTKTSVCSSNFDSCLYIEAEPKS-----YYYQCWKLADCSFERISASLGLQKLQ
+YRCCQQDLCNRS-------------FGTTVSGKMA----LLVTPL----LAAAWNLCL--
+--------------------------------
+>ENSMPUP00000011434 ENSMPUG00000011525	117	None	None	Mustela_putorius_furo	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MESKGGFI-----------------F---LLILAVLC-RSGHSLTCYACI
+D--SETCNKTTVCSVNHDACLLVKADPKL-----FYRQCWKFDDCSYLSISKALGLKKLE
+YSCCQKDLCNGS---------------ARVSGMTA----LMLFPL----LAAALTLCL--
+--------------------------------
+>ENSNVIP00000015171 ENSNVIG00000011905	117	None	None	Neovison_vison	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGSKGGFI-----------------L---LLILAVLC-RSGHSLTCYACI
+D--RETCNKTTVCSVNHDACLLVKADPKL-----FYRQCWKFDDCSYLSISKALGLKKLE
+YSCCQKDLCNGS---------------ARVSGMTA----LMLLPL----LAAALTLCL--
+--------------------------------
+>ENSPLOP00000008391 ENSPLOG00000006208	126	None	None	Panthera_leo	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--M-----ITM-GSQGFI-----------------LLVLLLILAVLC-HSGHSLTCYSCV
+APVSGNCTKTSVCSSNLDSCLYIEAEPKS-----YYYQCWKLADCSFEHISASFGLQKLQ
+YRCCQQDLCNRS-------------FGTTVSGKMA----LLVTPL----LAAAWNLCL--
+--------------------------------
+>ENSSSUP00005029227 ENSSSUG00005018878	127	None	None	Suricata_suricatta	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--M-----LTMQNHGGFV-----------------LPVLLLLLVVLC-HSGHSLMCYNCM
+SLVNKNCTKTSTCPSNFDACVFVEAEPKA-----YYYQCWKYSDCSFERIALSLGLQKLQ
+YRCCQHDLCNGN-------------PGASGSGKMA----LLVTPL----LAAAWTLRL--
+--------------------------------
+>ENSUMAP00000025871 ENSUMAG00000018860	229	None	CD59 molecule (CD59 blood	Ursus_maritimus	237B	237	B
+----------------MEFILH----------------SYRHKLLKRS-------RLKIR
+GQLLNLARLPQTKPSLEALE-----VF----QR--GRRIFTQAPDLCESLPGTIGCACII
+SKGRAMKRISQKRL----SLESS-------PAL------GLLEQR---------AEKALI
+LWT-----ITMGSKGGFT-----------------L--LLLVLAVLC-RSGGSLTCYTCV
+D--NKACNKTTVCSVNFDTCLWVKAEPEI-----FQHQCWKFDDCNYNYISKALGLRKLE
+YHCCQQDLCNRN-------------AAASVSGKTA----LLLAPL----LAAAWTLGL--
+--------------------------------
+>ENSVVUP00000020152 ENSVVUG00000014886	123	CD59	CD59 molecule (CD59 blood	Vulpes_vulpes	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGSKGGFI-----------------LPVLLLILAALC-HSGHSLTCYSCP
+E-SEYTCNRTISCGINLDACLFIKADPLR-----YYYQCWRQEDCNYRYISNSFQIKKLE
+YYCCQKDLCNGS-------------AGTSASRKMA----LLVTPL----LAVAWTLYL--
+--------------------------------
+>ENSMLUP00000011943 ENSMLUG00000013131	116	None	None	Myotis_lucifugus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGSKGGFT-----------------LLGLLIILSVLY-DPGHSLRCYYCP
+NSV-GACNRTTDCTANFDACLYVKTE-TR-----TYYQCWKFENCNYEYLSKNLGENTLQ
+YECCQKDLCNKS-------------GGTSITGTMA----LLVAPL----LTA--------
+--------------------------------
+>ENSPVAP00000008057 ENSPVAG00000008532	122	None	None	Pteropus_vampyrus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGSKGGFV-----------------LLGLLLILFALY-HSGHGLECYSCL
+NPI-NSCTKAINCSQNLDACLYVKAE-ER-----TYYQCWKFDNCNFRYISKALGENKLE
+YDCCQKNLCNRN-------------DAVRASGKTF----LLLTQL----LAAFWKFFL--
+--------------------------------
+>ENSRFEP00010007627 ENSRFEG00010005183	122	None	None	Rhinolophus_ferrumequinum	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGSKGSFV-----------------LLGLLLILCVLC-HSGHSLECYSCL
+NPS-GRCTTTTNCTQNLDACLYAKAD-TR-----IYYQCWQFANCNYNDIVKQLGGKELK
+YDCCQKNLCNRS-------------GGTSISGETF----LLMTQV----LAVFWNIFL--
+--------------------------------
+>ENSMODP00000051753 ENSMODG00000041026	172	None	CD59 molecule (CD59 blood	Monodelphis_domestica	237B	237	B
+------------------------------------------------------------
+------------------------------------MEDYKWPNW------------C--
+----------SMRIGKGVSS---LGGDRP-----------------NDLPESAS--KAPG
+LRRRL------------Q-VL--EQIDMMGYRRTCILLGFLVLVMFC-SPGDALRCYDCN
+VP-TQHCTKNITCRTEDDACLRVMTG-TD-----YRYLCWKYANCNMEKIGEILGIAKAT
+YHCCQEDLCNDAGM-------------GATISKTT----MISGLL----AVMLW--GFYV
+--------------------------------
+>ENSPCIP00000043791 ENSPCIG00000031932	129	None	None	Phascolarctos_cinereus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------LLLLISSPRCLLSLS-VLCSALKCFQCD
+SP-VQPCTKNVTCRAEDDACLQVISG-GA-----YYHSCWKYANCNMEKIGAAFPVASAR
+YACCQRDLCNAAGM-------------GTAVSKAT----MIAGLI----ASNGS--SLFK
+GNQEAALFQCHR--------------------
+>ENSVURP00010016618 ENSVURG00010012719	122	None	None	Vombatus_ursinus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MGSIRMHILVLGLLILAMFC-SPGGALKCFQCN
+SP-VQPCTENVTCKAEKDACLQVISG-GA-----YYHSCWKYADCNIEKIEAAFPIASAR
+YSCCQRDLCNAAGM-------------GTAVSKAT----MMAGLL----VVVAG--SFSV
+--------------------------------
+>ENSEEUP00000013643 ENSEEUG00000014949	127	None	None	Erinaceus_europaeus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGSKGGFI-----------------LLGLLLFLAVLC-HSGHGLTCFSCM
+NPF-T--DYKPDCAVNYNTCLYVDAG-IN-----KYFQCWKKDDCKFDTLAKHFGEKELQ
+YRCCQQDMCNKDPE----------GGNSKAAGKTALLEALLAAPL----LATAWNLCL--
+--------------------------------
+>ENSOPRP00000008844 ENSOPRG00000009688	102	None	None	Ochotona_princeps	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------CTLKCYHCE
+FPL-PNCTTVINCAPNLDSCLTSTSG-PR-----VYRRCWRLQDCNFEFISERLQENSLK
+YECCQKNLCNGDNK----------NDGTTLSGLTM----LLVAPV----LTATGHLYV--
+--------------------------------
+>ENSOCUP00000036438 ENSOCUG00000014601	291	None	None	Oryctolagus_cuniculus	237B	237	B
+MVGGSSMFVKEIPGKVYDWSLQKQSLGHLTSLDKITVGSCLARFALRGG---VYISLSLV
+AAVFPLQHEPKRKGKIKIFGSSLFFIFDNPSKD--GARNFASPGS----PGGGLGPGAPP
+SSGKSEGSCSRERSGAAPSRTAPPGGGAVGPRPETLEAARRVDAD---------SWRRQR
+LWT-----FMMTSRGVHL-----------------LLRLLFLLAVFY-SSDSSLMCYHCL
+LPS-PNCSMVTNCTPNHDACLTAVSG-PR-----VYRQCWRYEDCNFEFISNRLEENSLK
+YNCCRKDLCNGPE-----------DDGTALTGRTV----LLVAPL----LAAARNLCL--
+--------------------------------
+>ENSECAP00000038501 ENSECAG00000027924	127	None	CD59 molecule (CD59 blood	Equus_caballus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGSKGRFV-----------------LLGLLLILAVLC-RSGHSLECYSCI
+NPV-ISCDINMTCSYNFDACILVKAEVGR-----HYYQCWRMEDCEWDYISSALGETKLT
+YECCQKDLCNTEKE---------ESDTSHLSGRTT----LLATPL----LAAAWSLCL--
+--------------------------------
+>ENSCHOP00000001335 ENSCHOG00000001510	121	None	None	Choloepus_hoffmanni	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGSKGRFV-----------------LLGLLIIMDDLH-HSGYSLQCYNCI
+TPP-SKCTMVSNCTHNMDACLLVEAGS-R-----RYYQCWRFSDCNFESISRILGEKELK
+YNCCQKNLCNGQ-------------GALTLPVKTF---L--LVAL----LLAAWNVYL--
+--------------------------------
+>ENSCJAP00000059570 ENSCJAG00000043097	128	None	CD59 molecule (CD59 blood	Callithrix_jacchus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGIQGGSV-----------------LFGLLLILAVFC-HSGHSLQCYSCP
+YST-ARCTTTTNCTSNLDSCLIAKAG-LR-----VYYRCWKFEDCTFRQLSNQLSENELK
+YHCCRENLCNFNGI----L----ENGGTTLSKKTV---LLLVTPF----LAAAWSLHP--
+--------------------------------
+>ENSCSAP00000001662 ENSCSAG00000005360	126	None	CD59 molecule (CD59 blood	Chlorocebus_sabaeus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGIQGGSV-----------------LFGLLLVLAVFC-HSGHSLQCYNCP
+NPT-TDCKTAINCSSGFDTCLIARAG-LQ-----VYNQCWKFANCNFNDISTLLKESELQ
+YFCCKKDLCN--EQ----L----ENGGTSLSEKTV---LLLVTPL----LAAAWCLHP--
+--------------------------------
+>ENSP00000498879 ENSG00000085063	128	CD59	CD59 molecule (CD59 blood	Homo_sapiens	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGIQGGSV-----------------LFGLLLVLAVFC-HSGHSLQCYNCP
+NPT-ADCKTAVNCSSDFDACLITKAG-LQ-----VYNKCWKFEHCNFNDVTTRLRENELT
+YYCCKKDLCNFNEQ----L----ENGGTSLSEKTV---LLLVTPF----LAAAWSLHP--
+--------------------------------
+>ENSMMUP00000077321 ENSMMUG00000055602	194	CD59	CD59 molecule (CD59 blood	Macaca_mulatta	237B	237	B
+------------------------------------------------------------
+-------MCPKRASKCP------------------HYNSYSEEPE----LPGSVDNH---
+--------------------NGN-------PRR------VCPVRA---------AACPGC
+LLP-----FRPPVTGPPLPVSY--PSPGCWRKLCASESTSITVETHM-LHCHSLQCYNCP
+NPT-TDCKTAINCSSGFDTCLIARAG-LQ-----VYNQCWKFANCNYNDISTLLKESELR
+YFCCKKDLCNFNEQ----L----ENGGTSLSEKTV---VLLVTPL----LAAAWCLHP--
+--------------------------------
+>ENSMICP00000034174 ENSMICG00000037109	127	None	CD59 molecule (CD59 blood	Microcebus_murinus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MRSQGGFV-----------------LFGLLLMLAVLC-HSGYSLKCYSCI
+NPM-PECTTISNCTPNFDACLRTKAG-PR-----IYHQCWKFADCNFDRISQLLGETDLQ
+YYCCKSDLCNHEKD----Q-----SHGTTLSGKTV---FLLVTPF----LAAAWNFYL--
+--------------------------------
+>ENSPPYP00000003871 ENSPPYG00000003370	128	None	CD59 glycoprotein	Pongo_abelii	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGIQGGSV-----------------LFGLLLILAVFC-HSGHSLQCYSCP
+NPT-ADCKTAVNCSSGFDACLITKAG-LR-----VYNQCWKFEHCTFNEVTTRLKESELT
+YHCCKKDLCNINEQ----L----ENGGTSLSEKTV---LLLVTPF----LAAAWSLHP--
+--------------------------------
+>ENSTGEP00000005113 ENSTGEG00000004261	128	None	CD59 molecule (CD59 blood	Theropithecus_gelada	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGIQGGSV-----------------LFGLLLVLAVFC-HSGHSLQCYNCP
+NPT-TDCKTAVNCSSGFDTCLIARAG-LQ-----VYNQCWKFANCNFNDISTLLKESELQ
+YFCCKKDLCNFNEQ----L----ENGGTSLSEKTV---VLLVTPL----LAAAWCLHP--
+--------------------------------
+>ENSCLAP00000021453 ENSCLAG00000014692	127	None	CD59 molecule (CD59 blood	Chinchilla_lanigera	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MRIQGSIT-----------------LLSLLIILAALC-NTGFSLTCFSCF
+NST-DICLNTSTCTPNLDVCFVGVAA-KR-----FYRGCWRAVSCNQDFFTERLDVPEMT
+FRCCSEDKCNKIIE----D----DSGTAALSGMTV----LLVAPF----LAAVWYLCS--
+--------------------------------
+>ENSSTOP00000010224 ENSSTOG00000011395	131	None	CD59 molecule (CD59 blood	Ictidomys_tridecemlineatus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MRSRGGLT-----------------LLGVLFIPVVLC-HSESALQCYSCV
+DPV-SFCNETTRCHLDLDACAIVQAG-PR-----IYHQCWKYKDCTFEEFSKRLGEPELT
+YRCCRKKLCNRDLEKPEKD----KGGTVTLSGKTI----LVVPLV----LVTSWNCFL--
+--------------------------------
+>ENSMUGP00000019920 ENSMUGG00000016837	133	None	CD59 molecule (CD59 blood	Meriones_unguiculatus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MGAQRQLI-------------------PLLLLLAVLC-STGVSLRCYSCI
+DPV-SSCKMNTTCSINMDSCLIAVTG-RQ-----HYHQCWRLRDCNTKFLLDRFQLSNVR
+YRCCQVDLCNKKLEEEQEEEDKQKAEATSLSGKTA----LLGTLV----LEAMILSQL--
+--------------------------------
+>ENSMOCP00000003857 ENSMOCG00000003094	126	None	CD59 molecule (CD59 blood	Microtus_ochrogaster	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MRVQRQLI--------------------ALLLLAVFC-STGVSLTCYNCL
+DPV-SPCRTNITCSPNQDSCLIAVSG-RQ-----IYQQCWKYSDCNSMFILSRLDLLNVQ
+YRCCQLDMCNKKLKED--A----RGEATSLSGKTA----LLGTSV----LAAIWRLCF--
+--------------------------------
+>ENSMUSP00000087912 ENSMUSG00000068686	129	Cd59b	CD59b	Mus_musculus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MRAQRGLI-------------------LLLLLLAVFC-STAVSLKCYNCL
+DPV-SSCKINTTCSPNLDSCLYAVAG-RQ-----VYQQCWKLSDCNSNYIMSRLDVAGIQ
+SKCCQWDLCNKNLDGLEEP----NNAETSSLRKTA----LLGTSV----LVAILKFCF--
+--------------------------------
+>ENSPEMP00000031910 ENSPEMG00000026456	127	None	None	Peromyscus_maniculatus_bairdii	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MRVQRRLL-------------------FLLLLLAVLC-STGVSLRCYNCL
+DPV-SSCKMNTTCSPNQDSCLIAVSG-RQ-----VYQQCWKFSDCNSVTLLNRLELATVQ
+YRCCQVDMCNKKLKGP--E----RNNGSSLSGKTA----LLGTSV----LAVIWKLCF--
+--------------------------------
+>ENSRNOP00000060967 ENSRNOG00000042821	126	Cd59	CD59	Rattus_norvegicus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------MRARRGF--------------------ILLLLLAVLC-STGVSLRCYNCL
+DPV-SSCKTNSTCSPNLDACLVAVSG-KQ-----VYQQCWRFSDCNAKFILSRLEIANVQ
+YRCCQADLCNKSFEDK--P----NNGAISLLGKTA----LLVTSV----LAAILKPCF--
+--------------------------------
+>ENSANIP00000021274 ENSANIG00000014461	122	None	None	Accipiter_nisus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------RRARI---------KFCW--
+---------------K-----------------CLLLS--VLLEKAV-FKSYTLRCYHCE
+NS-PSLCKTNSTCLPTEDTCLQMKFG-KL-----RTFSCWKASQCSVNDIAESFQLDNFE
+FFCCQHDLCNESTI--------------TRVNKAA----FSIASV----MTMLWMLL---
+--------------------------------
+>ENSACCP00020020709 ENSACCG00020014266	119	None	None	Aquila_chrysaetos_chrysaetos	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MIKM-NCVILTACIVLVAFC-SCGYTLRCYHCE
+NS-PSLCKTNSTCLATEDTCLQMKFG-KL-----RTFSCWKASQCSVNDIAEFFQLDNFE
+FFCCQHDLCNESTI--------------TRVNKAA----FSIASV----MTMLWMLL---
+--------------------------------
+>ENSAPLP00020007722 ENSAPLG00020005689	104	None	None	Anas_platyrhynchos	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------EGA------E-SLLALLLWLLST
+NS-PSLCKTNNTCLSTEDACLQMRFG-KL-----RTSSCWKMSQCNVNDIAVFYQLDNFE
+YFCCQQDLCNESTV--------------TAVNKAA----FSIVS--V--MTMLWMLL---
+--------------------------------
+>ENSACDP00005020863 ENSACDG00005015119	123	None	None	Anser_cygnoides	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------M--GRSMVKM-NCILLTVCIVLVAFC-SSGYALRCYYCE
+NS-PSLCKTNSTCLSAEDACLQMRFG-KL-----RTFSCWKMSQCNVNDIAVFHQLDNFE
+YFCCQQDLCNESTV--------------TAVNKAA----FSIVS--V--MTMLWMLL---
+--------------------------------
+>ENSAOWP00000000465 ENSAOWG00000000377	156	None	None	Apteryx_owenii	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------M--GRSMIKM-NYVLLTVVVVLVAFC-SSGYTLRCYHCE
+NS-PTLCKTNSTCLSTEDTCLQMKFG-KL-----RTFSCWKTSQCNVNDIAVFFQLDNFD
+YFCCQRDLCNKSPI--------------TGVNKAA----FGAVV------RCQWRFSLLS
+GFACADLPSVTPVHTVMTRAGGIGLCYFKSIL
+>ENSDNVP00000011897 ENSDNVG00000008397	127	None	CD59 molecule (CD59 blood	Dromaius_novaehollandiae	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MF-SNQ--GRSMVKM-NCILLTVCIVLVAFC-SSGFTLRCYHCE
+NS-PTLCKTNSTCLSTEDTCLQMKFG-KL-----RTFSCWKTSQCNVNDIAVFFQLDNFD
+YFCCQRDLCNKSPI--------------TGVNKAA----FSIASV----ITVIWMLL---
+--------------------------------
+>ENSCPUP00000002041 ENSCPUG00000001561	104	None	None	Calidris_pugnax	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------MILK-VLCYALRCYHCD
+NS-PTLCKSNSTCLPNEDTCLQLKFG-KL-----RTSACWKASQCSVNDIAEYFQLDNFE
+FFCCQHDLCNGGAI--------------TGVNKAA----LTLASA----VTMLWMLL---
+--------------------------------
+>ENSCPRP00005013980 ENSCPRG00005009843	251	None	CD59 molecule (CD59 blood	Crocodylus_porosus	237B	237	B
+--------------------------------------MCRSPLPKRPEGKRSLLLRQLR
+GFA-LRRHRPKKALPLPPFLNHQG--YSTALTRPTPTRHFALHPQ------------HHP
+T----AAPQRYLQPGSPRPRPAGLGGPWPRPAE---AGPMGALRR---------GWEAVA
+LPARLQSEA----DGGAG-ADL--GRNMNKM-NCILISAFITLVVFC-HSGYSLRCYTCE
+QS-PVLCKTNVTCIPGEDACLQIRFT-KV-----KTYACWKNSRCNTNDIASLFHADNFE
+YFCCQTDMCNKSPT--------------TVISKTA----FSVATV----MTMIWILCF--
+--------------------------------
+>ENSCJPP00005019163 ENSCJPG00005015580	122	None	None	Coturnix_japonica	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------VR-AAR--G--------CS--VPLSRLIAAL-RQGYALRCYHCE
+NS-PSLCKTNSTCLSNEDTCLQMRFG-KL-----RTSSCWKLSQCNMNDIAVYYQLDNFE
+YFCCQQDLCNEGTV--------------TGVNKAA----FSIASVMA--IPCFSCPAVL-
+--------------------------------
+>ENSGALP00000051683 ENSGALG00000040371	124	None	None	Gallus_gallus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------MK--GRSMIKM-NCVLLTACIVLLAFS-SSGYALKCYHCE
+NS-PSLCKTNSTCLSNEDTCLQMRFG-KL-----RTSSCWKLSQCNVNDIAVFYQLDNFD
+YFCCQQDLCNEGAV--------------TGVNKAA----FSIAP--V--MAMLWMLL---
+--------------------------------
+>ENSMGAP00000010558 ENSMGAG00000010188	119	None	CD59 molecule (CD59 blood	Meleagris_gallopavo	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MIKM-NCVLLTACIVLLAFS-SSGYALRCYHCE
+NS-PSLCKTNSTCLSNEDTCLQMRFG-KL-----RTFSCWKLSQCNVNDIAVFYQLDNFD
+YFCCQQDLCNEGAV--------------TGVNKAA----FSIAS--V--MAMLWMLL---
+--------------------------------
+>ENSNMEP00000006836 ENSNMEG00000006973	119	None	None	Numida_meleagris	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------AAAV-SSFSFLECYHCE
+NS-PSLCKTNSTCLSNEDTCLQMRFG--------RTSSCWKLSQCNVNDIAVFYQLDNFD
+YFCCQQDLCNESTV--------------TGVNKAH----KEKLASLKLRRPLLYLLEFVR
+GLSM--LPVVPQ--------------------
+>ENSPSTP00000001571 ENSPSTG00000001218	139	None	None	Pavo_cristatus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+MYFKHNKYF----NSVLP-PKQ--GISMIKM-NCVLLTACIVLLAFS-SSGYALRCYHCE
+NS-PSLCKTNSTCLSNEDTCLQMRFG-KL-----RTSSCWKLSQCNVNDIAVFYQLDNFD
+YFCCQQDLCNEGTF--------------CFLRFHL----VNCCLHLC--EGDLYC-----
+--------------------------------
+>ENSPCLP00000007996 ENSPCLG00000006696	110	None	None	Phasianus_colchicus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------GGIQFCKTLV-FLGYALRCYHCE
+NS-PSLCKTNSTCLSNEDTCLQMRFG-KL-----RTSSCWKLSQCNVNDIAVFYQLDNFD
+YFCCQQDLCNEGAV--------------TGINKAA----FSIAS--V--MAMLWMLL---
+--------------------------------
+>ENSCPVP00000005325 ENSCPVG00000003931	119	None	CD59 molecule (CD59 blood	Camarhynchus_parvulus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MTKM-NCILLTTCIVLIAFC-GSGSTLRCYHCD
+NS-PTLCRTNSTCLTTEDTCLQLRFG-KL-----RTFSCWKTSQCNVNEIADSFLLDNFE
+FFCCQHDLCNESAI--------------TGVNKAA----FSIASV----MAMLWMLL---
+--------------------------------
+>ENSCCEP00000007119 ENSCCEG00000007521	108	None	None	Cyanistes_caeruleus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------FFFFFSF---L-MMLLLSQCYHCD
+NS-PTVCRTNSTCLTTEDTCLQLKFG-KL-----RTFSCWKASQCSVNEIADSFLLDNFE
+FFCCQHDLCNESAI--------------TGVNKAA----FSIASV----MAMLWMLL---
+--------------------------------
+>ENSFALP00000001381 ENSFALG00000001329	117	None	None	Ficedula_albicollis	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------LTKM-NCILLTTCIILIAFC-GSGYTLRCYHCD
+NS-PTLCRTNSTCLTTEDTCLQLKFG-KL-----RTFSCWKASQCSVNEIADSFLLDNFE
+FFCCQQDLCNESAI--------------TGVNKAA----FSIATV----MTMLWM-----
+--------------------------------
+>ENSGFOP00000013210 ENSGFOG00000009059	119	None	CD59 molecule (CD59 blood	Geospiza_fortis	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MTKM-NCILLTTCIVLIAFC-GSGSTLRCYHCD
+NS-PTLCRTNSTCLTTEDTCLQLRFG-KL-----RTFSCWKTSQCNVNEIADSFLLDNFE
+FFCCQHDLCNESAI--------------TGVNKAA----FSIASV----MAMLWMLL---
+--------------------------------
+>ENSJHYP00000004637 ENSJHYG00000003836	119	None	None	Junco_hyemalis	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MTKM-NCILLTTFIVLIAFC-GSGSALRCYHCD
+NS-PTLCRTNSTCLATEDTCLQLKFG-KL-----RTFSCWKTSQCNVNEIADSFLLDNFE
+FFCCQHDLCNESAI--------------TGVNKAA----FSIASV----MAMLWMLL---
+--------------------------------
+>ENSLSDP00000002847 ENSLSDG00000002218	131	None	None	Lonchura_striata_domestica	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------FFFFFSF---L-MLLLLSQCYHCD
+NS-PTLCRTNSTCLTTEDTCLQLKFG-KL-----RTFSCWKASQCSVNEIADSFLLDNFE
+FFCCQHDLCNESAI--------------TGVNKAA----FSIASL----MAIILHGVLCA
+TCKPAVLEFIP-----------CSDCYFQRC-
+>ENSMVIP00005003159 ENSMVIG00005002470	154	None	None	Manacus_vitellinus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+--------MGF------------VVLPFSGPHGDRVHGPVLWSLQ---------EWGL--
+---------------CCY-LPH--SLVPTRMGMGLLV----LFLFSL-VPCSTLRCYHCE
+NS-PSLCRSNSTCLTNEDSCLQMKFG-KL-----RTFSCWKFSQCHMNEIAEFFQLDNFE
+FFCCQHDLCNEGAI--------------TGVNKAA----FSVASV----MAMLWMLL---
+--------------------------------
+>ENSPMJP00000009393 ENSPMJG00000007514	117	None	None	Parus_major	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MQISDYSFFFFFFFSF---L-MMLLLSQCYHCD
+NS-PTVCRTNSTCLTTEDTCLQLKFG-KL-----RTFSCWKASQCSMNEIADSFLLDNFE
+FFCCQHDLCNESAI--------------TGVNKAA----FSIASV----MAMLWMLL---
+--------------------------------
+>ENSSCAP00000011213 ENSSCAG00000008444	120	None	None	Serinus_canaria	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MQISDSSFFFSFLFLFNAAA-VSVLITQCYHCD
+NS-PTLCRTNSTCLTTEDTCLQLKFG-KL-----RTFSCWKTSQCSVNEIADSFLLDNFE
+FFCCHHDLCNESAI--------------TGVNKAA----FSIASV----MAMLWMLL---
+--------------------------------
+>ENSZALP00000009560 ENSZALG00000008207	119	None	CD59 molecule (CD59 blood	Zonotrichia_albicollis	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MTKM-NCILLTTCIVLIAFC-GSGSALRCYHCD
+NS-PTLCRTNSTCLATEDTCLQLKFG-KL-----RTFSCWKTSQCNVNEIADSFLLDNFE
+FFCCQHDLCNESAI--------------TGVNKAA----FSIASV----MAMLWMLL---
+--------------------------------
+>ENSACOP00000016723 ENSACOG00000011621	119	None	None	Amazona_collaria	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MTKM-NCILVTACIVLVAFC-SSGYALRCYHCE
+NS-PSLCKTNSTCLATEDTCLQMKFG-KL-----RTSSCWKASQCSMNDIAEFFQLDNFD
+FFCCQHDLCNESAI--------------PGLNKAA----FSIASV----LTMFWMLL---
+--------------------------------
+>ENSMUNP00000019447 ENSMUNG00000014872	119	None	CD59 molecule (CD59 blood	Melopsittacus_undulatus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MNKM-NCILVTACIVLIAFC-SSGYALRCYHCE
+NS-PSLCKTNSTCLATEDTCLQMKFG-KL-----RTSSCWKASQCSMNDIAEFFQLDNFD
+FFCCQHDLCNEGAI--------------PGLNKAA----FSIASV----LTMLWMLL---
+--------------------------------
+>ENSSHBP00005002139 ENSSHBG00005001975	119	None	CD59 molecule (CD59 blood	Strigops_habroptila	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MTKM-NCILVTACIVLVAFC-SSGYALRCYHCE
+NS-PSLCKTNSTCLATEDTCLQMKFG-KL-----RTSSCWKASQCSMNDIAEFFQLDNFD
+FFCCQHDLCNEGAI--------------LGLNKAA----FSIASV----LTMFWMLL---
+--------------------------------
+>ENSSPUP00000014011 ENSSPUG00000010812	122	None	None	Sphenodon_punctatus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------MIGDKM-KYILLTVVLVLVAFC-GSGDGIRCYKCS
+AT-PGLCKEETECSSPFDACLKYSFG-GQ-----SISDCWKYSQCSRDFISNHFKHDNFK
+FGCCQRNLCNKGPS--------------TVVSKAV----LSIVTM----LTVVWMLCL--
+--------------------------------
+>ENSLLTP00000002434 ENSLLTG00000001874	122	None	None	Laticauda_laticaudata	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MNSFLVIAIITTF-ILALFL-HSGNALVCYNCA
+---VSNCDKNITCKGEENTCLIVYRG-SQ-----NTSRCWKYSDCNVNFISFNFSTKDFR
+YRCCQWNLCNNAPN--------------VVTSKIV----LNGAFL----LTVVHMLKFLV
+WN------------------------------
+>ENSNSUP00000013793 ENSNSUG00000010255	122	None	CD59 molecule (CD59 blood	Notechis_scutatus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MNSFLVITIITTF-ILALFL-HSGSALVCYNCP
+---IANCDKNITCTGEQDTCLIAYLG-SK-----NTSKCWKYSDCNVDFISHNFSTKNFR
+YRCCQWNLCNNAPN--------------VVTSKIV----LSGAFL----LTVVHMLKFLV
+WN------------------------------
+>ENSPMRP00000003879 ENSPMRG00000002671	122	None	None	Podarcis_muralis	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MMEACNKTIF-YSPPLF-HLGAALKCYQCL
+DG-IGPCKTNVTCSGDTDSCILVNLG-KYHLYFINISTCWKYSNCEIDFIEKEFKTGNFK
+FHCCQKDLCNGSPI--------------TAGSKMV----LGLTSV----LIAIQMLSF--
+--------------------------------
+>ENSPVIP00000016461 ENSPVIG00000012736	118	None	CD59 molecule (CD59 blood	Pogona_vitticeps	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MKCLSVITLITVF-LLALFC-SSGSALRCFTCR
+---ISPCNVNKTCSAEQDACIKVDLG-SR-----IEKDCWKYSDCDVDKVGEHFNVKNLK
+LSCCQKDLCNGSPI--------------TVGSKLV----LGISSF----LVVIRMLCF--
+--------------------------------
+>ENSPTXP00000010362 ENSPTXG00000007347	122	None	CD59 molecule (CD59 blood	Pseudonaja_textilis	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MNSFLVIAINTTF-ILALFL-HSGNALVCYNCP
+---IANCDKNITCTGEQDTCLIAYLG-SK-----NTSRCWKYSDCNVDFISLNFSTKNFR
+YRCCQWNLCNNAPN--------------VVTSKIV----LSGAFL----LTVVHMVKFLV
+WN------------------------------
+>ENSSMRP00000005172 ENSSMRG00000004233	121	None	None	Salvator_merianae	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MKYLLIPVLLAVF-LPALFCLESQGTLKCFKCT
+GM-QEQCNTNVTCPANADSCIFVKAG-VT-----RHWDCWTYANCHHAFIETHYKIDNFE
+FKCCKKDLCNDSPN--------------LASSMTL----PILVSV----LTIIQMLSF--
+--------------------------------
+>ENSACUP00000012735 ENSACUG00000008593	137	None	CD59 molecule (CD59 blood	Athene_cunicularia	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------MTNVA---------AWSW--
+---------------TCA-LSQ--GKSMIKM-NCILLTACIVLLAFC-GSGYTLRCYHCE
+NS-PSLCKTNSTCLATEDTCLQMKFG-KL-----RTSSCWKTSQCSMNDIAEFFQLDNFE
+FFCCQHDLCNESAI--------------TGVNKAA----FSIASV----MTMLWMLL---
+--------------------------------
+>ENSSCUP00000025632 ENSSCUG00000018756	119	None	CD59 molecule (CD59 blood	Struthio_camelus_australis	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MIKM-NCILLTVCIFLVAFC-SSGYTLRCYHCQ
+NS-PTLCKTNSTCIAPEDTCLQMKSG-KL-----RTFSCWKTSQCNVNDIAVLFQLDNFE
+YFCCQRDFCNKSPI--------------TGVNKAA----FSIASV----MTVLWMLL---
+--------------------------------
+>ENSCABP00000019021 ENSCABG00000014051	134	None	None	Chelonoidis_abingdonii	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------MTVLLL-PDIGGNMNGNKT-NWVLVTGFIILAVFC-SSGYMLKCYNCP
+FT-AVPCKTNVTCSSDTDSCLWLKVG-EN-----TFSGCYKYSDCGMNQIKEKYKVDNFS
+FKCCQKDLCNRSQT--------------TMISTAV----FSIATM----MTMIWILCF--
+--------------------------------
+>ENSCSRP00000028426 ENSCSRG00000020932	249	None	None	Chelydra_serpentina	237B	237	B
+-------------------------------------------------------ALGID
+GLV-YTGHA-KNPPPLRGVAARAGAVFTGALDST---ETAALRGA------------CVF
+T----ALGENSIRSGLAPSQTGGA-GDKKRVGREAEGGKKRQLCRPACLPRCSARNETVG
+LLRSHLEELPAGPCCALA-ADIGRNMNGNKT-NCVLLTVFIILAVFC-SSGYMLKCYNCP
+LV-AVPCKTNITCQSDLDSCLWLKIG-ER-----MLSNCYRYSNCNTDRIKEEYKFDNFE
+FKCCQKDLCNRSQT--------------TMISTAV----FSIATM----MTMIWILCF--
+--------------------------------
+>ENSCPBP00000017017 ENSCPBG00000012499	122	None	None	Chrysemys_picta_bellii	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------MNGNKT-NCVLLTGFIILAVFC-SSGYMLKCYNCP
+LT-ALPCKTNITCPSDTDSCLWIKSG-DR-----TLSDCYKYSNCDMNGIKEKYKFDNFN
+FKCCQKDLCNRSQT--------------TMISTAV----FSVATV----MTMIWILCF--
+--------------------------------
+>ENSGAGP00000025818 ENSGAGG00000018841	107	None	None	Gopherus_agassizii	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------MLPMSILFL-------AVLCPCYNCP
+LT-AVPCKTNVTCPSDTDSCLWLKVG--I-----TLSGCYKYSNCDMNQIKEKYKVDNFN
+FKCCQKDLCNRSQT--------------TMISTAV----ISIATM----MTMIWILCF--
+--------------------------------
+>ENSPSIP00000007479 ENSPSIG00000006888	122	None	CD59	Pelodiscus_sinensis	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------MNGSKM-NCVLLTVFFILALFC-SSGYMLDCYNCS
+LT-VGPCKTNITCASGLDSCLWLKVG-ER-----TLHDCYKYSKCNIHAIEEDYKTSNFN
+FKCCQKNLCNISPI--------------MMISEAV----FSITLM----ITMIWILCF--
+--------------------------------
+>ENSPCEP00000014587 ENSPCEG00000011570	123	None	None	Pelusios_castaneus	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------MNGNKT-NCVLLTVFVVLAVFC-SSVFMLKCYKCE
+QHADVPCKSNITCTGSDNSCLLFKDE-QV-----AISRCYPYSKCEVAIIEKEFSSKKFE
+FRCCQKDLCNRSPT--------------MMISKAV----FSVATL----MTMSWILCF--
+--------------------------------
+>ENSTMTP00000010858 ENSTMTG00000007869	110	None	None	Terrapene_carolina_triunguis	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------LGLGRKSVII-TYMHVLVCYNCP
+LT-ALPCKTNITCPSDTDSCLWIKS--ER-----TLSNCYKYSNCDMNQIKEKYKFDNFN
+FKCCQKDLCNRSQT--------------TMISTAV----FSVATV----MTMIWILCF--
+--------------------------------
+>ENSNPEP00000015607 ENSNPEG00000011649	119	None	CD59 molecule (CD59 blood	Nothoprocta_perdicaria	237B	237	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MIKM-NCVLLTVCLVLAALC-SPGYALRCYHCD
+NS-PTLCKTNSTCLPTEDTCLQMKFG-KL-----RTFSCWKTSQCNANDIAMFFQLDNFD
+YFCCQRDLCNKSPT--------------TGVNQAA----LSVASV----ITVLWMLL---
+--------------------------------

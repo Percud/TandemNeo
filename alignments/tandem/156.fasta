@@ -1,0 +1,763 @@
+>ENSPNAP00000009072 ENSPNAG00000003198	169	AGR2	anterior gradient protein 2	Pygocentrus_nattereri	156A	156	A
+------------------------------------------------------------
+------------------------------------MLKVLLSIFLVL---VVVISIMGR
+TQ------KAT----VKKEKRVPQTLSKGWGDQLIWAQTYEEALFWARS-----------
+-----KNKPLMVIFHLDDCPHSQALKKAFAEDEKIQKIADENFILLNLVHETTDKHLSPD
+GIYV-PRILFV-DPSMTVRADITGR-------YSNRKYAYEPSDIKILLSNMEKARKLMK
+TEL---------------------------------------
+>ENSNBRP00000025591 ENSNBRG00000019460	160	agr2	anterior gradient protein 2	Neolamprologus_brichardi	156A	156	A
+------------------------------------------------------------
+------------------------------------MVKSALSVLLVL---VAISSTFAA
+--------KYI----PKSGKRVPQTLSRGWGDQLIWAQTYEEGLYWSRS-----------
+-----KNKPLLVIFHLEDCPHSQALKKVFSEDNEVQKILDEDFVILNLVYETTDKHLSPD
+GQYV-PRLLFV-GKSSRLGHNLCYIDWELLLHLSVCFIALNPFNPVLCN-----------
+------------------------------------------
+>ENSIPUP00000020875 ENSIPUG00000014129	173	agr2	anterior gradient protein 2	Ictalurus_punctatus	156A	156	A
+------------------------------------------------------------
+------------------------------------MIKGLVSVLLAL---VVVTSTMGK
+PE-KSSD-KTA----VKKEKRIPQTLSRGWGDQLIWAQTYEEALFLARS-----------
+-----QNKPLMVILHLEECPHSQALKKAFAEDKEIQKIADEDFILLNLVYETTDKHLSPD
+GQYV-PRIIFV-DPSMTVRADITGR-------YSNRMYAYEPADMKLLQNNMLRAKKLLK
+TEL---------------------------------------
+>ENSMALP00000028984 ENSMALG00000020040	153	agr2	anterior gradient protein 2	Monopterus_albus	156A	156	A
+------------------------------------------------------------
+------------------------------------MIKAMFSVLLVL---VAVSSTFGK
+Y---------I----PKSGKRIPQTLSRGWGDQLIWAQTYEEGLYWSR------------
+------NKPLMVLFHLEDCPHSQALKKVFAEDDEIQKILDEDFIVLNLVYETVDKNLSPD
+GKYV-PRFLFV-DPTMTVRADITSR-------YSNRMYTYEPGDLQLCKYKC--------
+------------------------------------------
+>ENSBBBP00000012220 ENSBBBG00000020054	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Bison_bison_bison	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKIPVSAFLLL---VALSYTLAK
+DT-TVKPGAK--KDTKDSQLKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKAFAENKEIQRLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRILF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSBTAP00000033750 ENSBTAG00000024406	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Bos_taurus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKIPVSAFLLL---VALSYTLAK
+DT-TVKPGAK--KDTKDSQLKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKAFAENKEIQRLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRILF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSCDRP00005007525 ENSCDRG00005005382	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Camelus_dromedarius	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+DT-TIKPGAK--KDTKNSGLKLPQTLSRGWGDQLIWTQTYEEALFKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKDIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALLLDNMKKALILLK
+TEL---------------------------------------
+>ENSCHIP00000008838 ENSCHIG00000011890	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Capra_hircus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKIPVSAFLLL---VALSYTLAK
+ET-TVKPGAK--KDTKDSQLKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKAFAENKEIQKLAD-QFVLLNLVYETTDKHLSPD
+GQYV-PRILF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSCWAP00000003420 ENSCWAG00000002684	181	AGR2	anterior gradient 2, protein disulphide isomerase family	Catagonus_wagneri	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+ET-TVKPGAK--KDTKDSQPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKAFAENKEVQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRILF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALRKCDP--------
+---ENLNSCGA-GKRVYVGRG---------------------
+>ENSDLEP00000027290 ENSDLEG00000019695	165	AGR2	anterior gradient 2, protein disulphide isomerase family	Delphinapterus_leucas	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+ET-TVKPGAK--KDTKDSQPKLPQTLSRGWGDQLIWTQTYEEALHKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-IDPSLTVRADITGR-------YSNRLYAYEPSDMALCKCYLL-------
+------------------------------------------
+>ENSMMSP00000033210 ENSMMSG00000024474	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Moschus_moschiferus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKIPVSAVLLL---VALSYTLAK
+DT-TVKPGAK--KDTKDSPLKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKAFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRILF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSOARP00000009635 ENSOARG00000008972	179	AGR2	anterior gradient 2, protein disulphide isomerase family	Ovis_aries	156A	156	A
+------------------------------------------------------------
+---------------------------------RFAMEKIPVSAFLLL---VALSYTLAK
+ET-TVKPGAK--KDTKDSQLKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKAFAENKEIQKLAD-QFVLLNLVYETTDKHLSPD
+GQYV-PRILFVVDPSLTVRADITGR-------YSNRLYAYEPSDTALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSPCTP00005001805 ENSPCTG00005001307	182	AGR2	anterior gradient 2, protein disulphide isomerase family	Physeter_catodon	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+DT-TVKPGAK--KDTKDSQPKLPQTLSRGWGDPLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKTFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPSDMALRKCYLF-------
+---EHLFHCCT-GRRAHMGRE---------------------
+>ENSSSCP00000045116 ENSSSCG00000015363	206	AGR2	anterior gradient 2, protein disulphide isomerase family	Sus_scrofa	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISLSAFLLL---VALSYTLAK
+DT-TVKPGAK--KDTKDSQPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKAFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRILF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALLLDNMKKAPPSVL
+GLK--TWNHRS-SEK-----TVEKALVNILISLRFHVTTAIF
+>ENSTTRP00000009359 ENSTTRG00000009872	182	AGR2	anterior gradient 2, protein disulphide isomerase family	Tursiops_truncatus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+ET-TVKPGAK--KDTKDSQPKLPQTLSRGWGDQLIWTQTYEEALHKSRT-----------
+-----SNKPLMIIHHLDECPHSQALKKAFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPSDMALCKCYLF-------
+---EHLFHCCT-GRRAHMGRG---------------------
+>ENSVPAP00000007855 ENSVPAG00000008440	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Vicugna_pacos	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+DT-TIKPGAK--KDTKNSGPKLPQTLSRGWGDQLIWTQTYEEALFKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKDIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALCKCYPSEYTRVHM
+---GW---------------G---------------------
+>ENSAMEP00000011091 ENSAMEG00000010541	180	AGR2	anterior gradient 2, protein disulphide isomerase family	Ailuropoda_melanoleuca	156A	156	A
+------------------------------------------------------------
+--------------------------------IRFAMEKISVSAFLLL---VALSYTLAK
+DI-TAKSGAK--KDTKDSGPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMFVVDPSLTVRADITGR-------YSNRLYAYEPSDALLLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSCAFP00000003553 ENSCAFG00000002437	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Canis_lupus_familiaris	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+DI-TVKSGAK--KDTKDSAPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIIF-VDPSLTVRADITGR-------YSNRLYAYEPSDIALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSFCAP00000005031 ENSFCAG00000005428	180	AGR2	anterior gradient 2, protein disulphide isomerase family	Felis_catus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+DI-TVKSGAK--KDTKDSAPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPSDVALCKCYLL-------
+---EHIYYCCS-RSRALVR-----------------------
+>ENSLCNP00005011396 ENSLCNG00005007453	180	AGR2	anterior gradient 2, protein disulphide isomerase family	Lynx_canadensis	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+DI-TVKSGAK--KDTKDSAPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPSDVALCKCYLL-------
+---EHTYYCCS-RSRALMR-----------------------
+>ENSMPUP00000013875 ENSMPUG00000013980	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Mustela_putorius_furo	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+DI-TAKSGAK--KDTKDSGPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPIMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-IDPSLTVRADITGR-------YSNRLYAYEPSDTALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSNVIP00000019029 ENSNVIG00000014918	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Neovison_vison	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+DI-TAKSGAK--KDTKDSGPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPIMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-IDPSLTVRADITGR-------YSNRLYAYEPSDTALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSPLOP00000006515 ENSPLOG00000004751	180	AGR2	anterior gradient 2, protein disulphide isomerase family	Panthera_leo	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+DI-TVKSGAK--KDTKDSAPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPSDVALCKCYLL-------
+---EHIYYCCS-RSRALVR-----------------------
+>ENSSSUP00005002797 ENSSSUG00005001892	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Suricata_suricatta	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---ATLSYTLAK
+DI-TVKPGAK--KDTKDSAPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFADNKEVQRLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPADIPLLIENMKKALKLLK
+TEL---------------------------------------
+>ENSUMAP00000030573 ENSUMAG00000022071	167	AGR2	anterior gradient 2, protein disulphide isomerase family	Ursus_maritimus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+DI-TAKSGAK--KDTKDSGPKLPQTLSRGRSQIT--------QSLLVSG-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPSDAPLLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSVVUP00000011750 ENSVVUG00000008636	195	AGR2	anterior gradient 2, protein disulphide isomerase family	Vulpes_vulpes	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+DI-TVKSGAK--KDAKDSAPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENREIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIIF-VDPSLTVRADITGR-------YSNRLYAYEPSDIALRKCPLL-------
+---DMALCCCA-RSGVHDEEGESSAQTHRMFGLN--------
+>ENSMLUP00000015216 ENSMLUG00000016698	180	None	None	Myotis_lucifugus	156A	156	A
+------------------------------------------------------------
+---------------------------------RCAMEEISVSPSLLL---VALSYTLAR
+DT-TVKPGAENTKDTKVSPPKLPQTLSRGWGDRLIWTQTHEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTGKHPSPG
+GQGV-PRIMF-IDPSLTVRADITGR-------YSKRLYAYEPSDAALLVDNMKKALKLLK
+TEL---------------------------------------
+>ENSPVAP00000013738 ENSPVAG00000014573	162	AGR2	anterior gradient 2, protein disulphide isomerase family	Pteropus_vampyrus	156A	156	A
+------------------------------------------------------------
+------------------------------------------------------------
+-------GAK--KDTRDSQPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKMFAENKEIQKLAE-QFVLINLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPSDAALCKCAIEHL----Y
+CADEHLYGCAG-SGGHMTMRKE--------------------
+>ENSRFEP00010024538 ENSRFEG00010016349	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Rhinolophus_ferrumequinum	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISLSTFLLL---VALSYTLAK
+DT-TVRPGAK--KNTKDSPPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPSDAALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSDNOP00000009243 ENSDNOG00000011923	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Dasypus_novemcinctus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+DT-TVKPGAK--KDTKDSHIKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKAFAENKEIQKLAE-QFVLLNLIYETTDKHLSPD
+GQYV-PRIIF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSMODP00000001883 ENSMODG00000001544	243	None	None	Monodelphis_domestica	156A	156	A
+MDTENFSQKTPLICRLFMRY-----RN-RRKKIVRMM----------------LVMTRML
+LGG------LVEGQ---CG---GEGSDDAGHANALAMEKMSMSVFLLL---VAISHALAK
+DI-TPKPGAKK----EEAQPKFPQTLSRGWGDKLFWTQTYEEALYKAKT-----------
+-----SNKPLMIIHHLEECPHSQALKKVFAENNEIQKLAD-KFVLLNLIYETTDKHLSPM
+ASMSLESCLWV-SPGPCLHSSRVGIPAGIF--------SPGISTTKMVGHGMAKEK--ED
+TSLPNSSSLPYSH-----------------------------
+>ENSMEUP00000004591 ENSMEUG00000005030	108	None	None	Notamacropus_eugenii	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKMSVSMFLLL---VAISHTLAK
+EI-TSKPGAKQ----EETRTKLPQTLSRGWGDQLFWTQTYEEALYKAKT-----------
+-----SNKPLMIIHHLEECPHSQALKKVFAESNEIQKLAD-KFVLLNLI-----------
+------------------------------------------------------------
+------------------------------------------
+>ENSPCIP00000018598 ENSPCIG00000014225	217	AGR2	anterior gradient 2, protein disulphide isomerase family	Phascolarctos_cinereus	156A	156	A
+----------------------------------------------MPGWWVGLGVLRCI
+NRGSQHTYTQNFGTGSW-LFRQVQVG----GAAALAMEKISVSIFLLL---VAISHTLAK
+EI-TPKTGAK-----EETRPKLPQTLSRGWGDKLFWTQTYEEALYKAKT-----------
+-----SNKPLMIIHHLEECPHSQALKKVFAESNEIQKLAD-KFVLLNLIYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPADTPLLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSVURP00010027644 ENSVURG00010021158	172	AGR2	anterior gradient 2, protein disulphide isomerase family	Vombatus_ursinus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSIFLLL---VAISHTLAK
+EI-TPKPGAK-----EETRPKLPQTLSRGWGDKLFWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLEECPHSQALKKAFAESNEIQKLAD-KFVLLNLIYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPADAPLLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSEEUP00000000416 ENSEEUG00000000469	176	AGR2	anterior gradient 2, protein disulphide isomerase family	Erinaceus_europaeus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKILVSAFLLL---VALSNTLAK
+DT-TVKPGAK--KDTKDTRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLXX-XXXXXXXXYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPSDVALLLDNMKKALKLLK
+TEL--Q------------------------------------
+>ENSSARP00000002713 ENSSARG00000003017	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Sorex_araneus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---MALSYTLAK
+DT-IVKPGAK--KDTKDSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQXXXXXXXXXXXXXXXXX-XXXXXXXXYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPSDAALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSPCAP00000012833 ENSPCAG00000013767	95	None	None	Procavia_capensis	156A	156	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------LKKVFAENKDIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRILF-VDPSLTVRADITGR-------YSNRLYAYEPSDLVLCKSDPQRF-----
+------HCCSKGSGNHIGWG----------------------
+>ENSOPRP00000002059 ENSOPRG00000002238	172	AGR2	anterior gradient 2, protein disulphide isomerase family	Ochotona_princeps	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKMSVSAFMLL---VALSCALAK
+DT-TVKPGTK--KD---GKPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKDIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPSDAALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSOCUP00000003098 ENSOCUG00000003578	260	AGR2	anterior gradient 2, protein disulphide isomerase family	Oryctolagus_cuniculus	156A	156	A
+----MHSKKGLFLQRYFFKQGALLLREDHGSDKGRSISELVPCKHRISGWER--GVRRCI
+NRGLRCWHRQKLGLRP-ERLAQGRWE----GKSRFAMEKISLSAVLLL---VALSYTLAK
+DT-TVKPGAK--KDAKDSQPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKDIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPSDINLLLDNMKKARKLLK
+TEL---------------------------------------
+>ENSECAP00000009009 ENSECAG00000043283	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Equus_caballus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+DT-TVKPGAK--KDAKDSGPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKDIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPSDAALLLDNMRKALKLLK
+TEL---------------------------------------
+>ENSCHOP00000000473 ENSCHOG00000000535	131	AGR2	anterior gradient 2, protein disulphide isomerase family	Choloepus_hoffmanni	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VAVSYTLAK
+DT-TVKPGAK--KDTKDPHLKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKAFAENKEIQKLAE-QFILLNLIYETIDKHLSPD
+GQYV-PRIMFV-------------------------------------------------
+------------------------------------------
+>ENSCJAP00000001728 ENSCJAG00000000997	189	AGR2	anterior gradient 2, protein disulphide isomerase family	Callithrix_jacchus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+DT-TVKPGAK--KDTKDSQPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALCKCYLQLVCWPRV
+---EHLYCCSD-SKKVRESQA---------------------
+>ENSCATP00000029091 ENSCATG00000037807	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Cercocebus_atys	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAR
+DT-TVKPGAK--KDTKDSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPADTALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSCSAP00000009652 ENSCSAG00000013491	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Chlorocebus_sabaeus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAR
+DT-TVKPGAK--KDTKDSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPADTALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSGGOP00000012542 ENSGGOG00000012859	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Gorilla_gorilla	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---LALSYTLAR
+DT-TVKPGAK--KDTKDSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPADTALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSP00000386025 ENSG00000106541	188	AGR2	anterior gradient 2, protein disulphide isomerase family	Homo_sapiens	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKIPVSAFLLL---VALSYTLAR
+DT-TVKPGAK--KDTKDSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPADTALCKCDLQFGCCPRV
+---EHLYCCSD-GTRGCMVR----------------------
+>ENSMMUP00000022436 ENSMMUG00000017050	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Macaca_mulatta	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAR
+DT-TVKPGAK--KDTKDSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRILF-VDPSLTVRADITGR-------YSNRLYAYEPADTALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSMLEP00000005307 ENSMLEG00000023645	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Mandrillus_leucophaeus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAR
+DT-TVKPGAK--KDTKDSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPADTALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSMICP00000049994 ENSMICG00000015349	184	AGR2	anterior gradient 2, protein disulphide isomerase family	Microcebus_murinus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+DT-TVKPGAK--KDTKDSQPRLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKDIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-IDPSLTVRADITGR-------YSNRLYAYEPSDLPLRKCYLQLGWCPSV
+---DHLHCYSY-GTRR--------------------------
+>ENSPTRP00000032379 ENSPTRG00000018953	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Pan_troglodytes	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAR
+DT-TVKPGAK--KDTKDSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPADTALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSPANP00000044590 ENSPANG00000025447	188	AGR2	anterior gradient 2, protein disulphide isomerase family	Papio_anubis	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAR
+DT-TVKPGAK--KDTKDSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPADTALCKCYLQFGCCPRV
+---EHFYCCSD-GTRGCMVR----------------------
+>ENSPPYP00000019909 ENSPPYG00000017761	198	AGR2	Pongo abelii anterior gradient 2, protein disulphide isomerase family member (AGR2), mRNA	Pongo_abe
+------------------------------------------------------------
+---------QKLGPHPSRRLTQGRWV----RKSRVAMEKISVSAFLLL---VALSYTLAR
+DT-TVKPAAK--KDTKDSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPTDTALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSTGEP00000030164 ENSTGEG00000024221	188	AGR2	anterior gradient 2, protein disulphide isomerase family	Theropithecus_gelada	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAR
+DT-TVKPGAK--KDTKDSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPADTALCKCYLQFGCCPRV
+---EHFYCCSD-GTRGCMVR----------------------
+>ENSLAFP00000004996 ENSLAFG00000005959	172	AGR2	anterior gradient 2, protein disulphide isomerase family	Loxodonta_africana	156A	156	A
+------------------------------------------------------------
+------------------------------------MKKISVSAFLLL---VALSYTLAK
+DT-TVKPGAK--KD---SQLKLPQTLSRGWGDQLFWIQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSIALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-IDPSLTVRADITGR-------YSNRLYAYEPSDLALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSCCNP00000020043 ENSCCNG00000020083	175	Agr2	anterior gradient 2, protein disulphide isomerase family	Castor_canadensis	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKILVSAFLLL---VALSYTLAK
+ET-TVKPGAK--KDTKDSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALLYDNMKKALKLLK
+TEL---------------------------------------
+>ENSCPOP00000000015 ENSCPOG00000000018	172	AGR2	anterior gradient 2, protein disulphide isomerase family	Cavia_porcellus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISASAFLLL---VALSYTLAK
+ET-TVKPGAK--K---DSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRILF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSCLAP00000007785 ENSCLAG00000005464	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Chinchilla_lanigera	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+ET-TVKPGAK--KDTKDSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNRPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRILF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALLFDNMKKALKLLK
+TEL---------------------------------------
+>ENSDORP00000024743 ENSDORG00000007734	192	Agr2	anterior gradient 2, protein disulphide isomerase family	Dipodomys_ordii	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSTFLLL---LALSYTLAK
+ET-TVKPGAK--KDIKDSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKDIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPADTSLCKCYLLMLSKYLT
+CPFAIVRGCEA-PGDMGKGSM---------------------
+>ENSSTOP00000007921 ENSSTOG00000008843	175	AGR2	anterior gradient 2, protein disulphide isomerase family	Ictidomys_tridecemlineatus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISMSAFLLL---VALSYSLAK
+ET-TVKPGAK--KDTKDSQPKLPQTLSRGWGDLLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFADNKDIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSMUGP00000018398 ENSMUGG00000015594	175	Agr2	anterior gradient 2, protein disulphide isomerase family	Meriones_unguiculatus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSTILLL---VAISYSLAK
+DT-TVKPGAK--KDPKDSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNKPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIMF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALLLDNMKKALRLLK
+TEL---------------------------------------
+>ENSMAUP00000018626 ENSMAUG00000017131	175	Agr2	anterior gradient 2, protein disulphide isomerase family	Mesocricetus_auratus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKILASAFLLL---VALSYTLAK
+ET-TVKPGAK--KDAKDSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNRPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRVLF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSMOCP00000013458 ENSMOCG00000013251	172	Agr2	anterior gradient 2, protein disulphide isomerase family	Microtus_ochrogaster	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLLL---VALSYTLAK
+DT-TVKAGAK--K---DSKPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNRPLMIIHHLDECPHSQALKKVFAENKEIQKLAD-QFVLLNLVYETTDKHLSPD
+GQYV-PRILF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSMUSP00000020898 ENSMUSG00000020581	175	Agr2	anterior gradient	Mus_musculus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKFSVSAILLL---VAISGTLAK
+DT-TVKSGAK--KDPKDSRPKLPQTLSRGWGDQLIWTQTYEEALYRSKT-----------
+-----SNRPLMVIHHLDECPHSQALKKVFAEHKEIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRIVF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALLYDNMKKALKLLK
+TEL---------------------------------------
+>ENSODEP00000008812 ENSODEG00000006586	176	AGR2	anterior gradient 2, protein disulphide isomerase family	Octodon_degus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISVSAFLFL---VALSYTLAK
+ET-TVKPGAK--KDTKDSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNRPLMIIHHLDECPHSQALKKVFAENKEIQKLAE-KFVLLNLVYETTDKHLSPD
+GQYV-PRVLF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALCNSDQLLQ-LLRT
+SPFYM-------------------------------------
+>ENSPEMP00000021955 ENSPEMG00000019456	175	Agr2	anterior gradient 2, protein disulphide isomerase family	Peromyscus_maniculatus_bairdii	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKISMSAFLLL---VALSYTLAK
+DT-TVKPGAK--KDPKDSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNRPLMIIHHLDECPHSQAFKKVFADSREIQKLAE-QFVLLNLVYETTDKHLSPD
+GQYV-PRILF-VDPSLTVRADITGR-------YSNRLYAYEPSDIALLLDNMKKALKLLK
+TEL---------------------------------------
+>ENSRNOP00000068828 ENSRNOG00000005023	175	Agr2	anterior gradient 2, protein disulphide isomerase family	Rattus_norvegicus	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKFSVSAILLL---VAISGTLAK
+DT-TVKSGSK--KDPKDSRPKLPQTLSRGWGDQLIWTQTYEEALYKSKT-----------
+-----SNRPLMVIHHLDECPHSQALKKVFAENKEIQKLAE-QFVLLNLIYETTDKHLSPD
+GQYV-PRIVF-VDPSLTVRADITGR-------YSNRLYAYEPSDTALLHDNMKKALKLLK
+TEL---------------------------------------
+>ENSLLTP00000007271 ENSLLTG00000005546	200	AGR2	anterior gradient 2, protein disulphide isomerase family	Laticauda_laticaudata	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKNIASILILV---LAVLNTLAK
+ET-TTKDGRKDPKEPKETHPKLPQTLSRGWGDQLIWTQTYEEALFKSKT-----------
+-----SNKPIMVIHHLEECPHSQALKKVFAEHKDIQKLAA-SFVLLNLIYETSDKHLAPD
+GQYV-PRILF-VDPTLTIRADITGR-------YSNRLYAYEPQDVPLVLKYAESSDSAK-
+----------DRTVKKEKWSTLRSSALTVQICLVFSS-----
+>ENSVKKP00000027930 ENSVKKG00000018105	170	AGR2	anterior gradient 2, protein disulphide isomerase family	Varanus_komodoensis	156A	156	A
+------------------------------------------------------------
+------------------------------------MEKILASMLLLL---VAVSCTLAA
+DSTTAKNGKKDTKGAKETHPKLPQTLSRGWGDQLIWTQTYEEALFKAKN-----------
+-----NNKPIMIIHHLEDCPHSQALKKAFAEHKEIQKLAE-KFILINLVYETTDKHLSPD
+GQYV-PRILF-VDPSLTVRADITGR-------YSNRLYAYEPSDIALCKYMLFPF-----
+------------------------------------------
+>ENSBBBP00000012200 ENSBBBG00000005089	166	AGR3	anterior gradient 3, protein disulphide isomerase family	Bison_bison_bison	156B	156	B
+------------------------------------------------------------
+-----------------------------------MMSYSVLVLCLLS---ITVSSNL--
+--------AIA----IKREKRPPQTLSRGWGDDITWVQTYEEGLFHTQK-----------
+-----SNKPLMVIHHLEDCQYCQALKKVFAQNKEIQEMAQNNFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YSNRLYTYEPQDLPLLIENMKKALKLIQ
+SEL---------------------------------------
+>ENSBTAP00000054298 ENSBTAG00000045578	166	AGR3	anterior gradient 3, protein disulphide isomerase family	Bos_taurus	156B	156	B
+------------------------------------------------------------
+-----------------------------------MMSHSVLVLCLLS---ITVSSNL--
+--------AIA----IKREKRPPQTLSRGWGDDITWVQTYEEGLFHTQK-----------
+-----SNKPLMVIHHLEDCQYCQALKKVFAQNKEIQEMAQNNFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YSNRLYTYEPQDLPLLIENMKKALKLIQ
+SEL---------------------------------------
+>ENSCDRP00005007643 ENSCDRG00005005423	164	AGR3	anterior gradient 3, protein disulphide isomerase family	Camelus_dromedarius	156B	156	B
+------------------------------------------------------------
+-----------------------------------MMLHSALALCLLL---IVVSSNL--
+--------AIA----IKKEKRPPQTLSRGWGDDTTWVQT-EEGLFHCQK-----------
+-----SNKPLMLTHHLEDCQYCQALKKAFAQNNEIQEMAQNTFIML-LMHETTDKNLSPD
+GQYV-PRLVFV-EPSVTVRADITGR-------YSNTLYTYEPQDLSLLIENMKKALKLIQ
+SEL---------------------------------------
+>ENSCHIP00000018660 ENSCHIG00000018002	166	AGR3	anterior gradient 3, protein disulphide isomerase family	Capra_hircus	156B	156	B
+------------------------------------------------------------
+-----------------------------------MMSHSALVLCLLF---TTVSSNL--
+--------AIA----IKKEKRPPQTLSRGWGDDITWVQTYEEGLFHTQK-----------
+-----SNKPLMVIHHLEDCQYCQALKKVFAQNTEIQEMAQNNFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YSNRLYTYEPQDLPLLIENMKKALKRIQ
+SEL---------------------------------------
+>ENSCWAP00000003369 ENSCWAG00000002657	165	AGR3	anterior gradient 3, protein disulphide isomerase family	Catagonus_wagneri	156B	156	B
+------------------------------------------------------------
+-----------------------------------MLFHTALALCLVL---ITVSSNL--
+--------AIA----NKKERGPPQTLSRGWGDDVTWVQTYEEGLFHIQK-----------
+-----NNKPLMVIHHLEDCQYCQALKKVFAQNKEIQGMAQNNFIMLNLVHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITER-------YSNRLYTYEPQDLLLLIENMKKALKIQ-
+SEL---------------------------------------
+>ENSMMSP00000033208 ENSMMSG00000024472	166	AGR3	anterior gradient 3, protein disulphide isomerase family	Moschus_moschiferus	156B	156	B
+------------------------------------------------------------
+-----------------------------------MMSHSALVLCLLL---ITVSSNL--
+--------AIA----IKKEKRPPQTLSRGWGDDITWVQTYEEGLFHTQK-----------
+-----SNKPLMVIHHLEDCQYCQALKKVFAQNKEIQEMAQNNFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YSNRLYTYEPQDLPLLIENMKKALKLIQ
+SEL---------------------------------------
+>ENSOARP00000009787 ENSOARG00000009122	163	AGR3	anterior gradient 3, protein disulphide isomerase family	Ovis_aries	156B	156	B
+------------------------------------------------------------
+-----------------------------------MMSHSALVLCLLF---TTVSSNL--
+--------AIA----IKKEKRPPQTLSRGWGDDITWVQTYEEGLFHTQK-----------
+-----SNKPLMVIHHLEDCQYCQALKKVFAQNTEIQEMAQNNFIMLNLMHETTDKNLSPD
+GQYV-PRIMFA-DPSLTVRADITGR-------YSNRLYTYEPQDLPLCKYSQI----ILN
+SDAS--------------------------------------
+>ENSPCTP00005001851 ENSPCTG00005001348	166	AGR3	anterior gradient 3, protein disulphide isomerase family	Physeter_catodon	156B	156	B
+------------------------------------------------------------
+-----------------------------------RMLHSALALCLLL---ITVSSNL--
+--------AIA----IKKGQRPPQTLSRGWGDDITWMQTYEEGLFHIQK-----------
+-----SNKPLMVIHHLEDCQYCQALKKVFAQNKEIQEMAQNNFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YSNRLYTYEPQDLPLLIENMKKALKLIQ
+SEL---------------------------------------
+>ENSTTRP00000009364 ENSTTRG00000009874	166	AGR3	anterior gradient 3, protein disulphide isomerase family	Tursiops_truncatus	156B	156	B
+------------------------------------------------------------
+-----------------------------------MMLHSALVVCLLL---ITVSSNL--
+--------AMA----IKKGKRPPQTLSRGWGDDITWMQTYEEGLFHIQK-----------
+-----SNKPLMVIHHLEDCQYCQALKKVFAQNKEIQEMAQNNFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YSNRLYTYEPQDLPLLIENMKKALKLIQ
+SEL---------------------------------------
+>ENSVPAP00000007856 ENSVPAG00000008441	160	AGR3	anterior gradient 3, protein disulphide isomerase family	Vicugna_pacos	156B	156	B
+------------------------------------------------------------
+-----------------------------------MMLHSA-GLCLLL----IVSSNL--
+--------A------IIKRKETPQTLSRGWGDDTTWVQT-EEGLFHCQK-----------
+-----SNKPLMVTHHXXXXXXXXXLKKAFAQNNEIQEMAQNTFIMLN-MHETTDKNLSPD
+GQYV-PRLVFV-DLSVTVRADITGR-------YSNTLDTYEPQDLPLLIENMKKALKLIQ
+SEL---------------------------------------
+>ENSMLUP00000013616 ENSMLUG00000014950	130	None	None	Myotis_lucifugus	156B	156	B
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------GWGDDITWVQTYEEGLFHIQK-----------
+-----SNKPLMVIHHLEDCQYCQELKKVFAQNEEIQEMAQNNFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YSNRLYTYEPQDLPILIENMKKALKLIQ
+SEL---------------------------------------
+>ENSPVAP00000013739 ENSPVAG00000014574	166	AGR3	anterior gradient 3, protein disulphide isomerase family	Pteropus_vampyrus	156B	156	B
+------------------------------------------------------------
+-----------------------------------TMSHSALFLCLIL---VTVSSNL--
+--------AIA----IKKEKRLPQTLSRGWGDDITWVQTYEEGLFHTRK-----------
+-----SNKPLMVIHHLEECQYCQALKKVFAQNKEIQEMAQNNFIMLNLVHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADLIGI-------YSNRLYTYEPQDLPKLIENMKKALKLIQ
+SEL---------------------------------------
+>ENSRFEP00010024462 ENSRFEG00010016282	166	AGR3	anterior gradient 3, protein disulphide isomerase family	Rhinolophus_ferrumequinum	156B	156	B
+------------------------------------------------------------
+-----------------------------MML------YSASALCLLLV--A-VSSNL--
+--------SIT----IKKEKRPPQTLARGWGDDITWVQTYEEGLFHIQK-----------
+-----SNKPLMVIHHLEDCQYCQALKKVFAQNKEIQEMAQNNFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADIIGR-------YSNRLYTYEPQDLPILIENMKKALKLIQ
+SEL---------------------------------------
+>ENSPCIP00000018602 ENSPCIG00000014228	166	AGR3	anterior gradient 3, protein disulphide isomerase family	Phascolarctos_cinereus	156B	156	B
+------------------------------------------------------------
+-----------------------------------MTQQSALSFFLL---LVTVSANL--
+--------TVA----VMKDKRAPQTLSRGWGDDITWVQTYEEGLFQAKK-----------
+-----SNKPLMVIHHLEDCQYCQALKKVFAKSDEIQEMAQTSFVMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YSNRLYTYEPQDLPVLIENMKKALRLIQ
+KEL---------------------------------------
+>ENSPCAP00000014605 ENSPCAG00000015641	164	AGR3	anterior gradient 3, protein disulphide isomerase family	Procavia_capensis	156B	156	B
+------------------------------------------------------------
+-----------------------------------MMLHTALFLSLL---STTVRSNL--
+--------AVT----VNKEKKPPQALSRGWGDDITWVQTYEEGLMQAHK-----------
+-----SNKPLMVILHLENCRFSQXXXXXXXXXXXXXXXXXXXXXXXXXXHETSDKNLS-D
+GQYV-PRIMFV-DPSLKVRTDIIGK-------YSNRLYTYKPQDLPLLIENMKKALRLIK
+EL----------------------------------------
+>ENSOPRP00000011468 ENSOPRG00000012567	165	AGR3	anterior gradient 3, protein disulphide isomerase family	Ochotona_princeps	156B	156	B
+------------------------------------------------------------
+-----------------------------------AMLHYALALCLLL---ITVSSNL--
+--------AVA----IRKGKKPPQTLSRGWGDDITWVQTYEEGLFHAHK-----------
+-----SNKPLMVIHHLEDCQYCQALKKVFAQNEEIQDMAQNNFIMLNLMHETTDKNLSPD
+GQYV-PRIM-V-DPSLTVRADLTGR-------YSNRLYTYEPQDVPILIENMKKALRLIQ
+SEL---------------------------------------
+>ENSOCUP00000000350 ENSOCUG00000000402	182	AGR3	anterior gradient 3, protein disulphide isomerase family	Oryctolagus_cuniculus	156B	156	B
+--------------------------------MLSSVLQ-------------LL------
+----------------------------PRNVLEGAMLHYALALCLLL---ITVSSNL--
+--------AIA----IKKGKRPPQTLSRGWGDDITWVQTYEEGLFHAHK-----------
+-----SNKPLMVIHHLEDCQYCQALKKVFARSEEIQEMAQNNFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADLTGR-------YSNRLYTYEPQDLPILIENMKKALRLIQ
+SEL---------------------------------------
+>ENSECAP00000027093 ENSECAG00000012283	231	AGR3	anterior gradient 3, protein disulphide isomerase family	Equus_caballus	156B	156	B
+-----------LLQQHFHFL-----LS-EKKDLLSLAVN-------------YLPVNRVT
+LRNSICVIAYLQAS---LNFHHEQWSTHSSYIYTRWGWRSVGCVCVCVCISINPHPFL--
+--------TRN----IQNTLPARALASSGWGDDITWVQTYEEGLFHIQK-----------
+-----SNKPLMVIHHLEDCQYSQALKKVFAQNKEIQEMAQNNFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADLTGK-------YSNRLYTYEPQDLPVLIENMKKALKLIQ
+SEL---------------------------------------
+>ENSCHOP00000005925 ENSCHOG00000006700	166	AGR3	anterior gradient 3, protein disulphide isomerase family	Choloepus_hoffmanni	156B	156	B
+------------------------------------------------------------
+-----------------------------------MMSHPALALGLIF---IAVSSNL--
+--------AMA----IKKEKRLPQTLSRXXXXXXXXXXXXXXXXX---------------
+-XXXXXKKPLMVIHHLEDCQYCQALKKVFAQNEEIQEMAQNNFIMLNLMHETSDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YFNRLYTYEPQDLPVLIENMKRALRLIQ
+SEL---------------------------------------
+>ENSCJAP00000071507 ENSCJAG00000001020	182	AGR3	anterior gradient 3, protein disulphide isomerase family	Callithrix_jacchus	156B	156	B
+------------------------------------------------------------
+-----------------------------------MMLHSASALCLLL---VTVSSNL--
+--------AIA----IRKEKRPPQTLSRGWGDDITWVQTYEEGLFYAQKRLSPYSFVFLA
+VQKFLSKKPLMVIHHLEDCQYSQGLKRVFAQNEEIQEMAQNKFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YSNRLYTYEPQDLPLLIENMKKALRLIQ
+IEL---------------------------------------
+>ENSCATP00000023759 ENSCATG00000035431	166	AGR3	anterior gradient 3, protein disulphide isomerase family	Cercocebus_atys	156B	156	B
+------------------------------------------------------------
+-----------------------------------TMLHSALALCLLL---VAVSSNL--
+--------AIA----IKKEKRPPQTLSRGWGDDITWVQTYEEGLFYAQK-----------
+-----SKKPLMVIHHLEDCQYSQALKQVFSQNEEIQEMAQNKFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YSNRLYTYEPQDLPLLIENMKKALRLIQ
+SEL---------------------------------------
+>ENSCSAP00000009657 ENSCSAG00000013496	166	AGR3	anterior gradient 3, protein disulphide isomerase family	Chlorocebus_sabaeus	156B	156	B
+------------------------------------------------------------
+-----------------------------------MMLHSALALCLLL---VAVSSNL--
+--------AIA----IKKEKRPPQTLARGWGDDITWVQTYEEGLFYAQK-----------
+-----SKKPLMVIHHLEDCQYSQALKQVFSQNEEIQEMAQNKFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADIAGR-------YSNRLYTYEPQDLPLLIENMKKALRLIQ
+SEL---------------------------------------
+>ENSGGOP00000003411 ENSGGOG00000003470	166	AGR3	anterior gradient 3, protein disulphide isomerase family	Gorilla_gorilla	156B	156	B
+------------------------------------------------------------
+-----------------------------------MMLHSALGLCLLL---VTVSSNL--
+--------AIA----IKKEKRPPQTLSRGWGDDITWVQTYEEGLFYAQK-----------
+-----SKKPLMVIHHLEDCQYSQALKKVFAQNEEIQEMAQNKFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADIAGR-------YSNRLYTYEPRDVPLLIENMKKALRLIQ
+SEL---------------------------------------
+>ENSMMUP00000021064 ENSMMUG00000016017	165	AGR3	anterior gradient 3, protein disulphide isomerase family	Macaca_mulatta	156B	156	B
+------------------------------------------------------------
+------------------------------------MLHSALALCLLL---VAVSSNL--
+--------AIA----IKKEKRPPQTLSRGWGDDITWVQTYEEGLFYAQK-----------
+-----SKKPLMVIHHLEDCQYSQALKQVFSQNEEIQEMAQNKFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADIAGR-------YSNRLYTYEPQDLPLLIENMKKALRLIQ
+SEL---------------------------------------
+>ENSMLEP00000030694 ENSMLEG00000039551	166	AGR3	anterior gradient 3, protein disulphide isomerase family	Mandrillus_leucophaeus	156B	156	B
+------------------------------------------------------------
+-----------------------------------TMLHSALALCLLL---VAVSSNL--
+--------AIA----IKKEKRPPQTLSRGWGDDITWVQTYEEGLFYAQK-----------
+-----SKKPLMVIHHLEDCQYSQALKQVFSQNEEIQEMAQNKFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YSNRLYTYEPQDLPLLIENMKKALRIIQ
+SEL---------------------------------------
+>ENSMICP00000012381 ENSMICG00000013575	165	AGR3	anterior gradient 3, protein disulphide isomerase family	Microcebus_murinus	156B	156	B
+------------------------------------------------------------
+------------------------------------MLHSTLDLCLLL---VTVSPNL--
+--------AIA----IKKEKRPPQTLSRGWGDDITWVQTYEEGLFHAQK-----------
+-----SNKPLMVIHHLEDCQYCQALKKVFAQDEEIQELAQNNFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YSNRLYTYEPQDLPVLIENMKKALRLIQ
+SEL---------------------------------------
+>ENSPTRP00000078258 ENSPTRG00000018954	166	AGR3	anterior gradient 3, protein disulphide isomerase family	Pan_troglodytes	156B	156	B
+------------------------------------------------------------
+-----------------------------------MMLHSALGLCLLL---VTVSSNL--
+--------AIA----IKKEKRPPQTLSRGWGDDITWVQTYEEGLFYAQK-----------
+-----SKKPLMVIHHLEDCQYSQALKKVFAQNEEIQEMAQNKFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YSNRLYTYEPRDVPLLIENMKKALRLIQ
+SEL---------------------------------------
+>ENSPANP00000011521 ENSPANG00000013000	165	AGR3	anterior gradient 3, protein disulphide isomerase family	Papio_anubis	156B	156	B
+------------------------------------------------------------
+------------------------------------MLHSALALCLLL---VAVSSNL--
+--------AIA----IKKEKRPPQTLSRGWGDDITWVQTYEEGLFYAQK-----------
+-----SKKPLMVIHHLEDCQYSQALKQVFSQNEEIQEMAQNKFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADIAGR-------YSNRLYTYEPQDLPLLIENMKKALRLIQ
+SEL---------------------------------------
+>ENSPPYP00000019908 ENSPPYG00000017760	164	AGR3	anterior gradient 3, protein disulphide isomerase family	Pongo_abelii	156B	156	B
+------------------------------------------------------------
+-------------------------------------LHSALGLCLLL---VTISSNL--
+--------AVA----IKKEKRPPQTLSRGWGDDITWVQTYEEGLFYAQK-----------
+-----SKKPLMVIHHLEDCQYSQPLKKVFAQNEEIQEMAQNKFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADIAGR-------YSNRLYTYEPRDLPLLIENMKKALRLTQ
+SEL---------------------------------------
+>ENSTGEP00000030112 ENSTGEG00000024177	166	AGR3	anterior gradient 3, protein disulphide isomerase family	Theropithecus_gelada	156B	156	B
+------------------------------------------------------------
+-----------------------------------TMLHSALALCLLL---VAVSSNL--
+--------AIA----IKKEKRPPQTLSRGWGDDITWVQTYEEGLFYAQK-----------
+-----SKKPLMVIHHLEDCQYSQALKQVFSQNEEIQEMAQNKFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADIAGR-------YSNRLYTYEPQDLPLLIENMKKALRLIQ
+SEL---------------------------------------
+>ENSLAFP00000004998 ENSLAFG00000005961	166	AGR3	anterior gradient 3, protein disulphide isomerase family	Loxodonta_africana	156B	156	B
+------------------------------------------------------------
+------------------------------------MLHSALALSLLF---ITVSSNL--
+--------AII----IKKEKKSPQTLSRGWGDDIIWVQTYEEGLFHAHK-----------
+-----SNKPLMVIHHLENCQYSQALKKVFAQNEEIQEMAQNNFIMLNLMHETSDKNLSPD
+GQYV-PRIMFVADPSLTVRADITGR-------YSNRLYTYEPQDLPLLIENMKKALRLIQ
+SEL---------------------------------------
+>ENSCCNP00000020036 ENSCCNG00000020066	165	Agr3	anterior gradient 3, protein disulphide isomerase family	Castor_canadensis	156B	156	B
+------------------------------------------------------------
+------------------------------------MSHSALALCLLL---ITVPSNL--
+--------AMA----IKKEKKRPQTLSRGWGDDITWVQTYEEGLFYAQK-----------
+-----SNKPLMVIHHLEDCPYCQALKKVFAQNEEIQEMAQNDFIMLNLMHETTDKNLSPD
+GKYV-PRIMFV-DPSLMVRADITGR-------YSNRLYTYEPQDLSVLIENMKKALRLIQ
+SEL---------------------------------------
+>ENSDORP00000007252 ENSDORG00000007740	166	Agr3	anterior gradient 3, protein disulphide isomerase family	Dipodomys_ordii	156B	156	B
+------------------------------------------------------------
+-----------------------------------MMLHSTLTLCLLH---VTVSSNL--
+--------AIA----IKKAKRPPQTLSRGWGDDITWVQTYEEGLFHAKK-----------
+-----SNKPLMVIHHLEDCQYCQALKKVFAQNGEIQEMAQNDFIMLNLVHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YSNRLYTYEPQDVPVLIENMKRALRLIQ
+SEL---------------------------------------
+>ENSSTOP00000016042 ENSSTOG00000028440	139	AGR3	anterior gradient 3, protein disulphide isomerase family	Ictidomys_tridecemlineatus	156B	156	B
+------------------------------------------------------------
+------------------------------------MLHSALALCLLF---ITVSSSL--
+--------ALV----IRKEKRPPQTLSRGWGDDITWVQTYEEGLFHAQK-----------
+-----SNKPLMVIHHLEDCQYCQ--------------------------HETTDKNLSPD
+GQYV-PRIMFI-DPSLTVRADITGR-------YSNRLYTYEPQDLPILIENMKRALRLIQ
+SEL---------------------------------------
+>ENSMUGP00000018386 ENSMUGG00000015578	165	Agr3	anterior gradient 3, protein disulphide isomerase family	Meriones_unguiculatus	156B	156	B
+------------------------------------------------------------
+------------------------------------MLHSALALCLLL---ITVSSNL--
+--------AIA----IKKEKRPPQTLSRGWGDDITWVQTYEEGLFHARN-----------
+-----SNKPLMVIHHLEDCQYCQALKKEFAKNEEIQEMAQNDFIMLNIMHETRDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YSNRLYTYEPQDLPMLIDNMKKALRLIQ
+SEL---------------------------------------
+>ENSMAUP00000005554 ENSMAUG00000007619	165	Agr3	anterior gradient 3, protein disulphide isomerase family	Mesocricetus_auratus	156B	156	B
+------------------------------------------------------------
+------------------------------------MLHSTLGLCLLL---VTVSSNL--
+--------AIA----IKKEKRPPQTLSRGWGDDITWVQTYEEGLFHAHK-----------
+-----SNKPLMVIHHLEDCQYCQALKQEFSKNEEIQEMAQNGFIMLNLMHETTDKNLSPD
+GQYV-PRILFV-DPSLTVRADITGR-------YSNRLYTYEPQDLPLLADNMKKALRLIQ
+SEL---------------------------------------
+>ENSMOCP00000020704 ENSMOCG00000018306	165	Agr3	anterior gradient 3, protein disulphide isomerase family	Microtus_ochrogaster	156B	156	B
+------------------------------------------------------------
+------------------------------------MLCSTLSLCLLL---ITVSANL--
+--------AIA----IKKEKRPPQTLSRGWGDDITWVQTYEEGLFHAHK-----------
+-----SNKPLMVILHLEDCQYCQALKKEFAKNEEIQEMAQNSFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YANRLYTYEPQDLPLLIDNMKKALRLIQ
+SEL---------------------------------------
+>ENSMUSP00000049212 ENSMUSG00000036231	165	Agr3	anterior gradient	Mus_musculus	156B	156	B
+------------------------------------------------------------
+------------------------------------MLHSALALCLLL---ITVSSNL--
+--------AIA----IKKEKRPPQTLSRGWGDDITWVQTYEEGLFHARK-----------
+-----SNKPLMVIHHLEDCQYCQALKKEFAKNEEIQEMAQNDFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YSNRLYTYEPQDLPMLVDNMKKALRLIQ
+SEL---------------------------------------
+>ENSPEMP00000014783 ENSPEMG00000014486	166	Agr3	anterior gradient 3, protein disulphide isomerase family	Peromyscus_maniculatus_bairdii	156B	156	B
+------------------------------------------------------------
+-----------------------------------MMLQSTLALCILL---ITVSSNL--
+--------AIA----IKKEKRHPQTLSRGWGDDITWVQTYEEGLFHAHK-----------
+-----SNKPLMVIHHLEDCQYCQALKKEFAKNEEIQEMAQNGFVMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YSNRLYTYEPQDLPLLVDNMKKALRLIQ
+SEL---------------------------------------
+>ENSRNOP00000073372 ENSRNOG00000004994	165	Agr3	anterior gradient 3, protein disulphide isomerase family	Rattus_norvegicus	156B	156	B
+------------------------------------------------------------
+------------------------------------MLHSALALCLLL---ITVSSNL--
+--------AIA----IKKEKRPPQTLSRGWGDDITWVQTYEEGLFHAHK-----------
+-----SNKPLMVIHHLEDCQYCQALKKEFAKNEEIQEMAQNDFIMLNLMHETTDKNLSPD
+GQYV-PRIMFV-DPSLTVRADITGR-------YSNRLYTYEPQDLPMLIDNMKKALRLIQ
+SEL---------------------------------------
+>ENSTBEP00000011100 ENSTBEG00000012815	150	None	None	Tupaia_belangeri	156B	156	B
+------------------------------------------------------------
+-----------------------------------MMVYSALALCLLL---FTVSSNL--
+--------AIA----IQKEKRPPQTLSRGWGDDITWVQTYEEGLFHARKXXXXXXXXXXX
+XXXXXXX----------------XXXXXXXXXXXXXXXXXXXXXXXXXXHETIDKNLSPD
+GQYV-PRIMFV-DPSLRVRGDITGR-------YSNRLYAYEPQDLPV-------------
+------------------------------------------

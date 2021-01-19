@@ -1,0 +1,406 @@
+>ENSGWIP00000029920 ENSGWIG00000015605	147	hbbe2	hemoglobin subunit	Gouania_willdenowi	1061A	1061	A
+------------------------------------------------------------
+-------------------------------MVAWSEQER-----------SIIANLFSN
+LDYEDVGAKALTRCLIVYPWTQRYFGGFGNLYNAEAIKMNPNIAAHGVKILHGLDRALKN
+MDNIKETYAELSVLHSEKLHVDPDNFK--------------------------------L
+LSDVLTIVIAAK---LGTDFTPEVQATFQKFLA----VV----V---SALGKQYQ-----
+----------------------------------
+>ENSCARP00000022007 ENSCARG00000009985	147	hbbe3	hemoglobin subunit	Carassius_auratus	1061A	1061	A
+------------------------------------------------------------
+-------------------------------MVQWKAEER-----------AAIQAVFAK
+LDYESVGRETLTRLLVVYPWTRRYFGGFGNLFNSEAIMANPKVAAHGVVVLKGLEMALKN
+MDDIKNTYASLSELHSEKLQVDPGNFQ--------------------------------L
+LGDCLTVVIATR---MRSEFTPDIQAAWQKFLA----VV----V---SALRKQYN-----
+----------------------------------
+>ENSCCRP00000049481 ENSCCRG00000026395	92	hbbe3	hemoglobin beta	Cyprinus_carpio	1061A	1061	A
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------MANPKVAAHGIVVLQGLEMALKN
+MDDIKNTYASLSELHSEKLQVDPGNFQ--------------------------------L
+LGDCLTVVIATR---MRTEFTPDIQAAWQKFLA----VV----V---SALRKQYN-----
+----------------------------------
+>ENSDARP00000055622 ENSDARG00000038147	147	hbbe3	hemoglobin beta	Danio_rerio	1061A	1061	A
+------------------------------------------------------------
+-------------------------------MVVWTAEER-----------AAIQNIFAK
+LDFESVGLETLTRCLVVYPWTQRYFGGFGNLYNTEAIMANPKVKAHGVVVLKGLEKALNN
+MDNIKSTYASLSELHSEKLQVDPGNFR--------------------------------L
+LADCLTVVIATR---MRSEFTPDIQAAWQKFLS----VV----V---SALRRQYL-----
+----------------------------------
+>ENSSGRP00000069428 ENSSGRG00000035544	144	hbbe3	hemoglobin beta	Sinocyclocheilus_grahami	1061A	1061	A
+------------------------------------------------------------
+-------------------------------MVEWTAEEQ-----------SCNTGVFAK
+LDYESVGHESLARCLVVYPWTRRYFGGFGNLYNSLRQ-----------SWLTQRSQPLQN
+MDDIKNSCASLSELYSSLR----------------------------NSVLYFSQLLFQL
+LGDCLTVVIATR---MRTEFTPDIQAAWQKFLS----VV-------LSALRRQNHLFVD-
+----------------------------------
+>ENSPKIP00000015850 ENSPKIG00000002419	147	hbbe3	hemoglobin subunit	Paramormyrops_kingsleyae	1061A	1061	A
+------------------------------------------------------------
+-------------------------------MVQWTDAER-----------AAIADIFGK
+IDRDVVGPNALARCLIVYPWTRRYFGGFGNLYSADAILANPKVAAHGKVVFGGLEKAVKN
+LDDIKKTFAPLSELHSEKLNVDPDNFR--------------------------------L
+LADCLTLVIAGQ---MRAAFTPEVQAAWQKFLA----VV----V---SALCRQYY-----
+----------------------------------
+>ENSHHUP00000006701 ENSHHUG00000003914	133	None	None	Hucho_hucho	1061A	1061	A
+------------------------------------------------------------
+----------------------------MVV---WTDEER-----------AAISNIFSK
+LDYDDVGPKCLSRCLIVYPWTQRYFGAFGNLYNAEAIMNNPLIAKHGTTVLRGLER----
+----------LSILHSEKLRVDPDNFK--------------------------------L
+LSDCLTIVIAAK---MGTAFTPEYQASFQKFLS----VV----V---SALGRQYH-----
+----------------------------------
+>ENSOTSP00005056361 ENSOTSG00005027242	147	hbbe2	hemoglobin beta	Oncorhynchus_tshawytscha	1061A	1061	A
+------------------------------------------------------------
+----------------------------MVV---WTDEER-----------AAISDIFSK
+LDYDDVGPKCLSRCLIVYPWTQRYFGAFGNLYNAEAIMNNPLIAKHGTTVLRGLERALKN
+MDDIKNTYAELSILHSEKLRVDPDNFK--------------------------------L
+LSDCLTIVIAAK---MGTAFTPEYQASFQKFLS----VV----V---SALGRQYH-----
+----------------------------------
+>ENSSTUP00000012066 ENSSTUG00000005718	147	hbbe2	hemoglobin subunit	Salmo_trutta	1061A	1061	A
+------------------------------------------------------------
+----------------------------MVV---WTDEER-----------ASISDIFSK
+LDYDDVGPKCLSRCLIVYPWTQRYFGAFGNLYNAEAIMNNPLIAKHGTTVLRGLERALKN
+MDDIKNTYAELSILHSEKLRVDPDNFK--------------------------------L
+LSDCLTIVIAAR---MGTAFTPEYQASFQKFLS----VV----V---SALGRQYH-----
+----------------------------------
+>ENSATEP00000015878 ENSATEG00000009603	147	hbbe2	hemoglobin subunit	Anabas_testudineus	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWTEQER-----------SIITGIFAN
+LSYEEIGPKALVRCLIVYPWTQRYFSSFGNLYNAEAIRGNPNVAAHGIKVLHGLDRAVKN
+MDNIKATYAELSVLHSEKLHVDPDNFR--------------------------------L
+LADCLTIEIAAK---LGNGFTADTQAAWQKFLA----VV----V---SALGRQYH-----
+----------------------------------
+>ENSBSLP00000033385 ENSBSLG00000016244	179	hbbe2	hemoglobin subunit	Betta_splendens	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWTEQER-----------SIITGIFAN
+LSYEEIGPKALVRCLIVYPWTQRYFSSFGNLYNAEAIRGNPNVAAHGIKVLHGLDRAVKN
+MDNIKATYAELSVLHSEKLHVDPDNFRVSSAGLQQMHSAHLKADRLVSRRLTFPLFLHQL
+LADCLTIEIAAK---LGTAFTADTQAAFQKFLA----VV----V---SALGRQYH-----
+----------------------------------
+>ENSORLP00000034987 ENSORLG00000026120	219	gb	hemoglobin subunit	Oryzias_latipes	1061B	1061	B
+-SFFLG--------------------------DGSF---FYALNSFSPGAIGAFEFVPVV
+TCAFLAEAVLTVGLAGPVDRPAPTQSPEGLLQRGGVHPSAGQHSQELRLPLRPVRRELEV
+PLARRRAGQDLRRCLIVYPWTQRYFASFGNLYNAEAIKTNPNIAAHGTKVLHGLDRAVKN
+MDNIKATYAELSVLHSEKLHVDPDNFK--------------------------------L
+LADCLTIVIAAK---LGSAFSPEIQATFQKFLA----VV----V---SALGRQYH-----
+----------------------------------
+>ENSGWIP00000029918 ENSGWIG00000015602	147	hbbe2	hemoglobin subunit	Gouania_willdenowi	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVKWSDQER-----------SIISSIFSN
+LDYEDVGAKSLTRCLIVYPWTQRYFGGFGNLYNAEAIKMNPNIAAHGVKILHGLDRAMKN
+MDNIKDTYAELSVLHSEKLHVDPDNFK--------------------------------L
+LSDCLTIVIAAK---MGADFTAEVQATFQKFLA----VV----V---SALGKQYQ-----
+----------------------------------
+>ENSSFAP00005022769 ENSSFAG00005011806	147	hbbe2	hemoglobin subunit	Salarias_fasciatus	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVDWSDQER-----------AIISDIFAN
+LDYEDIGSKALSRCLVVYPWTQRYFGAFGNLYNANAIKTNPAIAAHGVKILHGLDRAVKN
+MDNIKEVYSELSVLHSEKLHVDPDNFK--------------------------------L
+LSDCLTIVIAAK---MGNDFTADIQAAFQKFLA----VV----V---SALGRQYH-----
+----------------------------------
+>ENSENLP00000007047 ENSENLG00000003374	147	hbbe2	hemoglobin subunit	Echeneis_naucrates	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWTEQER-----------NIITSIFSG
+LNYEDVGPKALCRCLIVYPWTQRYFGSFGNLYNAEAIKTNPNIASHGVTVLHGLDRAVKN
+MDNIKATYAELSVLHSEKLHVDPDNFR--------------------------------L
+LADCLTIVIAAK---MGNAFTPETQAAFQKFLA----VV----V---SALGRQYH-----
+----------------------------------
+>ENSSDUP00000011998 ENSSDUG00000008731	147	hbbe2	hemoglobin subunit	Seriola_dumerili	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWTEQER-----------SIISGIFAN
+LDYNDIGPKALCRCLIVYPWTQRYFGSFGNLYNAEAIKTNPNIAAHGVTVLHGLDRAVKN
+MDNIKATYAELSELHSEKLHVDPDNFR--------------------------------L
+LADCLSIVIAAK---MGAGFTPDTQAAWQKFLA----VV----V---SALGRQYH-----
+----------------------------------
+>ENSPNAP00000025738 ENSPNAG00000011240	147	hbbe2	hemoglobin subunit	Pygocentrus_nattereri	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWTEEER-----------SFIQEIFSK
+IKYEDVGPKSLCRALIVYPWTQRYFAHFGNLYNEDAIMGNPEVARHGAVVLHGLDAAVKN
+MDNIKSNYAELGELHSEKLHVDPDNFK--------------------------------L
+MADCITVVIATQ---MRASFTPAMQAAWYKFLS----VV----V---SALSRQYH-----
+----------------------------------
+>ENSACIP00000007593 ENSACIG00000005236	170	hbbe2	hemoglobin beta	Amphilophus_citrinellus	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWSEKER-----------SIINNIFSN
+LDYEDVGAKALIRCLIVYPWTQRYFASFGNLYNAEAISANPKVAAHGVKVLHGLDRAVKN
+MDNIKATYAELSVLHSEKLHVDPDNFKVHKHLLL------LSFNKMISNAFSIPL---QL
+LSDCLTIVIAGK---LGSAFTPEVQAAFQKFVA----VV----V---SALGKQYH-----
+----------------------------------
+>ENSACLP00000024868 ENSACLG00000016926	147	hbbe2	hemoglobin subunit	Astatotilapia_calliptera	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWSENER-----------SIISNIFSN
+LDYNDVGPKALVRCLVVYPWTQRYFSSFGNLYNAEAISTNPKVAAHGIKVLHGLDRALKN
+MDNIKATYAELSVLHSEKLHVDPDNFK--------------------------------L
+LSDCLTIVIAGK---LGSAFTPEVQATFQKFLA----VV----V---SALGKQYH-----
+----------------------------------
+>ENSHBUP00000030949 ENSHBUG00000016300	147	hbbe2	hemoglobin subunit	Haplochromis_burtoni	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWSENER-----------SIISNIFSN
+LDYNDVGPKALVRCLVVYPWTQRYFSSFGNLYNAEAISTNPKVAAHGIKVLHGLDRALKN
+LDNIKATYAELSVLHSEKLHVDPDNFK--------------------------------L
+LSDCLTIVIAGK---LGSAFTPEVQATFQKFLA----VV----V---SALGKQYH-----
+----------------------------------
+>ENSMZEP00005009896 ENSMZEG00005007502	147	hbbe2	hemoglobin subunit	Maylandia_zebra	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWSENER-----------SIISNIFSN
+LDYNDIGPKALVRCLIVYPWTQRYFTSFGNLYNAEAISTNPKVAAHGIKVLHGLDRALKN
+MDNIKATYAELSVLHSEKLHVDPDNFK--------------------------------L
+LSDCLTIVVAGK---LGSAFTPEIQATFQKFLA----VV----V---SALGKQYH-----
+----------------------------------
+>ENSNBRP00000024040 ENSNBRG00000017797	147	hbbe2	hemoglobin subunit	Neolamprologus_brichardi	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWSETER-----------SIITNIFSN
+LDYNDIGPKALVRCLIVYPWTQRYFASFGNLYNAEAISNNPQVAAHGIRVLHGLDRALKN
+MDNIKATYAELSVLHSEKLHVDPDNFK--------------------------------L
+LSDCLTIVVAGK---MGSAFTPEIQATFQKFLA----VV----V---SALGRQYH-----
+----------------------------------
+>ENSONIP00000073636 ENSONIG00000034901	147	hbbe2	hemoglobin subunit	Oreochromis_niloticus	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWSEKER-----------SIITNIFSN
+LDYEDVGPKALVRCLVVYPWTQRYFASFGNLYNAEAISTNPKVAAHGIKVLHGLDRAVKN
+MDNIKATYAELSVLHSEKLHVDPDNFK--------------------------------L
+LSDCLTIVVAGK---LGSAFTPEVQATFQKFLA----VV----V---SALGKQYH-----
+----------------------------------
+>ENSPNYP00000003074 ENSPNYG00000001507	147	hbbe2	hemoglobin subunit	Pundamilia_nyererei	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWSENER-----------SIISNIFSN
+LDYNDVGPKALVRCLVVYPWTQRYFSSFGNLYNAEAISTNPKVAAHGIKVLHGLDRALKN
+LDNIKATYAELSVLHSEKLHVDPDNFK--------------------------------L
+LSDCLTIVIAGK---LGSAFTPEVQATFQKFLA----VV----V---SALGKQYH-----
+----------------------------------
+>ENSCHAP00000051952 ENSCHAG00000023745	147	hbbe2	hemoglobin subunit	Clupea_harengus	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWTAEER-----------AAIQDIFNS
+LDYEDVGPKALQRCLIVYPWCQRYFGGFGNLYNAEAILSNPMVAAHGIVVLHGLDRAMKN
+MDDIKQTYAELSVLHSEKLHVDPDNFK--------------------------------L
+LADCLSVVIAGK---MGTNFTPEIQAAWQKFLS----VV----V---SALGRQYH-----
+----------------------------------
+>ENSDCDP00000025827 ENSDCDG00000019297	218	hbbe2	hemoglobin subunit	Denticeps_clupeoides	1061B	1061	B
+PPFYAPWGGDLAPRIRMLNLCQVRTFQKEISEQDSFTHFTRSLRNMTSCLPGFYI--FQI
+FCHIL------------------NNGRSEVTMVQWSDEER-----------TIIQDIFSK
+MDYEDVGPRALARCLIVYPWCQRYFARFGNLYNAESIQNNPLVAAHGVVVLHGLDRAMKN
+MENIKSTYADLSVLHSEKLHVDPDNFR--------------------------------L
+LADCITIVVAAR---MGATFTPRVQAAWQKFLA----VV----V---SALTKQYH-----
+----------------------------------
+>ENSCARP00000022022 ENSCARG00000009989	147	hbbe2	hemoglobin subunit	Carassius_auratus	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVVWTDQER-----------ACIQDIFSK
+LNYEDAGPKALQRALIVYPWTQRYFASFGNLYNAEAIMSNPKVAAHGIVVLHGLDRAMKN
+MDDIKNTYAELSVLHSEKLHVDPDNFR--------------------------------L
+LADCLTIVIAAT---MGSSFTADVQAAWQKFLA----VV----V---SALRRQYH-----
+----------------------------------
+>ENSCCRP00000064804 ENSCCRG00000034890	147	hbbe2	hemoglobin subunit	Cyprinus_carpio	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVVWTDQER-----------AYIQDIFSK
+LNYEEAGPKALQRTLIVYPWTQRYFTSFGNLYNAEAIMSNSKVAAHGVVVLHGLDRAMKN
+MDDIKKTYAELSVLHSEKLHVDPDNFR--------------------------------L
+LADCLTIVIAAT---MGTSFTADVQAAWQKFLA----VV----V---SALCRQYH-----
+----------------------------------
+>ENSDARP00000066383 ENSDARG00000045143	147	hbbe2	hemoglobin beta	Danio_rerio	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVAWTAEER-----------AFIQDIFSK
+LNYEEAGPKALQRALIVYPWTQRYFGSFGNLYNAEAIINNPKVAAHGTVVLHGLDRAMKN
+MDDIKNTYAELSVLHSEKLHVDPDNFR--------------------------------L
+LADCLTIVIAST---MGAAFTADMQAAWQKFLA----VV----V---SALQRQYH-----
+----------------------------------
+>ENSSGRP00000005482 ENSSGRG00000003468	141	hbbe2	hemoglobin beta	Sinocyclocheilus_grahami	1061B	1061	B
+------------------------------------------------------------
+------------------------------MPEVWCSCYCAHHYHNLC---KFIKSFQFY
+SLFCMLYIMLYCRALVVYRWKLESCTM-----------QRPSCP-----IQRWQPIELLT
+WMIIKNTYAELSVLHSEKLHEDPDNFR-------------------------------VF
+LADCLTIVIAAT---MGTSFTADVQAAWQKFLA----VV-------VSALRRQYH-----
+----------------------------------
+>ENSCVAP00000017920 ENSCVAG00000021073	147	hbbe2	hemoglobin subunit	Cyprinodon_variegatus	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVVWSEQER-----------SIINSIFSS
+LDYNDAGPKALSRCLIVYPWTQRYFASFGNLYNAEAIKSNPNVQAHGIKVLHGLDRAVKN
+MDNIKATYAELSVLHSEKLHVDPDNFK--------------------------------L
+LADCLTIVIAAK---MGSAFTPEVQAAFQKFLA----VV----V---SALGKQYH-----
+----------------------------------
+>ENSFHEP00000015818 ENSFHEG00000017965	147	hbbe2	hemoglobin subunit	Fundulus_heteroclitus	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWSEQER-----------SIITSIFSN
+LDYNDVGPKALSRCLIVYPWTQRYFANFGNLYNAEAIKTNPNIQAHGTKVLHGLDRAVKN
+MDNIKGTYAELSVLHSEKLHVDPDNFK--------------------------------L
+LADCLTIVIAAK---MGSGFTPEIQATFQKFLA----VV----V---SALGKQYH-----
+----------------------------------
+>ENSGAFP00000010702 ENSGAFG00000007247	147	hbbe2	hemoglobin beta	Gambusia_affinis	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVAWSDQER-----------SIITSIFSN
+LDYNDVGPKALSRCLIVYPWTQRYFASFGNLYNADAIKTNPNIQSHGTKILHGLDRAVKN
+MDDIKSTYAELSVLHSEKLHVDPDNFK--------------------------------L
+LSDCLTIVIASK---MGSGFTPEIQATFQKFLA----VV----V---SALGKQYH-----
+----------------------------------
+>ENSKMAP00000010353 ENSKMAG00000007361	147	hbbe2	hemoglobin subunit	Kryptolebias_marmoratus	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWTEQER-----------SIINNIFSN
+LDYDDIGPKALARCLIVYPWTQRYFASFGNLYNADAIKTNPNIAAHGTKVLHGLDRAVKN
+LDNIKATYAELSVLHSEKLHVDPDNFK--------------------------------L
+LADCLTIVIAAK---LGNAFNPEVQATFQKFLA----VV----V---SALGRQYH-----
+----------------------------------
+>ENSPREP00000024255 ENSPREG00000016388	147	hbbe2	hemoglobin subunit	Poecilia_reticulata	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVAWSDQER-----------SIITSIFSN
+LDYNDVGPKALTRCLIVYPWTQRYFAGFGNLYNADAIRTNPNIQTHGTKILHGLDRAVKN
+MDDIKATYAELSVLHSEKLHVDPDNFK--------------------------------V
+GPAAPRTPSVR---------DPA----LRRLPA----HP----ACGTRRSGGSPHTHRAG
+SR--------------------------------
+>ENSXMAP00000038435 ENSXMAG00000029665	147	hbbe2	hemoglobin subunit	Xiphophorus_maculatus	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVAWSDQER-----------SIITSIFSN
+LDYNDVGPKALIRCLIVYPWTQRYFASFGNLYNADAIKTNPNIQAHGTKVLHGLDRAVKN
+MDDIKTTYAELSVLHSEKLHVDPDNFK--------------------------------L
+LADCLTIVIAAK---MGSGFTPEIQATFQKFLA----VV----V---SALGKQYH-----
+----------------------------------
+>ENSGMOP00000021479 ENSGMOG00000019992	74	None	None	Gadus_morhua	1061B	1061	B
+------------------------------------------------------------
+------------------------------------------------------------
+-------------CLIVYPWTQRYFGAFGNLYNAETIMANPLIAAHGTKILHGLDRALKN
+MDDIKNTYAELSLLHSDKLHVDPDNFR---------------------------------
+------------------------------------------------------------
+----------------------------------
+>ENSNMLP00000001413 ENSNMLG00000001077	184	hbbe2	hemoglobin beta	Neogobius_melanostomus	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWTDFER-----------TTISSIFAS
+LDYNDVGPKALCRCLIVYPWTQRYFASFGNLYNPEAIKTNPNVVAHGVKVLHGLDRAVKN
+MDNIKATYAELSVKHSEQLHVDPDNFR--------------------------------L
+LADCLTIVIAAK---MGSAFTCDVQAALQKFVA----VV----K---CLWEEFNGTLLPE
+VLSVSTVALYYSHVNKCMNKKLKKKCAYFRFY--
+>ENSPMGP00000012624 ENSPMGG00000009833	147	hbbe2	hemoglobin beta	Periophthalmus_magnuspinnatus	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWSDSER-----------NIITSIFSS
+LDYDDIGPKALCRCLIVYPWTQRYFGGYGNLYNATAIKSNPLIAAHGVKVLHGLDRAVKN
+MDDIKATYAELSVLHSEKLHVDPDNFR--------------------------------L
+LADCLAIVIAGK---MGPAFTSEIQAALQKFVA----VV----V---NALGRQYH-----
+----------------------------------
+>ENSEEEP00000020672 ENSEEEG00000010084	147	hbbe2	hemoglobin subunit	Electrophorus_electricus	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWTQEER-----------VIIKEIFSK
+LNYEDVGPKSLCRILVVYPWTQRYFAHFGNLYNPEMILANPKIANHGVVVFRGLEMAVQN
+MDNIKNTYADLSKLHSEKLHVDPDNFQ--------------------------------L
+LADCITIVIATK---MRSAFTPEKQATWYKFLS----VV----V---SALSKQYF-----
+----------------------------------
+>ENSMMDP00005009528 ENSMMDG00005005226	147	hbbe2	hemoglobin subunit	Myripristis_murdjan	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWTDQER-----------SLINGIFAN
+LNYEDIGPKALVRCLVVYPWTQRYFGAFGNLYNADAIRTNEQIAAHGIKILHGLDRAVKN
+MDDIKNTYATLSELHSEKLHVDPDNFR--------------------------------L
+LADCLTIVIAAK---LGKDFTPDLQAAWQKFLA----VV----V---SALGRQYH-----
+----------------------------------
+>ENSSORP00005033898 ENSSORG00005016036	147	hbbe2	hemoglobin subunit	Sphaeramia_orbicularis	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWSDQER-----------SIINSIFAS
+LDYEDIGPKALSRCLIVYPWTQRYFGGFGNLYNAEAIKTNPMIAAHGIKVLHGLDRAVKN
+MDNIKATYAELSVMHSEKLHIDPDNFK--------------------------------L
+LADCLTIVVAAK---MGTAFTADIQAAFQKFLS----VV----V---NALGRQYH-----
+----------------------------------
+>ENSLBEP00000033273 ENSLBEG00000025066	147	hbbe2	hemoglobin subunit	Labrus_bergylta	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWTDKER-----------AIITGIFSK
+LDYDDVGPKALCRCLIVYPWTQRYFGAFGNLYNAEAIKSNQKIADHGKTVLHGLDRALKN
+MDNIKETYADLSVLHSEKLHVDPDNFK--------------------------------L
+LGDCLTIVVAAK---MGSAFTAETQAAFQKFLA----VV----V---SALGRQYH-----
+----------------------------------
+>ENSPKIP00000015816 ENSPKIG00000002401	147	hbbe3	hemoglobin subunit	Paramormyrops_kingsleyae	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVAWTDAER-----------NAITSVFAK
+LNPDVVGPNALARCLIVYPWTQRYFSKFGNLYSAETILGNPMVAAHGKVVFGGLEMAVKN
+LDDIKKTFAPLSELHSEKLHVDPDNFR--------------------------------L
+LADCLTLVIAGQ---MGAAFTPEVQAAWQKFLA----VV----V---SALCRQYY-----
+----------------------------------
+>ENSSFOP00015033025 ENSSFOG00015021097	147	hbbe3	hemoglobin subunit	Scleropages_formosus	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVVWTDAER-----------AAITGIFSK
+LDYDFVGLNALARCLIVYPWTQRYFAKFGNLYNAAAIMGNPMVAAHGKVVLRGLDKALKN
+MDDIKNAYAQLSELHSEKLHVDPDNFK--------------------------------L
+LADCITIVVAGQ---MGSAFTADVQAAWQKFLA----VV----V---SALCRQYY-----
+----------------------------------
+>ENSCGOP00000013478 ENSCGOG00000006578	147	hbbe2	hemoglobin subunit	Cottoperca_gobio	1061B	1061	B
+------------------------------------------------------------
+-------------------------------VVEWTVKER-----------SIISSIFSN
+LDYEDVGPKALCRCLIVYPWTQRHFSTFGNLYDAEAIKTNANIAAHGIKVLHGLDLAVKN
+MDNIKEAYTKLSTLHSEKLHVDPDNFK--------------------------------L
+LVDCLTIVVAAK---MGSDFKPDVQATFQKFLA----AV----V---SALGKQYH-----
+----------------------------------
+>ENSCSEP00000001742 ENSCSEG00000001017	147	hbbe2	hemoglobin subunit	Cynoglossus_semilaevis	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWTEQER-----------DIINSIFSS
+LDYEDIGPKALSRCLIVYPWTQRYFGGFGNLYNANAIKSNPMIAAHGIRVLHGLDRAVKN
+MDNIKATYAELSVLHSEKLHVDPDNFK--------------------------------L
+LADCLTIVIAAK---LGSAFTPEVQATFQKFVA----VV----V---SALGSQYH-----
+----------------------------------
+>ENSSMAP00000013356 ENSSMAG00000008204	204	hbbe2	hemoglobin beta	Scophthalmus_maximus	1061B	1061	B
+----MTSGPKLC--AGTENVCSLNAREMKLKGK-SY-----R----TECFHSP--VVMAT
+PCRLAAN------LHACP-HPPPPSPP------------------------PPPP---TV
+CPPPSLSSPSPCRCLIVYPWTLRYFSSFGNLYNSEAIKNNKKIADHGIKVLHGLDRAVKN
+MDNIKATYAELSILHSDTLHVDPDNFR--------------------------------L
+LADCLTIVIAAK---MGSAFTPEKQATWQKFLA----VV----V---SALGRQIGRHNYY
+PV--------------------------------
+>ENSHHUP00000019332 ENSHHUG00000012092	92	None	None	Hucho_hucho	1061B	1061	B
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------MNNPLIAKHGTTVLHGLDRALKN
+MDDIKNTYAELSVLHSEKLHVDPDNFK--------------------------------L
+LSDCLTIVIAGK---MGNAFTPEYQASFQKFLS----VV----V---SALGRQYH-----
+----------------------------------
+>ENSOTSP00005099500 ENSOTSG00005045896	147	hbbe2	hemoglobin beta	Oncorhynchus_tshawytscha	1061B	1061	B
+------------------------------------------------------------
+----------------------------MVE---WTDEER-----------AAISNIFSK
+LDYDEIGQKSLSRCLIVYPWTQRYFGGFGNLYNAEAIMNNPLIAKHGTTVLHGLDRALKN
+MDDIKNTYAELSVLHSEKLHVDPDNFK--------------------------------L
+LSDCLTIVIAGK---MGNAFTPEYQASFQKFLS----VV----V---SALGRQYH-----
+----------------------------------
+>ENSSTUP00000090498 ENSSTUG00000039726	147	hbbe2	hemoglobin subunit	Salmo_trutta	1061B	1061	B
+------------------------------------------------------------
+----------------------------MVE---WTDEER-----------AAISNIFSK
+LDYDEIGQKSLSRCLIVYPWTQRYFGGFGNLYNAEAIMNNPLIAKHGTTVLRGLDRALKN
+MDDIKNTYAELSVLHSEKLHVDPDNFK--------------------------------L
+LSDCLTIVIAGK---MGNAFTPEYQASFQKFLS----VV----V---SALGRQYH-----
+----------------------------------
+>ENSSAUP00010026336 ENSSAUG00010011429	158	hbbe2	hemoglobin subunit	Sparus_aurata	1061B	1061	B
+------------------------------------------------------------
+-----------------MR----TSAPRLCA---GTTPSRHTHS------RFKVVRV-EN
+PSRSDPLSPSSSRCLIVYPWTQRYFGAFGNLYNAEAIMSNPNIAAHGITVLHGLDRAVKN
+MDNIKATYAELSVLHSEKLHVDPDNFK--------------------------------L
+LSDCLTIVIAAK---LGKDFTPETQATFQKFLA----VV----V---SALGRQYH-----
+----------------------------------
+>ENSMAMP00000007024 ENSMAMG00000004796	147	hbbe2	hemoglobin subunit	Mastacembelus_armatus	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVVWTEQER-----------SIITGIFSN
+LDYEDVGPKALIRCLIVYPWTQRYFSSFGNLYNADAIKTNPNVAAHGIRVLHGMDRAVKN
+MDNIKATYAELSVLHSEKLHVDPDNFR--------------------------------V
+KFHQLALCHLLKNHFVGGIYCTTITER-----------------AATDTKCTQLTTVN--
+----------------------------------
+>ENSMALP00000026956 ENSMALG00000018700	147	hbbe2	hemoglobin subunit	Monopterus_albus	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWTDQER-----------SIITGIFSN
+LDYEDVGPKALTRCLIVYPWTQRYFSSFGNLYNADAIKSNPNIAAHGVKVVHGLDRAVKN
+MDNITAAYTDLSVLHSEKLHVDPDNFR--------------------------------L
+LADCLTVVIAAK---MGNAFTPEKQAAFQKFLS----GV----V---AALGKQYH-----
+----------------------------------
+>ENSHCOP00000011572 ENSHCOG00000014991	147	hbbe2	hemoglobin subunit	Hippocampus_comes	1061B	1061	B
+------------------------------------------------------------
+----------------------------MVV---WTDQER-----------TAIGNIMGG
+LIYEDDGPKALTRCLIVYPWTQRYFGAFGNLYNAEAIKNNPRIAEHGTKILHGLDRALKN
+MDNIKETYAELSVLHSEKLHVDPDNFK--------------------------------L
+LADCLTIVIAAK---MGTSFNPEIQAAWQKFLS----VV----V---SALGRQYH-----
+----------------------------------
+>ENSMMOP00000003805 ENSMMOG00000003045	165	hbbe2	hemoglobin beta	Mola_mola	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWTDQER-----------SILNAIFSS
+LDYEDVGPKALSRCLIVYPWTQRYFAGFGNLYNPEAIKPNPNIANHGIKVLHGLDRA---
+--------AELSVLHSEKLHVDPDNFK--------------------------------L
+LSDCLTIVIATK---MGNAFTGVIQAASRSSWPGWCRLWEDSTTKSSSVLPRTFHGARTS
+VEK-----------------RL----RSFEIMAH
+>ENSTRUP00000068448 ENSTRUG00000028550	147	HBB	hemoglobin subunit	Takifugu_rubripes	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVEWTDQER-----------TIISNIFST
+LDYEDVGSKSLIRCLIVYPWTQRYFAGFGNLYNAEAIKNNPNIAKHGVTVLHGLDRAVKN
+MDNIKETYKELSELHSEKLHVDPDNFK--------------------------------L
+LSDCLTIVVATK---MGSKFTPEIQATFQKFLA----VV----V---SALGRQYH-----
+----------------------------------
+>ENSTNIP00000015892 ENSTNIG00000012913	143	hbbe2	hemoglobin beta	Tetraodon_nigroviridis	1061B	1061	B
+------------------------------------------------------------
+-------------------------------MVVWTDQER-----------AIIDNIFSN
+LDYEDVGSKALIRCLIVYPWTQRYFSSFGNLYNAEAIRNNPNVAKHGVTVLHGLDRALKN
+MDNIKEEYKK----HSEKLHVDPDNFK--------------------------------L
+LSDCLTVVIAGK---LGSKFTPEYQAALQKFLA----VV----V---SALGRQYH-----
+----------------------------------

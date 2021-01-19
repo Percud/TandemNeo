@@ -1,0 +1,2180 @@
+>ENSATEP00000018101 ENSATEG00000012587	236	tnfa	tumor necrosis	Anabas_testudineus	138A	138	A
+------------------------------------------------------------
+-------------------------------------------------MA---G---EC
+KVQL---DTTVDP-ET----------SKNTTQGVR--LSSKLTTALLVFT----------
+---------------------LCL----AAAA---A--A-------LVFNSEVK-----G
+PGQEE--------D-----------------------------NLDMHHTLRQIS----N
+V-RAAIHLE-GVYSD----SKQSLQWRNQVDQSHSQGGLKLD--NNEIVIPHNGLYFVYS
+QASFRVSCSSD----D-----DDESSPMVHLSHTVKRWSSS--YGTDT-P-RSYYTILHS
+VRTACQKTE--RSDSDQQGNWFSAIYMGAVFNLKAGDRLKTD----TNMLPNL-EDEQGK
+TFFGVFAL-------
+>ENSBSLP00000036568 ENSBSLG00000017875	241	tnfb	tumor necrosis	Betta_splendens	138A	138	A
+------------------------------------------------------------
+------------------------------------------------MVVYTTALG-DL
+EVGE-----QQ-------KTVV--FLEKKS--S--PRWLWKASGLFLLVA----------
+---------------------LCL----GGVL---CFTL-------YWSGRPE--MTKES
+G-QKVELTENDAAK-----------------------------KT-EFGNLRQVG----S
+KAKAAIHLE-GYDDD------DSLEWRSAQGQGFSQGGFRME--NNKIVIPDSGLYFVYS
+QASFRVTCREDDGP----------NSPLTPLSHKVWRYSDS--IGS-------DSSLMSA
+IRSVCQGGAP-----EEGRGRYSAIYLGAVFKLNKGDQLWTET----NHIPQL-ETEEGK
+TFFGVFKL-------
+>ENSSFAP00005012118 ENSSFAG00005006731	236	tnfb	tumor necrosis factor b (TNF superfamily, member	Salarias_fasciatus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------MVEYASAPG-GV
+EAPG--------------------GVEKTW--T--SGWMWKVSGSLLLLL----------
+---------------------ALG----SGAV---LFTW-------FFSGRVE--NTNPS
+G-QTRAQSGSDRTG-----------------------------ESDLQETLSRIS----S
+GAKAAVHLE-GESENL--GNQLRLRWRADQGQAFDQGGFRLW--NGSVVVPRSGLYFVYS
+QASFRVACGAGPA--------------PVPLSHGVWRHSDS--QGG-------GAPLMSA
+VRSACRGPAP-----ADGRGWYDAVYLGGVFQLRRGDRLWTET----NRPALL-ETDDGR
+TFFGAFAL-------
+>ENSENLP00000028486 ENSENLG00000012724	249	tnfa	tumor necrosis factor a (TNF superfamily, member	Echeneis_naucrates	138A	138	A
+------------------------------------------------------------
+-------------------------------------------------ME---G---EC
+KVQM---DVTVNR-EA----------KKPATQSVK--PSSRLTTALLAFT----------
+---------------------LCL----AATA---AA-I-------LTFKTNFK---TLW
+GC--WG-LNCYLLF-----------------------------FPALHHSLRQTSSL--R
+IRRAAIHLE-GKYNK---AMNTSVEWKNNVDQSHSQ-DLRLE--NNEILIPESGIYFVYS
+QASFQVNCASS--DID-----GAASSPLVHVSHTVKRKSKS--YGSDT----EERTILHS
+VRTTCQKTV--GDYRSNQENWYTAVYMGAVFNLKKGDRLKTVM--EKKMLLNL-EDDSGK
+TFFGVFAL-------
+>ENSAMXP00000011932 ENSAMXG00000011611	234	tnfa	tumor necrosis	Astyanax_mexicanus	138A	138	A
+------------------------------------------------------------
+-------------------------------------------------MT---S---QN
+QVIL---DVDPAQ------VIV--SRTK-A--STAWSSRWKLCMALLAIA----------
+---------------------VCA----AGAV------F-------FTFNKTNN------
+-KPD---------S-----------------------------TDDIRHTLRQV----SN
+SATGAIHLS-GHYNPN--VSNTSVEWTDSEDQSFSSGGLVLK--NNEIHIPHNGLYFVYS
+QASYRVNCNLK---TG-----ESEDESAVHLSHMVSRWSNS--YPK-------YQPLLST
+VRTACRKI---HSSEDSGEQWFSAVYVGAIFKLEAGDRLCTDM--DSKMLPEV-ETESGK
+TFFGVFSL-------
+>ENSACLP00000022048 ENSACLG00000014967	237	tnfa	tumor necrosis	Astatotilapia_calliptera	138A	138	A
+------------------------------------------------------------
+-------------------------------------------------ME---G---EC
+MVAL---DTMIDK-DT----------EKQATQE--IKPRSKLTMALLAFT----------
+---------------------LCL----AATA---AA-A-------LVVNRRAE-----A
+PGQNE--------D-----------------------------NFDLHHTLRQIS----N
+V-RAAIHLQ-GVHNY---SRKTSVEWQKDVDQSHSQGGLELD--KNEIVIPRDGLYFVYS
+QASFRVDCSSD---AD-----DTSSHPMVHLSHTVKRWSRS--YA------PKYVTILHS
+IRTVCQKTT--SGDSDEDGNWYTAVYMGAVFNLYAHDRLRTQT--EEAMLEKL-EDEPGK
+NFFGVFAL-------
+>ENSHBUP00000007123 ENSHBUG00000008608	237	None	tumor necrosis	Haplochromis_burtoni	138A	138	A
+------------------------------------------------------------
+-------------------------------------------------ME---G---EC
+MVTL---DTMIDK-DT----------EKQATQE--IKPRSKLTMALLAFT----------
+---------------------LCL----AATA---AA-A-------LVVNRRAE-----A
+PGQNE--------D-----------------------------NFDLHHTLRQIS----N
+V-RAAIHLQ-GVHNY---SRKTSVEWQKDVDQSHSQGGLELD--KNEIVIPRDGLYFVYS
+QASFRVDCSSD---AD-----DTSSHPMVHLSHTVKRWSRS--YA------PKYVTILHS
+IRTVCQKTT--SGDSDEDGNWYTAVYMGAVFNLYAHDRLRTQT--EEAMLEKL-EDEPGK
+NFFGVFAL-------
+>ENSMZEP00005024018 ENSMZEG00005017973	237	tnfa	tumor necrosis	Maylandia_zebra	138A	138	A
+------------------------------------------------------------
+-------------------------------------------------ME---G---EC
+MVAL---DTMIDK-DT----------EKQATQE--IKPRSKLTMALLAFT----------
+---------------------LCL----AATA---AA-A-------LVVNRRAE-----A
+PGQNE--------D-----------------------------NFDLHHTLRQIS----N
+V-RAAIHLQ-GVHNY---SRKTSVEWQKDVDQSHSQGGLELD--KNEIVIPRDGLYFVYS
+QASFRVDCSSD---AD-----DTSSHPMVHLSHTVKRWSRS--YA------PKYVTILHS
+IRTVCQKTT--SGDSDEDGNWYTAVYMGAVFNLYAHDRLRTQT--EEAMLEKL-EDEPGK
+NFFGVFAL-------
+>ENSNBRP00000026256 ENSNBRG00000020078	237	None	tumor necrosis	Neolamprologus_brichardi	138A	138	A
+------------------------------------------------------------
+-------------------------------------------------ME---G---EC
+MVVL---DTMIDK-DT----------EKQATQE--IKPRSKLTMALLAFT----------
+---------------------LCL----AATA---VA-A-------LVVNRRAE-----A
+PGQNE--------D-----------------------------NFDLHHTLRQIS----N
+V-RAAIHLQ-GAHNS---SRKTSVEWQKDVDQSHSQGGLELD--QNEIVIPRDGLYFVYS
+QASFRVDCSSD---AD-----DTSSHPMVHLSHTVQRWSRS--YA------PKYVTILHS
+IRTVCQKTT--SRDSDEDGNWYSAVYMGAVFNLYAHDRLRTQT--EEAMLEKL-EDEPGK
+NFFGVFAL-------
+>ENSONIP00000039255 ENSONIG00000034668	239	tnfa	tumor necrosis	Oreochromis_niloticus	138A	138	A
+------------------------------------------------------------
+-------------------------------------------------ME---G---EC
+MVVL---DTTINK-DT----------EKQATQRTQREPRSKLTMVLLAFT----------
+---------------------LCL----AATA---AA-A-------LVVNRRAE-----A
+PGQNE--------D-----------------------------NFDLHHTLRQIS----N
+V-RAAIHLQ-GVHNY---SRKTSVEWQKDVDQSHSQGGLELN--NNEIVIPRDGLYFVYS
+QASFRVDCSSD---AD-----DMSSHPMVHLSHTVQRWSHS--YA------PKYVTILHS
+IRTVCQKTT--SSDSDEDGNWYSAVYMGAVFNLYAGDRLRTKT--EEAMLEKL-EDEPGK
+NFFGVFAL-------
+>ENSPNYP00000015266 ENSPNYG00000011568	229	None	tumor necrosis	Pundamilia_nyererei	138A	138	A
+------------------------------------------------------------
+-------------------------------------------------ME---G---EC
+MVAL---DTMIDK-DT----------EKQATQE--IKPRSKLTMALLAFT----------
+---------------------LCL----AATA---AA-A-------LVVNRRAE------
+--------------------------------------------VDLHHTLRQIS----N
+V-RAAIHLQ-GVHNY---SRKTSVEWQKDVDQSHSQGGLELD--KNEIVIPRDGLYFVYS
+QASFRVDCSSD---AD-----DTSSHPMVHLSHTVKRWSRS--YA------PEYVTILHS
+IRTVCQKTT--SGDSDKDGNWYTAVYMGAVFNLYAHDRLRTQT--EEAMLEKL-EDEPGK
+NFFGVFAL-------
+>ENSDCDP00000044913 ENSDCDG00000028429	240	tnfb	tumor necrosis	Denticeps_clupeoides	138A	138	A
+------------------------------------------------------------
+------------------------------------------------MVEYKMTPL-DV
+ETGL-----RQ-----ATQVAV--LREKRS--C---SWVWKVVVMVLLAA----------
+---------------------VCS-------L---FLAW-------YMQQRQEG----EH
+G-QNQRWKEELEDLT----------------------------HREHKQSLKQIA----G
+KANAAMHLE-GHKEG------ESLEWKSGINNAFYQGGLSLK--ENKIIIPETGIYFIYS
+QASFAVRCSKAAVQ------------ENPTLVHTIRRFSNM--IGE-------PTTLLSG
+DRSACLALS--ESKVDDGQRSYSGIYLGAVFQLQQGDELWTES----IGLESL-EDDHGK
+TFFGVFAL-------
+>ENSCARP00000080487 ENSCARG00000038434	228	tnfa	tumor necrosis	Carassius_auratus	138A	138	A
+------------------------------------------------------------
+-----------------------------------------------MMID---V---ES
+Q------LAEEGA-----QVTV--SRRR--------SGVWRVCGVLLAVA----------
+---------------------LCA----AAAV------C-------FTFNKSQN------
+-NQE---------S-----------------------------GNELRLTLRDHLSKENV
+TSKAAIHLT-GAYDPD--VCTDNLDWKQNQDQAFVSGGLKLV--DREIIIPYDGIYFVYS
+QVSFHISCKAD---V-------TEEHEGVHMSHAVLRFSES--YAS-------YKPLFSA
+IRSACVHA------TDTEDLWYNTIYLGAAFNLRAGDKLRTDT--TTELLPRV-ESENGK
+TFFGVFAL-------
+>ENSCCRP00000005974 ENSCCRG00000003544	227	tnfa	tumor necrosis	Cyprinus_carpio	138A	138	A
+------------------------------------------------------------
+-----------------------------------------------MMMD---L-----
+-----------ESLPL-PQEMV--SRRNAS---SSKSGVWRVCGVLLAVA----------
+---------------------LCA----ATAV------C-------FTLNR--N------
+-NQE---------G-----------------------------GNEQRLTLRDNLSKENV
+TSKVAIHLS-GAYDPN--VSKNNLDWKLNQDGAFVSGGLKLV--DREIIIPNDGIYFIYS
+QVSFHISCKND---M-------TEDQEVMHVSHAVLHYSDF--FGS-------YKPLFSA
+VRSACVR-------SNTEDLWYDTIYLGAAFSLRAGDRLRTET--TTELLPHV-ETDNGK
+TFFGVFAL-------
+>ENSSGRP00000023793 ENSSGRG00000014041	239	tnfa	tumor necrosis	Sinocyclocheilus_grahami	138A	138	A
+------------------------------------------------------------
+-----------------------------------------------VMMD---L---ES
+Q------FLEEGL-LL-PQVMV--SRRKASGGGSSTSGVWRVCGVLLAVA----------
+---------------------LCA----AAAV------C-------FTLNKSQN------
+-NQE---------G-----------------------------GNELRLTLRDHLSKENV
+TSKAAIHLT-GAYEPK--VSTDSLDWKKNQDQAFATGGLDLV--EGEIIIPTDGIYFVYS
+QVSFHVSCKTD---M-------PEDHDVVHMGHAVERYSDS--YVD-------YKALFSA
+IRSACVHA------SDTDDLWYNTIYLGAAFSLQAGDKLRTKT--TKALLPLV-ESDNGK
+TFFGAFAL-------
+>ENSCVAP00000002765 ENSCVAG00000003902	227	tnfa	tumor necrosis	Cyprinodon_variegatus	138A	138	A
+------------------------------------------------------------
+-------------------------------------------------ME---R---ES
+KVLL---EVDASM-EA----------D--DPTTAKKFQKSRLSMALIALS----------
+---------------------LCL----ASGA---AV-F-------LFSSAP--------
+-------------V-----------------------------TVNLRHKLRQIS----S
+T-RAAIHLE-GEYNE---SMKTSVMWKNKVDQGHSQGGLKLQ--NNEILIPHSGLYFVYS
+QASFLMSCSQD--ADD--------TNPLVHVSHTVQRWTKS--MGSA------YQTIMHS
+VRSVCQTTA--NNDSDRIGSWRSAIYMGAVFNLNKGDKLKTVM--EERMLEAL-EDGHGD
+TFFGVFAL-------
+>ENSFHEP00000016409 ENSFHEG00000018111	234	tnfa	tumor necrosis	Fundulus_heteroclitus	138A	138	A
+------------------------------------------------------------
+-------------------------------------------------ME---C---ES
+EVIL---DVNARA-LA----------GEQTSPRAKQFLMSRLTMALIAFT----------
+---------------------LFL----ATGV---AV-F-------LFSNAP--------
+-------------V-----------------------------KVNLRHTLRQIS----N
+S-RAAIHLE-GKIKQQ--CVLTSVKWMNDVDQSHSQGGLELQ--NNEILIPRDGLYFVYS
+QASFRVSCSSR--DAD-----NITSKRMVHLSHTVKRCSSS--FGNN-----NDKTILHS
+IRTACQNTA--SRDPDSVGSWFSAVYMGAVFHLKRGDRLKTVM--EEKMLEKL-EDEAGK
+TFFGVFAL-------
+>ENSKMAP00000004258 ENSKMAG00000003220	241	tnfa	tumor necrosis factor a (TNF superfamily, member	Kryptolebias_marmoratus	138A	138	A
+------------------------------------------------------------
+-------------------------------------------------MT---G---EC
+MIAM---NATPDT-EA----------AKQTPQSATGFHSSRLTMALMAFT----------
+---------------------LCL----AVAA---SAAL-------LVFNKCLD---HL-
+-------------I-----------------------------PTNLRHTLRQIS----N
+V-RAAIHLE-GQYNA---DMNTSVKWTSNIDQSHSQGGLELD--NNEIVIPRDGLYFVYS
+QASFRVRCSSN---AD-----DSSSNSMIHLSHTVKRWTSL--FGSDK-DDESYQTILHS
+VRTACQKTA--GSDSGSKESWFSVVYMGAVFNLKSGDRLKTEM--EEQMLKKV-EDEPGK
+TYFGVFAL-------
+>ENSELUP00000018663 ENSELUG00000000735	241	tnfa	tumor necrosis	Esox_lucius	138A	138	A
+------------------------------------------------------------
+---------------------------------------------------METH---NS
+SVML---DMDSGLVYRPTTVTL--EREK-----STRTNKWTLVGAVLAMS----------
+---------------------LCV----AAAL------F-------FTFCAKNQ------
+DHIE---------E-----------------------------TNEIQHTLRQL----SG
+SGKDAIHLE-GDYNAH-GTYNTSVEWYDGVDQAFQQGDIKLE--NNGIVIPRNGLYFVYS
+QVSFRVSCQHK---AR-------SESELIHISHRVSRLTSA--IGDQY--NMDWRPLLHS
+LRTVCRTSA------GSEGKWYSAVYMGAVFSLEKDDRLQTFT--DNRILPQL-ESGPGK
+NVFGVFAL-------
+>ENSPMGP00000008944 ENSPMGG00000007401	230	None	None	Periophthalmus_magnuspinnatus	138A	138	A
+------------------------------------------------------------
+--------------------------------------------------M---E---KC
+SVLM---EEMEQKEE-------------------KFKLCTKANLGLLACT----------
+---------------------LLL----AGCA---AA-V-------LLMRTGTQ---VRS
+-------------R-----------------------------HRTLRLSLRQT-----N
+V-RAAIHLD-GKYTE----SSASVEWKLNVDQSYYGGGLALE--NNEIVVPHSGPYFVYS
+QASYRVNCKSEEEE-D-----EDEPASLVHLSHTVERLSDS--YGAKDSVEHDYRPILHA
+VRTACQKHP-------KQGHWFSGIYVGAMFNLMTGDRLRVNLTNDPEILAQL-EDGHGD
+TFFGVFAL-------
+>ENSEEEP00000017739 ENSEEEG00000008761	241	tnfa	tumor necrosis	Electrophorus_electricus	138A	138	A
+------------------------------------------------------------
+-------------------------------------------------MA---S---DK
+EVIL---EVQGAVLSP-AQATV--RREKHA--SPACSVSWNLCGVLLAVS----------
+---------------------LCF----AASL------C-------FALNTTHR------
+-NAE---------E-----------------------------AYDIRHTLREI----SG
+NAKTAIHLS-GDYNSE--VSNTSVEWRDNEDHSFAEGGLQLK--DNQIHIPRNGLYFVYS
+QATYHVSCTTD---PD-----HPYDHDVVHLSHEVSCWSGS--YDS-------WKPLLST
+VRSVCERAPA-Q-SDDSGESWFTAVYLGAVFRLQAGDRLCTRM--DTERLPEI-EGENGK
+TFFGAFSL-------
+>ENSPKIP00000030180 ENSPKIG00000011137	235	tnfa	tumor necrosis	Paramormyrops_kingsleyae	138A	138	A
+------------------------------------------------------------
+-------------------------------------------------ME---S---NC
+TVAL---DMEPGAQET-PQVVL--LQKK--------RGHWRLGGLAAIVA----------
+---------------------LCV----ASAV------L-------FTMHGQVS------
+HEGE---------Q-----------------------------DEDLRHTLRQI----SL
+KAKAAIHLE-GEFNSK--FSNDSAEWHSDVGQAFTQGGLKLE--NNEITVSQGGLYFVYS
+QASFRINCHKA---SR-----DS-SEQFLHLSHMVMRWSDS--YGG------VWKPLLSS
+VRSACKKV---ETGHDTGEHWFNSIYLGAVFSLNRGDKLNTMS--NEKLLANL-EGEDGK
+TFFGVFAL-------
+>ENSGACP00000000611 ENSGACG00000000478	238	tnfa	tumor necrosis factor a (TNF superfamily, member	Gasterosteus_aculeatus	138A	138	A
+------------------------------------------------------------
+-------------------------------------------------ME---S---EC
+KVLL---DATVHS-VR----------RE----TIRVNPSSKQTTSLLVFI----------
+---------------------LCL----AAAA---SV-V-------LVFHRHAK---KQG
+HGQDE--------D-----------------------------SFGLRHTLRQIA----N
+V-RAAIHLV-GHYNS---AVNSSAEWKDKVDQSHYQGGLELK--NNQIVIPQNGLYFVYS
+QASFRVNCSSS--DAD-----DASLQPIVHVSHTVKRRSKS--LGN------KDLTILHS
+IRSVCQMKA--SSNPDEEGNWFSSVYMGAVFNLMKGDRLRTVM--GEKMLQGL-EDETGK
+TFFGVFAL-------
+>ENSHHUP00000056746 ENSHHUG00000033857	243	None	None	Hucho_hucho	138A	138	A
+------------------------------------------------------------
+---------------------------------------------------MEGD---CS
+RVMV---DVESGPVYPSPTATL--VRKK-----ST--HRWRLCGALLVMA----------
+---------------------LCV----SAAL------F-------ITWHAKKP------
+DHAE---------E-----------------------------VDELQHTLRQL----SG
+NRKAAIHLE-GYYNSS-GKYKTAVEWTDDEGQGFSQGGLKLN--NNEIVIPQLGLFFVYS
+QVSFHVSCKAD---HK-----HSNNQDMVHLSNTVKRWSPS--YGNDD--SKEYQMLLNS
+VHTVCKKSS--NSEAASEGKWYNAVYMGAVFSLEKGDRLRT----ETRLLPHL-ENGPGK
+NFFGVFAL-------
+>ENSOTSP00005082325 ENSOTSG00005038766	242	tnfa	tumor necrosis	Oncorhynchus_tshawytscha	138A	138	A
+------------------------------------------------------------
+---------------------------------------------------MEGD---FS
+RVMV---DLENGPVSP--TVTL--VREK-----ST--RRWRLCGALLAMA----------
+---------------------LCV----SAAL------F-------FTWHSKDQ------
+DHFE---------K-----------------------------ADEIQHTLRQL----SG
+NRKAAIHLE-GEYNTY-GDYKSSVEWTDDEGQGFSQGGLKLN--NNEIVIPQMGLYFIYS
+QVSFHVSCKAD---PK-----HPN-QDMVHLSNTVTRWSPS--YGTED--NKEYQTLLNS
+VRTVCKKSS--NSETASEGKWYNAVYMGAVFSLEKGDRLRTVT--ENRLLPHL-ESGAGK
+NFFGVFAL-------
+>ENSSTUP00000036634 ENSSTUG00000015618	244	tnfa	tumor necrosis	Salmo_trutta	138A	138	A
+------------------------------------------------------------
+---------------------------------------------------MEGD---CS
+RVMV---DMESGPVYPATTVTL--VREK-----SS--HRWRLCGALLAIA----------
+---------------------LCV----SAAL------F-------ITRHGKKQ------
+DHVE---------E-----------------------------VDELQHTLRQL----SG
+NIKAAIHLE-GEYNSS-GKYKTAVEWTDDEGQGFSQGGLKLN--NNEIVIPQTGLYFVYS
+QVSFHVSCKVN---PK-----HPNNQEMVHLSNTVKRWSPS--YGSAD--SKEYQTLLNS
+VRTVCKKSS--NSE-ASEGKWYNAVYMGAVFNLEKGDQLRTVT--ENRLLPHL-ENGAGK
+NFFGVFAL-------
+>ENSLOCP00000000705 ENSLOCG00000000637	161	None	None	Lepisosteus_oculatus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------LSAAVQTLKQMG---QL
+PQNPAA-HL-MXDGQ----PGTPLRWLSDMDQAFLQQGMELSADGRELLVPRAGLYFLYA
+QATFSSSSSSPGAG-------GPCGGRPEPLSLQVERHSPS--YPD-------FVPLLSA
+ARSPCPPG-------GPGRFWTVPLYQAALFKLLGGDRLRVT-----AGPLGL-LDDQKT
+FL-------------
+>ENSIPUP00000001364 ENSIPUG00000000977	244	tnfb	tumor necrosis	Ictalurus_punctatus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------MQNYKV----DT
+EAAM-------GDVYQPT---V--EAVKPS--R--SS-MWMIVGGVVFLS----------
+---------------------LCV----VASL---CFAW-------HFTNKNQGELSMK-
+-----LQ-STTSTD-----------------------------PSGQQDSLTQIA----K
+STKAAIHLH-VSDRH---HEKGSPRWASGMDLSFTKGGLKLE--NNSILIPHDGLYFVYS
+QASFSIFCKSSEED---------NDSSTTHLSYSVLWSSLTSPSKK-------KRYLLSG
+FKSVCQTKTE---EQTTGHRIYDSIYLGAVFQLYKGDKLSTNT----NHFTDI-IEHSSK
+TFFGVFEL-------
+>ENSSAUP00010014434 ENSSAUG00010006750	246	tnfa	tumor necrosis	Sparus_aurata	138A	138	A
+------------------------------------------------------------
+-------------------------------------------------ME---G---EC
+KVLL---DATVDT-EA----------RKGTTQSVK--AGPKLMTILLTFT----------
+---------------------LCL----AAAA---TVAV-------SVFNRQAK-----G
+PGQDE--------D-----------------------------NFDLHHTLRQISNT--N
+V-RAAIHLQ-GEYNP---DMKTSVQWKEQVDQSHAQGGLRLD--NNEIVIPASGLYFIYS
+QASFRVSCSSS--DAD-----DTTSKPLVHLSHTVQRWSRK--YGDDE-ANKTYVPILHS
+VRTACQKTV--SSSPDDEGSWFSAVYMGAVFSLTSGDRLQTVM--EEKMLPML-EDEPGK
+TFFGVFAL-------
+>ENSMAMP00000030064 ENSMAMG00000020275	242	tnfa	tumor necrosis	Mastacembelus_armatus	138A	138	A
+------------------------------------------------------------
+-------------------------------------------------ME---V---EC
+KVLM---DTMVNT-QA----------KKPTTQSVT--STSKRTMAQLVVT----------
+---------------------LCL----VAAA---AAAF-------LIFKRHTK-----G
+PGQDE--------G-----------------------------NFDPHHTLREIS----N
+V-RAAIHLE-GEHNP---RRTTSVEWKNQVDQSHFQGGLLLD--NNEIVIPQNGLYFVYS
+QASFRVNCS----DAH-----DATSKPMVHLSHTVKRWSSS--YGNDD-NKKSYQTILHS
+VRTVCQKTD--SRNPDEEGSWFSAVYMGAVFNLRKGDRLKTVM--EEKMLSDL-EDEPGK
+TFFGVFAL-------
+>ENSMALP00000028288 ENSMALG00000019577	250	tnfa	tumor necrosis	Monopterus_albus	138A	138	A
+------------------------------------------------------------
+-------------------------------------------------ME---G---EC
+KVLL---DATVNT-EV----------KKQTMQSVK--LISKQTTALLAFT----------
+---------------------LCL----AAAA------V-------LVFNRHGE-----V
+GTQVNF-INLCLLF-----------------------------FSDIHHTLRQIS----N
+V-RAAIHLE-GEYNP---AIKTSVEWKDQVDQSHFQGGLVLS--NNEIVIPQNGLYFVYS
+QVSFRVRCSISNDDDD-----DTTSKPIVHLSHTVMRWSSS--YCTDN-TTNCYQTILHS
+IHTACQKTA--SSDPDDEGHWFSAVYMGAVFNLKKGDTLKTEM--EEKMLLDL-EDEPGK
+TFFGVFAL-------
+>ENSHCOP00000026817 ENSHCOG00000000590	241	tnfa	tumor necrosis	Hippocampus_comes	138A	138	A
+------------------------------------------------------------
+-------------------------------------------------ME---G---DC
+QVSL---FDAVDA-ES----------SKSARTGMK--HGSKITAALLGFT----------
+---------------------LLL----AIGA---AA-F-------LVFNGHAK---VRN
+DN-------VVPKL-----------------------------EAYIHHTLRQIS----N
+V-RAAIHLT-GRYNS---EIANSVQWTNEVAPSHSQGSLELK--NNEIVIPQDGLYFVYS
+QVSFRVSCHGN--DND-----DASTTSMIHLTHRVRRWSNS--FGDD-----KYRTILHS
+VRTACQKTA--SGDAEEEGGWYSAVYMGAVFNLNKGDRLKTVT---EKMLPNL-EEEAGK
+TFFGVFAL-------
+>ENSBBBP00000010070 ENSBBBG00000018226	204	LTA	lymphotoxin	Bison_bison_bison	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLLRVCSTPPLL-----------
+-----------------------L----LGLL---L-ALPLEAQ-------GL----RGI
+GLTPS-------AA-----------------------------QPAHQQLPTPFT---RG
+TLKPAAHLV-GDPST-----QDSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGRGCFPRA-----------TPTPLYLAHEVQLFSPQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTRGDQLSTHT----DGISHL-LLSPSS
+VFFGAFAL-------
+>ENSBTAP00000000018 ENSBTAG00000000016	204	LTA	lymphotoxin	Bos_taurus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLLRVCSTPPLL-----------
+-----------------------L----LGLL---L-ALPLEAQ-------GL----RGI
+GLTPS-------AA-----------------------------QPAHQQLPTPFT---RG
+TLKPAAHLV-GDPST-----QDSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGRGCFPRA-----------TPTPLYLAHEVQLFSPQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTRGDQLSTHT----DGISHL-LLSPSS
+VFFGAFAL-------
+>ENSCDRP00005029457 ENSCDRG00005020186	200	LTA	lymphotoxin	Camelus_dromedarius	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPLGRLYLLRVCSTPLLLL----------
+-----------------------L----LGLL---L-ALPPEAQ-------GL----P--
+---PS-------AA-----------------------------RTTHQQPPKHFA---QG
+TLKPAAHLV-GDPST-----QDLLRWKANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGEGCFPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTRGDQLSTHT----DGISHL-LLSPSS
+VFFGAFAL-------
+>ENSCHIP00000013398 ENSCHIG00000014844	205	LTA	lymphotoxin	Capra_hircus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLCLLRVCSTPSLLL----------
+-----------------------L----LGLL---L-ALPLEAQ-------GL----RGV
+GLTPS-------AA-----------------------------EPAHQQLPKPFT---RG
+TLKPAAHLV-GDPST-----QDSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGKGCFPRA-----------TPTPLYLAHEVQLFSPQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTRGDQLSTHT----DGISHL-LLSPSS
+VFFGAFAL-------
+>ENSCWAP00000007098 ENSCWAG00000005511	204	LTA	lymphotoxin	Catagonus_wagneri	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLLRVHSTPIL-L----------
+-----------------------L----LGLL---L-ALPPEAP-------GL----PGV
+GLPPS-------AA-----------------------------QPAHQHPSKHLA---RG
+ALKPAAHLV-GDPSA-----PDSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGEGCFPKA-----------TPNPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLAQGDQLSTHT----DGTAHL-LLSPSS
+VFFGAFAL-------
+>ENSDLEP00000027024 ENSDLEG00000019505	205	LTA	lymphotoxin	Delphinapterus_leucas	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLLRVCSTPLLLL----------
+-----------------------L----LGLL---L-ALPPEAQ-------GL----SGV
+GLPPS-------TA-----------------------------QPAHQHPPNHFT---RG
+TFKPAAHLV-GDPST-----QDSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGEGCFPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTRGDQLSTHT----DGISHL-LLSPSS
+VFFGAFAL-------
+>ENSMMSP00000023602 ENSMMSG00000017755	205	LTA	lymphotoxin	Moschus_moschiferus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRRYLLRVCSTPPLLL----------
+-----------------------L----LGLL---L-ALPPEAQ-------GL----RGA
+GLTPS-------AA-----------------------------QPAHQHPLKPFT---RG
+ILKPAAHLV-GDPST-----QDSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGKGCFPTA-----------TPTPLYLAHEVQLFSPQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTRGDQLSTHT----DGISHL-LLSPSS
+VFFGAFAL-------
+>ENSOARP00000009101 ENSOARG00000008484	205	LTA	lymphotoxin	Ovis_aries	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLCLLRVCSTPSLLL----------
+-----------------------L----LGLL---L-ALPPEAQ-------GL----RGV
+GLTPS-------AA-----------------------------EPAHQQLPKPFT---RG
+TLKPAAHLV-GDPST-----QDSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGKGCFPRA-----------TPTPLYLAHEVQLFSPQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTRGDQLSTHT----DGISHL-LLSPSS
+VFFGAFAL-------
+>ENSPCTP00005018884 ENSPCTG00005013458	205	LTA	lymphotoxin	Physeter_catodon	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLLRVCSTPLLLL----------
+-----------------------L----LGLL---L-ALPPEAQ-------GL----SGV
+GLPPS-------TA-----------------------------QPAHQHPQNHFT---RG
+TFKPAAHLV-GDPST-----QDSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGEGCFPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLARGDQLSTHT----DGISHL-LLSPSS
+VFFGAFAL-------
+>ENSSSCP00000028564 ENSSSCG00000001403	204	LTA	lymphotoxin	Sus_scrofa	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLRRVCSTPIL-L----------
+-----------------------L----LGLL---L-ALPPEAQ-------GL----PGV
+GLPPS-------AA-----------------------------QPAHQHPPKHLA---RG
+TLKPAAHLV-GDPST-----PDSLRWRANTDRAFLRHGFLLS--NNSLLVPTSGLYFVYS
+QVVFSGEGCFPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTQGDQLSTHT----DGTPHL-LLSPSS
+VFFGAFAL-------
+>ENSTTRP00000013350 ENSTTRG00000014083	205	LTA	lymphotoxin	Tursiops_truncatus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLLRVCSTPLLLL----------
+-----------------------L----LGLL---L-ALPPEAQ-------GL----SGV
+GLPPS-------TA-----------------------------QPAHQHPPNHFT---RG
+TFKPAAHLV-GDPST-----QDSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGEGCFPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTRGDQLSTHT----DGISHL-LLSPSS
+VFFGAFAL-------
+>ENSAMEP00000009963 ENSAMEG00000009488	204	LTA	lymphotoxin	Ailuropoda_melanoleuca	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLLRVRGAPPL-L----------
+-----------------------L----LGLL---L-ALPPEAQ-------GL----PGV
+GVSPS-------AA-----------------------------RTAYQHPQKHFA---PG
+TLKPAAHLI-GDPST-----QSSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGEGCFPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTQGDQLSTHT----DGVSHL-LLSPSS
+VFFGAFAL-------
+>ENSCAFP00000000737 ENSCAFG00000000515	204	LTA	lymphotoxin	Canis_lupus_familiaris	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLLRVRSAPVL-L----------
+-----------------------L----LGLL---L-GLPPGAQ-------GF----PGV
+GISPS-------AA-----------------------------RTAYQHPQKHFI---QG
+TLKPAAHLI-GDPSI-----QNSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGEGCFPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTQGDQLSTHT----DGISHL-LLSPSS
+VFFGAFAL-------
+>ENSFCAP00000004152 ENSFCAG00000004498	205	LTA	lymphotoxin	Felis_catus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLLRVCSAPLLLL----------
+-----------------------L----LGLL---L-ALPPEAQ-------GL----PGV
+GISPS-------AA-----------------------------RTTYQHPQKHFA---QG
+TLKPAAHLI-GDPST-----QNSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGEGCFPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTQGDQLSTHT----DGISHL-LLSPSS
+VFFGAFAL-------
+>ENSLCNP00005012757 ENSLCNG00005008408	205	LTA	lymphotoxin	Lynx_canadensis	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLLRVCSAPLLLL----------
+-----------------------L----LGLL---L-ALPPEAQ-------GL----PGV
+GISPS-------AA-----------------------------RTTYQHPQKHFA---QG
+TLKPAAHLI-GDPST-----QNSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGEGCFPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTQGDQLSTHT----DGISHL-LLSPSS
+VFFGAFAL-------
+>ENSMPUP00000011303 ENSMPUG00000011395	204	LTA	lymphotoxin	Mustela_putorius_furo	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLLRVCSAPLL-L----------
+-----------------------L----LGLL---L-ALPPEAQ-------GL----PGA
+SISSS-------AA-----------------------------RTAYHNPQKHLA---PG
+TLKPAAHLI-GDPST-----QNSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGEGCFPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTQGDQLSTHT----DGVSHL-LLSPSS
+VFFGAFAL-------
+>ENSNVIP00000021115 ENSNVIG00000016534	204	LTA	lymphotoxin	Neovison_vison	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLLRVCSAPLL-L----------
+-----------------------L----LGLL---L-ALPPEAQ-------GL----PGA
+SISSS-------AA-----------------------------RTAYHNPQKHLA---PS
+TLKPAAHLI-GDPST-----QNSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGEGCFPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTQGDQLSTHT----DGVSHL-LLSPSS
+VFFGAFAL-------
+>ENSPLOP00000011818 ENSPLOG00000008655	205	LTA	lymphotoxin	Panthera_leo	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLLRVCSAPLLLL----------
+-----------------------L----LGLL---L-ALPPEAQ-------GL----PGV
+GISPS-------AA-----------------------------RTTYQHPQKHFA---QG
+TLKPAAHLI-GDPST-----QNSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGEGCFPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTQGDQLSTHT----DGISHL-LLSPSS
+VFFGAFAL-------
+>ENSSSUP00005005255 ENSSSUG00005003436	268	LTA	lymphotoxin	Suricata_suricatta	138A	138	A
+-------------------------------MLGQCLSLSCLRLKQQHLLSPGGFPG-PS
+-----RGLEPARRPPRCH--------------------------CSFLY---KGT---RA
+SGPRGP---TE---------------QVLPMTPPGWLYLLRVRSAPLLLL----------
+-----------------------L----LGLL---L-ALPPEAQ-------GL----PGV
+DISPS-------AA-----------------------------RTAYQHPQKHFA---QG
+TLKPAAHLI-GDPST-----QNSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGEGCFPKA-----------TSTPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTQGDQLSTHT----DGISHL-LLSPSS
+VFFGAFAL-------
+>ENSUMAP00000020608 ENSUMAG00000015094	204	LTA	lymphotoxin	Ursus_maritimus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLLRVCRAPPL-L----------
+-----------------------L----LGLL---L-ALPPEAQ-------GL----PGV
+GVSPS-------AA-----------------------------RTAYQHPQKHFA---PG
+TLKPAAHLI-GDPST-----QSSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGEGCFPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTQGDQLSTHT----DGVSHL-LLSPSS
+VFFGAFAL-------
+>ENSVVUP00000027936 ENSVVUG00000020471	204	LTA	lymphotoxin	Vulpes_vulpes	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLLRVRSAPVL-L----------
+-----------------------L----LGLL---L-GLPPGAQ-------GF----PGV
+GISPS-------AA-----------------------------RTAYQHPQKHFI---QG
+TLKPAAHLI-GDPSI-----QNSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGEGCFPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTQGDQLSTHT----DGISHL-LLSPSS
+VFFGAFAL-------
+>ENSMLUP00000003608 ENSMLUG00000003965	201	LTA	lymphotoxin	Myotis_lucifugus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MPPPGHLSLRRGRGAPLLL-----------
+----------------------------LGLL---L-ALPPAAQ-------GL----PDV
+GLS---------AA-----------------------------QTAHQHPQKHFA---QG
+TLKPAAHLV-GDPSA-----RHALRWRASTDRAFLRHGFTLR--NNSLLVPASGLYFIYS
+QVVFSGQGCCPAA-----------SPAPIYLAHEVQLFSAQ--YRS-------HVSLLSA
+QKSVSPGP---------QGPWVRSVYQGAVFLLARGDQLSTST----DGIDHL-LLGPST
+VFFGAFAL-------
+>ENSPVAP00000004408 ENSPVAG00000004656	205	TNLG1E	lymphotoxin	Pteropus_vampyrus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGYLYLMRVCGAPLLLL----------
+-----------------------L----LGLL---L-ALPPEAQ-------GL----PGV
+GLSPS-------IA-----------------------------RTVHQHPQNHFA---QG
+TFKPAAHLV-GDPST-----QNSLRWRANTDRAFLRHGFSLN--NNSLLVPTSGLYFVYS
+QVVFSGEGCFPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVSLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTQGDQLSTHT----DGISHL-LLSPST
+VFFGAFAL-------
+>ENSRFEP00010002053 ENSRFEG00010001501	205	LTA	lymphotoxin	Rhinolophus_ferrumequinum	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLLRVCGTPLLLL----------
+-----------------------L----LGLL---L-ALPPEAQ-------GL----PGI
+GFSPS-------AA-----------------------------RIAHQHPQKHFA---QG
+TLKPAAHLV-GDPGS-----QNSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGEGCFPKA-----------TPNPLYLAHEVQLFSSQ--YPF-------HVSLLSA
+QKSVCPGP---------QGPWVHSVYQGAVFLLSQGDQLSTHT----DGIYHL-LLSPTS
+VFFGAFAL-------
+>ENSDNOP00000026325 ENSDNOG00000048100	206	LTA	lymphotoxin	Dasypus_novemcinctus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTRPGRFRLLRARG-PLLLL----------
+-----------------------L----LGML---L-DLAPGAQ-------GL----AGA
+GLAPA---S---AS-----------------------------RAAHQHPRKHSA---RG
+ALRPAAHLV-GDPGT-----QNSLRWRANTDRAFLRHGFALS--NNSLLVPASGLYFVYS
+QVVFSGDGCPPKA-----------TAVPPYLAHEVQLLSPQ--YRS-------HVPLLSA
+QKTVCPGQ---------QGPWEHSVYQGAVFLLTRGDQLSTRT----DGISHL-LLRPSS
+VFFGGASAL------
+>ENSMODP00000019688 ENSMODG00000015782	231	LTA	lymphotoxin	Monodelphis_domestica	138A	138	A
+------------------------------------------------MLVPISLPS-PT
+-----P----------FL-------------------------GPSS-------------
+-HFLFL---SP---------------QVLPMTPSGVLCLLGALSLQVL------------
+-----------------------------------W-LKPPGAQ-------GA----PNP
+DNSHS---SSPGLP-----------------------------QTAQHLSQKRLK---RD
+THKPAAHLV-GDPKA-----QNSIHWRASTDHAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFAGSNYHPDV-----------PPTPLYLSHEVLLFSSK--YQV-------HVPLLNA
+QKSVYPEP---------QGPWMRSIYQGAVFLLTQGDLLSTHT----DGISHL-LQSPSS
+VFFGAFAL-------
+>ENSMEUP00000007573 ENSMEUG00000008296	201	LTA	Lymphotoxin-alpha	Notamacropus_eugenii	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTSSGVLCLLGALSLQVL------------
+-----------------------------------L-LQPPGAQ-------GA----PNP
+DNSHS---SSPAPP-----------------------------QTAQHLSQKSLK---RE
+TLKPAAHLV-GDPSV-----QDSIHWRANTDHAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGASCS-EI-----------TPTLLYLSHEVLLFSSK--YQV-------HVPLLSA
+QKSVCSGT---------QGPWMRSVYQGAVFLLTQGDRLSTYT----DGVSHL-LQSPSS
+VFFGAFAL-------
+>ENSVURP00010011183 ENSVURG00010008644	202	None	None	Vombatus_ursinus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTSSGVLCLLGALCLQVL------------
+-----------------------------------W-LQLSGAQ-------GA----PNP
+DNSHS---SSPAPP-----------------------------QTPQHLSQKSPK---RD
+TLKPAAHLV-GDPST-----QDSIHWRASTDHAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGASCSSEI-----------TPTLLYLSHEVLLFSSK--YQV-------HVPLLSA
+QKSVCPGT---------QGPWMRSVYQGAVFLLTQGDLLSTHT----DGVSHL-LQSPSS
+VFFGAFAL-------
+>ENSEEUP00000003065 ENSEEUG00000003368	180	LTA	lymphotoxin	Erinaceus_europaeus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------L---LLGLPPWTQ-------GL----PGV
+GLLPS-------AA-----------------------------RTAHQHSQKYFS---QE
+NFKPAAHLV-GDPST-----QNSLHWRSNTDRAFLRHGFSLS--NNSLLVPSSGLYFVYS
+QVVFSGDGCQPKN-------------TPLYLTHEVQLFSSQ--YPF-------HVPILSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTRGDQLSTHT----DGIPHL-LLSPSS
+VFFGAFAL-------
+>ENSPCAP00000007002 ENSPCAG00000007526	205	LTA	lymphotoxin	Procavia_capensis	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTRPGHLYLLRVHGNPFLLL----------
+-----------------------L----LGLL---L-ALPSETQ-------GL----PGI
+GPSPS-------AA-----------------------------QAAQKHPQKHFT---SD
+TLKPAAHLI-GDPGT-----QTSLRWRANTDHAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGESCSPKA-----------STTPLYLAHEVQLFSSR--YPS-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTRGDQLSTHT----VGSSHL-LLSPSS
+VFFGAFAL-------
+>ENSOPRP00000010888 ENSOPRG00000011942	196	LTA	lymphotoxin	Ochotona_princeps	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTAPGRLYLAL-------------------
+-----------------------L----LGLL---L-ALLPGAQ-------GL----PGA
+GFPPS-------AA-----------------------------QTARQQVQKRFS---HS
+TLKPAAHLV-GDPNT-----HDSLRWRANTDRAFLRHGFSLS--NNSLLVPVSGLYFVYS
+QVVFSGEGCSTKT-----------IPNPLYLAHEVHLFSSQ--YSF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTKGDQLSTHT----DGISHL-LLSPST
+VFFGAFAL-------
+>ENSOCUP00000005782 ENSOCUG00000006694	197	TNLG1E	Oryctolagus cuniculus lymphotoxin alpha (LTA), mRNA	Oryctolagus_cuniculus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLPL-------------------
+-----------------------L----LGLL---LAPPPPGAQ-------GL----PGA
+EFPPS-------AA-----------------------------RNAQQRLQKHFG---HS
+TLKPAAHLV-GDPSA-----QDSLRWRANTDRAFLRHGFSLS--NNSLLVPSSGLYFVYS
+QVVFSGEGCSPKA-----------VPTPLYLAHEVQLFSSQ--YSF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTQGDQLSTHT----DGIAHL-LLSPSS
+VFFGAFAL-------
+>ENSOANP00000051039 ENSOANG00000051198	244	None	None	Ornithorhynchus_anatinus	138A	138	A
+-------------------------------------------LQEQTAGLPGQSPL-PP
+-----GR----AQPPPAQ-------------------------GPGEGA---GGT---RV
+RGGVRG---GD---------------GEAPAAPPS------------CPR----------
+-----------------------P----LGWA---FSLLPPSQG-------HL----GGP
+GVP-R---S---PH-----------------------------LTAHLDLRRRLL---RD
+APKPAAHLI-GDPSR-----PGSLLWRDNSDHAFLHHGFRLQ--NNTLLVPSSGVYFVYT
+QTVFSGPGCTEDGQ---------GTLAPNYLSHEVLLFSTQ--YPI-------HVPLLSA
+QKSVCPGP---------KGPWIKSIYQGAVFSLMAGDQLSTRT----EGVSNL-LLVPGS
+VFFGAFAV-------
+>ENSECAP00000000706 ENSECAG00000000967	204	LTA	lymphotoxin	Equus_caballus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPSGRLYLLRVCGAPLL-L----------
+-----------------------L----LGLL---L-ALPPEAQ-------GL----PGV
+GLSPS-------AA-----------------------------RTAHQHPQKHFT---QD
+TLKPAAHLV-GDPST-----QNSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGEGCFPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTQGDQLSTHT----DGIPHL-LLSPSS
+VFFGAFAL-------
+>ENSCHOP00000011699 ENSCHOG00000013220	137	LTA	lymphotoxin	Choloepus_hoffmanni	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------GDPSI-----QNSLRWRANTDHAFLHHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGKGCSPKA-----------TTAPLYLAHEIQLFSSR--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTQGDQLSTHT----DGISHL-FLSPSS
+VFFGAFAL-------
+>ENSCJAP00000064936 ENSCJAG00000047436	190	LTA	lymphotoxin	Callithrix_jacchus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPERLFLSRVQGTPLHLL----------
+-----------------------L----LGLL---L-PP---------------------
+------------LN-----------------------------SIARQHPKMHLA---RS
+TLKPAAHLV-GDPSN-----QKSLRWRANTDRAFLQDGFSLS--NNSLLVPTSGIYFVYS
+QVVFSGNAYSPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVSLLSS
+QKMVYPGL---------QEPWLHSMYHGAAFQLTQGDQLSTHT----DGIGHL-VLSPST
+VFFGAFAL-------
+>ENSCATP00000039285 ENSCATG00000042274	205	LTA	lymphotoxin	Cercocebus_atys	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPERLFLSRVRGTPLHLL----------
+-----------------------L----LGLL---L-VLLPGAQ-------GL----PGV
+GLTPS-------AA-----------------------------QTARQHPKMHLA---HS
+TLKPAAHLI-GDPSK-----QNSLLWRANTDRAFLQDGFSLS--NNSLLVPTSGIYFVYS
+QVVFSGKAYSPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSS
+QKMVYPGL---------QEPWLHSMYHGAAFQLTQGDQLSTHT----DGIPHL-VLSPST
+VFFGAFAL-------
+>ENSGGOP00000005881 ENSGGOG00000006012	205	LTA	lymphotoxin	Gorilla_gorilla	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPERLFLPRVRGTTLHLL----------
+-----------------------L----LGLL---L-VLLPGAQ-------GL----PGV
+GLTPS-------AA-----------------------------QTAHQHPKMHLA---HS
+TLKPAAHLI-GDPSK-----QNSLLWRANTDRAFLQDGFSLS--NNSLLVPTSGIYFVYS
+QVVFSGKAYSPKA-----------TSSPLYLAHEVQLFSSQ--YPF-------HVPLLSS
+QKMVYPGL---------QEPWLHSMYHGAAFQLTQGDQLSTHT----DGIPHL-VLSPST
+VFFGAFAL-------
+>ENSP00000403495 ENSG00000226979	205	LTA	lymphotoxin	Homo_sapiens	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPERLFLPRVCGTTLHLL----------
+-----------------------L----LGLL---L-VLLPGAQ-------GL----PGV
+GLTPS-------AA-----------------------------QTARQHPKMHLA---HS
+TLKPAAHLI-GDPSK-----QNSLLWRANTDRAFLQDGFSLS--NNSLLVPTSGIYFVYS
+QVVFSGKAYSPKA-----------TSSPLYLAHEVQLFSSQ--YPF-------HVPLLSS
+QKMVYPGL---------QEPWLHSMYHGAAFQLTQGDQLSTHT----DGIPHL-VLSPST
+VFFGAFAL-------
+>ENSMMUP00000011590 ENSMMUG00000008843	205	LTA	lymphotoxin	Macaca_mulatta	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPERLFLSRVRGTPLHLL----------
+-----------------------L----LGLL---L-VLLPGAQ-------GL----PGV
+GLTPS-------AA-----------------------------QTARQHPKMHLA---HS
+TLKPAAHLI-GDPSK-----QNSLLWRANTDRAFLQDGFSLS--NNSLLVPTSGIYFVYS
+QVVFSGKAYSPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSS
+QKMVYPGL---------QEPWLHSMYHGAAFQLTQGDQLSTHT----DGIPHL-VLSPST
+VFFGAFAL-------
+>ENSMLEP00000024045 ENSMLEG00000036197	205	LTA	lymphotoxin	Mandrillus_leucophaeus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPERLFLSRVRGSPLHLL----------
+-----------------------L----LGLL---L-VLLPGAQ-------GL----PGV
+GLTPS-------AA-----------------------------QTARQHPKMHLA---HS
+TLKPAAHLI-GDPSK-----QNSLLWRANTDRAFLQDGFSLS--NNSLLVPTSGIYFVYS
+QVVFSGKAYSPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSS
+QKMVYPGL---------QEPWLHSMYHGAAFQLTQGDQLSTHT----DGIPHL-VLSPST
+VFFGAFAL-------
+>ENSMICP00000019821 ENSMICG00000036584	205	LTA	lymphotoxin	Microcebus_murinus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLPRVHGTPLHLL----------
+-----------------------L----LVLL---L-ALLPATQ-------EL----PGV
+GLAPP-------AA-----------------------------QTAHQHPQKHFT---HS
+TLKPAAHLI-GDPSK-----QDSLRWRANTDRAFLQHGFSLS--NNSLLVPASGIYFVYS
+QVVFSGQACPPEA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKTVCPGP---------QGPWLHSMYHGAAFLLTQGDQLSTHT----DGIPHL-LLSPSS
+VFFGAFAL-------
+>ENSPTRP00000030651 ENSPTRG00000017964	205	LTA	lymphotoxin	Pan_troglodytes	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPERLFLPRVRGTTLHLL----------
+-----------------------L----LGLL---L-VLLPGAQ-------GL----PGV
+GLTPS-------AA-----------------------------QTARQHPKMHLA---HS
+TLKPAAHLI-GDPSK-----QNSLLWRANTDRAFLQDGFSLS--NNSLLVPTSGIYFVYS
+QVVFSGKAYSPKA-----------TSSPLYLAHEVQLFSSQ--YPF-------HVPLLSS
+QKMVYPGL---------QEPWLHSMYHGAAFQLTQGDQLSTHT----DGIPHL-VLSPST
+VFFGAFAL-------
+>ENSPANP00000015631 ENSPANG00000005134	205	LTA	lymphotoxin	Papio_anubis	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPERLFLSRVRGSPLHLL----------
+-----------------------L----LGLL---L-VLLPGAQ-------GL----PGV
+GLTPS-------AA-----------------------------QTARQHPKMHLA---HS
+TLKPAAHLI-GDPSK-----QNSLLWRANTDRAFLQDGFSLS--NNSLLVPTSGIYFVYS
+QVVFSGKAYSPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSS
+QKMVYPGL---------QEPWLHSMYHGAAFQLTQGDQLSTHT----DGIPHL-VLSPST
+VFFGAFAL-------
+>ENSPPYP00000018378 ENSPPYG00000016436	205	LTA	lymphotoxin	Pongo_abelii	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPERLFLPRVRGTTLHLL----------
+-----------------------L----LGLL---L-VLLPGAQ-------GL----PGV
+GLTPS-------AA-----------------------------QTARQHPKMHLA---HS
+TLKPAAHLI-GDPSK-----QNSLLWRANTDRAFLQDGFSLS--NNSLLVPASGIYFVYS
+QVVFSGKAYSSKA-----------TSSPLYLAHEVQLFSSQ--YPF-------HVPLLSS
+QKMVYPGL---------QEPWLHSMYHGAAFQLTQGDQLSTHT----DGIPHL-VLSPST
+VFFGAFAL-------
+>ENSTGEP00000036880 ENSTGEG00000029373	205	LTA	lymphotoxin	Theropithecus_gelada	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPERLFLSRVRGSPLHLL----------
+-----------------------L----LGLL---L-VLLPGAQ-------GL----PGV
+GLTPS-------AA-----------------------------QTARQHPKMHLA---HS
+TLKPAAHLI-GDPSK-----QNSLLWRANTDRAFLQDGFSLS--NNSLLVPTSGIYFVYS
+QVVFSGKAYSPKA-----------TPTPLYLAHEVQLFSSQ--YPF-------HVPLLSS
+QKMVYPGL---------QEPWLHSMYHGAAFQLTQGDQLSTHT----DGIPHL-VLSPST
+VFFGAFAL-------
+>ENSLAFP00000006571 ENSLAFG00000007831	205	LTA	lymphotoxin	Loxodonta_africana	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTRPGHLYLLRVHGNPLLLL----------
+-----------------------L----LGLL---L-ALPSETQ-------GL----PGV
+GLSAS-------TA-----------------------------RTAQQHPQKHFI---PG
+TLKPAAHLV-GDPSA-----QTSLRWRANTDHAFLRHGFSLS--NNSLLVPTSGLYFVYT
+QVVFSGEGCSPKA-----------TTTPLYLAHEVQLFSSQ--YPS-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTRGDQLSTHT----VGSSHL-LLSPSS
+VFFGAFAL-------
+>ENSCCNP00000003145 ENSCCNG00000003401	204	Lta	lymphotoxin	Castor_canadensis	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLRRVLGAPLLFL----------
+----------------------------LGLL---L-ALLLGAQ-------GL----PRV
+GLSPS-------AA-----------------------------RTAHEHPQKHFS---HG
+TLKPAAHLV-GDPSM-----QNSLRWRANTDRAFLRHGFSLN--NNSLLVPTNGLYFVYS
+QVVFSGESCSPNV-----------IPTPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTKGDQLSTHT----DGISHL-HFSPSS
+VFFGAFAL-------
+>ENSCPOP00000028063 ENSCPOG00000035260	197	LTA	lymphotoxin	Cavia_porcellus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MSSPGGLYLPRVPGAPLLFL----------
+----------------------------LGLL---LALQWPGAQ-------GL----PGV
+SLAPS----------------------------------------AVQTARRHLG---YG
+SLKPAAHLI-GDPRS-----KNWLRWRANSDQGFLLNGFSLS--NNSLLVPASGLYFVYS
+QVVFSGHSYSP---------------KPLYLSHEVHVLTSR--YSF-------QLPLLSA
+HKNVDPGL---------EGHWMRSMYQGAVFLLTKGDQLSTQT----EGIPYL-FVSPSS
+VFFGAFAL-------
+>ENSCLAP00000015936 ENSCLAG00000010967	204	LTA	lymphotoxin	Chinchilla_lanigera	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MSPPGCLYLPRVCGAPLLFL----------
+----------------------------LGLL---LLLLLPGAQGGCWGGPGL----PGA
+GLPPS----------------------------------------AAHTARRHLG---YG
+SLKPAAHLV-GDPRT-----KNWLRWRANSDQGFLLNGFSLS--NNSLVVPASGLYFVYS
+QVVFSGHSHSP---------------KPLYLSHEVQVCTSR--YSS-------HLPLLSA
+HKNVDPGP---------EGHWMRSMYQGAVFLLTKGDQLSTHT----EGVPYL-FVSPSS
+VFFGAFAL-------
+>ENSDORP00000025596 ENSDORG00000029485	266	None	lymphotoxin	Dipodomys_ordii	138A	138	A
+--------MYSLMVSLSSPSLHLSPSTFLCLPWGLCTCVWSAFLSQ------CDCPHRQA
+-----GGLFSAMGPA-------------------------------------------PF
+IVSLSL---SL---------------QIFPMTPPGHLHLLRVLGSPFLLL----------
+----------------------------LGLL---LLALPPGAQ-------GL----TRI
+GQS------------------------------------------TDQHPHKHSF---YG
+TFNPIAHLV-GDIHT-----PGSLSWTANTDRTFL-HGFTVN--NNTLVVPTAGLYFVYS
+QVFFSGNSCPSDG-------------TPLLLTHEVQLFSSQ--YPN-------HVPILSA
+QTSLCPGI---------EGPWMRSLYVGAVFVLTQGDQLSTQT----NGLSHL-DLRPSS
+VYFGAFSL-------
+>ENSSTOP00000011541 ENSSTOG00000012879	205	LTA	lymphotoxin	Ictidomys_tridecemlineatus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPPGRLYLPRVRGTHLLFL----------
+-----------------------L----LGLL---L-ALPPRAK-------GL----PGV
+GLQPS-------AA-----------------------------RAAQQHPQKHFA---HG
+TLKPAAHLV-GDPSM-----QNSLRWRANTDRAFLRHGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGEGCSSKA-----------ISTPLYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTRGDQLSTHT----DGISHL-LFSPSS
+VFFGAFAL-------
+>ENSMUGP00000005571 ENSMUGG00000005136	193	Lta	lymphotoxin	Meriones_unguiculatus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MPAPGRLPLSRVLGAPAALL----------
+----------------------------LGLL---L-ALPLATQ-------GL----SSA
+GTAR-------------------------------------------RP--PHKQ---PA
+LLKPAAHLV-GYPGQ-----QSSLLWRATTDRAFLRHGFSLS--NNSLLVPAGGLYFVYS
+QVLFRGAGRPPGA-------------APVYLAHEVRLLSAQ--YPS-------HVPLLSA
+QKSVPPGL---------RGPWVRSLYQGAVFLLSRGDRLSTRT----DGAARL-HFSPSS
+VFFGAFAL-------
+>ENSMAUP00000005831 ENSMAUG00000007902	198	Lta	lymphotoxin	Mesocricetus_auratus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPLGRLYLLRVLGAPPVFL----------
+----------------------------LGLL---L-ALRMV---------GV----PGW
+PS------Q----------------------------------PGGRSAAHFSSA---HG
+TLKPAAHLV-GYPNK-----QNSLLWRENTDRAFLRHGFSLR--NNSLLVPASGLYFVYS
+QVVFSGESCSPKA-----------IPTPIYLAHEVQLLSSQ--YPF-------HVPLLSA
+QKSVYPGL---------QGPWVRSMYQGAVFLLSEGDQLSTHT----DGVSHL-HVSPSS
+VFFGAFAL-------
+>ENSMOCP00000013379 ENSMOCG00000013196	202	Lta	lymphotoxin	Microtus_ochrogaster	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPLGRLYLLRVLSAPPVFL----------
+----------------------------LGLL---L-ALPLGAQ-------GV----SGA
+RF------S---AA-----------------------------RTAHQAPQKHLS---HG
+ILKPAAHLV-GYPSK-----QNSLLWRANTDRAFLRHGFSLN--NNSLLVPTSGLYFVYS
+QVVFSGESCSPRA-----------IPTPIYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVYPGL---------QRPWVRSMYQGAVFLLSKGDQLSTHT----DGVSHL-HFSPSS
+VFFGAFAL-------
+>ENSMUSP00000025266 ENSMUSG00000024402	202	Lta	lymphotoxin	Mus_musculus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTLLGRLHLLRVLGTPPVFL----------
+----------------------------LGLL---L-ALPLGAQ-------GL----SGV
+RF------S---AA-----------------------------RTAHPLPQKHLT---HG
+ILKPAAHLV-GYPSK-----QNSLLWRASTDRAFLRHGFSLS--NNSLLIPTSGLYFVYS
+QVVFSGESCSPRA-----------IPTPIYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVYPGL---------QGPWVRSMYQGAVFLLSKGDQLSTHT----DGISHL-HFSPSS
+VFFGAFAL-------
+>ENSODEP00000024378 ENSODEG00000017840	197	LTA	lymphotoxin	Octodon_degus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MSPPGRLYLPRVHGASLLFL----------
+----------------------------LGLL---PALLLLGA-------QGL----PGA
+GLPPS----------------------------------------SAHTVRRHLG---YG
+SLKPAAHLV-GDPRT-----KSWLRWRANSDQGFLLNGFSLS--NNSLLVPTSGLYFVYS
+QVVFSGQSHSP---------------KPLYLSHEVQVHTSR--YSS-------RLPLLST
+HKNVDPGP---------EGHWMRSMYQGAVFLLTKGDQLSTHT----EGLPYL-FLSPSS
+VFFGAFAL-------
+>ENSPEMP00000000732 ENSPEMG00000000529	202	Lta	lymphotoxin	Peromyscus_maniculatus_bairdii	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPLGRLYLLRVLGAPPVFL----------
+----------------------------LGLL---L-ALPLGPQ-------GL----SGV
+RS------S---AA-----------------------------RIAHQPPQKHST---RG
+FLKPAAHLV-GHPSK-----QNSLLWRANTDRAFLRHGFSLN--NNSLLVPASGLYFVYS
+QVVFSGESCSPKA-----------TPAPIYLAHEVQLLSSQ--YPF-------HVPLLSA
+QKSVYPGL---------QGPWVRSMYQGAVFLLSKGDQLSTHT----DGVSHL-HFSPSS
+VFFGAFAL-------
+>ENSRNOP00000001111 ENSRNOG00000000838	202	Lta	lymphotoxin	Rattus_norvegicus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPLGRLHLLRVLSTPPVFL----------
+----------------------------LGLL---L-ALPLGAQ-------GL----SGV
+RF------S---AS-----------------------------RTAHQPPQKHLT---HG
+LLKPAAHLV-GYPSK-----QNSLLWRANTDRAFLRHGFSLN--NNSLLIPTSGLYFVYS
+QVVFSGESCSPRA-----------IPTPIYLAHEVQLFSSQ--YPF-------HVPLLSA
+QKSVYPGL---------QGPWVRSMYQGAVFLLSKGDQLSTHT----DGISHL-HFSPST
+VFFGAFAL-------
+>ENSTBEP00000007495 ENSTBEG00000008659	205	LTA	lymphotoxin	Tupaia_belangeri	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MTPSGRLCLERVHSAPLLLL----------
+-----------------------L----QGLL---L-ALPPGAQ-------AL----PGV
+DLSPS-------AA-----------------------------QAAHQHPQKHLA---PS
+TLKPAAHLV-GDPSV-----QNTLRWRASTDRAFLRHGFALT--NNSLLVPSSGLYFVYS
+QVVFSGEGCSPQA-----------APTPLYLAHGVQLFSSQ--YPH-------HVPLLSA
+QKSVCPGP---------QGPWVRSVYQGAVFLLTRGDQLSTHT----VGTSHL-LLSPSS
+VFFGAFAL-------
+>ENSCABP00000004214 ENSCABG00000003184	204	LTA	lymphotoxin	Chelonoidis_abingdonii	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------MGVQ-----RLCQ-------PPTGLLSGIHSRE----PRRPA--LPPSP
+GPLLGHGNE----------------------SSLSFP------TVAPWPALGQRA---DR
+THAPAAHLV-GHPGP----SGMRLRWRSDVDASFTRGGFRLAND--SLVVPASGMYFVYF
+QASFLG------AA-------CPAGDEPLVLVHRVLLFSDT--YPR-------DVPILSA
+HKTACPGG-------GP---WYRSLHQGAAFALQKGDRLSTQT----EGEAHL-LAGQGT
+LSFGAFAL-------
+>ENSCSRP00000018184 ENSCSRG00000013939	216	None	None	Chelydra_serpentina	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------MGL----DGG
+PEAPNTPVSIRPPHL-----LPPQ-------PQTGLVSGIHSRE----PRRPA--LPP--
+---VGLSNE----------------------PSLSFS------TAAPWTPLGQRA---GR
+THSPAAHLI-GHPGA----SGERLRWRSDVDASFTRGGFRLANG--SLVVPASGLYFVYF
+QASFLG------AA-------CPAGAEPLILAHRVLLFSDT--YPQ-------DVPILSA
+HKTACPGG-------GP---WYRALRQGAAFALQKGDRLSTQT----EGEAHL-LAGQGA
+LSFGAFAL-------
+>ENSCPBP00000023183 ENSCPBG00000016559	188	LTA	lymphotoxin	Chrysemys_picta_bellii	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------MHSRE----PRRPA--LSPSP
+RPVLGHGND----------------------SSLSFP------TVAPWTALGHRA---DR
+THTPAAHLV-GHPGP----SGERLRWRSDVDASFTRGGFRLAND--SLVVPASGMYFVYF
+QASFLG------AA-------CPTADEPLVLAHRVLLFSNT--YPR-------DVPILSA
+HKTACSGG-------GP---WYRSLHQGAAFALQEGDRLSTQT----EGEVHL-LSGQGT
+LSFGAFAL-------
+>ENSPCEP00000007904 ENSPCEG00000006336	237	None	None	Pelusios_castaneus	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------MGPWAEAEGPLLLGVRLKGHRDLC
+WHLLRATCCLLLGALLGTVLYGCTQRMVRGGTGRALVGGVPSMSVFSWPFLTQ--SACRL
+GEPFGHQIE-------------------------------------------------TH
+LSFLGTLPT-GHPST----PGKKLHWRSDVDASFIQGGFRLAND--SLVVPASGTYIVYF
+QVAFLG------AS-------CPAGDEPLFLSHRVLLFSDA--YPE-------DIPLLSA
+HKAACPGA-------AP---WYHFLRQGAAFALQKGDRLSTQT----EGKMHL-LAGPGA
+LSFGAFAL-------
+>ENSTMTP00000013899 ENSTMTG00000010114	193	None	None	Terrapene_carolina_triunguis	138A	138	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------KL----DSC
+LE-----CIPGNPGV-----RLCP-------PPPGLSSAMPFAS----RSA------RQV
+GEPF-----------------------------------------GRWFE--------TH
+LPFLSPLLT-GHPGP----SGERLRWRSDVDASFTRGGFRLAND--SLVVPASGMYFVYF
+QASFLG------AA-------CPVGDEPLVLAHRVLLFSDT--YPR-------DVPILSA
+HKTACSGG-------GP---WYRSLHQGAAFALQEGDRLSTQT----EGEAHL-LSGQGT
+LSFGAFAL-------
+>ENSATEP00000009163 ENSATEG00000006438	245	tnfb	tumor necrosis	Anabas_testudineus	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MSGYTTAPG-DL
+EMGF-----EE-------KTIV--LIEKKS--PSPKGRIWKASMALLIVT----------
+---------------------LCF----GGIL---LLGW-------YWNGRPD--MMSES
+G-HPEARIQKNATE-----------------------------KTDPHK-LRQLC----S
+TSKAAIHLE-GNYDGD-DEHVGTLKWKSGQGQAFVQGDFRLE--NNTIIIPHTGIYFVYS
+QALFRVTCNNDEGA-------------AENLSHGIWRRSES--IGG-------DVSLMSS
+IRSVCQNTAQ-----EDERGWYSAIYLGAVFKLNKGDILWTVT----NKLEQL-EMNSGN
+TFFGVFAL-------
+>ENSORLP00000020071 ENSORLG00000016035	247	tnfb	tumor necrosis	Oryzias_latipes	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MVEYSAAAT-DV
+EAGV-----EQ-------KMAV--LVEKKR--S--IGWMWKILVVLVLAA----------
+---------------------LCL----GGAR---LFVW-------YWSERPE--IMSPT
+E-LPETPTAESSFH-----------------------------KTDPHHSLKQIS----S
+NSKAAIHLQ-GLEEN------SVLKWADDEGHAFSRGGLKLV--NNEIIIPREGLYFVYS
+QASFRVSCGDSDTE--------GTSKNPTHLSHRIQRFSKS--VGG-------KTSVMSA
+LRSVCQTGAQVAG--SAEHNWYNAIYLGGVFSLNQGDRLWTET----RPLLEL-ETDDGS
+TFFGVFAL-------
+>ENSGWIP00000005140 ENSGWIG00000002712	249	tnfb	tumor necrosis	Gouania_willdenowi	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MVGYSDV---DV
+ECGP---EERQ-------RTVV--MVERSS--S--SGWIWKASLVLVLVL----------
+---------------------LCF----G-LL---FFTW-------TWRRSSD--MMVRS
+ADSAK---SDVFCS-----------------------------SSDLHLTLSQIG----N
+RATAAIHLE-GSYDEEGEIQNEQLEWRNGEGQAFAQGGFQLK--NNRIVIPESGLYFVYS
+QASYRVSCSGEGG----------ASKGFTSLSHRIWRHSDS--VGN-------KVTLMSA
+VRSACQSLAQ-DHVLRDNQGWYNAIYLGAVFQLNKDDELWTET----TQLSQL-DTDEGK
+TFFGVFAL-------
+>ENSENLP00000016485 ENSENLG00000007599	255	tnfb	tumor necrosis	Echeneis_naucrates	138B	138	B
+------------------------------------------------------------
+-------------------------------------------------MDYTTAPA-DV
+EMGL-----ED-------RRVI--LVEKKS--S--AEGIWKVIGVLVTMA----------
+---------------------LFF----GGTL---LLVW-------HWNG-QQ--LMPQP
+G-KTEALTEKESAD-----------------------------KTDPHYTLKRIS----S
+KAKAAIHLE-GSYDEDDDSLKNQLEWKNGQGQAFAQGGFRLA--DNRIVIPQTGLYFVYS
+QASFRVTCSDGEDEEE------EPGKRFRPLSHRILRHSDS--IGG-------EAALMSA
+VRSACQTTAQEEDSYRDGRGWYNAIYLGAVFQLNKGDTLRTET----NQLSEL-DTDEGK
+TFFGVFAL-------
+>ENSSDUP00000009186 ENSSDUG00000006756	254	tnfb	tumor necrosis	Seriola_dumerili	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MADYTTAPS-HV
+ELAL-----ED-------RTVI--LVEKKS--S--TEWIWKVLGALLVVA----------
+---------------------LCL----GGVL---LFAW-------YWNR-PE--MMTQS
+G-QTEALIEKDSGE-----------------------------KTDPHYTLKRIS----S
+KAKAAIHLE-GSYDDEDKSSKVELEWKNGQGQAFAQGGFLLA--NNQIVIPRTGLYFVYS
+QASFRVSCSDGEE--D------EAGKRFMPLSHRIWRYSDS--LGG-------KASLMSA
+VRSACQTTAQEEDSYRDGRSWYNAIYLGAVFQLNKGDKLWTET----NQISEL-DTDEGK
+TFFGVFAL-------
+>ENSAMXP00000005247 ENSAMXG00000005117	247	tnfb	tumor necrosis	Astyanax_mexicanus	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MQNYHITE--DL
+EAGM-------GGVYQAT---V--QSGKPS--R--LSWAWKIVGAIFLIA----------
+---------------------LCS----VASV---GIAW-------YFMNHIQGERISAL
+GRAAELQ-SSSEQG-----------------------------PVHPQHMLAQTA----N
+NTKAAIHLH-VSGN-----DDSSLRWVNDVDQSFEIGGLKLE--NNEIVIPSDGLYFVYG
+QASYEVHCDSSEGG--------------QELSYEISWFSNAAPSAD-------RKYLLNG
+VKSVCQASVK---K---DEAVFEVIYLGAVFRLYKGDKLSAET----NNRTYI-DAQSSK
+TFFGVFQLAHAS---
+>ENSPNAP00000036429 ENSPNAG00000006775	235	tnfa	tumor necrosis	Pygocentrus_nattereri	138B	138	B
+------------------------------------------------------------
+-------------------------------------------------MS---S---DK
+QVVL---DVDLAQ------VTV--SREK-A--PSAWSGRWRLVMALLAVG----------
+---------------------LCT----AAAV------F-------FTFDKTQN------
+-KPD---------E-----------------------------TDDIGLTLRQV----ST
+SAKAAIHLL-GRYNKN--YM-HSVEWQDKDGQSFKTGGLKLQ--NNNIHIPHDGLYFVYS
+QASYRVSCSSD---AD-----GSDEGAMVQLSHMVQRWSDS--YDG-------SKPLLSA
+VRTACKKAPM-QSEEDDGETWFSAIYLGAVFKLQAGDRLYTTM--MDKMLPQV-ETEQGT
+TFFGVFAL-------
+>ENSACIP00000028315 ENSACIG00000021948	249	tnfb	tumor necrosis factor b (TNF superfamily, member	Amphilophus_citrinellus	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MVAYTTTPV-DV
+EAGA-----EA-------KTVV--LVEKRS--P--AEWIWKGCSVLFIVG----------
+---------------------LCL----GGVL---LFAC-------YWNRRPD--MMTQS
+G-QTEAPKEKNTAD-----------------------------PTDPHHTLRWIS----S
+KAKAAIHLE-GS------DSNGQLEWRNGQGQAFAQGGFKLE--DNKIIIPHTGLYFVYS
+QASFRVTCGNSGGD-E------EAERGLTALSHRIWRYSES--IGS-------RSSLMSA
+VRSACQNTVQ-EDDFTDEQSWYNAIYLGAVFQLNKGDTLWTET----NPLSEL-ETEDGR
+TFFGVFAL-------
+>ENSACLP00000015585 ENSACLG00000010621	247	tnfb	tumor necrosis	Astatotilapia_calliptera	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MVAYTTTPV-DV
+EAGP-----EA-------KTVV--LVEKKS--P--AEWIWKVCAVLVVVA----------
+---------------------LCL----AGVL---LFAW-------YWNTRPE--RMTQV
+G-QPEALKAKNTGE-----------------------------KPEPHSTIKWIS----S
+KAKAAIHLE-GS------DSKGHLEWRNGQGQAFAQGGFKLE--ANKIIIPHTGLYFVYS
+QASFRVICGNSDDN-E------DEEKSLTILSHRIWRYSES--VGS-------PSTLMSA
+LRSACQDTIQ-DS--FSDHGWYNAIYLGAVFQLNEGDTLWTET----NQLSEL-ETDEGR
+TFFGVFAL-------
+>ENSHBUP00000008282 ENSHBUG00000009771	247	tnfb	tumor necrosis	Haplochromis_burtoni	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MVAYTTTPV-DV
+EAGP-----EA-------KTVV--LVEKKS--P--AEWIWKVCAVLVVVA----------
+---------------------LCL----AGVL---LFAW-------YWNTRPE--RMTQV
+G-QPEALKAKNTGE-----------------------------KPEPHSTIKWIS----S
+KAKAAIHLE-GS------DSKGHLEWRNGQGQAFAQGGFKLE--ANKIIIPHTGLYFVYS
+QASFRVICGNSDDN-E------DEEKSLTILSHRIWRYSES--VGS-------PSTLMSA
+LRSACQDTIQ-DS--FSDHGWYNAIYLGAVFQLNEGDTLWTET----NQLSEL-ETDEGR
+TFFGVFAL-------
+>ENSMZEP00005023226 ENSMZEG00005017389	247	tnfb	tumor necrosis	Maylandia_zebra	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MVAYTTTPV-DV
+EAGP-----EA-------KTVV--LVEKKS--P--AEWIWKVCAVLVVVA----------
+---------------------LCL----AGVL---LFAW-------YWNTRPE--RMTQV
+G-QPEALKAKNTGE-----------------------------KPEPHSTIKWIS----S
+KAKAAIHLE-GS------DSKGHLEWRNGQGQAFAQGGFKLE--ANKIIIPHTGLYFVYS
+QASFRVICGNSDDN-E------DEEKSLTILSHRIWRYSES--VGS-------PSTLMSA
+LRSACQDTIQ-DS--FSDHGWYNAIYLGAVFQLNEGDTLWTET----NQLSEL-ETDEGR
+TFFGVFAL-------
+>ENSNBRP00000006999 ENSNBRG00000005485	247	tnfb	tumor necrosis	Neolamprologus_brichardi	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MVAYTTAPV-DV
+EAGP-----EA-------KTVV--LVEKKS--P--AEWIWKVCAVLVVVA----------
+---------------------LCL----AGVL---LFAW-------YWNTRPE--RMTQL
+G-QPEALKAKNTGE-----------------------------KPEPHSTLKWIS----S
+KAKAAIHLE-GD------DSKGRLEWRNGQGQAFAQGGFKLE--ANKIIIPHTGLYFVYS
+QASFRVICGNSDDD-E------DEEKSLTILSHRISRYSES--VGS-------PSTLMSA
+LRSACQDTVQ-DS--FSDHGWYNAIYLGAVFQLNEGDTLWTET----NQLSEL-ETDEGR
+TFFGVFAL-------
+>ENSONIP00000002809 ENSONIG00000002250	247	tnfb	Oreochromis niloticus tumor necrosis factor-alpha (LOC100534578), mRNA	Oreochromis_niloticus	138B	1
+------------------------------------------------------------
+------------------------------------------------MVAYTTTPV-DV
+EAGP-----EA-------KTVV--LVEKKS--P--AEWIWKVCAVLVVVA----------
+---------------------LCL----AGVL---LFAW-------YWNTRPE--RMTQL
+G-QPEALKAKNTGD-----------------------------KTEPHSTLKRIS----S
+KAKAAIHLE-GS------DSKGHLEWRNGQGQAFAQGGFKLE--ANKIIIPHTGLYFVYS
+QASFRVICGNTDEN-E------DEEKSLTILSHRIWRYSES--MGS-------SSTLMSA
+LRSACQDTIQ-DS--FSDHGWYNAIYLGAVFQLNEGDTLWTET----NQLSEL-ETDEGR
+TFFGVFAL-------
+>ENSPNYP00000024693 ENSPNYG00000018642	247	tnfb	tumor necrosis	Pundamilia_nyererei	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MVAYTTTPV-DV
+EAGP-----EA-------KTVV--LVEKKS--P--AEWIWKVCAVLVVVA----------
+---------------------LCL----AGVL---LFAW-------YWNTRPE--RMTQV
+G-QPEALKAKNTGE-----------------------------KPEPHSTIKWIS----S
+KAKAAIHLE-GD------DSKGHLEWRNGQGQAFAQGGFKLE--ANKIIIPHTGLYFVYS
+QASFRVICGNSDDN-E------DEEKSLTILSHRIWRYSES--VGS-------PSTLMSA
+LRSACQDTIQ-DS--FSDHGWYNAIYLGAVFQLNEGDTLWTET----NQLSEL-ETDEGR
+TFFGVFAL-------
+>ENSCHAP00000041403 ENSCHAG00000019362	240	tnfa	tumor necrosis factor a (TNF superfamily, member	Clupea_harengus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MAQDWKSA---DL
+EVCL---E---GAE-----PME--GLRK--MGTSRPSTSWKICLSLLAIG----------
+---------------------LCA----AAAI------T-------INNQK--Q------
+DTAV---------G-----------------------------SEDMRHTLRQISKQ--H
+KGSTAIHLE-GEYNST--FSNTKVEWKDGQDQSFHAGGLKLV--KNEIVIPRKGVYFVYS
+QVSFRINCRVS---PD-----QAQSLETIQLSHAVMRTSRA--FDD-------KRPLLKT
+MRSGCKQFI--SEEEDSGERWYSAINLGAVFSLEEGDQLYTLT--ESHLLPHV-EGESGE
+TFFGVFAL-------
+>ENSDCDP00000045533 ENSDCDG00000028695	232	tnfa	tumor necrosis	Denticeps_clupeoides	138B	138	B
+------------------------------------------------------------
+-------------------------------------------------MA---K---DS
+EMIP---DMEEGLTRS----LV--A-GQGSSPSVFSGGRLKVFGALLAVA----------
+---------------------LCT----AAAL------C-------ISLQNHVN------
+----------------------------------------------LRHTLRQLAEK--T
+KYRAAIHLD-GEVNTK--ISNTSVVWRVDRNQAIQEGGLLLK--ENEVHIPRGGLYFVYS
+QVSFRINCQAD---PR-----GQEDLGTVLVGHKVRRWSDM--IGH-------TVTMLEA
+LRSSCRRVP--HSGPDSGERWHSVVYLGAVFRLESGDRLSTTI----EQLPYV-EEGYGQ
+TFFGVFAL-------
+>ENSCCRP00000075267 ENSCCRG00000040666	231	tnfa	tumor necrosis	Cyprinus_carpio	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MMD---L---EN
+Q------FLEEGALPL-PQVMV--SRRK--------SGVWRVCGVLLAVA----------
+---------------------LCA----AAAV------C-------FTLNKSQN------
+-NQE---------G-----------------------------GNALRLTLRDHLSKENV
+TSKVAIHLT-GAYDSD--VCKDNLDWKQNQDQAFVSGGLELV--DREIIIPNDGIYFVYS
+QVSFHISCKHD---V-------TEDQDVVHMSHAVLRYSES--YGS-------YKPLFSA
+IRSACVHA------SDSEDLWYNTIYLGAAFNLRARDRLRTET--TKELLPRV-ESENGK
+TFFGVFAL-------
+>ENSDARP00000025726 ENSDARG00000009511	234	tnfa	tumor necrosis factor a (TNF superfamily, member	Danio_rerio	138B	138	B
+------------------------------------------------------------
+-------------------------------------------------MK---L---ES
+RAFL---DVEEGELPL-PLVIV--SRRKA---GSSKSGVWRVFGIILAVG----------
+---------------------LCA----AAAV------C-------FTLHKTQG------
+-NQQ---------D-----------------------------GSVLRLTLRDRISQGNF
+TSKAAIHLT-GGYNSE----SKTLDWRDDQDQAFSSGGLKLV--NREIIIPDDGIYFVYS
+QVSLHISCTSE---L-------TEEQ--VLMSHAVMRFSES--YGG-------KKPLFSA
+IRSICTQE------PESENLWYNTIYLGAAFHLREGDRLGTDT--TTALLPMV-ENDNGK
+TFFGVFGL-------
+>ENSFHEP00000034137 ENSFHEG00000021671	278	tnfb	tumor necrosis	Fundulus_heteroclitus	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MTGYNITAG-DV
+EAGL-----QH-------RMEV--LVEKKS--S--TGWVWKAFGVLLLVA----------
+---------------------LCI----GGAR---LYVW-------YQLERSE--STTQS
+G-QTAAPRIMDPDVTTGEYQHIFIRMGTEMLGLRLFELIFVSFFSGAHSQLKEMS----R
+RAKAAIHLV-GDYDED--SQQPALEWKDGVGQAFALGGLRLH--SNQIIIPEKGLYFVYS
+QVSFRVSCSNDVE----------GAWSSKPLSHRIWRSSDS--IGK-------PVSLMSA
+VRSACQNVP--EDGVRSGQGCYSTIYLGAVFHLDKGDKLQTET----NQLPEL-ETEEGK
+TYFGVFAL-------
+>ENSGAFP00000021299 ENSGAFG00000014358	249	tnfb	tumor necrosis factor b (TNF superfamily, member	Gambusia_affinis	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MTGYKITAG-DV
+EAGP-----QD-------RMEV--LVQKKS--S--TGWLWKVLAVLVLLA----------
+---------------------LCL----GGAR---LYVW-------YQLERSQ--STTQA
+G-HTAAPIRMGSDEA-----------------------------TGAHSTLKEMS----K
+KAKAAIHLE-GHYDET--GNATAVEWRDRVGQAFSQGGFRLH--DNQIIIPESGLYFVYS
+QVSFRVSRSNDQE----------AGGRPPSLSHRVRRMSQA--IGT-------KVSLLSA
+VRSACQNVQ--EDGERSGHGCYSTIYLGAVFQLDRGDTLETET----NQLKQL-DTDDGK
+TFFGVFAL-------
+>ENSKMAP00000003382 ENSKMAG00000002572	250	tnfb	tumor necrosis	Kryptolebias_marmoratus	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MMGYAAADG-DL
+EAAA-----QD-------RTHV--LVEKKS--S--TGWMWKVLGALVLLA----------
+---------------------LCA----GGVR---LGLW-------FWTERAA--PTQIH
+S-VPPAPQSFPNPEE----------------------------KTGSHSTLKQIL----K
+TAKAAIHLE-GESYKG--RGNAKLEWSDNMGQAFAQGGLRLH--LNQIIIPETGLYFIYS
+QASFRVSCSDEAW----------AERRSTPLSHRIWRFSDS--IGS-------QVSLMSA
+VRSACQNVP--EEGSKSGERCYSAIYLGAVFHLKTGDQLWTET----NQLSEL-ETEEGK
+TFFGAFAL-------
+>ENSPREP00000005122 ENSPREG00000003585	249	tnfb	tumor necrosis	Poecilia_reticulata	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MTGYKITAG-DV
+EAGP-----QD-------RMEV--LVQKKS--S--TGWLWKMLAVLLLLA----------
+---------------------LCL----GGAR---LYVW-------YQLERSH--STTQA
+G-HTAAPIRMDSDEA-----------------------------TGAHSTLKEMS----K
+KAKAAIHLE-GHYDER--SNATAVEWRDRVGQAFSQGGFRLH--NNQIIIPESGLYFVYS
+QVSFRVSRSSDQE----------AEWRPPSLSHRVRRMSQA--IGT-------KVSLLSA
+VRSACQNVQ--EDGERSGHGCYSTIYLGAVFQLDKGDTLETET----NQLKEL-DTDEGK
+TFFGVFAL-------
+>ENSXMAP00000013393 ENSXMAG00000013364	249	tnfb	tumor necrosis	Xiphophorus_maculatus	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MTGYKITAG-DV
+EAGP-----QD-------RMEV--LVQKKS--S--TGCLWKVLAVLLLLA----------
+---------------------LCL----GGAR---LYVW-------YQLERSQ--STTQA
+G-HTAAPIRMDSDET-----------------------------TGAHSTLKEMS----K
+KAKAAIHLE-GHYDEK--SNATAVEWRDRVGQAFSQGGFRLH--NNQIIIPESGLYFVYS
+QVSFRVSRSSDQE----------GEWRPPSLSHRVRRMSQA--IGT-------KVSLLSA
+VRSACQNVQ--EDGERSGHGCYSTIYLGAVFQLARGDTLETET----NQLKEL-DTDEGK
+TFFGVFAL-------
+>ENSELUP00000036296 ENSELUG00000015560	254	tnfb	tumor necrosis	Esox_lucius	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MVGYEMTLG-DV
+ERCLDNGHVEGGFVYNSTVTPG--TD-TKA--S--RGWLWKLCVVILVVA----------
+---------------------LCA----ATAL---IFAW-------NQHERMT--M--DK
+M-VSQM--Q-EPTD-----------------------------ARDLHPHLEQIG----D
+KAKAAIHLE-GEYSPD--NITDALQWRQDEIQTFSQGGFQLQ--GNKILIPHTGLFFVYS
+QASFRVKCHHPGN-------------HAITVSHIVWRYSDS--IRA-------KANLLSG
+LRSICQRNYS-DAGSNGGEGWYNSVYVGGVFQLDEGDKLWTET----NRLTDV-VPEQGK
+NFFGVFALF------
+>ENSGMOP00000014913 ENSGMOG00000013963	235	tnfb	tumor necrosis factor b (TNF superfamily, member	Gadus_morhua	138B	138	B
+------------------------------------------------------------
+---------------------------------------------------------GDR
+DGGL-----GE-------GMVL--VVQKRS--A--LSWMWRVCVATFILA----------
+---------------------LCV----SGAL---VLTW-------VIPGSRXXXXXXXX
+X--XXXXXXXXXXXX----------------------------XXXXXXXXXXXX----X
+XXXXXXXXX-XHYQAG--AKGGQVEWLRDQGQAFLQGGFQVK--ENQILIPRSGLYFVYS
+QASFRIACEDGEQA------------RVTPLSHRVWRYSDS--VGG-------PSTLMSA
+VRSACQAH--------RGEGWYNTIYLGAAFQLHKGDRLWTET----NQPEQL-EYEGGK
+TFFGVFSL-------
+>ENSNMLP00000008847 ENSNMLG00000006217	228	None	tumor necrosis factor b (TNF superfamily, member	Neogobius_melanostomus	138B	138	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------KQCL--FHILLLNQL----------
+---------------------KCA----AGFA---LVAI-------GVSLRGQ----SQD
+GRHVCHVKEGATSYT--------FGKSPTLIHFPCLNLIFSQL-----------------
+TPTLSHLFT-GSYDD---SAPSGLQWHSGQGQGFAQGGIGLR--DNQIIIPESGLYFVYS
+QASFRVSCQHGPDE---------DGRQRKPLSHRVWRYSES--MVG-------EVSLMSA
+IRSACAGQQQ-QSRAEAGHGWYNAIYLGAVFQLHKGDRLWTET----NSLSEL-ETEEGK
+TFFGVFALF------
+>ENSMMDP00005004646 ENSMMDG00005002511	254	tnfb	tumor necrosis	Myripristis_murdjan	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MASYTMAPG-TV
+EAGL-----GE-------RTVV--VVEKIA--S--SRWRWRVCSVVFIVS----------
+---------------------LCV----AGAL---LFAW-------YWSGRPE--RMMQS
+G-QKEALIEKETSK-----------------------------ATDPHNTLRQIS----S
+KAKAAIHLV-GFYEHD-RNFKGQVEWKNDRGPAFAQGGFKLQ--DNKIIIPRTGLYFVYS
+QASFRVTCNDEDDN-G------NAGRHFTPLSHTVLRFSDS--IGG-------DASLMSV
+VRSACQSSAH-EDSTRIGEGWYNALYLGAVFQLNKGDKLWTET----NQLAEL-ETEGDK
+TFFGVFAL-------
+>ENSSORP00005021942 ENSSORG00005010712	252	tnfb	tumor necrosis	Sphaeramia_orbicularis	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MTAYTITPG-DV
+EMGA-----EE-------NTVV--LVEKKS--S---TWIWKMSGALLVMA----------
+---------------------LCL----GGIL---VFAW-------CWNGRPE--VETQS
+G-QTEPLI--DTSE-----------------------------KTDPHYTLRKIS----S
+KAKAAIHLE-GSYDDG-KNVKAKLEWRNGQGQAFAQGGFKLK--ENQIIIPHTGLYFVYS
+QASFRVSCNDGDDEDE------GAGRRLMLLSHRILRFSDS--IGS-------ETSLMSA
+VRSACQLAAP-EDGYRSGRGWYNAIYLGAVFQLNRGDRLWTET----NQLTEL-ETDEGK
+TFFGVFAL-------
+>ENSLBEP00000022084 ENSLBEG00000016956	253	tnfb	tumor necrosis	Labrus_bergylta	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MMAYTTTPG-DV
+EMAL-----EE-------RMVV--LVEKKS--S--SGRSLKVLGALLIVA----------
+---------------------LCI----GGIL---LFAC-------YWNGKLE--MKKQS
+G-QKETQIKKDTSE-----------------------------KTDHHDTLMRIG----S
+KAKAAIHLE-GWYDED--GETNQLEWRSGQGQAFAQGGFKLE--NNQIIIPQSGLFFVYS
+QASYRVSCSDGEEE-R------GAGKRIKPLSHRILLYTDS--IGE-------KVSLMNA
+VRSACQNTAQ-EGGYSSGQGWYNTVYLGAVFQLNKGDRLWTET----NQPSKL-ETDEGK
+TFFGVFAL-------
+>ENSPKIP00000032567 ENSPKIG00000012620	242	tnfb	tumor necrosis	Paramormyrops_kingsleyae	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MTVYGKTTE-DI
+ESGQVM------------------AAGHKS--S--GSWFWKLCSVLSLMA----------
+---------------------VCA----VLAL---LFTW-------HIQKQEQ--TL--T
+ERPANAL-T-GQRE-----------------------------VHEQQRTLKQIA----D
+KVKAGIHVE-GSVKQD--HFKSSVEWSVIDGHSFVQGGLTLQ--KNKIIIPYTGLFFVYS
+QASFRVSCSTTEGS---------QQPWIMALSHTVMRYSAS--YGG-------EKPLLST
+VKSPCVGASN---DFDTSGKVFSSIYLGAVFKLRRGDELWTDT----NRLQDI-DTDEGK
+TFFGVFAL-------
+>ENSSFOP00015031225 ENSSFOG00015020023	248	tnfb	tumor necrosis	Scleropages_formosus	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MAVYNPTTE-DL
+ESGLGARP----------RLT---VVREAA--K--GDWKWKLCGLLSLVA----------
+---------------------LCA----AAGLL--FFAW-------RVQNQEH--LH--V
+ERPAERH-E-GQPE-----------------------------ESGHHHMLKQLA----G
+KSTSAIHLE-GDWKPE--RYSASIWWRDSVGHSFTQGDLSLK--DNQIVINTSGLYFVYS
+QASFRVKCDPMDSA---------RDQMYNHLFHNVWRFSES--YDD-------KKTLLGT
+IKTACADAKP---GADSSGRIFSTIYLGAVFQLEKDDRLWTET----NHLTDI-EVDGGK
+TFFGVFAL-------
+>ENSCGOP00000008219 ENSCGOG00000004212	252	tnfb	tumor necrosis	Cottoperca_gobio	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MVTYTTAPG-DV
+EMAL-----EE-------RMVV--LVEKKS--S--TERIWKASVALLVVV----------
+---------------------LCL----GGIL---MLAW-------YWSGRPE--TMTQS
+G-NTEALK-TDTAE-----------------------------KTDPHSTLRRIS----S
+KAKAAIHLE-GSYEDG-ESLKDQLEWRNGQGQAFAQGGFRLV--DNQIVIPQTGLYFVYS
+QASFRVSCSDGDE--E------GAGKGLTPLSHRIWRYTDA--ISS-------KASLMSA
+VRSACQNTAQ-EDSYKDGQGWYNAIYLGAVFQLNKGDRLWTET----NQLPEL-ETDEGM
+TFFGVFAL-------
+>ENSGACP00000017676 ENSGACG00000013372	256	tnfb	tumor necrosis factor b (TNF superfamily, member	Gasterosteus_aculeatus	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MVSHTTAPG-DV
+ERGL-----DE-------RMVV--LVEKKP--S--AGRLCKMSVAILVVA----------
+---------------------LCL----GGIL---LLAW-------FWPGLKKQSGQTES
+G-QTEAMLQTKSAE-----------------------------KTDHHSTLRQIS----S
+KAKAAIHLE-GNYEEDDDGSQGRLEWKSGQGQAFAQGGFRLE--GNKIVIPHTGLYFVYS
+QSSFRVSCGDGDE--E------GAGQSHVPLSHRVWRYTNS--LGK-------EASLMNA
+VRSACQNAPQ-EDGFRDGQGWYNAIYLGAVFKLNKGDRLRTET----NQLSEL-ETDDGK
+TFFGVFAL-------
+>ENSCSEP00000029336 ENSCSEG00000018791	242	tnfa	tumor necrosis	Cynoglossus_semilaevis	138B	138	B
+------------------------------------------------------------
+-------------------------------------------------MD---S---EC
+RVQL---DVTDRDGEV----------REEPTPGVQ--ARSKLTKAVLVLT----------
+---------------------VCL----AAAA---AL-L-------LVFYRQHN-----S
+SPQEE--------D-----------------------------SFELHHTLRQMS----H
+V-RAAIHLQ-GVHNP---KMTNSVEWQDEVEQTHSQGGLKLD--NNEVVIPHHGLYFVYS
+QVSFQVSCGDA---DV-----GAVSSPQVHLSHTVQRWSSS--FGSDK-V-KSYRTILHS
+ARTVCQKTA--SADSADEGSSFAAVYMGAVFNLLKGDRLRTVM--EENMLPFL-EDDPGK
+SFFGVFAL-------
+>ENSSMAP00000027108 ENSSMAG00000016564	252	TNF	tumor necrosis factor b (TNF superfamily, member	Scophthalmus_maximus	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MVDYTTAPG-DL
+EMGL-----EA-------RTVV--LVEKKS--A--TGWMWKVIRALIIMA----------
+---------------------LCS----GGVL---LFAW-------HWNG-SE--MRTQS
+S-QTEALVVKDSAE-----------------------------KTDPHSTLRQIS----S
+NAKAAIHLE-GSYDED-VSSQDKLEWKNGQGQAFAQGGFRLM--ENQIIIPQTGLYFVYS
+QASFRVSCDDDSK--D------GAGKRLTPLSHRIWRYSDS--LGF-------NASLMSA
+VRSACQTAAQ-GDSHRDGQGWYNTIYLGAVFQLYKGDKLWTET----NMLSEL-ETEEGK
+TFFGVFAL-------
+>ENSHHUP00000019197 ENSHHUG00000011947	255	tnfb	tumor necrosis factor b (TNF superfamily, member	Hucho_hucho	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MEGYAMTPG-DM
+ERGLENSLVDSGPVYKTTVTAV--AV-RKV--S--RGWLWRLCGVLLVAA----------
+---------------------LCA----AAAL---LFAW-------CQHGRLT--MMQDE
+M-EPQL--E-ILIG-----------------------------AKDTHQTLKQIA----D
+NAKAAIHLE-GEYNPN--FTTDTVQWRKDDGQAFSQGGFELQ--GNQILIPHTGLFFVYS
+QASFRVKCKGPGE-------------HTTPLSHVIWRYSDS--IGV-------NANLLSG
+VRSVCQRNYG-DAESNIGKGWYNAVYLGAVFQLNEGDKLWTET----NRLTDV-ETEQGK
+NFFGVFAL-------
+>ENSOTSP00005036971 ENSOTSG00005017487	246	tnfb	tumor necrosis factor b (TNF superfamily, member	Oncorhynchus_tshawytscha	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MEGYAMTPE-DM
+ER---------GPVYNTTVTAV--AE-GKA--S--RGWLWRLCGVLLIAV----------
+---------------------LCA----AAAL---LFAW-------CQHGRLA--TMQGK
+M-EPQL--E-ILIG-----------------------------AKDTHHTLKQIA----G
+NAKAAIHLE-GEYNPN--LTADTVQWRKDDGQAFSQGGFELQ--GNQILIPHTGLFFVYS
+QASFRVKCNGPGE-------------HTTPLSHIIWRYSDS--IGV-------NANLLSG
+VRSVCQRNYG-DAESKIGEGWYNAVYLGAVFQLNEGDKLWTET----NRLTDV-EPEQGK
+NFFGVFAL-------
+>ENSSTUP00000091575 ENSSTUG00000040264	246	tnfb	tumor necrosis	Salmo_trutta	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MEGYAMTPG-DM
+ER---------GPVYNTTVTAI--AE-GKA--S--RGWLWRLCGVLLVAA----------
+---------------------LCA----AAAL---LFAW-------CQHGRLA--MMQDK
+M-EPQL--E-ILIG-----------------------------AKDTHHTLKQIA----G
+NAKAAIHLE-GEYNPN--LTADTVQWRKDDGQAFSQGGFKLQ--GNQILIPHTGLFFVYS
+QASFRVKCNGPGE-------------HTTPLSHVIWRYSDS--IGV-------NANLLSG
+VRSVCQRNYG-DAESNIGEAWYNAVYLGAVFHLNEGDKLWTET----NRLTDV-EPEQGK
+NFFGVFAL-------
+>ENSIPUP00000023721 ENSIPUG00000016025	230	tnf	tumor necrosis	Ictalurus_punctatus	138B	138	B
+------------------------------------------------------------
+-------------------------------------------------MA---S---DS
+QVVL---DVDGPR------VTI--VREK-A--SWSSSGVWRTCGVLLAVA----------
+---------------------LCA----AAAV------C-------FSQNKTQN------
+-KPD---------E-----------------------------TQEIKHSLRQI----SQ
+TAKAAIHLS-GHYNPQ--VSNVSMQWFDNADQSFSL-GLKLE--DNEIKILHDGLYFVYS
+QASYRLLCKAE---SD-----ET-EGEVMHMSHKVSRWSDS--YSS-------WKPLLSA
+TRSACKKT-----TEEYQKYWYGAVYLGAAFNLEAGDRLRTAM--DEKLLPKV-ESAGGK
+TFFGTFSL-------
+>ENSSAUP00010032100 ENSSAUG00010013647	253	tnfb	tumor necrosis	Sparus_aurata	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MVAYTTAPC-DL
+EMGP-----EE-------RTVV--LIEKKS--S--TGWMWKVSVALLIAA----------
+---------------------LCF----AGVL---LFAW-------YWNGKPE--ILIHS
+G-QSEALTKKDHTE-----------------------------KTDPHSTLKRIS----S
+KAKAAIHLE-GSYDED-EGLKDQVEWKNGQGQAFAQGGFRLV--DNKIVIPHTGLYFVYS
+QASFRVSCSDGDE--E------GAGRHLTPLSHRISRYSES--MGS-------DVSLMSA
+VRSACQNTAQ-EDSYSDGRGWYNTIYLGAVFQLNRGDKLETET----NQLSEL-ETDEGK
+TFFGVFAL-------
+>ENSMAMP00000014765 ENSMAMG00000010016	252	tnfb	tumor necrosis	Mastacembelus_armatus	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MVTYTTAPG-DV
+EMGL-----DV-------RTVD--LVEKKS--S--TGWIWKMFGALLIVA----------
+---------------------LCL----GGV----FFAF-------YWTGRPE--LMTES
+GAKTEALTGTQTAE-----------------------------KTDTQYPLKTFS----S
+TAKAAIHLE-GSYDEV--GTNPSLEWRNDQGQAFSQGDFKLV--KNEIYIPQTGLYFVYS
+QASFRVSCSDGDD--D------GAGKHFTPLSHRIWRYSDS--IGG-------KASLMSA
+VRSACQNTAQ-ENSIEDGQGWYHAIYLGAMFHLNKGDKLWTET----NQVSQL-ETDEGK
+TFFGVFGL-------
+>ENSMALP00000004877 ENSMALG00000003522	254	tnfb	tumor necrosis	Monopterus_albus	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MAEYTAAPG-DV
+EMGL-----EE-------RPVV--LVEKKS--S--TRWIWNACTAIFIVA----------
+---------------------LCL----GGIV---LFDL-------YWNKRPE--PMTPS
+G-QSEMLIEKDTAE-----------------------------KTDPHHMLRQIS----S
+KAKAAIHLE-GSYDEEVVGSEEKLEWKNNQGQAFSLGGLQLV--DNQISIPHTGLYFVYS
+QASFRVSCSDGDEEE--------AE-KRLTVSHRIWRFSDS--RGS-------KASLMNG
+VRSACRNTAQEDNNYSNGQGLYKTIYLGAVFQLHTGDRLWTET----SQLSQL-DTDEGK
+TFFGVFAL-------
+>ENSHCOP00000020665 ENSHCOG00000006938	266	tnfb	tumor necrosis	Hippocampus_comes	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MVAYTPTPA-DL
+EAAVGLKEEEK-------KTVV--VVEKRS--Y--TAWMWKVSAGLLVAA----------
+---------------------LCL----GLVL---LFAW-------YWHGRAE--STTPS
+AGPTQALVA--DDD-----------------------------NSDPHNTLKRIS----S
+KAKAAIHLE-GIHEEG-DSEKEQLQWRNGQGQAFAQGGLTLL--NNQIVVPQTGLYFVYS
+QASFRVSCSDNSGEEDLEPGAASSGKRLAPLSHRVWRYSDS--VGR-------KASLMSA
+VRSACQHSSSAEDEQRTKQGWYNALYLGAVFQLNKDDRLWTET----NQLSEL-ETDGGK
+TFFGVFAL-------
+>ENSMMOP00000022404 ENSMMOG00000016640	254	tnfb	tumor necrosis factor b (TNF superfamily, member	Mola_mola	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MVEYATAQS-DV
+EMGL-----EE-------RTVV--LVEKKS--S--TGRLWRVSGALLFVA----------
+---------------------LCF----GLVL---LFFL-------YWNGRPE--MLTQS
+G-QTEALKERNPSE-----------------------------KTDPHYTLSRIS----S
+KAKAAIHLE-GESYS--ESFQNRLEWKNGQGQAFAQGGFQLE--NNKIIIPETGLYFVYS
+QASFSVSCSDSDSDRE------VVGKGLMPLSHRVWRYSDS--IGS-------PASLMSA
+VRSACQNTAL-EGSYRDGQGWYNNIYLGAVFQLNRGDKLWTET----NQLSEL-DTEEGN
+TFFGVFAL-------
+>ENSTRUP00000014387 ENSTRUG00000005908	250	tnfa	Takifugu rubripes tumor necrosis factor alpha (tnfa), mRNA	Takifugu_rubripes	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MVNYMTTAS-DV
+EMGL-----QQ-------KTVV--LVEKKS--S--TGWMGKIILAIFVVV----------
+---------------------LCC----GGAL---LFVS-------YWNGRQE--MQAVP
+E-KSETLIEK---K-----------------------------DTDPHYTLSRIS----S
+KAKAAIHLE-GSFDEG-ENRKDQVEWKNGQGQAFAQGDFQLD--NNTIIIPKTGLYFVYS
+QASFRVTCGEGDK--H------SPGKSHIPLSHRVWRYSDS--IGT-------ETTLLNA
+VRSACQNSAL-EGGYSEGQSCYNAIYLGAVFQLKMGDKLRTET----NQLSEL-ETEEGK
+TFFGVFAL-------
+>ENSTNIP00000001907 ENSTNIG00000000171	249	None	None	Tetraodon_nigroviridis	138B	138	B
+------------------------------------------------------------
+------------------------------------------------MVNYTTTPARDV
+ETGL-----GQ-------ETVV--LVEKKS--S--SGWMGKLLLAMFLML----------
+---------------------VCS----AGAV---FFTW-------FSSGRQEP--QAFP
+A-EAEALIQRR--------------------------------RTEPLR--CLLS----N
+QSKAAIHLE-GRVRDG-EQGQKQLVWSNDQGQAFAQGGFKFQ--DNAVLIPASGLYFVYS
+QASFRVSCGDEDAE--------AGSRGLTPLSHRIWRYSDV--TGG-------QSTLLSA
+VRSACQPSMM-EGGNSEGQGWYNTIYLGAVFRLKAGDKLWTET----NQLSQL-EADEGT
+NFFGVFAL-------
+>ENSBBBP00000010062 ENSBBBG00000018215	233	TNF	tumor necrosis	Bison_bison_bison	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTKSMIR---DV
+ELAE-----E--------------VLSEKAGGP---QGSRS----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREE-----SPG-----------------GPSI--------NSPLVQTLRS--SSQAS
+SNKPVAHVV-ADINS-----PGQLRWWDSYANALMANGVKLE--DNQLVVPADGLYLIYS
+QVLFRGQGCPSTP---------------LFLTHTISRIAVS--YQT-------KVNILSA
+IKSPCHRETP---EWAEAKPWYEPIYQGGVFQLEKGDRLSAEI----NLPDYLDYAESGQ
+VYFGIIAL-------
+>ENSBTAP00000035682 ENSBTAG00000025471	333	TNF	tumor necrosis	Bos_taurus	138B	138	B
+MGFSTKEVFRWLNESLSPP------SSHPTAYK--CSCLHTQPTEAPRAGTPGDQPGERQ
+AAAEPPGDNLPDNTPPRDSQATCSLSHTLPQGSPVSRLDLNPSEKDTMSTKSMIR---DV
+ELAE-----E--------------VLSEKAGGP---QGSRS----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREEQ----SPG-----------------GPSI--------NSPLVQTLRS--SSQAS
+SNKPVAHVV-ADINS-----PGQLRWWDSYANALMANGVKLE--DNQLVVPADGLYLIYS
+QVLFRGQGCPSTP---------------LFLTHTISRIAVS--YQT-------KVNILSA
+IKSPCHRETP---EWAEAKPWYEPIYQGGVFQLEKGDRLSAEI----NLPDYLDYAESGQ
+VYFGIIAL-------
+>ENSCDRP00005029471 ENSCDRG00005020197	233	TNF	Camelus dromedarius tumor necrosis factor (TNF), mRNA	Camelus_dromedarius	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPKKAGGP---QGSRR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQKEE-----LMT-----------------GLQL--M----N--PLAQTLRS--SSQAS
+RDKPVAHVV-ADPAA-----QGQLQWEKRFANTLLANGVKLE--DNQLVVPTDGLYLIYS
+QVLFSGQRCPSTP---------------VFLTHTISRLAVS--YPN-------KANLLSA
+IKSPCQGGTS---EEAEAKPWYEPIYLGGVFQLEKDDRLSAEI----NMPNYLDFAESGQ
+VYFGIIAL-------
+>ENSCHIP00000004561 ENSCHIG00000008732	234	TNF	tumor necrosis	Capra_hircus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTKSMIR---DV
+ELAE-----E--------------VLSKKAGGP---QGSRS----------------CWC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREEQ----SPA-----------------GPSF--------NRPLVQTLSK--CLHNL
+FSNSGLGGV-ANISA-----PGQLRWGDSYANALKANGVELK--DNQLVVPTDGLYLIYS
+QVLFRGHGCPSTP---------------LFLTHTISRIAVS--YQT-------KVNILSA
+IKSPCHRETP---EGAEAKPWYEPIYQGGVFQLEKGDRLSAEI----NLPEYLDYAESGQ
+VYFGIIAL-------
+>ENSCWAP00000007078 ENSCWAG00000005492	233	TNF	tumor necrosis	Catagonus_wagneri	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ELAKKAGGP---QGSRR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREE-----FPT-----------------GPLI--------NNPLAQGLRS--SSQTS
+SDKPVAHVV-ANVKT-----EGQLQWQSGYANALLANGVKLE--DNQLVVPTDGLYLIYS
+QVLFRGQGCPSTH---------------VFLTHTISRIAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGAEAKPWYEPIYLGGVFQLEKDDRLSAEI----NLPDYLDFAESGQ
+VYFGIIAL-------
+>ENSDLEP00000027030 ENSDLEG00000019530	233	TNF	tumor necrosis	Delphinapterus_leucas	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALSKTAGGS---QGSGR----------------CLC
+LS-------------------LFSFFLVAGGTT--LFCLLHFGV---------------I
+GPQREE-----FPT-----------------GYSI--------ISPLAQTLRS--SSKTS
+SNKPVAHVV-ANLSA-----QGQLRWLNTYANTLLANSVKLE--DNQLVVPTDGLYLIYS
+QVLFRGQGCPSTH---------------LFLTHTISRIAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGAEAKPWYEPIYQGGVFQLEKGDRLSAEI----NLPDYLDFAESGQ
+VYFGIIAL-------
+>ENSMMSP00000023557 ENSMMSG00000017728	233	TNF	tumor necrosis	Moschus_moschiferus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTKSMIR---DV
+ELAE-----E--------------ALSKKAGGP---QGSRS----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREE-----SPT-----------------GLSI--------NSPLVQTLRS--SSQAS
+SNKPVAHVV-ADINA-----PGQLRWLDLYANALMANGVKLE--DNQLVVPTDGLYLIYS
+QVLFRGQSCPSTP---------------LFLTHTISRIAVS--YQT-------KVNILSA
+IKTPCQRETP---EGAEAKPWYEPIYQGGVFQLEKGDRLSADI----NLPNYLDYAESGQ
+VYFGIIAL-------
+>ENSOARP00000008936 ENSOARG00000008333	234	TNF-alpha	Tumor necrosis factor Tumor necrosis factor, membrane form Intracellular domain 1 Intracellula
+------------------------------------------------------------
+-----------------------------------------------MSTKSMIR---DV
+ELAE-----E--------------VLSNKAGGP---QGSRS----------------CWC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREEQ----SPA-----------------GPSF--------NRPLVQTLRS--SSQAS
+NNKPVAHVV-ANISA-----PGQLRWGDSYANALMANGVELK--DNQLVVPTDGLYLIYS
+QVLFRGHGCPSTP---------------LFLTHTISRIAVS--YQT-------KVNILSA
+IKSPCHRETL---EGAEAKPWYEPIYQGGVFQLEKGDRLSAEI----NLPEYLDYAESGQ
+VYFGIIAL-------
+>ENSPCTP00005018837 ENSPCTG00005013376	233	TNF	tumor necrosis	Physeter_catodon	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALSKTAGDS---QGSRR----------------CLC
+LS-------------------LFSFFLVAGATM--LFCLLHFGV---------------I
+GPQREE-----FPT-----------------GYSI--------ISPLAQTLRS--SSKTS
+SNKPVAHVV-ANLSA-----QGQLRWLNTYANTLLANSVKLE--DNQLVVPTDGLYLIYS
+QVLFRGQGCPPTH---------------LFLTHTISRIAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGAEAKPWYEPIYQGGVFQLEKGDRLSAEI----NLPDYLDFAESGQ
+VYFGIIAL-------
+>ENSSSCP00000062245 ENSSSCG00000001404	233	TNF	tumor necrosis	Sus_scrofa	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALAKKAGGP---QGSRR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHFEV---------------I
+GPQKEE-----VSA-----------------WPGL--------IFFFPLSSSG--SSSQT
+SDKPVAHVV-ANVKA-----EGQLQWQSGYANALLANGVKLK--DNQLVVPTDGLYLIYS
+QVLFRGQGCPSTN---------------VFLTHTISRIAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGAEAKPWYEPIYLGGVFQLEKDDRLSAEI----NLPDYLDFAESGQ
+VYFGIIAL-------
+>ENSTTRP00000013353 ENSTTRG00000014085	233	TNF	tumor necrosis	Tursiops_truncatus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALSKTAGGS---QGSGR----------------CLC
+LS-------------------LFSFFLVAGGTT--LFCLLHFGV---------------I
+GPQREE-----FPT-----------------GYSI--------ISPLAQTLRS--SSKTS
+SNKPVAHVV-ANLST-----QGQLRWLNTYANTLLANSVKLE--DNQLVVPTDGLYLIYS
+QVLFRGQGCPSTH---------------LFLTHTISRIAVS--YPT-------KVNLLSA
+IKSPCQRETP---EGAEAKPWYEPIYQGGVFQLEKGDRLSAEI----NLPDYLDFAESGQ
+VYFGIIAL-------
+>ENSAMEP00000009955 ENSAMEG00000009478	233	TNF	tumor necrosis	Ailuropoda_melanoleuca	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------SLPKKAGGP---QGSRR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREE-----LPD-----------------GLQL--I----N--PLAQTVKS--SSRTP
+SDKPVAHVV-ANPEA-----EGQLQWLSRRANALLANGVELT--DNQLIVPSDGLYLIYS
+QVLFKGQGCPSTH---------------VLLTHTISRFAVS--YQT-------KVNLLSA
+IKSPCQRETA---EGTEAKPWYEPIYLGGVFQLERGDRLSAEI----NLPDYLDFAESGQ
+VYFGIIAL-------
+>ENSCAFP00000000739 ENSCAFG00000000517	233	TNF	tumor necrosis	Canis_lupus_familiaris	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------PLPKKAGGP---PGSRR----------------CFC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREE-----LPN-----------------GLQL--I----S--PLAQTVKS--SSRTP
+SDKPVAHVV-ANPEA-----EGQLQWLSRRANALLANGVELT--DNQLIVPSDGLYLIYS
+QVLFKGQGCPSTH---------------VLLTHTISRFAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGTEAKPWYEPIYLGGVFQLEKGDRLSAEI----NLPNYLDFAESGQ
+VYFGIIAL-------
+>ENSFCAP00000051032 ENSFCAG00000004499	321	TNF	tumor necrosis	Felis_catus	138B	138	B
+--------MRAF-----PA------LLLPCGYINAAVCTPSQQKLPQRRHQGTSQERERS
+NSRPPPGNNISDDTPPDKQPGDSLPLTHAALGLYHHPAGLEPPGKNAMSTESMIR---DV
+ELAE-----E--------------ALPKKAGGP---QGSRR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREE-----LPH-----------------GLQL--I----N--PLPQTLRS--SSRTP
+SDKPVAHVV-ANPEA-----EGQLQWLSRRANALLANGVELT--DNQLKVPSDGLYLIYS
+QVLFTGQGCPSTH---------------VLLTHTISRFAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGAEAKPWYEPIYLGGVFQLEKGDRLSAEI----NLPAYLDFAESGQ
+VYFGIIAL-------
+>ENSLCNP00005012779 ENSLCNG00005008421	233	TNF	tumor necrosis	Lynx_canadensis	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPKKAGGP---QGSRR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREE-----LPH-----------------GLQL--I----N--PLPQTLRS--SSRTP
+SDKPVAHVV-ANPEA-----EGQLQWLSRRANALLANGVELT--DNQLKVPSDGLYLIYS
+QVLFTGQGCPSTH---------------VLLTHTISRFAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGAEAKPWYEPIYLGGVFQLEKGDRLSAEI----NLPNYLDFAESGQ
+VYFGIIAL-------
+>ENSMPUP00000011297 ENSMPUG00000011389	233	TNF	tumor necrosis	Mustela_putorius_furo	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELGE-----E--------------ALPKKAGAP---KGSRR----------------CWC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREE-----LPD-----------------GLQL--I----K--PLAQTVKS--SSRTP
+SDKPVAHVV-ANPEA-----EGQLQWLSRRANALLANGVELT--DNQLIVPSDGLYLIYS
+QVLFKGRGCSSTN---------------VLLTHTISRFAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGTEAKPWYEPIYLGGVFQLEKGDRLSAEI----NLPAYLDFAESGQ
+VYFGIIAL-------
+>ENSNVIP00000021095 ENSNVIG00000016509	233	TNFA	tumor necrosis	Neovison_vison	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELGE-----E--------------ALPKKAGAP---KGSRK----------------CWC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREE-----LPD-----------------GLQL--I----K--PLAQTVKS--SSRTP
+SDKPVAHVV-ANPEA-----EGQLQWLSRRANALLANGVELT--DNQLIVPSDGLYLIYS
+QVLFKGRGCSSTN---------------VLLTHTISRFAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGTEAKPWYEPIYLGGVFQLEKGDRLSAEI----NLPAYLDFAESGQ
+VYFGIIAL-------
+>ENSPLOP00000011779 ENSPLOG00000008629	233	TNF	tumor necrosis	Panthera_leo	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPKKAGGP---QGSRR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREE-----LPH-----------------GLQL--I----N--PLPQTLRS--SSRTP
+SDKPVAHVV-ANPEA-----EGQLQWLSRRANALLANGVELT--DNQLKVPSDGLYLIYS
+QVLFTGQGCPSTH---------------VLLTHTISRFAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGAEAKPWYEPIYLGGVFQLEKGDRLSAEI----NLPDYLDFAESGQ
+VYFGIIAL-------
+>ENSSSUP00005005281 ENSSSUG00005003456	233	TNF	tumor necrosis	Suricata_suricatta	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAG-----E--------------ALPEKAGGP---QGSRR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREE-----LPH-----------------GLQL--I----N--PLPQTLRS--SSRTP
+SDKPVAHVV-ANPES-----EGQLQWLSRRANALLANGVELT--DNQLVVPSDGLYLIYS
+QVLFTDQRCPSTH---------------VLLTHTISRFAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGAEAKPWYEPIYLGGVFQLEKGDRLSAEI----NLPHYLDFAESGQ
+VYFGIIAL-------
+>ENSUMAP00000020603 ENSUMAG00000015092	233	TNF	tumor necrosis	Ursus_maritimus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPKKAGGP---QGSRR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREE-----LPD-----------------GLQL--I----N--PLAQTVKS--SSRTP
+SDKPVAHVV-ANPEA-----EGQLQWLSRRANALLANGVELT--DNQLIVPSDGLYLIYS
+QVLFKGQGCPSTH---------------VLLTHTISRFAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGTEAKPWYEPIYLGGVFQLEKGDRLSAEI----NLPDYLDFAESGQ
+VYFGIIAL-------
+>ENSVVUP00000027942 ENSVVUG00000020474	233	TNF	tumor necrosis	Vulpes_vulpes	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------PLPKKAGGH---PGSRR----------------CFC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREE-----LPN-----------------GLQL--I----S--PLAQTVKS--SSRTP
+SDKPVAHVV-ANPEA-----EGQLQWLSRRANALLANGVELK--DNQLIVPSDGLYLIYS
+QVLFKGQGCPSTH---------------VLLTHTISRFAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGTEAKPWYEPIYLGGVFQLEKGDRLSAEI----NLPNYLDFAESGQ
+VYFGIIAL-------
+>ENSMLUP00000003613 ENSMLUG00000003969	238	TNF	tumor necrosis	Myotis_lucifugus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPKKAGGP---QGSRR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHLGV---------------I
+GPQREEQ----HPH-----------------SPQQFQM----GNLPLAQTLGL--SSRTP
+GDKPVAHVV-ANQQT-----MGQLLWQNKVANALLANGVSLT--DNQLVVPLNGLYLIYS
+QVLFKGQGCPHTP---------------LLLTHTVSRFAVS--YKN-------KINLLSA
+IKSPCQRETP---EGAEAMPWYEPIYLGGVFRLEKGDRLSAEI----NLPDYLDFAESGQ
+VYFGIVAL-------
+>ENSPVAP00000004409 ENSPVAG00000004657	233	TNF	tumor necrosis	Pteropus_vampyrus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ELPKKAGGP---QASRR----------------CLC
+LS-------------------LFSFLLVAGATM--LFCLLHFGV---------------I
+GPQREE-----FPT-----------------GLPL--I----K--PLAQTLGL--SSRTP
+SDKPVAHVV-ANPQA-----EGQLQWLSQRANALLANGMKLT--DNQLVVPLDGLYLIYS
+QVLFKGQGCPQTH---------------VLLTHTISRFADS--YQT-------KVNLLSA
+IKSPCQRETQ---EGAAAKPWYEPIYLGGVFQLEKGDRLSAEI----NLPDYLDFAESGQ
+VYFGIIAL-------
+>ENSRFEP00010002084 ENSRFEG00010001523	233	TNF	tumor necrosis	Rhinolophus_ferrumequinum	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DM
+ELAE-----E--------------ALPKKAGGP---QGFRR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREE-----FPA-----------------DLKF--I----N--PLAHTLGV--SSRTP
+SDKPVAHVV-ANPQT-----EGQLKWLSRRANALLTNGMLLT--DNQLVVPLDGLYLIYS
+QVLFKGQGCPQSH---------------VLLTHTVSRFAVS--YRS-------KVNLLSA
+IKSPCQRETA---EGAEAKPWYEPIYLGGVFQLEKGDRLSAEI----NLPEYLDVAEPGQ
+VYFGIIAL-------
+>ENSMODP00000019686 ENSMODG00000015780	229	TNF	tumor necrosis	Monodelphis_domestica	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALQRKAKGL---QGSGH----------------CLF
+LT-------------------LISFLVLAGATI--LFCLLHYGV---------------I
+GPQKEQD----SPS-----------------AFLD--------MKPLTQRKHV---DST-
+--FSSSFPT-AKPTA-----EGKFQWYSGHANDL-LNGMKLN--DNQLVVPATGLYLVYS
+QLLFKGEGCTNEP---------------LLLMHTVSRVARS--YPN-------KVNLLAA
+IKSPCQRAAQ---GSRESNPWYEPTYLGGVFQLEKGDMLSSDT----NYPKYLDLAESGQ
+VYFGAIAL-------
+>ENSMEUP00000007583 ENSMEUG00000008304	232	TNF	tumor necrosis	Notamacropus_eugenii	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTENMIR---DV
+ELAE-----E--------------ELQRKARGP---QGPGR----------------CLC
+LI-------------------LTFFLLLAGATL--LFCLLHFGV---------------I
+GPQNEEV----H-R-----------------CLSW--------MKPVTQRVRS---CQTE
+SNKPVAHVI-ADPLA-----EGKLQWLKRRANVLLSNGMDLV--DNQLVVPSTGLYLVYS
+QLLFKGEDCANEP---------------LLLTHTVSRVALS--YQS-------KVNLLSA
+IKSPCQKTVK---GAREASPWYEPIYLGGVFQLEKGDKLSADT----NYPNYLDFAESGQ
+VYFGVIAL-------
+>ENSPCIP00000049531 ENSPCIG00000032345	232	TNF	tumor necrosis	Phascolarctos_cinereus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTEDMIR---DV
+ELAE-----E--------------ALQRKARGP---QGPGR----------------CLC
+LS-------------------LIFFLLLAGATM--LFCLLHFGV---------------I
+GPQKEEE----S-T-----------------DFLG--------MEPLTQRVRS---CQTE
+SNKPVAHVV-ADPQA-----EGQLQWLRRRANVLLSNGMKLE--DNQLVVPSTGLYLVYS
+QLLFKGEDCASEP---------------LILTHTISRVALS--YEN-------KVSLLAA
+IKSPCQKAAQ---GAREASPWYEPTYLGGVFQLEKGDKLSAET----NYPKYLDFAESGQ
+VYFGVIAL-------
+>ENSVURP00010002470 ENSVURG00010002024	232	TNF	tumor necrosis	Vombatus_ursinus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTENMIR---DV
+ELAE-----E--------------ALQRKARGP---QGPGR----------------CLC
+LS-------------------LTFFLLLAGATM--LFCLLHFGV---------------I
+GPQKEEE----S-T-----------------DFLG--------MKPLTQRVRS---CQTE
+SNKPVAHVV-ADPQA-----EGQLQWLSRRANVLLSNGMKLE--DNQLVVPSTGLYLVYS
+QLLFKGEDCASEP---------------LILTHTISRVALS--YQN-------KVSLLAA
+IKSPCQKAAQ---GAREASPWYEPTYLGGVFQLEKGDKLSAET----NYPKYLDFAESGQ
+VYFGVIAL-------
+>ENSEEUP00000003077 ENSEEUG00000003375	232	TNF	Erinaceus europaeus tumor necrosis factor (TNF), mRNA	Erinaceus_europaeus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------SLPKKAGGP---QGSRR----------------CLC
+FS-------------------LFSFFLVAGATT--LFCLLHFGV---------------I
+GPQRDE-----FPD-----------------NIQL--------NNALAQTLRS--S-RTQ
+SDKPVAHVV-ASIKS-----EGQLLWESEVANALLANGMKLT--DNQLVVPLDGLYLIYS
+QVLFKGQGCPSTH---------------VFLTHNIKRYAVS--YQK-------DVNLLSA
+IKSPCQSETP---EGAEARPWYEPIYLGGVFQLEKGDRLSAEI----NLPDYLDFDESGQ
+VYFGIIAL-------
+>ENSPCAP00000007019 ENSPCAG00000007543	232	TNF	tumor necrosis	Procavia_capensis	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTETMIR---DV
+ELAE-----E--------------AVSKKAAAS---QGSRR----------------FLG
+LS-------------------LFSFLLVAAATT--LFCLLHFGV---------------I
+GPQGEE-----LPD-----------------DLSP--------IKPLAQTLRS---SQNP
+TDKPVAHLV-ANLQD-----MGQLQWVSGRDNALLANGMKLV--NNKLVVPSNGLYLVYS
+QVLFKGRGCPTSQ---------------LLLTHAVSRITTS--YEN-------KINLLSA
+IKSPCRRETP---EGAETKPWYEPIYLGGVFQLEKGDQLSAEV----NLTQYIDLAESGQ
+VYFGIVAL-------
+>ENSOPRP00000010897 ENSOPRG00000011953	232	TNF	tumor necrosis	Ochotona_princeps	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTENMIR---DV
+ELAE-----G--------------QLSKKTEAS---QGPKR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQGEE-----FPN-----------------NLHL--------VNPLAQ--TLRSASRTP
+SDKPVAHVV-ANPQK-----EGQLEWLNQRANALLANGLKLI--DNQLVVPRDGLYLVYS
+QVLFKGQACPSY----------------LLLTHTVSRFAVS--YPN-------KVNLLSA
+IKSPCQKETP---EGTEPMAWYEPIYQGGVFQLEKGDRLSTEV----NMPDYLDLAESGQ
+VYFGIIAL-------
+>ENSOCUP00000005787 ENSOCUG00000006698	234	TNF	Oryctolagus cuniculus tumor necrosis factor (TNF), mRNA	Oryctolagus_cuniculus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----G--------------PLPKKAGGP---QGSKR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHFRV---------------I
+GPQEEE-----SPN-----------------NLHL--------VNPVAQMVTLRSASRAL
+SDKPLAHVV-ANPQV-----EGQLQWLSQRANALLANGMKLT--DNQLVVPADGLYLIYS
+QVLFSGQGCRSY----------------VLLTHTVSRFAVS--YPN-------KVNLLSA
+IKSPCHRETP---EEAEPMAWYEPIYLGGVFQLEKGDRLSTEV----NQPEYLDLAESGQ
+VYFGIIAL-------
+>ENSOANP00000047949 ENSOANG00000043162	230	Tnf	tumor necrosis	Ornithorhynchus_anatinus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMLR---DI
+ELAG-----E--------------PAGK-TAGA---QRPGH----------------CLC
+LS-------------------LVSFLLVAGATT--LFCLLHFGV---------------I
+GPQDREV----REL-------------------SQ--I----H--TCTHT-HTYQSYQPS
+AEKPAAHVV-ANSQE-----DKKLVWVGGRANALLEGNVILD--KNQLVVPASGLYLVYS
+QILFKDSSCPANPD------------DSPILTHNVSRFSDS--YEY-------EVSILSA
+IKTPCQGG--------AKGTWYEPIYQGGIFRLNQGDRLSSQT----NSPEYLDFSMEGQ
+VYFGIIAL-------
+>ENSECAP00000001460 ENSECAG00000001174	253	TNF	tumor necrosis	Equus_caballus	138B	138	B
+------------------------------------------------------------
+----------------------------MPQGSTISQLDLSPSGKDIMSTESMIR---DV
+ELAE-----E--------------ELAKKAGGP---QGSRR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREEQ----LPN-----------------AFQS--I----N--PLAQTLRS--SSRTP
+SDKPVAHVV-ANPQA-----EGQLQWLSGRANALLANGVKLT--DNQLVVPLDGLYLIYS
+QVLFKGQGCPSTH---------------VLLTHTISRLAVS--YPS-------KVNLLSA
+IKSPCHTESP---EQAEAKPWYEPIYLGGVFQLEKGDQLSAEI----NQPNYLDFAESGQ
+VYFGIIAL-------
+>ENSCJAP00000053053 ENSCJAG00000040100	232	TNF	tumor necrosis	Callithrix_jacchus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTETMIQ---DV
+ELAE-----E--------------ALPK-TRGP---QGSKR----------------RLF
+LS-------------------LFSFLLVAGATA--LFCLLHFGV---------------I
+GPQKDE-----LSK-----------------DFSL--------ISPLALAVRSS-S-RIP
+SDKPVAHVV-ANPQA-----EGQLQWLNRRANALLANGVELR--DNQLVVPSEGLYLVYS
+QVLFKGQGCPSNF---------------MLLTHSISRIAVS--YQA-------KVNLLSA
+IKSPCQRETP---QGAKTNPWYEPIYLGGVFQLEKGDRLSAEI----NLPDYLDLAESGQ
+VYFGIIGL-------
+>ENSCATP00000001057 ENSCATG00000005167	233	TNF	tumor necrosis	Cercocebus_atys	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPRKTAGP---QGSRR----------------CWF
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREE-----FPK-----------------DPSL--------ISPLAQAVRSS-S-RTP
+SDKPVAHVV-ANPQA-----EGQLQWLNRRANALLANGVELT--DNQLVVPSEGLYLIYS
+QVLFKGQGCPSNH---------------VLLTHTISRIAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGAEAKPWYEPIYLGGVFQLEKGDRLSAEI----NLPDYLDFAESGQ
+VYFGIIAL-------
+>ENSGGOP00000005887 ENSGGOG00000006018	233	TNF	tumor necrosis	Gorilla_gorilla	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPKKTGGP---QGSRR----------------CLF
+LS-------------------LFSFLIVAGATT--LFCLLHFGV---------------I
+GPQREE-----FPR-----------------DLSL--------ISPLAQAVRSS-S-RTP
+SDKPVAHVV-ANPQA-----EGQLQWLNRRANALLANGVELR--DNQLVVPSEGLYLIYS
+QVLFKGQGCPSTH---------------VLLTHTISRIAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGAEAKPWYEPIYLGGVFQLEKGDRLSAEI----NRPDYLDFAESGQ
+VYFGIIAL-------
+>ENSP00000398698 ENSG00000232810	233	TNF	tumor necrosis	Homo_sapiens	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPKKTGGP---QGSRR----------------CLF
+LS-------------------LFSFLIVAGATT--LFCLLHFGV---------------I
+GPQREE-----FPR-----------------DLSL--------ISPLAQAVRSS-S-RTP
+SDKPVAHVV-ANPQA-----EGQLQWLNRRANALLANGVELR--DNQLVVPSEGLYLIYS
+QVLFKGQGCPSTH---------------VLLTHTISRIAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGAEAKPWYEPIYLGGVFQLEKGDRLSAEI----NRPDYLDFAESGQ
+VYFGIIAL-------
+>ENSMMUP00000056761 ENSMMUG00000045654	233	TNF	tumor necrosis	Macaca_mulatta	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPRKTAGP---QGSRR----------------CWF
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREE-----FPK-----------------DPSL--------ISPLAQAVRSS-S-RTP
+SDKPVAHVV-ANPQA-----EGQLQWLNRRANALLANGVELT--DNQLVVPSEGLYLIYS
+QVLFKGQGCPSNH---------------VLLTHTISRIAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGAEAKPWYEPIYLGGVFQLEKGDRLSAEI----NLPDYLDFAESGQ
+VYFGIIAL-------
+>ENSMLEP00000037612 ENSMLEG00000042899	233	TNF	tumor necrosis	Mandrillus_leucophaeus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPRKTAGP---QGSRR----------------CWF
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREE-----FPK-----------------DPSL--------ISPLAQAVRSS-S-RTP
+SDKPVAHVV-ANPQA-----EGQLQWLNRRANALLANGVELT--DNQLVVPSEGLYLIYS
+QVLFKGQGCPSNH---------------VLLTHTISRIAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGAEAKPWYEPIYLGGVFQLEKGDRLSAEI----NLPDYLDFAESGQ
+VYFGIIAL-------
+>ENSMICP00000032764 ENSMICG00000029047	236	TNF	tumor necrosis	Microcebus_murinus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPKKAEGP---QGSRR----------------CAC
+LS-------------------LFSFLLVAGATM--LFCLLHFGV---------------I
+GPQREEQ----FPG-----------------GLHL--V----NGSPLAQTLRS--SSRTP
+SDKPVAHVV-ANPQA-----EAQLQWISGRANALLANGVQLA--DNQLVVPSGGLYLIYS
+QVLFKGQGCPSTH---------------VLLTHTISRVAIS--YQT-------KVNLLSA
+IKSPCHRETS---EEAEAKPWYEPIYLGGVFQLERGDRLSAEI----NLPDYLDFAESGQ
+VYFGIIAL-------
+>ENSPTRP00000069905 ENSPTRG00000017965	234	TNF	tumor necrosis	Pan_troglodytes	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPKKTGGP---QGSRR----------------CLF
+LS-------------------LFSFLIVAGATT--LFCLLHFGV---------------I
+GPQREE-----FPR-----------------DLSL--------ISPLAQAVMNR-HGHTD
+SPLPLSLPP-ANPQA-----EGQLQWLNRRANALLANGVELR--DNQLVVPSEGLYLIYS
+QVLFKGQGCPSTH---------------VLLTHTISRIAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGAEAKPWYEPIYLGGVFQLEKGDRLSAEI----NRPDYLDFAESGQ
+VYFGIIAL-------
+>ENSPANP00000011146 ENSPANG00000009197	233	TNF	tumor necrosis	Papio_anubis	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPRKTAGP---QGSRR----------------CWF
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREE-----FPK-----------------DPSL--------ISPLAQAVRSS-S-RTP
+SDKPVAHVV-ANPQA-----EGQLQWLNRRANALLANGVELT--DNQLVVPSEGLYLIYS
+QVLFKGQGCPSNH---------------VLLTHTISRIAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGAEAKPWYEPIYLGGVFQLEKGDRLSAEI----NLPDYLDFAESGQ
+VYFGIIAL-------
+>ENSPPYP00000018379 ENSPPYG00000016437	233	TNF	tumor necrosis	Pongo_abelii	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPKKTGGP---HGSRR----------------CLF
+LS-------------------LVSFLIVAGATT--LFCLLHFGV---------------I
+GPQREE-----FPK-----------------DLSL--------ISPLAQAVRSS-S-RTP
+SDKPVAHVV-ANPQA-----EGQLQWLNRRANALLANGVELR--DNQLVVPSEGLYLIYS
+QVLFKGQGCPSTH---------------VLLTHTISRIAVS--YQT-------KVNLLSA
+IKSPCQRETT---EGAEAKPWYEPIYLGGVFQLEKGDRLSAEI----NLPNYLDFAESGQ
+VYFGIIAL-------
+>ENSTGEP00000036881 ENSTGEG00000029374	233	TNF	tumor necrosis	Theropithecus_gelada	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPRKTAGP---QGSRR----------------CWF
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREE-----FPK-----------------DPSL--------ISPLAQAVRSS-S-RTP
+SDKPVAHVV-ANPQA-----EGQLQWLNRRANALLANGVELT--DNQLVVPSEGLYLIYS
+QVLFKGQGCPSNH---------------VLLTHTISRIAVS--YQT-------KVNLLSA
+IKSPCQRETP---EGAEAKPWYEPIYLGGVFQLEKGDRLSAEI----NLPDYLDFAESGQ
+VYFGIIAL-------
+>ENSLAFP00000006573 ENSLAFG00000007834	235	TNF	tumor necrosis	Loxodonta_africana	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPKKAGAP---QDSRR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHFRV---------------I
+GPQGEEQ----FSD-----------------GFHL--I----N--PLAQTLRS--SSRDP
+SDKPVAHVVAANPQT-----EGQLQWLSRRANTLLANGVELI--DNQLMVPSDGLYLIYS
+QVLFKGQGCPATQ---------------VLLTHTISRIAVS--YKT-------KVNLLSA
+IKSPCHRETP---EGAEAKPWYEPIYLGGVFQLEKGDRLSAEI----NLPDYLDFAESGQ
+VYFGIIAL-------
+>ENSCCNP00000003154 ENSCCNG00000003413	235	Tnf	tumor necrosis	Castor_canadensis	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIQ---DV
+ELAE-----E--------------ALPKKAGGP---QGSRR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREEQ----FGN-----------------SLPF--------NSHLAQTLTLRSSSQNA
+SDKPVAHVV-ANHQV-----EEQLQWLSRRANALLANGMELI--DNQLVVPADGLYLIYS
+QVLFKGQGCPSY----------------VLLTHTVSRFAVS--YRE-------NVNLLSA
+IKSPCQKETP---EGAELKPWYEPIYLGGVFQLEKGDRLSAEV----NLPSYLDFAESGQ
+VYFGVIAL-------
+>ENSCPOP00000002129 ENSCPOG00000002343	233	TNF	tumor necrosis	Cavia_porcellus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------QLPKKAGGP---QGSRR----------------CWC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQRE-E----FSS-----------------GPPF---------RPLAQTLTLRSASQND
+NDKPVAHVV-ANQQA-----EEELQWLSKRANALLANGMGLS--DNQLVVPSDGLYLIYS
+QVLFKGQGCPSY----------------LLLTHTVSRLAVS--YPE-------KVNLLSA
+IKSPCQKETP---EGAERKPWYEPIYLGGVFQLQKGDRLSAEV----NLPQYLDFADSGQ
+IYFGVIAL-------
+>ENSCLAP00000021480 ENSCLAG00000014712	233	TNF	tumor necrosis	Chinchilla_lanigera	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------QLPRKAGGP---QGSRR----------------CWC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQQE-E----FSG-----------------GPPF---------RPLAQTLTLRSASQNG
+NDKPVAHVV-ANQQA-----REELKWLSKRANALLANGMDLS--DNQLVVPADGLYLIYS
+QVLFKGQGCRSY----------------LLLTHTVSRLAVS--YQD-------KVNLLSA
+IKSPCQKETS---EGAELKPWYEPIYLGGVFQLQKGDQLSAEV----NLPEYLDFAESGQ
+IYFGVIAL-------
+>ENSDORP00000011715 ENSDORG00000012458	220	Tnf	tumor necrosis	Dipodomys_ordii	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIQ---DM
+ELAE-----E--------------TLPKKLS-S---QRSRR----------------YLC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREEV----NF---------------------------------FFSLSSSGSSSQMA
+SDKPVAHVV------------EQLQWLSRRANALLANGMELI--DNHLVVPSNGLYLVYS
+QVLFKGRGCSSF----------------LVLTHTVGRFATS--YPE-------KVNLLSA
+IKSPCQKEIP---EGPELKPWYEPIYLGGVFQLEKGDRLSAEV----NLPQYLDFAEAGQ
+VYFGIIAL-------
+>ENSSTOP00000011546 ENSSTOG00000012884	233	TNF	tumor necrosis	Ictidomys_tridecemlineatus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPKKAWGP---QGSSR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLHFGV---------------I
+GPQREEF-----LN-----------------NLPL---------GPQAQMLTLRSSSQNM
+NDKPVAHVV-AKNED-----KEQLVWLSRRANALLANGMELI--DNQLVVPANGLYLVYS
+QVLFKGQGCPSY----------------VLLTHTVSRFAVS--YQD-------KVNLLSA
+IKSPCPKESL---EGAEFKPWYEPIYLGGVFELQKGDRLSAEV----NLPSYLDFAESGQ
+VYFGVIAL-------
+>ENSMUGP00000005556 ENSMUGG00000005120	235	Tnf	tumor necrosis	Meriones_unguiculatus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSRESMIS---DI
+ELAE-----E--------------ALPQKSAGA---QGSRR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLNFGV---------------I
+GPQREEK----FPN-----------------GLPI--------ISSMAQTLTLRSSSQNA
+SDKPVAHVV-ANHQV-----EEQLEWLSRRANALLANGMELR--DNQLVVPSDGLYLVYS
+QALFKGQGCPHL----------------VLLTHTVSRFAVS--YQD-------KVSLLSA
+IKSPCPRDAP---EGAEPEPWYEPIYLGGVFQLEKGDRLSAEV----NLPQYLDFAEPGQ
+VYFGVIAL-------
+>ENSMAUP00000014584 ENSMAUG00000014299	233	Tnf	tumor necrosis	Mesocricetus_auratus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPKKAWGP---QNSSR----------------CLC
+LS-------------------LFSFLLVAGATI--LFCLLNFGV---------------I
+GPQREEK----FPN-------------------PI--------IGSMAQTLTLRSSSQNS
+NDKPVAHVV-ANHQV-----EEQLEWLSHRANALLANGMSLK--DNQLVIPADGLYLVYS
+QVLFRGQGCPSY----------------VLLTHTVSRIAVS--YED-------NVNLLSA
+IKSPCPKETP---EGEELKPWYEPIYLGGVFQLEKGDRLSAEV----NLPKYLDFAESGQ
+VYFGVIAL-------
+>ENSMOCP00000012350 ENSMOCG00000012484	235	Tnf	tumor necrosis	Microtus_ochrogaster	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPKKAWGS---QNSSR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLNFGV---------------I
+GPQREEK----FPN-----------------NLPI--------IGSMAQTLTLRSSSQNS
+SDKPVAHVV-ANHQV-----EEQLEWLSQRANALLANGMDLK--DNQLVIPADGLYLVYS
+QVLFKGQGCPSY----------------VLLTHTVSRIAVS--YED-------KVNLLSA
+IKSPCPKETP---EGAELKPWYEPIYLGGVFQLEKGDRLSAEV----NLPKYLDFAESGQ
+VYFGVIAL-------
+>ENSMUSP00000025263 ENSMUSG00000024401	235	Tnf	tumor necrosis	Mus_musculus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPQKMGGF---QNSRR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLNFGV---------------I
+GPQRDEK----FPN-----------------GLPL--------ISSMAQTLTLRSSSQNS
+SDKPVAHVV-ANHQV-----EEQLEWLSQRANALLANGMDLK--DNQLVVPADGLYLVYS
+QVLFKGQGCPDY----------------VLLTHTVSRFAIS--YQE-------KVNLLSA
+VKSPCPKDTP---EGAELKPWYEPIYLGGVFQLEKGDQLSAEV----NLPKYLDFAESGQ
+VYFGVIAL-------
+>ENSODEP00000024408 ENSODEG00000017865	234	TNF	tumor necrosis	Octodon_degus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------QLPKKAGGP---HGSRR----------------CWC
+LS-------------------LFSFLLVAGATA--LFCLLHFGV---------------I
+GPQREEQ----FSG-----------------GPPF---------RPLAQTLTLRSASKNG
+NDKPVAHVV-ANQQA-----REKLLWLNKRANALLANGMDLS--DNQLVVPSDGLYLVYS
+QVLFKGQGCHSY----------------LLLTHTVSRFAVS--YQD-------KVNLLSA
+IKSPCQKETP---EGAELNPWYEPIYLGGVFQLQKGDRLSAEV----NQPEYLDFAESGQ
+IYFGVIAL-------
+>ENSPEMP00000018725 ENSPEMG00000017232	235	Tnf	tumor necrosis	Peromyscus_maniculatus_bairdii	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPKKAWGP---QNSSR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLNFGV---------------I
+GPQREEK----FPN-----------------NLPI--------IGSMAQTLTLRSSSQNS
+SDKPVAHVV-ANHQV-----DEQLEWLSRRANALLANGMDLK--DNQLVIPADGLYLVYS
+QVLFKGQGCSNY----------------VLLTHTVSRFAVS--YED-------KVNLLSA
+IKSPCPKETP---EGSELKPWYEPIYLGGVFQLEKGDRLSAEV----NLPKYLDFAESGQ
+VYFGVIAL-------
+>ENSRNOP00000001110 ENSRNOG00000000837	235	Tnf	tumor necrosis	Rattus_norvegicus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESMIR---DV
+ELAE-----E--------------ALPKKMGGL---QNSRR----------------CLC
+LS-------------------LFSFLLVAGATT--LFCLLNFGV---------------I
+GPNKEEK----FPN-----------------GLPL--------ISSMAQTLTLRSSSQNS
+SDKPVAHVV-ANHQA-----EEQLEWLSQRANALLANGMDLK--DNQLVVPADGLYLIYS
+QVLFKGQGCPDY----------------VLLTHTVSRFAIS--YQE-------KVSLLSA
+IKSPCPKDTP---EGAELKPWYEPMYLGGVFQLEKGDLLSAEV----NLPKYLDITESGQ
+VYFGVIAL-------
+>ENSTBEP00000000497 ENSTBEG00000000589	154	TNF	tumor necrosis	Tupaia_belangeri	138B	138	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------------------SSGIP
+SDKPAAHVI-ANPQN-----KGELQWLNRRANTLLANGMQLV--DNQLVVPSDGLYLIYS
+QVLFTGLGCPSTP---------------VLFTHTVSCVAVS--YNN-------KVNLLSA
+IKSPCQKETA---EGAEAKPWYEPIYQGGVFQLQKGDRLSAEV----NLPRYLDFAESGQ
+VYFGVIAL-------
+>ENSLSDP00000003383 ENSLSDG00000002582	230	None	None	Lonchura_striata_domestica	138B	138	B
+------------------------------------------------------------
+------------------------------------------------------------
+-MG----------------------FWGPP---GFWGPPWNFGEPSGILGVPLDFLGGFS
+WV-------------------LGSFHGILGCPP--EFWG----------------LPLGF
+GVPPGF------------------WGSPWNFGVPPWD------FGVSPWILEI------L
+---LEFRAS-SWP-S----PPRSLVWQAAVAPALVRNGVRLR--GNRLVVPRDGLYFVYA
+AAAFQG------RR---------CPR---PLRLAVSRLSPE--YPR-------DVPLLRA
+ARSVCRAGAG---A-GAGGPWAESLYQGAVFQLRRGDQLAATA----SAGRFLDLHAAGQ
+AYFGVLGVD------
+>ENSACAP00000018201 ENSACAG00000025384	234	None	tumor necrosis	Anolis_carolinensis	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSSEHLVQ---DP
+EKG-----------------LLPVAKEALP---KSQGGPWKCL-----------------
+-S-------------------ITAFLLLAAATG--LFAF----------------LQYGT
+--LFGQKDSEEN------------RK--------SFS------EDILPETMKVQA---LV
+SGKPAAHAI-ASL-N----HPNQLIWTTDVAPSVLENGMKLDKAENALVVPSTGLYFVYS
+QLLFHK------GS---------CTD-PVLLSHRITWRSAQ--FNS-------EVELLKS
+LKTACEHGRD---PPHQGKIWFESIYQGAVFKLHKGDRLWSKT----DSLEYLDLNRNGQ
+IYFGVIAM-------
+>ENSLLTP00000017920 ENSLLTG00000013571	240	TNF	tumor necrosis	Laticauda_laticaudata	138B	138	B
+------------------------------------------------------------
+-------------KPRST-------------------------HPSIMSSEQLVH---DV
+EKGN--------------IIVI---Q--EP---SPKNNHWKCL-----------------
+-S-------------------ICSFLLLIGAVT--VFAL----------------LQLDA
+FGLSEKQVSNTS------------WVKSE--------------GLLFRKVSMGAS---LR
+SGKPAAHAV-ASS-R----HSPQLKWTADVFPSILENGMRLDENENSLVVPSTGLYFVYS
+QLLFHK------DN---------CKK-PLLLTHNITCWSSD--FSL-------EVELLKS
+IKSVCEEV------SSNKKLWFESIYQGAVFQLNKGDRLLSKT----NFPEYLDFTHSTQ
+IYFGVIAM-------
+>ENSNSUP00000012663 ENSNSUG00000009492	231	TNF	tumor necrosis	Notechis_scutatus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSSEQLVH---DV
+EKGN--------------IVVI---R--EP---SPKNNHWKCL-----------------
+-S-------------------ICSFLLLIGAVT--VFAL----------------LQLDA
+FGSSEKQVSNTS------------WVKSE--------------GLLFRKVLMGAS---LR
+SGKPAAHAV-ASS-R----DSSQLKWTVDVIPSLLENGMRLDENENSLVVPSTGLYFVYS
+QLLFHK------DN---------CKK-PLLLTHNITCWSSD--FGS-------EIELLKS
+IKSVCEEV------SSNKKLWFESIYQGAVFQLNKGDRLMSKT----NFPEYLDYTHSTQ
+IYFGVIAM-------
+>ENSPMRP00000004040 ENSPMRG00000002768	236	TNF	tumor necrosis	Podarcis_muralis	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSSEHLVY---DV
+EKGS--------------NVVV--VREK-----PQKESHWKCL-----------------
+-S-------------------ICSLLLLLGATF--VFAL----------------LQFGA
+FKQSESQDSKEK------------GS--------PFS------G-GLPQTMKVQA---LM
+SRKPAAHAL-ASR-A----HGQQLFWTTDVAPSILENGMQLNKNDNSLVVPSTGLYFVYS
+QVMFHS------DT---------CPESPLLLSHTISWFSSQ--FNK-------NVELLKS
+IKSACEGGRT---AQGQKSLWFESIYQGAVFRLNKGDRLWSKT----ESPQYLDFAQQGQ
+IYFGIVAME------
+>ENSPVIP00000014070 ENSPVIG00000010874	239	TNF	tumor necrosis	Pogona_vitticeps	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSSEHLVH---DL
+EKGA--------------PGSIVVVRESAA---RKEGGPWKCL-----------------
+-S-------------------ICSFLLLIGATV--VFAL----------------LQSGV
+FQQFGMQNSKES------------GH--------SFS------ESSLPQTLSVQA---VR
+SGKPAAHAI-ASL-N----HRDELVWTTNVAPSVLENGMRLDTSDNSLVVPSSGLYFVYS
+QVVFHK------ES---------CTK-PVLLTHTISWLSDQ--FQS-------EVELLKS
+IKTACEGGKD---AEGKSKLWFESIYQGAVFKLHKGDRLWSKT----DSLEYLDLTRQGQ
+IYFGVIAM-------
+>ENSPTXP00000025245 ENSPTXG00000017600	231	TNF	tumor necrosis	Pseudonaja_textilis	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSSEQLVH---DV
+EKGN--------------IVVI---R--EP---SPKNNHWKCL-----------------
+-S-------------------ICSFLLLIGAVT--VFAL----------------LQLDA
+FGLSEKQVSNTS------------WVKSE--------------GLLFRKVPMGAS---LR
+SGKPAAHAV-ASS-R----HSSQLKWTADVFPSILENGMRLDENENSLVVPSTGLYFVYS
+QLLFHK------DN---------CKK-PLLLTHNITCWSSD--FSL-------EVELLKS
+IKSVCEEA------SSNKKLWFESIYQGAVFQLNKGDRLMSKT----NLPEYLDFTHSTQ
+IYFGVIAM-------
+>ENSSMRP00000020778 ENSSMRG00000016159	228	TNF	tumor necrosis	Salvator_merianae	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSSEHLVH---DV
+EKGG--------------IMVV---R--EQ---PHKDTHWKCL-----------------
+-S-------------------LFSFVLLIGATV--AFTL----------------LQFGA
+FSQSGNEENTRS-----------------------FS-------EGLPKTLQVQA---VA
+SGKPAIHAL-GEL-S----SDNQLTWTVKATPSMEQNGLKLDESNNFIVIPSTGLYFVYS
+QLSFHS------TS---------CPENPLLLTHTVSWLSSD--LNV-------EVDLLKA
+IKTPCEGR------DASKSLWFESIYQGAVFKLKKGDRLWSRT----DKPEYLDLTRRGQ
+VYFGIIAM-------
+>ENSVKKP00000012813 ENSVKKG00000008877	242	TNF	tumor necrosis	Varanus_komodoensis	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSSEHLVY---DL
+EKGS--------------RVILVD----KS---LRKEGPWKCL-----------------
+-S-------------------ICSFVLLIGATL--LFTL----------------LQFGA
+FRQSETEVSSTG------------RWGETSLGRADFE------V-STFSSGWLQA---LV
+SRKPAAHAI-ANL-S----RHNQLLWTTKVAPSMLENGMQLNENDNSLVVPSTGLYFIYS
+QLLFHG------KG---------CTS-PVLLTHTISWQSAQ--FNT-------EVDLLKS
+MKTVCEGGRD---PPSHSKLWFESIYQGAVFKLHKGDRLWSKT----DLPHHLDLTRSGQ
+IYFGVIGM-------
+>ENSCABP00000004211 ENSCABG00000003182	225	TNF	tumor necrosis	Chelonoidis_abingdonii	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESLVC---DI
+EKGG--------------VIVV---R--ES---RPANGRWKCL-----------------
+-S-------------------ICSFLLLVGATA--VFAL----------------LHFRN
+GGPLVSQ--------------------------------------VSR-DARLQA---QS
+LKKPAAHVV-AS--S----DSKELIWTDKVAHTMMQNGMTLV--NNKLVVPSDGLYFIYS
+QVVFKG------DK---------CPEESIPLRHTIFRYSVE--YPE-------NVPLLMA
+IKSFCEGSKA---AENKEGVWFESIYQGAVFQLMKGDEISSEI----DSAQYLDLDSNGQ
+VYFGVIALELGAPQ-
+>ENSCSRP00000009439 ENSCSRG00000007061	227	TNF	tumor necrosis	Chelydra_serpentina	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESLVC---DI
+EKGG--------------VIVV---R--ES---RAANGRWKCL-----------------
+-S-------------------VCSFLLLVGATA--VFAL----------------LHFRN
+GGPLASQ--------------------------------------VSPMTMKLQA---QS
+LKKPAAHVV-AS--S----DSKELIWTDKVAHTMMQNGMALV--NNKLVVPSDGLYFIYS
+QVVFKG------EK---------CPEESIHLRHTILRYSVE--YPE-------NVPLLMA
+IKSFCEGSQA---AKNEEGVRFESIYQGAVFQLMKGDEISSEI----DSAQYLDLDSNGQ
+VYFGVIALELGVPQQ
+>ENSCPBP00000023067 ENSCPBG00000016445	240	TNF	tumor necrosis	Chrysemys_picta_bellii	138B	138	B
+---------------------------------------------------------ARG
+-----GGQRSNVDTAPSA-------------------------KPAAMSTESLVC---DI
+EKGG--------------VIVV---R--ES---RPADGRWKCL-----------------
+-S-------------------ICSFLLLVGATA--IFAL----------------LHFRN
+GGPLISQ--------------------------------------VSRNAG---------
+VAPLLQNME-TS--S----DSKELIWTDKVAHTMMQNGMALV--NNKLVVPSDGLYFIYS
+QVVFKG------DK---------CPEESIPLRHTILRYSVE--YPE-------NVPLLMA
+IKSFCEGSKA---AKNEEGVWFESIYQGAVFQLMKGDEISSEI----DSAQYLDLDSNGQ
+VYFGVIALELGAPQ-
+>ENSGAGP00000007265 ENSGAGG00000005838	219	TNF	tumor necrosis	Gopherus_agassizii	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESLVC---DI
+EKGG--------------VIVV---R--ES---RPADGRWKCL-----------------
+-S-------------------ICSFLLLVGATA--VFAL----------------LHFRN
+GGPLVSQ---------------------------------------------LQA---QS
+LKKPAAHVV-AS--S----DSKELIWTDKVAHTMMQNGMTLV--NNKLVVPSDGLYFIYS
+QVVFKG------DK---------CPEESIPLRHTIFRYSVE--YPE-------NVPLLMA
+IKSFCEGSKA---AENKEGVWFESIYQGAVFQLMKGDEISSEI----DSAQYLDLDSNGQ
+VYFGVIALELGAPQ-
+>ENSPSIP00000005437 ENSPSIG00000005065	229	TNF	tumor necrosis	Pelodiscus_sinensis	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESLVY---DV
+EKGG--------------VVVV---R--ES---QAGNGCWKCL-----------------
+-S-------------------ICSFLLLTGATA--VFAL----------------LQFRN
+EGQWVIQDFRES------------RSSGQ---------------RAGPMTLKLQA---QS
+LTKPAAHVV-AS--H----ESKELVWNDKVAHTMIQNGMKLV--DNKLVVPANGLYFVYS
+QVVFKG------NK---------CPEESVLLRHIILRFSEE--YPQ-------DVPLLTA
+IKSLCEGSKS---A--ETEVWYESIYQGAVFQLTKGDEISSKI----DSADYLDLDSNGQ
+VYFGVIAL-------
+>ENSPCEP00000003960 ENSPCEG00000003173	222	None	None	Pelusios_castaneus	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSAENLVC---DM
+EKGN--------------IILV---R--DS---QSSNGRWKCL-----------------
+-S-------------------ICSFLLLVGATA--VFTL----------------LHFRH
+GGSLISQ--------------------------------------VSHQSTEPRN---T-
+---WQSDSA-GV--P----ASKELVWSDKVAHTMMQNGMALV--NNKLVVPSNGLYFIYS
+QVVFKG------DK---------CPEESIPLRHTVLRYSVD--YPE-------NVPLLMA
+IKSFCEGSQP---AKHEAGVWFESIYQGAVFQLTKGDEISSEI----DSAQYLDLDSNGQ
+VYFGVIALELEIPQ-
+>ENSTMTP00000026902 ENSTMTG00000019630	226	None	None	Terrapene_carolina_triunguis	138B	138	B
+------------------------------------------------------------
+-----------------------------------------------MSTESLVC---DI
+EKGG--------------VIVV---R--ES---RPADGRWKCL-----------------
+-S-------------------ICSFLLLVGATA--VFAL----------------LHFRN
+GGPLISQ--------------------------------------VNPMTMKLQA---QS
+LKKPAAHVV-AS--S----DSKELIWTDKVAHTMMQNGMALV--NNKLVVPSDGLYFIYS
+QVVFKG------DK---------CPEESIPLRHTILRYSVE--YPE-------NVPLLMA
+IKSFCEGSKA---AKNEEGVWFESIYQGAVFQLMKGDEISSEI----DSAQYLDLDSNGQ
+VYFGVIALELGAPQ-

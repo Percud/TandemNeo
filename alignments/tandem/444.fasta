@@ -1,0 +1,707 @@
+>ENSBSLP00000023394 ENSBSLG00000011899	148	si		Betta_splendens	444A	444	A
+------------------------------------------------------------
+-----------------MYLP-VSLLICLSV-AQLSTGQQAVEEVIVA-------RRVPL
+LGGWAP--------INPEARDLQSAAHFAVTEFNANSKNEKMFKLVSVIVAKL------K
+VTNVIHYKFSAVLGKTKCLKSAQ-RD--------LESCNLQQR-----Q-----------
+-LKCWFEVTFDPRNDQHEILTQ----KCRRLPDKDSNI----------------------
+----------------
+>ENSSFAP00005047276 ENSSFAG00005022990	145	si		Salarias_fasciatus	444A	444	A
+------------------------------------------------------------
+-----------------MPLP-VSLLICLSV-VHLCMGDQPVEEVITA-------KKVHH
+MGSWIE--------TDPYAEDVQEAVQFAVQMFNTQSKSKKMFKLVSVENTKS------Q
+VTNRIGFKFDAVLVKTKCLKSEN-HD--------VNSCSLKKR-----H-----------
+-MKCHFRVSFDAHTRKHDVEKH----KCKKQIEKA-------------------------
+----------------
+>ENSSDUP00000032787 ENSSDUG00000023567	145	si		Seriola_dumerili	444A	444	A
+------------------------------------------------------------
+-----------------MSLP-LSVLICLSL-VQLCVGDQPVDEVITT-------KKVPI
+LGGWTE--------RSPEAADVQQAAEHAVRMFNTHSKNKRIFKLVSITAAQS------Q
+VTNMINFKIDAVLGKTKCLKSEN-HD--------LHSCSLEKK-----H-----------
+-LKCHFQVTFNPRDNQHELKGH----KCKKLGEKV-------------------------
+----------------
+>ENSSGRP00000091487 ENSSGRG00000045880	144	si		Sinocyclocheilus_grahami	444A	444	A
+------------------------------------------------------------
+-----------------MDICFLLLVSFLSV-FHFSSADQPLEEEVIV------ARNVEL
+LGGWTL--------ASPEREDVQEAAKEAVELFNSKSKAKKYFKLVNVTSAST------Q
+VTNKINYKIEATLGKTKCRKSED-TD--------IEACGMAKK-----Q-----------
+-LACKIEVTLDVMTDEHEVQKM----SCRRSA----------------------------
+----------------
+>ENSCVAP00000003999 ENSCVAG00000005266	196	si	si busm1-57f23	Cyprinodon_variegatus	444A	444	A
+MLTH-------------------THSLQYTEA--LSLLICSGICPYFNSRQT-----TST
+RTSQFLANFLTDKLLEKMSLP-LSVLICLSV-FQLCVGDLPLEEVIST-------KKVPL
+LGGWSD--------IKPEAEDVQKATRHAVEMFNTHSKTKRMFKLVSVSNAKT------Q
+VTNMINFKIDAILGKTQCLKSEN-HD--------LESCKVTKT-----Q-----------
+-LKCHFRVTFNLRNSKYELQNK----KCSKVMKKV-------------------------
+----------------
+>ENSFHEP00000004415 ENSFHEG00000000833	145	si		Fundulus_heteroclitus	444A	444	A
+------------------------------------------------------------
+-----------------MYLP-LSVLICLSV-FQLCAGDPPVEEAVVT-------RKVTP
+LGGWVE--------KSPESKDIQKAIQHAVEVFNTRSKAKRLYKAVSVTSAKS------Q
+VTNVISYKIQMVLGKTQCLKSEN-HD--------LESCILNKK-----Q-----------
+-LKCLFELTLNPRTDKYELHAK----NCNKIVKKV-------------------------
+----------------
+>ENSPREP00000006869 ENSPREG00000004737	162	None		Poecilia_reticulata	444A	444	A
+---------------------------------------------------------MRH
+RNGQSVPIWLTLRSLVPLLYLFFLLICCMLVWTYLCV-----------------TENEHP
+LGGWSE--------RNPESKEVLKAAEYGVEMYNKDSQDKELFKLVSVHRARS------Q
+VTNMFDFKIIAILGRTKCLKTQN-LD--------IKSCDLDKEVNLFTL-----------
+-LKCQFFVTLNPHNBKXELNTK----XCXKVAXKV-------------------------
+----------------
+>ENSXMAP00000023715 ENSXMAG00000024627	145	si		Xiphophorus_maculatus	444A	444	A
+------------------------------------------------------------
+-----------------MSLP-LSLLICLSV-FQLCLGAQPVEEVITQ-------KKVHL
+LGAWTE--------RLPESKDVQKAAQYAVEMFNKNSKDEVLFKLVSINSAKS------Q
+VTNRINFKIDAILGRTKCPMMEN-LD--------LKSCILDEE-----Q-----------
+-LQCQFVVTLDPGNEEHELKTK----KCHEVAKKA-------------------------
+----------------
+>ENSGMOP00000018147 ENSGMOG00000016903	84	None	None	Gadus_morhua	444A	444	A
+------------------------------------------------------------
+--------------------------------------------------------KVSL
+LGGWNP--------RSPESEEVQAAALHAVEKFNGQSKSKKTFQLVSITSAQS------Q
+VTNVINYKLKAILGKTACLKSET-NQ--------VDKCALGHK-----------------
+------------------------------------------------------------
+----------------
+>ENSNMLP00000041029 ENSNMLG00000025159	146	si	si busm1-57f23	Neogobius_melanostomus	444A	444	A
+------------------------------------------------------------
+-----------------MSAP-LSVLITLSV-VLLCLGEKPVEDVIKP-------RKATL
+LGGWFE--------SRPDSKEAQDAIQYSIKMYNSHSKSKRLFRLDSITAVQS------Q
+VTNVINFKINAILGKTKCSKAEN-HD--------LEHCELEKK-----R-----------
+-MDCQFVVAFNHSNKKHEMKSR----KCTKLVKPKA------------------------
+----------------
+>ENSMMDP00005005332 ENSMMDG00005002980	154	si	cystatin	Myripristis_murdjan	444A	444	A
+------------------------------------------------------------
+-----------------MSPH-LSVLVCLSV-AQLCLGDQPVQEEIIT------TKNVPL
+LGAWAD--------RSPESDEVQTAARFAVEKYNSHSKAKKLFRLVSVTSAQT------Q
+VTNVINFKIEAVLGKTKCLKSEN-HD--------LESCILGKK-----R-----------
+-LVCHFEVTFDPRNNKHELVDF----TCTKVLPAASPPST------------PSS-----
+----------------
+>ENSLBEP00000027941 ENSLBEG00000021189	145	si		Labrus_bergylta	444A	444	A
+------------------------------------------------------------
+-----------------MSLL-LSVLICLTV-VQMSMGDLPVDEVITT-------KKVPL
+LGGWSE--------RSPEADEILEVARHAVEEFNTNSKSKKMFKLVSITSAQS------Q
+VTNVINFKIDAVLGKTKCLKSEN-PD--------MNSCSLVKK-----H-----------
+-MKCYFEVTFDPRNNKHEIQMK----KCRRQTESA-------------------------
+----------------
+>ENSPKIP00000007149 ENSPKIG00000023163	183	si	si busm1-57f23	Paramormyrops_kingsleyae	444A	444	A
+----------------------------------MSHPLPSSHTPWGADPATPPDAPELE
+SHSFQMSCFLTQSTMGLLAILVLSL---LST-----KLLEANEEEILP-------SRTHH
+LGAPVS--------IPPQSSEVQAAARLATEKFSSKSRSKMLFRLLDVTSAEM------Q
+VTNIITFKIWATIGKTKCPKSTD-AD--------LESCVLGKR-----R-----------
+-LSCTFEVTYDPRTNQHKVPIS----DCKKAPAAAR------------------------
+----------------
+>ENSGACP00000024111 ENSGACG00000018237	144	si	si busm1-57f23	Gasterosteus_aculeatus	444A	444	A
+------------------------------------------------------------
+-----------------MSLP-LAVVICLSA-IQLCLGDQPLEEFVTTM-----RKKVPL
+LGGWSE--------KSPESTEVLEAAQYAVKMHNTHSRSKKMFKLVSITSAHA------Q
+VTNRINFKINAVLGKTKCLKSDN-AE--------PKSCSLEKK-----Q-----------
+-LKCQFEATLNPRNNKHELQAA----KCRKML----------------------------
+----------------
+>ENSSMAP00000028069 ENSSMAG00000017172	145	si	si busm1-57f23	Scophthalmus_maximus	444A	444	A
+------------------------------------------------------------
+-----------------MSLP-LSVVICLSA-IQLCLGDQPVEEVITT-------KKVPL
+LGGWFE--------RSPDSDEVQNAAQQAVKMFNAQSKSKRLFKLASITAAQT------Q
+VTSMINFKIDAVLRKTKCLKSEN-HD--------LDSCSLVKK-----H-----------
+-LKCHFEVTFNPRNSRHELQNF----KCAAVAETV-------------------------
+----------------
+>ENSSTUP00000043973 ENSSTUG00000018550	164	si	cystatin	Salmo_trutta	444A	444	A
+------------------------------------------------------------
+--------------MAPLLLPLLSLISTLYLVAQGQEQPQPIEEEPIT------AKNIQP
+LGGWFS--------RDPESLEVQTAAKAAVDNFNIQSNARKLFRLINVISAET------Q
+VTNMINYRMEVIIGKTKCLKTENNSD--------VESCVLGKK-----V-----------
+-PFLNTEQTIQIYCMGL---RN----WCMSHMAHYSLYSA------------LLLTRVVH
+FF--------------
+>ENSSAUP00010031265 ENSSAUG00010013344	144	si		Sparus_aurata	444A	444	A
+------------------------------------------------------------
+-----------------MSLP-LTLLICA-I-VQMCMADGPVEEVVTT-------KKVHL
+LGDWSE--------RSPDSNDVKEATQFAVSMFNTRSKAKKMFKLISITAAQS------Q
+VTNMINFKIDAVLGKTKCTKGEN-HD--------LESCSLERK-----E-----------
+-VKCHFFVVFDPRTDKYVLKEH----KCKRDKKQV-------------------------
+----------------
+>ENSMAMP00000007569 ENSMAMG00000005175	151	si		Mastacembelus_armatus	444A	444	A
+------------------------------------------------------------
+-----------------MSPR-FVVLFCLSA-LQLCMGDEPVEETALPIQEIIQVKTVPL
+LGGWFE--------KSPDSADVQEAAQTAVTKFNKKFKSKKMFKLVSITAAKS------Q
+VTNKINFKIDAVLGKTQCLKSED-HD--------LNSCKLEKK-----R-----------
+-FKCHFEVTLNPYNDKHKLQSM----KCKKSEEV--------------------------
+----------------
+>ENSHCOP00000020235 ENSHCOG00000006132	147	si		Hippocampus_comes	444A	444	A
+------------------------------------------------------------
+-----------------MNLP-LSVLLCLSV-VQMCVGDQISEDIIVA-------EKATL
+LGGWFE--------RSPESQEVQAAAQHAVDTFNTNSKAKKLFRLQSITSAQS------Q
+VTNGINYRIDAVLRKTKCLKGEN-QD--------LNNCNLEKM-----H-----------
+-LKCQFDVMFNPRNNKHESQKP----KCKKTVANIPA-----------------------
+----------------
+>ENSTRUP00000005848 ENSTRUG00000002521	142	si		Takifugu_rubripes	444A	444	A
+------------------------------------------------------------
+-------------------MP-LWMLLLCVA-VQLCCAAQPVDEVITT-------KNVPL
+LGDWIQ--------RSPDSPEVQEAAQQAVKMFNANSKNKRMFRLVAVTAAQS------Q
+VTNKINFRIQAVLGKTACLKAED-LD--------LSSCPGVRK-----Q-----------
+-LSCRFQVTFDPRNQKHELQDH----QCRKLKED--------------------------
+----------------
+>ENSTNIP00000005173 ENSTNIG00000002620	141	si	si busm1-57f23	Tetraodon_nigroviridis	444A	444	A
+------------------------------------------------------------
+-----------------MSLW-VSLLVCLTA--CLGLTAQPVEEVITA-------KEVPL
+LGGWSE--------ISPDAAEVQAAARLAVNAYNARSRSKRLFKLVTIRAAQR------Q
+VTNRINFKICAILGKTGCLKSED-PA--------LSSCPADGR-----Q-----------
+-VRCDFHVTFDPRNNKYKLQDQ----QCNKVE----------------------------
+----------------
+>ENSBBBP00000026606 ENSBBBG00000022502	153	None		Bison_bison_bison	444A	444	A
+---------------------------------MGRQRRCRWAQPW--------------
+-------------------TL-LLLLLGPR--LL-------------------------V
+THGWRRKGDKNSENTNILELYLPAVVEYALHVYNLRSQDMNAYKVVRVLRSWLELSE-QK
+EEKGLVFSMELQFARTRC-GKFD-ED--------IDNCPFQATPDVNNT-----------
+-ITCFFTVDTEPWKTEFQLLND----TCLEGSAE--------------------------
+----------------
+>ENSBTAP00000011269 ENSBTAG00000032687	153	None		Bos_taurus	444A	444	A
+---------------------------------MGRQRRCRWAQPW--------------
+-------------------TL-LLLLLGPR--LL-------------------------V
+THGWRRKGDKNSENTNILELYLPAVVEYALHVYNLRSQDMNAYKVVRVLRSWLELSE-QK
+EEKGLVFSMELQFARTRC-GKFD-ED--------IDNCPFQATPDVNNT-----------
+-ITCFFTVDTEPWKTEFQLLND----TCLEGSAE--------------------------
+----------------
+>ENSCDRP00005028431 ENSCDRG00005019523	177	None		Camelus_dromedarius	444A	444	A
+----MDWTEAQAGRVGAGVGKAGGTGARPPTATQRRRGRWRWARPW--------------
+-------------------AL-LLLLLGPQ--LL-------------------------E
+ARGWGLQREVSAEDQRVLERYLPATVEYAVHEFNLRSQDENAYKVKRVLRSWREPVD--T
+---AMVFSTELQLTRTRC-GKFD-ED--------IDNCPFQGRPDVNNT-----------
+-VTCLFTISTEPWRTVFELLNN----TCSEGLL---------------------------
+----------------
+>ENSCHIP00000025372 ENSCHIG00000022173	150	None		Capra_hircus	444A	444	A
+---------------------------------MGRQRRYRWAQPW--------------
+-------------------TL-LLLLLGLQ--LL-------------------------V
+THGWRPQGNENSKNRDILRLYFPAVVEYALHMYNLKSQDRNAYKVVRVLRSWPEWR----
+EEKGLVFSMELQFARTRC-GKFD-ED--------IDNCPFQATPDVNNT-----------
+-ITCFFTVDAEPWKTEFQLLND----TCLEGSAV--------------------------
+----------------
+>ENSCWAP00000022341 ENSCWAG00000017004	149	None	None	Catagonus_wagneri	444A	444	A
+--------------------------------MTSLPWDEGLPPPW--------------
+-------------------AT-LLLLLGPL--FL-------------------------V
+TLGWGPQGEGEKKDQHILELYFPPTVEYALHLFNLKSPDRNAYKVVRVLKSWREQVD---
+--ISMVFSMELQFGRTRC-GKFD-ED--------IDNCPLQGNPDRNNT-----------
+-VTCFFTIGTDPWRTKSDLLNS----TCSEGLQ---------------------------
+----------------
+>ENSDLEP00000006751 ENSDLEG00000005018	183	None	None	Delphinapterus_leucas	444A	444	A
+-------------------------------KSSPPQWTCRWAQPW--------------
+-------------------AL-LLLLLGPQ--LV-------------------------V
+THVWQPQGEGNGEDQATLELYFPATVEYAVHVFNQRSQDSNAYKVVRILRSWKESVQ--T
+QANGTVFSTELQLSRTRC-GKFD-ED--------IDNCPFQASPDVNNV-----------
+-RH---------WTAALRLQGC----GRCLGAGGVG-SDD-NA--EGKVGGMLALELEPH
+ASQGSSRHSLSLCFVP
+>ENSMMSP00000024695 ENSMMSG00000018584	164	None	None	Moschus_moschiferus	444A	444	A
+MLREAGWEPE-TGRVKP--------GCLGVAAMMGWPQRCRWAQPW--------------
+-------------------TL-LLLLLGPQ--LL-------------------------V
+THGWRPQGNENSEDRNILELYFPAVVEYALHMYNLRSQDSNAYKV--------------K
+EEDGLVFSTELQFARTRC-GKFD-ED--------IDNCPFQATPDVNNT-----------
+-VTCFFTVDSEPWRTEFRLLNN----TCLEGSAE--------------------------
+----------------
+>ENSOARP00000006581 ENSOARG00000006146	153	None	None	Ovis_aries	444A	444	A
+---------------------------------MGRQRRCRWAQPW--------------
+-------------------TL-LLLLLGPQ--LL-------------------------V
+THGWRPQGNENSENRDTLKLYFPAVVEYASHMYNLKSQDRNAYKVLRVLRSWREWSE-QR
+EEKGLVFSMELQFARTRC-GKFD-ED--------IDNCPFQATPDMNNT-----------
+-VTCFFTVDAEPWKTEFQLLND----TCLEGSAV--------------------------
+----------------
+>ENSPCTP00005013391 ENSPCTG00005009585	149	None	None	Physeter_catodon	444A	444	A
+--------------------------------MLCQQWTCRWAQPC--------------
+-------------------AL-LLLLLGPQ--LV-------------------------V
+THGWQPQGEGNGEDQGTLELYFPATVEYAVHVFNQRSQDRNAYKVVRVLRSWKEP-----
+-ANGIVFSTELQLGRTRC-GKFD-ED--------IDNCPFQASPDVNNT-----------
+-ITCFFTIDTEPWKTKFQLLNN----TCSEGS------TE--------------------
+----------------
+>ENSSSCP00000027359 ENSSSCG00000029289	149	None		Sus_scrofa	444A	444	A
+--------------------------------MLYQPCHCRGAQPW--------------
+-------------------VT-LLLLLGPL--FL-------------------------V
+MLSWGPQGQAEKEDQSALELYFPATVEYALHEFNLKSRDRNAYKVVRVLKSWREKTD---
+--ISMVFSMELQLGRTRC-GKFD-ED--------IDNCPLQGNPDLNNT-----------
+-VTCFFTISTDPWRTKFDLLND----TCLEGHQ---------------------------
+----------------
+>ENSTTRP00000012380 ENSTTRG00000013050	146	None	cystatin 9	Tursiops_truncatus	444A	444	A
+--------------------------------MLCQQWTCRWAQPW--------------
+-------------------AL-LLLLLGPQ--LV-------------------------V
+THGWQPQGEGKL-DQATLELYFPATVEYAVHVFNQRSQDSNAYKVVRILRSWKEP-----
+-ANGIVFSRELQLGPTRC-GKFD-ED--------IDNCLFQASPDVNNT-----------
+-ITCFFTIDTEPWRTKFQLLNN----TCGGLC----------------------------
+----------------
+>ENSAMEP00000010417 ENSAMEG00000009918	147	None	None	Ailuropoda_melanoleuca	444A	444	A
+--------------------------------M--PHWQFRWVLSW--------------
+-------------------AL-LLLLLGSQ--LL-------------------------V
+THSWSSQEKGDNDEQTDIQHYFPATVEYALHIFNLQSKDSMAYRLVRILNSWKE-----Q
+IEDILTFSMEIKLRRTKC-GKLD-ED--------IDNCPFQESPELNNT-----------
+-ITCFFTISTEPWRTKFELLNK----SCLEGFL---------------------------
+----------------
+>ENSCAFP00000044591 ENSCAFG00000004298	160	None	cystatin 9	Canis_lupus_familiaris	444A	444	A
+-----------------------------------------MTFPWMEKTLT--------
+--YKRQI---------CVVQD-LTMAKCSP--FL-------------------------V
+THGSRSGEGVDNNDQKTMEIFLSATVEYALHVFNLQSNDTKAYRLVRILDSRIE-----Q
+EKKMMAFSMELQLKRTRC-GKFD-ED--------IDNCPFQSSSGQNNVRHIVG------
+---------LSGHTTEDSAWDR----GESGVGDSVIHRHI--------EK----------
+----------------
+>ENSFCAP00000018579 ENSFCAG00000030881	150	None		Felis_catus	444A	444	A
+------------------------MGVQVSIVI--PNWRCRWALPW--------------
+-------------------AM-LLLLLGSE--FL--------------------------
+-------EEVESEDEKLTMSYLLATVEYAIHIFNLQNNDTNAYRLVRILKPRREQF---K
+EDSTLAFSFDLQLRRTRC-GKFD-ED--------IDNCPFQASSEKNNI-----------
+-ITCFFTIASEPWLTLFELWNK----TCLDGFHK--------------------------
+----------------
+>ENSLCNP00005001257 ENSLCNG00005000907	141	CST9L		Lynx_canadensis	444A	444	A
+--------------------------------I--PNWRCRWALPW--------------
+-------------------AM-LLLLLGSE--FL--------------------------
+-------EEVESEDEKPTISYLLATVEYAIHIFNLQSNDTNAYRLVRILKPRREQF---K
+EDSTLAFSFELQLRRTRC-GKFD-ED--------IDNCPFQASSEKNNI-----------
+-ITCFFTIASEPWFTLFELWNK----TCLDGFH---------------------------
+----------------
+>ENSMPUP00000001126 ENSMPUG00000001137	147	None	None	Mustela_putorius_furo	444A	444	A
+--------------------------------M--LHLLFRWALPW--------------
+-------------------AM-LLLLLGSQ--LL-------------------------V
+THSWISQEDKDSYEQRDIELHFPATVEYALHIFNLQSKDSMAYRLVHILNSWKE-----Q
+IEDILTFSMEIKLRRTEC-EKFD-DD--------IDNCPFQESAELNNT-----------
+-ITCFFTISTEPWRTKFVLRNK----TCLEDFL---------------------------
+----------------
+>ENSNVIP00000001847 ENSNVIG00000001498	147	None	None	Neovison_vison	444A	444	A
+--------------------------------M--LHLLFRWALPW--------------
+-------------------AM-LLLLLGSQ--LL-------------------------V
+THSWISQEEKDSYEQRDIELHFPATVEYALHIFNLQSKDSMAYRLVHILNSWKE-----Q
+VEDILTFSMEIKLRRTEC-EKFD-DD--------IDNCPFQESAEMNNT-----------
+-ITCFFTISTEPWRTKFVLRNK----TCLEVFL---------------------------
+----------------
+>ENSPLOP00000000876 ENSPLOG00000000670	141	CST9L	cystatin 9	Panthera_leo	444A	444	A
+--------------------------------I--PNWRCRWALPW--------------
+-------------------AM-LLLLLGSE--FL--------------------------
+-------EEVESEDEKSTMSYLLATVEYAIHIFNLQSNDTNAYRLVRILKPRREQF---K
+EDSTLAFSFELQLRRTRC-GKFD-ED--------IANCPFQASSEKNNI-----------
+-ITCFFTIASEPWLTLFELWNK----TCLDGFH---------------------------
+----------------
+>ENSSSUP00005011390 ENSSSUG00005007307	163	None	None	Suricata_suricatta	444A	444	A
+----------------------------MFVTM--PHWKCRWALPC--------------
+-------------------FM-LLLLLGSQ--LL-------------------------G
+TNSWSSQEERDSSEQKDMESHFPATIEYALHIYNLQSKDLKAYRLVIILNACKE-----E
+VEDRLAFSMELELHRTKC-GKSD-DN--------IDNCPFQETSVFHHSPSTFHLCLFPW
+TLNCFFSIGTMPWETTFKLLYN----DCLEGIH---------------------------
+----------------
+>ENSUMAP00000005269 ENSUMAG00000004168	155	None	None	Ursus_maritimus	444A	444	A
+--------------------------------P--RRLPWEWALRW--------------
+-------------------AM-LLLLLGSQ--LL-------------------------A
+THSWHSHDVSDCDEGEVIIHFFPATVEYTLHTFNLQSKDTKAYRLVSILNSWKE-----Q
+VEDNLAFTMELELRRTEC-GKLD-KD--------IDNRPFQESPELNNVRHT----ADPS
+ATHCFFTIGTVPWRTVFHLLYK----TCLEGFH---------------------------
+----------------
+>ENSVVUP00000004186 ENSVVUG00000003299	144	None	None	Vulpes_vulpes	444A	444	A
+-----------------------------------VASVPIKAGSWWALS----------
+------------------ATL-LLFLLGSP--FL-------------------------V
+THGSRSGEEVDNNDQKTMEIFLSATVEYALHVFNLQSNDTKAYRLVRILDSRIE-----Q
+VGTTPWSNLHLS----HCFQPFS-PTFHPCACPQIITCFFTISTDPWN------------
+--------------TIFELWNK----TCLEGGSLS-------------------------
+----------------
+>ENSMLUP00000007282 ENSMLUG00000007975	108	None	None	Myotis_lucifugus	444A	444	A
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------IESYFLATVEYALHIFNVKSKDTNAYRLVSILDSQREKGE-ER
+IETLMAFSMELKLRRTRC-GKFD-ED--------IDNCPFEENPELNNT-----------
+-FICFFTISIDPWRTMFQLLNK----TCLEGT----------------------------
+----------------
+>ENSPVAP00000013473 ENSPVAG00000014296	80	None	None	Pteropus_vampyrus	444A	444	A
+--------------------------------L--LCGQWRWARPW--------------
+-------------------AM-PLLLIGSQ--LL-------------------------A
+THGWNSQEERENDGQKVMESYFPATLEYALHIYNLKSKDSNAYKLVCVRSTRREQ-----
+------------------------------------------------------------
+------------------------------------------------------------
+----------------
+>ENSRFEP00010016310 ENSRFEG00010011055	153	CST9L	cystatin 9	Rhinolophus_ferrumequinum	444A	444	A
+------------------------MGARLPAAL--LHWQGKRALPW--------------
+-------------------AM-LLLLVPGT-----------------------------P
+CSCWSSHRERENDDQNVMESYFPATVEYALHMFNLKSKDMNAYRLVRIRSSRR-----EQ
+VETMLAFSMELELRRTKC-GKFD-ED--------IDNCSFQESPEMSNT-----------
+-FTCFFTIGTEPWRTVFQLLNK----TCLEGFH---------------------------
+----------------
+>ENSPCAP00000007586 ENSPCAG00000008145	117	None	None	Procavia_capensis	444A	444	A
+--------------------------------T--SCWPRRWAWSC--------------
+-------------------WV-LLLLCGFL--LL-------------------------V
+THAWRTEEENDFNEENIMAEL-STHLEYALHLFNLQSRDSHTHRLVCILRAWKE-----K
+MDFTLAFSMELELRQTTC-GKFE-ED--------IDNCPFQESPKV--------------
+-SN---------------------------------------------------------
+----------------
+>ENSOCUP00000018253 ENSOCUG00000024585	145	None	None	Oryctolagus_cuniculus	444A	444	A
+--------------------------------------RTGWALPW--------------
+-------------------AL-LPLLFGFC--LL-------------------------E
+TYSVITEEQNDLADRKVMNSYLPATVEFALYTFNQQSKDEQAYRLERILASWRDNVG---
+EYNDIVFSMELLLRRTTC-GKLE-ED--------TENCPFEDRPERSRS-----------
+-FTCFFTVRTLPWMTKFDLFNK----TFG--WHQE-------------------------
+----------------
+>ENSECAP00000008512 ENSECAG00000010654	155	CST9L		Equus_caballus	444A	444	A
+------------------------MGACAPAAG--PRRQRSWALPC--------------
+-------------------TM-LLILLGSQ--LL-------------------------V
+ARGWSSQEKSVSDDQRVIESYLPATVEYALHVFNLKSKDVNAYRLVRIRKSWRE-----Q
+DENTMTFSMELDLRRTRC-GKFD-ED--------IDNCPFEESSELNNT-----------
+-IHCFFTISTEPWITTFHLQNE----TCLEGFH---------------------------
+----------------
+>ENSCJAP00000001189 ENSCJAG00000000691	147	CST9L	cystatin 9	Callithrix_jacchus	444A	444	A
+--------------------------------M--PGLLQRGALSW--------------
+-------------------AR-LLLPLGFQ--LL-------------------------L
+THAWHFHKQRDCDEYNVMARYLPATVEFAIHTFNQQSKDHYAYRLVHILNFWKE-----Q
+VESKTIFSVELLLGRTRC-GKFE-ED--------IDNCPFQESPELNDT-----------
+-FTCFLTISTRPWRTHFGLQNK----TCLEGFH---------------------------
+----------------
+>ENSCATP00000018130 ENSCATG00000032932	147	CST9L		Cercocebus_atys	444A	444	A
+--------------------------------M--LGLPWRGALPW--------------
+-------------------VV-LLLLLGFQ--LL-------------------------L
+IHAWHFHEQRDCDEYNVMARYLPATVEFAVHTFNQQSKDHYAYRLVHILNSWKE-----Q
+VESKTVLSMELLLGRTRC-GKFE-DD--------IDNCPFQESPELNDT-----------
+-FTCFFTISTRPWRTYFSLLNK----TCLEGFH---------------------------
+----------------
+>ENSCSAP00000007236 ENSCSAG00000011017	147	CST9L		Chlorocebus_sabaeus	444A	444	A
+--------------------------------M--LGLPWRGALPW--------------
+-------------------VL-LLLLLGFQ--LL-------------------------L
+IHAWHFHEQRDCDEYNVMARYLPATVEFAVHTFNQQSKDHYAYRLVHILNSWKE-----Q
+VESKTVLSMELLLGRTRC-GKFE-DD--------IDNCPFQESPELNDT-----------
+-FTCFFTISTRPWRTYFSLLNK----TCLEGFH---------------------------
+----------------
+>ENSGGOP00000014764 ENSGGOG00000015132	146	CST9L	cystatin 9	Gorilla_gorilla	444A	444	A
+--------------------------------M--LGLPWKGGLPW--------------
+-------------------AL-LLLLLGFQ--IL-------------------------L
+IYAWHFHEQRDCDEHNVMARYLPATVEFAVHTFNQQSKDYYAYRLVHI-NSWKE-----Q
+VESKTVFSMELLLGRTRC-GKLE-DD--------TDNCPFQESTELNDT-----------
+-FTCFFTISTRPWMTQFSLLNK----TCLEGFH---------------------------
+----------------
+>ENSP00000366178 ENSG00000101435	147	CST9L	cystatin 9	Homo_sapiens	444A	444	A
+--------------------------------M--LGLPWKGGLSW--------------
+-------------------AL-LLLLLGSQ--IL-------------------------L
+IYAWHFHEQRDCDEHNVMARYLPATVEFAVHTFNQQSKDYYAYRLGHILNSWKE-----Q
+VESKTVFSMELLLGRTRC-GKFE-DD--------IDNCHFQESTELNNT-----------
+-FTCFFTISTRPWMTQFSLLNK----TCLEGFH---------------------------
+----------------
+>ENSMMUP00000043378 ENSMMUG00000045312	147	CST9L		Macaca_mulatta	444A	444	A
+--------------------------------M--LGLPWRGALPW--------------
+-------------------VL-LLLLLGFQ--LP-------------------------L
+IHAWHFHEQRDCDEYNVMARYLPATVEFAVHTFNQQSKDHYAYRLVHILNSWKE-----Q
+VESKTVLSMELLLGRTRC-GKFE-DD--------IDNCPFQESPELNDT-----------
+-FTCFFTISTRPWRTYFSLLNK----TCLEGFH---------------------------
+----------------
+>ENSMLEP00000028241 ENSMLEG00000038338	147	CST9L		Mandrillus_leucophaeus	444A	444	A
+--------------------------------M--LGLPWRGALPW--------------
+-------------------VL-LLLLLGFQ--LP-------------------------L
+IHAWHFHEQRDCDEYNVMARYLPATVEFAVHTFNQQSKDHYAYRLVHILNSWKE-----Q
+VESKTVLSMELLLGRTRC-GKFE-DD--------IDNCPFQESPELNDT-----------
+-FTCFFTVSTRPWRTYFSLLNK----TCLEGFH---------------------------
+----------------
+>ENSPTRP00000022843 ENSPTRG00000013325	146	CST9L	cystatin 9	Pan_troglodytes	444A	444	A
+--------------------------------M--LGLPWKGGLPW--------------
+-------------------AL-LLLLLGSQ--IL-------------------------L
+IYAWHFHEQRD-DEHNVMARYLPATVEFAVHTFNQQSKDYYAYRLVHILNSWKE-----K
+VESKTVFSMELLLGRTRC-GKFE-DD--------IDNCPFQESTELNNT-----------
+-LTCFFTISTRPWMTQFSLLNK----TCLEGFH---------------------------
+----------------
+>ENSPANP00000017160 ENSPANG00000023845	147	CST9L	cystatin 9	Papio_anubis	444A	444	A
+--------------------------------M--LGLPWRGALPW--------------
+-------------------VL-LLLLLGFQ--LP-------------------------L
+IHAWHFHEQRDCDEYNVMARYLPATVEFAVHTFNQQSKDHYAYRLVHILNSWKE-----Q
+VESKTVLSMELLLGRTKC-GKFE-DD--------IDNCPFQESPELNDT-----------
+-FTCFFTISTRPWRTYFSLLNK----TCLEGFH---------------------------
+----------------
+>ENSPPYP00000012037 ENSPPYG00000010773	147	CST9L		Pongo_abelii	444A	444	A
+--------------------------------M--LGLPWKRGLPW--------------
+-------------------AL-LLLLLGSQ--LL-------------------------L
+IHAWHFHEQRDCDEHDVMARYLPATVEFAVHTFNQQSKDYYAYRLMHILNSWKE-----Q
+VESKTVFSMELLLGRTRC-GKFE-DD--------IDNCPFQESTELNDT-----------
+-FTCFFTISTRPWRTQFSLLNK----TCLEGFH---------------------------
+----------------
+>ENSLAFP00000002347 ENSLAFG00000002805	140	CST9L	cystatin 9	Loxodonta_africana	444A	444	A
+--------------------------------M--SRWPQRWARPC--------------
+-------------------WV-LLLRLGFL--LL-------------------------V
+THAWCTKEENDLDDQDIMAEYFPATVEYALHSFNLRSRDTQAYRLVRILRAWKE-----K
+MDSMLAFSMELELRQTTC-GKFE-ED--------IDNCPFQESPET--------------
+-LSCFFTVSTQPWRTKFDLLNS----TCE-------------------------------
+----------------
+>ENSCCNP00000009427 ENSCCNG00000009940	131	None		Castor_canadensis	444A	444	A
+--------------------------------M--LCLPGRRALSW--------------
+-------------------AT-LLLLLGFQ--LL-------------------------L
+IPA-------EGNEESSLALYFPATVEFALHTFNEQSKDKYAYRLDHILNSSREE----L
+DYHDMVFSMKLKLRKTTC-GKHD-ED--------IDNCPFQDGPALNNT-----------
+-ITCSFIVSTQPWDTKFEL-----------------------------------------
+----------------
+>ENSCPOP00000016568 ENSCPOG00000025294	149	None	None	Cavia_porcellus	444A	444	A
+------------------------LSRKSKDTM--AHPPGKALLAW--------------
+-------------------AL-LLFLWGLQ--LL-------------------------A
+TGAWLFDLSQ-FGSNDDVKLYFPPTMEFAQHIFNQQHKDRYAFRVERILSVRREQM----
+--RDIVFFMVLKLRRTNC-RKFQ-DD--------LDNCPFQKNADLSNV-----------
+-IICSFNVSTLPWITKFTLLNK----TCS-------------------------------
+----------------
+>ENSSTOP00000016929 ENSSTOG00000028869	137	None	None	Ictidomys_tridecemlineatus	444A	444	A
+-----------------------------------------MVLPW--------------
+-------------------VP-LLLLLGRQ--LL-------------------------A
+SPILYRAETTKPEDPIVKDQYFPPTLEFAVYKFNRLNEDQFAYKLLKILNAKKVDVN---
+VYSCTN--FFMFLGRTKC-YKFE-DN--------IDNCPFQDTLGRKRT-----------
+-LNCFFVVSTYPWRTAFELLKN----VCTY------------------------------
+----------------
+>ENSMUGP00000024380 ENSMUGG00000020369	138	Cst9		Meriones_unguiculatus	444A	444	A
+----------------------------------MSCPQRKKALPC--------------
+-------------------AM-LLLLLNFQ--FV-------------------------I
+TPVSRV------NKEMVTSIYFPPTVEFAVHTFNQKSEDEYAYRLEHILSSWQE-----E
+VIFLFVFSMRLQLRRTTC-KKFE-ES--------LDTCPFQESHNLNNT-----------
+-FTCLFTVGTYPWVTEFQLFKH----ECSS------------------------------
+----------------
+>ENSMAUP00000014719 ENSMAUG00000014409	136	Cstdc2		Mesocricetus_auratus	444A	444	A
+-----------------------------------------MALPW--------------
+-------------------AV-LLVLLGFQ--AQ-------------------------G
+AQAWCSAKDEPYIDKP---VSDPDIVKFAVSTFNNQNKDEYAYRSIHIMSFSKV-----Q
+EKLPTTFFMKLRLRRTIC-KKFE-ES--------LDTCPFHNSPELDNI-----------
+-YICSFTIST-PRSKQFNMLKM----TCSAGPP---------------------------
+----------------
+>ENSMOCP00000025941 ENSMOCG00000021896	136	Cstdc2		Microtus_ochrogaster	444A	444	A
+-----------------------------------------MALPW--------------
+-------------------AL-WLLLLGLQ--AQ-------------------------G
+AHAWCSEKDKLYIDKP---VSDPDIVKFAVSAFNSQNKDEYAYRPVHIMGFSKV-----Q
+EKLPATFLVKLRLRRTIC-KTFE-NS--------LDTCPFQDDPELEKT-----------
+-FICSFTIST-PRSKQFNMLKN----TCSTGLP---------------------------
+----------------
+>ENSMUSP00000028935 ENSMUSG00000027445	137	Cst9	cystatin	Mus_musculus	444A	444	A
+----------------------------------MSCPLRKKALPL--------------
+-------------------TM-LLLLLSFH--VL-------------------------I
+TPVSKA------NKETNRSVHFIPTVEFAVNTFNQESQDEYAYRMEHIMSSWRE-----K
+VNFPTVYSMRLQLRRTIC-KKFE-ES--------LDICPFQESHGLNNT-----------
+-FTCLFTVGTYPWITKFKLFRS----VCS-------------------------------
+----------------
+>ENSPEMP00000022886 ENSPEMG00000020106	137	Cst9		Peromyscus_maniculatus_bairdii	444A	444	A
+----------------------------------MSWPQGRKTRPC--------------
+-------------------AM-LLLFLSLQ--FL-------------------------I
+TPISKA------TEENDYSTYFLPTVEFAVETFNQKSQDEYAFRLERILSSREE-----K
+VVFPAVYSMTLQLRRTIC-KKFE-DG--------LDICPFQDGNSANNT-----------
+-YTCLFSIGTFTWATVFKLYKH----ECS-------------------------------
+----------------
+>ENSRNOP00000006869 ENSRNOG00000005162	137	Cst9l	cystatin	Rattus_norvegicus	444A	444	A
+----------------------------------MSCPLGKKALPQ--------------
+-------------------AM-LLLLLSFQ--VL-------------------------I
+TPVTKA------NEETDKSVNFIPTVEFAVNTFNQKSQDEYAYRMEHIMSSWRE-----E
+VDHPIVFSMRLRLRRTIC-KKFE-ES--------LDICPFQESHDRNNT-----------
+-FTCLFTVGTLPWITEFQLFKN----VCS-------------------------------
+----------------
+>ENSBBBP00000026619 ENSBBBG00000005942	128	None	probable	Bison_bison_bison	444B	444	B
+------------------------------------------------------------
+-----------------MFWK-LPLLLGLL--AL-------------------------G
+PHV--CSW--MFEDIGKTGQEFSMCVEFAIHHFNEHQPDENAYKLLWVRRSQHK------
+-KFSLTYLMDLHLGRTIC-KKHD-ED--------IDNCPLQEGPEGKKV-----------
+--NCTFIVDSRPLYTKFTLLNS----TCQQI-----------------------------
+----------------
+>ENSBTAP00000039161 ENSBTAG00000027420	128	None		Bos_taurus	444B	444	B
+------------------------------------------------------------
+-----------------MFWK-LPLLLGLL--AL-------------------------G
+PHV--CSW--MFEDIGKTGQEFSMCVEFAIHHFNEHQPDENAYKLLWVRRSQHK------
+-KFSLTYLMDLHLGRTIC-KKHD-ED--------IDNCPLQEGPEGKKV-----------
+--NCTFIVDSRPLYTKFTLLNS----TCQQI-----------------------------
+----------------
+>ENSCDRP00005028528 ENSCDRG00005019579	142	None	None	Camelus_dromedarius	444B	444	B
+------------------------------------------------------------
+----------------------PPVLLGLL--VL-------------------------G
+LHV--GSW--DFEDVSKSTNFFSMCVEFAVFHFNEHHPEITACKLCGWGE---S------
+-KLSWTYLMDLKLGRTIC-RKHD-ED--------IDNCPLQEGPGEKTV-----------
+--SCTFVVDSQPWITQFTLVNS----TCQQNQGKGPPSPAADPLPLDDVPGS--------
+----------------
+>ENSCHIP00000018266 ENSCHIG00000017766	128	None	probable	Capra_hircus	444B	444	B
+------------------------------------------------------------
+-----------------MFWK-LPLLLGLL--AL-------------------------G
+PHV--CSW--MFEDVRKTGKEFSLCVEFALHHFNEHQPDENAYKLLWVRRSQRK------
+-KYSLTYLMDLDLGRTIC-KKHD-ED--------IDNCPLQEGPEGKKV-----------
+--NCTFIVDSRPSFTQFTLLSS----TCQQI-----------------------------
+----------------
+>ENSCWAP00000022466 ENSCWAG00000017127	128	None	None	Catagonus_wagneri	444B	444	B
+------------------------------------------------------------
+-----------------MSLK-VPLLLGLL--LL-------------------------G
+LHV--CSW--NFENISKSTSYFGICVEFAVFHFNQHEPDEYAYKLLWVGRSQHK------
+-KWSLIYLMDLELGRTIC-KKQD-ED--------IDNCPLQEGPEKKTV-----------
+--KCTFIVDVQPWSTQFNLLNS----TCDQK-----------------------------
+----------------
+>ENSDLEP00000024127 ENSDLEG00000017512	121	None	None	Delphinapterus_leucas	444B	444	B
+------------------------------------------------------------
+-----------------MFLK-LSLLLGLL--AL-------------------------G
+PHV--GSC--KFEDISKSTQNFRLCVEFAVFHFNEHEPDEYAYKLLWVGRSQR-------
+-KYRWIYLMDLELGRTIC-KKHD-ED--------IDNCPLQEGPEQKKG-----------
+--LGSP--GAQPWGSLS-LGGL-------QL-----------------------------
+----------------
+>ENSMMSP00000024795 ENSMMSG00000018653	128	None	None	Moschus_moschiferus	444B	444	B
+------------------------------------------------------------
+-----------------MFWK-LPLLLGLL--AL-------------------------G
+PPV--CSW--TFEDVGKTGKEFSLCVEFALHHFNEHQPDENAYKLLWIRRSQRK------
+-KYSWTYFMDLNLGRTIC-KKHD-ED--------IDNCPLQEGPEGKKV-----------
+--NCTFIVNSRSWFTQFTLLNS----TCQQI-----------------------------
+----------------
+>ENSSSCP00000007586 ENSSSCG00000007123	128	None	probable	Sus_scrofa	444B	444	B
+------------------------------------------------------------
+-----------------MSPK-VPLFLGVL--LL-------------------------G
+PHV--CSW--NFENVSKTMDYFSICVEFAVFHFNQHQPDEYAYKLLWVGRSQRK------
+-KFTWIYLMDLKLGRTIC-KKHD-ED--------IDNCPLQEGPEKKTA-----------
+--KCTFIVDVRPWYTQFNLLNS----TCEQK-----------------------------
+----------------
+>ENSAMEP00000010401 ENSAMEG00000009904	127	None	None	Ailuropoda_melanoleuca	444B	444	B
+------------------------------------------------------------
+------------------LLK-APLLLGLI--VL-------------------------V
+PHV--CSS--DFVDIGRRTKYFILCVEFAVFHFNQVYPDEYAYKLLWVRRSQRK------
+-QFTLIYLMELELGQTIC-TKQD-ED--------LENCPLQEGPEEKKV-----------
+--DCTFIVDVRPWFSQFTLLNS----TCVQK-----------------------------
+----------------
+>ENSCAFP00000007623 ENSCAFG00000005120	140	None	probable	Canis_lupus_familiaris	444B	444	B
+------------------------------------------------------------
+-----MCCWPPGLTPDSMLLK-ASLLLGLI--VL-------------------------M
+PHV--CSP--SFVDISRRSNYFTLCVEFAVFHFNQVYPDEYAYKLLWVRRSQHK------
+-KFTMIYLMELELGQTIC-AKQD-ED--------LDNCPLQEGPREKKV-----------
+--DCTFIVDVRPWFSQFSLLNS----TCVQK-----------------------------
+----------------
+>ENSFCAP00000047020 ENSFCAG00000042989	117	None	None	Felis_catus	444B	444	B
+------------------------------------------------------------
+-----------------MLLK-APLLLGLI--TL-------------------------V
+SHV--CSS--DFVDISRRANHFAL-----------FYPDEYAYKLLWVRRSQRK------
+-QFTLIYLMELELGQTIC-SKQD-ED--------LENCPLQEGPREKKV-----------
+--DCTFVVDIRPWLSQFSLLNS----TCVQK-----------------------------
+----------------
+>ENSLCNP00005001178 ENSLCNG00005000854	128	None	probable	Lynx_canadensis	444B	444	B
+------------------------------------------------------------
+-----------------MLLK-APLLLGLI--TL-------------------------V
+SHV--CSS--DFVDISRRANHFALCVEFAVFHFNQVYPDEYAYKLLWVRRSQRK------
+-QFTLIYLMELELGQTIC-SKQD-ED--------LENCPLQEGPREKKV-----------
+--DCTFVVDIRPWLSQFSLLNS----TCVQK-----------------------------
+----------------
+>ENSMPUP00000001140 ENSMPUG00000001151	128	None	None	Mustela_putorius_furo	444B	444	B
+------------------------------------------------------------
+-----------------MLLK-APLILGLI--VL-------------------------V
+PHV--CSS--DFLDIGSRTNYFILCVEFAVFHFNQVYPDEYAYKLLWVRRSQRK------
+-QFTLIYLMELELGQTIC-TKED-ED--------LENCPLQEGPEEKKL-----------
+--DCTFIVDARPWLSQFFLLNS----TCVQK-----------------------------
+----------------
+>ENSNVIP00000001794 ENSNVIG00000001458	128	None	None	Neovison_vison	444B	444	B
+------------------------------------------------------------
+-----------------MLLK-APLILGLI--VL-------------------------V
+PHV--CSS--AFMDIGSRTNYFVLCVEFAVFHFNQVYPDEYAYKLLWVRRSQRK------
+-QFTLIYLMELELGQTIC-TKED-ED--------LENCPLQEGPEEKKL-----------
+--DCTFIVDARPWLSQFFLLNS----TCVQK-----------------------------
+----------------
+>ENSPLOP00000000951 ENSPLOG00000000715	128	None	None	Panthera_leo	444B	444	B
+------------------------------------------------------------
+-----------------MLLK-APLLLGLI--TL-------------------------V
+SHV--CSS--DFVDISRRANHFALCVEFAVFHFNQVYPDEYAYKLLWVRRSQRK------
+-QFTLIYLMELELGQTIC-SKQD-ED--------LENCPLQEGPREKKV-----------
+--DCTFVVDIRPWLSQFSLLNS----TCVQK-----------------------------
+----------------
+>ENSSSUP00005011492 ENSSSUG00005007373	182	None	None	Suricata_suricatta	444B	444	B
+--------------MTNTMGPQGGR----------AVWKCMWARPELGLPFP--------
+--VLDPCPWLPSMSIP------AELCPGLI--CSPCPGHSLHQPQD---------IRNPS
+SHC--QAE--PDLMESRRANYFALCVEFAVYHFNQVYPDEYAYKLLWVRRSQRK------
+-PFTLIYLMELELGQTIC-SKQD-ED--------LENCPLQEGPREKKV-----------
+--DCTFIVDVRPWISQFSLLNS----TCVQK-----------------------------
+----------------
+>ENSUMAP00000005231 ENSUMAG00000004147	133	None	probable	Ursus_maritimus	444B	444	B
+------------------------------------------------------------
+------------MTPDSTLLK-APLLLGLI--VL-------------------------V
+PHV--CSS--DFVDIGRRTNYFILCVEFAVFHFNQVYPDEYAYKLLWVRRSQRK------
+-QFTFIYLMELELGQTIC-TKQD-ED--------LENCPLQEGPEEKKV-----------
+--DCTFIVDARPWFSQFTLLNS----TCIQK-----------------------------
+----------------
+>ENSVVUP00000016427 ENSVVUG00000012067	166	None	probable	Vulpes_vulpes	444B	444	B
+------------------------------------------------------------
+-----MCCWPPGLTPDSMLLK-ASLLLGLI--VL-------------------------M
+PHI--CSP--SFVDISRRSNYFTLCVEFAVFHFNQVYPDEYAYKLLWVRRSQHK------
+-KFTMIYLMELELGQTIC-AKQD-ED--------LDNCPLQEGPREKKV-----------
+--PGFPTEGECRYSRPTELLPAEQPAECCAHSWPVWTAPLLW-MSDHGFPSSPS------
+----------------
+>ENSMLUP00000020435 ENSMLUG00000029778	103	None	None	Myotis_lucifugus	444B	444	B
+------------------------------------------------------------
+-----------------MLLK-VPLLLGLI--AL-------------------------G
+PPV--CSS--KFVDESKNTQLFAIGVEFAMFQFNQAQEDEYAYKLLWVGRSQRK------
+-LFSWNYLMDLNMGRTVC-KKHD-ED--------IDNCPLQEGPGMKEV-----------
+------------------------------------------------------------
+----------------
+>ENSRFEP00010016146 ENSRFEG00010010952	128	None	None	Rhinolophus_ferrumequinum	444B	444	B
+------------------------------------------------------------
+-----------------MFLK-APLLLGLL--VL-------------------------G
+PHV--CSS--NFVDISKSSSFFAMCVEFAMFQFNQAHPDEYAYKLLWVGRSQRK------
+-RWTMTFLMDLEMGRTIC-KKYA-ED--------IENCPLQEGPGEKKV-----------
+--DCTFIVDARPWFSQFTLMNS----TCMQK-----------------------------
+----------------
+>ENSDNOP00000027891 ENSDNOG00000036667	142	None	probable	Dasypus_novemcinctus	444B	444	B
+----------------------------------------------LSSDL---------
+----------ALTGCAPMAPL-GPLLLGLI--VL-------------------------V
+GHVWTFRK--EFYDISKTLEYFLMSVEFAVFQFNQESEDEFAYNLQWIRRSQRK------
+-RNSHMYLMDVELGRTIC-RKHE-ED--------LENCPLQEGPGEKKL-----------
+--RCTFLVETLPWESKFILLNS----TCVEQ-----------------------------
+----------------
+>ENSCJAP00000073135 ENSCJAG00000067742	152	CST9	cystatin	Callithrix_jacchus	444B	444	B
+----------------------------------MSSP-QRRALPW--------------
+-------------------AL-SLLLMGLQ--LL-------------------------V
+TYAWCSEEEMRRDHKMVQDPVFLATVGFALNTFNVQSKEEHAYRLLHILSSWRENSSDRK
+WRGKMVFSMNLQLRRTVC-RKFE-DD--------IENCPFQESPELNNVRQGTS------
+---------------FSHVQSY----GCCVGCGVGTGAAA-KPF----------------
+----------------
+>ENSCATP00000018573 ENSCATG00000033110	158	None	cystatin	Cercocebus_atys	444B	444	B
+----------------------------------MSSRQRRKALPW--------------
+-------------------AL-SLLLMGFQ--LL-------------------------V
+TYAWCSEEEMGGNNKIVQDPMFLATVEFALNTFNVQSKEEHAYRLLRVLSSWREDSMDRK
+WRGKMVFSMNLQLRQTVC-WKFE-DD--------IENCPFQESPELNNVR-GVS------
+---------------FPQVHNC----GCCMGCGVGTGAAD-KAIPSDKGK----------
+----------------
+>ENSCSAP00000014276 ENSCSAG00000018262	159	None		Chlorocebus_sabaeus	444B	444	B
+----------------------------------MSSPQRRKALPW--------------
+-------------------AL-SLLLMGFQ--LL-------------------------V
+TYARCSEEEMGGNNKLVQDPMFLATVEFALNAFNVQSKEEHAYRLLRVLSSWREDSLDRK
+WRGKMVFSMNLQLPQTVC-RKFE-DD--------IENCPFQESPELNNVRQCLS------
+---------------FPQVHNC----GCCMGCGVGTGAAD-KAIPSDKGK----------
+----------------
+>ENSGGOP00000009295 ENSGGOG00000009518	159	CST9	cystatin	Gorilla_gorilla	444B	444	B
+----------------------------------MSSPQKRKALPW--------------
+-------------------AL-SLLLMGFQ--LL-------------------------V
+TYAWCSEEEMGGNNKIVQDPTFLATVEFALNTFNVQSKEEHAYRLLRVLSSWREDSMDRK
+WRGKMVFSMNLQMRQTVC-RKFE-DD--------IENCPFQESLELNNVRQGIS------
+---------------FPQVHSC----GCCMGCGVGTGAAD-KAIPRDKGK----------
+----------------
+>ENSP00000366170 ENSG00000173335	159	CST9	cystatin	Homo_sapiens	444B	444	B
+----------------------------------MSSPQRRKAMPW--------------
+-------------------AL-SLLLMGFQ--LL-------------------------V
+TYAWCSEEEMGGNNKIVQDPMFLATVEFALNTFNVQSKEEHAYRLLRVLSSWREDSMDRK
+WRGKMVFSMNLQLRQTVC-RKFE-DD--------IDNCPFQESLELNNVRQGIS------
+---------------FPQVHSC----GCCMGCGVGTGAAD-KAIPRDKGK----------
+----------------
+>ENSMMUP00000056130 ENSMMUG00000039259	159	CST9		Macaca_mulatta	444B	444	B
+----------------------------------MSSPQRRKALPW--------------
+-------------------AL-SLLLMGFQ--LL-------------------------V
+TYAWCSEEEMGGNNKIVQDPMFLATVEFALNTFNVQSKEEHAYRLLRVLSSWREDSMDRK
+WRGKMVFSMNLQLRQTVC-WKFE-DD--------IENCPFQESPELNNVRQGVS------
+---------------FPQVHNC----GCCMGCGVGTGAAD-KAIPSDKGK----------
+----------------
+>ENSMLEP00000016362 ENSMLEG00000032381	159	None	cystatin	Mandrillus_leucophaeus	444B	444	B
+----------------------------------MSSRQRRKALPW--------------
+-------------------AL-SLLLMGFQ--LL-------------------------V
+TYAWCSEEEMGGNNKIVQDPMFLATVEFALNTFNVQSKEEHAYRLLRILSSWREDSMDRK
+WRGKMVFSMNLQLRQTVC-WKFE-DD--------IENCPFQESPELNNVRQGIS------
+---------------FPQVHNC----GCCMGCGVGTGAAG-KAIPSDKGK----------
+----------------
+>ENSMICP00000044618 ENSMICG00000047052	156	CST9	cystatin	Microcebus_murinus	444B	444	B
+-----------------------------------MSLRRARALPW--------------
+-------------------VL-LLLLSTLK--LL-------------------------R
+TRAWCSEEENENN-RKGSTPEIRATVEFALHKFNQQSKDDYAYRVLSLLSSWREYSQYKQ
+DSSKMVFSMKLELRRTLC-RKFK-ED--------LDNCPFQQGSKPNNVRPDTS------
+---------------FLHLSSC----GGCMGVGAG--AAD-KAFARGVEEG---------
+----------------
+>ENSPTRP00000022844 ENSPTRG00000013326	159	CST9	cystatin	Pan_troglodytes	444B	444	B
+----------------------------------MSSPQRRKALPW--------------
+-------------------AL-SLLLMGFQ--LL-------------------------V
+TYAWCSEEEMGGNNKIVQDPMFLTTVEFALNTFNMQSKEEHAYRLLRVLSPWREDSMDRK
+WRGKMVFSMNLQLRQTVC-RKFE-DD--------IDNCPFQESLELKNVRQGIS------
+---------------FPQVHSC----GCCMGCGVVTGAAD-KAIPRDKGK----------
+----------------
+>ENSPANP00000021522 ENSPANG00000030853	159	None	cystatin	Papio_anubis	444B	444	B
+----------------------------------MSSRQRRKALPW--------------
+-------------------AL-SLLLMGFQ--LL-------------------------V
+TYAWCSEEEMGGNNKIVQDPMFLATVEFALNTFNVQSKEEHAYRLLRVLSSWREDSMDRK
+WRGKMVFSMNLQLRQTVC-WKFE-DD--------IENCPFQESPELNNVRQCLS------
+---------------FPQVHNC----GCCMGCGVGTGAAD-KAIPSDKGK----------
+----------------
+>ENSPPYP00000012039 ENSPPYG00000010775	159	CST9		Pongo_abelii	444B	444	B
+----------------------------------MSSPQRSKALPW--------------
+-------------------AL-SLLLMGFQ--LL-------------------------V
+TYAWCSEEEMGGNNKIVQDPMFLATVEFALNTFNVQSKEEHAYRLLRVLSSWKEDSMDRK
+WRGKMVFSMNLQLRQTVC-RKFE-DD--------IDNCPFQESLELNNVRQGIS------
+---------------FPQVHSC----GCCMGCGVGTGAAD-KAIPRDKGK----------
+----------------
+>ENSTGEP00000025123 ENSTGEG00000020267	153	CST9	cystatin	Theropithecus_gelada	444B	444	B
+----------------------------------MSSTQRRKALPW--------------
+-------------------AL-SLLRMGFQ--LL-------------------------V
+TYAQCSEEEMGGNNKITQDPMFLTTVEFALNTFNVQSKEEHAYRLLRVLSSWRED---RN
+WRGKMVFSMNLQLRQTVC-WKFE-DD--------IENCPFQESPELNNVRQRLS------
+---------------FP-VHNC----GCCMGCGVGTGAAD-KP--SDKGK----------
+----------------

@@ -1,0 +1,686 @@
+>ENSCHAP00000049552 ENSCHAG00000022745	134	SYCN		Clupea_harengus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MKTLIAVLL---------CTALCWDGLNAQCPEPATLKD--VNGAKVCARM
+FEDSNIIYAESCGGDSLDAFPDDDIPTIPWRWNNRVSSLVVNRGCSLTVWGRYRKQGTKR
+KFSAGIQHRLKDVGQGLGILRDWDNDISGYWCVC--------------------------
+-------------------
+>ENSDCDP00000013865 ENSDCDG00000009935	144	sycn		Denticeps_clupeoides	1272A	1272	A
+------------------------------------------------------------
+--------------------------------------------------------MALG
+SQLTLRGPTMKVAV-ALL---------LCAVCWVGLRAQCPEPGTLKD--PNGVKICARM
+FEHSNIYNEQSCGGEYLDAFHNDDVPMIPWRWNNRVSSLVVNKMCSLTVWSRMKKEGKKR
+KFGAGIQYRLKDVTQG--LFGNWNDDISAYYCEC--------------------------
+-------------------
+>ENSCARP00000124864 ENSCARG00000065534	131	sycn		Carassius_auratus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MKGVI-ALL---------LAALFFEGLNAECPDPATLKD--DYGSKLCAQM
+FENSSYYYDESCSGKFFYVYPDEDTPIMSWSWNNRVSSLVVGRGCSLTVWSKSKKEGHKK
+KFSAGIVYHLKEVKKG--LFGDWNDSISGYYCTC--------------------------
+-------------------
+>ENSDARP00000107370 ENSDARG00000090899	131	sycn	syncollin, tandem duplicate	Danio_rerio	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MRGLI-ALL---------LVALCLEGLNAACPDHATLKD--DHGSKLCAQM
+FEHSSYYYDESCTGSFLNVYPDEDTPIMPKTWENHVSSLVVRRGCSLTVWSKSKKKGNKR
+KFLAGVVYHLKEVKRG--LFGNWNDAISGFYCTC--------------------------
+-------------------
+>ENSSGRP00000104254 ENSSGRG00000051671	131	sycn		Sinocyclocheilus_grahami	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MKGVI-ALL---------LAALCFEGLNAECPDPATLKD--DYGSKLCAQM
+FEHSSYYYDESCTGNFLYVYPDEDTPIMSWAWNNRISSLVVGRGCSLTVWSKSKKQGYKK
+KFSAGIVYQLKEVQKG--LFGDWNDSISGYYCTC--------------------------
+-------------------
+>ENSELUP00000046993 ENSELUG00000019231	131	sycn		Esox_lucius	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MKVTI-ALL---------LSTLCFAVLNAQCPEPNALKD--ADGVKLCARM
+FEHSNIYFEQSCGGEYLDAYPGDDVPTIPRKWNNRVSSLVVARGCSLTVWQYTKKRGSRS
+KFGAGIKYRLKDSMQG--LFGNWENSISAYYCVC--------------------------
+-------------------
+>ENSEEEP00000010173 ENSEEEG00000005161	131	sycn		Electrophorus_electricus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MKVAV-ALL---------LCAMCLLGLDAQCPDPSTLKD--SEGNKICARM
+FEDSNYYYEQSCGGQYLDVNPNDDVPIIPTHWNNRASSLVVSKFCSLTVWSRIKKNGTKR
+KFSAGIVYRLKDVKKG--LFGNWDNSISAYYCTC--------------------------
+-------------------
+>ENSLOCP00000021831 ENSLOCG00000017727	131	sycn		Lepisosteus_oculatus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MKAVS-AVL---------LCALCLTGLQAQCPDPATLKD--SSGAKLCARM
+FEDSNYYYDQSCGGSYLDIYPGDDFPLIPPAWNNRASSLVVSKFCSLTVWSRGKKQGKKR
+KFSSGTYYQLKEVGQG--LFGNWNNDISGYYCVC--------------------------
+-------------------
+>ENSIPUP00000036929 ENSIPUG00000024731	131	sycn		Ictalurus_punctatus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MKVVV-ALL---------FCALCFLGLDAQCPEPGTLKD--AEGNKICARM
+FEDSNYYYNQSCGGEYIDAYPSEDVPIIPWRWNNRISSLVVNKLCSLTVWSRIKKNGSKR
+KFSSGIQYLLKDVQQG--LLGNWDNDISAYYCVC--------------------------
+-------------------
+>ENSCDRP00005022869 ENSCDRG00005015848	136	SYCN		Camelus_dromedarius	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLCPLLLA------LALALAAVPGVRGACPVPADLKS--ANGTRTCAKL
+YDKSDPYYENCCGGAELALQPGADLPYLPSDWTNVISSLVVGQRCELTVWSIRGKAGKKR
+KFSAGTYPRLEEYRRG--IFGDWSNAISALYCRCN-------------------------
+-------------------
+>ENSPCTP00005022685 ENSPCTG00005016224	134	SYCN		Physeter_catodon	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MFLLCSLLLA--------LALAAVPGVRGACPQPADLKN--VNGTRICARL
+YDKSDPYYDLCCGGAELSLEPGADMPYLPSGWKNTISSLVVAPRCELTVWSSRGKAGKTR
+KFSAGSYPRLEEYRRG--IFGDWSNSISSLYCRCF-------------------------
+-------------------
+>ENSCAFP00000008353 ENSCAFG00000005592	134	SYCN		Canis_lupus_familiaris	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLCPVLLA------L--ALAAVPGVRAACPAPADLKR--PDGTRTCAKL
+YDKSDPYYENCCGGAELSLEPNTDLPFLPSNWANVASSLVVAPRCEITVWSVRGKAGKTR
+KFSTGAYPRLEEFRKG--IFGDWSNTIASLYCRCY-------------------------
+-------------------
+>ENSLCNP00005031643 ENSLCNG00005020622	134	SYCN		Lynx_canadensis	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLCALLVA------L--ALVAVPGIRAACPLPADLKR--PDGTRTCAKL
+YDKSDPYYENCCGGAELSVEPGTDLPFLPADWNNAVSSLVVAPRCEITVWSLRGKAGKTR
+KFSTGAYPRLEEFRKG--IFGDWSNTIASLYCRCY-------------------------
+-------------------
+>ENSMPUP00000017630 ENSMPUG00000017742	136	SYCN		Mustela_putorius_furo	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLCPLLLA------LALALAAVPGGRAACPAPADLKK--PDGTRTCARL
+YDKSDPYYQNCCGGAQLSLEPGADLPFLPSDWMNVASSLVVAPRCEITVWSLRGKAGKTR
+KFSAGAYPRLEEFRKG--IFGDWSNTIASLYCRCY-------------------------
+-------------------
+>ENSNVIP00000012878 ENSNVIG00000010199	134	SYCN		Neovison_vison	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLCPLLLA------L--ALAAVPGGRAACPAPADLKK--PDGTRTCARL
+YDKSDPYYQNCCGGAQLSLEPGADLPFLPSDWTNVASSLVVAPRCEITVWSLRGKAGKTR
+KFSAGAYPRLEEFRKG--IFGDWSNTIASLYCRCY-------------------------
+-------------------
+>ENSPLOP00000014602 ENSPLOG00000010703	134	SYCN		Panthera_leo	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLCPLLLA------L--ALVAVPGIRAACPLPADLKR--PDGTRTCAKL
+YDKSDPYYENCCGGAELSVEPGTDLPFLPADWNNAASSLVVAPRCELTVWSLRGKAGKTR
+KFSAGAYPRLEEFRKG--IFGDWSNTIASLYCRCY-------------------------
+-------------------
+>ENSSSUP00005021970 ENSSSUG00005014333	227	None	None	Suricata_suricatta	1272A	1272	A
+------------------------------------------------------------
+---------------MGCGFPAWVSKVSRGGGG-----GEGGRPYLAASPFPRARRIKAR
+KDARPRSVAMSPLCPLLLA------L--ALAAVPGVRAACPVPTDLKR--PDGTRTCAKL
+YDKSDAYYENCCGGAELSIEPGTDLPFLPSDWNNVASSLVVAPRCEITVWSLRGKAGKTR
+KFSAGAYPRLEEFRKG--IFGDWSNTIASLYCRWPFSCPDLPGTSRDPQDSRMDQQDAFK
+DPAPGSPARSGQSPGLSSG
+>ENSVVUP00000008457 ENSVVUG00000006358	134	SYCN		Vulpes_vulpes	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLCPVLLA------L--ALAAVPGVRAACPAPADLKR--PDGTRTCAKL
+YDKSDPYYENCCGGAELSLEPDTDLPFLPSNWANVASSLVVAPRCEITVWSLRGKAGKTR
+KFSTGAYPRLEEFRKG--IFGDWSNTIASLYCRCY-------------------------
+-------------------
+>ENSMLUP00000001975 ENSMLUG00000002170	134	None	None	Myotis_lucifugus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MAPLCPLLLA------L--ALVAIPGVRGACPAAADLKK--PDGTRTCAKA
+YDKSDPYYENCCRGAELSIEPGTDLPFLPSDWRNVISSLVVAPRCELTVWSRRGKGGKSH
+KFTAGVYPRLEEFRRG--ILGHWSNAISSIYCRCP-------------------------
+-------------------
+>ENSRFEP00010033181 ENSRFEG00010021816	136	SYCN		Rhinolophus_ferrumequinum	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLYSLLLV------LPLALVAIPGIQGACPTAAELKN--PNGTRTCARL
+YDKSDPYYENCCGGAELSIEPGADLPFLPYSWTNVVSSLVVGQRCELTVWSRRGKGGKSR
+RFSAGAYPRLEEYRRG--IFGHWSNAISSVYCRCY-------------------------
+-------------------
+>ENSCJAP00000025845 ENSCJAG00000014058	134	SYCN		Callithrix_jacchus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLRPLLLA--------LVLAVMPCAQGACPVPADLKH--SDGTRTCAKL
+YDKSDPYYENCCGGAELSLEPGADLPYLPSNWANTASSLVVAPRCELTVWSLKGKAGKTR
+KFSTGTYPRLEEYRRG--IFGDWSNAISALYCRCS-------------------------
+-------------------
+>ENSCATP00000017448 ENSCATG00000032618	164	SYCN		Cercocebus_atys	1272A	1272	A
+------------------------------------------------------------
+--------------------------MRDPGGGLGHLGP--------GGE-------WQR
+AGPRRGTATTSSLRPLLLA------LALALAAVPCAQGACPASADLKH--SDGTRTCAKL
+YDKSDPYYENCCRGAELSLEPGADLPYLPSNWANTASSLVVAPRCELIVWSRQGKAGKTH
+KFSAGTYPRLEEYRRG--ILGNWSNAISALYCRCS-------------------------
+-------------------
+>ENSCSAP00000018077 ENSCSAG00000018538	133	SYCN		Chlorocebus_sabaeus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLRPLLLA--------LALAAVPCAQGACPASTDLKH--SDGTRTCAKL
+YDKSDPYYENCCRGAELSLEPGADLPYLPSNWANTASSLVVAPRCEV-VWSRQGKAGKTH
+KFSAGTYPRLEEYRRG--ILGNWSNAISALYCRCP-------------------------
+-------------------
+>ENSP00000325564 ENSG00000179751	134	SYCN		Homo_sapiens	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLRPLLLA--------LALASVPCAQGACPASADLKH--SDGTRTCAKL
+YDKSDPYYENCCGGAELSLESGADLPYLPSNWANTASSLVVAPRCELTVWSRQGKAGKTH
+KFSAGTYPRLEEYRRG--ILGDWSNAISALYCRCS-------------------------
+-------------------
+>ENSMMUP00000062290 ENSMMUG00000061074	136	SYCN		Macaca_mulatta	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSSLRPLLLA------LALALAAVPCAQGACPASADLKH--SDGTRTCAKL
+YDKSDPYYENCCRGAELSLEPGADLPYLPSNWANTASSLVVAPRCELVVWSRQGKAGKTH
+KFSAGTYPRLEEYRRG--ILGNWSNAISALHCRCS-------------------------
+-------------------
+>ENSMICP00000018956 ENSMICG00000030399	134	SYCN		Microcebus_murinus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPRWPLLLA--------LALAAVPCALGACPAPADLKR--EDGTRTCAKL
+YDKSDPYYENCCAGAELSLEPGADLPYLPSDWANTASSLVVAPRCELTVWSLRGKAGKTR
+KFSGGAYPRLEEYRLG--VFRDWSNAISALYCRCS-------------------------
+-------------------
+>ENSPTRP00000018780 ENSPTRG00000010954	134	SYCN		Pan_troglodytes	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLRPLLLA--------LALAAVPCAQGACPASADLKH--SDGTRTCAKL
+YDKSDPYYENCCGGAELSLEPGADLPYLPSNWANTASSLVVAPRCELTVWSRQGKAGKTH
+KFSAGTYPRLEEYRRG--ILGDWSNAISALYCRCS-------------------------
+-------------------
+>ENSPANP00000015478 ENSPANG00000005590	136	SYCN		Papio_anubis	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSSLRPLLLA------LALALAAVPCAQGACPASADLKH--SDGTRTCAKL
+YDKSDPYYENCCRGAELSLEPGADLPYLPSNWANTASSLVVAPRCELVVWSRQGKAGKTH
+KFSARTYPRLEEYRRG--ILGNWSNAISALYCRCS-------------------------
+-------------------
+>ENSTGEP00000003240 ENSTGEG00000002778	134	SYCN		Theropithecus_gelada	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSSLRPLLLA--------LALASVPCAQGACPASADLKH--LDGTRTCAKL
+YDKSDLYYENCCRGAELSLEPGADLPYLPSNWANTASSLVVAPRCELVVWSRQGKAGKTH
+KFSARTYPRLEEYRRG--ILGNWSNAISALYCRCS-------------------------
+-------------------
+>ENSCCNP00000010624 ENSCCNG00000011070	139	None	None	Castor_canadensis	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------MSFVT--------MSLAAGPGPGSHAQCPPSLSE--RTGPRTCAKL
+YDKSDPYYDNCCQGAELSLEPGTDLPYLPSGWANTASSLVVAQSSAHRVVT-PGQERQNP
+QVHGQCLPAPGGGQPG--IFGHWSNVISGLYCKCVPSPPAQPPTPA--------------
+-------------------
+>ENSCLAP00000021748 ENSCLAG00000014890	134	SYCN		Chinchilla_lanigera	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSLLCSLLLA--------LALAAAPGVQGACPAPADLKS--EDGSRTCAKL
+YDKSDPYYDNCCAGSVLSVGPDADLPYLPSDWANTASSIVVAQRCELTVWSRAGKGGKSR
+KFTSGAYPRLEEFRKG--ILGNWSNTIAGLYCRCY-------------------------
+-------------------
+>ENSSTOP00000000779 ENSSTOG00000000873	134	SYCN		Ictidomys_tridecemlineatus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSLLRPLLLA--------LALVAVPGAQGACPVPADLKR--EDGTRTCAKL
+YDKSDPYYDNCCRGAELSVEPGADLPFLPSGWANTASSLVVAPRCELTVWSRAGKAGKTH
+KFSSGSYPRLEELRRG--IFGDWSNAISALYCRCY-------------------------
+-------------------
+>ENSMUGP00000028240 ENSMUGG00000023435	134	Sycn		Meriones_unguiculatus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLCPLLLA--------LALVAAPGARAACPVPADLKH--ADGTRTCAKL
+YEKSDPYYENCCQGPVLSVEPGADLPFLPSDWANSASSLVVAQRCELTVWSQPGKRGKTR
+KFSAGAYPRLEEYRRG--IFGDWSNAISGLYCKCY-------------------------
+-------------------
+>ENSMAUP00000013633 ENSMAUG00000013624	134	Sycn		Mesocricetus_auratus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MAPLCLLLLA--------LALVAVPGARGTCPVPADLKR--EDGTRTCARL
+YDKSDPYYDNCCQGAQLSLEPGSDLPYLPSDWANTASSLVVAQRCELTVWSLPGKKGKSR
+KFSAGSYPRLEEYRRG--IFGDWSNAISGLYCKCS-------------------------
+-------------------
+>ENSMOCP00000017239 ENSMOCG00000015903	134	Sycn		Microtus_ochrogaster	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSLLCPLLLA--------LALVAIPGARGACPEPASLKL--DDGTRTCAKI
+YDKSDAYYDNCCQGAELSLEPGTDLPYLPSDWTNRASSLVVGQRCELTVWSQPGKQGKSR
+KFSAGSYPRLEEYRRG--LFGDWSNAISGLYCKCS-------------------------
+-------------------
+>ENSMUSP00000112770 ENSMUSG00000084174	134	Sycn		Mus_musculus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSLLCPLLLA--------LALVAVPGAHGNCPVPADLKK--SDGTRTCARL
+YEKSDPYYDNCCQGPVLSVEPGTDLPYLPSGWSNTASSLVVGQRCEITVWSLPGKHGKTR
+KFTAGSYPRLEEYRKG--IFGDWSDSISALYCKCY-------------------------
+-------------------
+>ENSODEP00000022523 ENSODEG00000016530	134	SYCN		Octodon_degus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSVLCPLLLA--------LALVAAPGVRGACPAPADLKT--EDGTRTCAKL
+YDKSDAYYDNCCAGAELSLQPGADLPYLPSNWANTVSSLVVGQRCELTVWSRSGKGGKSR
+KFSAGAYPRLEEYRRG--LLGDWNNAISGLYCRCY-------------------------
+-------------------
+>ENSPEMP00000003890 ENSPEMG00000005780	134	Sycn		Peromyscus_maniculatus_bairdii	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLCPLLLT--------LALVAVPGARGTCPVPADLKR--EDGTRTCAKL
+YDKSDPYYDNCCQGAELSLEPGTDLPYLPSGWANTASSLVVASRCELTVWSLPGKGGKTR
+KFSAGSYPRLEEYRRG--IFGDWSNSISGVYCKCS-------------------------
+-------------------
+>ENSANIP00000018990 ENSANIG00000012918	133	None	None	Accipiter_nisus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MAAAA-VLVV--------LAAAVLAGAEAQCPNPSDLRT--ANGTRICAEL
+YTDNSPYYDQCCGGSALVVYPGSDVPYMPRGWVATVSSLVVGTRCELTVWSRPGKKGKTR
+NFGAGAVPRLQEVRRG--LFGDWNNAIRGFYCQCR-------------------------
+-------------------
+>ENSACCP00020022220 ENSACCG00020015275	133	SYCN		Aquila_chrysaetos_chrysaetos	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MAAVA-VLVV--------LAAAVLAGAEAQCPAPSNLRT--ANGTCICAQL
+YTDNSPYYDQCCGGSALVVYPGSDVPYMPHGWGTAVSSLVVSTRCELTIWSRAGKKGKSR
+SFGASTVPRLQEVRQG--LFSNWNNAIRGFYCQCR-------------------------
+-------------------
+>ENSAPLP00020011836 ENSAPLG00020008712	129	SYCN		Anas_platyrhynchos	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+--------DLALCP-PLPVDGGAGAGGGAGGGAGGGRGPVPTASDLRG--VNGTRVCAEL
+FTDDSPYYDQCCGGKSL-------------GWSAAVSSLVVGPRCQLTVWSLPGKHGKMK
+RFGAGAVPRLQEVRRG--LFGNWNNAIRGYYCQCN-------------------------
+-------------------
+>ENSACDP00005018148 ENSACDG00005013224	132	SYCN		Anser_cygnoides	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+----------MAVL-MLAA--------VLAAVLAGAGAQCPRPADLQG--VNGTRICAEL
+FTDDSAYYNECCRGKSLMVDCGTDVPYVPWEWSGSISSLVVGTRCQLTVWSRAGKNGQTK
+TFGAGTVPRLQEVRRG--LFGNWNNAIRGYYCQCN-------------------------
+-------------------
+>ENSAOWP00000001228 ENSAOWG00000000881	134	SYCN		Apteryx_owenii	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+--------VAPSPP-PSLS--------SSSSSPCATRRPCPAPADLRA--ADGSRICAQL
+YADNSPYYDQCCAGATLVVNPGTDVPYMPSSWAGSVSSLVVATRCELTVWDKAGKKGHSR
+HFSAGAVPRLQEVRRG--LLGNWNDAIKGYYCKCN-------------------------
+-------------------
+>ENSCJPP00005007047 ENSCJPG00005006502	131	SYCN		Coturnix_japonica	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+-----------MAA-VLTA--------LLAAILTVCGAQCPTPADLKP--TNGTRLCAQL
+YTEDSVYYDRCCAGDSLAVLPGSDVPYMPPGWAGKVSSLVVGTRCELTVWSRVGKEGNSK
+RFTAGAVPRLQEVRRG--LFRTWNDAIRSYYCKCN-------------------------
+-------------------
+>ENSGALP00000069719 ENSGALG00000050372	131	SYCN		Gallus_gallus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+-----------MAA-VLAA--------VLAAVLAVCGAQCPTAADLKP--ANGTRLCAQL
+YTEDSVYYDRCCAGNSLAVPPGADVPYMPTGWAGEVSSLVVGTRCELTVWSRAGKGGSTK
+HFSAGVYPRLQEVRRG--LFRDWNDAIRSYYCKCN-------------------------
+-------------------
+>ENSNMEP00000004817 ENSNMEG00000005157	131	SYCN		Numida_meleagris	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+-----------GAG-GCPL--------VLAAVLVVCGAQCPTPADLKP--ANGTRICAQL
+YTEDSAYYNECCAGSSLAVLPGADVPYMPKGWAGEVSSLVVGTRCELTVWSRAGKKGSTK
+HFSAGAVPRLQEVRRG--LFLNWNDAIRSYYCKCN-------------------------
+-------------------
+>ENSPSTP00000020087 ENSPSTG00000014567	137	SYCN		Pavo_cristatus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+-----LGPLPGLVV-PGGS--------GLASWVPSQEGGCPTPADLKP--ANGTRLCAQL
+YTEDSVYYDRCCAGSSLAVAPDSDVPYMPTGWAGEVSSLVVGTRCELTVWSKAGKEGNTK
+RFSAGAYPRLQEVRRG--LFRNWNDAIRSYYCKCN-------------------------
+-------------------
+>ENSCPVP00000015611 ENSCPVG00000011427	130	SYCN		Camarhynchus_parvulus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+--------MLALLV-ALVL---------ALLGSRGALAQCPSPSELRP--SNGTRLCALL
+YADNSPYYEQCCAGDALEVLPGADLPYLPLGWAGRASSLVVGTRCELTVWSRPAKEGKSR
+HFGAGAVPRLQEVRKG--LFGDWNNAIRALYC----------------------------
+-------------------
+>ENSEGOP00005013438 ENSEGOG00005010662	131	SYCN		Erythrura_gouldiae	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+--------ASALLL-ALLA--------AAAVLGPGARAQCPSPAELRP--ANGTRLCALL
+YADSSPYYEQCCAGDALAVPPGGDLPYMPRGWSARASSLVVGARCELTVWSRRAKDGSSR
+RFGAGAVPRLQEVRRG--LFGDWNDAIRALYC----------------------------
+-------------------
+>ENSJHYP00000002667 ENSJHYG00000002237	129	SYCN		Junco_hyemalis	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------LALLL-ALLL---------PLLGSRGALAQCPAPAELRP--ANGTRLCALL
+YADNSPYYEQCCAGDALQVPPDADMPYLPVGWAGRASSLVVGTRCELTVWSRRAKAGKTR
+RFSAGAVPRLQEVKRG--LFGNWNDAIRALYC----------------------------
+-------------------
+>ENSLSDP00000005601 ENSLSDG00000004350	135	SYCN		Lonchura_striata_domestica	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+-------MALALLV-TLVA--------AVAALGRGVQAQCPTAADLRP--TNGTQLCALL
+YADNSPYYDQCCAGDVLEVLPGSDMPYMPQGWSARASSLVVGTRCQLTVWSRRAKDGNSR
+HFGAGAVPRLQELRRG--LFGDWNNAIRALYCTCE-------------------------
+-------------------
+>ENSPMJP00000002526 ENSPMJG00000002143	130	SYCN		Parus_major	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------PL-PAGP--------LPAALARAISAQCPKPSDLRP--LNGTRVCAQL
+YADNSPYYDQCCAGAVLVVPPNSDAPYMPRGWSARASSLVVGTRCELTVWSRRGKKGDSR
+KFGAGAVPRLQEVRRG--LFGDWNDAIRGYYCTCK-------------------------
+-------------------
+>ENSTGUP00000028606 ENSTGUG00000029525	135	SYCN		Taeniopygia_guttata	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+-------MASALLV-LLVA--------AVAALGRGVQAQCPTAAELRP--DNGTQLCALL
+YADNSPYYEQCCAGDALEVLPGSDMPYMPRGWSGRASSLVVGTGCELTVWSRRAKGGNSQ
+HFGAGAVPRLQEVRRG--LFGDWNNAIRALYCTCK-------------------------
+-------------------
+>ENSMUNP00000000528 ENSMUNG00000000510	130	None		Melopsittacus_undulatus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------MA-LLVA--------VLAALVTVGTGQCPSPSELRR--ADGSRVCALL
+YTDDSVYYSNCCGGRALAVEPGSDVPYMALGFSGRISSLVVGTRCELSVWALSGKRGSTK
+VFKAGAVPRLREVRRG--VLSNWDDAIRSYYCQCH-------------------------
+-------------------
+>ENSSHBP00005001244 ENSSHBG00005001126	129	SYCN		Strigops_habroptila	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------IM-PLQS--------LITPLQDLSPPFC-LMTLFPA--ADGSRACALL
+YTDDSVYYDQCCGGKSLVVAPDSDVPYMPLGYSGRISSLVVGTGCQLNVWSRSGKKGKTK
+TFKAGAVPRLQEVKKG--LLGNWDNAIRSYYCTCS-------------------------
+-------------------
+>ENSACAP00000011683 ENSACAG00000011951	132	SYCN		Anolis_carolinensis	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MKVSA-TLF---------LLPVFFVLGWAQCPVPADLKR--EDGTKACALL
+YTENSPYYDQCCAGNVMEVEPGEDQPYMPSGFNNKVSSVVVAQRCELNVWSSKAKGGKTR
+KFKAGAFPRLQEYRRG--IFGDWNNAISGYYCTCS-------------------------
+-------------------
+>ENSLLTP00000024749 ENSLLTG00000018161	134	SYCN		Laticauda_laticaudata	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------EQRDR-VLL---------LLLLLFATGQAQCPAPNELKNPNPNGTKVCAQM
+YTDNSPYYDLCCGGSLLMVLAGEDQPYMPTAFNNKVSSLVVGQRCEMTVWYRKGKGGSTR
+KFKAGVYPRLQEFKRA--LFSNWDNSISAYYCKCN-------------------------
+-------------------
+>ENSNSUP00000024213 ENSNSUG00000017514	134	SYCN		Notechis_scutatus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------KKPLN-TLL---------LLPLLFATGQAQCPAPTDLQNPHPNGTKVCAQM
+YTDNSPYYDLCCGGSLLMVLAGDDQPYMPTAFNNQVSSLVVGQRCELTVWYRKGKAGSTR
+VFKAGAYPRLQEFKRA--LFSNWDNAISAYYCKCK-------------------------
+-------------------
+>ENSPMRP00000029159 ENSPMRG00000018847	132	None		Podarcis_muralis	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MKTSP-TFL---------LVPLLFAMAWAQCPAPADLKT--ANGTKICAQL
+YTKNSPYYDQCCAGSVLVVPPDEDQPYMPSAFNNKVTSLVVGQRCELTVWSSKGKGGKTR
+KFKAGAFPRLQEIRKG--IFGDWANAISAYYCKCS-------------------------
+-------------------
+>ENSPVIP00000027676 ENSPVIG00000020560	136	SYCN		Pogona_vitticeps	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+-----MTSLRSPLF-LAI---------LLPLLAAGVWAECPVPTDLKN--ADGTKVCAKL
+YTENSPYYDQCCAGDVLLVPPEEDQPYVPSPFNNKVSSLVVAQKCQLVVWSSKGKGGKTR
+TFKTGSYPRLQEYRRG--IFGDWNNAISAYYCKCT-------------------------
+-------------------
+>ENSPTXP00000016348 ENSPTXG00000011315	135	SYCN		Pseudonaja_textilis	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+--------MKALLS-TLL---------LLPLLFATGQAQCPAPTELQNPHPNGTKVCAQM
+YTDNSPYYDLCCAGSLLMVLEGEDQPYMPTAFNNKVSSLVVAQRCELTVWYRKGKAGSTR
+VFKAGAYPRLQEFKRA--IFSNWDNAISAYYCKCR-------------------------
+-------------------
+>ENSVKKP00000011793 ENSVKKG00000008211	126	SYCN		Varanus_komodoensis	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------SQ-LLL---------LLPLFLAGACAQCPLPADLKT--PNGTKICSQL
+YTDNSPYYDQCCGGSVLVVMSGEDQPYVPPAFNNKVSSLVVGQRCELTVWSGKAKTGKTR
+KFKPGAYPRLQEFKKG--LFGNWDNSISAYFC----------------------------
+-------------------
+>ENSGAGP00000012643 ENSGAGG00000009709	117	SYCN		Gopherus_agassizii	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+-------RSFSLGM-GLF---------LQIRTAPCKQGGCPAPADLKN--ANGSKICAQL
+YSDDNPYYAQCLGAA---------------CCSNKVSSLVVAPRCELGIWSRMGKEGYSH
+KFNGGVVYRLQEIKKG--LLGDWDNSISAYYCK---------------------------
+-------------------
+>ENSPSIP00000001078 ENSPSIG00000001079	132	SYCN		Pelodiscus_sinensis	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MAATQ-TLL---------LLPLLLASAWAQCPAPADLKN--ADGSKICAQL
+YTDSSPYYAQCCGGSVLQVQPGDDVPYLTLAWINRVSSLVVAPRCELNVWSRLGKEGYTR
+KFNSGIVYRLEELKKG--LFGNWDNSISAYYCKCA-------------------------
+-------------------
+>ENSPCEP00000007557 ENSPCEG00000006063	128	SYCN		Pelusios_castaneus	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+----------TAML-TLL---------LLPLLLGSAWAQCPAPADLKN--ADGTKVCAQL
+YENDSPYYAQCCGGQVLQVQPGDDQPYMPLSWNDKISSLVVAPRCELNVWSRKGKEGYNR
+KFSSGVVYRLQEIKKG--LIGDWDNSISAYYC----------------------------
+-------------------
+>ENSTMTP00000008075 ENSTMTG00000005882	132	SYCN		Terrapene_carolina_triunguis	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MATAH-PLL---------LLPLLLASAWAQCPAPADLKN--ADGSKICAQL
+YTDDSPYYAQCCGGNVLQVQPGNDVPYIPLSWNDKISSLVVAPRCDLSVWSRTGKKGYSR
+KFNSGVVYRLQEIKKG--LFGNWDNSISAYYCKCN-------------------------
+-------------------
+>ENSNPEP00000000637 ENSNPEG00000000536	131	SYCN		Nothoprocta_perdicaria	1272A	1272	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------MATLV---LA--------LLAAAVAVAGAQCPAPGDLRT--VNGSRICAYL
+YSDNSAYYKECCAGNVLXVSPGTDVPYMPSGWAAKVSSLVVGTRCELTVWDRSSKKGHSR
+RFSAGAVPRLQEVRRG--LLNNWNNAIRGYYCKCS-------------------------
+-------------------
+>ENSAMXP00000026653 ENSAMXG00000025948	131	sycn		Astyanax_mexicanus	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MKVAV-ALL---------LCALCFVGLDAQCPEANALYD--LEGTKLCARL
+YAQSNIYYDQSCQGDYLDIYPNDDVPTIAWRWNNRASALVVSRLCNLTVWSRIRKEGTKR
+KFSPGIQYRLKDVQKG--LFGNWDNSISGYYCTC--------------------------
+-------------------
+>ENSPNAP00000030281 ENSPNAG00000016918	131	sycn		Pygocentrus_nattereri	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MKIAA-ALL---------LCAMCFLGSEAQCPDPSTLKD--AEGTKLCARL
+FEDSNYYYDQSCGGEFLNIYPNDDVPIIPWRWNNRVSSLVVSKLCNLTVWSRIKKNGTKK
+KFSSGIQYRLKEVSQG--LIGDWDDSISAYYCVC--------------------------
+-------------------
+>ENSCCRP00000036203 ENSCCRG00000019419	131	sycn		Cyprinus_carpio	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MKGVI-ALL---------LAALCFEGLNAECPDPATLKD--DYGSKLCAQM
+FQDSSYYYDESCTGKFLYVYPDEDTPIMSWAWNNKISSLVVGRGCSLTVWSKSKKEGYKK
+KFSAGIVYHLKEVQKG--LFGDWNDSISGYYCTC--------------------------
+-------------------
+>ENSDARP00000099011 ENSDARG00000090469	131	sycn	syncollin, tandem duplicate	Danio_rerio	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MRGLI-ALL---------LVALCLEGLNAACPDQATLKD--DYDSKLCAQM
+FEHSSYYYDESCTGSFLNVYPNEDTPIIPKVWDDRISSLVVRRGCSLTVWSKSKKEGDKK
+KFSAGAAYHLKEYKRG--LFGTWNDAISGYYCTC--------------------------
+-------------------
+>ENSPKIP00000039240 ENSPKIG00000016677	132	sycn		Paramormyrops_kingsleyae	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MKITVSLLL---------LSTLCFMDLNAQCPEPNALID--VDGNKLCARM
+WEDSSIYNEQSCAGAYLDAYPKSDVPIMPPGWNDRISSLVVAPRCSLTVWSRSKKEGKKK
+KFASGIYYRLKEVSLG--LLRNWNDQISGYYCEC--------------------------
+-------------------
+>ENSSFOP00015010333 ENSSFOG00015006712	130	sycn		Scleropages_formosus	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+----------MMIR-VLL---------LSALCLVGLKAQCPDPNSLKD--AEGNKVCARM
+FEDSHYYNEQSCGGQYLDAYSLDDVPIIPYAWNNRISSLVVSTRCSLTVWSRVKKEGKNR
+KFSAGIQYRLKEVAQG--LFGNWNDDISGYYCEC--------------------------
+-------------------
+>ENSHHUP00000004753 ENSHHUG00000002961	130	sycn	syncollin, tandem duplicate	Hucho_hucho	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+----------MSPP-TRI---------LDTLCFEVLNAKCPEANALKD--ADGVKLCARM
+FEDSDYYYEQSCGGEYLDAYPGEDVPIIPWRWNNRISSLVVSRGCSLTVWKYTKKRGSKS
+KFGAGIKYRLKETMQG--LFGNWENDISGYYCVC--------------------------
+-------------------
+>ENSOTSP00005102985 ENSOTSG00005047213	131	sycn	syncollin, tandem duplicate	Oncorhynchus_tshawytscha	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MKVMI-ALL---------LSTLCFEVLNAQCPEANALKD--ADGVKLCARM
+FEDSHYYYEQSCGGEYLDAYPGEDVPIIPWRWNNRISSLVVSRGCSLTVWKYTKKRGSKS
+KFGAGIKYRLKETMQG--LFGDWENDISAYYCVC--------------------------
+-------------------
+>ENSSTUP00000073265 ENSSTUG00000032019	131	sycn		Salmo_trutta	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MKVMI-ALL---------LSTLCFEVLNAQCPEANALKD--ADGVKLCARM
+FEDSHYYYEQSCGGEYLDSYPGEDVPIIPWRWNNRISSLVVSRGCSLTVWKYTKKRGSKS
+KFGAGIKYRLKETMQG--LFGDWENDISGYYCVC--------------------------
+-------------------
+>ENSBBBP00000024101 ENSBBBG00000018949	134	SYCN		Bison_bison_bison	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLCPLLLT------L--ALLAVPGVRGACPASADLNN--ADGTRTCAKL
+YDKSDPYYENCCAGAVLSLEPGADLPYLPSDWTKVISSIVVGQRCELTVWSGRGKEGKSR
+KFSAGSYPRLEEYRRG--LFGDWSNAISAVYCSCK-------------------------
+-------------------
+>ENSBTAP00000053877 ENSBTAG00000045930	134	SYCN		Bos_taurus	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLCPLLLT------L--ALLAVPGVRGACPASADLNN--ADGTRTCAKL
+YDKSDPYYENCCAGAVLSLEPGADLPYLPSDWTKVISSIVVGQRCELTVWSGRGKEGKSR
+KFSAGSYPRLEEYRRG--LFGDWSNAISAVYCSCK-------------------------
+-------------------
+>ENSCHIP00000032036 ENSCHIG00000026169	134	SYCN		Capra_hircus	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLCPLLLT------L--ALLAVPGVRGACPAAADLTN--ADGTRTCAKL
+YDKSDPYYENCCAGAVLSLESGADLPYLPSDWTKVISSIVVGQRCELTVWSGRGKEGKSR
+KFSAGSYPRLEEYRRG--LFGDWSNAISSVYCSCK-------------------------
+-------------------
+>ENSCWAP00000021686 ENSCWAG00000016550	134	SYCN		Catagonus_wagneri	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLSPLLLA--------LALAAVPGIRGACPAPADLKN--ADGTRTCAKL
+YDKSDPYYENCCGGAELSLEPGADLPFLPSDWTNVISSLVVAQRCELTVWSIRGKAGKTH
+KFSAGSYPRLEEYRRG--IFGDWSNSISSLYCSCY-------------------------
+-------------------
+>ENSDLEP00000019422 ENSDLEG00000014128	140	SYCN		Delphinapterus_leucas	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLCSLLLA------V--ALAAVPGVRGNCPEPASLKR--ADGTRTCAKL
+YEKSDPYYDRCCGGAELSVEPGTDLPYLPSGWNNAISSLVVAPRCELTVWSSRGKAGKTH
+KFSSGTYPRLEEYRRG--IFGDWSNSISSLYCRCPPAGPRP-------------------
+-------------------
+>ENSMMSP00000002780 ENSMMSG00000002151	134	SYCN		Moschus_moschiferus	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLCPLLLT------L--ALVAVPGVRGACPASADLKS--ADGTRTCAKL
+YDKSDPYYENCCAGAVLSLESGADLPYLPSDWTNVISSIVVGQRCELTVWSGRGKEGKSR
+KFSAGSYPRLEEYRRG--LFGDWSNAISSVYCSCK-------------------------
+-------------------
+>ENSOARP00000012140 ENSOARG00000011330	134	SYCN		Ovis_aries	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLCPLLLT------L--ALLAVPGVRGACPAAADLTN--ADGTRTCAKL
+YDKSDPYYENCCAGAVLSLESGADLPYLPSDWTKVISSIVVGQRCELTVWSGRGKEGKSR
+KFSAGSYPRLEEYRRG--LFGDWSNAISSVYCRCL-------------------------
+-------------------
+>ENSSSCP00000019866 ENSSSCG00000021959	136	SYCN		Sus_scrofa	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLSRLLLA------LALALAAVPGILGACPAPADLKN--EDGTRTCAKL
+YDKSDPYYDNCCSGAELSVQPGTDLPYLPSDWTNVISSLVVAQRCELTVWSIRGKAGNTH
+KFSAGSYPRLEEYRRG--IFGDWSNSISSLYCSCY-------------------------
+-------------------
+>ENSTTRP00000014193 ENSTTRG00000014977	134	SYCN		Tursiops_truncatus	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLCSLLLA------V--ALAAVPGVRGNCPEPASLKK--PDGTRTCAKL
+YEKSDPYYENCCGGAELSVEPGTDLPYLPSGWNNAISSAVVAPRCELVVWSSRGKGGKTH
+KFSSGTYPRLEEYRLG--IFGDWSNSISALYCRCL-------------------------
+-------------------
+>ENSFCAP00000051069 ENSFCAG00000042995	134	SYCN		Felis_catus	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLCALLLA------L--ALVAVPGIRAACPLPADLKR--PDGTRTCAKL
+YDKSDPYYENCCGGAELSVEPGTDLPFLPADWNNAASSLVVAPRCEITVWSLRGKAGKTH
+KFSTGAYPRLEEFRKG--IFGDWSNTIASLYCRCY-------------------------
+-------------------
+>ENSMEUP00000001769 ENSMEUG00000001937	136	SYCN		Notamacropus_eugenii	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MAPFLVPSLL------LLALVGTLPGARAACPAPADLKP--TDGTRLCARL
+FEKSDAYYENCCAGAELNLEPGADLPYLPSNWYHTVSSLVVGTRCELTVWYLKGKEGKTR
+KFSAGAYPRLAEYRRG--IFGDWDNAIGALYCKCT-------------------------
+-------------------
+>ENSPCIP00000013311 ENSPCIG00000010501	133	SYCN		Phascolarctos_cinereus	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MALFLVPSLL------LLAFLGALPGARTRCPEPADLKP--EGGTRECARL
+YDKSDAYYENCCAGSQLSLEPGADLPYLPAGWYHAASSLVVGTRCELTVWSLRGKRGKSR
+KFSAGAYPRLTEYRRG--LLGDWNNAIGGVYC----------------------------
+-------------------
+>ENSOCUP00000045028 ENSOCUG00000034595	263	None	None	Oryctolagus_cuniculus	1272B	1272	B
+MPETTRSLPGQSQGPRTPSGSPLGVAGSQVLELPPAASQVRIRIKPDGKWGRDSPRDANG
+PGCLLPTAQRPATCHTNTRAPFWALSFRLSERGLRPCAPPLPSPYLAASPFPRVRPIKAR
+VAARSRSLAMSLPPLLLLA--------LALVAAPGARGACPAPADLKK--EDGTRTCAKL
+YDKSDPYYDNCCAGAELSLEPNTDLPYLPSNWANTASSLVVGQRCELTVWSKKGKEGKTR
+KFSAGAYPRLEEYRRG--LFGDWNNAISALYCKCS-------------------------
+-------------------
+>ENSGGOP00000006617 ENSGGOG00000006768	134	SYCN		Gorilla_gorilla	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLRPLLLA--------LALAAVPCAQGACPTSADLKH--SDGTRTCAKL
+YDKSDPYYENCCGGAELSLEPGADLPYLPSNWANTASSLVVAPRCELTVWSRQGKAGKTH
+KFSAGTYPRLEEYRRG--ILGDWSNAISALYCRCS-------------------------
+-------------------
+>ENSPPYP00000011147 ENSPPYG00000009957	134	SYCN		Pongo_abelii	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLRPLLLA--------LALAAVPCAQGACPASADLKH--SDRTRTCAKL
+YDKSDPYYENCCGGAELSLEPGADLPYLPSNWANTASSLVVAPRCELTVWSRQGKAGKTH
+KFSAGTYPRLEEYRRG--ILGNWSNAISALYCRCP-------------------------
+-------------------
+>ENSRNOP00000026907 ENSRNOG00000019879	134	Sycn		Rattus_norvegicus	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MSPLCLLLLA--------LALVAVPGARGACPVPADLKK--SDGTRTCARL
+YENSDPYYDNCCQGPELSVDPGTDLPYLPSDWSNSASSLVVAQRCELTVWSLPGKRGKTR
+KFSTGSYPRLEEYRKG--IFGTWAKSISGLYCKCY-------------------------
+-------------------
+>ENSTBEP00000002517 ENSTBEG00000002933	128	SYCN		Tupaia_belangeri	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+----------------LLL------LALALVAVPRARGACPTPAELKN--ADGTRVCAKL
+YDKSDPYYENCCGGAELAVEPGADLPYLPSNWSNTASSLVVGQRCELTVWSIRGKKGKTR
+KFSTGAYPRLEEYRLG--IFGTWSNSISALYCRC--------------------------
+-------------------
+>ENSPCLP00000020256 ENSPCLG00000017612	136	SYCN		Phasianus_colchicus	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+------GRHDGMAA-VVIA--------VLAAVLAVCGAQCPTPADLKP--ANGTRLCAQL
+YTEDSVYYERCCAGSSLAVPPGADVPYMPTGWAGEVSSLVVGTRCELTVWSRAGKEGNKK
+SFSAGAFPRLQEVRRG--LFRDWNDAIRSYYCKCN-------------------------
+-------------------
+>ENSSPUP00000014652 ENSSPUG00000011308	131	None	None	Sphenodon_punctatus	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------SAP-LLL---------LLPLLLAVAGAQCPAPAELKT--VNGTRICAMF
+YTNNSPYYDQCCGGKSLQVMPGEDQPYLPYAWNNDISSLVVGTRCELKVWSKKGKGGNTK
+KFTSGAVPRLQEIKRGL-LFGDWNDCISSYYCKCN-------------------------
+-------------------
+>ENSSMRP00000021275 ENSSMRG00000016566	132	SYCN		Salvator_merianae	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MNVAC-GLL---------LLPLLLAGAWAQCPVPADLKK--ENGTKDCAQM
+YTDNSPYYDQCCGGSVLVVSPGDDQPYMPSAFNNKISSLVVAQRCTLTVWSRKGKAGKTR
+TFKTGAYPRLQEYRKG--IFGDWDNSISAYYCTCS-------------------------
+-------------------
+>ENSCSRP00000006490 ENSCSRG00000004859	132	SYCN		Chelydra_serpentina	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MAAAR-ALL---------LLPLLLASARAQCPAPADLKN--PDGSKICAQL
+YADDSPYYAQCCGGGVLRAQPGDDVPYIPLNWNDKISSLVVAPRCELNIWSRRGKEGSSH
+KFKSGVVYRLQEIKKG--LFGDWDNSISAYYCTCN-------------------------
+-------------------
+>ENSCPBP00000026720 ENSCPBG00000018971	132	SYCN		Chrysemys_picta_bellii	1272B	1272	B
+------------------------------------------------------------
+------------------------------------------------------------
+---------MATAH-PLL---------LLPLLLASAWAQCPAPADLKN--ADGSKICAQL
+YTDDSPYYAQCCGGNVLQVQPGDDVPYIPLGWNDKISSLVVAPRCDLSVWSRNGKEGYSR
+KFNSGVVYRLREIKKG--LFGDWDNSISAYYCKCN-------------------------
+-------------------

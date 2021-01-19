@@ -1,0 +1,1408 @@
+>ENSBBBP00000021648 ENSBBBG00000001392	176	IL19	interleukin	Bison_bison_bison	47A	47	A
+------------------------------------------------------------
+-------------------------MKAPC-----VSLCL-LGAGLFLCSVHARGLR---
+--RC-LISMNLH-RVEESFRGIKTAIQAKDTFQN--------------------------
+--VTILSPS--------ETLHGIKPLDVCCVTKNLLAFYVDRVFKDHQ-ELNPQIMRKIS
+SLANSFLYMQKTL-QQCQ--NLCH-----C----RQEATN---ATRIIY------DNYDQ
+LEVRSA--AVKSLG-------ELD-----VFL-----------------------AWIDK
+HHRGTSAAS-------------------------------
+>ENSBTAP00000008801 ENSBTAG00000006692	177	IL19	interleukin	Bos_taurus	47A	47	A
+------------------------------------------------------------
+-------------------------MKAPC-----VSLCL-LGAGLFLCSVHARGLR---
+--RC-LISMNLH-RVEESFRGIKTAIQAKDTFQN--------------------------
+--VTILSPS--------ETLHGIKPLDVCCVTKNLLAFYVDRVFKDHQ-ELNPQIMRKIS
+SLANSFLYMQKTL-QQCQ--NLCH-----C----RQEATN---ATRIIH------DNYDQ
+LEVRSA--AVKSLG-------ELD-----VFL-----------------------AWIDK
+HHRGTSAASR------------------------------
+>ENSCDRP00005013621 ENSCDRG00005009619	178	IL19	interleukin	Camelus_dromedarius	47A	47	A
+------------------------------------------------------------
+-------------------------MKAQC-----VHLCL-LGAMLFLCSVHTRDLR---
+--RC-LISTDVH-TIEESFRGIKKTIQAKDTFQN--------------------------
+--VTILSPS--------ETLHSIKPSDVCCVTKNLLAFYMDRVFKDHL-EPNPQILRKLS
+SIANSFLSMQKTL-QQCQKQRLCH-----C----GQEATN---ATRIIH------DNYDQ
+LEVRSA--AIKSLG-------ELD-----IFL-----------------------AWIDK
+HHHGTSAAE-------------------------------
+>ENSCHIP00000030772 ENSCHIG00000025398	152	None	interleukin	Capra_hircus	47A	47	A
+------------------------------------------------------------
+-------------------------MKALC-----VSLCL-LGAGLFLCSVHARGLR---
+--RC-LISTNLH-RMEESFRGIKTAIVSVGL-----------------------------
+----------------------------------GVPHFTLVVFKDHQ-ELNPQIMRKIS
+SLANSFLYMQKTL-QQC---KLCH-----C----RQEATN---ATRIIH------DNYDQ
+LEVRAA--AVKSLG-------ELD-----VFL-----------------------AWIDK
+HHQGTSAASRQGT---------------------------
+>ENSCWAP00000002184 ENSCWAG00000001717	220	IL19	interleukin	Catagonus_wagneri	47A	47	A
+------------------------------------------------------------
+-------------------------MKAQC-----VSLCL-LGTTLWLCSAHARGLR---
+--TC-LISTNLR-LIEESFRGIKQAIQAKDTLQN--------------------------
+--VTILSPS--------ETLHGMKALDVCCMTKNLLAFYVDRVFKDHQ-ELDPRILRKIS
+SIANSFLYMQKTL-QQCE-QRLCH-----C----RQEATN---ATRIIH------DNYAQ
+VRAGKG--EPDGTCANCSATSPLEFIHSAVFVYCRPSQVRSVSAKRMLVLPHLPVSWAPF
+NHCLSTVFLCLHTLD-----------LC------------
+>ENSDLEP00000008185 ENSDLEG00000006036	177	IL19	interleukin	Delphinapterus_leucas	47A	47	A
+------------------------------------------------------------
+-------------------------MQAQG-----VSLCL-LGVMLFLCSAHARGLR---
+--RC-LISMDMR-RMEESFRGIKNAIQAKDTFQN--------------------------
+--VTILSTS--------ETLHSIKPLDVCCVTKNLLAFYVDRVFKDHQ-ELSPQILRKIS
+SIANSFLHMQKSL-QQCQERRLCH-----C----RQEATN---ATRIIH------DNYHQ
+LEVRSA--AIKSLG-------ELD-----VLL-----------------------AWIDK
+NHQGTSAA--------------------------------
+>ENSMMSP00000007572 ENSMMSG00000005892	176	IL19	interleukin	Moschus_moschiferus	47A	47	A
+------------------------------------------------------------
+-------------------------MKALC-----VSLCL-LGAGLFLCSAHTRGLR---
+--RC-LISMNLH-HMEDSFRGIKAAIQAKDTFQN--------------------------
+--VTILSPS--------ETLHGIKPLDVCCVTKNLLAFYVDRVFKDHQ-ELNPQIMRKIS
+SLANSFLYMQKTL-QQCQ--KLCH-----C----RQEATN---ATRIIH------DNYDQ
+LEVRSA--AIKSLG-------ELD-----VFL-----------------------AWIDK
+HHRGTSAAS-------------------------------
+>ENSOARP00000006897 ENSOARG00000006445	182	IL19	interleukin	Ovis_aries	47A	47	A
+------------------------------------------------------------
+------------------------DMKALC-----VSLCL-LGAGLFLCSAHARGLR---
+--RC-LISTNLH-RMEESFRGIKTAIQAKDTFQN--------------------------
+--VTILSPS--------ETLHGIKPLDVCCVTKNLLAFYVDRVFKDHQ-ELNPQIMRKIS
+SLANSFLYMQKTL-QQCQ-QKLCH-----C----RQEATN---ATRIIH------DNYDQ
+LEVRAA--AVKSLG-------ELD-----VFL-----------------------AWIDK
+HHQGTSAASRQGT---------------------------
+>ENSPCTP00005017895 ENSPCTG00005012743	182	IL19	interleukin	Physeter_catodon	47A	47	A
+------------------------------------------------------------
+-------------------------MQAQC-----VSLCL-LGVMFFLCSAHAGGLR---
+--RC-LISMDMR-RMEESFRGIKNAIQAKDTFQN--------------------------
+--VTILSTS--------ETLHSIKPLDVCCVTKNLLAFYVDRVFKDHQ-ELSPQILRKTS
+SIANSFLYMQKTL-QRCQEQRLCH-----C----RQEAIN---ATRIIH------DTYDQ
+LEVRSA--AIKSLG-------ELD-----ILL-----------------------AWIEK
+NHQGTSAASRQET---------------------------
+>ENSSSCP00000016595 ENSSSCG00000015653	182	IL19	interleukin	Sus_scrofa	47A	47	A
+------------------------------------------------------------
+-------------------------MKARC-----VSLCL-LGTMLFLCSAHARGLR---
+--RC-LISIDMH-RIEESFRGIKKAIQAKDTMQN--------------------------
+--VTILSPS--------ESLHSIKPLDACCMTKNLLAFYVDRVFKDHQ-ELDPQLLRKIS
+SIANSFLYMQKTL-QQCHEQRLCH-----C----RQEATN---ATRIIH------DNYDQ
+LEVRSA--AIKSLG-------ELD-----IFL-----------------------AWIDK
+NHQGTSDASGQGT---------------------------
+>ENSTTRP00000011483 ENSTTRG00000012109	214	IL19	interleukin	Tursiops_truncatus	47A	47	A
+-----------------------------------------RH------TEGAFMYESMC
+S-PWTRVDVCKHACLQILLNSVPWGMQAQG-----VSLCL-LGVMLFLCSVHARGLR---
+--RC-LISMDMR-RMEESFRGIKNAIQAKDTFQN--------------------------
+--VTILSTS--------ETLHSIKPLDVCCVTKNLLAFYVDRVFKDHQ-ELSPQILRRIS
+SIANSFLHMQKSL-QRCXXXXXXX-----X----XXXXXX---XXXXXX------XXXXX
+LEVRSA--AIKSLG-------ELD-----VLL-----------------------AWIDK
+NHQGTSAA--------------------------------
+>ENSVPAP00000005602 ENSVPAG00000006042	213	None	None	Vicugna_pacos	47A	47	A
+-----------------------------------------RH------REGALTYESMG
+P-SPLTHVVEYHACV-ALLNSAPWGMKAQC-----VPLCL-LGAMLFLCSVHTRDLR---
+--RC-LISTDVH-TIEESFRGIKKAIQAKDIFQN--------------------------
+--VTILSPS--------ETLHSIKXXXXXXXXXXXXXXXXXXXXXXXX-XXXXXXXXXXX
+XXXXXXXXXXXXX-XXXQKQRLCH-----C----GQEATN---ATRIIH------DNYDQ
+LEIRSA--AIKSLG-------ELD-----IFL-----------------------AWIDK
+HHHGTSAA--------------------------------
+>ENSAMEP00000018471 ENSAMEG00000017485	215	IL19	interleukin	Ailuropoda_melanoleuca	47A	47	A
+------------------------------------SCTATGH------THPSIR-----
+ARTHTHTHTQVEARADTHWGFIVKDMKAPC-----VSLWL-VAAVFFLCSVRARGLR---
+--RC-LISMDLH-HIEEAFQEIKKTIQAKDPFQN--------------------------
+--VTILSTS--------ETLHRIKPLDVCCMTKNLLAFYVDKVFKDHQ-ELNPQILRKIS
+SIANSFLYMQKAL-RQCQEQRQCH-----C----RDEATN---ATRIIH------SNYDQ
+LEAPSA--AIKSLG-------ELD-----VFL-----------------------AWIDK
+NHQGTSAA--------------------------------
+>ENSCAFP00000016830 ENSCAFG00000011450	177	IL19	interleukin	Canis_lupus_familiaris	47A	47	A
+------------------------------------------------------------
+-------------------------MKAQR-----VSLWL-VAAMVFLWSVRARGLR---
+--RC-LISMDIH-PVEETFQEIKKTIQAKDTFQN--------------------------
+--VTILSTS--------ETLHSIKPSDVCCMTKNLLAFYVDRVFKDHQ-ELNPQILRKIS
+SIANSFLYMHKAL-QRCQAQRQCH-----C----REAATN---ATRIIH------DNYDQ
+LEVRSA--AIKSLG-------ELD-----VLL-----------------------AWIDK
+NHQGTLVA--------------------------------
+>ENSFCAP00000006019 ENSFCAG00000006476	177	IL19	interleukin	Felis_catus	47A	47	A
+------------------------------------------------------------
+-------------------------MKAQR-----VSLLR-VAAVLFLCSVHARGPR---
+--RC-LVSMDMR-HVVESFQEIKKAIQAKDTFQN--------------------------
+--VTILSTS--------ETLHRIKPLDVCCVTKNLLAFYVDKVFKDHQ-ELNPQILRKLS
+SIANFFLYMQKAL-QPCQKQRQCH-----C----REEATN---ATRIVH------DNYDQ
+LEVRSA--AIKSLG-------ELD-----VFL-----------------------AWLDK
+NHQENSAA--------------------------------
+>ENSLCNP00005028221 ENSLCNG00005018400	177	IL19	interleukin	Lynx_canadensis	47A	47	A
+------------------------------------------------------------
+-------------------------MKAQR-----VSLLL-VAAVLFLCSVHARGLR---
+--RC-LVSMDMR-HVVESFQEIKKAIQAKDTFQN--------------------------
+--VTILSTS--------ETLHRIKPLDVCCVTKNLLAFYVDKVFKDHQ-ELNPQILRKLS
+SIANFFLYMQKAL-QPCQKQRQCH-----C----GEEATN---ATRIIH------DNYDQ
+LEVRSA--AIKSLG-------ELD-----VFL-----------------------AWLDK
+NHQENSAA--------------------------------
+>ENSMPUP00000009869 ENSMPUG00000009944	177	IL19	interleukin	Mustela_putorius_furo	47A	47	A
+------------------------------------------------------------
+-------------------------MKAQR-----VSLWL-VAAMFFLCSVHTRGLR---
+--RC-LISMDIH-HIEETFQEIKKTIQAKDTFQN--------------------------
+--VTILSTP--------ETLHSIKPLDVCCMTKNLLAFYVDKVFKDHQ-ERNPQILRKIS
+SIANSFLYMKKAL-QRCQEQRQCH-----C----RDEATN---ATRIIH------DNYDQ
+LEVRSA--AIKSLG-------ELD-----VFL-----------------------AWIDK
+NHQGPSAA--------------------------------
+>ENSNVIP00000015538 ENSNVIG00000012166	177	IL19	interleukin	Neovison_vison	47A	47	A
+------------------------------------------------------------
+-------------------------MKGQR-----VSLWL-VAAMFFLCSVHTRGLR---
+--RC-LISMDIH-HIEETFQEIKKTIQAKDTFQN--------------------------
+--VTILSTP--------ETLHSIKPLDVCCMTKNLLAFYVDKVFKDHQ-ELNPQILRKIS
+SIANSFLYMKKAL-QRCQEQRQCH-----C----RDEATN---ATRIIH------DNYDQ
+LEVRSA--AIKSLG-------ELD-----VFL-----------------------AWIDK
+NHQGPSAA--------------------------------
+>ENSPLOP00000016531 ENSPLOG00000012095	177	IL19	interleukin	Panthera_leo	47A	47	A
+------------------------------------------------------------
+-------------------------MKAQR-----VSLLL-VAAVLFLCSVHARGLR---
+--RC-LVSMDMR-HVVESFQEIKKAIQAKDTFQN--------------------------
+--VTILSTS--------ETLHRIKPLDVCCVTKNLLAFYVDKVFKDHQ-ELNPQILRKLS
+SIANFFLYMQKAL-QPCQEQRQCH-----C----REEATN---ATRIIH------DNYDQ
+LEVRSA--AIKSLG-------ELD-----VLL-----------------------AWLDK
+NHQENSAA--------------------------------
+>ENSSSUP00005012568 ENSSSUG00005008067	215	IL19	interleukin	Suricata_suricatta	47A	47	A
+-----------------------------------------RH------TEGSFTYESMS
+SSPSTCVDVCKHACVPTLLRSVPSSMKAQR-----VSLQL-VAAMLFLCSVRGRGLR---
+--RC-LLSMDIH-HIEESFQEIKKTIQAKDTFQN--------------------------
+--VTILSTL--------ETLKSIKPLDVCCVTKNLLAFYVDKVFKDHQ-ELNPKILRKIS
+SIANSFLYMQKAL-QQCQEQKQCH-----C----REEATN---ATRIIH------DNYSQ
+LEVQSA--AIKSLG-------ELD-----VFL-----------------------AWIDK
+NHQGTSAA--------------------------------
+>ENSUMAP00000035262 ENSUMAG00000025349	177	IL19	interleukin	Ursus_maritimus	47A	47	A
+------------------------------------------------------------
+-------------------------MKTPC-----VSLWL-VAAVFFLCSVRARGLR---
+--RC-LISMDIH-HIEEAFQEIKKTIQAKDPFQN--------------------------
+--VTILSTS--------ETLHRIKPLDVCCMTKNLLAFYVDKVFKDHQ-ELNPQILRKIS
+SIANSFLYMQKAL-RQCQEQRQCH-----C----RDEATN---ATRIIH------SNYDQ
+LEARSA--AIKSLG-------ELD-----VFL-----------------------AWIDR
+NHQGTSAA--------------------------------
+>ENSVVUP00000000799 ENSVVUG00000000660	177	IL19	interleukin	Vulpes_vulpes	47A	47	A
+------------------------------------------------------------
+-------------------------MKAQR-----VSLWL-VAAMVFLWSVRARGLR---
+--RC-LISMDIH-PVEETFQEIKKTIQAKDTFQN--------------------------
+--VTILSTS--------ETLHSIKPSDVCCMTKNLLAFYVDRVFKDHQ-ELDPQILRKIS
+SIANSFLYMHKAL-QRCQAQRQCH-----C----REAATN---ATRIIH------DNYDQ
+LEVRSA--AIKSLG-------ELD-----VLL-----------------------AWIDK
+NHQGTLAA--------------------------------
+>ENSMLUP00000017576 ENSMLUG00000017716	207	None	None	Myotis_lucifugus	47A	47	A
+------------------------------------------------------------
+-------------------------MKAQR-----ASLWL-LGTAFLLSAAHARGLR---
+--RC-LIAMDMR-HLGESFQHIKGTIQAKDTFPN--------------------------
+--VTILSTS--------GTLHSIKPLDVCCVTKNLLAFYVDRVFKDHQ-ELSPQILRKIS
+SIANSFLYMQKVL-QQCVSPTSALPASACC----LGESPGCAGPSRLLTWFRKAKDVPSL
+IRHGETCQEPLPVVTPCPGVLPANTLSDPSFLKESPPGVTTYPR-------HTP------
+----------------------------------------
+>ENSPVAP00000007608 ENSPVAG00000008057	215	IL19	interleukin	Pteropus_vampyrus	47A	47	A
+-----------------------------------------GY------REGAFTYKFVC
+SSPPTGVDILKHTWMQTLLNCFPWDMKAQR-----VSLWF-LGTMFFLCSVHTRGLR---
+--RC-LISMDMH-HIEESFREIKGAIQAKDIFQN--------------------------
+--VTILSTL--------EILRSVKPLDVCCMTTNLLAFYVDRVFKDHQ-ELNPQILRKIS
+SIANSFLYMQNAL-QQCQEQRLCH-----C----GQEATN---ATRIIH------NNYNQ
+LEVQSA--ALKSLG-------ELD-----VFL-----------------------AWVHK
+NHQGASTA--------------------------------
+>ENSRFEP00010030061 ENSRFEG00010019868	215	IL19	interleukin	Rhinolophus_ferrumequinum	47A	47	A
+-----------------------------------------RY------IEGAFTYECVC
+SSLSTCVDMHKHACVRTLLNSLTWGMKAQR-----VSLWL-LGAILLLCSVHARGLR---
+--RC-LISMDMH-QIEETFQEIKRAIQAKDTFQN--------------------------
+--VTILSTS--------EFLHSIKPLDVCCVTKSLLEFYVDRVFKDHQ-EVNPQILRKIS
+SIANSFLYMQKAL-QQCQEQRLCH-----C----GQEATN---ATRIIH------DNYNQ
+LEVRSA--AIKSLG-------ELD-----LFL-----------------------AWIGK
+NHQGTSTA--------------------------------
+>ENSDNOP00000025009 ENSDNOG00000045085	183	IL19	interleukin	Dasypus_novemcinctus	47A	47	A
+------------------------------------------------------------
+-------------------------MKVQH-----ISLCF-LGTMLFLCSVHARGLR---
+--RC-LVSMDTH-HIRERFQEIKTALQAKDTFQN--------------------------
+--VTILSTS--------ETLHGIMPLDTCCMTKNLLAFYVDRVFKDHE-ELSPHILRNLS
+SIANSLLYLQKTL-QRCD-QKLCP-----C----REEATN---KTRVIH------SIYDQ
+LEVPSA--AIKSLG-------ELD-----VFL-----------------------AWIDR
+NHHQETSTTNDKEPV-------------------------
+>ENSSHAP00000021477 ENSSHAG00000018197	180	None	None	Sarcophilus_harrisii	47A	47	A
+------------------------------------------------------------
+-----------------------RTMKLSG-----FPLCL-LCAILFLWLAHAGSLR---
+--RC-LISMDIH-HMEKSFQGIKTAVQAKDSFQN--------------------------
+--ITILSAS--------ETLYNITSSDVCCMTKDVLQFYVDKVFRNHE-ESDPRIQRGLS
+TIANSFLHIRNAL-EQCRSQKNCY-----C----RKETTS---KFQLIV------RNYEQ
+MEVKAA--AIKSLG-------ELD-----ILL-----------------------SWISR
+NYQPKATTK-------------------------------
+>ENSMODP00000035551 ENSMODG00000024773	169	None	None	Monodelphis_domestica	47A	47	A
+------------------------------------------------------------
+-------------------------MKLSG-----FPLCL-LCTT-LLWLAHGWSLR---
+--RC-VISTDIH-HIEKSFQGIKNEIVSMDSGGN--------------------------
+--GVGVL----------------SLEWLSPGNKNLLRFYVDRSFRNHE-MSDPKILRGLS
+TMANSFLKIMNAL-EQCQNKTSCH-----C----REEVTK---KSQLIV------RNYEQ
+MEAKAA--AIKSLG-------ELD-----IFL-----------------------SWINR
+NYQPKAATK-------------------------------
+>ENSMEUP00000009321 ENSMEUG00000010228	146	None	None	Notamacropus_eugenii	47A	47	A
+------------------------------------------------------------
+-------------------------MKLSR-----FPLCL-LCATLLLCLPHAWSLK---
+--RC-LISMDIH-HIEKSFQGIKTTIQTKDVFQN--------------------------
+--VTILSAS--------ETLYNITPSDVCCMTKDVLGFYVDKVFRNHG-ESDPRIQRGLS
+TIANSFLRIRNAL-QQCQKQRNCD-----C----REEATE---KFQIIV------GNYDQ
+------------------------------------------------------------
+----------------------------------------
+>ENSPCIP00000053453 ENSPCIG00000035455	178	None	None	Phascolarctos_cinereus	47A	47	A
+------------------------------------------------------------
+-------------------------MKLSG-----FPLSL-LCATLFLWLAHAGSLK---
+--RC-QISMDVH-QIEKSFQGIKNTIQTKDVFQN--------------------------
+--VTILSAS--------ETLFNITPSDVCCMTKNILGFYVDKVFRNHE-ESDPRIQRGLS
+TLANSFLRIRNAL-EQCKNQRNCD-----C----REEATE---KFQIIV------GNYEQ
+MEVKAA--AIKALG-------ELD-----ILL-----------------------SWIIR
+NYRPKAATK-------------------------------
+>ENSVURP00010016018 ENSVURG00010012266	178	None	None	Vombatus_ursinus	47A	47	A
+------------------------------------------------------------
+-------------------------MKLSG-----FPLCL-LCATLFLWLAHAGSLK---
+--RC-QISMDMH-HIEKSFHRIKNTIQMKDVFQN--------------------------
+--VTILSAS--------ETLYNITPSDVCCMTKDVLGLYVDKVFRNHE-ESDPRIQRGLS
+TIANSFLHIRNAL-EQCKNQRNCD-----C----QKEATE---KFQIIV------GNYEQ
+MEVKAA--AIKALG-------ELD-----ILL-----------------------SWISR
+NYRPKATTK-------------------------------
+>ENSEEUP00000004668 ENSEEUG00000005129	176	IL19	interleukin	Erinaceus_europaeus	47A	47	A
+------------------------------------------------------------
+-------------------------MKTYH-----VSFWL-LGTMLLLCSVYTRGLR---
+--KC-LISMDIH-HIEENFNEIKKAIQAKDTFQN--------------------------
+--VTILATS---------TLYNIKSLDVCCMTKNLLAFYVDRVFKDHQ-ELNPQILRKIS
+SIANSFLNMQKML-QKCQETRLCQ-----Y----RQEVTN---ATRIIQ------NNYNQ
+LEVQSA--AIKCLG-------ELE-----VFL-----------------------TWIDK
+THLQISTA--------------------------------
+>ENSSARP00000002010 ENSSARG00000002231	215	IL19	interleukin	Sorex_araneus	47A	47	A
+-----------------------------------------SY------TXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXMKKQC-----VSFWL-LGAIPFLCLVHTRSLR---
+--RC-LISMDVH-HIEESFQEIKKAIQAKDTFQN--------------------------
+--VTILATS--------EILKNIKPLDVCCMTKNLLAFYVDRVFKDHQ-ELSPEILRKIS
+SIANSFLYLQKTL-LQCQEQRFCH-----C----RPEAIN---ATRTIH------NNYSQ
+LEVQSA--AIKSLG-------ELD-----GFL-----------------------AWIHK
+NHQETSTA--------------------------------
+>ENSPCAP00000008228 ENSPCAG00000008832	180	None	None	Procavia_capensis	47A	47	A
+-----------------------------------------RC------TKGTFACKSLC
+SLPSPCVDSHNQACVQT-SSSIPRGMKIQD-----TSLCL-LGSVVFLCSVCAQRLN---
+--RC-PPSMDMN-PVKESFLEIKGVIQAEDTFKN--------------------------
+--VTILS-----------NLHSIKPIDVCCVTRELLKFYMKRVFKFRE-KLNLQISREVS
+SISNSFLSLQRTL-QPCKEQSLCP-----C----SEEATN---VTTIII------NNYDQ
+------------------------------------------------------------
+----------------------------------------
+>ENSOCUP00000012271 ENSOCUG00000014272	233	IL19	interleukin	Oryctolagus_cuniculus	47A	47	A
+-MGKSR-------------------ATRRG-KQLPGAARAEAR------AEADRPPPSGC
+ESCSPEAA-SFTGWA-ADVHPCVQDMKVQG-----VPLWL-LGITFVLCSGHLRGLR---
+--RC-PISMDMR-HLQESFQDIQRAIQANDTFQN--------------------------
+--ITILSAL--------DSLQGIKPLDVCCVTRSLLAFYMDRVFKDHQ-EPDPHILRRIS
+SIANSFLYMQKTV-QQCQVQGRCH-----C----REEATN---VTQIIH------NNYNQ
+LEARVA--AVKSLG-------ELN-----VFL-----------------------AWISE
+NYQDGSAA--------------------------------
+>ENSOANP00000038484 ENSOANG00000038674	201	None	None	Ornithorhynchus_anatinus	47A	47	A
+---------------------------------------------MGVDAEG-ISFFSN-
+-----------RSPFWTLALGSCREMKVQG-----GSLYL-LSAVVFLCSAPGRGLRRVH
+FGEC-MIAMNMH-EIRDNFQAIKSAIQAKDVFRN--------------------------
+--STILSKS--------ESLHNIKPSEKCCLAKHLLQFYVEKVFKHYKEGEDPTIRRRVS
+SIANSFFSIKESL-RQCK---SCH-----C----KKETTH---KYQLVL------TNYEQ
+LEVKAA--AIKSLG-------ELD-----ILL-----------------------SWMDK
+RH--------------------------------------
+>ENSECAP00000035280 ENSECAG00000028053	165	IL19	interleukin	Equus_caballus	47A	47	A
+------------------------------------------------------------
+-------------------------MKAQR-----VPLWL-LGAMLLQCSVHARGLR---
+--KC-LISTDVH-RAGE----------TKDAFQN--------------------------
+--VTILSAL--------ETLHRIKPLDVCCMTQNLLAFYMDRVFKDHQ-GLNPQILRKIS
+SIANSFLSMWKTL-QQCQ--RPCH-----C----RQEATN---ATRTIH------DNYSQ
+LEAQSA--AVKSLG-------ELD-----VFL-----------------------AWLGK
+NHQGSSSI--------------------------------
+>ENSCJAP00000034392 ENSCJAG00000018527	208	IL19	interleukin	Callithrix_jacchus	47A	47	A
+-----------------------------------------RY------TEGVFPYRSAC
+SLPS-------TVCVPALWGSFPWGMKLQS-----VSLWL-LGIILILCSVDSRSFR---
+--RC-LISTDMH-HIEESFQEIKKAIQAKDTFPN--------------------------
+--VTVLSTL--------ETLQSIKPLDVCCVTKNLLAFYVDRVFKDHQ-EPHPKILRKIS
+SIANSFLYMQKTL-QQCQEQRQCH-----C----GQEATN---VTRVIH------DNYDQ
+LEVRSA--AIKSLG-------ELD-----VFL-----------------------AWIDK
+NHEVTSSA--------------------------------
+>ENSCATP00000036997 ENSCATG00000041266	211	IL19	interleukin	Cercocebus_atys	47A	47	A
+-----------------------------------------MC------TKGAFPHRSAS
+SLPLTCVHTY-IRVCAS---ALGLCMKLQC-----VSLWL-LGTILMLCSVDNHGFR---
+--RC-LISIDMD-HIEDSFQEIKRAIQAKDTFPN--------------------------
+--VTILSTL--------ETLQIIKPLDVCCVTKNLLAFYVDRVFKDHQ-EPNPKILRKIS
+SIANSFLYMQKTL-RQCQEQRQCH-----C----RQEATN---VTRVIH------DNYDQ
+LEVRSA--AVKSLG-------ELD-----IFL-----------------------AWIAK
+NHEVTSSA--------------------------------
+>ENSCSAP00000011080 ENSCSAG00000014994	177	IL19	interleukin	Chlorocebus_sabaeus	47A	47	A
+------------------------------------------------------------
+-------------------------MKLQC-----VSLWL-LGTILMLCSVDNHGLR---
+--RC-LISTDMD-HIEESFQEIKRAIQAKDTFPN--------------------------
+--VTILSTL--------ETLQIIKPLDVCCVTKNLLAFYVDRVFKDHQ-EPNPKILRKIS
+SIANSFLYMQKTL-RQCQEQRQCH-----C----RQEATN---VTRVIH------DNYDQ
+LEVHSA--AVKSLG-------ELD-----IFL-----------------------AWIAK
+NHEVMSSA--------------------------------
+>ENSGGOP00000004224 ENSGGOG00000004303	215	IL19	interleukin	Gorilla_gorilla	47A	47	A
+-----------------------------------------MC------TEGAFPHRSAC
+SLPLTHVHTHIHVCVPVLWGSVPWGMKLQC-----VSLWL-LGTIMILCSVENHGLR---
+--RC-LISTDMH-HIEESFQEIKRAIQAKDTFPN--------------------------
+--VTILSTL--------ETLQIIKPLDVCCVTKNLLAFYVDRVFKDHQ-EPNPKILRKIS
+SIANSFLYMQKTL-RQCQEQRQCH-----C----RQEATN---ATRVIH------DNYDQ
+LEVRAA--AIKSLG-------ELN-----VFL-----------------------AWINK
+NHEVTSSA--------------------------------
+>ENSP00000270218 ENSG00000142224	177	IL19	interleukin	Homo_sapiens	47A	47	A
+------------------------------------------------------------
+-------------------------MKLQC-----VSLWL-LGTILILCSVDNHGLR---
+--RC-LISTDMH-HIEESFQEIKRAIQAKDTFPN--------------------------
+--VTILSTL--------ETLQIIKPLDVCCVTKNLLAFYVDRVFKDHQ-EPNPKILRKIS
+SIANSFLYMQKTL-RQCQEQRQCH-----C----RQEATN---ATRVIH------DNYDQ
+LEVHAA--AIKSLG-------ELD-----VFL-----------------------AWINK
+NHEVMFSA--------------------------------
+>ENSMMUP00000031025 ENSMMUG00000023570	214	IL19	interleukin	Macaca_mulatta	47A	47	A
+-----------------------------------------MC------TKGAFPHRSAS
+SLPLTCVHTY-IVCVPVLWGSVPWGMKLQC-----VSLWL-LGTILMLCSVDNHGLR---
+--RC-LISTDMD-HIEDSFQEIKRAIQAKDTFPN--------------------------
+--VTILSTL--------ETLQIIKPLDVCCVTKNLLAFYVDRVFKDHQ-EPNPKILRKIS
+SIANSFLYMQKTL-RQCQEQRQCH-----C----RQEATN---VTRVIH------DNYDQ
+LEVRSA--AVKSLG-------ELD-----IFL-----------------------AWIAK
+NHEVTSSA--------------------------------
+>ENSMLEP00000006085 ENSMLEG00000025880	177	IL19	interleukin	Mandrillus_leucophaeus	47A	47	A
+------------------------------------------------------------
+-------------------------MKLQC-----VSLWL-LGTILMLCSVDNHGFR---
+--RC-LISTDMD-HIEDSFQEIKRAIQAKDTFPN--------------------------
+--VTILSTL--------ETLQIIKPLDVCCVTKNLLAFYVDRVFKDHQ-EPNPKILRKIS
+SIANSFLYMQKTL-RQCQEQRQCH-----C----RQEATN---VTRVIH------DNYDQ
+LEVRSA--AVKSLG-------ELD-----IFL-----------------------AWIAK
+NHEVTSSA--------------------------------
+>ENSMICP00000007608 ENSMICG00000008359	177	IL19	interleukin	Microcebus_murinus	47A	47	A
+------------------------------------------------------------
+-------------------------MKLLD-----VSLWL-LGAVLISCLVHTRGLR---
+--RC-LISTDMH-HIEESFQEIKRAIQAQDTFQN--------------------------
+--VTILSTS--------ETLQSVKPSDTCCVTKNLLAFYVDRVFKDHR-EPNPRILRKIS
+SIANAFLYMQRTL-RRCQEQRRCH-----C----RQEATN---ATRIVH------DNYDQ
+LEIRSA--AVKSLG-------ELD-----VFL-----------------------AWIDK
+HHQDTSAA--------------------------------
+>ENSPTRP00000073985 ENSPTRG00000001917	215	IL19	interleukin	Pan_troglodytes	47A	47	A
+-----------------------------------------MC------TEGAFPHRSAC
+SLPLIHVHTHIHVCVPVLWGSVPWGMKLQC-----VSLWL-LGTILILCSVDNHGLR---
+--RC-LISTDMH-HIEESFQEIKRAIQAKDTFPN--------------------------
+--VTILSTL--------ETLQIIKPLDVCCVTKNLLEFYVDRVFKDHQ-EPNPKILRKVS
+SIANSFLYMQKTL-RQCQEQRQCH-----C----RQEATN---ATRVIH------DNYDQ
+LEVRAA--AIKSLG-------ELD-----VFL-----------------------AWINK
+NHEVTSSA--------------------------------
+>ENSPANP00000032722 ENSPANG00000029329	199	IL19	interleukin	Papio_anubis	47A	47	A
+---------------------------------------------------GAGRGRQSG
+VFSFIALH------------SWLDSMKLQC-----VSLWL-LGTILMLCSVDNHGLR---
+--RC-LISTDMD-HIEDSFQEIKRAIQAKDTFPN--------------------------
+--VTILSTL--------ETLQIIKPLDVCCVTKNLLAFYVDRVFKDHQ-EPNPKILRKIS
+SIANSFLYMQKTL-RQCQEQRQCH-----C----RQEATN---VTRVIH------DNYDQ
+LEVRSA--AVKSLG-------ELD-----IFL-----------------------AWIAK
+NHEVTSSA--------------------------------
+>ENSPPYP00000000298 ENSPPYG00000000281	214	IL19	interleukin	Pongo_abelii	47A	47	A
+-----------------------------------------MC------TEGAFPHRSAR
+SLTLTRVHTHIHVCVPVLWGSVPWGMKLQS-----VSLWL-LGTILILCSVDNHGLR---
+--RC-LISTDMH-HTEESFQEIKRAIQAKDTFPN--------------------------
+--VTILSTL--------ETLQIIKPLDVCCVTRNLLAFYVDRVFKDHQ-EPNPKILRKIS
+SIANSFLYMQKTL-RQCQE-RQCH-----C----RQEATN---VTRVIH------DNYDQ
+LEVRAA--AIKSLG-------ELD-----IFL-----------------------AWIDK
+NHEVTSSA--------------------------------
+>ENSTGEP00000015194 ENSTGEG00000012331	213	IL19	interleukin	Theropithecus_gelada	47A	47	A
+-----------------------------------------MC------TKGAFPHRSAS
+SLPLTCVHTY-IVCVPVL-GSVPWGMKLQC-----VSLWL-LGTILMLCSVDNHGLR---
+--RC-LISTDMD-HIEDSFQEIKRAIQAKDTFPN--------------------------
+--VTILSTL--------ETLQIIKPLDVCCVTKNLLAFYVDRVFKDHQ-EPNPKILRKIS
+SIANSFLYMQKTL-RQCQEQRQCH-----C----RQEATN---VTRVIH------DNYDQ
+LEVRSA--AVKSLG-------ELD-----IFL-----------------------AWIAK
+NHEVTSSA--------------------------------
+>ENSLAFP00000015689 ENSLAFG00000018714	175	None	None	Loxodonta_africana	47A	47	A
+------------------------------------------------------------
+-------------------------MKMQV-----VSLCL-LGTMLFLCSVHARSLK---
+--RC-PPSMDMN-PVKESFQEIKGAIQANDTFKN--------------------------
+--VTILS-----------NLHSIKPVDVCCMTRELLEFYMKRVFKHRE-ELSLQISREVS
+SISNSFLPLQRTV-QPCKKQSLCP-----C----SEEAIS---ATRTII------NNYDQ
+LEVRSA--AIKSLG-------ELD-----VFI-----------------------AWIDK
+NYHSETSTA-------------------------------
+>ENSCCNP00000029176 ENSCCNG00000028004	177	Il19	interleukin	Castor_canadensis	47A	47	A
+------------------------------------------------------------
+-------------------------MKVQC-----VSLWL-LGMTLILCSVCSRGLR---
+--KC-LISMDMR-HLEKSFQEMKRALQNKDTFQN--------------------------
+--VTILSTL--------ETLQSTKPTDVCCMTNNLLAFYVDRVFKDHQ-ELDPQILRKVS
+SIANSFLYIQKTL-QECQVQSRCH-----C----SQEATN---ATRIIH------DNYNQ
+LEIRSA--AIKSLG-------ELD-----IFL-----------------------AWIDK
+NHQKTSGA--------------------------------
+>ENSCPOP00000008040 ENSCPOG00000008946	176	IL19	interleukin	Cavia_porcellus	47A	47	A
+------------------------------------------------------------
+-------------------------MKTQR-----ASLWL-LGTTLVLCSVYTHGFR---
+--RC-LISVDMN-QLEESFQEIKRAIQTKDTFQN--------------------------
+--ITILSTV--------ETLQSIKPVDVCCVTKNLLEFYMRRVFKDHQ-ELKPQILRRIS
+SIANSFLYMQKTL-KQCQEQRGCQ-----C----SEEATN---ATRIVH------DNYDQ
+LGIPSA--AIKSLG-------ELN-----IFI-----------------------AWIEK
+NHQATSV---------------------------------
+>ENSCLAP00000020390 ENSCLAG00000013970	177	IL19	interleukin	Chinchilla_lanigera	47A	47	A
+------------------------------------------------------------
+-------------------------MKAQG-----VALWL-LGTALVLCSMYTHGFR---
+--RC-LTSVDMH-HLEECFQEIKRAVQTKDIFPN--------------------------
+--ITILSTV--------ETLRSVKPMDVCCVTKNLLEFYMDRVFKDHQ-ELKPQILRRIS
+SIANSFLYMQKTL-QQCQVQRRCH-----C----SEEATN---ATRMVH------DNYDQ
+LEVPSA--ATKSLG-------ELD-----VFL-----------------------AWIEK
+NHQETSPA--------------------------------
+>ENSDORP00000021049 ENSDORG00000027800	178	Il19	interleukin	Dipodomys_ordii	47A	47	A
+------------------------------------------------------------
+-------------------------MKVQS-----AFLWI-LGTLLILSLGQSLGFR---
+--RC-LISVDMR-HLERSFQEIKRTLQNKDVFQN--------------------------
+--VTILSTL--------QSLQGIKPIDVCCVTRNLLAFYMDKVLKDHQ-EPNPQIRRQIS
+SIANSFLHTQKTL-QQCQEQRWCH-----C----SQEATN---ATSIIQ------DNYDQ
+LEVRAA--AIKSLG-------ELD-----IFL-----------------------AWINK
+NHQETSHAQ-------------------------------
+>ENSSTOP00000004125 ENSSTOG00000004606	177	IL19	interleukin	Ictidomys_tridecemlineatus	47A	47	A
+------------------------------------------------------------
+-------------------------MKVQR-----VSLWL-LSAMLILCSVYTRSLR---
+--RC-PISVDMR-HLEESFQEIKRAIQTKDNFQN--------------------------
+--VTILSTL--------GALQNTKPLDVCCVTKNLLAFYVDRVFKDHQ-ESDPQILRKIS
+SIANSFLYMQKTL-QQCQVQRQCR-----C----SQEATN---ATKIIH------DNYDQ
+LEVPSA--AVKSLG-------ELN-----VFL-----------------------AWIGK
+NHQETSAA--------------------------------
+>ENSMUGP00000024450 ENSMUGG00000020422	177	Il19	interleukin	Meriones_unguiculatus	47A	47	A
+------------------------------------------------------------
+-------------------------MKTQC-----ASHWL-LGVMFILCLVHTHSLR---
+--RC-LISVDMS-LIGKSFQEIKRALQTKDTFQN--------------------------
+--VTILSTL--------ENLKSIKPVDVCCVTNNLLTFYRDRVFKDHQ-ETSPKVLRRIS
+SIANSFLYMQKTL-EQCQRHRQCH-----C----SQEATN---ATRIIH------DNYNQ
+LEVSSA--AIKSLG-------ELD-----LFL-----------------------AWIDT
+NHWERSAA--------------------------------
+>ENSMAUP00000009792 ENSMAUG00000010846	177	Il19	interleukin	Mesocricetus_auratus	47A	47	A
+------------------------------------------------------------
+-------------------------MKAQS-----ISHWL-LGMALVLCSAHTRSLR---
+--RC-LISVDRS-LIEKSIPEVKRVLQTKDTFRN--------------------------
+--VTILSTL--------ENLKSIKPVDVCCVTSHLLTFYRDRVFKDHQ-ETSLEVMRQIS
+SIANSFLYMQKTL-EQCQVHNQCQ-----C----SQEATN---ATRTIL------DNYDQ
+LEASSA--ALKSLG-------ELD-----IFL-----------------------TWIDE
+NHQETSTA--------------------------------
+>ENSMOCP00000008495 ENSMOCG00000008503	177	Il19	interleukin	Microtus_ochrogaster	47A	47	A
+------------------------------------------------------------
+-------------------------MKTPC-----ISHWL-LGMALILCSVHTRSLR---
+--RC-LSSVDVH-RIEQSFWDIRRALQTKDTFKN--------------------------
+--ITILSSL--------KNLDSIKPVDVCCVTRHLLTFYRDRVFKDHQ-ETSHEVKRKIS
+KIANLFLQMQRTL-EQCQVHSQCG-----C----SQEATN---ATRIVQ------DNYNQ
+LEVSSA--ALKSLG-------ELD-----IFL-----------------------AWIGK
+NHRETSAA--------------------------------
+>ENSMUSP00000139406 ENSMUSG00000016524	176	Il19	interleukin	Mus_musculus	47A	47	A
+------------------------------------------------------------
+-------------------------MKTQC-----ASTWL-LGMTLILCSVHIYSLR---
+--RC-LISVDMR-LIEKSFHEIKRAMQTKDTFKN--------------------------
+--VTILS-L--------ENLRSIKPGDVCCMTNNLLTFYRDRVFQDHQ-ERSLEVLRRIS
+SIANSFLCVQKSL-ERCQVHRQCN-----C----SQEATN---ATRIIH------DNYNQ
+LEVSSA--ALKSLG-------ELN-----ILL-----------------------AWIDR
+NHLETPAA--------------------------------
+>ENSODEP00000007929 ENSODEG00000005909	177	IL19	interleukin	Octodon_degus	47A	47	A
+------------------------------------------------------------
+-------------------------MKTQC-----VPLWL-LGTTLVLCCVYTHGLR---
+--RC-LAFVDMR-HLEESFQGIKRAIQAKDTFPN--------------------------
+--ITILSTA--------ETLRSIKPVDVCCVTKSLLEFYMDRVFKDHQ-ELKPQALRTIS
+SVANSFLYMQKAL-QQCQVQRRCP-----C----SEEATN---ATRMVY------DNYDQ
+LEVPSA--ATKSLG-------ELD-----VFL-----------------------AWIAK
+NHQKTSPA--------------------------------
+>ENSPEMP00000027857 ENSPEMG00000023541	177	Il19	interleukin	Peromyscus_maniculatus_bairdii	47A	47	A
+------------------------------------------------------------
+-------------------------MKAQC-----ISCWL-LGMALMLCSVHTRSLR---
+--RC-LISVDMR-LIEKSFQEIKRALQTKDTFQN--------------------------
+--VTILSTL--------ENLRSIKPVDVCCVTSHLLTFYRDRVFKDHQ-ETSPEVMRRIS
+GIANSFLYMQRTL-EQCQARSQCH-----C----SQEATN---ATRIIH------DNYDQ
+LEVSSA--ALKSLG-------ELD-----IVL-----------------------AWIDQ
+NHRETSEA--------------------------------
+>ENSRNOP00000036434 ENSRNOG00000025571	176	Il19	interleukin	Rattus_norvegicus	47A	47	A
+------------------------------------------------------------
+-------------------------MKAQC-----ASRWL-LGMVFVLCSVHIYSLR---
+--RC-LVSVDMR-LLEKSFQEIRRTLQTKDTFKN--------------------------
+--VTILSTL--------ENLRSIKPVDVCCVTNNLLTFYRDRVFKDHQ-ETSLEVVRRIS
+RIANSFLHMQKTL-EQCQVHRQCH-----C----SQEATN---ATRTIH------DNYNQ
+LEVSSA--ALKSLG-------ELN-----IFL-----------------------AWIDR
+NHQETSA---------------------------------
+>ENSTBEP00000011057 ENSTBEG00000012759	214	None	None	Tupaia_belangeri	47A	47	A
+-----------------------------------------KC------TEGALAHRPVC
+SSASTYVDAG-HTCEQGLLRSVSTXXXXXX-----XXXXX-XXXXXXXXXXXXXXXX---
+--XX-XXXXXXX-XXXXXXXXXXXXXXXXXXXXX--------------------------
+--XXXXXXX--------XXXXXXXXXXXXXXXKNLLAFYVDRVFKDHK-EPNPQILRKIS
+SIANSFLYMQRTL-QQCQKQRRCH-----C----RPEVTN---ATRIVH------DNYDQ
+LEVHSA--AIKSLG-------ELD-----IFL-----------------------AWIDK
+NHQETSAA--------------------------------
+>ENSANIP00000016790 ENSANIG00000011420	174	IL19	interleukin	Accipiter_nisus	47A	47	A
+------------------------------------------------------------
+-------------------------MKGSH-----LFLCL-FSMSCWLNLMPTAGNKLFH
+FGPC-RISVSVT-EIRSGFTAIKAN-----IVNP-------------------------I
+RTLSILSYP--------HSLHKVKSSDRCCITHHLFNFYVDKVFKHCK-TEDSYVNRKIS
+SIANSFLSVKRKL-EQCHEENKCL-----C----GQESTE---KFKQIL------ANYEG
+LNVTSA--AIKSLG-------ELD-----ILL-----------------------DWMEK
+SH--------------------------------------
+>ENSACCP00020021190 ENSACCG00020014612	174	IL19		Aquila_chrysaetos_chrysaetos	47A	47	A
+------------------------------------------------------------
+-------------------------MKGSH-----LFLCL-FSMSCWLNLMPAAGNKIFH
+FGPC-RISMSMT-EIRSGFTAIKAN-----IVNP-------------------------I
+RTLSILSYP--------HSLHKVKSSDRCCITHHLFDFYVDKVFKHCK-TEDSYVNRKIS
+SIANSFLSVKRKL-GQCHEENKCL-----C----GQESTE---KFKQIL------ANYEG
+LNVTSA--AIKSLG-------ELD-----ILL-----------------------DWMEK
+SH--------------------------------------
+>ENSAPLP00020015786 ENSAPLG00020011424	176	IL19	interleukin	Anas_platyrhynchos	47A	47	A
+------------------------------------------------------------
+-------------------------MKGSH-----LLLCL-YSVTCWLSLMPAAENKIFH
+FGPC-RISMSVT-EIRSGFTAIKAN---IQARDP-------------------------I
+RTLSILSHP--------QSLHKVKSSDRCCIIHNLFNFYMDKVFKHCQ-TEDSYINRKIS
+SIANSFLSIKRKL-EQCHNQNKCL-----C----GQESTE---KFKQIL------ANYEG
+LNITSA--AIKSLG-------ELD-----ILL-----------------------DWMEK
+SR--------------------------------------
+>ENSACDP00005002000 ENSACDG00005001382	176	IL19	interleukin	Anser_cygnoides	47A	47	A
+------------------------------------------------------------
+-------------------------MKGSR-----LLLCL-CSVTCWLSLMPAAENKIFH
+FGPC-RILMSVT-EIRSGFTAIKAN---IVSIAT-------------------------G
+SWGAGDLCG--------QQFPKPCGADRCCIIHNLFNFYMDKVFKHCQ-TEDSYINRKIS
+SIANSFLSIKKKL-EQCHNQNKCL-----C----GQESTE---KFKQIL------ANYEG
+LNITSA--AIKSLG-------ELD-----ILL-----------------------DWMEK
+SR--------------------------------------
+>ENSAOWP00000014425 ENSAOWG00000009838	176	IL19	interleukin	Apteryx_owenii	47A	47	A
+------------------------------------------------------------
+-------------------------MKGSH-----FFLCL-FSVMCCLNLMLANGSKIFL
+FGPC-RISMSLN-EIRSGFTAIKAN---IQARDS-------------------------I
+RTVSILSHP--------HSLHKIKSSDKCCIIHHLFNFYMDKVFKYCT-TEDSYVNRKIS
+SIANSFLSIKRKL-VQCHNQNMCK-----C----GQESTE---KFEQIL------TNYEG
+LNVTSA--AIKSLG-------ELD-----ILL-----------------------DWMEK
+SR--------------------------------------
+>ENSDNVP00000018111 ENSDNVG00000012655	235	IL19		Dromaius_novaehollandiae	47A	47	A
+MLGKERKIPKVNPRVISSLCLDKNT----------------SFTALQIRQRDKWIYIRG-
+---------KKVSQPASQHVGSHSSMKGSH-----FFLCL-FSVVCWLNLMLANGNRIFR
+FGPC-RISMSVN-EIRSGFTAIKAN---IQARDP-------------------------I
+RTVSILSHP--------HSLHKTKSSDKCCIIHHLFNFYMDRVFKHCT-TEDSYINRKIS
+SIANSFLSIKRKL-VQCHNQNNCK-----C----GQESME---KFKQIV------TNYEG
+LNVTSA--AIKSLG-------ELD-----ILL-----------------------DWMEK
+SR--------------------------------------
+>ENSCPUP00000020740 ENSCPUG00000014182	176	IL19		Calidris_pugnax	47A	47	A
+------------------------------------------------------------
+-------------------------MKGSH-----LFLCL-LSVSCCLNLMPTTGNKIFH
+FGPC-RVSMSVT-EIRSGFTAIKAN---IQARDT-------------------------I
+RTLSILSHP--------HSLHKVKPLDRCCITHQLFNFYVDKVFKHCK-TEDSFVNRKIS
+SIANSFLSVKRKL-GQCNEQNKCL-----C----GEESAE---KFKQIL------ANYEG
+LNVTSA--AIKSLG-------ELD-----ILL-----------------------DWIEK
+SG--------------------------------------
+>ENSCPRP00005000395 ENSCPRG00005000332	163	IL19		Crocodylus_porosus	47A	47	A
+------------------------------------------------------------
+-------------------------MKVSC-----LCLSF-LLAICGLHWTPTTANKIFH
+FGSC-EILMNVN-EIRTGFAAIKANIVSM-------------------------------
+------------------AMHFTDSEDTCCIIHHLLKFYVDMVFKHCE-TEDSWVNRKIS
+SIANSFLSIKKNF-RHCHQQTMCR-----C----GEEATQ---KYKQIL------TNYGQ
+LNVKNA--AMKSLG-------ELD-----NLL-----------------------DWMEK
+AH--------------------------------------
+>ENSCJPP00005018466 ENSCJPG00005015042	162	IL19		Coturnix_japonica	47A	47	A
+------------------------------------------------------------
+-------------------------MLGSR-----VLLCL-CTMTCCFTMLPTAGNTILH
+FGPC-RISVSMG-EIRTSFTAIKTNIDKR-------------------------------
+-------------------NLSLKSSDKCCIVHKVFNFYVDKVFKHCQ-TESSYINRKIS
+SIANSFLSIKRKL-EHCHDENKCL-----C----GQESTE---RFKQIL------VNYEG
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SP--------------------------------------
+>ENSGALP00000001338 ENSGALG00000000911	176	IL19	interleukin	Gallus_gallus	47A	47	A
+------------------------------------------------------------
+-------------------------MLGSR-----VLLCL-CSMTCCLTMLPAAGNTILH
+FGPC-RISMSMS-EIRAGFTAIKTNIQAR---DP-------------------------I
+RTLSILSHP--------HSLHRVQPSDKCCIVHKVFNFYVDKVFKHCQ-TENSYINRKIS
+SIANSFLSIKRKL-EQCHDENKCL-----C----GQEPTE---RFKQIL------VNYEG
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SP--------------------------------------
+>ENSMGAP00000003556 ENSMGAG00000003815	176	IL19	interleukin	Meleagris_gallopavo	47A	47	A
+------------------------------------------------------------
+-------------------------MLGSR-----VLLCL-CSMTCCLTLLPAAGNKILL
+FGPC-RISVSMS-EIRAGFTAIKTNIQAR---DP-------------------------I
+RTLSILSHP--------HSLHRVQPSDKCCMVHKVFNFYVDKVFKHCQ-TENSYINRKIS
+SIANSFLSIKRKL-EHCHDENKCL-----C----GQEPTE---RFKQIL------VNYEG
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SP--------------------------------------
+>ENSNMEP00000010577 ENSNMEG00000009982	169	IL19		Numida_meleagris	47A	47	A
+------------------------------------------------------------
+-------------------------MPGFR-----VLLCL-CSLTCCLTLLPAAGNTILS
+FGPC-RISMSMS-EIRAGFTAIKANIVTF---GK-------------------------T
+WEK---------------WNLLFKSSDKCCIVHKVFNFYVDKVFKHCQ-TENSYINRKIS
+SIANSFLSIKRKL-EQCHEEKKCL-----C----GQEPTE---RFKQIL------VNYEG
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SP--------------------------------------
+>ENSPSTP00000008489 ENSPSTG00000005986	160	IL19	interleukin	Pavo_cristatus	47A	47	A
+------------------------------------------------------------
+-------------------------MLGSR-----VLLCL-CSMTCCLTLLPAAANTILR
+FGPC-RISMSMS-EIRAGFTAIKTNIRNL-------------------------------
+---------------------SLKPSDKCCMVHKVFNFYVDKVFKHCQ-TENSYINRKIS
+SIANSFLSIKRKL-ERCHDENKCL-----C----GQEPTE---RFKQIL------VNYEG
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SP--------------------------------------
+>ENSPCLP00000018836 ENSPCLG00000015806	176	IL19	interleukin	Phasianus_colchicus	47A	47	A
+------------------------------------------------------------
+-------------------------MLGSR-----VLLCL-CSMACCLTLLPAAGNTVLH
+FGPC-RISMSMN-EIRAGFSAIKTNIQAR---DP-------------------------I
+RTLSILSHP--------HSLHKVQPSDKCCMVHKVFNFYVDKVFKHCQ-TENSYINRKIS
+SIANSFLSIKRKL-EHCHDENKCL-----C----GQEPTE---RFKQIL------VNYEG
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SP--------------------------------------
+>ENSCPVP00000009375 ENSCPVG00000006863	166	IL19	interleukin	Camarhynchus_parvulus	47A	47	A
+------------------------------------------------------------
+-------------------------MRGSP-----LFLCL-FSVSCWMNLMPTAGDKIFH
+FGAC-RVSMSMT-EIRAGFTAIKANIVGISQ-----------------------ALGDPI
+RTLSILSHP--------HSLHKVKSSDRCCITYQLFTFYVDKVFKHCR-TEDSFVNRKIS
+SIANSFLSTRRKLGQCIFT-----------------FS---------LC------WVV--
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SR--------------------------------------
+>ENSCCEP00000018950 ENSCCEG00000017270	180	None		Cyanistes_caeruleus	47A	47	A
+------------------------------------------------------------
+------------------------------------------------------------
+MEKC-PGTLDGEVSRDTGWRSVQEL-RRFGTAFPEPGSRNPCIWDQDSLKVAGEVP---L
+CQDNDGENPGFEFHHSYRLHYSHIPTPLCCITHQLFTFYVDKVFKHCR-TEDSFVNRKIS
+SIANSFLSVRRKL-GQCREKNNCV-----C----GEESTE---KFKQIL------ANYEG
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMER
+SH--------------------------------------
+>ENSEGOP00005011107 ENSEGOG00005008676	170	IL19	interleukin	Erythrura_gouldiae	47A	47	A
+------------------------------------------------------------
+-------------------------MRGSP-----LFLCL-FSVSCWMNLMPTAGDKIFH
+FGAC-RVSISMT-EIRAGFTAIKANIVSISQ-----------------------APGGLG
+---DILSHP--------HSLHKVK-VNRCCITYQLFTFYVDKVFKHCR-TEDPFVNRKIS
+SIANSFLTQIFKFSLCCLV-----------------LMVS---AYSSFL------SISFQ
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SR--------------------------------------
+>ENSFALP00000000575 ENSFALG00000000554	176	IL19		Ficedula_albicollis	47A	47	A
+------------------------------------------------------------
+-------------------------MRGSP-----LFLCL-FSVSCWLNLMPTAGDKIFH
+FGAC-RVFLSTA-EIRAGFTAIKADVQSR-------------------------DPIRSL
+---SILSHP--------HSLHKVKSSDRCCITHQLFTFYVDKVFKHCR-TEDSFVNRKIS
+SIANSFLSARRKL-GQCREQNNCV-----C----GEESKE---KFKQIL------ANYEG
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SR--------------------------------------
+>ENSGFOP00000006359 ENSGFOG00000004466	166	IL19	interleukin	Geospiza_fortis	47A	47	A
+------------------------------------------------------------
+-------------------------MRGSP-----LFLCL-FSVSCWMNLMPTAGDKIFH
+FGAC-RVSMSMT-EIRAGFTAIKANIVGISQ-----------------------ALGDPI
+RTLSILSHP--------HSLHKVKSSDRCCITYQLFTFYVDKVFKHCR-TEDSFVNRKIS
+SIANSFLSTRRKLGQCIFT-----------------FS---------LC------WVV--
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SR--------------------------------------
+>ENSJHYP00000022718 ENSJHYG00000017142	153	None	None	Junco_hyemalis	47A	47	A
+------------------------------------------------------------
+-------------------------MRGSP-----LFLCF-FSMSCWMNLMPTAGDKIFH
+FGAC-RVSMSMT-EIRAGFTAIKANIVSISQ-----------------------ALGAGG
+-----------------------APGNRCCITYQLFTFYVDKVFKHCR-TEDSFVNRKIS
+SIANSFLSTRRKLRQCIFA-----------------FS---------LC------WIVLM
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SR--------------------------------------
+>ENSLSDP00000002122 ENSLSDG00000001686	165	IL19		Lonchura_striata_domestica	47A	47	A
+------------------------------------------------------------
+-------------------------MRGSP-----LFLCL-FSVSCWMNLMPTSGDKIFH
+FGAC-RVSISMT-EIRAGFTAIKANIVSICQ-----------------------ALGGWG
+------------------------SSDRCCITYQLFTFYVDKVFKHCR-TEDSFVNRKIS
+SIANSFLSTRRKL-GQCVSQNNCL-----C----GEESTE---KFKQIL------ANYEG
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SR--------------------------------------
+>ENSMVIP00005025158 ENSMVIG00005017619	176	IL19		Manacus_vitellinus	47A	47	A
+------------------------------------------------------------
+-------------------------MKGSH-----LFLCL-FSMCCWVDLMPTAGNKILH
+FGAC-RVSMSMT-EIRAGFTAIKAN---IQARDP-------------------------I
+RTLSILSHP--------HSLHKVNSSDRCCITHHLFNFYVDKVFKHCK-TEDSYVNRKIS
+SIANSFLSMKRKL-EQCHEQNQCL-----C----GQESTE---KFQQIL------ANYEG
+LNVTNA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SP--------------------------------------
+>ENSPMJP00000002247 ENSPMJG00000001836	179	None		Parus_major	47A	47	A
+------------------------------------------------------------
+-------------------------MRGSP-----LFLCL-FSVSCWVNLMPTAGDKIFH
+FGAC-RVSISMT-EIRAGFTAIKANIVSISQ-----------------------APGGLG
+---DILSHP--------HSLHKVKSSDRCCITHQLFTFYVDKVFKHCR-TEDSFVNRKIS
+SIANSFLSTNELILFLQREKNNCV-----C----GEESTE---KFKQIL------ANYEG
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SH--------------------------------------
+>ENSSCAP00000016522 ENSSCAG00000012062	143	None	None	Serinus_canaria	47A	47	A
+------------------------------------------------------------
+-------------------------MRGPP-----LFLCL-FSMSCWVNLMPTAGDKILH
+FGAC-RVSMSMA-EIRAGFTAIKANIVSISQ-----------------------ALG---
+--------------------------DRCCITYQLFTFYVDKVFKHCR-TEDSFVNRKIS
+SIANSFLSTRRKLGQCVSP-----------------AS-----------------CPT--
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SR--------------------------------------
+>ENSTGUP00000001111 ENSTGUG00000001079	177	IL19	interleukin	Taeniopygia_guttata	47A	47	A
+------------------------------------------------------------
+-------------------------MRGSP-----LFLCV-FSVSCWMNLMPTAGDRIFH
+FGAC-RVSISMT-EIRAGFTAIKANIVSICQ-----------------------APGGLG
+---EPLEP---------LWSQQLHSSDRCCITYQLFTFYVDKVFKHCR-TEDSFVNRKIS
+SIANSFLSTRRKL-GQCREQNNCL-----C----GEESTE---KFKQIL------ANYEG
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SR--------------------------------------
+>ENSZALP00000009348 ENSZALG00000008062	149	None	None	Zonotrichia_albicollis	47A	47	A
+------------------------------------------------------------
+-------------------------MRGSP-----LFLCF-FSVSCWMNLMPIAGDRIFH
+FGAC-RVSMSMT-EIRAGFTAIKANIVSISQ-----------------------ALGAGG
+-----------------------APGNRCCITYQLFTFYVDKVFKHCR-TEDSFVNRKIS
+SIANSFLIYSIY-LTHIFK-----------------FS---------LC------WI---
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SR--------------------------------------
+>ENSACOP00000005574 ENSACOG00000003937	186	IL19	interleukin	Amazona_collaria	47A	47	A
+------------------------------------------------------------
+------------------------------------------------------------
+----------MT-EIRLGFTAIKANIVSNAPHSCRAGE--------ALYLVAPKAPLEPA
+CSSPCLSCPMQQARDPVRTILFLKSSDRCCIAHHLFNFYVDKVFKHCK-TEDSYINRKIS
+SIANSFLGMKRKL-RQCHEQNKCM-----C----GEESTE---KFKQIL------ANYEG
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SQSMIFCALSVKEQF------------LHEICGC------
+>ENSMUNP00000014583 ENSMUNG00000011329	200	IL19		Melopsittacus_undulatus	47A	47	A
+------------------------------------------------------------
+-------------------------MKGSH-----LFLCL-FSVSCWLNLMPTAGNRIFH
+FGHC-RVSMSMT-EIRLGFTAIKANIVSN-------------------------------
+-------------------ILFLKSSDRCCITHHLFNFYVDKVFKHCK-TEDSYINRKIS
+SIANSFLSMKRTL-RQCHEQNKCM-----C----GEESTE---KFKQIL------ANYER
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SQRAEGVNTPPTAGAKEAAGTLHTPVVSRKTMCCTTAESH
+>ENSSHBP00005022493 ENSSHBG00005018946	217	IL19	interleukin	Strigops_habroptila	47A	47	A
+------------------------------------------------------------
+-------------------------MKGSH-----LFLCL-FSVSCWLNLMPTSGNRIFH
+FGRC-RVSMSMT-EIRLGFTAIKASIVSIQARDP-------------------------I
+KTLSILSHP--------QSLHKVKSSDRCCITHHLFNFYVDKVFKHCK-TEDSYINRKIS
+SIANSFLSMKKKL-RQCHEQNKCM-----C----GEESTE---KFKQIL------ANYEG
+LNVTSA--AIKSLG-------ELD-----ILL-----------------------DWMEK
+SQRAEHVNNPPTAGTKEAAGTLHTPVVSRKIMCCTTADSH
+>ENSNSUP00000022442 ENSNSUG00000016318	156	None	None	Notechis_scutatus	47A	47	A
+------------------------------------------------------------
+-------------------------MKIFG-----PSFFL-LFTKWSLYLASVTGDKIFQ
+FGPC-SISMNIN-EIRNSFATVKNFIVSIVVY----------------------------
+------------------FQYTFWKTNRCCLIHHILRFYLDKVFRHCE-TESLLINRKVS
+GIANSFVSTEKKF-RECHDQNMCH-----C----GEDAIT---KYEQII------NNYEQ
+VIRDMK--LK-VLW-------K--------LL--------------------------Q-
+----------------------------------------
+>ENSPMRP00000008437 ENSPMRG00000005695	168	IL19	interleukin	Podarcis_muralis	47A	47	A
+------------------------------------------------------------
+------------------------------------MQVF-FSLFLCLLLPPVLGDRFFQ
+FGPC-SISMNIH-EIRDGFGTIKKVIQARDPIRT--------------------------
+ASI---LHP--------HSLHNFQILDSCCLARSILRFYLDKVFRHCE-TGSLYINRKIS
+GIANSFLSIEKKF-RVCQDENMCN-----C----GEEAIN---KYHQII------RNYEQ
+MDVTLA--AMKALG-------ELD-----ILL-----------------------NWLEA
+Y---------------------------------------
+>ENSSMRP00000010999 ENSSMRG00000008674	147	None	None	Salvator_merianae	47A	47	A
+------------------------------------------------------------
+-------------------------MK----------IFF-SQILFLLLGTAVMGDNFFQ
+FGPC-NISININ-EIWDSFAAVKEFVVSIVSCAF--------------------------
+------------------LYETHPSSDRCCLIHRVLRFYLDRVFRHCE-TENLHINRKIS
+GIANSFLSIVKKF-RECV--------------------------------------SYFT
+MDVSSA--AMKSLG-------ELD-----ILI-----------------------VATNI
+LCFTEV----------------------------------
+>ENSACUP00000009777 ENSACUG00000006613	124	IL19	interleukin	Athene_cunicularia	47A	47	A
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------MQQ-----ARDP-------------------------I
+RTLSILSYP--------HSLHKVKV-ERCCVAHHLFDFYVDKVFKHCK-TEDSYVNRKIS
+SIANSFLSVKRKL-GQCHEQNKCV-----C----GQESTE---KFKQIL------VNYEG
+LNVTSA--AIKSLG-------ELD-----ILL-----------------------DWMEK
+SG--------------------------------------
+>ENSSCUP00000010566 ENSSCUG00000007610	176	IL19		Struthio_camelus_australis	47A	47	A
+------------------------------------------------------------
+-------------------------MKGSH-----FFLCL-FSVMCWLNLMLANGNKIFH
+FGPC-RISMSVN-EIRSGFTAIKAN---IQARDP-------------------------I
+RTVSILSHP--------QSLHKVKSSDKCCIIRHLLNFYMDKVFKHCT-TEDSYVNRKIS
+SIANSFLSIKRKL-TQCHDQNMCK-----C----GQESTE---KFKQIL------TNYEG
+LNVTSA--AIKSLG-------ELD-----ILL-----------------------DWMEK
+SH--------------------------------------
+>ENSCABP00000004896 ENSCABG00000003685	162	IL19	interleukin	Chelonoidis_abingdonii	47A	47	A
+------------------------------------------------------------
+-------------------------MKISC-----LSLCL-LSTMWWLYLTPTTGNKIFQ
+FGPC-MISMNIN-EIRASFTAIKATIV---------------------------------
+---SIAPYT--------IS---LKPADRCCVIHHLLRFYVDKVFKHCE-TEDSHVNRKIS
+SIANSFLSIKKKF-RQC--VPFCS-----F----QI-AII---IYQIFL------SIYFQ
+LNTASA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+AH--------------------------------------
+>ENSCSRP00000001325 ENSCSRG00000001070	156	None	None	Chelydra_serpentina	47A	47	A
+------------------------------------------------------------
+-------------------------MKLSC-----LSLCL-LSTMCWLYLTPTTGNKILR
+FGPC-MISMNVN-EIRASFTAIKATIQAKDAIRT--------------------------
+--ISILKDT--------IS---LKSADRCCIIHHLLRFYVDKVFKHCE-TEDSHVNRKIS
+SIANSFLSIKKKF-RQCNEQNVCD-----C----GEEAIE---KYKQIL------TNYGQ
+VNRRDF--IR--------------------------------------------------
+----------------------------------------
+>ENSCPBP00000002436 ENSCPBG00000001962	176	IL19	interleukin	Chrysemys_picta_bellii	47A	47	A
+------------------------------------------------------------
+-------------------------MKISC-----LSLCL-LSTMCWLYSTPTTGNKIFQ
+FGPC-MISMNVN-EIRASFTAIKATIQAKDAIRT--------------------------
+--ISILSYP--------YSLHNFNSANRCCIIHHLLRFYVDKVFKHCE-TEDSHVNRKIS
+SIANSFLSVKKKF-RQCNEQNVCN-----C----GEEAIE---KYKQIL------SNYGQ
+LNTTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+AH--------------------------------------
+>ENSGAGP00000017394 ENSGAGG00000012942	162	IL19	interleukin	Gopherus_agassizii	47A	47	A
+------------------------------------------------------------
+-------------------------MKISC-----LSLYL-LSTMCWLYLTPTTGNKIFQ
+FGPC-MISMNIN-EIRASFTAIKATIV---------------------------------
+---SIAPYT--------IS---LKPADRCCVIHHLLRFYVDKVFKHCE-TEDSHVNRKIS
+SIANSFLSIKKKF-RQC--VPFRS-----F----QI-AVI---IYQIFL------SIYFQ
+LNTASA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+AH--------------------------------------
+>ENSPCEP00000016908 ENSPCEG00000013297	177	IL19	interleukin	Pelusios_castaneus	47A	47	A
+------------------------------------------------------------
+-------------------------MKVSC-----L-LCF-LSATFWFYLMPTTGNKTFQ
+FGPC-TISVNVN-EIRASFTAIKATIVSTVPCAV--------------------------
+DVERPHLRE--------IGSILFKSADRCCIIHHLLRFYIDKVFKHCE-TEDSHVNRKIS
+SIANSFLSIKKKF-RQCHEKNVCD-----C----KEEAIE---KYKQIL------TNYGQ
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+IH--------------------------------------
+>ENSTMTP00000019726 ENSTMTG00000014487	172	None	None	Terrapene_carolina_triunguis	47A	47	A
+------------------------------------------------------------
+-------------------------MKISC-----LSLGL-LSTMCWLYLTPTTGNKIFQ
+FGPC-MISMNVN-EIRASFTAIKETIQAKDAVRT--------------------------
+--ISILKDI--------IS---LKSADRCCIIHHLLRFYVDKVFKHCE-TEDSHVNRKIS
+SIANSFLFIKKKF-RQCTWVPFCS-----F----QI-AII---IYQIFL------SIYFQ
+LNTASA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+AH--------------------------------------
+>ENSNPEP00000010158 ENSNPEG00000007615	174	IL19		Nothoprocta_perdicaria	47A	47	A
+-----------------------------------------------MRKSCPF------
+-----------LVQVPEAGFALPHGMKGSH-----VL--L-FSTMCWS--MLANGNKLFH
+FGPC-RISMSMN-EIRAGFAAIKANIVSS-------------------------------
+------------------------SSEKCCIIHHLFNFYVDKVFKYCT-TEDSYVNRKIS
+SIANSFLSIKRNL-AHCHNQNMCK-----C----GQESTE---KFKQIL------TNYRG
+LNVTSA--AMKSLG-------ELD-----ILL-----------------------DWMEK
+SR--------------------------------------
+>ENSSFAP00005039699 ENSSFAG00005019850	170	il19l		Salarias_fasciatus	47B	47	B
+------------------------------------------------------------
+-------------------------MLLSC------SLC---LLLLLGCLSEPAHSRTLQ
+LDSC-SVTVHLY-ELRRYHSDIRSA-LSEDSNIG--------------------------
+--VKILDKA---------LITDVQEGQMCCFMQLLMRFYVERVFGSFG-SSWPQYQRFSS
+ALANAFVTIRKDI-RSC----HCL-----C----EEDTQK---KIDSVN------AEFIK
+LEVSQA--ALKAMG-------ELD-----TVL-----------------------DWLDA
+LKDKN-----------------------------------
+>ENSDARP00000111843 ENSDARG00000090344	185	il19l	interleukin 19	Danio_rerio	47B	47	B
+------------------------------------------------------------
+-----------------XDSIVSGIMESSFIA-YSMFICI-----VLSGLWDAAQGRRLH
+LGSC-KVNIHTH-ELRHHFQYVRQGMISGDDHKG--------------------------
+--IRLLRKD--------V-MSSLQATESCCFLSQLLHFYMDTVFISYT-SSHSLHRRTTS
+VLANSFLSISKDL-RVCHANAHCE-----C----GENTRL---QLKSIQ------TAYEK
+LDQAAG--TVKAIG-------ELD-----SLL-----------------------EWIES
+FQQQ------------------------------------
+>ENSSGRP00000045884 ENSSGRG00000024596	168	il19l		Sinocyclocheilus_grahami	47B	47	B
+------------------------------------------------------------
+-----------------------------------MFVCT-----MLCGLWDTAQGRRLH
+LGSC-EVNIHTQ-ELRHHFQHIRQSMISGDDRKG--------------------------
+--IRLLRKD--------M-MHSLQATESCCFLRQLLHFYMDKVFINYT-SSHSLHRRTTS
+VLANSFLSITKDL-RVCHANAQCE-----C----GEDAKL---KLTGIQ------TTYDK
+LDQASG--AVKAIG-------ELD-----SLL-----------------------EWIES
+FQHH------------------------------------
+>ENSXMAP00000024019 ENSXMAG00000028104	167	il19l		Xiphophorus_maculatus	47B	47	B
+------------------------------------------------------------
+-----------------------MKMLLSS------SVCA-MLLLLLGFLNRPAESRTLH
+MDGC-SANVHLH-ELHRYFSEIKSD-A---------------------------------
+--VSLIKKH---------RHTHTHEGQTCCFVRLLLRFYVERVFSNYE-SSQPSQQRCSS
+ALANAFVSIRREM-HKC----HCH-----C----GEETQR---TIDSVL------ASFDK
+LQIQQA--AQKAVG-------ELG-----TVL-----------------------DWLEG
+LGSKS-----------------------------------
+>ENSLOCP00000015086 ENSLOCG00000012262	172	None	None	Lepisosteus_oculatus	47B	47	B
+------------------------------------------------------------
+---------------------FSRTMRISAVSLLLLSVCL-----LPVMAYPAKGGKLVH
+FGNC-VLSVPIH-DLEETIRGIKGHIVSASEGDP--------------------------
+--TILLLKI--------GTLDSVRSAESCCFLKQLLAFYLDSVLPHLR-GVPTHVRRHAS
+RLGNGLLLLARSV-ENC----HCD-----C----GEEVPD---KTQSIR------STFDG
+MDKEAA--VGKAVS-------EMD-----IFL-----------------------NW---
+----------------------------------------
+>ENSHCOP00000006290 ENSHCOG00000008078	164	None		Hippocampus_comes	47B	47	B
+------------------------------------------------------------
+-------------------------TMMKS------SLCF-SLCLLLGLAAKPALTLSL-
+VNNC-SFSVHMP-ELRRYYSEIRLKAIREDTEIG--------------------------
+--VRILSIT---------AMRDVQDDQTCCFLRLLLRFYVERVFRNFA-GDQPQEQRSCS
+ALANAFVAMKRNI-NKC----VSM-----------------------LP------PFFFN
+LSTDKA--AKKAVA-------ELD-----TLL-----------------------DWLDE
+VDQASAPK--------------------------------
+>ENSBBBP00000007089 ENSBBBG00000015317	176	IL20	interleukin	Bison_bison_bison	47B	47	B
+------------------------------------------------------------
+-------------------------MRGSG-----LPLCL-LSAVFYLFWTPSAGLKTLH
+LGSC-VITTNLQ-GIRSGFSEIRDNVQAKDEIID--------------------------
+--VRILRKT--------QSLQGTKPADQCCLLHHILRLYLDRVFKNYQ-PPDHHIFRKVS
+RLANSLLTIKKDL-RLCHAHMSCP-----C----GEEAKE---KYSQIL------SHFEE
+LPPQAV--VVKALG-------ELD-----ILL-----------------------QWMEE
+AD--------------------------------------
+>ENSBTAP00000003574 ENSBTAG00000002757	176	IL20	interleukin	Bos_taurus	47B	47	B
+------------------------------------------------------------
+-------------------------MRGSG-----LPLCL-LSAVFYLFWTPSAGLKTLH
+LGSC-VITTNLQ-GIRSGFSEIRDSVQAKDEIID--------------------------
+--VRILRKT--------QSLQGTKPADQCCLLHHILRLYLDRVFKNYQ-PPDHHIFRKVS
+RLANSLLTIKKDL-QLCHAHMSCP-----C----GEEAKE---KYSQIL------SHFEE
+LPPQAV--VVKALG-------ELD-----ILL-----------------------QWMEE
+AD--------------------------------------
+>ENSCDRP00005013477 ENSCDRG00005009495	176	IL20	interleukin	Camelus_dromedarius	47B	47	B
+------------------------------------------------------------
+-------------------------MRGSG-----LPLCL-LSAVFSLSWAPSASLKTLH
+LGSC-VITTNLQ-GIRSGFAEIQSSVQTKDEILD--------------------------
+--IRILKKT--------HSLQDTTPAYQCCLLRHILRLYLDRVFKNYQ-TPDHHVLRKVS
+SLANSFLAIKKDL-RLCHAHLTCP-----C----GEEAME---KYSQIL------SHFEE
+LQPQAA--VVKALG-------ELD-----ILL-----------------------RWIEA
+ID--------------------------------------
+>ENSCHIP00000009770 ENSCHIG00000012522	175	IL20	interleukin	Capra_hircus	47B	47	B
+------------------------------------------------------------
+-------------------------MRGSG-----LPLCL-LS-VFYLFWTPSAGLKTLH
+LGSC-VITTNLQ-GIRSGFSEIRDSVQAKDEIID--------------------------
+--IRILRKT--------QFLQGTKPADQCCLLHHILRLYLDRVFKNYQ-PPDHHIFRKVS
+RLANSLLTIKKDL-RLCHAHMSCP-----C----GEEAKE---KYSQIL------SHFEE
+LPPQAA--AVKALG-------ELD-----ILL-----------------------RWMEE
+VD--------------------------------------
+>ENSCWAP00000002081 ENSCWAG00000001695	176	IL20	interleukin	Catagonus_wagneri	47B	47	B
+------------------------------------------------------------
+-------------------------MNRSG-----LPLCL-LSVVFSLFWTPSAGLKTLH
+LGSC-VITANLQ-GIRNGFSEIRDSVQARDEIID--------------------------
+--IRILKKT--------QSLKDTKPADQCCLLRHILRLYLDRVFKNYQ-TPDHHILRKIS
+RLANSFLTIKKDL-RLCHARMTCS-----C----GEEAME---KYGQIL------SHFEE
+LQPQAA--VVKALG-------ELD-----IVL-----------------------RWMEE
+IV--------------------------------------
+>ENSDLEP00000008170 ENSDLEG00000006022	161	IL20	interleukin	Delphinapterus_leucas	47B	47	B
+------------------------------------------------------------
+-------------------------MKGSG-----LPLCL-LSAVFYVFWTPSARLKTLH
+LGSC-VITTSLQ-AIRSGFSEIQDR-QPKDEIID--------------------------
+--LRILRKT--------QPLQDTKPAGQCCRLRHILRLYLDR---------------KIS
+GLANSFLTIKKDL-CLCHAHMTCP-----S----GEEAME---KYSQLM------SHFEE
+LQPQAA--VVKALG-------ELD-----ILL-----------------------SWMEE
+MD--------------------------------------
+>ENSMMSP00000007636 ENSMMSG00000005922	176	IL20	interleukin	Moschus_moschiferus	47B	47	B
+------------------------------------------------------------
+-------------------------MRGSG-----LPLYL-LSAVFSLFWTPSAGLKTLH
+LGSC-VITTNLE-GIRSGFSEIRDSVQAKDEIID--------------------------
+--IRILRKT--------QSLQGTKPADQCCLLHHILRFYLDKVFKNYQ-PPDHHIFRKVS
+RLANCLLTIKKDL-RLCHTHMSCP-----C----GEEAKK---KYSQIL------SHFQE
+LPPQAA--VVKALG-------ELD-----ILL-----------------------RWMEE
+AD--------------------------------------
+>ENSOARP00000006983 ENSOARG00000006523	175	IL20	interleukin	Ovis_aries	47B	47	B
+------------------------------------------------------------
+-------------------------MRGSG-----LPLCL-LS-VFYLFWTPSAGLKTLH
+LGSC-VITTNLQ-GIRSGFSEIRDSVQAKDEIID--------------------------
+--IRILRKT--------QFLQGTKPADQCCLLHHILRLYLDRVFKNYQ-PPDHHIFRKVS
+RLANSLLTIKKDL-QLCHAHMSCP-----C----GEEAKE---KYSQIL------SHFEE
+LPPQAA--VVKALG-------ELD-----ILL-----------------------RWMEE
+VD--------------------------------------
+>ENSPCTP00005017802 ENSPCTG00005012596	175	IL20	interleukin	Physeter_catodon	47B	47	B
+------------------------------------------------------------
+-------------------------MKGSG-----LPLCL-ISAVFYLFWTPSARLKTLH
+LGSC-MITSSLQ-AIQSGFSEIQDR-QPKDEIID--------------------------
+--LRILRKT--------QPLQDTKPAGQCCLLHHVLRLYLDRVFKNYQ-TPDHRILQKIS
+GLANSFLTIKKDL-WLCHVHMACP-----C----GEEAME---KYSQLM------SHFKE
+LQPPAA--VVKALG-------ELD-----ILL-----------------------SWMEE
+MD--------------------------------------
+>ENSSSCP00000071430 ENSSSCG00000015654	175	IL20	interleukin	Sus_scrofa	47B	47	B
+------------------------------------------------------------
+-------------------------MNRSG-----LPLCL-LSAVFYLFWTPSAGLKTL-
+LGSC-VITANLQ-GIRNGFSEIRDSVQARDEIID--------------------------
+--IRILKKT--------QSLQDTKPADQCCLLRHILRLYLDRVFKNYQ-TPDHHVLRKIS
+RLANSFLTIKKDL-RLCHARMTCS-----C----GEEAME---KYGQIM------SHFEE
+LQPQAA--VVKALG-------ELD-----ILL-----------------------QWMEE
+TV--------------------------------------
+>ENSTTRP00000011484 ENSTTRG00000012111	149	IL20	interleukin	Tursiops_truncatus	47B	47	B
+------------------------------------------------------------
+--------------------------------------------------------KTLP
+LGSC-VITTSLQ-AIRSGFSEIQDRVQPKDEIID--------------------------
+--LRILRKT--------QPLQDTKPAGQCCLLRHILRLYLDRVFKN-Q-TPDHRILQKIS
+GLANSFLTIKKDL-CLCHAHMTCP-----S----GEEAME---KYSQLM------SHYEE
+LQPQAA--VVKALG-------ELD-----ILL-----------------------SWMEM
+D---------------------------------------
+>ENSVPAP00000005603 ENSVPAG00000006043	151	IL20	interleukin	Vicugna_pacos	47B	47	B
+------------------------------------------------------------
+-------------------------MRGSG-----LPLCL-QSGVFYLSWTPYAGLKTFH
+LGSC-VITTNLQ-GIGSGFAEIQSSVQTKDEILD--------------------------
+--IRILKKT--------HSLQDTTPAYQCCLLRHILRLYLDRVFKNYQ-TPDHHVLRKIS
+SLANSFLAIKKDL-RLCHAHMSCP-----C----GEEAVE---KYSQIL------SHFEE
+------------------------------------------------------------
+----------------------------------------
+>ENSAMEP00000018466 ENSAMEG00000017480	176	IL20	interleukin	Ailuropoda_melanoleuca	47B	47	B
+------------------------------------------------------------
+-------------------------MKASG-----LPICL-FSAAFYLFWTPSAGLKTLR
+LGSC-MITTNLQ-EMRNGFSEIRDSVQAKDEIID--------------------------
+--IRILRKT--------ESLQDTKPADQCCLLRHVLRLYLDRVFKNYQ-TPDHHILRKTS
+SLANSFLTIKKDL-RLCHAHMTCP-----C----GEEAME---KYSQIL------SHFEE
+LTPQAA--VVKALG-------ELD-----ILL-----------------------QWMEE
+MK--------------------------------------
+>ENSCAFP00000016837 ENSCAFG00000011459	176	IL20	interleukin	Canis_lupus_familiaris	47B	47	B
+------------------------------------------------------------
+-------------------------MKASG-----LPICL-LSAAFYLFWTPSAGLKTLH
+LGSC-VITTNLQ-EMRNGFSEIRDSVQAKDEVID--------------------------
+--IRILRKT--------ESLQDTKPADQCCLLRHVLRLYLDRVFKNYQ-TPDHHILRKTS
+SLANSFLTIKKDL-RLCHAHMTCS-----C----GEEATE---KYSQIL------SHFEE
+LTPQAA--VVKALG-------ELD-----ILL-----------------------QWMEE
+ME--------------------------------------
+>ENSFCAP00000012822 ENSFCAG00000013827	176	IL20	interleukin	Felis_catus	47B	47	B
+------------------------------------------------------------
+-------------------------MKASG-----LPICL-LSAVFYLFWTPSAGLKTLH
+LGSC-VITTNLQ-AMRNGFSEIRDSVQAKDEIID--------------------------
+--IRILRKT--------ESLQDTKPADQCCLLRRVLRLYLDRVFKNYQ-TPDHHILRKTS
+SLANSFLTIKKDL-RVCHAHMTCP-----C----GEEAVE---KYSQIL------SHFEE
+LTPQAA--VVKALG-------ELD-----ILL-----------------------QWMEE
+LA--------------------------------------
+>ENSLCNP00005028183 ENSLCNG00005018367	176	IL20	interleukin	Lynx_canadensis	47B	47	B
+------------------------------------------------------------
+-------------------------MKASG-----LPICL-LSAVFYLFWTPSAGLKTLH
+LGSC-VITTNLQ-AMRNGFSEIRDSVQAKDEIID--------------------------
+--IRILRKT--------ESLQDTKPADQCCLLRHVLRLYLDRVFKNYQ-TPDHHILRKTS
+SLANSFLTIKKDL-RLCHAHMTCP-----C----GEEAVE---KYSQIL------SHFEE
+LTPQAA--VVKALG-------ELD-----ILL-----------------------QWMEE
+LA--------------------------------------
+>ENSMPUP00000009845 ENSMPUG00000009920	176	IL20	interleukin	Mustela_putorius_furo	47B	47	B
+------------------------------------------------------------
+-------------------------MKASG-----LPICL-LSAAFYLFWTPSAGLKTLH
+LGSC-VITTNLQ-EMRNGFSEIRDSVQAKDEIID--------------------------
+--TRILRKT--------ESLQDTKPTDQCCLLRHVLRLYLDRVFKNFK-TPDHRILRKTS
+SLANSFLTVKKEL-RLCHAHMTCP-----C----GEEATE---KYSQIL------SHFEE
+LTPQAA--AVKALG-------ELD-----ILL-----------------------QWMEE
+MK--------------------------------------
+>ENSNVIP00000015487 ENSNVIG00000012106	176	IL20	interleukin	Neovison_vison	47B	47	B
+------------------------------------------------------------
+-------------------------MKASG-----LPICL-LSAAFYLFWTPSAGLKTLH
+LGSC-VITTNLQ-EMRNGFSEIRDSVQAKDEIID--------------------------
+--TRILRKT--------ESLQDTKPTDQCCLLRHVLRLYLDRVFKNFK-TPDHRILRKTS
+SLANSFLTVKKEL-RLCHAHMTCP-----C----GEEATE---KYSQIL------SHFEE
+LTPQAA--AVKALG-------ELD-----ILL-----------------------QWMEE
+MK--------------------------------------
+>ENSPLOP00000016448 ENSPLOG00000012005	176	IL20	interleukin	Panthera_leo	47B	47	B
+------------------------------------------------------------
+-------------------------MKASG-----LPICL-LSAVFYLFWTPSAGLKTLH
+LGSC-VITTNLQ-AMRNGFSEIRDSVQAKDEIID--------------------------
+--IRILRKT--------ESLQDTKPADQCCLLRHVLRLYLDRVFKNYQ-TPDHHILRKTS
+SLANSFLTIKKDL-RLCHAHMTCP-----C----GEEAVE---KYSQIL------SHFEE
+LTPQAA--VAKALG-------ELD-----ILL-----------------------QWMEE
+LA--------------------------------------
+>ENSSSUP00005012463 ENSSSUG00005008001	176	IL20	interleukin	Suricata_suricatta	47B	47	B
+------------------------------------------------------------
+-------------------------MKVSG-----LPICL-LSAVFYLFWTPSAGLKTLH
+LGSC-VITTNLQ-EMRNRFSEIRDSVQAKDEIID--------------------------
+--IRILRKT--------ESLQDTKPADRCCLLRHVLRLYLDRVFKNYQ-TPDHHILRKTS
+SLANSFLTIKKDL-RLCHAHMTCP-----C----GEEAME---KYSQIL------SHFEE
+LTPQAA--VVKALG-------ELD-----ILL-----------------------QWMEM
+TD--------------------------------------
+>ENSUMAP00000035260 ENSUMAG00000025347	176	IL20	interleukin	Ursus_maritimus	47B	47	B
+------------------------------------------------------------
+-------------------------MKASG-----LPICL-FSAAFYLFWTPSAGLKTLR
+LGSC-VITTNLQ-EMRNGFSEIRDSVQAKDEIID--------------------------
+--IRILRKT--------ESLQDTKPADQCCLLRHVLRLYLDRVFKNYQ-TPDHHILRKTS
+SLANSFLTIKKDL-RLCHAHMTCP-----C----GEEAME---KYSQIL------SHFEE
+LTPQAA--VVKALG-------ELD-----ILL-----------------------QWMEE
+MK--------------------------------------
+>ENSVVUP00000000692 ENSVVUG00000000619	176	IL20	interleukin	Vulpes_vulpes	47B	47	B
+------------------------------------------------------------
+-------------------------MKASG-----LPICL-LSAAFYLFWTPSAGLKTLH
+LGSC-VITTNLQ-EMRNGFSEIRDSVQAKDEVID--------------------------
+--IRILRKT--------ESLQDTKPADQCCLLRHVLRLYLDRVFKNYQ-TPDHHILRKTS
+SLANSFLTIKKDL-RLCHAHMTCS-----C----GEEATE---KYSQIL------SHFEE
+LTPQAA--VVKALG-------ELD-----ILL-----------------------QWMEE
+ME--------------------------------------
+>ENSMLUP00000016161 ENSMLUG00000017717	175	None	None	Myotis_lucifugus	47B	47	B
+------------------------------------------------------------
+-------------------------MKSSC-----LPLCL-LLAVFSLFWTPSAGLKTLH
+LGSC-VIATNLQ-EMQTEFSQIRDRMQAEDEIMD--------------------------
+--LRILK-T--------ESSQDTKPADQCCLLRHILRLYLGMVFKNYQ-TSNKLILQKLS
+SLANSFLTIKKDL-RLCHARMTCP-----C----GEEAME---KFNQIL------SRFEE
+LKLQEA--VVKALG-------ELD-----ILL-----------------------QWMGE
+MR--------------------------------------
+>ENSPVAP00000007609 ENSPVAG00000008059	176	IL20	interleukin	Pteropus_vampyrus	47B	47	B
+------------------------------------------------------------
+-------------------------MKGSG-----LPLCI-LVAVFYLSWTPSAGLKILH
+LGSC-VVTTNLQ-EMHNGFSEIRDTVQAKDKIID--------------------------
+--IRILRKT--------ESLQDTKPADRCCLLRHILRLYLNXXXXXXX-XXXXXXXXXXX
+XXXXXXXXXXXXX-XXXHARMTCP-----C----GEEAKE---KYSQIL------SHFEE
+LEPQEA--VVKALG-------ELD-----ILL-----------------------RWMEE
+TE--------------------------------------
+>ENSRFEP00010029928 ENSRFEG00010019796	176	IL20	interleukin	Rhinolophus_ferrumequinum	47B	47	B
+------------------------------------------------------------
+-------------------------MKGSG-----LPLCL-LTAVFYLFWTPSAGLKTLH
+VGSC-VITTNLQ-EMRKGFSEIRDRVQAKDEIID--------------------------
+--FSILSKS--------ESLQDTKPADRCCLLRHILRLYLDTVFKNYQ-IPGHHILPKIS
+TLANSFLTIKKEI-RLCHARMICP-----C----GEEATA---KYSQIL------SRFKM
+LQPQEA--VVKALG-------EVD-----ILL-----------------------RWMDE
+ME--------------------------------------
+>ENSDNOP00000011236 ENSDNOG00000014504	175	IL20	interleukin	Dasypus_novemcinctus	47B	47	B
+------------------------------------------------------------
+-------------------------MKVSG-----LPLCL-LSAVFYLFWTPSASLKTLH
+LGSC-VITTNLQ-EIQNGFSEIQASVQARDGNVD--------------------------
+--IRILRKT--------ESLQDIKPTDQCCFLRHLLRLYLDRVFKNYQ-TPDHHTLRKIS
+TLANSFLTIKKEL-RLCHAHMTCH-----C----GEDAKE---KFSQIL------SHFEE
+LEPQAA--VVKALS-------ELD-----ILL-----------------------RWMEE
+T---------------------------------------
+>ENSSHAP00000021530 ENSSHAG00000018237	178	IL20	interleukin	Sarcophilus_harrisii	47B	47	B
+------------------------------------------------------------
+-------------------------IPSERTL-YIVIFTLFISPILLVQ-------QNNC
+MDVCTYVVFNIY-EIRNEFSEIRGFVQAEDEHWD--------------------------
+--NRILKNS--------EALQDIKPTERCCFFRHLLRFYLDKVFKNYQ-PSSPHIRRKVS
+SIANSFLGIKKEL-RLCHDQMTCH-----C----GEEAKE---KYMQIL------SHFEE
+K----A--VIKALG-------ELD-----ILL-----------------------RWIER
+TKPFESRKK-------------------------------
+>ENSMODP00000002572 ENSMODG00000002115	176	IL20	interleukin	Monodelphis_domestica	47B	47	B
+------------------------------------------------------------
+-------------------------MKGSS-----FSLCL-FSTVFSLLMLRSLGLKRLH
+LGNC-VLSMNYQ-EMRNEFLEIKGYVQAEDGNLD--------------------------
+--KRILKSS--------EALQDTKPTERCCFFRHLLRFYLDRVFKNYQ-TTNHHIRRKVS
+SLANSFLGIKKEL-RLCHDHMICH-----C----GEEAKK---KYTQIL------SHFEE
+LDAQTA--VVKALG-------ELD-----ILL-----------------------RWIEK
+TK--------------------------------------
+>ENSPCIP00000049776 ENSPCIG00000010029	175	IL20	interleukin	Phascolarctos_cinereus	47B	47	B
+------------------------------------------------------------
+-------------------------MKGCF-----FSLCL-FSTVFLLFVLPSLGLKRLH
+LGSC-VLSMNFQ-EIRNEFLEL-GYVQAEDENLD--------------------------
+--NRILKNS--------EALQDIKPTERCCFFHHLLRFYLDRVFKNYQ-TSNHHIRRKVS
+SIANSFLGIKKEL-RLCHDHLICH-----C----GEEAKE---KYAHIL------SHFEK
+LDGQKA--VVKALG-------ELD-----ILL-----------------------RWMER
+TK--------------------------------------
+>ENSVURP00010016005 ENSVURG00010012258	176	IL20	interleukin	Vombatus_ursinus	47B	47	B
+------------------------------------------------------------
+-------------------------MKGSF-----FSRCL-FSTVFLLFVLPSLGLKRLH
+LGSC-VLSMNFQ-EIRNEFLEIKGYVQAEDENLD--------------------------
+--NRILKSS--------EALQDIKPTERCCFFHHLLRFYLDRVFKNYQ-TSNYHIRRKVS
+SIANSFLGIKREL-RLCHDHLMCH-----C----GEEAKE---KYTHIL------SHFEE
+LDGQKA--VVKALG-------ELD-----ILL-----------------------RWMER
+TK--------------------------------------
+>ENSOPRP00000010349 ENSOPRG00000011341	176	IL20	interleukin	Ochotona_princeps	47B	47	B
+------------------------------------------------------------
+-------------------------MKGSR-----LAFGL-LSAVFHLLWAPSTGLRTLQ
+LGSC-VISTNLQ-EIQRGFTEIRQSVQAQDENLD--------------------------
+--VRLLRRT--------ESMQDTQPVNRCCLLRHLLRLYLERVFKLYR-SPDHHTLQSIS
+KLANSLLSIKKEL-RLCHANAKCP-----C----GEEATE---KYSRIL------SHFEE
+LEPQVA--VVKALG-------ELD-----ILL-----------------------RWMEE
+TT--------------------------------------
+>ENSOCUP00000012278 ENSOCUG00000014282	187	IL20	interleukin	Oryctolagus_cuniculus	47B	47	B
+------------------------------------------------------------
+-------------------------MRAAG-----LALGF-LCAVFHLLWAPSTGLRTLQ
+LGSC-VVTTDLQ-EIQSVFSELRHSVQAKDDITD--------------------------
+--IRILRRT--------ESLQDTKPKGRCCLLRRLLRLYMERVFNNYP-APDHQTLRKIS
+RLANSLLTIKKDL-RLCHANKKCH-----C----GKEAME---KYNQIL------RQFEQ
+LEPQAA--VVKALG-------ELD-----ILL-----------------------QWMEE
+TVMDGGDSEAERH---------------------------
+>ENSOANP00000003024 ENSOANG00000001904	178	IL20	interleukin	Ornithorhynchus_anatinus	47B	47	B
+------------------------------------------------------------
+-------------------------MKVGL------SLCL-FSFVSLLGWRPSAGSKKLP
+LGHC-SVSVDIQ-KLRDEFSGIKALIQSEDESMN--------------------------
+--IRILKRS--------ESLQVTEPADRCCFLRHLFRLYLDRVFNHYK-THDSDILRKIS
+TIANTFLGVKRDL-RLCHDHSTCH-----C----GEEARG---KFSRVL------SHFEK
+LDAEAA--AVKALG-------ELD-----ILL-----------------------SWMED
+IEQPE-----------------------------------
+>ENSECAP00000034814 ENSECAG00000009603	248	IL20	interleukin	Equus_caballus	47B	47	B
+MSSSVY--SLQVPAAPGFVCRAMTTGLGWGQDKGAGICSTNSHPDPEQAQEGKASL-PG-
+---------GSAVLLTPVVSRLQHKMDGSG-----LALCL-LAAVFCLFWTPSAGLKTLH
+LGSC-VITTNLQ-EMRNGFSEIRDRVLAEDEIID--------------------------
+--VRILRKM--------VSLQDTEPAGQCCLLRHVLRLYLDKVFKNYQ-TPDHHILRKLS
+SLANSFLTIKKDL-RLCHDRMTCP-----C----WEEAME---KYSRIL------SHFEE
+LKPREA--VVKALG-------ELD-----ILL-----------------------RWMEE
+AE--------------------------------------
+>ENSCHOP00000009555 ENSCHOG00000010801	176	IL20	interleukin	Choloepus_hoffmanni	47B	47	B
+------------------------------------------------------------
+-------------------------MKGSG-----LPLCL-LTAVFYLCWASSAGLKTLH
+LGRC-VITANLQ-EIQNGFSEIHDSVQAKDENID--------------------------
+--IRILRKT--------HSLQDTKPADRCCLLRHLLRLYLDRVFKNYQ-TPDHHTLRKIS
+SLANSFLTIKKEL-RLCHAHMTCH-----C----GEEATE---KYSQIL------SYFEE
+LEPQAA--AVKALS-------ELD-----ILL-----------------------RWMEE
+TD--------------------------------------
+>ENSCJAP00000034373 ENSCJAG00000018515	176	IL20	interleukin	Callithrix_jacchus	47B	47	B
+------------------------------------------------------------
+-------------------------MKASG-----LAFSL-LSAAFYLLWTPATGLKTLH
+LGKC-VIATNLQ-EIRNGFLEIRGSVQAKDGNID--------------------------
+--VRILRRT--------ESLQDTEPADRCCLLRHLLRLYLDRVFKNYQ-TPDHHTLRKIS
+SLANSFLTVKKDL-RLCHAHMTCH-----C----GEGATK---KYSQIL------SHFEE
+LEPQAA--VVKALG-------ELD-----ILL-----------------------QWMEE
+TE--------------------------------------
+>ENSCATP00000041659 ENSCATG00000043510	176	IL20	interleukin	Cercocebus_atys	47B	47	B
+------------------------------------------------------------
+-------------------------MKASS-----LAFSL-LSAAFYLLWTPSTGLKTLN
+LGSC-VIATNLQ-EIRNGFSEIRGSVQAKDGNID--------------------------
+--IRILRRT--------ESLQDTKPADQCCLLRHLLRLYLDRVFKNYQ-TPDHYTLRKIS
+SLANSFLTIKKDL-RLCHAHMTCH-----C----GEEAMK---KYGQIL------SHFEE
+LEPQAA--VVKALG-------ELD-----ILL-----------------------QWMEE
+TE--------------------------------------
+>ENSCSAP00000011105 ENSCSAG00000015003	176	IL20	interleukin	Chlorocebus_sabaeus	47B	47	B
+------------------------------------------------------------
+-------------------------MKASS-----LAFSL-LSAAFYLLWTPSTGLKTLN
+LGSC-VIATNLQ-EIRNGFSEIRGRVQAKDGNID--------------------------
+--IRILRRT--------ESLQDTKPADRCCLLRHLLRLYLDRVFKNYQ-TPDHYTLRKIS
+SLANSFLTIKKDL-RLCHAHMTCH-----C----GEEAMK---KYGQIL------SHFEE
+LELQAA--VVKALG-------ELD-----ILL-----------------------QWMEE
+TE--------------------------------------
+>ENSGGOP00000012944 ENSGGOG00000013272	176	IL20	interleukin	Gorilla_gorilla	47B	47	B
+------------------------------------------------------------
+-------------------------MKASS-----LAFSL-LSAAFYLLWTPSTGLKTLN
+LGSC-VIATNLQ-EIRNGFSEIRGSVQAKDGNID--------------------------
+--IRILRRT--------ESLQDTKPANRCCLLRHLLRLYLDRVFKNYQ-TPDHYTLRKIS
+SLANSFLTIKKDL-RLCHAHMTCH-----C----GEEAMK---KYSQIL------SHFEK
+LEPHAA--VVKALG-------ELD-----ILL-----------------------QWMEE
+TE--------------------------------------
+>ENSP00000356065 ENSG00000162891	176	IL20	interleukin	Homo_sapiens	47B	47	B
+------------------------------------------------------------
+-------------------------MKASS-----LAFSL-LSAAFYLLWTPSTGLKTLN
+LGSC-VIATNLQ-EIRNGFSEIRGSVQAKDGNID--------------------------
+--IRILRRT--------ESLQDTKPANRCCLLRHLLRLYLDRVFKNYQ-TPDHYTLRKIS
+SLANSFLTIKKDL-RLCHAHMTCH-----C----GEEAMK---KYSQIL------SHFEK
+LEPQAA--VVKALG-------ELD-----ILL-----------------------QWMEE
+TE--------------------------------------
+>ENSMMUP00000058829 ENSMMUG00000023571	176	IL20	interleukin	Macaca_mulatta	47B	47	B
+------------------------------------------------------------
+-------------------------MKASS-----LAFSL-LSAAFYLLWTPSTGLKTLN
+LGSC-VIATNLQ-EIRNGFSEIRGSVQAKDGNID--------------------------
+--IRILRRT--------ESLQDTKPADQCCLLRHLLRLYLDRVFKNYQ-TPDHYTLRKIS
+SLANSFLTIKKDL-RLCHAHMTCH-----C----GEEAMK---KYGQIL------SHFEE
+LEPQAA--VVKALG-------ELD-----ILL-----------------------QWMEE
+TE--------------------------------------
+>ENSMLEP00000036336 ENSMLEG00000042291	176	IL20	interleukin	Mandrillus_leucophaeus	47B	47	B
+------------------------------------------------------------
+-------------------------MKASS-----LAFSL-LSAAFYLLWTPSTGLKTLN
+LGSC-VIATNLQ-EIRNGFSEIRGSVQAKDGNID--------------------------
+--IRILRRT--------ESLQDTKAADRCCLLRHLLRLYLDRVFKNYQ-TPDHYTLRKIS
+SLANSFLTIKKDL-RLCHAHMTCH-----C----GEEAMK---KYGQIL------SHFEE
+LEPQAA--VVKALG-------ELD-----ILL-----------------------QWMEE
+TE--------------------------------------
+>ENSMICP00000034546 ENSMICG00000008367	176	IL20	interleukin	Microcebus_murinus	47B	47	B
+------------------------------------------------------------
+-------------------------MKGSG-----LAFSL-LSAMFYLLWTPSTGLKTLH
+LGSC-VITTNLQ-EIQSGFSAIRDSVQARDGNID--------------------------
+--TRILRRM--------GSLQDTKPADRCCLLRHLLRLYLDRVFKNYQ-TSDHHTLRKIS
+SLANAFLAIKKDL-RLCHAHVTCH-----C----GEDATK---KYSRIL------SHFEE
+LEPQAA--VVKALG-------ELD-----ILL-----------------------RWMEE
+TE--------------------------------------
+>ENSPANP00000010168 ENSPANG00000001374	176	IL20	interleukin	Papio_anubis	47B	47	B
+------------------------------------------------------------
+-------------------------MKASS-----LAFSL-LSAAFYLLWTPSTGLKTLN
+LGSC-VIATDLQ-EIRNGFSEIRGSVQAKDGNID--------------------------
+--IRILRRT--------ESLQDTKPADRCCLLRHLLRLYLDRVFKNYQ-TPDHYTLRKIS
+SLANSFLTIKKDL-RLCHAHMTCH-----C----GEEAMK---KYGQIL------SHFEE
+LEPQAA--VVKALG-------ELD-----ILL-----------------------QWIEE
+TE--------------------------------------
+>ENSPPYP00000000297 ENSPPYG00000000280	176	IL20	interleukin	Pongo_abelii	47B	47	B
+------------------------------------------------------------
+-------------------------MKASS-----LAFSL-LSAAFYLLWTPSTGLKTLN
+LGSC-VIATNLQ-EIRNGFSELRGSVQAKDGNID--------------------------
+--IRILRRT--------ESLQDTKPANRCCLLRHLLRLYLDRVFKNYQ-TPDHYTLRKIS
+SLANSFLTIKKDL-RLCHAHMTCH-----C----GEEAMK---KYSQTL------SHFEE
+LEPQAA--VVKALG-------ELD-----ILL-----------------------QWMEE
+TE--------------------------------------
+>ENSTGEP00000015130 ENSTGEG00000012295	176	IL20	interleukin	Theropithecus_gelada	47B	47	B
+------------------------------------------------------------
+-------------------------MKASS-----LAFSL-LSAAFYLLWTPSTGLKTLN
+LGSC-VIATDLQ-EIQNGFSEIRGSVQAKDGNID--------------------------
+--IRILRRT--------ESLQDTKPADRCCLLRHLLRLYLDRVFKNYQ-TPDHYTLRKIS
+SLANSFLTIKKDL-RLCHAHMTCH-----C----GEEAMK---KYGQIL------SHFEE
+LEPQAA--VVKALG-------ELD-----ILL-----------------------QWIEE
+TE--------------------------------------
+>ENSLAFP00000015690 ENSLAFG00000018715	176	IL20	interleukin	Loxodonta_africana	47B	47	B
+------------------------------------------------------------
+-------------------------MKGCG-----LALCL-LSAAFCLFWMPSAGWEILH
+LGSC-VISINLQ-KIRNEFSEIRGSMQAEDGNID--------------------------
+--IRILRRS--------VSLQDTVPSDQCCLLHRLLRLYLDRVFKTYR-TPDHYMLRKIS
+SLANSFLTIKKDL-RLCHDHMTCH-----C----GEEAME---KYSQIL------SHFKR
+LEPQAV--VLKALG-------ELD-----ILL-----------------------QWMEE
+TK--------------------------------------
+>ENSCCNP00000029179 ENSCCNG00000028012	175	Il20	interleukin	Castor_canadensis	47B	47	B
+------------------------------------------------------------
+-------------------------MKGSG-----LATGL-LCAVLYLLGTPSTGLKTLH
+LGSC-VITTNLQ-AIQTGFSEIRDSVQAEDENID--------------------------
+--IRILKRT--------KSLQDTKPSERCCLLRHLLRLYLDRVFKNYQ-TPDPHTLRKIS
+SLANAFLTIKKDL-RLCHAHMTCH-----C----GEEATE---KYSQIL------SHFEE
+LEPWAA--VVKALG-------ELD-----ILL-----------------------RWMEE
+T---------------------------------------
+>ENSCPOP00000004534 ENSCPOG00000005038	176	IL20	interleukin	Cavia_porcellus	47B	47	B
+------------------------------------------------------------
+-------------------------MKASG-----LAFGL-LSVVFYLLWTPSSGLKILH
+LGSC-VIVTNLQ-EIQSEFSEIRDSVQASDRNTD--------------------------
+--FRILRST--------GSLQDTEPSDRCCLLRHLLRLYLDRVFKNYQ-TSDHHTLRKIS
+SLANSFLTIKKDL-QLCHTYMACH-----C----GQEAAE---THRQIL------SHFEQ
+LEPQAA--AVKVLG-------ELD-----ILL-----------------------RWMEE
+TQ--------------------------------------
+>ENSCLAP00000020920 ENSCLAG00000014335	175	IL20	interleukin	Chinchilla_lanigera	47B	47	B
+------------------------------------------------------------
+-------------------------MKASG-----VAFGL-LSIVFHLLWASSSGLKTLH
+LGSC-VIVTNLQ-EIQSEFSEIRDRVQVNDKNTD--------------------------
+--FRILRST--------ASLQDTR-SDRCCLLRHLLRLYLDRVFKNYQ-TSDHHTLQKIS
+SLANSFLTIKKDL-QLCHMYMTCH-----C----GEEAAE---NYRQIL------NHFEQ
+LEPQAA--AVKVLG-------ELD-----ILL-----------------------RWMED
+TA--------------------------------------
+>ENSDORP00000008310 ENSDORG00000008858	176	Il20	interleukin	Dipodomys_ordii	47B	47	B
+------------------------------------------------------------
+-------------------------MKGTV-----LLFSL-LSAVLLVVGRPSNGLKTLH
+LGSC-VVTINLQ-EIQHGFSEIRDSVQAKDDNIN--------------------------
+--IRILRST--------ESLQDTKASEKCCLLHHLLSFYLNRVFNNYQ-TTDHPTLRKLS
+SLANSFLIIKKDL-QLCHAHMTCQ-----C----EEEAIA---KYNRIL------SHFEE
+LEPQAA--TVKALG-------ELD-----ILL-----------------------RWMEE
+SA--------------------------------------
+>ENSSTOP00000005753 ENSSTOG00000006441	176	IL20	interleukin	Ictidomys_tridecemlineatus	47B	47	B
+------------------------------------------------------------
+-------------------------MKGSR-----LAFGL-LSVMFCLLWAPSTGFKTLH
+LGSC-VITTNLE-EIQSGFSKIRDTVQAKDENID--------------------------
+--IRILRRT--------ESLQDTKPSARCCLLRHLLRLYLDRVFKNYQ-TFDHNTLRNIS
+SLANSFLTIKKGL-RLCHARMTCR-----C----GEEATE---KYSQIL------SHFEK
+LDLQEA--VVKALG-------ELD-----ILL-----------------------RWMEE
+TE--------------------------------------
+>ENSMUGP00000024473 ENSMUGG00000020441	176	Il20	interleukin	Meriones_unguiculatus	47B	47	B
+------------------------------------------------------------
+-------------------------MKGFG-----VAFGL-FSAVGFLFWTPLSGLKTLH
+LGSC-VITANLQ-GIQREFAEIRDTVQAEDENID--------------------------
+--IRILRTT--------ESLKDTKPLDRCCFLRHLVRFYLDRVFKIYQ-TPDHHTLRKIS
+SLANSFLIIKKDL-SVCHSHMACH-----C----GEEAME---KYNQIL------SHFTE
+LENQAV--AVKALG-------ELG-----ILL-----------------------RWMEE
+MI--------------------------------------
+>ENSMAUP00000013222 ENSMAUG00000013324	176	Il20	interleukin	Mesocricetus_auratus	47B	47	B
+------------------------------------------------------------
+-------------------------MKGFG-----FAFGL-FSAVCFLRWTPLTGLETLH
+LGSC-VITANLQ-AIQKEFSEIRDSVQAEDENID--------------------------
+--IRILRTT--------ESLQGIKHSDRCCFLRHLVRFYLDRVFKFYQ-TPDHRILRKTS
+SLANSFLIIKKDL-SICHSRMACH-----C----GEEAMK---KYNHVL------SHFTE
+LEHQAA--VVKALG-------ELD-----ILL-----------------------RWMEE
+MI--------------------------------------
+>ENSMOCP00000009031 ENSMOCG00000009128	179	Il20	interleukin	Microtus_ochrogaster	47B	47	B
+------------------------------------------------------------
+-------------------------MRGFS-----FAFIL-FSAVGFLFWTPVTGLKTLH
+LGSC-AITANLQ-AIQKDFSEIQDSVQAEDENID--------------------------
+--IRILRTT--------ESLQDTEHSERCCLLRHLVRFYLDRVFKFYQ-NPDHHILRKTS
+SLANSFLIIKKDL-SICHSRMACH-----C----GEEAMK---KYNQIL------SHFTE
+LELQAA--VVKALG-------EIG-----ILL-----------------------RWMEE
+MMLMK-----------------------------------
+>ENSMUSP00000027673 ENSMUSG00000026416	176	Il20	interleukin	Mus_musculus	47B	47	B
+------------------------------------------------------------
+-------------------------MKGFG-----LAFGL-FSAVGFLLWTPLTGLKTLH
+LGSC-VITANLQ-AIQKEFSEIRDSVQAEDTNID--------------------------
+--IRILRTT--------ESLKDIKSLDRCCFLRHLVRFYLDRVFKVYQ-TPDHHTLRKIS
+SLANSFLIIKKDL-SVCHSHMACH-----C----GEEAME---KYNQIL------SHFIE
+LELQAA--VVKALG-------ELG-----ILL-----------------------RWMEE
+ML--------------------------------------
+>ENSODEP00000009138 ENSODEG00000006827	175	IL20	interleukin	Octodon_degus	47B	47	B
+------------------------------------------------------------
+-------------------------MKASS-----LACGL-LSAALYLFWTPSSGLKTLH
+LGSC-VIVTNLQ-EIQREFSEIRDRVQANDKNTD--------------------------
+--FRILRST--------GSLQDTE-SGRCCLLRHLLRLYLDRVFKNYQ-TSDHHTLRKIS
+SLANSFLTIKKDL-QLCQVYMSCH-----C----GAEAAE---KYRQIL------SHFEQ
+LEPQTA--AVKVLG-------ELD-----ILL-----------------------RWMEE
+TE--------------------------------------
+>ENSPEMP00000011163 ENSPEMG00000011913	176	Il20	interleukin	Peromyscus_maniculatus_bairdii	47B	47	B
+------------------------------------------------------------
+-------------------------MKAFG-----FAFGL-FFAVGFLLWTPLTGLKTLH
+LGSC-VITSNLQ-AIQKEFSDIRDSVQAEDENID--------------------------
+--IRILRTT--------ESLQDTKHSERCCLLRHLVRLYLDRVFKFYQ-TPDRRILRKTS
+SLANSFLLIKKEL-SICHSRMACH-----C----GEEAMK---KYNQIL------SHFIE
+LELQAA--AVKALG-------ELG-----ILL-----------------------RWMEE
+MM--------------------------------------
+>ENSRNOP00000059229 ENSRNOG00000004633	176	Il20	interleukin	Rattus_norvegicus	47B	47	B
+------------------------------------------------------------
+-------------------------MRGFR-----LAFGL-FSVVGFLLWTPLTGLKTLH
+LGSC-VITANLQ-AIQKEFSEIRHSVQAEDENID--------------------------
+--VRILRTT--------ESLKDTKLSDRCCFLRHLVRFYLDRVFKVYQ-TPDHHTLRKIS
+SLANSFLIIKKDL-SVCHSHMACH-----C----GEEAME---KYNQIL------SHFTE
+LELQAA--VVKALG-------ELG-----ILL-----------------------RWMEE
+ML--------------------------------------
+>ENSTBEP00000011228 ENSTBEG00000012961	172	IL20	interleukin	Tupaia_belangeri	47B	47	B
+------------------------------------------------------------
+-------------------------MKGSG-----FAFSL-LSAVFCLLWTPSAGLKTLH
+LGSC-VITTNLQ-QLQKGFSEIRGSVQQD--NID--------------------------
+--IRILT----------TDSLDTKPADRCCLLRHLLRLYLDRVFKNYQ-TPDHHILRKIS
+SLANSFLTIKKEL-RLCHDHMTCH-----C----GEEAMK---KYSQIL------SHFKE
+LDPQAA--VVKALG-------ELD-----ILL-----------------------RWMEM
+TK--------------------------------------
+>ENSPMRP00000008451 ENSPMRG00000005709	175	None	None	Podarcis_muralis	47B	47	B
+------------------------------------------------------------
+-------------------------MEGGYIL-LL------LHTAFLLSLIPTSSLKQLH
+FGHC-MVSVDMY-EMRKGFGDIKEMTQSQDRHTS--------------------------
+--IRLLHGS--------HSLQNTKSEDRCCFFHYLLKFYLVNVFNQCT-EGSNFHQRRVS
+RIANNFLSIKKEL-TLCDTVTTCS-----C----GKEANQ---RYEQIL------NQFQR
+MDSHSA--AVKALG-------ELD-----ILL-----------------------DWIDK
+TD--------------------------------------
+>ENSPVIP00000031672 ENSPVIG00000023281	172	IL20		Pogona_vitticeps	47B	47	B
+------------------------------------------------------------
+-------------------------MESGCSP-FL------LYTAFLLSWVSSSSSKKLN
+FGPC-TVSVDMY-EIRKGFGDIKEMTVRIILLTE--------------------------
+-----------------INRGLFQSEDTCCFFHNLLKFYLVKVFNQCR-EGNNFHQRRVS
+RIANNFLSIKKEL-TLSVSSKYKQ-----THFPSLWTIIS---FFQAII------SDYLL
+MESHPA--ALKALG-------ELD-----ILL-----------------------DWMDK
+TD--------------------------------------
+>ENSCABP00000004897 ENSCABG00000003690	178	IL20	interleukin	Chelonoidis_abingdonii	47B	47	B
+------------------------------------------------------------
+-------------------------MKSSC------LFCV-ISATLLLCLKISASLKSLH
+LGHC-VISVNIH-EIRHSFAAIKEMTQSKDERTD--------------------------
+--IRILHKS--------YSLQNTEPMDRCCFLRRLLRFYLATVFSHYK-ASSPLVSRKVS
+SIANSFLSIKKEL-RLCHEVSMCH-----C----GEDVKH---KCGQIL------SQYEK
+VNHSLL--SDIANA-------CAE-----SFS-----------------------CWKQE
+SGSIT-----------------------------------
+>ENSCSRP00000001344 ENSCSRG00000001080	136	None	None	Chelydra_serpentina	47B	47	B
+------------------------------------------------------------
+-------------------------MKSSC------LFRV-ISAALLLCLKPSTSLKRLH
+LGHC-VISVNIY-EIRHSYV------QSKDEHTD--------------------------
+--IRILYKS--------YSLQDTEISESCCLLRHLLRFYIESVFKHHE-ATSSLLRRRTS
+RLSNSFLSIKGKL-KHCVSMEAIS-----G----FIN-----------------------
+------------------------------ME-----------------------TWVQ-
+----------------------------------------
+>ENSGAGP00000017396 ENSGAGG00000012943	177	IL20	interleukin	Gopherus_agassizii	47B	47	B
+------------------------------------------------------------
+-------------------------MKSSC------LFRV-IFATLLLCLKLSASLKRLH
+LGHC-VISVNIH-EIRHSFAAIKEMIQSKDERTD--------------------------
+--IRILHKS--------YSLQDTEPMDRCCFLRHLLRFYLATVFSHCK-ASSPLVSRKVS
+SIANAFLSIKKEL-RLCV-ISMCH-----C----GEDVKH---KCGQIL------SQYEK
+VNHSLL--SDVANA-------CTE-----SFS-----------------------CWKQE
+SGFII-----------------------------------
+>ENSPSIP00000003751 ENSPSIG00000003560	175	IL20	interleukin	Pelodiscus_sinensis	47B	47	B
+------------------------------------------------------------
+-------------------------MKGTC------FFCL-LSTVLLICLKPTTSLRRLH
+LGQC-VISVNIH-EIRHSFRAIKDMTQSKDEHTD--------------------------
+--IRLLHQS--------YSLQDTEPMDRCCFLRHLLRFYLTTVFSHCK-VSSSPIIRKVS
+RIANTFLSIKKDL-RLCHQVSMCH-----C----REDVKH---KYGLIM------SQYEK
+MDVHSA--GLKALG-------ELD-----ILL-----------------------DWMDK
+AD--------------------------------------

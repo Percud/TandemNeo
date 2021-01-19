@@ -1,0 +1,210 @@
+>ENSAPLP00020014250 ENSAPLG00020010380	117	None	None	Anas_platyrhynchos	710A	710	A
+---------------------------------------------------------MSF
+YR-QISSR-------CLAPCEVTCPQP--MVNACSQ--PCVTSCGDSRAVIYPPPVVMTF
+PGPILSSCPQESIVGSSAPAGFGSSFGY-----------------TS---------SQGL
+RGFYDSGSLYTYGKSYSS-------YGSS---GYGAGRCRPC------------------
+--------------------------------
+>ENSACDP00005009516 ENSACDG00005006954	161	None	None	Anser_cygnoides	710A	710	A
+MKN---VSHPPDCLRKDI-----------KALIVLGCSNHFSLPALCCGGIRLHSQKMSF
+YGQMISSR-------CLAPCEVTCPQP--MVNACSQ--PCVTSCGDSRAVIYPPPVVMTF
+PGPILSSCPQESIVGSSAPAGFGSSFGY-----------------TS---------SQGP
+RGFYDSGRPYTYGKSYSS-------YGSS---GYGAGRYRSC------------------
+--------------------------------
+>ENSAOWP00000003246 ENSAOWG00000002283	118	None	None	Apteryx_owenii	710A	710	A
+---------------------------------------------------------MSF
+YRELISSR-------CLAPCEVTCPQP--IANAWNQ--PCVTSCSDSRAVIYPPPVVMTF
+PGPILSSCPQESLVGSSAPSGIGSSFGSMS--------------------------FLGS
+RGSYEAGGLYNYGRSYSS-------YGSS---KHGFGSCRPC------------------
+--------------------------------
+>ENSDNVP00000008216 ENSDNVG00000005844	106	None	None	Dromaius_novaehollandiae	710A	710	A
+------------------------------------------------------------
+---MISSR-------CLAPCEVTCPRP--IANAWSQ--PCVTSCGDSRAVIYPPPVVVTF
+PGPILSSCPQESVVGSSAPSGVGSF--------------------------------LGS
+QGSYESGSLYNFGRSYSS-------LGPG---RYGFGSCRPC------------------
+--------------------------------
+>ENSCPUP00000010186 ENSCPUG00000007225	118	None	feather keratin	Calidris_pugnax	710A	710	A
+---------------------------------------------------------MSS
+YRQMISSR-------CLAPCEVTCPQP--MANAWNQ--PCVTSCGDSRAVIHPPPVVITF
+PGPILSSCPQESIVGSSAPSSIGSFVGSMS--------------------------SLGS
+SGSYGSRSLYNYGRSYSS-------YGSG---AYGFGSCRPC------------------
+--------------------------------
+>ENSCJPP00005017206 ENSCJPG00005014075	124	None	scale	Coturnix_japonica	710A	710	A
+---------------------------------------------------------MSC
+YREMISSR-------CLQPCEVTCPQP--YAEACNQ--PCVTSCGDSRAVVYPPPVVITF
+PGPILSSCPQESIVGSSAPAGIGSSFGYG-----------SSFGYGS---------SQGS
+MGSYGSRSLNKYGRSFSS-------YGYG---GYGAGSCRPC------------------
+--------------------------------
+>ENSGALP00000040972 ENSGALG00000024136	124	None		Gallus_gallus	710A	710	A
+---------------------------------------------------------MSC
+YKEMISSR-------CLPPCEVTCPQP--YADACSQ--PCVTSCGDSRAVVYPPPVVITF
+PGPILSSCPQESIVGSSAPAGIGSSFGYE-----------SSLGYGS---------SQGS
+LGSYGYRSPYKYGRSFSS-------YGYG---GYGAGSCRPC------------------
+--------------------------------
+>ENSMGAP00000000046 ENSMGAG00000000673	118	None	feather keratin	Meleagris_gallopavo	710A	710	A
+---------------------------------------------------------MSC
+YREMISSR-------CLPPCEVTCPQP--YADACNQ--PCVTSCGDSRAVVYPPPVVITF
+PGPILSSCPQESIVGSSAPAGIGSSFG-----------------YGS---------SQGL
+VGSYGSRGLYKYGRSFSS-------YGYG---GYGAGSCRPC------------------
+--------------------------------
+>ENSNMEP00000003001 ENSNMEG00000003574	130	None	scale	Numida_meleagris	710A	710	A
+---------------------------------------------------------MSC
+YREMTSSR-------CLAPCEVSCPQP--YADACSQ--PCVTSCGDSRAVVYPPPVVITF
+PGPILSSCPQESIVGSSAPASIGSSFGYGSS----FG-YGSSFGYGS---------SQGL
+MGSYGSRSLYKYGRSFSS-------SGYG---GYGAGSCRPC------------------
+--------------------------------
+>ENSPSTP00000011714 ENSPSTG00000008238	118	None	None	Pavo_cristatus	710A	710	A
+---------------------------------------------------------MSC
+YREMISSR-------CQPPCEVACPQP--YADACSQ--PCVTSCGDSRAVVYPPPVVITF
+PGPILSSCPQESIVGTSAPAGIGSSFG-----------------YGG---------SQGP
+VGSYGSRSLYKYGRSFSS-------YGYG---GYGAGSCRPC------------------
+--------------------------------
+>ENSPCLP00000021330 ENSPCLG00000018682	118	None	None	Phasianus_colchicus	710A	710	A
+---------------------------------------------------------MSC
+YREMISSR-------CLPPCEVTCPQP--YADACSQ--PCVTSCGDSRAVVYPPPVVITF
+PGPILSSCPQESIVGSSAPAGIGSSFG-----------------YGS---------SQGS
+MGSYGSRGLYKYGRSFSS-------YGYG---GYGAGSCRPC------------------
+--------------------------------
+>ENSFALP00000015182 ENSFALG00000014567	76	None	None	Ficedula_albicollis	710A	710	A
+------------------------------------------------------------
+--------------------GVSCPQP--VAQSVNE--PCVQQCPESRALILPPPVVVTI
+PGPVLSTFPQESVVGSSGPAWLGRSFSSRSS----E----------G---------YGGN
+FGL---------------------------------------------------------
+--------------------------------
+>ENSPMJP00000001487 ENSPMJG00000001216	113	None	feather keratin	Parus_major	710A	710	A
+---------------------------------------------------------MFS
+YRQSSSSR-------CLAPCAVSCPQP--CVDAWNQ--PCVTSCGDSRAVIYPPPVVMTF
+PGPILSSCPQESIVGSSAPSGN--FLGS-----------------GN---------FLGS
+GGSY---GSYGYGRSYSS-------YGSS---GYFSGSCRPC------------------
+--------------------------------
+>ENSTGUP00000004430 ENSTGUG00000004312	112	None	None	Taeniopygia_guttata	710A	710	A
+----------------------------------------------------------MS
+CYDLCPPR--TSTDLCPPRTSVAVPQP--IAESCNELCPCVQQCADSRAVILPPPVVVTI
+PGPVLSTFPQESVVGSSGPAWLGRSFMPAPS----G----------SASPGAQPRLWGHR
+AGSAGRG---S-------------------------------------------------
+--------------------------------
+>ENSZALP00000010824 ENSZALG00000009112	108	None	scale	Zonotrichia_albicollis	710A	710	A
+---------------------------------------------------------MFS
+YRQSSSSR-------CLTPCGISCPQP--CADTWNQ--PCVTSCGDSRAVIHPPPVVITF
+PGPILSSCPQESIVGSSAPS-N--FLGS-----------------GN---------FLGS
+GGSY---GSYNYGRSYSS-------YGSS-------GSCRPC------------------
+--------------------------------
+>ENSACOP00000012601 ENSACOG00000008741	120	None	None	Amazona_collaria	710A	710	A
+---------------------------------------------------------MSF
+SRQQLSSR-------CSPPCEVACPQP--IANAWNQ--PCVTSCGDSRAVVYPPPVVITF
+PGPILSSCPQESVVGTSAPLEIGSSFGYGSS----QD-VQSSFGSGT---------SL--
+-------G-GRYSYPCYS-------RRYT---TYRSGSCGPC------------------
+--------------------------------
+>ENSANIP00000009469 ENSANIG00000006388	143	None	None	Accipiter_nisus	710B	710	B
+---------------------------------------------------------MSS
+YRQLCSYQ-------CSTPCEVACPQP--ITNAWNE--PCVTSCGDSRAVVYPPPVVITF
+PGPILSSCPQESVVGSSAPAPIGTSLGYGGS----YG-YRGSSAYGA---------SQ--
+-------E-SKFSYPYCS-------QRFS---TYRFRRCEPCQTQQEYTCTKS-SQDTER
+KIQTQE--------------------------
+>ENSACCP00020001231 ENSACCG00020000877	143	None	None	Aquila_chrysaetos_chrysaetos	710B	710	B
+---------------------------------------------------------MSS
+YRQLCSNQ-------CSTPCEVACLQP--IANACNE--PCVISCGDSRAVVYPPPVVITF
+PGPILSSCPQESVVGSSAPAAIGTSLGYGGS----YG-YRGSFAYEA---------SQ--
+-------E-SKFSYPYCS-------QRFS---SYRSRRCEPCQTQQEYTYTKS-SQDTEC
+KIQTQE--------------------------
+>ENSAPLP00020014252 ENSAPLG00020010384	143	None	None	Anas_platyrhynchos	710B	710	B
+---------------------------------------------------------MSS
+YRQLCNYQ-------SFNPCEVTCPQP--LASAWNE--PCITSCGDSRAVVYPPPVVITF
+PGPILSSCPQESIVGSSAPAGIWNSLGYGES----YG-YRGSLVYGG---------SQ--
+-------G-SKFSYPYCS-------QRFS---GYHFRKSEPCQTQQEYTCTKS-SQDSEC
+KIQTQA--------------------------
+>ENSACDP00005009528 ENSACDG00005006961	143	None	None	Anser_cygnoides	710B	710	B
+---------------------------------------------------------MSS
+YRQLCNYQ-------SFNPCEVACPQP--LASAWNE--PCITSCGDSRAVVYPPPVVITF
+PGPILSSCPQESVVGSSAPAGVWSSLGYGES----YG-YRGSLVYGG---------SQ--
+-------G-SKFSYPYCS-------QRFS---GYHFRKSEPCQAQQEYSCTKS-SQDSEC
+KIQTQA--------------------------
+>ENSDNVP00000008198 ENSDNVG00000005831	143	None	None	Dromaius_novaehollandiae	710B	710	B
+---------------------------------------------------------MSS
+YXQLCNYP-------CVTPCEVTCPQP--VADAWNE--PCVTSCGDSRAVIYPPPVVITF
+PGPILSSCPQESIVGSSAPXGIGSSLGYGGS----FG-YRGSLAYGG---------SL--
+-------G-TKFSYPYCS-------QRFS---CYSSRSYEPSKTQREYTYTKS-SQDTEC
+KIQTQE--------------------------
+>ENSCJPP00005017205 ENSCJPG00005014074	143	None	None	Coturnix_japonica	710B	710	B
+---------------------------------------------------------MSS
+YRQLCNYQ-------CFSPCEVACPPP--IANAWNE--PCITSCGDSRAVVYPPPVVITF
+PGPILSSCPQESIVGSSAPAGVWGSLGYGES----YG-YRSSLVHGG---------SQ--
+-------G-SKFSYPYCS-------QRFS---GYRSRKQEPCQTQQEYTCSKS-SQETEC
+KIQTQE--------------------------
+>ENSGALP00000047698 ENSGALG00000042032	121	None	None	Gallus_gallus	710B	710	B
+-----------------------------------------------------------M
+YSSLCNYQ-------CFTPCEVACPPP--IANAWNE--PCITSCGDSRAVVYPPPVVITF
+PGPILSSCPQESIVGSSAPAGVWGSLGYGES----YG-YRGSLVYGG---------SQ--
+-------G-SKFSYPYCS-------QRSS---SYHTSS--PCSSHSQ-------------
+--------------------------------
+>ENSNMEP00000003004 ENSNMEG00000003577	143	None	None	Numida_meleagris	710B	710	B
+---------------------------------------------------------MSS
+YRQLCNYQ-------CFTPCEVSCPPP--IANAWNE--PCVTSCSDSRAVVYPPPVVITF
+PGPILSSCPQESVVGSSAPAGVWGSLGYGES----YG-YGGSLVHGG---------LQ--
+-------G-SKFSYPYCS-------QRFS---GYRSRKCEPCQTQQEYTCSKS-SQETEC
+KIQTQE--------------------------
+>ENSPSTP00000011708 ENSPSTG00000008233	143	None	None	Pavo_cristatus	710B	710	B
+---------------------------------------------------------MSS
+YRQLCNYQ-------CFTPCEVACPAP--IANAWNE--PCVTSCGDSRAVVYPPPVVITF
+PGPILSSCPQESIVGSSAPAGVWGSLGYGES----YG-YRGSLVYGG---------SQ--
+-------G-SKFSYPYCS-------QRFS---GYRSRKCEPCQTQQEYTYSKS-SQETEC
+KIQTQE--------------------------
+>ENSPCLP00000021328 ENSPCLG00000018680	141	None	None	Phasianus_colchicus	710B	710	B
+---------------------------------------------------------MSS
+YRQLCNYQ-------CFNPCEVACPPP--IANTWNE--PCITSCGDSRAVVYPPPVVITF
+PGPILSSCPQESVVGSSAPAGVWGSLGYGES----YG-YRGSLVHGG---------LQ--
+-------G-NKFS--YCS-------QRFS---GYRSRKCEPCQTQQEYTCSKS-SQETEC
+KIQTQE--------------------------
+>ENSCPVP00000009530 ENSCPVG00000006987	126	None	None	Camarhynchus_parvulus	710B	710	B
+-----------------------------------------------------PHHSPAR
+CPQVCPDL--S--------CGVSCPQP--IAESSNE--PCVQQCPDSRALILPPPVVVTI
+PGPVLSTFPQESVVGSSGPALPGRSFSSRSS----Q----------G---------YGGS
+FGLGGSG---GYGAYAAPACSPCALPRYSKKLWDTCGPC---------------------
+--------------------------------
+>ENSMVIP00005018147 ENSMVIG00005012903	143	None	None	Manacus_vitellinus	710B	710	B
+---------------------------------------------------------MSC
+---FQSSG-------CSSPCQVTCPEPYPVADAWNE--PCVTSCGDSRAVIYPPPVVITF
+PGPILSSCPQESVVGSSAPAALGASLGSGGF----YG-SRGSFCSGV---------SQG-
+---------REFSSPYCS-------PRVG---GYRFRRWEPSQSQQEFSFSKSSSQSAEC
+KIQSQE--------------------------
+>ENSMUNP00000013939 ENSMUNG00000010868	167	None	None	Melopsittacus_undulatus	710B	710	B
+----------------------------------------------------------MS
+YRQLCNYQ-------CSTPCEVACPQP--IANAWNE--PCVTSCSDSRAVVYPPPVVITF
+PGPILSSCPQESIVGSSAPAAIGTSLGYGGS----YG-YRGSIVYGG---------SQ--
+-------E-SKFSYPYFS-------QRFT---GYRSR-YEPCQTQQEYTYTKS-SQDTEC
+KIQTQEVMLTDENWTALSSSQLQKKKRTLCLK
+>ENSSHBP00005000892 ENSSHBG00005000813	143	None	None	Strigops_habroptila	710B	710	B
+---------------------------------------------------------MSS
+YRQLCNYQ-------CSTPSEVACPQP--ITNAWNE--PCVTSCGDSRAVVYPPPVVITF
+PGPILSSCPQESIVGSSAPAAIGTSLGYGGS----YG-YRGSSVYRG---------SE--
+-------E-SKFSYPYFS-------QRFS---GYRSRRCEPCQTQQEYTCTKS-SQDTEC
+KIQTQE--------------------------
+>ENSACAP00000007435 ENSACAG00000007603	162	None	claw	Anolis_carolinensis	710B	710	B
+MANCGPASAVPSCEATPTVAFGSGGARGLGRGLVSGFGSNFGYGSGLVSGYGLGG-----
+--------------------NIESAANLGVLSGVNP--SCINQLPPSEAVINPPEIVVTL
+PGPILSATPEPLLVGGNTPCAVSGVGLSGLGDGSFGGLYGGLRGLGN---EYYGGLYGGR
+RG---------LGNGYYDGFY---------------------------------------
+--------------------------------
+>ENSACUP00000006879 ENSACUG00000004725	142	None	None	Athene_cunicularia	710B	710	B
+----------------------------------------------------------MS
+YRQLCTYP-------CSTPCEVTCPQP--IADAWNE--PCVTSCGDSRAVVYPPPVVITF
+PGPILSSCPQESVVGSSAPAAIGSSLGYGGS----YG-YRGSFAYGR---------SQ--
+-------E-SKFSYPYYS-------QRFS---GYRSRRCEPCPSQQEYTCTKS-SQDTEC
+KIQTQE--------------------------
+>ENSSCUP00000013641 ENSSCUG00000010022	113	None	None	Struthio_camelus_australis	710B	710	B
+---------------------------------------------------------MSS
+YRQLCNYP-------CSTTCEVTCPQP--IADAWNE--PCVTSCGDSRAVVYPPPVVITF
+PGPILSSCPQESVVGSSAPAGIGSSFGYGGS----FG-YRGSLGF---------------
+-----------YGRSYSP-------YGSS---RYGFGSCRPC------------------
+--------------------------------
+>ENSPSIP00000001386 ENSPSIG00000001389	137	None	None	Pelodiscus_sinensis	710B	710	B
+---------------------------------------------------------MSS
+CRELCYQPSPCWPDI--------CPDP--CAVARNE--PCITSCGDSTAVVYPPPVSVLF
+PGPILSTLPQHSVVGSTLPAIPYGARSSSGG----GI-LGGSLGYGGGYDGAYGGGYGGG
+IGAFGYGGLCGYGKRYGRRCY-----------PYRCGPCWPC------------------
+--------------------------------
+>ENSNPEP00000017691 ENSNPEG00000013149	121	None	None	Nothoprocta_perdicaria	710B	710	B
+---------------------------------------------------------MSC
+YRDLCSSS-------SVAPCRVSCPQP--LADTWNE--PCVTSCGDSRAVVYPPPVVITF
+PGPILSSCPQQSVVGSSAPSAIGSTLGYGAS----FG-HRGSLGPYG---------SG--
+-------SLYNYGRSYSS-------YGST---RYGFGSCRPC------------------
+--------------------------------

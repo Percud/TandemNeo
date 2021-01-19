@@ -1,0 +1,91 @@
+>ENSMMSP00000004965 ENSMMSG00000003733	141	LHB	None	Moschus_moschiferus	65A	65	A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------MEMLQGL-LL
+WLLLGVAGVWASRGPLRPLCQPINATLAAEKEACPVCITFTTSICAGYCPSMKRVLPAIL
+PPMPQRVCTYHELRFASVRLPGCPPGMDPMVSFPVALSCHCGPCRLSSTDCGGPRTQPLA
+CDHPPLPDILFL------------------------
+>ENSSSUP00005034213 ENSSSUG00005021981	158	None	None	Suricata_suricatta	65A	65	A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------METLQGL-LL
+WLLLNVAGVWASRGPLRPLCRPINATLAAENEACPVCITFTTTICAGYCPSMVRVLPAAL
+PPVPQPVCTYRELRFASIRLPGCPPGVDPMVSFPVALSCHCGPCRLSSSDCGGPRAQPLA
+CDAPHSRGSCSSKDPSPCLEPAAALHP-SQ------
+>ENSCJAP00000000359 ENSCJAG00000000216	164	CGB	Callithrix jacchus chorionic gonadotropin, beta polypeptide (LOC100391685), mRNA	Callithrix_jacchus	
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------MEMLQGL-LL
+CLLLSTGGAWASKEPLRPLCRPVNAILAAEKEGCPVCVAFNTTICAGYCSSMVRVLQTIL
+PPLPQSVCNYHELRFTSVRLPGCRPGVDPVVSMPVALSCRCGLCRRSYSDCGSLRNEPLG
+CDYSTFQDS-SSKDPPRNLTSPSQLLEPADPPLVPQ
+>ENSCATP00000043996 ENSCATG00000044502	167	None	choriogonadotropin subunit	Cercocebus_atys	65A	65	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------PSLSLSQGL-LL
+WLLLSVGGARASREPLRPLCRPINATLAAEKEACPVCITVNTTICAGYCPTMMRVLQAVL
+PPVPQVVCTYREVRFESIRLPGCPPGVDPVVSVPVALSCRCGLCRRSTSDCGGPKDHPLT
+CDDPHLQASSSSKDPPPSPPSPSRLLEPADTPFLPQ
+>ENSCSAP00000015282 ENSCSAG00000002763	181	None	None	Chlorocebus_sabaeus	65A	65	A
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------MGGPGHGAAVSDRAEALSLSQGL-LP
+WLLLSMGGARASREPLRPLCRPINATLAAEKEACPVCITVNTTICAGYCPTMMRVLQAVV
+PPVPQVVCTYREVRFHSIRLPGCPPGVDPMVSVPVALSCRCGLCRRSTSDCGGPKDHPLT
+CDDPHLQASSSSKDPPPSPPSPSRLLELAGTPFLPQ
+>ENSP00000301408 ENSG00000189052	165	CGB5	chorionic gonadotropin subunit beta	Homo_sapiens	65A	65	A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------MEMFQGL-LL
+LLLLSMGGTWASKEPLRPRCRPINATLAVEKEGCPVCITVNTTICAGYCPTMTRVLQGVL
+PALPQVVCNYRDVRFESIRLPGCPRGVNPVVSYAVALSCQCALCRRSTTDCGGPKDHPLT
+CDDPRFQDSSSSKAPPPSLPSPSRLPGPSDTPILPQ
+>ENSMMUP00000031532 ENSMMUG00000049714	165	None	choriogonadotropin subunit	Macaca_mulatta	65A	65	A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------VSLSQGL-LL
+WLLLSVGGARASREPLRPLCRPINATLAAEKEACPVCITVNTTICAGYCPTMMRVLQAVL
+PPVPQVVCNYREVRFESIRLPGCPPGVDPVVSVPVALSCRCALCRRSTSDCGGPKDHPLT
+CDDPHLQASSSSKDPPPSPPSPSRLLEPADTPFLPQ
+>ENSPANP00000003068 ENSPANG00000025361	148	CGB	chorionic gonadotropin, beta	Papio_anubis	65A	65	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------AQASREPLRPLCRPINATLAAEKEACPVCVTVNTTICAGYCPTMMRVLQAVL
+PPVPQVVCNYREVRFESIRLPGCPPGVDPMVSVPVALSCRCALCRRSTSDCGGPKDHPLT
+CDDPNLQASSSSKDPPPSPPSPSRLLEPAGTPFLPQ
+>ENSCWAP00000006050 ENSCWAG00000004661	141	None	None	Catagonus_wagneri	65B	65	B
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------MEMLQGL-LL
+WLLLHVAGVWASRGPLRPLCRPINATLAAENEACPVCITFTTSICAGYCPSMVRVLPAAL
+PPVPQPVCTYRELSFASIRLPGCPPGVDPMVSFPVALSCHCGPCRLSSSDCGGPRAQPLA
+CDRPPLPGLLFL------------------------
+>ENSPLOP00000014005 ENSPLOG00000010249	138	None	None	Panthera_leo	65B	65	B
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------MEMLQGLLLL
+WLLLNVGGVWTSRGPLRPLCRPINATLAAENEACPVCVTFTTTICAGYCPSMMRVLPAAL
+PPVPQPVCTYRELRFASVRLPGCPPGVDPVVSFPVALSCRCGPCRLSSPDCGGPRAQPLA
+CDRPPVRL----------------------------
+>ENSP00000403649 ENSG00000213030	165	CGB8	chorionic gonadotropin subunit beta	Homo_sapiens	65B	65	B
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------MEMFQGL-LL
+LLLLSMGGTWASKEPLRPRCRPINATLAVEKEGCPVCITVNTTICAGYCPTMTRVLQGVL
+PALPQVVCNYRDVRFESIRLPGCPRGVNPVVSYAVALSCQCALCRRSTTDCGGPKDHPLT
+CDDPRFQDSSSSKAPPPSLPSPSRLPGPSDTPILPQ
+>ENSMLEP00000028819 ENSMLEG00000038621	331	None	protein	Mandrillus_leucophaeus	65B	65	B
+MPGSWPNWHRTSTCVAHRIIPPVPFPPPTVQSRVADPLPPAAKQDSRIWAFDEVLSRWET
+TSGSAYVPKTHGGPCDQPRAQNLQTPRGLYRGCGLPLTTKYQRSERRAQYTGSPDQDACA
+PEYVGPQPLTSRRPPPVPKAYSPQNSRSASLKPALVGVGRASPTP----TRPLDRGG-AE
+LGTSKDVDAPASREPLRPLCRPINATLAAEKEACPVCITVNTTICAGYCPTMMRVLQAVL
+PPLPQVVCTYREVRFESIRLPGCPPGVDPVVSVPVALSCRCGLCRRSTSDCGGPKDHPLT
+CDDPHLQASSSSKDPPPSPPSPSRLPEPADTPFLPQ
+>ENSPPYP00000011454 ENSPPYG00000010231	155	None	choriogonadotropin subunit beta	Pongo_abelii	65B	65	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-MLLSMGRTWASKEPLRPRCRPINATLAVEKEGCPVCVTVNTTICAGYCPTMTRVLQSVL
+PPLPQVVCNYRDVRFEYIRLPGCPRGVNPVVSYAVALSCQCALCRRSTTDCGGPKDHPLT
+CDDPRFQDPSSSKAPPPSLPSPSRLPEPSDTPFLPQ

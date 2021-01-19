@@ -1,0 +1,560 @@
+>ENSATEP00000009142 ENSATEG00000006437	181	None	None	Anabas_testudineus	998A	998	A
+----------------------------------------------------------MM
+HLLLYNFTQMASSLYFVVLLCLTGGLWTGANA----------Q--G----------KDQS
+VNPDE-DGDCCVSCPP---GWTQFENNCYIF-YFSAKDWADAEVACIAV--GGNLAPVHN
+KEQLTFIEEMIKRS--------TGSEVPSWLGGHDA--VK-----EGVWLWSDGSKFDYK
+FWSAGEPSNGG-G--AENCMVNA-FSG----K--ANDLNCQN----KKSYVCGKSLY---
+------------------------------------------------------------
+---------------------------------------------------
+>ENSAMXP00000050589 ENSAMXG00000038186	160	None		Astyanax_mexicanus	998A	998	A
+------------------------------------------------------------
+------------MRNILVLLVIVMVPL---------------------------------
+AGTA----SVGRKCEY---GWERFGRNCYKY-ISVEKTWTASEQHCISL--GGNLASVHS
+LQTHNFLKRFSKTK--------AGKYVRTWIGGHDA--TE-----NFQWLWSDGTKFDFT
+AWLTDEPNNAG-N--AEHCVEMN-YGG---G-VLWNDARCNA----ALYSVCQKPAAVDY
+VM----------------------------------------------------------
+---------------------------------------------------
+>ENSACIP00000025509 ENSACIG00000019766	161	None	None	Amphilophus_citrinellus	998A	998	A
+------------------------------------------------------------
+----------MNMLTVCALVCT-IVAL----AG-----------------------SAAK
+THLV----KRSFRCGA---GWSEFNRRCFYY-IPKPLSWAKAEKTCVSL--GAHLASVHN
+FMEYHELQRLILSA--------SHEYKETWIGGTDA--QE-----ENQWFWSDGTTFHYT
+KWCSGEPNNSG-G--RQHCLRMN-HGG---E-KCWDDFGCYA----QKPSVCAKNM----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSHBUP00000011011 ENSHBUG00000012624	140	None	None	Haplochromis_burtoni	998A	998	A
+------------------------------------------------------------
+---------YPGNKTFLLLLCI--------------------------------TKTATK
+SYRF----NMSSGCPY---GWTHFNQRCFVY-IPRSMSWAHAERNCLSM--GAHLASVHS
+SSEYHHILK--LTG--------DHGYKETWIGGTDA--SE-----ENVWLWSDGTPFHYT
+HWCPGEPNNT--N--KQDCLQMN-YGG---N-SKHNI-----------------------
+------------------------------------------------------------
+---------------------------------------------------
+>ENSDCDP00000011786 ENSDCDG00000006672	222	None	galactose-specific lectin	Denticeps_clupeoides	998A	998	A
+MTGARGAVWHLS---GTLADRESNR-QPSDYGATSLTTRPPLGH-HCPTTG------QEE
+HLCT---FSFNNLSHVVTMGCSGGIKW----------------EEG----C-NISERVKG
+FVMN----VFAAPCGE---KWTPFGTHCFRL-FTRAADWAKAELVCRSY--GGHLASIHS
+TEEHSFLVGLVKKV----------RNISVWIGGSDA--AK-----EGTWVWSDGSKWDFT
+KWAPGEPNNAG-K--IQHCAQLW-DKS---N-MNVDDLSCGS----KLAYVCAKKA----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSCARP00000064678 ENSCARG00000028919	152	None	galactose-specific lectin	Carassius_auratus	998A	998	A
+------------------------------------------------------------
+----------MAMLRSLLLLFI-VFSMGK-------------------------------
+-AE-------VKKCPY---GWTHFGVRCYKF-FSQAVNWVTAERKCQSL--DANLASVHS
+KIEQDFLLSLLPS------------TTQCWIGTHDA--EQ-----EGEWLWTDGTPFDYT
+YWAPGQPDNKK----TENCGELT-YNYYGQSYDRWNDVPCLT----EQGYVCAKYL----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSDARP00000048549 ENSDARG00000069381	151	si	si ch211-125e6	Danio_rerio	998A	998	A
+------------------------------------------------------------
+----------MAMLRNLLLLSV-MFSLGN-------------------------------
+-AGI----GT-CQCPY---GWSKFGVKCYRF-ISQSVTWATAEKNCQSL--GANLASVHS
+KAEHDFLLSLIPS-----------SSTRCWIGGHDG--EN-----EGQWLWTDGSAIDYN
+NWCATEPNNQN----VENCMEMQ-WTV----NRCWNDQACST----SMGYMCAANL----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSSGRP00000105810 ENSSGRG00000052351	154	None	galactose-specific lectin	Sinocyclocheilus_grahami	998A	998	A
+------------------------------------------------------------
+----------MAMLRSFLLLFI-VFSMGN-------------------------------
+-AEV----NLVKKCPY---GWTNFGVRCYKF-FSQAVNWITAEKNCQSL--DANLASVHS
+KIEHDFLLSLLPS-----------SSTRCWFGTHDG--EQ-----EGQWLWTDGTPYDYT
+YWAPGQPDNKG-EPITENCGELN-FEN-----KGWNDGSCLS----PQGYICAKYL----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSCVAP00000031709 ENSCVAG00000021139	217	None	galactose-specific lectin	Cyprinodon_variegatus	998A	998	A
+MASAFRLVLLLSSIIGILTIKAVSEIKNNCFNFIKTDRLEAVFI-DVVEDG------RNM
+FNFGWEKTKISKLFVSA--QASAQSENFGE------------------------------
+----A-ASVCPAPCPP---GWTQFGSRCFIF-YYQSRTWSDAEKFCISI--GGNLASIHS
+LDENNFISEMVERQ--------TGYSRDTWIGGYDA--VS-----ENTWLWSDGSAFEFT
+HWHTNQPDNS--G--SQHCLEIN-YG-----GSHWNDIRCSM----GMPFVCARDI----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSPREP00000016940 ENSPREG00000011450	162	None		Poecilia_reticulata	998A	998	A
+------------------------------------------------------------
+----------MKLLAVFLLVSS-VVVQASETP--------------------------PP
+ICTT----QTSITCPS---GWTTINNRCFLY-VPKVMTWANAEKNCLSL--EANLASVHS
+KTEYHQVQALIVED--------SGESTEAWIGGSDG--QQ-----EKIWLWSDGSRMIYT
+NWCPGQPDNSK-D--NQNCLAMN-WSD---N-KCWDDHLCDV----SRPSVCVKKP----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSXMAP00000024150 ENSXMAG00000029831	118	None	None	Xiphophorus_maculatus	998A	998	A
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------FRY-FGTFRTWARAERDCLSL--GAQLASVHS
+FLEHHQIQNLISES--------GGGNQETWIGASDA--EE-----NSIWFWSDGTIFQFT
+SWCGGQPNNAG-G--KQSCVVMN-HSV---N-ACWNDEQCTA----SRPYVCVKKR----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSSORP00005003634 ENSSORG00005002187	108	None	galactose-specific lectin	Sphaeramia_orbicularis	998A	998	A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------MIDAEKACMSV--GGNLASIQN
+YGELSFIRRLIYRT--------LRSYRPAWIGLHDA--VQ-----ERQFMWTDGSRVRYT
+CWDRGEPNNLY-R--REHCTEVY-RS-----GIYWRDRPCYY----YRPYICARDR----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSLBEP00000034044 ENSLBEG00000025633	162	None	galactose-specific lectin	Labrus_bergylta	998A	998	A
+------------------------------------------------------------
+---------MVSGLKLIPLLCLTSGLWAAVVY----------------------------
+---GN-HSGSCKTCPS---GWTQFDGSCYMF-HFRDMDWADAERYCTTV--GGNLASVHN
+KEEYTFLKTTLQAV--------AGKQLAVWLGGYDA--VK-----EGVWLWSDGTFFDFK
+LWFKGEPNNYT-G--HENCMEMN-FRG----REYVNDSNCNV----KRSFFCEKRL----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSSFOP00015039501 ENSSFOG00015030748	177	None		Scleropages_formosus	998A	998	A
+------------------------------------------------------------
+----------MGPLSISVLLFTALVLSG----GF-A------APRAQEQRE-KSVIIEGY
+MENT----SATQGCPS---GWQKFNSRCFHY-ISQKTSWVHAQIHCIRF--SASLASIHS
+LQEYRFVQNVTRRL--------GNNFPLAWIGGTDA--PQ-----EGKWIWVDGTPFDFT
+KWTPGEPNNRG-G---ENCLEMN-FGD---Q-KLWNDISCKK----YNPSVCARQAS---
+------------------------------------------------------------
+---------------------------------------------------
+>ENSCGOP00000030963 ENSCGOG00000014445	175	None	neurocan core	Cottoperca_gobio	998A	998	A
+------------------------------------------------------------
+----------MYIKYYRCIYCQ-LTKLITEVSNF-L-----AVPEE----T-PENGQIVK
+SHLV----KRSTLGSG---RWTEFNRRYFYY-VPQLLSWTQAERNCQSL--GGNLASVHS
+VTEYHTLQILVLRA--------THKQEATWIGGSDG--EQ-----EKHWFWSDGTSFQYT
+NWCAREPNNAG-G--RQDCIQMN-YSV---K-KCWDDQKCTS----RLPSICAK------
+------------------------------------------------------------
+---------------------------------------------------
+>ENSGACP00000024643 ENSGACG00000018643	160	None	None	Gasterosteus_aculeatus	998A	998	A
+------------------------------------------------------------
+---------TMKLLTQTVLLCG-VMVL----T------------------------GAAE
+RHLV----KRSTYCCA---GWFPFHGRCFRY-NPTALSWAAAERSCQAL--GGNLASIHN
+LLEYHAVQYVVMRA--------CHRNRPTWVGGSDA--QE-----EKKWLWTDGSPFDYV
+FWSAGEPNNHG-G--KQHCLRMN-HGG---D-LAWDDVQCWV----KAPSVCAKR-----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSSAUP00010008770 ENSSAUG00010004346	161	None	galactose-specific lectin	Sparus_aurata	998A	998	A
+------------------------------------------------------------
+---------MGSALPLIVLLCLAIGQLDGRNV----------R--G--------------
+----S-SRGKVCRYGP---LWARYGSRYYVV-EPRSLTMADAELNCIRL--GGNLASIRS
+YSEHAWIRGLIRRV--------LRSYRYTWIGLFDA--VQ-----ERKWLWTDGTKVRYT
+RWYRGQPNNYR-G--IEDCTYI--NY-----GNYWNDYRCDY----KFPSVCVRRR----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSMALP00000019355 ENSMALG00000013423	175	None	None	Monopterus_albus	998A	998	A
+------------------------------------------------------------
+---------QEQLLPHSCLLTEPCPPLAP---HY-T-----TFPTK-------PCLFSAK
+SDLV----KRAVRCPNMHLIWSSFGRRCFYY-VPKPMSWARAEKNCRSM--RGSLASVHS
+LKEYHAIQSLIKYA--------THEDKEAWIGGTDA--PQ-----EGIWLWSDGTPFNYR
+H-C-GGFNNYK-G--QQHCLQMN-YGA---D-NCWDDVSCTI----DRPFVCAKKP----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSAOWP00000006942 ENSAOWG00000004782	201	None	None	Apteryx_owenii	998A	998	A
+------------------------------------------------------------
+-------MDWRSYWGLCLLGGLLLAPSLQGECPPRRRQPRVSAGTGQPCRC-PLASQR-P
+LRCPPAGEE-RAGCAK---GWFPFDGRCYGF-FPQELSWRRAEGFCQRLGTRTHLASIHS
+EEEHQAIISMLASSQPYSDSEEEEADDEVWIGLHRP--LG-----RRNWEWSDGTKMDYG
+SWYREV-FS---R--RRACAALE-DTT---DFATWDIELCSD----RKPFICEYRI----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSDNVP00000012142 ENSDNVG00000008562	120	None	None	Dromaius_novaehollandiae	998A	998	A
+------------------------------------------------------------
+------------------------------------------------------------
+-------EE-EIGCTS---GWVPFDGRCYGF-FPQELSWRRAESFCQRLGARTHLVSIHN
+EEEHQAIISMLASSQPYSDSEEQEANGDVWIGLRLS--L------RRLWEWSDGTKLDYG
+SWYRDV-LP---R--RRACAALE-DTA---------------------------------
+------------------------------------------------------------
+---------------------------------------------------
+>ENSCPUP00000018637 ENSCPUG00000012800	298	None	outer dense fiber of sperm tails	Calidris_pugnax	998A	998	A
+------------------------------------------------------------
+----------------MGCGGLSTPPSC---CRPSPGKG--QMGATRTLRL-SLLGCL-L
+LTPRLHGQE-AAACPS---GWVSFEEGCYGF-FPQELSWRRAEAFCRRFGVGTHLASVHS
+EEEHGAIATMLSSSHPAEGSEEGDKDNGVWIGLHRP--RR-----SKYWQWSDGSEVDYG
+SWHQQEHGS---R--RRVCAALQ-DST---GYHLHDPSRN------RAP-AYSFGVRAGG
+QQP--ERSPGPAYLVPPGTTTKGKDGIPAYSIHGRPHDLPPFRTPGPGCYSPERAGRLTL
+PCAPACSLRSRGRQFTTEETPGRRDGGRDGPPSTPGWAAITPGLRPPSPMG
+>ENSSCAP00000002755 ENSSCAG00000002393	110	None	None	Serinus_canaria	998A	998	A
+------------------------------------------------------------
+------------------------------------------------------------
+-----------TRCPR---GWLSFEGHCYGY-FGQQLSWRRAEAWCQAT-RGGHLASLHS
+PEEHRALAAFLARR------PEREKEENVWIGLHRR---------RQGWLWADGSPRHYW
+AWEGDD-GP---K--GHPCIALE-DSA---G-----------------------------
+------------------------------------------------------------
+---------------------------------------------------
+>ENSSHBP00005015994 ENSSHBG00005013972	173	None	C-type	Strigops_habroptila	998A	998	A
+------------------------------------------------------------
+-------MRAGPRLPPRLLGCLLLAACLGGCLGA-----------------------P-P
+-APAPAQGGRAASCPQ---NWHLFRGYCYGY-FTERLTWEEAEAECERHGPMGHLASIHS
+SGASRVLATYVKSH--------R-DGANTWIGLRDE--EH-----SRQWKWSDGSTFNYK
+SWDRGQPNNLW-D--IEDCVVLD-QLS---GFKLWHDYPCDN----RFPFLCQH-RL---
+------------------------------------------------------------
+---------------------------------------------------
+>ENSPVIP00000031705 ENSPVIG00000023309	161	None	C-type lectin	Pogona_vitticeps	998A	998	A
+------------------------------------------------------------
+---ILHWLLVLHYF--VLFSHPL--SSLS-------------------------------
+------TAE-ADTCAR---EWLQNQGNCYAY-FDHQLSWQEAEIECQSYGRGAHLASVLT
+KAETLLVAEHIATY--------QKQPSNVWIGLHDV--RQ-----TRKWRWADESTYNYK
+AWMIGEPDNYG-Q--NEHCVELV-FYT---GFTQWNDAECKK----RNAYICKHEL----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSSMRP00000008429 ENSSMRG00000006754	154	None	None	Salvator_merianae	998A	998	A
+------------------------------------------------------------
+-------MGFISAFSLFLLGVLMI-SSFP-------------------------------
+------GAK-AKTCPE---DWLEANGNCYGY-FDLPLTWYGAELECQSYSPETHLASIHT
+QAEADFLAQFIG-------------NQHAWXGLADT--QK-----KRKWRWADXSAYDYK
+AWLENQPNNSGG---TQNCVELINLEN---GKAAWNDVECRT----LNKFICKQ------
+------------------------------------------------------------
+---------------------------------------------------
+>ENSACIP00000025425 ENSACIG00000019689	165	None	None	Amphilophus_citrinellus	998B	998	B
+------------------------------------------------------------
+----------MNMLTVCALVCT-IVAL----TP-------------------YYLPHTAK
+TYLI----KRSLRCGR---GWFQFNGRCFYY-IPKPTSWAVAEKNCMSL--GGHLASVHN
+FMEYHKLQSLILRV--------SHDYKETWIGGSDA--QQ-----EGHWIWSDGTIFHYT
+NWCPGEPNNLS-G--QQNCLQMN-HSG---G-KCWDDLSCYN----ELPSVCAKNM----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSACLP00000023415 ENSACLG00000015904	147	None	None	Astatotilapia_calliptera	998B	998	B
+------------------------------------------------------------
+-------------IQLLTILCLFSL-----------------------------------
+-IFH----PSAATCPD---NWSEFGGRCFHY-VSVQMTWAEAEKNCQAM--KANLASVNN
+AEDNENIQKVIRAA--------SLNATRTWIGGTDC--QM-----NDLWLWSDGSHFLFS
+AWKPGQPDNWE-S--NESCIEIN-H-------GKWNDVKCST----QRPSMCAFTL----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSPNYP00000027352 ENSPNYG00000020625	151	None	None	Pundamilia_nyererei	998B	998	B
+------------------------------------------------------------
+------------MLTVSLLVC-ALI-----------------------------------
+-ALA----RADATCPD---NWSEFGGRCFHY-VSVQMTWAEAEKNCQAM--KANLASVKN
+AEDNQNIQKLIRAA--------SLNATRTWIGGTDC--QM-----NDLWLWSDGSHFLFS
+AWHPGLPDNWG-S--NEACIEIN-HGE---EEGKWNDVQCSS----QRPSVCALTL----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSCHAP00000053415 ENSCHAG00000024284	147	AFP	None	Clupea_harengus	998B	998	B
+------------------------------------------------------------
+------------MLTVSLLVCA-IVAL---------------------------------
+---T----RAADECPT---DWKMFNGRCFLF-NPLQLHWADAQESCMKE--GANLASIHS
+LEESTFVKELTS-----------ADLIPSWIGGTDC--QV-----STRWFWMDSTSMDYA
+DWCAAQPDTT--L--TECCIQMN-VGI---G-KCWNDTPCTH----LHSSICAKPLK---
+------------------------------------------------------------
+---------------------------------------------------
+>ENSCCRP00000043999 ENSCCRG00000023493	154	zgc	galactose-specific lectin	Cyprinus_carpio	998B	998	B
+------------------------------------------------------------
+----------MAMQRSLLLLFI-VFSMGN-------------------------------
+-AEV----NLVKKCPY---GWTNLGVRCYKF-FSQMVTWITAEKNCQSL--DANLASVHS
+KIENDFLLSLLPS-----------SSTRCWFGAHDG--EV-----EAQWLWTDGTLFDYT
+HWAPGQPDNKG-EPRTESCGELN-YEN-----NGWNDGTCLT----PQGYVCAKYL----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSDARP00000091691 ENSDARG00000038321	151	zgc	zgc	Danio_rerio	998B	998	B
+------------------------------------------------------------
+----------MAMLRNLLLLSV-MFSLGN-------------------------------
+-AGI----GT-CQCPY---GWSKFGVKCYRF-ISQSVTWATAEKNCQSL--GANLASVHS
+KAENDFLLSLIPS-----------SSTRCWIGGHDG--EN-----EGRWLWTDGSVIDYN
+NWCATEPNNQN----VENCMEMQ-WTV----NRCWNDQACST----SMGYMCAANL----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSKMAP00000003087 ENSKMAG00000002361	181	None	type-2 ice-structuring	Kryptolebias_marmoratus	998B	998	B
+------------------------------------------------------------
+----------MKMPTLPLLLCA-LVLLN------------------------------GV
+AESQ----GRRRLCPR---GWSPAYGRCFKY-VSRRLTWAQAERNCLSM--RGNLASIRS
+PGEYKAVQRIILRV--------DRKLPKAWIGGSDA--AQ-----EKMWLWSDGRRMTYT
+NWCRRQPDNAR-C--NEDCLEMN-YSG---K-KCWNDLNCAL----ARASVCVLKKRTFW
+RGGFRLRRVGRRILKKP-----------------------KF------------------
+---------------------------------------------------
+>ENSNMLP00000010439 ENSNMLG00000007184	173	None	None	Neogobius_melanostomus	998B	998	B
+------------------------------------------------------------
+---------MAANGPLIVFLCLTGALLTPGAV----------A--R--------------
+----P-PY-REFDCPG---DWSLFGTRCFRF-FEAEKTWTMAEKSCNNL--GGHLASIHT
+SWENNFISGLID--------------GPAWLGGHDM--DQ-----EGVWMWTDGSPWDYT
+NWWHGEPNNYG-G--IEDSLEIN-AHGHA--NTFWNDNLSAK----KKGYICAQDALIRD
+PWD--PITIGIPW-----------------------------------------------
+---------------------------------------------------
+>ENSEEEP00000032477 ENSEEEG00000015483	141	si	si ch211-125e6	Electrophorus_electricus	998B	998	B
+------------------------------------------------------------
+---------VMVMWKVCLLLCLLL------------------------------------
+-------DTVHSNCPH---QWTLYGRRCYRF-FTSRLTWYEAECACVNN--GGSLASVHS
+VAEYKFLQTLVKRV--------SGFLAVSWLGGYDNLSVQ-----EGHWLWSDGSKVNFN
+YWVSNQPDNYN-G--MENCLEMN-YGE----KLYLRHFMF--------------------
+------------------------------------------------------------
+---------------------------------------------------
+>ENSMMDP00005000690 ENSMMDG00005000435	157	None	None	Myripristis_murdjan	998B	998	B
+------------------------------------------------------------
+---------MTSAFLFALGLCLASVLV---------------------------------
+------TGDEEPCCPF---GWTKFGSRCFNF-NYNSKIWADAERTCISF--GGNLASVHS
+LEELNLLKAWMNRV--------TSHLAQTWIGGHDA--VK-----EGVWLWSDGSSLNFT
+QWAHGQPNNS--G--DEDCVEIL-CE-----RKLKH-IRRSREQLTGNRHTAQREQK---
+------------------------------------------------------------
+---------------------------------------------------
+>ENSSTUP00000004938 ENSSTUG00000002450	168	None	None	Salmo_trutta	998B	998	B
+------------------------------------------------------------
+---------SWPYAGQGLLSLEPSEELGVEKS----------------------MSLEEE
+QVKT----ESSGVCPT---GWFNHGHRCFTY-IRTERTWAESEQYCVFQ--GANLASIHS
+TEENHFIQEMIRRQ--------THDFPRAWIGGQDA--TQ-----ERLWLWSDGCRFYYR
+DWSNVQPDNAG-G--NENCLHIN-YGE---E-KRWNDIVCRM----KLPSVCSMKL----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSMAMP00000012919 ENSMAMG00000008716	140	None	None	Mastacembelus_armatus	998B	998	B
+------------------------------------------------------------
+--------------------------------------------------S-NSCKTQHY
+AFCLS-SGFFPPLCKW---GWTRIKFRCYIF-VPR--------RNCHTL--GGNLAPVRD
+SQENGAFQNLIG------------QSKAAWIGGTDA--QQ-----EGKWRWTDGTAFTYT
+NWAPGQPDNWQ-G--NENCLHIT-TEG---R-RFWNDLDCQT----PLPSVCIKKLY---
+------------------------------------------------------------
+---------------------------------------------------
+>ENSHCOP00000012520 ENSHCOG00000015548	165	None		Hippocampus_comes	998B	998	B
+------------------------------------------------------------
+---------MEFALHSLFLLCG-ISGLLT---GV-W-----AFPSK--------------
+-------KSNDLFCPK---GWTLLDCNCYVY-EDEPRTFADAEAVCNIL--GGNLVSIHS
+DLENAVVQQLILAG--------TNDDDEAWIGLHDT--IL-----EDDFIWTDGTVEDFL
+NFGPGQPNALN-G----NCVAMD-ETN-----GQWESALCTD----DDEYVCIKEAHRVF
+H-----------------------------------------------------------
+---------------------------------------------------
+>ENSTTRP00000004177 ENSTTRG00000004438	149	None	None	Tursiops_truncatus	998B	998	B
+-------------------------------------------------------MMPSM
+GL---------PSLSWMLPSCLLLLSQVQGEDSQ----------K---------------
+-EL----PSAWISCPR---GSMAYASYCYAL-FITP-SWMDTDMACQKR-PSGHLVSVLS
+GAEGSFISSLLRTI--------NS--SDVWIGLHDP--TEGSEPSAGGWEWSSTDVLNYV
+AWERNPATISN----PGYCRLSR-NT----------------------------------
+------------------------------------------------------------
+---------------------------------------------------
+>ENSDNOP00000001133 ENSDNOG00000001470	175	None	regenerating islet-derived protein	Dasypus_novemcinctus	998B	998	B
+-------------------------------------------------------MLLPM
+AL---------SSVSWMLLSCLMLLSQVQGEDPK----------M---------------
+-EL----PSVRISCPK---GSKAYGLYCYAL-FLNPKSWMDADMACQKR-SSGHLVSVLS
+GAEGSFVASLIKSS--------LNSYSYIWIGLHDP--TQGLEPNAGGWEWSSTDVMNHL
+AWERNPSTVSN----PGHCGTVS-QST---GFLKWRDFNCDA----SLPYICKFKD----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSPCAP00000007830 ENSPCAG00000008374	164	None	None	Procavia_capensis	998B	998	B
+-------------------------------------------------------VLLPM
+AL---------PTTSWTLL------SLVQGEDSP----------K---------------
+-EH----SSAQISCPR---GSKTDSRY--AL-FLA-KPQVDVDMTYQKP-FSGHLMSVLN
+APKASFIASLVKST--------SNIYANIWIGLHGP--TPGLQPRAGRWEWSGTQVLDYF
+AWERHPSTILN----SGYCGIQS-W-T---GFLK--KDKCNQ----RSPCVCQLKNQ---
+------------------------------------------------------------
+---------------------------------------------------
+>ENSOPRP00000012257 ENSOPRG00000013443	166	REG1A	regenerating family member 1	Ochotona_princeps	998B	998	B
+-----------------------------------------------------------M
+AL---------TSSYLVVVSCLMILSQ--------------------------VRGQEDE
+PAE----PIPKNTCPE---GANSFGSYCYFH-YQFSETWTDADLYCQNM-HSGNLVSVVN
+QAEGDFVASLVKES--------GTSDSKVWIGLYDP--NK-----NRRWRWSSGSLYSYQ
+AWAVGSPATTN----PGYCVVLT-SDS---EYKKWKDYSCDK----KRSFVCKFKN----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSOCUP00000021346 ENSOCUG00000027194	182	REG1A	regenerating family member 1	Oryctolagus_cuniculus	998B	998	B
+-----------------------------------------------------------M
+AR---------TTSYLMLISCLMCLSQGQEFILP----------HGSPLNPSRFPGQEEQ
+PQQ----PSPKNRCPE---GTNAYGSYCYFF-YQHPETWVDADLFCQNM-HSGNLVSVIN
+QAEGDFVASLIKES--------GTNDLKVWIGLHDP--NK-----NRRWRWSSGSLFSYR
+SWVVGYPRTTN----PGYCVILS-SDS---GYKKWKDESCEI----KLSFVCKFKN----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSCHOP00000004686 ENSCHOG00000005289	175	None	None	Choloepus_hoffmanni	998B	998	B
+-------------------------------------------------------MLPPM
+AC---------SSASWVLLSCLMLLSQVQGKDLQ----------E---------------
+-EL----PSPRISCPK---GSKAYGSYCYAL-FLTPKAWMDADMACQKR-PSGHLVSVLS
+GAEGSFVASLVKSQ--------VNSYSYVWIGLHDP--TQXXXXXXXXXXXXXXXXXXXX
+XWERNPSSVSN----PGYCGAVS-RST---GFLNWRDYNCDA----SLPYICKFKD----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSCJAP00000031311 ENSCJAG00000047062	97	None	None	Callithrix_jacchus	998B	998	B
+------------------------------------------------------------
+---------------------LLIVSSFSGQEAQ----------T---------------
+-GL----PQARISCPE---GTNAYRSYCYYF-NEDRETWVDADLYCQNM-NSGNLVSVLT
+QSEGTFVASLIKKR--------GTDDFNVWIGLRDP--KK-----VGC------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------
+>ENSCATP00000023102 ENSCATG00000035124	174	REG3G	regenerating family member 3	Cercocebus_atys	998B	998	B
+-------------------------------------------------------MLPPM
+AL---------PSLSWMLLSYFVLL-SLQGEEPQ----------K---------------
+-EL----PSARIRCPK---GSKAYGSHCYAL-FLTPKSWMDADLTCQKR-PSGNLVSVLS
+GAEGSFVSSLVRSI--------SNSYSYVWIGLHDP--TQGSEPDGDGWEWTGTDVMNYF
+AWEKNPSTILN----SGHCGSLS-RST---GFLKWKDYNCDA----KLPYVCKFKD----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSGGOP00000003061 ENSGGOG00000003112	166	REG1B	regenerating family member 1	Gorilla_gorilla	998B	998	B
+-----------------------------------------------------------M
+AQ---------TNSFFMLISSLMFLSLSQGQESQ----------T---------------
+-EL----PNPRISCPE---GTNAYRSYCYYF-NEDPETWVDADLYCQNM-NSGNLVSVLT
+QAEGAFVASLIKES--------STDDSNVWIGLHDP--KT-----NRRWHWSSGSLVSYK
+SWDTGAPSSAN----AGYCASLT-SCS---GFKKWKDESCEK----KFSFVCKFKN----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSP00000303206 ENSG00000172023	166	REG1B	regenerating family member 1	Homo_sapiens	998B	998	B
+-----------------------------------------------------------M
+AQ---------TNSFFMLISSLMFLSLSQGQESQ----------T---------------
+-EL----PNPRISCPE---GTNAYRSYCYYF-NEDPETWVDADLYCQNM-NSGNLVSVLT
+QAEGAFVASLIKES--------STDDSNVWIGLHDP--KK-----NRRWHWSSGSLVSYK
+SWDTGSPSSAN----AGYCASLT-SCS---GFKKWKDESCEK----KFSFVCKFKN----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSMMUP00000075476 ENSMMUG00000061134	174	REG3G	regenerating family member 3	Macaca_mulatta	998B	998	B
+-------------------------------------------------------MLPPM
+AL---------PSLSWMLLSYFVLL-SLQGEEPQ----------K---------------
+-EL----PSARIHCPK---GSKAYGSHCYAL-FLSPKSWMDADLTCQKR-PSGNLVSVLS
+GAEGSFVSSLVRSI--------SNSYSYVWIGLHDP--TQSSEPDGDGWEWSSTDVMNYF
+AWEKNPSTILN----PGHCGSLS-RST---GFLKWKDNNCDA----KLPYVCKFKD----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSMLEP00000019372 ENSMLEG00000033910	174	REG3G	regenerating family member 3	Mandrillus_leucophaeus	998B	998	B
+-------------------------------------------------------MLPPM
+AL---------PSLSWMLLSYFVLL-SLQGAELQ----------K---------------
+-EL----PSARIRCPK---GSKAYGSHCYAL-FLSPKSWMDADLTCQKR-PSGNLLSVLS
+GAEGSFVSSLVRSI--------SNSYSYVWIGLHDP--TQDSEPDGDGWEWTGTDVMNYF
+AWEKNPSTILN----PGHCGSLS-RST---GFLKWKDYNCDA----KLPYVCKFKD----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSMICP00000047496 ENSMICG00000045520	166	None	regenerating family member 1	Microcebus_murinus	998B	998	B
+-----------------------------------------------------------M
+AQ---------TSSCLILLSCLTFLSLSQGQETQ----------P---------------
+-DL----PNARISCPE---GTNAYRSYCYYF-NEDRETWVDADLFCQNM-HSGNLVSVLT
+QAEGAFVASLIKES--------GTNDYNVWTGLYDP--KK-----NRRWHWSSGSLVSYK
+SWDIGAPSTVS----PGYCASLS-SSS---GYRKWRDQNCDA----KFSFVCKFKN----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSPTRP00000020783 ENSPTRG00000012113	166	REG1B	regenerating family member 1	Pan_troglodytes	998B	998	B
+-----------------------------------------------------------M
+AQ---------TNSFFMLISSLMFLSLSQGQESQ----------T---------------
+-EL----PNPRISCPE---GTNAYRSYCYYF-NEDPETWVDADLYCQNM-NSGNLVSVLT
+QAEGAFVASLIKES--------STDDSNVWIGLHDP--KK-----NHRWHWSSGSLVSYK
+SWDTGAPSSAN----AGYCASLT-SCS---GFKKWKDESCEK----KFSFVCKFKN----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSPPYP00000013661 ENSPPYG00000012250	166	REG1B		Pongo_abelii	998B	998	B
+-----------------------------------------------------------M
+AQ---------TNSFFMLISSLMFLSLSQGQESQ----------T---------------
+-EL----PNPRISCPE---GTNAYHSYCYYF-NEDPETWVDADLYCQNM-NSGNLVSVLT
+QAEGAFVASLIKES--------STDDSNVWIGLHDP--KK-----NRRWHWSSGSLVSYK
+SWDTGAPSSAN----AGYCASLT-SCS---GFKKWKDESCEK----KFSFVCKFKN----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSTGEP00000023762 ENSTGEG00000019208	174	REG3G	regenerating family member 3	Theropithecus_gelada	998B	998	B
+-------------------------------------------------------MLPPM
+AL---------PSLSWMLLSYFVLL-SLQGEEPQ----------K---------------
+-EL----PSARIRCPK---GSKAYGSHCYAL-FLSPKSWTDADLTCQKR-PSGNLVSVLS
+GAEGSFVSSLVRSI--------SNSYSYVWIGLHDP--TQGSEPDGDGWEWTGTDVMNYF
+AWEKNPSTILN----PGHCGSLS-RST---GFLKWKDYNCDA----KLPYVCKFKD----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSDORP00000021072 ENSDORG00000026814	167	None		Dipodomys_ordii	998B	998	B
+-----------------------------------------------------------M
+AK---------TNTFLILIPCLIFLSVSHGQEAE----------S---------------
+-DL----PSPRMSCPE---GSIFYGSHCYYYNYLDQLTWADADIYCQSF-ESGHLVSVLN
+QSEGNFVASLINDS--------GVRNSFIWIGFYDP--KK-----NRRWHWSNSSPVTYK
+AWTSGSPNNNN----PGYCAALA-SNE---GYKKWKDLSCEQ----TYSFVCKFKG----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSSTOP00000003192 ENSSTOG00000003573	166	REG1A	regenerating family member 1	Ictidomys_tridecemlineatus	998B	998	B
+-----------------------------------------------------------M
+AQ---------TSSYLMLITCLMFLSLSQGQDYE----------A---------------
+-HH----PIHHISCPE---GTHSYGSHCYYF-YEDRLTWIEADLFCQNT-HAGHLVSLLT
+QSEGNFVASMIKES--------GTTDSSVWIGLHDP--KK-----THLWHWSSGSLYTYK
+AWAPGSPNIAN----RGYCVSLT-AKS---GFKLWKDTNCEA----HMSFVCKFNS----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSMUGP00000018818 ENSMUGG00000015955	173	Reg2		Meriones_unguiculatus	998B	998	B
+-----------------------------------------------------------M
+AQ---------KNAYFILSTCLMFLSFSQGQGAA----------DDLLL---------AE
+SDL----PSVKINCPE---GANAYGSYCYYF-IEDRLTWGEADLFCQNM-NSGHLVSVLS
+QAESNFVASLVKES--------GTTVSNVWTGLHDP--KN-----NRRWHWSSGSLFLYK
+SWATGAPSTAN----RGYCVTLT-SNT---AYKKWKDENCDA----QYPFVCKFKA----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSMAUP00000001062 ENSMAUG00000000796	173	Reg2		Mesocricetus_auratus	998B	998	B
+-----------------------------------------------------------M
+AQ---------TNIYYVLFPCLMLLSCSQGQKAE----------ESMPM---------DE
+KDL----PSARINCPE---GANAYGSYCYYF-IEDCMAWGEADLFCQNM-NSGHLVSVLS
+QAEGTFVASLVKES--------GITVSNVWIGLHDP--KN-----NRRWHWSSGSLFLYK
+SWATGAPSTSN----RGFCVSLT-SNT---AYKKWKDENCDA----LYSFVCKFKS----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSMOCP00000022364 ENSMOCG00000019434	173	Reg2	regenerating family member 1	Microtus_ochrogaster	998B	998	B
+-----------------------------------------------------------M
+AQ---------NNACYILFACLMLLACSQGKLAE----------EGLPT---------LE
+KDL----PSAMNNCPE---GANAYGSYCYYF-VEDRLTWGEADLFCQNM-NSGHLVSVLS
+QAEGNFVASLVKES--------GTTNAYVWIGLHDP--KN-----NRRWHWSSGSVFLYK
+SWATGAPSTNN----RGYCVALT-SNT---AYKKWKDENCDS----LYSFVCKFKN----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSMUSP00000145161 ENSMUSG00000059654	165	Reg1	regenerating islet-derived	Mus_musculus	998B	998	B
+------------------------------------------------------------
+MA---------RNAYFILLSCLIVLSPSQGQEAE----------E---------------
+-DL----PSARISCPE---GSNAYSSYCYYF-TEDRLTWADADLFCQNM-NSGYLVSVLS
+QAEGNFVASLIKES--------GTTDANVWTGLHDP--KR-----NRRWHWSSGSLFLYK
+SWATGSPNSSN----RGYCVSLT-SNT---GYKKWKDDNCDA----QYSFVCKFKG----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSPEMP00000011132 ENSPEMG00000011894	173	None	regenerating islet-derived	Peromyscus_maniculatus_bairdii	998B	998	B
+-----------------------------------------------------------M
+AQ---------NNAYPILFACLMLLSCSQGQKAE----------EGLPM---------DE
+KDL----PSARINCPE---GANAYGSYCYYF-IEDRMTWGEADLFCQNM-NSGHLVSVLS
+QAEGNFVASLVKES--------GATATNVWIGLHDP--KN-----NRRWHWSSGSLFLYK
+SWATGAPSTNN----RGFCVSLT-SNT---AYKKWKDENCDS----QYSFVCKFKS----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSRNOP00000054678 ENSRNOG00000006486	165	Reg1a	regenerating family member 1	Rattus_norvegicus	998B	998	B
+------------------------------------------------------------
+MT---------RNKYFILLSCLMVLSPSQGQEAE----------E---------------
+-DL----PSARITCPE---GSNAYSSYCYYF-MEDHLSWAEADLFCQNM-NSGYLVSVLS
+QAEGNFLASLIKES--------GTTAANVWIGLHDP--KN-----NRRWHWSSGSLFLYK
+SWDTGYPNNSN----RGYCVSVT-SNS---GYKKWRDNSCDA----QLSFVCKFKA----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSSPUP00000012235 ENSSPUG00000009400	176	None	None	Sphenodon_punctatus	998B	998	B
+------------------------------------------------------------
+-------MAFHGSLYVLLFIFII-QGTSSQNC----------------------------
+-------LCARGFCDE---GWVQYRNACYMH-VKEPANWMEAEVICQNHNRNSHLASIHS
+AEENDFIFHLMGKP------LDYTKGKAYWIGAHDT--FK-----EGTFMWADGSLFDFQ
+TFGPNQPDGLPG---EHYLGSWS-LQN---GFVTWNDFGISW----KFPFVCKYSMRDSR
+CHS--NSCF---------------------------------------------------
+---------------------------------------------------
+>ENSACAP00000010911 ENSACAG00000011120	158	None	C-type lectin	Anolis_carolinensis	998B	998	B
+------------------------------------------------------------
+----------MDRFLSCTLGFVMVGLSLQ-------------------------------
+------DAA-VKSCPP---ELLSYRKDCYKF-FSFKVSWIEAEKICQDYMPGAHLTSVDS
+FAEMSEIDTYVLDN--------YNYFENVWIGLYRV--GK-----KIKWFWSDGSSSRYR
+YWDEGEPNNKN-Y--RENCVELL-HDT---GFRYWNDEDCDS----KRRFLCKYKL----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSLLTP00000009933 ENSLLTG00000007597	140	None	None	Laticauda_laticaudata	998B	998	B
+------------------------------------------------------------
+----------MGQFIIVNLSLLVMALSLR-------------------------------
+------GVK-GCCCPD---DWLSMNGFCYKV-NDELKTWNHAEMFCRKLKPGCHLASIHN
+VAESADLAEYISDY--------LKGSGNVWIGLNDP--QK-----KRTWEWSDRSLTNYF
+SWNSGEPNNQH-N--KEYCVELL-TKT---GTPR--------------------------
+------------------------------------------------------------
+---------------------------------------------------
+>ENSNSUP00000001944 ENSNSUG00000001653	172	None	C-type lectin	Notechis_scutatus	998B	998	B
+------------------------------------------------------------
+----------MAQFIVVSFSLLVVALSLR-------------------------------
+------GTGADHHCPS---GWASYNEFCYMV-YNRSVTWNNAERFCLQQETNCHLASIHS
+KPEAAFIVRLVYHR--------ASAGSSVWIGLNDP--EK-----RRTWQWSDGSSIRYR
+SWMPGEPNNHA-N--NENCVVLS-VWS---RYVGWNDQDCGS----RHNFVCKFQARTET
+NTV--NVTSRK-------------------------------------------------
+---------------------------------------------------
+>ENSPMRP00000018962 ENSPMRG00000012395	159	None	None	Podarcis_muralis	998B	998	B
+------------------------------------------------------------
+-------MGVVTYF--CLLGLLVS-YSFP-------------------------------
+------GAR-ARSCPS---GWLRALGNCYAY-FDSPKSWYEAEIACQSHGRGTHLASIHT
+EQETALVANHIFSK--------QKRKYNVWIGLHDS--NE-----NQDWKWLDDSVFNYN
+NWNRGEPNNYKGG--KEYCVELK-RWT---GFREWNDEPCHH----LNTYICKKEL----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSCPBP00000011531 ENSCPBG00000008773	224	None	None	Chrysemys_picta_bellii	998B	998	B
+-----------------------------------MPRVRPVSHAGCTWTGLAPEQLPSE
+TIRGSEKMGPVAYFSLCLLGCLIFNPLLE-------------------------------
+------GVQ-GVACPR---SWLPFHDSCYRY-VPQEKTWMEAEADCQNHWHGAHLISIHS
+AEENNILADYMKWN--------LTKNSPVWIGLSDP--ME-----DQSWRWTDESPVSFR
+AWEKGQPNNQN-S--NEHCVVLE-RPG---KSVNQTHMHLQG---------EPWQPSDH-
+TGP--EIRSRLAP---------CSSLFPAPCWEGSQER-PPCMTW---------------
+---------------------------------------------------
+>ENSPSIP00000008655 ENSPSIG00000007909	165	None		Pelodiscus_sinensis	998B	998	B
+------------------------------------------------------------
+-----CFMLLHTH---FSFLFLMLGTYSQGNC----------------------------
+-------LCARGFCDE---GWVQYKDSCYKA-EMTPTKWTDAEVACQSQKKHAHLASIHS
+AEENDFIFHLMGKL------QDYTKGQAYWIGGHDT--FK-----EGSFMWTDGSKYDFQ
+NYGSGQPDGLPG---ENYLGSWR-VQK---GLVTWNDYDASW----SFPFVCKYPL----
+------------------------------------------------------------
+---------------------------------------------------
+>ENSNPEP00000019528 ENSNPEG00000014551	194	None	None	Nothoprocta_perdicaria	998B	998	B
+------------------------------------------------------------
+-----------SSTP--ISSLPIPSPLRAGCEG---------------------------
+-CSSPAELGASSSCPS---HWLSYRGHCYGY-FTQRKTWQQAEKECERYGPRGHLASVHT
+FPERKVLAKYVAQH--------L-QPGNVWIGLHDE--EH----QERSWKWSDNSVLSFQ
+GWAQGQPDNVN-D--NEDCVVLD-SDS---RRH---RGRCGD----KAVVDTGVMDMEGG
+DGY--RGVMDMEE---------DD-GHGGRVIDGVMDT-RK-------------------
+---------------------------------------------------

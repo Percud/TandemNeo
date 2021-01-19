@@ -1,0 +1,795 @@
+>ENSATEP00000029922 ENSATEG00000020661	102	None		Anabas_testudineus	571A	571	A
+------------------------------------------------------------
+---------------------------------------MQ--KMMSSRVIVVAVVVLLT
+SLAVSEGM--SLR---SMGVELHCRCIKTESKPIG-RHIEKVELIPANSHCEETEVIATL
+K----STGLQVCLDPHAPWVKKVIQKILANKPQ---------------
+>ENSENLP00000046728 ENSENLG00000019795	99	None	growth-regulated alpha	Echeneis_naucrates	571A	571	A
+------------------------------------------------------------
+--------------------------------------------MNSSRAMVIAVLVLLA
+HLEVSEGM--SLR---SLGVELHCRCIQTESKPIG-RHIERVELIPPNSHCEETEIIATL
+K----KTGQEVCLNPDASWVKRVIQKILSSRRR---------------
+>ENSCCRP00000000774 ENSCCRG00000000541	129	None		Cyprinus_carpio	571A	571	A
+------------------------------------------------------------
+---------------MRTE-FTNRSDHLRYLASKPLIYFYFLLVFGRMHFKIFSVIVFLG
+FLTIGEGM--SLR---GLGVDPRCRCIETESQRIG-KLIESVELFPPSPHCKDTEIIATL
+K----VSRKEICLDPTAPWVKKVIEKIIANKTPAA-------------
+>ENSGAFP00000007211 ENSGAFG00000004899	99	None	None	Gambusia_affinis	571A	571	A
+------------------------------------------------------------
+--------------------------------------------MKINKIITLSVLVFLI
+YLAISEGM--SLR---SLGVELHCRCIQTESRPIG-RHIEKVELIPANSHCEKTEIIATL
+K----KDGQEVCLDPEALWVKKVIQRIMSNKKR---------------
+>ENSXMAP00000041200 ENSXMAG00000026893	99	None		Xiphophorus_maculatus	571A	571	A
+------------------------------------------------------------
+--------------------------------------------MKKSSIITLSVLIFLT
+FPTISEGM--SLR---SLGVELHCRCIQTESRPIG-RHIEKVELIPANSHCEETEIIATL
+K----KNGQEVCLDPEALWVKKIIQRIMSNKKR---------------
+>ENSPKIP00000038612 ENSPKIG00000016310	98	None	permeability factor	Paramormyrops_kingsleyae	571A	571	A
+------------------------------------------------------------
+-------------------------------------------MNCRL--VVAVFTVLLT
+ALTITEGM--SMR---GLGMELRCRCIQTESQRIG-RLIESVEIFPPSQHCKDTEIIATL
+K----ETGQEICLDPNAPWVKKTIERILANKKP---------------
+>ENSOTSP00005081408 ENSOTSG00005038285	97	None	permeability factor	Oncorhynchus_tshawytscha	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MSIRMSASLVVVLLA
+LLTITEGM--SLR---GMGADLRCRCIETESRRIG-KLIKKVEMFPPSSHCRDTEIIATL
+S----KSGQEICLDVSAPWVKKVIEKILANNK----------------
+>ENSSTUP00000009871 ENSSTUG00000004785	95	None	permeability factor	Salmo_trutta	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MSIRMSASLVVVLLA
+LLTITEGM--SLR---GVGADLRCRCIETESRRIG-KLIKKVEMFPPSSHCRDTEIIATL
+S----NSGQEICLDVSAPWVKRVIEKMLAK------------------
+>ENSHCOP00000001793 ENSHCOG00000002821	99	None		Hippocampus_comes	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MMSKVILSALLVLLA
+SVAISEGM--TLR---SLGVELHCRCIQTESRPIG-RHIEKVELIPANSHCQETEIIATL
+K----KTGQEVCLDPAAHWVKRVIERILNNSKRR--------------
+>ENSANIP00000006385 ENSANIG00000004326	95	None	None	Accipiter_nisus	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MAGKAVAAVLTLLLI
+SAVGTKGK--ALP---RSAIELRCQCPSTHSKFIHPKFIQNVNLTPSGPHCKNVEVIATL
+T-----DGREVCLEPTAPWVKLIIKAILDK------------------
+>ENSACCP00020000609 ENSACCG00020000419	95	None	None	Aquila_chrysaetos_chrysaetos	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MTGKAVAAVLTLLLI
+SAVGTKGK--ALP---RSAIELRCQCPSTHSKFIHPKFIQNVNLTPSGPHCKNVEVIATL
+T-----DGREVCLEPTAPWVKLIIKAILDK------------------
+>ENSAPLP00020015260 ENSAPLG00020011067	204	None	None	Anas_platyrhynchos	571A	571	A
+MFYLVLISKEFSVDEKQFVVIEGRGFTRATVTHSTTESYRFRSFHGYDPCMTLEDAGGPG
+QYITRAGTR---VQILATL-R-ALGALLTSLHDQTPVTPGRNSLIMMGKVVAAGMALLLI
+SVIGTEGM--ALA---RSGIELRCQCIETHSKFIHPKFIQNVNLTPSGPHCKNVEVIATL
+K-----DGREVCLDPTAPWVKLIIKAILDKANTRPDNLS---------
+>ENSACDP00005018585 ENSACDG00005013513	106	None	None	Anser_cygnoides	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MTGKVVAAGMALLLI
+SVIGTKGM--ALA---RSGIELRCQCIDTHSKFIHPKFIQNVNLTPSGPHCKNVEVIATL
+K-----DGREVCLDPTAPWVKLIIKAILDKDLDTEAQTLSG-------
+>ENSAOWP00000019596 ENSAOWG00000013307	96	None	None	Apteryx_owenii	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MKGKVVAAVLTLLLI
+SVVGTKGK-EALA---RSGIELRCQCISTHSKFIHPKFIQNVNLIPSGPHCQNVEVIATL
+K-----XGREVCLEPTAPWVKLIIKAILDK------------------
+>ENSDNVP00000000910 ENSDNVG00000000683	95	None		Dromaius_novaehollandiae	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MKGKVVAAVLTLLLI
+SVVGAKGK--ALA---RSGIELRCQCISTHSKFIHPKFIQNVNLTPSGPHCQNVEVIATL
+K-----DGREVCLEPTAPWVKLIIKAILDK------------------
+>ENSCPUP00000004502 ENSCPUG00000003328	104	None		Calidris_pugnax	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MTGKAVAALLALLLI
+SAEGTKGE--AMP---RSAVELRCQCVGTHSKFIHPKFIQNVNLTPSGPHCKNVEVIATL
+R-----DGREVCLEPTAPWVKLIIKAILDKANANPATLS---------
+>ENSCPRP00005010217 ENSCPRG00005007284	101	None		Crocodylus_porosus	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MNYKI---VLALFLI
+SVALTEDM--ALA---QTGDELRCQCINTHSKFIPPKLIQNVKLIQSGPHCQNIEVIATL
+N-----NDKEICLEPTAPWVKLIIKAILSKAEANNEISL---------
+>ENSCPIP00010016746 ENSCPIG00010013379	104	None	None	Chrysolophus_pictus	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MMGKAVAAVMALLLI
+SMAGAKGM--AQA---RSAIELRCQCIETHSKFIHPKFIQNVNLTPSGPHCKDVEVIATL
+K-----DGREVCLDPTAPWVKLIIKAILDKADTKNKTAS---------
+>ENSCJPP00005001663 ENSCJPG00005001712	104	None		Coturnix_japonica	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MMGKAVAAVMALLLI
+SMTGAKGI--AQA---RSAIELRCQCIETHSKFIHPKFIQNVNLTPSGPHCKDVEVIATL
+K-----DGREVCLDPTAPWVKLIIKAILDKADAKNNTAS---------
+>ENSGALP00000019049 ENSGALG00000011668	104	IL8L1	interleukin 8-like	Gallus_gallus	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MMGKAVAAVMALLLI
+SMAGAKGM--AQA---RSAIELRCQCIETHSKFIHPKFIQNVNLTPSGPHCKNVEVIATL
+K-----DGREVCLDPTAPWVKLIIKAILDKADTNNKTAS---------
+>ENSMGAP00000010592 ENSMGAG00000010223	104	None		Meleagris_gallopavo	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MMGKAVAAVMALLLI
+SMAGAKGM--AQA---RSAIELRCQCIETHSKFIHPKFIQNVNLTPSGPHCKDVEVIATL
+K-----DGREVCLDPTAPWVKLIIKAILDKADSKNKTAS---------
+>ENSNMEP00000022260 ENSNMEG00000019030	104	None		Numida_meleagris	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MMGKTVAAVMALLLI
+SMAGAKGM--AQP---RSGIELRCQCIDTHSKFIHPKFIQNVNLTPSGPHCQNVEVIATL
+K-----DGREVCLDPTAPWVKLIIKAILDKADTKTETVS---------
+>ENSPSTP00000025064 ENSPSTG00000018480	95	None	None	Pavo_cristatus	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MMGKAVAAVMALLLI
+SVAGAKGM--AQA---RSAMELRCQCIETHSKFIHPKFIQNVNLTPSGPHCKDVEVIATL
+K-----DGREVCLDPTAPWVKLIIKAILDK------------------
+>ENSPCLP00000012869 ENSPCLG00000010569	104	None	None	Phasianus_colchicus	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MMGKAVAAVMALLLI
+SMAGAKGM--AQA---RSAIELRCQCIETHSKFIHPKFIQNVNLTPSGPHCKDVEVIATL
+K-----DGREVCLDPTAPWVKLIIKAILDKADTKNKTAS---------
+>ENSCPVP00000002465 ENSCPVG00000001819	104	None		Camarhynchus_parvulus	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MIARTVAAVLILLLI
+SALGTQGE--AVP---RSAIELRCQCISTHSKFIHPKFIQNVNLTPSGPHCKNVEVIATL
+R-----NGREVCLEPSAPWVKLIIKAILDKANTKPETES---------
+>ENSCCEP00000024168 ENSCCEG00000021525	95	None		Cyanistes_caeruleus	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MIAKTVAAVLVLLLI
+SVLGTRAE--AVP---RSAIELRCQCISTHSKFILPKFIQNVNLTPSGPHCKNVEVIATL
+R-----NGREVCLEPTAPWVKLIIKAILDK------------------
+>ENSEGOP00005014515 ENSEGOG00005011851	104	None	None	Erythrura_gouldiae	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MIGKTVAAVLTLLLI
+SALGTQGE--AVP---RSAIELRCQCISTHSRFIHPKFIQNVNLTPSGPHCKNVEVIATL
+R-----DGREVCLEPSAPWVKLIIKAILDKANTKSETVS---------
+>ENSFALP00000008448 ENSFALG00000008109	104	None		Ficedula_albicollis	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MTGKAVAAVLILLLV
+SALGIQGE--AVP---RSAIELRCQCISTHSKIIHPKLILNVNLTPSGPHCKNVEVIATL
+R-----NGREVCLEPTAPWVKLIIKAILDKANTKPKTAS---------
+>ENSGFOP00000017973 ENSGFOG00000012173	104	None		Geospiza_fortis	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MIARTVAAVLILLLI
+SALGTQGE--AVP---RSAIELRCQCISTHSKFIHPKFIQNVNLTPSGPHCKNVEVIATL
+R-----NGREVCLEPSAPWVKLIIKAILDKANTKPETES---------
+>ENSJHYP00000005700 ENSJHYG00000004636	92	None	None	Junco_hyemalis	571A	571	A
+------------------------------------------------------------
+-------------------------------CQQKPPSC---ASCENS----EPLHCF--
+---FFP-G-EVVP---RSAIELRCQCISTHSKFIHPKFIQNVNLTPSGPHCKNVEVIATL
+R-----NGREVCLEPSAPWVKLIIK-----------------------
+>ENSLSDP00000025814 ENSLSDG00000018034	95	None		Lonchura_striata_domestica	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MIGKTVAAVLTLLLL
+SALGTQGE--AVP---RSAIELRCQCISTHSKFIHPKFIQNVNLTPSGPHCKNVEVIATL
+R-----DGREVCLEPSAPWVKLIIKAILDK------------------
+>ENSMVIP00005027461 ENSMVIG00005019139	95	CXCL8		Manacus_vitellinus	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MMGKAVAAVLTLLLI
+SAVGTQGN--AQA---RSAIELRCQCIGTHSRFIHPKFIQNVNLSPSGPHCKNVEVIATL
+K-----DGRELCLEPTAPWVKLIIKAILDK------------------
+>ENSPMJP00000000532 ENSPMJG00000000482	95	None		Parus_major	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MIAKTVAAVLLLLLI
+SALGTRAE--AVP---RSAIELRCQCISTHSKFIHPKFIQNVNLTPSGPHCKNVEVIATL
+R-----DGREVCLEPTAPWVKLIIKTILDK------------------
+>ENSSCAP00000006176 ENSSCAG00000004833	95	None		Serinus_canaria	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MTGKAVAAVLILLLI
+SALGTQGE--LMP---RSAIELRCQCISTHSKFIHPKFIQNVNLTPSGPHCKNVEVIATL
+R-----DGREVCLEPSAPWVKLIIKAILDK------------------
+>ENSTGUP00000001587 ENSTGUG00000001542	95	None	None	Taeniopygia_guttata	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MMGKTVAAVLTLLLI
+SALGTQGE--AVP---RSAIELRCQCINTHSKFIHPKFIQNVNLTPSGPHCKNVEVIATL
+R-----DGREVCLEPSAPWVKLIIKAILDK------------------
+>ENSZALP00000004158 ENSZALG00000003950	102	None	None	Zonotrichia_albicollis	571A	571	A
+------------------------------------------------------------
+-------------------------------------------EVDTGQP---VCHILLI
+S--------EAVP---RSAIELRCQCISTHSKFIHPKFIQNVNLTPSGPHCKNVEVIATL
+R-----NGREVCLEPSAPWVKLIIKAILDKNPSLNSNAPAHQQL----
+>ENSACOP00000005206 ENSACOG00000003700	95	None	None	Amazona_collaria	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MTGKAVAAVLILLFF
+SAVGTKGK--ALP---RSAMELRCQCIGTHSKFIHPKFIHNVNLIPSGPHCQNVEVIATL
+T-----DGREVCLEPTAPWVKLIIKAILDK------------------
+>ENSMUNP00000011623 ENSMUNG00000009160	95	None		Melopsittacus_undulatus	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MKDKAVAVVMILLFI
+SAMGTKGK--ALP---RSAMELRCQCIGTHSKFIHPKFIHNVNLIPSGPHCKNVEVIATL
+T-----DGREVCLEPTAPWVKLVIKAILDK------------------
+>ENSSHBP00005020434 ENSSHBG00005017416	95	None	None	Strigops_habroptila	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MTRKAVAVVLILLFI
+SAMGTKGK--AVP---RSAMELRCQCVGTHSKFIHPKFIHNVNLIPSGPHCKNVEVIATL
+T-----DGREVCLEPTAPWVKLIIKAILDK------------------
+>ENSSPUP00000011226 ENSSPUG00000008594	104	None	None	Sphenodon_punctatus	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MNCKFAVVVLALFLL
+SAALSEGA--VLS---RMGGELRCQCISTHAKFIHPRNLQGVRLTQSGPHCPNVEIIAMH
+K-----DGREVCLDPTAPWVKMIIKSWMDKAQANSDSPV---------
+>ENSLLTP00000006838 ENSLLTG00000005222	100	CXCL8	C-X-C motif chemokine ligand	Laticauda_laticaudata	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MDSKAVVAFLALLLV
+SATLTKGA--SLA---RVGLELRCQCIETYSNPSLRGHIASVNLIKSGPHCSNIQVIATL
+K-----DARRVCLDPTAPWVKKVITNLLEKDKPHC-------------
+>ENSNSUP00000024293 ENSNSUG00000017557	106	CXCL8		Notechis_scutatus	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MDSKAVVAFLALLLV
+SATLTKGRQTSVA---RVGLELRCQCIETYSNPNLRGHIASVNLINSGPHCSNIQVIATL
+K-----DGRQVCLDPTALWVKKVITKLLEKAKSNAEAQS---------
+>ENSPTXP00000024550 ENSPTXG00000017098	100	CXCL8	C-X-C motif chemokine ligand	Pseudonaja_textilis	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MDSKAVVAFLALVLV
+SATLTKGRQTSLA---RVGLELRCQCIETYSNPSFYKHIASVNLINSGPHCSNIQVIATL
+K-----DGRQVCLDPTAPWVKKFIEL--ARDKPHC-------------
+>ENSACUP00000014433 ENSACUG00000009703	95	None		Athene_cunicularia	571A	571	A
+------------------------------------------------------------
+---------------------------------------------VMGKAVAAVLTLLLI
+SAVGTKGK--ALP---RSAIELRCQCVGTHSKFIHPKFIHNVNLIPSGPHCKNVEVIATL
+T-----DGREVCLEPTAPWVKLIIKAILDK------------------
+>ENSSCUP00000023557 ENSSCUG00000017320	104	None	None	Struthio_camelus_australis	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MKGKVVVAVLTLLLI
+SAVGTKGK--ALA---RSGIELRCQCISTHSKFIHPKFIQNVNLIPSGPHCQNVEVIATL
+K-----DGREVCLEPTAPWVKLIIKAILDKANGNTETVS---------
+>ENSCSRP00000014810 ENSCSRG00000011316	104	None	None	Chelydra_serpentina	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MNGKLVVAVLALFLI
+YAAVSEGV--SLA---RMGNELRCQCISTHVKFIPPRNIRDVKLTPSGAHCQNVEIIATL
+K-----DGREVCLEPTAPWVKIIIKAILDKAQANGEAKR---------
+>ENSPCEP00000010821 ENSPCEG00000008571	95	None	None	Pelusios_castaneus	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MNGKFVVAVLALFLI
+YAAVSEGM--SLA---RMGNELRCQCISTHSKFIHPRTIQDVTLTQSGPHCQNVEVIATL
+K-----DGTEVCLDPTASWVKIIIKAILDK------------------
+>ENSTMTP00000017320 ENSTMTG00000012715	118	None	None	Terrapene_carolina_triunguis	571A	571	A
+------------------------------------------------------------
+-------------------MDGTQVSESR------PDAGRARAGGMGRTQGVG------L
+SP-----PPRAGA---PMAGELRCQCLQTETAVIPPKRIANVELIPEGPHCGVPEVIATT
+K-----QGKKVCLEPTAPWVKLIVTKILNRYLPGGCSGCSQR------
+>ENSNPEP00000005270 ENSNPEG00000003920	101	None		Nothoprocta_perdicaria	571A	571	A
+------------------------------------------------------------
+---------------------------------------------MKGKVVVTVLTLLLI
+SMAATKGM--ALA---RSGIELRCLCIDTHSRFIHPKFIQNVRLIQSGPHCQNVEVIATL
+K-----DGKELCLEPTAPWVKLIIKAILDKEALQLF------------
+>ENSSFAP00005046606 ENSSFAG00005022713	99	None	None	Salarias_fasciatus	571B	571	B
+------------------------------------------------------------
+--------------------------------------------MTSSRVLVGTIVVLLA
+FLAATEGK--RLR---SLGVEMHCRCIQTESQPIG-RHIEKVELIPANSHCEQMEIIATL
+K----KNGEEVCLDPEAHWVKRVIQKIMSSKRR---------------
+>ENSSDUP00000030897 ENSSDUG00000022252	99	None		Seriola_dumerili	571B	571	B
+------------------------------------------------------------
+--------------------------------------------MTSSRVIVIAMMVLLA
+SLSISEGM--SLR---SLGVELHCRCIQTESKPIG-RHIAKVELIPANSHCEDTEIIATL
+K----KTGQEVCLDPEAPWVKKVIQKIMSNRRR---------------
+>ENSCARP00000071878 ENSCARG00000032669	99	None		Carassius_auratus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MMKFSASAFM-LLIC
+TAALLSTT--DGR---PQPMLLRCQCIKTYSKPIPVKKIQSLRVIPAGPHCKNVEIIATM
+R------KGKMCLNPAKDWVIPLKEKFNKKNVKSQQ------------
+>ENSKMAP00000000019 ENSKMAG00000000043	112	None		Kryptolebias_marmoratus	571B	571	B
+------------------------------------------------------------
+--------------------------------------------MKSSTVIALSVVVFLA
+FLGISEGK--SLRSPRSLGVELHCRCIKTESRPII-RHIGKVELIPANSHCEEAEIIATL
+K----KTGQEICLDPKAPWVQQVIERMMASKKPRRAAEEALPQ-----
+>ENSPREP00000014158 ENSPREG00000009575	128	None	permeability factor	Poecilia_reticulata	571B	571	B
+------------------------------------------------------------
+----------------------------MFLSRRDLGKIFT--EGHLDLDKLNALMEILA
+KFAVENRM--SLR---SLGVELHCRCIQTESRPIG-RHIEKVELIPANSHCEETEIIATL
+K----KDGQEVCLDPEAPWVKKVIQRIMLMRWMELNKEQSWKKACFKL
+>ENSMMDP00005026275 ENSMMDG00005012549	99	None		Myripristis_murdjan	571B	571	B
+------------------------------------------------------------
+--------------------------------------------MMISRVAVTSFLVLLT
+YLAITEGV--SLR---SLGVELHCRCIQTESRPIG-RHIEKVELIPANSHCEETEIIATL
+K----RTGQEVCLDPEAPWVKKVIERIMSNRRR---------------
+>ENSSORP00005046770 ENSSORG00005021397	99	None		Sphaeramia_orbicularis	571B	571	B
+------------------------------------------------------------
+--------------------------------------------MVSCKVIVASLVVLLA
+FLTASEGM--SLR---SLGMELHCRCIQTESKPIG-RYIEKVELIPANSHCDVTEIIATL
+K----NSGKEVCLNPEARWVQRVIKAILANKKR---------------
+>ENSLBEP00000003858 ENSLBEG00000002970	111	None		Labrus_bergylta	571B	571	B
+------------------------------------------------------------
+--------------------------------------------MISNKVVFTSIVVLLA
+LLTISEGM--SLR---SLGMELHCRCIMTESKPIG-RHIEKVELIPANSHCEETEIIATL
+K----KTGQQVCLDPNAPWVKRVINIMMSRYVKVIQHTIVYGI--FN-
+>ENSPKIP00000038549 ENSPKIG00000016274	98	None		Paramormyrops_kingsleyae	571B	571	B
+------------------------------------------------------------
+-------------------------------------------MNCKL--AAAVFTVLLA
+ALTITEGM--SMR---GLGMELRCRCIQTESQRIG-RLIESLEIFPPSQHCKDTEIIATL
+K----GTGQEICLDPNAPWVKKVIERILANRKP---------------
+>ENSSMAP00000019160 ENSSMAG00000011742	99	CXCL8	None	Scophthalmus_maximus	571B	571	B
+------------------------------------------------------------
+--------------------------------------------MMSSRVIVVAVAVLLA
+SLAISEGV--SLR---SLGVEMHCRCIQTESKPIG-RHIEKVELIPGNSHCEETEIIATL
+K----HSGKEVCLDPEAPWVIRVINRIMSNRRR---------------
+>ENSOTSP00005054919 ENSOTSG00005026597	97	None	permeability factor	Oncorhynchus_tshawytscha	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MSIRMSASLVVVLLA
+LLTITEGM--SLR---GMGADLRCRCIETESRRIG-KLIKKVEMFPPSSHCRDTEIIATL
+S----KSGQEICLDVSAPWVKKVIEKMLANNK----------------
+>ENSSTUP00000029225 ENSSTUG00000012638	97	None		Salmo_trutta	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MSIRMSASLVVVLLA
+LLTITEGM--SLK---GMGADLRCRCIETESRRIG-KLIKKVEMFPPSSHCRDTEIIATL
+S----NSGQEICLDVSAPWVKRVIEKMLANNK----------------
+>ENSLOCP00000016469 ENSLOCG00000013359	104	None	None	Lepisosteus_oculatus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNCKMTVIVLFVCLT
+YAALSEGM--SLK---SLGTELRCQCINKESRFIHPKLIQNVELIPSGPHCANTEVIATM
+K-----TGKKICLEPTAPWVKILIKAIMEKAEYCSDERL---------
+>ENSMALP00000003415 ENSMALG00000002518	97	None		Monopterus_albus	571B	571	B
+------------------------------------------------------------
+--------------------------------------------MMSNRVIITAIVVLLA
+SLTISEGM--SLR---SLGVDLHCRCIQTESRPIG-RHIQKMELIPANSHCEDTEIIATL
+K----KTGEQVCLDPKAPWVKKVIEIIMPPG-----------------
+>ENSBBBP00000009132 ENSBBBG00000017205	101	CXCL8		Bison_bison_bison	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAAFLL
+SAALCEAA--VLS---RMSTELRCQCIKTHSTPFHPKFIKELRVIESGPHCENSEIIVKL
+T-----NGKEVCLNPKEKWVQKVVQVFVKRAEKQDP------------
+>ENSBTAP00000026275 ENSBTAG00000019716	101	CXCL8	C-X-C motif chemokine ligand	Bos_taurus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAAFLL
+SAALCEAA--VLS---RMSTELRCQCIKTHSTPFHPKFIKELRVIESGPHCENSEIIVKL
+T-----NGNEVCLNPKEKWVQKVVQVFVKRAEKQDP------------
+>ENSCDRP00005029228 ENSCDRG00005020011	101	CXCL8	C-X-C motif chemokine ligand	Camelus_dromedarius	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAAFLI
+SAALCEAA--VLS---RLSSELRCQCINTHSTPFHPKFIKELRVIESGPHCENTEIIVKL
+A-----NGREVCLNPKEKWVQKVVEIFLKRAEKQNP------------
+>ENSCHIP00000022025 ENSCHIG00000020142	101	CXCL8	C-X-C motif chemokine ligand	Capra_hircus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAAFLL
+SAALCEAA--VLS---RMSTELRCQCIKTHSTPFHPKFIKELRVIESGPHCENSEIIVKL
+T-----NGKEVCLDPKEKWVQKVVQAFLKRAEKQDP------------
+>ENSCWAP00000025558 ENSCWAG00000019375	100	CXCL8	C-X-C motif chemokine ligand	Catagonus_wagneri	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVAFLAVFLL
+SAALCEAA--VLA---RVSTELRCQCIKTHSTPFHPKYIKELRVIDEGPHCEHSEIIVKL
+A-----NGNEVCLDPKEKWVQRLVQLFLKKTEKQQ-------------
+>ENSDLEP00000021025 ENSDLEG00000015276	101	CXCL8	C-X-C motif chemokine ligand	Delphinapterus_leucas	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLVIALLAAFLL
+SAALCKAA--VLS---RMSSELRCQCINTHSTPFHPKFIRELRVIESGPHCENSEIIVKL
+V-----NGKEVCLNPKEKWVQKVVQIFLKRAEKKDP------------
+>ENSMMSP00000025437 ENSMMSG00000019172	101	CXCL8	C-X-C motif chemokine ligand	Moschus_moschiferus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAAFLL
+SAALCEAA--VLS---RMSTELRCQCIKTHSTPFHPKFIKELRVIESGPHCENSEVIVKL
+T-----NGKEVCLNPKEKWVQKVVQVFLKRAERQDS------------
+>ENSOARP00000015557 ENSOARG00000014496	101	IL-8	Interleukin-8	Ovis_aries	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAAFLL
+SAALCEAA--VLS---RMSTELRCQCIKTHSTPFHPKFIKELRVIESGPHCENSEIIVKL
+T-----NGKEVCLDPKEKWVQKVVQAFLKRAEKQDP------------
+>ENSPCTP00005005499 ENSPCTG00005003859	101	CXCL8	C-X-C motif chemokine ligand	Physeter_catodon	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAIALLAAFLL
+SATLCKAA--VLS---RMSSELRCQCINTHSTPFHPKFIRELRVIESGPHCENSEIIVKL
+V-----NGKEVCLNPKEMWVQKVVQIFLKRAEKKDP------------
+>ENSSSCP00000009554 ENSSSCG00000008953	103	CXCL8	C-X-C motif chemokine ligand	Sus_scrofa	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVAFLAVFLL
+SAALCEAA--VLA---RVSAELRCQCINTHSTPFHPKFIKELRVIESGPHCENSEIIVKL
+V-----NGKEVCLDPKEKWVQKVVQIFLKRTEKQQQQQ----------
+>ENSVPAP00000002936 ENSVPAG00000003177	129	CXCL8	C-X-C motif chemokine ligand	Vicugna_pacos	571B	571	B
+------------------------------------------------------------
+----------------NTGPLGQQSSQA-SRTRASKKPKGTLCVNMTSKLAVALLAAFLI
+SAAVCEAA--VLS---RLSSELRCQCINTHSTPFHPKFIKELRVIESGPHCENTEIIVKL
+A-----NGREVCLNPKEKWVQKVVEIFLKRAEKQNP------------
+>ENSAMEP00000005088 ENSAMEG00000004830	95	CXCL8	C-X-C motif chemokine ligand	Ailuropoda_melanoleuca	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAVFLL
+SSALCEAA--VLS---RMSSELRCQCIKTHSTPFHPKYIRELRVIESGPYCENSEIIVKL
+V-----NGEEVCLDPKEPWVQKIVQIFLKR------------------
+>ENSCAFP00000004516 ENSCAFG00000003029	137	CXCL8	C-X-C motif chemokine ligand	Canis_lupus_familiaris	571B	571	B
+------------------------------------------------------------
+-------MPQ--KLSIQQKSFGTAELTSVWDKSQKETRTKAPCVNMTSKLAVALLAAFVL
+SAALCEAA--VLS---RVSSELRCQCIKTHSTPFHPKYIKELRVIDSGPHCENSEIIVKL
+F-----NGNEVCLDPKEKWVQKVVQIFLKKAEKQDP------------
+>ENSFCAP00000004310 ENSFCAG00000004666	101	CXCL8	C-X-C motif chemokine ligand	Felis_catus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLVVALLAAFML
+SAALCEAA--VLS---RISSELRCQCIKTHSTPFNPKLIKELTVIDSGPHCENSEIIVKL
+V-----NGKEVCLDPKQKWVQKVVEIFLKKAEKQNA------------
+>ENSLCNP00005004057 ENSLCNG00005002761	101	CXCL8	C-X-C motif chemokine ligand	Lynx_canadensis	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLVVALLAAFML
+SAALCEAA--VVS---RISSELRCQCIKTHSTPFNPKLIKELTVIDSGPHCENSEIIVKL
+V-----SGKEVCLDPKQKWVQKVVEIFLKKAEKQNA------------
+>ENSMPUP00000009143 ENSMPUG00000009219	101	CXCL8	C-X-C motif chemokine ligand	Mustela_putorius_furo	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAVFLL
+SAVLCEAA--VLT---RVSSELRCQCIKTHSTPFHPKYIKELRVIDSGPHCENSEIIVKL
+V-----NGKEVCLDPKEDWVQRIVQIFLKKAEKQAA------------
+>ENSNVIP00000019201 ENSNVIG00000015030	101	IL8	C-X-C motif chemokine ligand	Neovison_vison	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAVFLL
+SAVLCEAA--VLS---RVSSELRCQCIKTHSTPFHPKYIKELRVIDSGPHCENSEIIVKL
+V-----NGKEVCLDPKEDWVQRIVQIFLKKAEKQAS------------
+>ENSPLOP00000004118 ENSPLOG00000002988	108	CXCL8	C-X-C motif chemokine ligand	Panthera_leo	571B	571	B
+------------------------------------------------------------
+--------------------------------------MKAPCVNMTSKLVVAILAAFML
+SAALCEAA--VVS---RISSELRCQCIKTHSTPFNPKLIKELTVIDSGPHCENSEIIVKL
+V-----SGNEVCLDPKQKWVQKVVEIFLKKAEKQNA------------
+>ENSSSUP00005000366 ENSSSUG00005000276	105	CXCL8	C-X-C motif chemokine ligand	Suricata_suricatta	571B	571	B
+------------------------------------------------------------
+--------------------------------------MKMPTFH---KGNSKSLCRKSI
+SAVINDAA--VLS---RIGSELRCQCIKTHSTPFHPKFIKELTVIDSGPHCENSEIIVKL
+T-----NGKEVCLDPKEKWVQKVVEIFLKRAEKQNS------------
+>ENSUMAP00000008770 ENSUMAG00000006671	150	None	C-X-C motif chemokine ligand	Ursus_maritimus	571B	571	B
+--------------------------------------MRVH-----VLCCS--------
+---ESYKKPQ--KLSIQQKSSGTAELTSVWDKSQKEANTKAPCINMTSKLAVALLAVFLL
+SSALCEAA--VLS---RMSSELRCQCIKTHSTPFHPKYIRELRVIESGPYCENSEIIVKL
+V-----NGEEVCLDPKEPWVQKIVQIFLKRAEKQKP------------
+>ENSVVUP00000019947 ENSVVUG00000014755	137	CXCL8	C-X-C motif chemokine ligand	Vulpes_vulpes	571B	571	B
+------------------------------------------------------------
+-------MPQ--KLSIQQKSFGTAELTSLWDKSQKETRTKAPCVNMTSKLAVALLAAFVL
+SAALCEAA--VLS---RVSSELRCQCIKTHSTPFHPKYIKELRVIDSGPHCENSEIIVKL
+F-----NGNEVCLDPKEKWVQKVVQIFLKKAEKQDP------------
+>ENSMLUP00000004435 ENSMLUG00000004871	101	CXCL8	C-X-C motif chemokine ligand	Myotis_lucifugus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAIALLAAFVL
+SAALCEAS--VLP---IIETELRCQCIGMHSIPFHPKLIRELRVIESGPHCENSEIIVKL
+K-----NETLLCLDPEEHWVQKVVQIFLEEAENKEP------------
+>ENSPVAP00000014488 ENSPVAG00000015367	127	CXCL8	C-X-C motif chemokine ligand	Pteropus_vampyrus	571B	571	B
+------------------------------------------------------------
+----------------STSPRGQQSSQA---SRRANKKPKESTVNMTSKLAVAFLAAFLL
+SAALCEAA--VLS---RISTELRCQCIKTHSAPFHPKFIKELRVIESGPHCAHTEIIVKL
+V-----KGNEVCLNPKEKWVQMVVQAFLKRAEKKEP------------
+>ENSRFEP00010029978 ENSRFEG00010019869	101	CXCL8	C-X-C motif chemokine ligand	Rhinolophus_ferrumequinum	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVAVLAAFLL
+SASLCRAA--VVS---RIATELRCQCIKTHSAPFHPKFIKELRVIESGPHCEKSEIIVKL
+H-----NGNEVCLDPKEKWVQKIVQIFLKRAEKKNP------------
+>ENSDNOP00000034326 ENSDNOG00000032213	101	CXCL8	C-X-C motif chemokine ligand	Dasypus_novemcinctus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAIALLATFML
+SAALCEDA--VLS---RSGTELRCLCINTHSTYFHPRVIKELRVIESGPHCPNTEIIVKL
+V-----NGAEVCLDPKQKWVQKVVELFLKRVENQKS------------
+>ENSSHAP00000018801 ENSSHAG00000015957	103	CXCL8	C-X-C motif chemokine ligand	Sarcophilus_harrisii	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLLGALLAIFLV
+SVALNEAA--VVS---RTVTELRCQCIKTYSKPFHPKLIKELRVIDSGPHCSNTEIIVTV
+K-----DNRDLCLDPNAKWVQRILQEFLKSDLREQNQV----------
+>ENSMODP00000023940 ENSMODG00000019182	101	CXCL8		Monodelphis_domestica	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLLVTLLAICLI
+SAALNEGA--VLS---SSVSELRCKCIKTNSKPFHPKHIKELRVIESGPHCLNTEIIVTL
+Q-----DDRELCLDPHANWVQRVLQAFLKRTENDSK------------
+>ENSPCIP00000008537 ENSPCIG00000007057	136	CXCL8	C-X-C motif chemokine ligand	Phascolarctos_cinereus	571B	571	B
+------------------------------------------------------------
+-----MLQP---TEILRRSPANRSSSCQP--IGKQSKPNHKLTANMTSKLLVTLLAIFLL
+SAALNEAA--VVP---QAVSELRCLCIKTHSKPFHPKLIKELRMIDSGPHCPNTEIIVTL
+Q-----DNRELCLDPQAKWVQKILHVFLKKAENNSN------------
+>ENSVURP00010012476 ENSVURG00010009636	145	None	None	Vombatus_ursinus	571B	571	B
+------------------------------------------------------------
+-----MLQP---TEILRRSPANSSSSCQP--IGKQSKPNHKLTANMTSKLVGALLAIFLL
+SVALNEAA--VVP---QSVTELRCLCIKTHSKPFHPKLIKELRMIDSGPHCSNTEIIVTL
+Q-----DNRELCLNPHEKWVQKILQVFLKRAENNSNKNGSPSPLS---
+>ENSSARP00000006384 ENSSARG00000007060	101	CXCL8	C-X-C motif chemokine ligand	Sorex_araneus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTAKLIAGLLAAFLL
+SSVLCEDA--VVL---RFNAELRCQCIDTHSKPFHPKYIKELRVIESGPHCPHSEIIVIL
+T-----SNKEVCLDPKEKWVQRVAQKFLKRAEKEEP------------
+>ENSOPRP00000002068 ENSOPRG00000002251	125	CXCL8	C-X-C motif chemokine ligand	Ochotona_princeps	571B	571	B
+------------------------------------------------------------
+----------------HTTPQRLQNA-ASRRGSKEPEENTSLRRNMTPKVAMALLAAFLL
+SAALCEAA--ALP---VIGTELRCQCIKTHSAPFHPKYIRELRVIESGPHCATSEIIVKL
+V-----DGRDLCLDPKQKWVQKVVQIFVKGED----------------
+>ENSOCUP00000018795 ENSOCUG00000011835	101	CXCL8	Interleukin-8	Oryctolagus_cuniculus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNSKLAVALLATFLL
+SLTLCEAA--VLT---RIGTELRCQCIKTHSTPFHPKFIKELRVIESGPHCANSEIIVKL
+V-----DGRELCLDPKEKWVQKVVQIFLKRAEQQES------------
+>ENSOANP00000011009 ENSOANG00000006910	102	None	None	Ornithorhynchus_anatinus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTGKFVFALLAVMIL
+TATVSEAA--SIS---KANIQLRCRCISTHPKRIARKHIKSVEVIFKGPHCSLDEVIVTL
+Q-----DNKEVCLDTTKDWVQELIEKYKKIIEKNNQM-----------
+>ENSECAP00000013083 ENSECAG00000015342	101	CXCL8	C-X-C motif chemokine ligand	Equus_caballus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAVFLL
+SAALCEAA--VVS---RITAELRCQCIKTHSKPFNPKLIKEMRVIESGPHCENSEIIVKL
+V-----NGAEVCLNPHTKWVQIIVQAFLKRAEGQNP------------
+>ENSCHOP00000002705 ENSCHOG00000003050	128	CXCL8	C-X-C motif chemokine ligand	Choloepus_hoffmanni	571B	571	B
+------------------------------------------------------------
+----------------NTSPQREQSTQVSIRASEKPEE--TTRVKMTSKLAIALLATFML
+SAALCEDA--VVS---RSGGELRCLCIKTHSTPFHPRVIKELRVIESGPHCANSEIIVKL
+I-----NGNELCLDPKEEWVQKVVKIFLKRTEKKQS------------
+>ENSCJAP00000074067 ENSCJAG00000051360	101	CXCL8	C-X-C motif chemokine ligand	Callithrix_jacchus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLVLALLAAFLL
+SATLCEGA--LMP---RSGKELRCQCIKTYSTPFSPKFIKELRVIERGPHCANTEIIVRL
+V-----DGRELCLDPKEKWVQRVVQIFLKRAENQNS------------
+>ENSCATP00000044592 ENSCATG00000044770	101	CXCL8	C-X-C motif chemokine ligand	Cercocebus_atys	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAAFLL
+SAALCEGA--VLP---RSAKELRCLCIKTYSKPFHPKFIKELRVIESGPHCVNTEIIVKL
+S-----DGRELCLDPKEPWVQRVVEKFLKRAESQNS------------
+>ENSCSAP00000001109 ENSCSAG00000004781	95	CXCL8	C-X-C motif chemokine ligand	Chlorocebus_sabaeus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAAFLL
+SAALCEGA--VLP---RSAKELRCQCIKTYSKPIHPKFIKELRVIESGPHCVNTEIIVKL
+S-----DGRELCLDPKVPWVSRVVEKFLKR------------------
+>ENSGGOP00000025002 ENSGGOG00000026934	99	CXCL8	C-X-C motif chemokine ligand	Gorilla_gorilla	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAAFLI
+SAALCEGA--VLP---RSAKELRCQCIKTYSKPFHPKFIKELRVIESGPHCANTEIIVKL
+S-----DGRELCLDPKENWVQRVVEKFLKRAENS--------------
+>ENSP00000306512 ENSG00000169429	99	CXCL8	C-X-C motif chemokine ligand	Homo_sapiens	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAAFLI
+SAALCEGA--VLP---RSAKELRCQCIKTYSKPFHPKFIKELRVIESGPHCANTEIIVKL
+S-----DGRELCLDPKENWVQRVVEKFLKRAENS--------------
+>ENSMMUP00000072289 ENSMMUG00000060156	101	CXCL8	C-X-C motif chemokine ligand	Macaca_mulatta	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAAFLL
+SAALCEGA--VLP---RSAKELRCECIKTYSKPFHPKFIKELRVIESGPHCANTEIIVKL
+S-----DGRELCLDPKEPWVQRVVEKFVKRAENQNP------------
+>ENSMLEP00000015334 ENSMLEG00000031835	101	CXCL8	C-X-C motif chemokine ligand	Mandrillus_leucophaeus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAAFLL
+SAALCEGA--VLP---RSAKELRCLCIKTYSKPFHPKFIKELRVIESGPHCVNTEIIVKL
+S-----DGRELCLDPKEPWVQRVVEKFLKRAESQNS------------
+>ENSMICP00000046593 ENSMICG00000044277	101	CXCL8	C-X-C motif chemokine ligand	Microcebus_murinus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAAFLL
+SAALCEAA--ALS---RMGTELRCQCIKTHSTPFHPKFIKELRVIESGPHCENSEIIVKL
+V-----DGRELCLDPQEKWVQKVVQIFLKRAEKQES------------
+>ENSPTRP00000027770 ENSPTRG00000016154	99	CXCL8	C-X-C motif chemokine ligand	Pan_troglodytes	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAAFLI
+SAALCEGA--VLP---RSAKELRCQCIKTYSKPFHPKFIKELRVIESGPHCANTEIIVKL
+S-----DGRELCLDPKENWVQRVVEKFLKRAENS--------------
+>ENSPANP00000005744 ENSPANG00000018599	101	CXCL8	C-X-C motif chemokine ligand	Papio_anubis	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAAFLL
+SAALCEGA--VLP---RSAKELRCLCIKTYSKPFHPKFIKELRVIESGPHCVNTEIIVKL
+S-----DGRELCLDPKEPWVQRVVEKFLKRAESQNS------------
+>ENSPPYP00000024161 ENSPPYG00000029599	67	None	None	Pongo_abelii	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAAFLI
+SAALCEGA--VLP---RSAKELRCQCIKTYSKPFHPKFIKELRVIESGPHCANTEIM---
+------------------------------------------------
+>ENSTGEP00000018180 ENSTGEG00000014691	100	CXCL8	C-X-C motif chemokine ligand	Theropithecus_gelada	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVALLAAFLL
+SAALCEGA--VLP---RSAKELRCRCIKTYSKPFHPKFIKELRVIERGPHCVNTEIIVKL
+S-----DGRELCLDPK-NWVQRVVEKFLKRAESQNS------------
+>ENSLAFP00000000407 ENSLAFG00000000483	109	CXCL8	C-X-C motif chemokine ligand	Loxodonta_africana	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MSSKLVFVLLAALVL
+SAALCKAA--VLP---MVASELRCQCIKTHSTPFHPKYIKELRVIESGPHCPNSEIIVKI
+VTKEGEEGKEVCLDPTAKWVQKVVQVFLKRELRKKHEKK---------
+>ENSCCNP00000002207 ENSCCNG00000002442	95	None	C-X-C motif chemokine ligand	Castor_canadensis	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSTLAIALLAACLI
+SASVCEAA--VLA---RMGAELRCQCIKTYSTPFHPKFIKELRVIERGPHCPNTEIIIKL
+A-----DKRELCLDPKEKWVQRIVEAFVKR------------------
+>ENSCPOP00000022018 ENSCPOG00000037921	101	CXCL8	C-X-C motif chemokine ligand	Cavia_porcellus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MPSQLRVAILAAFLL
+SAVLCEGM--VVT---KLVSELRCQCIKIHTTPFHPKFIKELKVIESGPRCANSEIIVKL
+S-----DNRQLCLDPKKKWVQDVVSMFLKRTESQDS------------
+>ENSCLAP00000006523 ENSCLAG00000004594	101	CXCL8	C-X-C motif chemokine ligand	Chinchilla_lanigera	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAVAFLTAFLI
+SAALCEGT--AVT---KLTTELRCQCVKIHSTPFHPKFIKELKVIESGPRCDKSEIIVKL
+R-----DNRQLCLDPKKKWVQEVVAKFLKRAEDQDS------------
+>ENSSTOP00000002912 ENSSTOG00000003271	101	CXCL8	C-X-C motif chemokine ligand	Ictidomys_tridecemlineatus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLVVALLVTCLL
+SATLCEAA--VLT---RIGTELRCQCIKTHSTPFHPKYIKELRVIESGPHCANSEIIVKL
+V-----DGRELCLNPKEKWVQKVVELFLKRAENEDP------------
+>ENSTBEP00000009324 ENSTBEG00000010795	101	CXCL8	C-X-C motif chemokine ligand	Tupaia_belangeri	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MTSKLAIALLAALMF
+SAALCEAA--VLT---RIGTELRCQCIKTHSTPFHPKFIQKLTVIESGPHCAKSEIIVKL
+T-----DGRELCLDPKEKWVQKVVQIFLKKAEKQDA------------
+>ENSANIP00000004492 ENSANIG00000003042	103	None	None	Accipiter_nisus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNSK-LVTVLALFLI
+SAAMSQGM--TLA---RMGTELRCQCIATHSKFIPPKSIQDVKLTQSGPHCKNVEVIATL
+K-----DGREVCLEPTAPWVQLIVKAILAKAQFNSDSPL---------
+>ENSACCP00020000657 ENSACCG00020000450	147	None		Aquila_chrysaetos_chrysaetos	571B	571	B
+-----------------------------------------------------ML--GIK
+QYISEMDHPDQASAILRDK-R-GHCSTEP----ELNNPAKSSCLIMNSK-LVAVLALFLI
+SAAMSQGM--TLA---RMGTELRCQCIATHSKFIPPKSIQDVKLTQSGPHCKNVEVIATL
+K-----DGREVCLEPTAPWVQLIVKAILANAQFNSDSPL---------
+>ENSAPLP00020015254 ENSAPLG00020011065	103	IL8	Anas platyrhynchos interleukin 8 (IL8), mRNA	Anas_platyrhynchos	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LGVVLALLLI
+SVALSQGR--SLV---RMGNELRCQCISTHSKFIHPKSIQDVKLTQSGPHCKNVEIIATL
+K-----DNREVCLDPTAPWVQRIVKAILAKAQLNSDAPL---------
+>ENSACDP00005018589 ENSACDG00005013515	103	IL8	None	Anser_cygnoides	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LGAVLALLLI
+SVALSQGR--SLV---RMGNELRCQCISTHSKFIHPKSIQDVKLTQSGPHCKNVEIIATL
+K-----DNREVCLDPTAPWVQLIVKAILAKAQLNSDAPL---------
+>ENSAOWP00000019600 ENSAOWG00000013308	103	None	None	Apteryx_owenii	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LVAVLALVLI
+SAALSHGM--ALA---RMGNELRCQCIATHSKFINPRSIQDVKLTQSGPHCKNVEVIATL
+K-----DGREVCLEPTAPWVQLIIKSILAKAKSNTDTPL---------
+>ENSDNVP00000000873 ENSDNVG00000000661	137	None		Dromaius_novaehollandiae	571B	571	B
+------------------------------------------------------------
+-----MDYPVQTSAILRDK-R-AHCSKES----KLNNRGENSCLIMNXK-LVAVLALLLV
+SAAVSQGR--ALA---RMANELRCQCITTHSKLIHPKSIQGVKLTQSGPHCKNVEVIATL
+K-----DGREVCLEPTAPWVQLIVKTILAKAQFNTDTPL---------
+>ENSCPUP00000004517 ENSCPUG00000003336	103	None		Calidris_pugnax	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MHGK-LVAVLALLLV
+SAALAQGR--ALA---RMGTELRCQCIATHSRFIPPKSIQDVRLTQSGPHCKNVEVVATL
+K-----DGREVCLEPTAPWVQLIVKAILAKAQFNSDSPL---------
+>ENSCPRP00005010199 ENSCPRG00005007275	104	None		Crocodylus_porosus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNCKFVPAVLAVFLI
+SAAVTEGM--TLA---RIGNELRCQCITTHSKFIPFKHIQDVKMTQSGPHCTNVEVIATL
+K-----DGREVCLEPTAPWVMRLVKAILNNAESNIETPL---------
+>ENSCPIP00010016743 ENSCPIG00010013378	103	None	None	Chrysolophus_pictus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LGAVLALLLL
+SAALSQGR--TLV---KMGNELRCQCISTHSKFIHPKSIQDVKLTPSGPHCKNVEIIATL
+K-----DGREVCLDPTAPWVQLIVKALMAKAQLNSDAPL---------
+>ENSCJPP00005001666 ENSCJPG00005001715	103	None		Coturnix_japonica	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LGAVLALLLV
+SAALSQGR--TLV---KMANELRCQCISTHSAFIRPKSIHDVKLTPSGPHCKNVEIIATL
+K-----DGREVCLDPTAPWVQLIVKALMAKAQLNSDAPL---------
+>ENSGALP00000041738 ENSGALG00000026098	103	IL8	interleukin 8-like	Gallus_gallus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LGAVLALLLV
+SAALSQGR--TLV---KMGNELRCQCISTHSKFIHPKSIQDVKLTPSGPHCKNVEIIATL
+K-----DGREVCLDPTAPWVQLIVKALMAKAQLNSDAPL---------
+>ENSMGAP00000010601 ENSMGAG00000010225	103	IL8	interleukin	Meleagris_gallopavo	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LGAVLALLLV
+SAALSQGR--TLV---KMGNELRCQCISTHSKFIHPKSIQDVKLTPSGPHCKNVEIIATL
+K-----DSREVCLDPTAPWVQLIVKALMAKAQLNSDAPL---------
+>ENSNMEP00000022263 ENSNMEG00000019031	151	None		Numida_meleagris	571B	571	B
+-----------------------------------------------------MLAEPCT
+RAQNCIKAPW--VSLFRHQ-Q-SSGQERSQLHKTSAQKTSQTLLTMNSK-LGAILALLLV
+SAALSQGR--TLV---KMGNELRCQCISTHSKFIHPKSIQDVKLTPSGPHCKNVEIIATL
+K-----DGREVCLDPTAPWVQLIVKALMAKAQLNSDAPL---------
+>ENSPSTP00000025058 ENSPSTG00000018474	98	None	None	Pavo_cristatus	571B	571	B
+------------------------------------------------------------
+------------------------------------------------K-LGKNNR--CN
+LPFVLIGR--TLV---KMGNELRCQCISTHSKFIHPKSIQDVKLTPSGPHCKNVEIIATL
+K-----DGREVCLDPTAPWVQLIVKALMAKMQAENLSAP---------
+>ENSPCLP00000012872 ENSPCLG00000010571	103	None	None	Phasianus_colchicus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LGAVLALLLL
+SAALSQGR--TLV---KMGNELRCQCISTHSKFIHPKSIQDVKLTPSGPHCKNVEIIATL
+K-----DGREVCLDPTAPWVQLIVKALMAKAQLNSDAPL---------
+>ENSCPVP00000002489 ENSCPVG00000001843	103	None		Camarhynchus_parvulus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LIAVLALFLI
+SAAVSQGR--TLA---RMGTELRCQCIATHSGFISPKTIQDVKLTQSGPHCKNVEVIATL
+K-----TGKEVCLEPTAPWVQLIVKAIMARAQKNSDSPL---------
+>ENSCCEP00000024170 ENSCCEG00000021527	103	None		Cyanistes_caeruleus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LVAVLALFLI
+SAAVSQGR--TLA---RMGTELRCQCIATHSRFIPPKSIQDVKLTQSGPHCKNVEVIATL
+K-----DGREVCLEPTAPWVQLIVKAILAKAQQNSDSPV---------
+>ENSEGOP00005014521 ENSEGOG00005011856	103	CXCL8	None	Erythrura_gouldiae	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LVAILALFLI
+SAAVSQGR--TLA---RMGTELRCQCIATHSRFIPPKSIQDVKLTQSGPHCKNVEVIATL
+K-----DGREVCLEPTAPWVQLIVKAILAKAEQNSDSPL---------
+>ENSFALP00000008454 ENSFALG00000008114	103	None		Ficedula_albicollis	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LVAVLALFLI
+SAAVSQGR--TLA---RMGTELRCQCIATHSRFIPPKTIQDVKLTQSGPHCKNVEVIATL
+K-----DGKEVCLEPTAPWVQLIVKAILARAQQNSDSPL---------
+>ENSGFOP00000017985 ENSGFOG00000012188	103	None		Geospiza_fortis	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LIAVLALFLI
+SAAVSQGR--TLA---RMGTELRCQCIATHSGFISPKTIQDVKLTQSGPHCKNVEVIATL
+K-----TGKEVCLEPTAPWVQLIVKAIMARAQKNSDSPL---------
+>ENSJHYP00000005685 ENSJHYG00000004622	103	None	None	Junco_hyemalis	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNSK-LVAVLALFLI
+SAAVSQGR--TLA---RMGTELRCQCIATHSGLIPPKSIQDVKLTQSGPHCKNVEVIATL
+K-----SGKEVCLEPTAPWVQLIVKAIMARAQKNSDSPL---------
+>ENSLSDP00000025819 ENSLSDG00000018037	103	None		Lonchura_striata_domestica	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LAAILALFLI
+SAAVSQGR--TLA---RMGTELRCQCIATHSRFIPPKSIQDVKLTQSGPHCKNVEVIATL
+K-----DGREVCLEPTAPWVQLIVKAILAKAEQNSDSPL---------
+>ENSMVIP00005027458 ENSMVIG00005019137	103	None		Manacus_vitellinus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LVAVLALFLL
+SAAVSQGR--AVA---RMGTELRCQCIATHAGFIPPRSIQDVKLTQSGPHCQNVEVIATL
+K-----DGREVCLDPNALWVQRIVQAILAKAQQNSDSPL---------
+>ENSPMJP00000000549 ENSPMJG00000000501	103	None		Parus_major	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LVAILALFLI
+SAAVSQGR--TLA---RMGTELRCQCIATHSRFIPPKSIQDVKLTQSGPHCKNVEVIATL
+K-----DGREVCLEPTVPWVQLIVKAILAKAQQNSDSPV---------
+>ENSSCAP00000006149 ENSSCAG00000004816	103	None		Serinus_canaria	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LVAVLALFLI
+SAAVSQGR--TLA---RMGTELRCQCIATHSRFIPPKSIQDVKLTQSGPHCKNVEVIATL
+K-----SGKEVCLEPTAPWVQLIVKAILARAEHNSDSPL---------
+>ENSTGUP00000001591 ENSTGUG00000001543	103	None		Taeniopygia_guttata	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LVAILALFLI
+SAAVSQGR--TLA---RMGTELRCQCIATHSRFIPPKSIQDVKLTQSGPHCKNVEVIATL
+K-----DGREVCLEPTAPWVQLIVKAILAKAEQNSDSPL---------
+>ENSZALP00000004147 ENSZALG00000003948	103	None		Zonotrichia_albicollis	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNSK-LVAVLALFLI
+SAAVSQGR--TLA---RMGTELRCQCIATHSGLIPPKSIQDVKLTQSGPHCKNVEVIATL
+K-----NGKEVCLEPTAPWVQLIVKAIMARAQKNSDSPL---------
+>ENSMUNP00000011624 ENSMUNG00000009161	103	None		Melopsittacus_undulatus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LVAVLAFCLI
+SVAVSQGR--TLA---RMGTELRCQCIATHSKFIPPKSIQDVKLTQSGPHCKNVEVIATL
+K-----DGREVCLEPTAPWVQIIIKAILAKAQLNSDSPL---------
+>ENSSHBP00005020429 ENSSHBG00005017414	133	None		Strigops_habroptila	571B	571	B
+------------------------------------------------------------
+-----MGHPERHQQSFRIE-E-L----TA----PQNPSSSSSCPTMNAK-LVAVLALCLI
+SVAASQGR--TLA---RMGTELRCQCIATHSKFIPPKSIQDVKLTQSGPHCKNVEVIATL
+K-----DGREVCLEPTAPWVQIIVKAILAKAQLNSDSPL---------
+>ENSSPUP00000011177 ENSSPUG00000008538	104	None	None	Sphenodon_punctatus	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNCKFAVVVLALFLL
+SAALSEGA--VLS---RMGGELRCQCISTHSKFIPPRNLQDVKLTQSGPHCPNVEIIAMH
+K-----DGREVCLDPTAPWVKMIIKSWMDKAQANSDSPV---------
+>ENSACAP00000011122 ENSACAG00000011382	104	None	None	Anolis_carolinensis	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNTKVVVALLAFFLA
+CATLTEAL--PMA---RMGSELRCQCISTHSRFIPPRNIQDVKLTQSGPHCTNVEVIATL
+K-----DGREVCLEPTANWVKVIIKAILEKSPLSNSLPV---------
+>ENSPMRP00000022327 ENSPMRG00000014515	104	None		Podarcis_muralis	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNSKVVVAVLALFVL
+SSSLTEGV--SLA---RIGSELRCQCISTHSTFIPTRHIQDVKLTQSGPHCKNVEIIATL
+K-----DGKEVCLEPTARWVKVIIKAILDKAQANAESQL---------
+>ENSPVIP00000025704 ENSPVIG00000019224	95	None		Pogona_vitticeps	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNTKMVVTLLALFLV
+SAALTEDV--SVP---PKESELRCQCISTHATIIPPSKIQDVRLMQSGPHCSNVEVIVTL
+K-----DSRQICLDPTRNWVKVIIKAILKK------------------
+>ENSSMRP00000022827 ENSSMRG00000017708	105	None	None	Salvator_merianae	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNAKIIVSALALFLL
+SATLTEGV--SLT---QTKDELKCQCVNTHSKFIHPKYIQDVSLTQRGPHCQNNEIIATL
+K-----DGREVCLDPTANWVKAMTKKMLEKTEANVDHCNK--------
+>ENSVKKP00000025074 ENSVKKG00000016490	104	CXCL8	C-X-C motif chemokine ligand	Varanus_komodoensis	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNTKVVVAILSLFLI
+SATLTEGV--SLA---RMGSELRCQCTRTHSGLIPPQNIQGVKLTQSGPHCKNVEIIATL
+K-----DGREVCLDPTAKWVKIIIKALLSKAQANNGSQL---------
+>ENSACUP00000014451 ENSACUG00000009713	103	None		Athene_cunicularia	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LVAVLALFLI
+SASMSQGM--SLA---RMATELRCQCIATHSKFIPPKSIQDVKLTQSGPHCKNVEVIATL
+K-----DGREVCLEPTAPWVQLIIKAILAKAQLNSDSPL---------
+>ENSSCUP00000023558 ENSSCUG00000017321	103	None		Struthio_camelus_australis	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LVTVLALLLI
+SAAVSQGR--ALA---RMGNELRCQCITTHSKFIHPKSIQDVKLTQSGPHCKNVEVIATL
+K-----DGREVCLEPTAPWVQLIIKAILAKAQSNTDLPL---------
+>ENSCABP00000005196 ENSCABG00000003907	85	CXCL8	C-X-C motif chemokine ligand	Chelonoidis_abingdonii	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNCKLVVAVLALFLT
+YAAVSEGM--SLA---RMGNELRCQCIELHSKFIPPRSIQEVKLTPSGPHCQNTEIIATL
+K-----DGREVCWIPLNLDK----------------------------
+>ENSCSRP00000015004 ENSCSRG00000011423	104	None	None	Chelydra_serpentina	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGKLVVAVLALFLI
+YAAVSEGV--SLA---RMGNELRCQCISTHVKFIPPRNIRDVKLTPSGAHCQNVEIIATL
+K-----DGREVCLEPTAPWVTIIIKAILEKAQANGEAKR---------
+>ENSCPBP00000027806 ENSCPBG00000019630	104	None	None	Chrysemys_picta_bellii	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGKLVVAVLALFLT
+YAAVSEGM--SLA---RMGNELRCQCITLHSSFIRPGNIRDVKLTPSGPHCQNTEIIATL
+Q-----DGREVCLDPTAQWVKIIIKAILDKAQANGEAKR---------
+>ENSGAGP00000026520 ENSGAGG00000019334	104	None	None	Gopherus_agassizii	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGKLVVAILALFLI
+YAVVSEGM--SLA---RMGNELRCQCIDLHSKFIPPRSIRDVKLTPSGPHCQNTEIIATL
+K-----DGREVCLDPTAQWVKIIIKAILDKAQANAEAKH---------
+>ENSPSIP00000009796 ENSPSIG00000008903	104	None		Pelodiscus_sinensis	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGKVLVAGLALFLL
+YTAVAEEM--SLS---QMASELRCQCISTHSKFIPPRNIQDVKLTQSGPHCQNVEIIATL
+K-----DGREVCLEPTAPWVKLIIKAILDKAEANSETKL---------
+>ENSNPEP00000005426 ENSNPEG00000004003	103	None		Nothoprocta_perdicaria	571B	571	B
+------------------------------------------------------------
+---------------------------------------------MNGK-LVAVLALLLI
+SAAVSQGR--ALA---RMGNELRCQCTDTHSKFINPKFIQDVKLTQSGPHCQNVEVIATL
+K-----NGKEVCLEPTAPWVQLIIRALLAKAQSNSDTLL---------

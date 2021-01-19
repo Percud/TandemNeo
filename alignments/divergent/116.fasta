@@ -1,0 +1,196 @@
+>ENSMOCP00000001044 ENSMOCG00000000803	69	None	None	Microtus_ochrogaster	116A	116	A
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+KTHYFLLMMLFFLFSQMEPGAGTLTSLGRRTDQYRCLQHGGFCLRSSCPSNTRLQGTCKP
+DKPNCCRS----------------------------------------------------
+--------------
+>ENSMUSP00000074947 ENSMUSG00000061847	74	Defb39	defensin beta	Mus_musculus	116A	116	A
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+KISYFLLLILSLGSSQINPV--------SGDDSIQCFQKNNTCHTNQCPYFQDEIGTCYD
+RRGKCCQKRLLHIRVPRKKKV---------------------------------------
+--------------
+>ENSRNOP00000039757 ENSRNOG00000034275	73	Defb39	defensin beta	Rattus_norvegicus	116A	116	A
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+KISCFLLLVLSLSCFQINSV--------SGIDSVKCFQKNNTCHTIRCPYFQDEVGTCYE
+GRGKCCQKRLLSIRVPKKKV----------------------------------------
+--------------
+>ENSGALP00000030910 ENSGALG00000019848	89	AvBD13	avian beta-defensin	Gallus_gallus	116A	116	A
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+RILQLLFAIVVILLLQDAP-------ARGFSDSQLCRNNHGHCRRL-CFHMESWAGSCMN
+GRLRCCRFSTKQPFSNPKHSVLHTA-----------------EQDPSPSLGGT-------
+--------------
+>ENSANIP00000022596 ENSANIG00000015377	67	None	None	Accipiter_nisus	116B	116	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+RILFFLVAVLFFLFQAAPAY------SQEAADTVACRQNRGSCSFVACSAPLVDIGTCRG
+GKLKCCKWTPSS------------------------------------------------
+--------------
+>ENSAPLP00020001955 ENSAPLG00020001422	67	None	None	Anas_platyrhynchos	116B	116	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+RILFFLVALLFFIFQAAPAY------SQEDTDTVACRQSHGSCSFIACSGPLVDIGTCRN
+GKLKCCKWTPSS------------------------------------------------
+--------------
+>ENSACDP00005004224 ENSACDG00005003099	66	None	None	Anser_cygnoides	116B	116	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------MLQL---
+SLSSDLTNEHEFSLNFFSAY------SQGDADTVACRQNHGSCSFIACSGSLVDIGTCRG
+GKLKCCKW----------------------------------------------------
+--------------
+>ENSAOWP00000028711 ENSAOWG00000019344	67	None	None	Apteryx_owenii	116B	116	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+RILFLLVAVLFFLFQAAPAY------SQEAADTVACRQNRGSCSFVACSGALVDIGTCRG
+GKLKCCKWTPSS------------------------------------------------
+--------------
+>ENSDNVP00000022151 ENSDNVG00000015430	67	None	None	Dromaius_novaehollandiae	116B	116	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+RILFLLVAVLFFLFQAAPAH------SQEPADTVACRQNRGSCSFVACSGPLVDIGTCRG
+GKLKCCKWTPSS------------------------------------------------
+--------------
+>ENSCPUP00000012481 ENSCPUG00000008844	129	None	None	Calidris_pugnax	116B	116	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+RILFFLVAVLFFLFQAAPAY------SQEAADTIACRQGRGFCSFASCSAPLVETGTCRD
+GKLKCCKWYDQFLWRNAAAPRASTFTGLFAPFGMKEATFSNLLHPPKPNFKRWDFCLITK
+RQSSRGVQNARLFF
+>ENSCPIP00010008976 ENSCPIG00010007005	59	None	None	Chrysolophus_pictus	116B	116	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------AFLFFLFQAAPAY------SQEAADTLACRQSHGSCSFIACPAPSVDIGTCRD
+GKLKCCKWRPSS------------------------------------------------
+--------------
+>ENSCJPP00005000912 ENSCJPG00005001006	67	AvBD9	None	Coturnix_japonica	116B	116	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+RILFFLVAVLFFLFQAAPAY------SQEDPDTLACRQGHGSCSFVACRAPSVDIGTCRG
+GKLKCCKWSPSS------------------------------------------------
+--------------
+>ENSGALP00000035930 ENSGALG00000019845	67	AvBD9	avian beta-defensin	Gallus_gallus	116B	116	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+RILFFLVAVLFFLFQAAPAY------SQEDADTLACRQSHGSCSFVACRAPSVDIGTCRG
+GKLKCCKWAPSS------------------------------------------------
+--------------
+>ENSNMEP00000008460 ENSNMEG00000008251	67	None	None	Numida_meleagris	116B	116	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+RILFFLVAILFFLFQAAPAY------SQEAADTVACRQNRGSCSFVACSAPLVDIGTCRG
+GKLKCCKWTPSS------------------------------------------------
+--------------
+>ENSPSTP00000021677 ENSPSTG00000015838	67	None	None	Pavo_cristatus	116B	116	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+RILFFLVAVLFFLFQAAPAY------SQEAADTLACRQNRGSCSFIACRAPSVDIGTCRD
+GKLKCCKWTPSS------------------------------------------------
+--------------
+>ENSPCLP00000014159 ENSPCLG00000011632	67	None	None	Phasianus_colchicus	116B	116	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+RILFFLVAILFFLFQAAPAY------SQEAADTLACRQSHGSCSFIACPAPSVDIGTCRD
+GKLKCCKWRPSS------------------------------------------------
+--------------
+>ENSCPVP00000014424 ENSCPVG00000010567	63	None	None	Camarhynchus_parvulus	116B	116	B
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------VE
+---SLGKRHEFSL--YFAAY------SQETADTLACRQSRGSCSFVPCSAPLVDIGTCRG
+GKLRCCKWTPSS------------------------------------------------
+--------------
+>ENSCCEP00000023375 ENSCCEG00000020945	227	None	None	Cyanistes_caeruleus	116B	116	B
+MLCSPRRSFLLCSPCLVAEGEDKLSQDHGQEPRGT-------------------ISSTWF
+TTLQIPGTHLPPAPIPRPPGAQPTSWHRVLWLLGLAGKMWSWLRYLLTWEVATSAYITSL
+HGNRAMNSLFSRQPLLHPPRSVPEPLYAEAPPVLGLGQLLFTLVLPPSLRKLPCCQLPVM
+RILFFLVAVLFFLFQAAPAH------SQETADTLACRQSRGSCSFVPCSAPLVDIGTCRG
+GKLRCCKWTPSS------------------------------------------------
+--------------
+>ENSEGOP00005011831 ENSEGOG00005009255	67	None	None	Erythrura_gouldiae	116B	116	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+RILFFLVAVLFFLFQAAPAY------SQETADTLACRQNRGSCSFMPCSAPLVDIGTCRG
+GKLRCCKWTPSS------------------------------------------------
+--------------
+>ENSFALP00000002580 ENSFALG00000002479	63	None	None	Ficedula_albicollis	116B	116	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+RILFFLVAVLFFLFQAAPAY------SQETSDTLACRQSRGSCSFVPCSAPMVDIGTCRG
+GKLRCCKW----------------------------------------------------
+--------------
+>ENSJHYP00000008172 ENSJHYG00000006500	67	None	None	Junco_hyemalis	116B	116	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+RILFFLVAVLFFLFQAAPAY------SQEAADTLACRQSRGSCSFVPCSAPLVDIGTCRG
+GKLKCCKWTPSS------------------------------------------------
+--------------
+>ENSLSDP00000016490 ENSLSDG00000011882	147	GAL9	None	Lonchura_striata_domestica	116B	116	B
+------------------------------------------------------------
+---------------------------------------MAQVGHLLTWEVATSPYLTNL
+HGNRAMNSLFSRQSLLHPPCSAPEPLYAEAPPVLGLRQLLFTLVLSPSLPKLPCCQLPVM
+RILFFLVAVLFFLFQAAPAY------SQETADTVACRQSRGSCSFVPCSAPLVDIGTCRG
+GKLRCCKWTPSS------------------------------------------------
+--------------
+>ENSPMJP00000017300 ENSPMJG00000013027	236	None	None	Parus_major	116B	116	B
+MLCTPRRSFLLCSPCLVAEGEDKLSQDHGQEPRGT-------------------ISSTWF
+TTLQIPGTHLPPAPIPRPPGAQPTSWHRVLWLLGLACKMWSWLRYLLTWEVATSAYITSL
+HGNRAMNSLFSRQPLLHPPRSVPEPLYAEAPPVLGLGQLLFTLVLPPSLRKLPCCQLPVM
+RILFFLVAVLFFLFQAAPAY------SQETADTLACRQSRGSCSFVPCSAPLVDIGTCRG
+GKLRCCKWKKPNIPVLQR-----AFT----------------------------------
+--------------
+>ENSSCAP00000020056 ENSSCAG00000014467	195	None	None	Serinus_canaria	116B	116	B
+----------------MAKSHRAPSVLHGLQPCRSQEPTSLLLQSPALPGHSPPAGT---
+---GQPAR--------RGHGSGRASPN----VR--GCNT--SLPHQSPWEQGNE------
+-----LS--VLQAATPPPPCSVPEPLYAEALPVLGLGQLLFTLVLSPSLPKLPCCQLPVM
+RILFFLVAVLFFLFQAAPAY------SQETADTLACRQSRGSCSFVPCSAPLVDIGTCRG
+GKLRCCKWTPSS------------------------------------------------
+--------------
+>ENSTGUP00000037274 ENSTGUG00000021865	201	None	None	Taeniopygia_guttata	116B	116	B
+----------------MAKSHRAPSVLHGLQPCRSQEPTSLLLQSHALPGCSPPAGMGWF
+GCSGQPAR--------RGHGSGRASSN----VG--GCNI--SLPHQSPWEQGNE------
+-----LS--VLQAATPPPTLFCPRAFICRGTTCARSQTASVHTGVVSIPAKAALLPAAVM
+RILFFLVAVLFFLFQAAPAY------SQETADTLACRQSRGSCSFVPCSAPLVDIGTCRG
+GKLRCCKWTPSS------------------------------------------------
+--------------
+>ENSZALP00000013884 ENSZALG00000011542	67	None	None	Zonotrichia_albicollis	116B	116	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+RILFFLVAVLFFLFQAAPAY------SQEAADTLACRQSRGSCSFVACSAPLVDIGTCRG
+GKLKCCKWTPSS------------------------------------------------
+--------------
+>ENSACUP00000012183 ENSACUG00000008235	63	None	None	Athene_cunicularia	116B	116	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+RILFFLVAVLFFLFQAAPAY------SQEAADTLACRQNRGSCSFVACSAPLVDIGTCRG
+GKLKCCKW----------------------------------------------------
+--------------
+>ENSNPEP00000010896 ENSNPEG00000008188	63	None	None	Nothoprocta_perdicaria	116B	116	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------M
+RILFLLVAVLFFLFQAAPAY------SQEAADTLACRQNRASCSFVPCSAPLVDVGTCRG
+GKLRCCKW----------------------------------------------------
+--------------

@@ -1,0 +1,693 @@
+>ENSEEUP00000003571 ENSEEUG00000003932	148	None	None	Erinaceus_europaeus	209A	209	A
+------------------------------------------------------------
+------------------------------------------------------------
+----------VPRIWAVWLGRLDPKQ-----LLGPWYVLAMASGEKGFAVEKDTKNIEGV
+IVTLTPENRLRMRSSRHR------------------------LESCDLKDMELLKQNSRW
+VFE-NPSLGV--LEYRVLSTNFRDYAIIFTQLEF-EDEAFNTVELYSRKELASPEDLR-L
+FK-W-SGLGFLAQQ----------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSP00000399627 ENSG00000204003	153	AL355987	None	Homo_sapiens	209A	209	A
+------------------------------------------------------------
+------------------------------------------------------------
+------ALVSVPRAQAVWLGRLDPEQ-----LLGPWYVLAVASREKGFAMEKDMKNVVGV
+VVTLTPENNLRTLSSQHG------------------------LGGCDQSVMDLIKRNSGW
+VFE-NPSIGV--LELWVLATNFRDYAIIFTQLEF-GDEPFNTVELYSLTETASQEAMG-L
+FTKWSRSLGFLSQ-----------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSELUP00000015256 ENSELUG00000015252	179	lcn15	lipocalin	Esox_lucius	209B	209	B
+------------------------------------------------------------
+-----------------------------------------------------IMFLVVT
+ILSVMLWTQC---FNAIVRPQKDFDL---QRFSGPWYRVGLAYDSPEFVPLKKYLQVSKG
+NITSDTDGNANLTVRGTG------------------------KKGCMCGVYHYKKTDLPG
+QFTYFSDRHQIWKDVTVVESNYTEYSLVVKYK--EIMKNFSQVSLYGRFPTLREEILE-R
+FRNYSLLLGFSAESILIPSSIGIYY-----------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSSFOP00015052219 ENSSFOG00015024244	181	ptgdsa	lipocalin	Scleropages_formosus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTAVL
+TFTVMLLALS---IHADVQPQKDFDL---RRFAGKWYRVGLAYDSPGFVRYRSKMRISMG
+ILTPQLNGDANLTMWEMS------------------------PLGCHPLSYVYEKTSVPG
+QFKYFSTRHNRTKDIMVVETNYNEYALVLKHK--KMDKEFTQVALYGRSQKLRTELLD-K
+FREFALSRGFSRESILTPPAAA--DDCPPA------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSHHUP00000078216 ENSHHUG00000045657	183	lcn15	lipocalin	Hucho_hucho	209B	209	B
+------------------------------------------------------------
+-----------------------------------------------------MLFLVVT
+VFSVMLWTQC---LNADIHPQKDFDL---QRFSGQWYRVGLAYDSPEFVPWRSYVQVSNG
+NITSDMDGNANLTVWGTG------------------------LKGCMCRVYYYEKTDLPG
+QFNYFSDRHQILKDITVVESNYTEYGLVVKYK--KIVKEFSQVSLYGRSSTLRKELVE-R
+FINYSLSLGFSAESILTPSFVDPCSDCGH-------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSOTSP00005077705 ENSOTSG00005036634	182	lcn15		Oncorhynchus_tshawytscha	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MFLVVT
+VFSVMLWTQC---INADIHPQQDFDL---QRFSGQWYRVGLAYDSPEFVPWRSYVQVSNG
+NVTYDMDGNANLTVWGTG------------------------LKGCMCRVYYYQKTDLPG
+QFNYFSDRHQILKDITVVESNYTEYGLVVKYK--KIVKEFSQVSLYGRSPTLRKELVE-R
+FRNYSLSLGFSANSILTPSFVDPCSDCGH-------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSCDRP00005032753 ENSCDRG00005022289	164	None	None	Camelus_dromedarius	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MAG-V-
+LLTALLALVSVPRAQALWLGRLDPQQ-----LLGSWYVVAVASGERDFAVEKATKNIEGV
+VVTLTPENNLKMLASRHR------------------------LERCHLHTVELLKQNSGW
+VFG-NPSLGV--LEYRVLGTNFRDYAVVFTQLEL-ADEAFGTVELYSRTELASQEAMS-L
+FTKWSKGLGFLSQQ----------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSCHIP00000004956 ENSCHIG00000009093	164	None	lipocalin	Capra_hircus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRA-A-
+LLAALLAVVSAPSARAVWLGRLDPQQ-----LMGSWYVLAVASGEKDFALEKATKSVEGV
+EVMLTSQNTLKMRASRHR------------------------WPGG------------SW
+---------S--PGYRVLGTNFRDYAIVFTQLEA-QEEAFSTVELYSRTALASQEALG-R
+FAKWSRSLGFLSQQQAELQRDCECRQTLGGCLPA--------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSCWAP00000001617 ENSCWAG00000001352	162	None	None	Catagonus_wagneri	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------RGD-V-
+LLAGLLALA--SGARAAWLGRLDPRQ-----FLGSWYILAVASGEKDFAVESALRNIEGV
+LVTLTPESNLRVLSSRHR------------------------LDSCHLHTVELLKQNSGW
+VFG-NPSLGV--LEYRVLGTDFRDYAVVFTQLEF-EDEAFNTVELYSRSELASQEAMR-R
+FSKWSKSLGFLSQQ----------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSDLEP00000022110 ENSDLEG00000016024	202	LCN6	lipocalin	Delphinapterus_leucas	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRA-V-
+LLAALLALVLVPRARAAWLGRLDPRQ-----LLGSWYILAVASGEKDFVVDKATKNIEGV
+MLTLTPENTLKMLSSRNR------------------------LERCHLHAVELMKQNSRW
+VFG-NPSLGV--LEYRVLATNFRDYAIVLTQLEL-QDEAFSTVELYSECGRGRGGLPA-V
+LGLRPPGVPALKEP-----------------------SGLA-------AAPLHHSSLHEI
+PTGAPSLPSLSPPPCTCPLWET--------------------------------------
+-------------------------------------------
+>ENSMMSP00000025003 ENSMMSG00000018819	164	None	None	Moschus_moschiferus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MSA-V-
+LLAALLAVVSTPSARAMWLGRLDPQQ-----LMGSWYVLAVASGEKNFALEKATKNVEAV
+EVMLTSQNTLKMRASRHR------------------------LERCHLQALELRRQNSGW
+VFR-NPSLGV--LEYRVLGTNFRDYAIVFTQLEA-QEEAFSTVELYSRTALASQEALG-C
+FAKWSRSLGFLSQQ----------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSOARP00000001904 ENSOARG00000001817	179	None	None	Ovis_aries	209B	209	B
+------------------------------------------------------------
+-------------------------------------------------------MR-R-
+GAGGSLAMSSRPQSRGGRAAQPGPGQ-----LMGSWYVLAVASGGKDFALERATRSVEGV
+EVMLTSQNTLKMRASRHR------------------------LERCHLQAVELRRQNSGW
+VFG-NPSLGV--LEYRVLGTNFRDYAIVFTQLEA-QEEAFSTVELYSRTALASQEALG-R
+FAKWSRSLGFLSQQQAELQRDFTCAHKVFP------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSSSCP00000061362 ENSSSCG00000005835	190	None	lipocalin	Sus_scrofa	209B	209	B
+------------------------------------------------------------
+------------------------------------MQRHTKVAHGRGSPGPA-HSP---
+LS------GASGRARRRPRGHTPRLG-----FLGSWYILAVASGEKDFAVERAVRSVEGV
+LVSLTPQNHLRVLSSRHR------------------------LDRCHLHTVELLKQNSGW
+VFG-NPSLGV--LEYRVLGTNFRDYAVVFTQLEF-GDEAFNTVELYSRSELASQEAMN-L
+FSKWSKNLGFLSQQQATLQKDFTCAHKVHQ------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSTTRP00000007177 ENSTTRG00000007588	164	None	None	Tursiops_truncatus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRG-V-
+LLAALLALVLVPRARAVWLGRLDPRQ-----LLGSWYILAVASGEKDFVVDKATKNIEGV
+MLTLTPENTLKVLSSRSR------------------------RERCHLHAVELTKQNSRW
+VFR-NPSLGV--LEYRVLATNFRDHAIVLTQLEL-QDEAFSTVELYSRTELASQKAMG-L
+FTKWSKGLGFSSQQ----------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSCAFP00000063175 ENSCAFG00000019563	236	None	lipocalin	Canis_lupus_familiaris	209B	209	B
+------------------------------------------------------------
+-------------------------------------------MCAGMNISGR-MRG-V-
+LLTAFVALVSLPRTRAVWLGRLDPKQ-----LLGSWYILAVASGEKGFALEKATKNIEGV
+VVSLTPENNLKLLSSRHR------------------------LERCDVNVVELLRQNSGW
+VFE-NPALGI--LDYRVLGTNFRDYAIVFTQLEF-KDEAFSTVELYSRTELASQEAMG-L
+FTRWSWGLGFLSQQQASLQRDRECRPMLRGQHPIR--GGCGQTPSQVL-G----------
+---------------------------------VPGEAQTSSRLLLPPSHLCVQGLPGKP
+LS-----------------------------------------
+>ENSMPUP00000011125 ENSMPUG00000011217	181	None	None	Mustela_putorius_furo	209B	209	B
+------------------------------------------------------------
+----------------------------------------------------T-MLA-V-
+LLTALLALVSAPRTQAVWLGRLDPQQ-----LLGPWYVLAVASGEKGFALDKATKNIEGV
+VVTLTSENHLRMLSSRHR------------------------LESCDVNVVELRRRKPGW
+AFE-NPSLGV--LDYRVLGTNFRDYAVVFTQLEF-KGEAFSTVELYSRTDLASPEAMH-R
+FARWSKGLGFLSQQRAMLQQDLTCAHKAFR------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSNVIP00000016566 ENSNVIG00000012967	163	None	None	Neovison_vison	209B	209	B
+------------------------------------------------------------
+-------------------------------------------------------MG-C-
+LLTALLALVSAPRTQAVWLGRLDPQQ-----LLGPWYVLAVASGEKGFALEKATKNIEGV
+VVTLTSENHLRMLSSRHR------------------------LESCDVNVAELLRQKPGW
+AFE-NPSLGV--LDYRVLGTNFRDYAIVFTQLEF-KDEAFSTVELYSRTDLASPEAMH-R
+FARWSKGLGFLSQQ----------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSUMAP00000032143 ENSUMAG00000023176	310	None	lipocalin	Ursus_maritimus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRA-V-
+LLPALLALVSVPRMQAVWLGRLDPKQ-----LLGSWYVLAVASGEKGFALEKATKNIEGV
+VVTLTPENNLKMLSSRHR------------------------LERCDVNVAVLLRQNSGW
+VFE-NPSLGV--LDYRVLGTNFRDYAIVFTQLEF-KDEAFSTVELYSRTELASQEAMR-L
+FARWSKGLGFLSQQQATLQQDCECHPMPKGSWLTS--AGLGVPPGPREPGRTGVGALHRV
+TRSLPKARPAGPAPSQARLWAEQGGHSTSWVPWWPGEAPTLTALLAPPV-TCARKVFQVS
+CLPQHRPGSYTPGLCCREGPGTGAGAHTPRVNLGSPSALLGFQ
+>ENSVVUP00000036357 ENSVVUG00000026069	231	None	lipocalin	Vulpes_vulpes	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRG-V-
+LLTAFVALVSLPRTRAVWLGRLDPKQCWLGPLLGSWYILAVASGEKGFALEKATKNIEGV
+VVTLTPENNLKMLSSRHR------------------------LERCDVNVVELLRQNSGW
+VFE-NPALGI--LDYRVLGTNFRDYAIVFTQLEF-KDEAFSTVELYSRTELASQEAMG-L
+FTRWSWGLGFLSQQQASLKRDCECRPMVRGQHPIR--GGCGQTPSRVL-G----------
+---------------------------------VPGEAQTSSRLLLPPSHLCAQDLPGKP
+LF-----------------------------------------
+>ENSPVAP00000003170 ENSPVAG00000003355	164	None	None	Pteropus_vampyrus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRA-V-
+LLTALLAVALGPGAQAVKLGRLDPQK-----LLGPWYVLAVASSEKGFAVEKATKSVEGV
+VVTLTPEDKLRVLSSRHR------------------------VERCNLSMVELLRQNSGW
+VFE-NPSLGV--LEYRVLGTDFQAYAVVFTQLEL-GDEAFSTVELYSRTERASQEAME-R
+FTKWSQGLGFLSQQ----------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSRFEP00010007618 ENSRFEG00010005174	180	None	None	Rhinolophus_ferrumequinum	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRG-V-
+LLTALLAVVSLPRAQAVWLGRLDPKQ-----LLGSWYVLAVASGEKGFAAEKATKNIEGV
+VVTLTPENNLKVRSSRHR------------------------LETCDLSVMELLRQNSGW
+VFE-NPSLGV--LEYRVLGSNFRDYAIVFTQLEL-EDEAFSTVELYSRAEWASQAGLS-L
+FTKWSQGLGFLSQQQARLQTDPTCARKAFQ------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSDNOP00000028625 ENSDNOG00000031365	181	None	None	Dasypus_novemcinctus	209B	209	B
+------------------------------------------------------------
+----------------------------------------------------S-MRA-A-
+LLTVLLAVAVVSGVRAVWLGRLDPKQ-----ASGPWYVLAVASREKGFVVEKATKSVQGV
+LVTLTPENNLKVLSSRSG------------------------LEGCSQTVVELLKQNSRW
+VFE-NPSLGV--LEFRVLGTNFQDYAIVFTQLEL-GGEPFNTVELYSRTHVASPEAVR-L
+FSRWSKALGYRSQQQARLQKDLTCAHRVLQ------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSPCAP00000011020 ENSPCAG00000011851	164	None	None	Procavia_capensis	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MEA-K-
+LLVALLVLATVPRPQAVWLGRLGPKQ-----LLGPWYVLAVASREKGFAERKAMRSIEGV
+VVTLTPENKLKMLASRSG------------------------LEGCNLTVTELLKQGSRW
+VFE-NPSLGV--LEYRVLGTDFKDYAVVFTQLGF-GDEAFNTVELYSRTKVASLEATS-L
+FSRWTRNLGYSAQQ----------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSECAP00000012647 ENSECAG00000014991	164	None	lipocalin	Equus_caballus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRG-V-
+LLAALLALLSVPQARALWLGRLNPNQ-----LLGSWYVLAKASGEKDFAVEKATKNIEGV
+VVTLTPENNLKMLSSRHR------------------------LERCDLNVVELLRQASGW
+VFE-NPALGV--VEFRVLSTNFRDYAVVFTQLEF-ADEAFSTVELYSRSELASQEAVH-L
+FAKWSKGLGFLSQQ----------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSCJAP00000020299 ENSCJAG00000010994	164	None	None	Callithrix_jacchus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MGS-L-
+LLAVLLALVSVPRAQAVWLGRLDPKQ-----LLGPWYVLAVASWEKSFAVEKDIKNVVGV
+VVTLTPENNLRMLSSQQG------------------------LEGCSQSVMELLKRNSGW
+VFE-NPSMGV--LEFRVLGTNFRDYAIVFTQLEF-GDEPFNTVQLYSRRETASQEAMG-L
+FTKWSRGLGFPSRQ----------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSCATP00000043837 ENSCATG00000044431	226	None	lipocalin	Cercocebus_atys	209B	209	B
+------------------------------------------------------------
+--------------------------------------------MGGLSPSCF-LPG-L-
+LLAALLALVAVPRAQAAWLGRLDPKQ-----LLGPWYVLAVASREKSFAVEKDMKNVAGV
+VVTLTPENNLRLLSSQHG------------------------LQGCSQSVTELLKRNSGW
+VFE-NPSIGV--LELRVLATNFRDYAIIFTQLEF-GDEPFNTVELYSRTEAASQEAMG-L
+FTKWSRGLGFLSQQQAQLQKDRECPPEQPQGRLGASSGAHRARWGGTDPGADSGFCLTQ-
+--SLS---------------GSQAG-----------------------------------
+-------------------------------------------
+>ENSCSAP00000011971 ENSCSAG00000015897	180	None	None	Chlorocebus_sabaeus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MGG-L-
+LLAALLALVSVPRAQAVWLGRLDPKQ-----LLGPWYVLAVASREKSFAVEKDMKNIAGV
+VVTLTPENNLRLLSSQHG------------------------LQGCSQSVMELLKRNSGW
+VFE-NPSIGV--LELQVLATNFRDYAIIFTQLEF-GDEPFNTVELYSRTEAASQEAMG-L
+FTKWSRGLGFLSQQQAQLQKDLTCAHKILP------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSGGOP00000000036 ENSGGOG00000000037	99	None	None	Gorilla_gorilla	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MGG-L-
+LLAAFLALVSVPRAQAVWLGRLDPKQ-----LLGPWYVLAVASREKGFAVEKDMKNVVGV
+VVTLTPENNLRMLSSQHG------------------------LGGCNQSVMELIK-NSGW
+VFE-NP------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSP00000339621 ENSG00000267206	163	LCN6	lipocalin	Homo_sapiens	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MGG-L-
+LLAAFLALVSVPRAQAVWLGRLDPEQ-----LLGPWYVLAVASREKGFAMEKDMKNVVGV
+VVTLTPENNLRTLSSQHG------------------------LGGCDQSVMDLIKRNSGW
+VFE-NPSIGV--LELWVLATNFRDYAIIFTQLEF-GDEPFNTVELYSLTETASQEAMG-L
+FTKWSRSLGFLSQ-----------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSMMUP00000024683 ENSMMUG00000018754	180	LCN6	lipocalin	Macaca_mulatta	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MGG-L-
+LLAALLALVAVPRAQAVWLGRLDPKQ-----LLGPWYVLAVASREKSFAVEKDMKNVAGV
+VVTLTPENNLRLLSSQHG------------------------LQGCSQSVTELLKRNSGW
+VFE-NPSIGV--LELRVLATNFRDYAIIFTQLEF-GDEPFNTVELYSRREAASQEAMG-L
+FTKWSRGLGFLSQQQAQLQKDLTCAHKILS------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSMLEP00000019936 ENSMLEG00000034192	217	None	lipocalin	Mandrillus_leucophaeus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MGG-L-
+LLAALLALVAVPRAQAVWLGRLDPKQ-----LLGPWYVLAVASREKSFAVEKDMKNVAGV
+VVTLTPENNLRLLSSQHG------------------------LQGCSQSVTELLKRNSGW
+VFE-NPSIGV--LELRVLATNFRDYAIIFTQLEF-GDEPFNTVELYSRTEAASQEAMG-L
+FTKWSRGLGFLSQQQAQLQKDRECPPEQPQGRLGASSGAHRARWGGTDPGADSGFCLTQ-
+--SLS---------------GSQAG-----------------------------------
+-------------------------------------------
+>ENSMICP00000046394 ENSMICG00000043107	103	None	lipocalin	Microcebus_murinus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------MEGCNQNVVELQKQSSGW
+VFE-NPSLGV--LEYRVLGTNFRDYAIIFTQLEF-GDEAFNTVELYSRNETASQEALG-L
+FSKWSRGLGFLSQQQAQLRKDLTCAHRILQ------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSPANP00000015737 ENSPANG00000026157	164	None	lipocalin	Papio_anubis	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MGG-L-
+LLAALLALVAVPRAQAVWLGRLDPKQ-----LLGPWYVLAVASREKSFAVEKDMKNVAGV
+VVTLTPENNLRLLSSQHG------------------------LQGCSQSVTELLKRNSGW
+VFE-NPSIGV--LELRVLATNFRDYAIIFTQLEF-GDEPFNTVELYSRTEAASQEAMG-L
+FTKWSRGLGFLSQQ----------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSPPYP00000022182 ENSPPYG00000019783	164	None	None	Pongo_abelii	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MGG-L-
+LLAAFLALVSVPRAQAVWLGRLDPKQ-----LLGPWYVLAVASREKGFAVEKDTKNVAGV
+VVTLTSENNLQMLSSQHG------------------------LEGCSQSVMELIKRNSGW
+VFE-NPSIGV--LELRVLATNFRDYAIIFTQLEF-GDEPFNTVELYSRMETASQEAMG-L
+FTKWSRSLGFLSQQ----------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSTGEP00000007442 ENSTGEG00000006092	163	None	None	Theropithecus_gelada	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MGG-L-
+LLAALLALVAVPRAQAAWLGRLDPKQ-----LLGPWYVLAVASREKSFAVEKDMKNVAGV
+VVTLTPENNLT-LSSQHG------------------------LQGCSQSVTELLKRNSGW
+VFE-NPSIGV--LELRVLATNFRDYAIIFTQLEF-GDEPFNTVELYSRTEAASQEAMG-L
+FTKWSRGLGFLSQQ----------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSLAFP00000016874 ENSLAFG00000022340	180	None	None	Loxodonta_africana	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRV-V-
+PMVALLVLAFVPRAQAMWLGRLDPKQ-----LLGPWYILAVASREKGFAEGKAMRTIEGV
+VVTLTPENKLKMLASRSG------------------------LDGCSLTAVELWKQSPGW
+VFE-NPSLGV--LEYRVLSTNFKDYAIVFTQLEF-GDETFNTVELYSRTEVASLEATS-L
+FSKWSRNLGYLAQQQARLQEDLTCAHKVLQ------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSCCNP00000027837 ENSCCNG00000026883	175	None	lipocalin	Castor_canadensis	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRVV--
+LLTALLALVSVPRAQAVWLGRLDPKQ-----LLGPWYILAVASREKNFMVEKDVKNVEGV
+MVTLTPENKLRVQSSRHG------------------------LDGCHQSTMELLKRDSRW
+VFE-NPSLGV--LDFRVLSTNFKDFAVVFTQLEF-GDEAFNTVELYSRTEMASPEATQ-L
+FTKWSRGLGFLSEQQAQLQKDRECA-----------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSCPOP00000012871 ENSCPOG00000014285	202	None	None	Cavia_porcellus	209B	209	B
+------------------------------------------------------------
+----------------------------------------------------R-MGV-A-
+QLTILLALVFMPRAQAAWLGRLDPNQ-----LLGPWFVLAVASREKGFVLERDMRTAEAV
+VVTLTAESKLELLSSRQG------------------------LEGCIQSVMHLQRQDSGW
+VFQ-NPSLGV--LEYRVLGTNFRDYAIVFTQLEF-GDEAFNTVQLYSRTEMASEEAMR-L
+FTKWSKDLGFWPQQQAQLRRDFSCAHRILQVNRLPLLYRPGSLGEERRPGA---------
+------------------------------------------------------------
+-------------------------------------------
+>ENSCLAP00000009095 ENSCLAG00000006346	180	None	lipocalin	Chinchilla_lanigera	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MGV-A-
+QLTTLLALVSMLRAQVVWLGKLDPKQ-----LLGSWYILAVASSERDFVLEKDTRIVEGV
+VVTLSAENGLKVLSSRLG------------------------PDGCNQMELELQQQDSGW
+VFQ-NPSLGV--LQYRVLGTNFRDYAIVFTQLEL-EGEAFNTVELYSRTETASEEALQ-L
+FNKWSKDLGFWAHQQAKLQRDFTCAQRILQ------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSDORP00000014496 ENSDORG00000015405	181	Lcn6	lipocalin	Dipodomys_ordii	209B	209	B
+------------------------------------------------------------
+-------------------------------------------------------LGMG-
+LLTALLALASMPGTLAGWLGRLDPNQ-----LLGPWYVLAVASQEKNFVVEKNVRSIEGV
+MVTLTPENKLRVRSSLRR------------------------LDGCHQRTVELLKQESRW
+VFE-NPSLGV--LDFRVLGTNFKDYAIIFMQLEQ-EDEAFSTVELYSRTAVASQEAMR-L
+FTKWSKSLGFLSHEQVQLQEDLTCAHEIVQC-----------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSSTOP00000015132 ENSSTOG00000021330	184	None	lipocalin	Ictidomys_tridecemlineatus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MR-VL-
+QLGALLVLVFMPSTQLVWLGRLNPKQ-----LLGPWYLLAVASHEKGFMVEKNTKYVEGV
+MVTLTPENTLKVLSTRHG------------------------LEGCTQNAMELSRQSSRW
+VFE-NPALGV--LQYRVLGTNFRDYAIVLTQMEI-EEEAFNTLGLYSRMEMASQEALQ-L
+FTKWSRNLGFLSQQQAQLQKDCDLLAMTLL-------QGGG-------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSMUGP00000027557 ENSMUGG00000022898	181	Lcn6	lipocalin	Meriones_unguiculatus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MKAML-
+PTAALLVLVSVPWVKAVWLGRLDPKQ-----LLGPWYILAAASRAKNFMVEKDMKNVEGV
+MVSLTSDNKLRVQSSRHG------------------------PDGCSQSTVELLKQGSRW
+VFE-NPSLGV--LDYRVLGTNFKDYAVIFTQLEF-GDEAFNTVELYSRTEMASREAMQ-L
+FTKWSQGLGFLSQQQAQLQKDLTCAKKILQ------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSMAUP00000003618 ENSMAUG00000004084	181	Lcn6	epididymal-specific	Mesocricetus_auratus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MKAAL-
+LTAAFLALVSMSWVQAVWLGRLDPKQ-----LLGPWYILAMASRAKDFMVEKDTKNVEGV
+MVTLTPDDKLRVQSSRHG------------------------PDGCHQSTVELLKRDSRW
+VYE-NPSLGV--LDYRVLGTNFKDYAVIFTQLEF-GDEAFNTVELYSRTEMARPEAIQ-L
+FTKWSRGLGFRSQQQAQLQKDFTCANKILQ------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSMOCP00000019373 ENSMOCG00000017383	181	Lcn6	lipocalin	Microtus_ochrogaster	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MKLVF-
+LAAALLALVSMSRVQALWLGRLDPKQ-----FLGPWYILAMASRAKDFMVEKDMKNVEGV
+LVTLTPDNKLRVLSSRQG------------------------PDGCHQSTVELLKQESRW
+VFE-NPSIGV--LDYRVLGTNFKDYAVVFTQLEF-GDEAFNTVELYSRTEVASYEAMK-L
+FTKWSQGLGFRAQQQAKLRKDLTCAHKILQ------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSMUSP00000109837 ENSMUSG00000045684	181	Lcn6	lipocalin	Mus_musculus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MKVIL-
+LTAALLALVSIPWLQAVWLGRLDPKQ-----LLGPWYVLAVASRAKDFMVEKDMKNVEGV
+VVTLTPDNKLRVESSRHG------------------------PGGCHQSTVELLKQESRW
+VFE-NPSLGI--LDYRVLGTNFKDYAVVFTQLEF-GDEVFNTVSLYSRTEMASHEAMQ-L
+FTKWSQGLGFLSQQQAQLQKDLTCAHKILQ------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSODEP00000021036 ENSODEG00000015503	180	None	lipocalin	Octodon_degus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MGV-A-
+QLTALLALVTMPRAQAVWLGRLDPKQ-----LLGPWYILAVASREKSFMLEKDTRNVEGV
+VVTLSAKNRLELLSSRHG------------------------LEGCSQSTVELQRRDSGW
+VFH-NPPLGV--LEYRVLGTNFRDYAVVFTQLEF-GDEAFNTVELYSRTKTASEEALR-L
+FTKWSKGLGFWSQQQTQLQRDFTCAHRILQ------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSPEMP00000006276 ENSPEMG00000008537	180	Lcn6	lipocalin	Peromyscus_maniculatus_bairdii	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MKVVL-
+LTAALPALVSLPWVQAVWLGRLDPKQ-----LTGPWYILAVASRAKDFM-EKDMKNVEGV
+LVTLTPDNKLRIQSSRHG------------------------PDGCHQSTVELLKRDSRW
+AFE-NPSLGV--LDYRVLGTNFKDYAVIFTQLEF-GDEAFNTVELYSRTEMASREAMQ-L
+FTKWSQGLGFLSHQQAQLQKDFTCAHKILQ------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSRNOP00000033421 ENSRNOG00000028095	181	Lcn6	lipocalin	Rattus_norvegicus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRVVL-
+LIAALLALVSMAWLQAVWLGRLDPKQ-----LLGPWYILAVASRAKDFMVEKDMRNVEGV
+VVTLTPDNRLRVQSSRHG------------------------PDGCHQSIVELLKQDSRW
+VFE-NPSLGI--LDYRVLGTNFKDYAVIFTQLEF-GDEVFNTVELYSRTEIASHQAMK-L
+FTKWSQGLGFLSQQQAQLQKDFTCAHKILQ------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSANIP00000000336 ENSANIG00000000240	174	None	None	Accipiter_nisus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTMRL
+SL--GLALLCLLRAEAEDLGA----------IAGKWYIIALASDSEGYLQKKDELKMAMA
+SITVLREGDLKISFAIPT------------------------LEGCKKRESIYKETGVPG
+EYY-SSGESG--EPTRVVDTDGKTYAVIFVSRVK-NGKTLHMLRLYSRTQQVSPKITA-L
+FKKLAREKNFTDEMITMLPSQEECSLEEA-------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSACCP00020019948 ENSACCG00020013723	181	None	extracellular fatty acid-binding	Aquila_chrysaetos_chrysaetos	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTVGL
+SL--GLALLCLLRAEAENFGAAGLDT---SKIAGKWHIIALASDSEGYLQKKDELKMAMA
+SIAVLREGDLKVSFAILT------------------------PEGCKKRELIYKETGVPG
+EYY-SSEGGK--RTARVVDTDGKTYAVIFVSRVK-DGKTLHMLRLYSRTQQVSPKITA-L
+FKKLAREKSFTDEMITMLPSQEECSLDEA-------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSAPLP00020013992 ENSAPLG00020010191	178	None	extracellular fatty acid-binding	Anas_platyrhynchos	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTVVL
+SL--GLALLCLLRAEA---GAAGLDR---SKIAGKWYVVALASNSEFYLREKDRLKMVMA
+SLSVLGPDKLKVSYAAVT------------------------PEGCRRRETIFKKTSDEG
+EVY-VSEGGD--RMAQVLDTDYKSYAVIFATRVK-DGKTLHMLRLYSRRQEVSPAVMA-L
+FRRFAKEQSFTDEMIKMLPSQDECRVDEP-------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSACDP00005011661 ENSACDG00005008577	178	None	None	Anser_cygnoides	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTVVL
+SL--GLALLCLLRAEA---GAAGPDR---SKIAGKWYVVALASNSEFYLREKDRLKMVMA
+SLSVLGEDKLKVSFAALT------------------------PEGCRRRETIFKKTSDEG
+EVY-LSEGGD--KMVQVLDTDYKSYAVIFATRVK-DGKTLHMLRLYSRRQEVSPEVMA-L
+FRRFAKEQSFTDEMIKMLPSQDECRVDEP-------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSAOWP00000000978 ENSAOWG00000000731	227	None	None	Apteryx_owenii	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTIVL
+SL--GLAQLCLLHVEAEDPGA----------IAGKWHIVALASDSESYLRKKDELKMAMA
+NISLLENGTLKVSLAIPT------------------------SEGCKKSELIFKKTGVLG
+EFY-HSERGN--KTLQVMKTDYQSYAMIFASRVK-DGKTLHMLRLYTLAIGGKGLTGHVV
+LCNVIRRXSS---RECSVPTRDTCPA-------------------------SHSLCVWPC
+CP-AGWVKVKGLLPLQIPMWQE--ERSVIWGWCVYGGGGGW----SR---GG--------
+------------------------GVHIPAL------------
+>ENSDNVP00000004346 ENSDNVG00000003067	192	None	extracellular fatty acid-binding	Dromaius_novaehollandiae	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTIIL
+SL--GLAQLCLLHVEAEDQGPAEXDK---SKIAGKWHIVALASDSEGYLRKKDELKMAMA
+NISLLKNGTLKVSFAIPT------------------------SEGCKKSELIFKKTGVQG
+EFY-RSEKGD--KTAQVMKTDYKSYAMIFVSRVK-DGKTLHMLRLYSRTQEVSQEITE-L
+FRKLANELGFTDEMIKMLPSQGGTGLADGCSSLRKAKPTL--------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSCPUP00000011258 ENSCPUG00000007979	237	None	lipocalin like	Calidris_pugnax	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTLEL
+SL--GLALLCLLCAEAEDPGAVGLDK---NKIAGKWYITAVASDSESYLRKKDELKMATA
+TIMVLGEGDLKVSFAIPT------------------------PEGCKKSEWIYKQTGVPG
+EYY-CPERGN--KTAQVVDTDGKTYAVIFASRLK-DGKTLHMLRLYSRTQEGSPKITA-L
+FKKLAREKSFTDEMIKMLPRQGEHCPALCWAGLVNKGSQD------VSAGTSSATALWSE
+LA-GESILVSHVLAFTLLKFIT--GLSI--------LGAKW----D--------------
+-------------------------------------------
+>ENSCPIP00010011402 ENSCPIG00010008842	207	None	None	Chrysolophus_pictus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTLAL
+SL--GLALLCLLHTGA---AATVPDR---SEISGKWYVVALASNSEKFLREKGNMKMAVV
+RISFPGEDELEVSYAVPN------------------------PKGCRKWGTTFKKTSDDG
+EVY-YSEEAK--KTVEVLDTDYKSYAVIFATRVK-DGRTLHMMRLYSRSREVSPAATA-I
+FKKLTRERNYTDEMVVMLPSQGECGQV--------------------L----------CL
+EP-PGWFSPHGEPEWAGRDWL------VVWVTRRR-------------------------
+-------------------------------------------
+>ENSCJPP00005019496 ENSCJPG00005015798	178	None	extracellular fatty acid-binding	Coturnix_japonica	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTLAL
+SL--GLALLCLLHAKA---AATVPDR---SEIAGKWYVVALASNTEFFLREKDKMKMAMA
+RISFLGEDELKVSYAVPK------------------------PNGCRKWETTFKKTSDDG
+EVY-YSEEAE--KKVEVLDTDYKSYAVIYATRVK-DGRTRHMMRLYSRSPEVSPAATA-I
+FRKLAGERNYTDEMVAMLPRQEECTVD--------------------E----------V-
+------------------------------------------------------------
+-------------------------------------------
+>ENSGALP00000044621 ENSGALG00000043064	178	EXFABP	extracellular fatty acid-binding	Gallus_gallus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTLAL
+SL--ALALLCLLHTEA---AATVPDR---SEVAGKWYIVALASNTDFFLREKGKMKMVMA
+RISFLGEDELEVSYAAPS------------------------PKGCRKWETTFKKTSDDG
+EVY-YSEEAE--KTVEVLDTDYKSYAVIFATRVK-DGRTLHMMRLYSRSREVSPTAMA-I
+FRKLARERNYTDEMVAVLPSQEECSVD--------------------E----------V-
+------------------------------------------------------------
+-------------------------------------------
+>ENSMGAP00000000142 ENSMGAG00000000761	178	None	extracellular fatty acid-binding	Meleagris_gallopavo	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTLAL
+SL--GLALLCLLHAGA---AATVPDR---SEIAGKWYVVALASNTEFFLREKGNMKMAMV
+RISFPGEDELEVSYAVPN------------------------PKGCRKWETTFKKTSDDG
+EVY-YSEEAK--KTVEVLDTDYKSYAVILATRVK-NGRTLHMMRLYSRSREVSPAAAA-I
+FRKLARERNYTDEMITMLPSQDECSVD--------------------E----------V-
+------------------------------------------------------------
+-------------------------------------------
+>ENSNMEP00000000116 ENSNMEG00000000186	178	None	extracellular fatty acid-binding	Numida_meleagris	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTLAM
+SL--GLALLCLLHTEA---AATEPDR---SEIAGKWYIVALASNSEFLLREKSKLKMAMA
+RISFLGEDELKVSYAVPN------------------------PEGCRKWETTFKKTSDDG
+EVY-YSEKAE--KMVEVLDTDYKSYAVIFATRVK-DGKTLHMMRLYSKSREVDPAAAA-I
+FRKLARERNYTDEMVTMLPSQEECSID--------------------E----------V-
+------------------------------------------------------------
+-------------------------------------------
+>ENSPSTP00000013882 ENSPSTG00000009810	178	None	None	Pavo_cristatus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTLAL
+SL--GLALLCLLHKEA---VATVPDR---SEIAGTWYVVALASNSESFLREKDKMKMAMA
+RISFSGEDELEVSYAVPS------------------------PKGCRKWETTFKKTSDDG
+EVY-YSEEAE--KTVEVLDTDYKSYAVIFATRVK-DGRTLHMMRLYSRSREVSPAAVA-I
+FRKLARERNYTDEVVTILPSQEECSVD--------------------E----------V-
+------------------------------------------------------------
+-------------------------------------------
+>ENSPCLP00000015590 ENSPCLG00000012711	199	None	None	Phasianus_colchicus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTLAL
+SL--ALALLCLLHAGA---AATVPDR---SEIAGKWYVVALASNSENLLREKGNMKMAVV
+RISFPGEDELEVSYAVPN------------------------PKGCRKWGTTFKKTSDDG
+EVY-YSEEAK--KTVEVLDTDYKTYAVIFATRVK-DGKTLHMMRLYSRSREVSPAATA-I
+FRTLAKERNYTDEMVIMLPSQGWLMDAASQKNKTNVPKLQ------AA----------AL
+PP-LSWL-----------------------------------------------------
+-------------------------------------------
+>ENSCPVP00000022399 ENSCPVG00000016045	181	None	extracellular fatty acid-binding	Camarhynchus_parvulus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTVGL
+SL--GMVLLCLLRVQAGDLGTAEPDE---SKIAGTWYITAMASDSESYLQNKDQLKMAMA
+NIEVLGDGDLKVSFAIPT------------------------PGRCMKFESIYKPTGSPG
+EYY-SSDRGN--KTVRLVDTDGSSYMVVFATREK-EGKTLHMLRLYSRTQWVRPKIKL-L
+FKRLAMLNGFTDETIWILPRQEECRLGEP-------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSCCEP00000026234 ENSCCEG00000023094	181	None	extracellular fatty acid-binding	Cyanistes_caeruleus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTMGL
+SL--GLVLLCLLGVQAGDVGTAEPDE---SKIAGTWYITAMASDSESYLQNKDQLKMAMA
+NIEVLGDGDLKVSFAIPT------------------------PGRCMKFESIYKPTGSPG
+EYY-SSDRGN--KTVRLVDTDGSSYMVVFATREK-DEKTLHMLRLYSRSQWVRPKIKL-L
+FKRLAKLNGFTDETIWILPRQEECRLDEL-------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSEGOP00005011548 ENSEGOG00005009022	181	None	None	Erythrura_gouldiae	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTVRL
+SL--GLVLLCLLRVQAGDRGTAEPDE---SKIAGTWYITAMASDSEIYLQNKDQLKMAMA
+NIEVLGNGDLKVSFAIPT------------------------PGRCMKFESIYTPTGSPG
+EYY-SSDRGN--KTVRLVDTDSSSYMVVFATREK-DGKILHMLRLYSRTQWVRPKIKL-L
+FKRLAKLNGFTDDTVWILPRQEECRLGEL-------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSFALP00000005153 ENSFALG00000004957	181	None	extracellular fatty acid-binding	Ficedula_albicollis	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRSEGL
+SL--GLVLLCLLRVQAKPLGTAEPDA---SKVAGTWYITAMASDSKTYLEKKDQLKMAMA
+NIEVLGDGDLNVSFAIPT------------------------PERCMKFSSIYKPTGNPD
+EYH-SSDRGN--KTVQLVNTDSSSYMVVFATREK-NGKKLKMLRLYSRAQQVRPKIIS-L
+FKRFAKQYGFTDETIWILPTQEECQLGEP-------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSGFOP00000016900 ENSGFOG00000011467	181	None	extracellular fatty acid-binding	Geospiza_fortis	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTVGL
+SL--GMVLLCLLRVQAGDLGTAEPDE---SKIAGTWYITAMASDSESYLQNKDQLKMAMA
+NIEVLGDGDLKVSFAIPT------------------------PGRCMKFESIYKPTGSPG
+EYY-SSDRGN--KTVRLVDTDGSSYMVVFATREK-EGKTLHMLRLYSRTQWVRPKIKL-L
+FKRLAMLNGFTDETIWILPRQEECRLGEP-------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSJHYP00000022120 ENSJHYG00000016688	181	None	None	Junco_hyemalis	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTLGL
+SL--GMVLLCLWRVQAGDPGTAELDE---SKIAGTWYITAMASDSESYLQKKDQLKMAMA
+SIEVQGNGDLKVSFAIPT------------------------PERCMKFESIYKPTGSPG
+EYH-SSDRGN--KTVRLVDTDGSSYMVVFATKEK-EGKTLHMLRLYSRTQWVRPKIKL-L
+FKKLAKLNGFTDETIWILPRQEECRLGEP-------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSLSDP00000020872 ENSLSDG00000014772	182	EXFAB	extracellular fatty acid-binding	Lonchura_striata_domestica	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTVGL
+SL--GLVLLCLLRVQAGELGTAEPDK---SKIAGTWYITAMASDSKVYLQKKDQLKMAMA
+NIEVLGNGDLKVSFAIPT------------------------PERCMKFESIYTPTGSPG
+EYY-SSDRGN--KTVRLVDTDGRSYMVVFATREKEDGKILHMLRLYSRTQWVRPKIKM-L
+FKRLAKLNGFTDETIWILPRQEECRLGEL-------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSMVIP00005013146 ENSMVIG00005009532	182	None	extracellular fatty acid-binding	Manacus_vitellinus	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTVGL
+SLGLGLALICLLHVEAEDLGAGELDT---SKIAGKWYITAMASDSESYLQRKDQLKMAMA
+GIEVLGK-DLKVSFAIPT------------------------PERCMKFESIYKPTSIPG
+EYY-SSDRGN--KTAQLVDTDGRTYVIIFATREK-EGKILHMLRLYSRTRWVRPRITD-L
+FKTFAKMEGFSDEMIWILPRQDECRLDGP-------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSPMJP00000020333 ENSPMJG00000015154	223	None	extracellular fatty acid-binding	Parus_major	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTMGL
+SL--GLVLLGLLGVQAGDGGIAELDE---SKIAGTWYITAMASDSESYLQNKEQLKMAMA
+NIEVLGDGDLKVSFAIPT------------------------PGRCMKFESIYKPTGSPG
+EYY-SSDRGN--KTVRLVDTDGSSYMVVFATREK-DEKTLHMLRLYSRSQWVRPKIKL-L
+FKRLAKLNGFTDETIWILPRQGEHCPGPIQGHAGRDQ-----------------------
+-------LSPSVPPLCGLSWQE--GQPVLWLGTLSKEK--------P---TS--------
+------------------------SF-----------------
+>ENSTGUP00000032027 ENSTGUG00000021879	206	None	extracellular fatty acid-binding	Taeniopygia_guttata	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTVGL
+SL--GLVLLCLLRVQAEELGTAGPEE---SKIAGTWYITAMASDSKIYLQKKDQLKMAMA
+NIEVLGNGDLKVSFAIPTPGTHCSKGGICPLLHWPHHPVSEHPERCMKFESIYTPTGSPG
+EYY-SSDRGN--KTVRLVDTDGTSYMVVFATREKEDGKILHMLRLYSRTQWVRPKIKT-L
+FKRLAKLNGFTDETIWILPRQEECRLGEL-------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSZALP00000013126 ENSZALG00000010954	140	None	None	Zonotrichia_albicollis	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------MASDSESYLQKKDQLKMAMA
+SIEVRGDGDLKVSFAIPT------------------------PGRCMKFESIYKPTGSPG
+EYY-SSDRGN--KTVRLVDTDGSSYMVVFATREK-EGKTLHMLRLYSRTQWVRPKIKL-L
+FKRLAKLNGFTDETIWILPRQEECRLGEP-------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSACOP00000011859 ENSACOG00000008256	295	None	None	Amazona_collaria	209B	209	B
+MSPLFPAAFHHPAGKQTLFLLFHNKTHRGNPGFQHWCGARVPAVRCSAPPGALWALPLCC
+KAVYSGATSALGNHPSQPTPAPGRVEGRRARCYKFSSPGTTPHPAGEPRGGCDEMRTIGL
+SL--GLALLCLLRVGAEDLGAAELDM---SKIAGKWHITAMATDNESYLQKKDQLKMAMT
+SIEVLGNGDLNVSFAIPT------------------------PGQCMRLLSIYKPTGVLG
+QYY-SSDRGY--KTAQVVDTDGKTYAVVFATRVK-DGKTLHALRLYTKTREVGPRLAV-L
+FRKLARQRSFTTDQIVMLPTQDECVLDEV-------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSMUNP00000015745 ENSMUNG00000012130	252	None	lipocalin like	Melopsittacus_undulatus	209B	209	B
+-------------------------------------------MGCSAPPGALWALPLCC
+KAVYSGATSALGNRLPQPTLSPGCVEGRRARYYKFSSPGTAPHPAGEPRGSCGEMRTMGL
+SL--GLALLCLLRVGAEDLGAAELDM---SKIAGKWHITAMATDNESYLQKKDLLKMAMT
+SIEVLGDGDLNVSFAIPT------------------------PGQCMRLMSIYKPTGVQG
+QYY-SSDRGY--KTAQVVDTDGKTYAVVFATRVK-DGKTLHALRLYTKTREVSPRLAV-L
+FRKLARQRSFTNDMIVMLPAQDECSLDQV-------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSSHBP00005011730 ENSSHBG00005010262	239	None	lipocalin like	Strigops_habroptila	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRTMGL
+SL--GLVLLCLLCTGAEDLGAVELDM---SKIAGKWYITAMATDSESYLQKKDQLKMAMT
+SIEVLGDGDLNVSFAIPT------------------------PGQCMRLVSIYKPTGVLG
+QYY-SSDRGY--KTAQVVDTDGKTYAVVFATRVK-DGKTLHALRLYSKTREVSPRMAV-L
+FRKLARQRSFTNDMIVMLPTQGERCPHVRCRLAGGCSCQV------MQDPHPE-------
+AP-GCCFLIPL--PSSVVKALT--HPLL--------LQHSV----SP---SC--------
+------------------------QINNSSPQ-----------
+>ENSSCUP00000001279 ENSSCUG00000001008	181	None	lipocalin like	Struthio_camelus_australis	209B	209	B
+------------------------------------------------------------
+------------------------------------------------------MRAIVL
+SL--GLALLCLLHVEAEDQGAAEINK---NKIAGKWHIVALASDSEGYLRKKDELKMSMA
+NILLLENGTLKVSLAIPT------------------------SEGCKKSEFIFKKIGIPG
+EFY-YSERGN--KTVQVMETDYKSYAIIFASRVK-DGKTLHMLRLYSRTREVSPKITE-L
+FRKLAKEQSYTDEMIKMLPSQEECGTEEP-------------------------------
+------------------------------------------------------------
+-------------------------------------------

@@ -1,0 +1,450 @@
+>ENSBTAP00000065558 ENSBTAG00000048817	249	SSX5	synovial sarcoma, X breakpoint	Bos_taurus	75A	75	A
+------------------MNRGSF-WENPREDRKKLEKKS--------------------
+---------------------------KTFKTISQYFSKKEWARLGYSEKITYVNMKRNY
+ETMTRLGLQ-CTP------------------PAFMCPKNGATKSKRCDSKTK-NPREKDE
+PPQG------------------------------TS---NMQGGKCQKVMPKKPV-KGKK
+RSKIV---------PG--------TSGPEQ-----AQRQLRSQAKASIS-------AQQS
+KKTAGSKKKK------VSAIR----LRERKPVAYEEISDPEEESNGNTVDVWANRGQKRE
+PVAQEEISDHEEESNRNTVNVWANRLRKRK-PVAYEEISD--PEEEEDEDD---------
+------------
+>ENSCDRP00005023705 ENSCDRG00005016342	180	None	None	Camelus_dromedarius	75A	75	A
+------------------MNRGSSFVKNSCDDTQKLEKKS--------------------
+---------------------------KAFKDISKYFSKEEWANLAYSQKITYVYMKRNY
+ETMTGLGLK-ASM------------------PNFMCPRRPTIKFREHDSEDK-NPGNQKE
+FPQE---------------------------------VFNMQERKQLKVIPEKRE-KE--
+------------------------TSGSEQ-----APKQLCPLQKEVSS-------DQQI
+KEIP--------------------------------------------------------
+------------GPKIERVKVWANRLRERKHRVIYEEISD--PEEDD-------------
+------------
+>ENSCHIP00000030777 ENSCHIG00000025401	208	None	protein	Capra_hircus	75A	75	A
+------------------MNRGSF-YETPREDRKKLEKKS--------------------
+---------------------------KSFKNISKYFSKKEWARLGYSEKVTYVNLKRNY
+ETMTRLGLK-CTP------------------PAFMCPKNGATESKHCDSKIK-NPREKDE
+PAEG------------------------------TS---NMQGRKRQKVMPKKPV-KGKK
+RSKIV---------PG--------TSGPEQ-----AQRQLRSQTKASIS-------AQQS
+KKTSGKRYNL------SYLF-------------------------GNKSSVF--------
+--------PGHVQVNGLTVNVWANRLRKRK-PVAYEEISD--PEEED-------------
+------------
+>ENSCWAP00000016758 ENSCWAG00000012946	184	None	None	Catagonus_wagneri	75A	75	A
+------------------MNRGSFIAKKSREGSQKSEKKS--------------------
+---------------------------KAFNDISKYFSKEEWANLRYSEKITYVYTKRSY
+DTMSGLGLK-ATP------------------PAFMCPKKPTTESSGHDSEDE------DE
+PPKE---------------------------------ASNLRGRKYLKVMPKKPE-KEKN
+PSELV---------PT--------ASGSQK-----AQSKPCPRGKASAS-------AQQS
+KKRS--------------------------------------------------------
+------------GSKRSNINVWTHRLRERKNPVIYEEISD--PEEDD-------------
+------------
+>ENSOARP00000013465 ENSOARG00000012563	156	None	None	Ovis_aries	75A	75	A
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------DE
+PAEG------------------------------TS---NMQGRKRQKVMSKKPV-KGKK
+RSKIV---------PG--------TSGPEQ-----AQRQLRSQTKASIS-------AQES
+KKTSESERKK----VDVWANR----LRKRQPVAYEEISDSEEESERKKVDVWANRLRKRQ
+PVAYEEISDSEEESERKAVDVWANRLRKRQ-LVAYEEISD--SEEESE------------
+------------
+>ENSPCTP00005011448 ENSPCTG00005008039	200	None	None	Physeter_catodon	75A	75	A
+------------------MNRGSSFAKSPREYSQKSEKNS--------------------
+---------------------------KAFKDISKYFSKKEWADLGYSEKITYVYMKRNY
+DTMTDLGNR-KFW------------------PKSRKT------------------TNNSN
+PPQRLNAAL-----I-------------------MPLILFVCDLHIKRVMPKKSE-KKKY
+PSKLV---------PE--------TSGSEQ-----AQEQLCPPGKANTS-------GQQS
+TETSGKRNLGTTPLASLATFKC--------------------------------------
+-----------MGPRRRKIDVWTHSLQEEKNLVVYEEICD--PKEDD-------------
+------------
+>ENSSSCP00000063895 ENSSSCG00000047914	184	None	protein	Sus_scrofa	75A	75	A
+------------------MNRGSYFAQRAREDAQKSEKKS--------------------
+---------------------------KAFNDISKYFSKEEWAKLGYSEKITYVYMKRNY
+DTMTGLGLK-ATP------------------PTFMCPRKQTIESSGHDSEDQ------DE
+PPKE---------------------------------ASNLRGRKYLEVMPKTPE-KEKN
+LLELG---------PT--------TSGSEK-----APSEPCLLGKASAS-------AQQS
+KETS--------------------------------------------------------
+------------GSGRSKINVWTHRLRERKYPVIYEEISD--PEEDD-------------
+------------
+>ENSTTRP00000013482 ENSTTRG00000014219	166	None	None	Tursiops_truncatus	75A	75	A
+------------------------------------------------------------
+----------------------------AFKDISKYFSKKEWADLGYSEKITYVYMKRNY
+DIMTDLGLK-TTL------------------PTFMCPKKRATKSNGHDSKDXXXXXXXXE
+PAQE---------------------------------ASNMRERKHLKVMPKKSK-KKKN
+PSKLV---------PV--------TSGSE------AQEQLCPPGKANTS-------GQQS
+KKTS--------------------------------------------------------
+------------GHRRREINVWTHRLRERKNLVVYKEISD--SEEDD-------------
+------------
+>ENSVPAP00000011078 ENSVPAG00000011905	216	None	None	Vicugna_pacos	75A	75	A
+------------------MNRGSSFVKNSSDDTQKLEKKSKHLWIQVCVLAP------LW
+VALSPFWKVSR----AIKHLLHTRGEAGAFKDISKYFSKEEWANLAYSEKITYVYMKRNY
+ETMTGLGLK-ASL------------------PNFMCPRRPTIKFGERDSEDK-NPGNQKE
+FPQE---------------------------------VFNMQERKQLKVLPEKRE-KE--
+------------------------T-GSQQ-----APKKLCPVEQESSS-------DQQI
+KEIP--------------------------------------------------------
+------------GPKIERVKVWANRLRERKYRVIYEEISD--PEEDD-------------
+------------
+>ENSFCAP00000052757 ENSFCAG00000047414	188	None	protein	Felis_catus	75A	75	A
+------------------MNKGNSFAKRPKEVTQKSEKKC--------------------
+---------------------------KEFEAISKFFSKEEWAKLGYSDKITYVYMKRNY
+DIMTGLGFK-TTL------------------PAFMCPKKCATKSSGHDSDEDQDSGNENE
+PIQEDSDVQQRKR-----L-----------------------------KVMHKKP-KEKD
+DSDP---------VPVA--------LGSKQ----VQEQQRCP--------GKASAPGKKS
+KKKPGSKKRKN-------------------------------------------------
+--------------------IWANRLRQRKNLIAYEEISD--PEEDD-------------
+------------
+>ENSPLOP00000020435 ENSPLOG00000014780	210	None	None	Panthera_leo	75A	75	A
+------------------MNKGNSFAKKPKEVTQKSEKKC--------------------
+---------------------------KEFEAISKFFSKEEWAKLGYSDKITYVYMKRNY
+DIMTGLGLK-TTL------------------PAFMCPKKCATKSSGHDSDEDQDSGNESK
+WTGRAWKGSPKAQL--LWV-----------------------------QLLGKDS-QEFA
+LSKPEDVENRLCRMPVGTWEGGGISLSEKN----KTKQNRDL------YSPTQPTLIYQL
+FSTIGSKKGKN-------------------------------------------------
+--------------------IWANRLRQRKNLIAYEEISD--PEEDD-------------
+------------
+>ENSPVAP00000014580 ENSPVAG00000015463	161	None	None	Pteropus_vampyrus	75A	75	A
+------------------------------------------------------------
+----------------------------AFKDICKYFSKEEWAKLGNSQKCTYVYMKRNY
+DTMTGLGLN-ATL------------------PAFMNPNKQTAKSPENDSHEDQNLGNQDE
+RPQKTSDLQH-------------------------------------LKMPKKPG-SKEH
+DLKTL---------PE--------THGSEP-----AQKQLCPPGKEIAS-------SQQM
+EKSAGPR--HR-------------------------------------------------
+-------------------HVWAYRLRERKNIVMYEEISD--LEEDD-------------
+------------
+>ENSGGOP00000018916 ENSGGOG00000026107	188	None	None	Gorilla_gorilla	75A	75	A
+------------------MNGDDAFARRPRDDAQISEKLR--------------------
+---------------------------KAFDDIAKYFSKKEWEKMKSSEKIIYVYMKLNY
+EVMTKLGFK-VTL------------------PPFMCSKR-AADFHGNDFGNDRNHRNQVE
+CPQMTFG---------------------------------RLQRIFPKIMPKKPA-EEEN
+DLKEV---------PE--------ASGPQN-----DGKQLCPPGNPSTL--------EKI
+NKTSGPKRG---------------------------------------------------
+------------------KHAWTHRLRERKQLVVYEEISD--PEEDDE------------
+------------
+>ENSP00000469011 ENSG00000268009	188	SSX4	SSX family member	Homo_sapiens	75A	75	A
+------------------MNGDDAFARRPRDDAQISEKLR--------------------
+---------------------------KAFDDIAKYFSKKEWEKMKSSEKIVYVYMKLNY
+EVMTKLGFK-VTL------------------PPFMRSKR-AADFHGNDFGNDRNHRNQVE
+RPQMTFG---------------------------------SLQRIFPKIMPKKPA-EEEN
+GLKEV---------PE--------ASGPQN-----DGKQLCPPGNPSTL--------EKI
+NKTSGPKRG---------------------------------------------------
+------------------KHAWTHRLRERKQLVVYEEISD--PEEDDE------------
+------------
+>ENSMLEP00000036820 ENSMLEG00000042509	164	None	None	Mandrillus_leucophaeus	75A	75	A
+------------------VNRDDACAKRPRDDAQIPEKIQKYPWRQVCDLAL------HL
+VTLSPFWKVGRESASSIKALLCGRVQASAFDDIPEYFSKKKWEKMKALEKIISVCMKRKY
+EAMTKL----------------------------------------------------IE
+RPQMTFS---------------------------------RLQRIFLKIVPKKPA-EEGN
+DSKGM---------SE--------ASGPQN-----DGKQLCPPGKPSTS--------EKI
+NKTP--------------------------------------------------------
+------------------------------------------------------------
+------------
+>ENSMICP00000042198 ENSMICG00000045282	94	None	protein	Microcebus_murinus	75A	75	A
+------------------MDRGRSFAKSSGGDAQISE-KC--------------------
+---------------------------KTFKDISKYFSKEEWSRLGYSQKTSYVYMKKNY
+DTMTRLGLK-TNL------------------PAFMSSKRRAIKSQAQGSAGQRQSRRNQ-
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------
+>ENSMUGP00000024571 ENSMUGG00000020531	94	Gm21876	predicted gene,	Meriones_unguiculatus	75A	75	A
+------------------LKTDSSCTKSPG-DICKPEKMS--------------------
+---------------------------KSFKDISRYFSEEEWAKLTKWQKSTYVFMKRNY
+IRMRGLGVP-VNQ------------------PVFMRVKKQITEHLIKESDENCGHESEG-
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------
+>ENSMOCP00000016197 ENSMOCG00000015166	157	None	None	Microtus_ochrogaster	75A	75	A
+VLEENRTVSFQSLTDSTDMKTRSSCLKSSVEDIHEPKKMC--------------------
+---------------------------KAFQDISTYFSEEEWAKLSTWQKSVYVYMKRNY
+IRMTALGVT-VNQ------------------PVFMRCKQQAKEIPV-ECIEVHGHESEDK
+HSEGTFGIKPKKRVKLTSLNLDPHNENEGLASED--------------------------
+---A--VASTTSNLP---------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------
+>ENSRNOP00000064611 ENSRNOG00000049427	91	AABR07036711	None	Rattus_norvegicus	75A	75	A
+-----------------------THSVNLRKTKHKPEEAC--------------------
+---------------------------KAFEDISKYFSREEWAKLSHSEKITYVYMKRNY
+TTMTNLGLR-AHL------------------PDFMESNEQATKSVLNDSDEVFSHESQG-
+------------------------------------------------------------
+------------------------------------------------------------
+---------K--------------------------------------------------
+------------------------------------------------------------
+------------
+>ENSBBBP00000014517 ENSBBBG00000022268	244	None	None	Bison_bison_bison	75B	75	B
+------------------MNRDSF-SENPREDRKKLEKKS--------------------
+---------------------------KS--------GFLKWARLGYSEKTTYVNMKRNY
+ETMTRLGLQ-CTP------------------PAFMCPKNGATKSKRCDSKTK-NPREKGN
+SKAL------------------------------EKWILIVCDFHVKKVMPKKPV-KGKK
+RSKIV---------PG--------TSGPEQ-----AQRQLRSQAKASIS-------AQQS
+KKTAGSKKKK------VSAIR----LRERKPVAYEEISDPEEESNGNTVDVWANRRQKRE
+PVAQEEISDHEEESNRNTVNVWANRLRKRK-PVAYEEISD--PEEEEDEDD---------
+------------
+>ENSMMSP00000018685 ENSMMSG00000014111	237	None	None	Moschus_moschiferus	75B	75	B
+------------------MNRGSF-SKSPREDRQKLEKKS--------------------
+---------------------------KTFKTISKYFSKKEWARLGYSEKITYVYMKRNY
+ETMTSLGLK-STP------------------PAFMCPKNGAKKSKHCDSKIK-NPMTKGA
+S--------------------------------------NMQGRKRQKVVPKEPV-KGKK
+HSKLV---------PG--------TSGPEE-----AQKQPCPQAKASKE-------T---
+---SGKRNNLSYLITDLCCHRCESHVTGDKAFKFSELQIPSPQ-NGNKESKFTDCSKV--
+----FNSRDFPGSPVVKTVSIWAHRLRKRK-PVAYEEISD--PEEED-------------
+------------
+>ENSAMEP00000013477 ENSAMEG00000012801	188	None	None	Ailuropoda_melanoleuca	75B	75	B
+------------------MNKGSFFANNSMEDTQISEKKS--------------------
+---------------------------KAFKDISKYFSKEEWANLGYSDKITYVYMKRNY
+DTMTSLGLR-ATL------------------PAFMCPKIQAVKSNGHDSDGNQKPKNQVQ
+LPHPF-------------------N--------------SNLPRNIKKVMLKKQI-KEES
+DWEEI---------PI--------APGSEQ-----AQKELYPPEKESTS-------NQQS
+ENTP--GKRGN-------------------------------------------------
+-------------------SIWASRLRERKNLVVYEEISD--PEEDD-------------
+------------
+>ENSCAFP00000009001 ENSCAFG00000015307	223	None	putative protein	Canis_lupus_familiaris	75B	75	B
+------------------MNKDSSFAKSSREDTQKSEKKC--------------------
+---------------------------KAFKDISKYFSKEEWAKLGYSDKITYVYMKRNY
+DTMTGLGLR-ATL------------------PAFMCPKKRAIKSKRHDSDENENHRNQNE
+PLQEVSNVKKRKHQKITWILRMLFFPKSSVYHTSFTWSILLFARLPGKKVMLKTV-KEEE
+DSDPI---------PI--------TPGFEQ-----AQKVLCLPGKASTS-------DQQS
+EIIPGPKRGKN-------------------------------------------------
+-------------------SIWAYRLRERKNLVVYEEISD--PEEED-------------
+------------
+>ENSLCNP00005029926 ENSLCNG00005019473	181	None	None	Lynx_canadensis	75B	75	B
+------------------MNKGNSFAKRPKEVTQKSEKKC--------------------
+---------------------------KEFEAISKFFSKEVWAKLGYSDKITYVYMKRNY
+DIMTGLGLK-TTL------------------PAFMCPKKCATKSSGHDSDEDQDSGNESK
+WTGRAWKGSPKAQL--LWV-----------------------------QLLGKDS-QEFA
+LSKVS---------------------------------WLNL------YSPTQPTLIYQL
+FSTIGSKKGKN-------------------------------------------------
+--------------------IWANRLRQRKNLIAYEEISD--PEEDD-------------
+------------
+>ENSMPUP00000013367 ENSMPUG00000013469	190	None	None	Mustela_putorius_furo	75B	75	B
+------------------MNKGSSFAKNSKEDTQKSEKKC--------------------
+---------------------------KAFKDISKYFSKEEWAKLGYSDKITYVYMKRNY
+DTMTSLGLR-ATL------------------PAFMCPKKRAMQSNGRDSDDDQNENQAQD
+EAVMG-------------------F--------------GSRFRNHQKVMLEKTI-KEES
+DSEPI---------PI--------TPGPEQ-----AQKEPCPPEKASTS-------DQQS
+LNECSGKKLMS-------------------------------------------------
+-------------------SVWAYRLRERKTLIVYEEISD--PEEDD-------------
+------------
+>ENSNVIP00000007811 ENSNVIG00000006180	198	None	None	Neovison_vison	75B	75	B
+------------------MNKGSSFAKNSKEDTQKSEKKC--------------------
+---------------------------KAFKDISKYFSKEEWAKLGYSDKITYVYMKRNY
+DTMTSLGNRKATL------------------PAFMCPKKRAMKSNGRDSDDDQNENQGDQ
+KRKFQL--------------------AFGVYQCGSNIS-ASRSQNMGKTGYV--------
+---EY---------LC--------ALGKEQASPYLGKQRLTLPSPSGPP-------IYQL
+FLTVGSRKLMN-------------------------------------------------
+-------------------SVWAYRLRERKTLIVYEEISD--PEEDD-------------
+------------
+>ENSSSUP00005034706 ENSSSUG00005022288	194	None	None	Suricata_suricatta	75B	75	B
+------------------MNKDRSFANRPKAVTQKSEKDC--------------------
+---------------------------KVFKTISKYFSDKEWAKLGYSEKTTYVYMKRNY
+DTMTGLGNRKFWVQTSLRT-------HHYPLSPFICHGFFL----GCN---------KCP
+MPALCAGR-----------------------NPRATPFFSFLFLFLIKKVMHKKP-KEKN
+DLDPV---------PV--------ALGSEQ-----AQKQQSPPGEDSIS-------DKQI
+KKIPGKR-----------------------------------------------------
+--------------------YRAYILRERKNLVAYEEISD--PEEED-------------
+------------
+>ENSVVUP00000023989 ENSVVUG00000017602	188	None	None	Vulpes_vulpes	75B	75	B
+------------------MNKGSSFAKSSREDTQKSEKKC--------------------
+---------------------------KAFKDISKYFSKQEWAKLGYSDKITYVYMKRNY
+DTMTGLGNR-KFG------------------CRQACEHV---------------------
+--------TIPQSLYMPWLLPRLQQVT------REMPLILFICDLHIKKVMLKTV-KEEE
+DSDPI---------PI--------TPGFEQ-----AQKVLCLPGKACTS-------DQQS
+EIIPGPKRGKN-------------------------------------------------
+-------------------SIWAYRLRERKNLVVYEEISD--PEEED-------------
+------------
+>ENSMLUP00000001640 ENSMLUG00000001798	190	None	None	Myotis_lucifugus	75B	75	B
+------------------MNRESSLDNNPMEGSQDSEEKC--------------------
+---------------------------KAFKDIRKYFTKEEWAKLRNSEKRTCVCLKRNY
+EIMTGLGLM-TTC------------------PDFMRPKNWTTKS-GHDSDEDWNPGNEVL
+EVLQISP----------------HFTPFAPLHPSPTPSQAFTYLLSMSMIALEDQ-----
+--------------PQ-------------------QHHKSCWTGADPM--------EQDL
+LQLTESKKEET-------------------------------------------------
+-------------------NVWVGRLRERKNRVVYQEISD--PEDDD-------------
+------------
+>ENSRFEP00010024480 ENSRFEG00010016277	123	None	None	Rhinolophus_ferrumequinum	75B	75	B
+------------------MDRGSSLAKSHREDAQKSQEKY--------------------
+---------------------------EAFDDISKNFSKKEWAKLGDLQKRTYVYMKRNY
+DYMTLLGLN-TNC------------------PYFMHSPNQSTNALESDSDEDQSPRNQD-
+------------------------------------------------------------
+------------------------------------------------------------
+---------EN-------------------------------------------------
+-------------------PVWAHRLRERKNRVVCEEVSD--PKEDD-------------
+------------
+>ENSDNOP00000020991 ENSDNOG00000036239	204	None	None	Dasypus_novemcinctus	75B	75	B
+------------------MNRGNSFKKSP-KDTHRAEKKS--------------------
+---------------------------KALKDISRYFSKEEWSELGYSEKVNYVYMKRNY
+DTMTNLGLK-TTI------------------PDFMCPNRLAIKYKGDNSDEDSTSRNQNE
+LPQVIPSVQKKKL-------------------------------KIQKMMSKKPS-REEN
+DSKGAPEGANL---KR--------PPGSEQ-----TQKQLCPTGKASTSGKTYPTPIYQL
+FSTTGPRKEGP-------------------------------------------------
+-------------------NAWAHRLRERKTLVSYEEISD--PEEED-------------
+------------
+>ENSEEUP00000003669 ENSEEUG00000004056	87	None	None	Erinaceus_europaeus	75B	75	B
+--------------------MNSTFKTGTQENNQKS-NMH--------------------
+---------------------------KAFMAISKYFSKKEWAKLGYTEKTTYVYMKRNY
+ETMSALGLR-ATL------------------PTFMCSGKPTTEFNGNNSVHDEN------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------
+>ENSOPRP00000012334 ENSOPRG00000013524	180	None	None	Ochotona_princeps	75B	75	B
+------------------------------------------------------------
+---------------SLRADPQKSDKLQAFQDISQYFSKKEWEKMGYSEKITYVYTKRNY
+TTMTRLGFK-RAM------------------PDFMRSGIHAKRSCESDSDEEQNTNAERR
+XXXXXXXXX--------------------------------XXXXXXXXVIQQPV-KQEN
+ISKVI---------RG--------ATKSGG-----TKKKPPRQGTPSTH-------GKQV
+--------------------VM--------------------------------------
+-----------SAVKKEESGVWSHRLRERKYVVAYEEISD--PEEED-------------
+------------
+>ENSOCUP00000006909 ENSOCUG00000007996	128	None	None	Oryctolagus_cuniculus	75B	75	B
+------------------MSTNGSLPMSHSADSQKSEKTC--------------------
+---------------------------KAFKDISQYFSKKEWEKLEYSEKITYVYMKRNY
+TTMTKLGIRKGWAHTTPVSSSAAAGASHFPLVQEELPRQPL------------------G
+TLLFSVLYRAKGKEQHQWSVHLPFSLPSASL-----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------
+>ENSECAP00000003532 ENSECAG00000005068	204	None	protein	Equus_caballus	75B	75	B
+------------------MNRDSSFAKSLKKGTRKLEKEC--------------------
+---------------------------KAFEDISKYICKEEWAKLGYSEKITYVYMKRNY
+DTMTSLGLR-AKL------------------PAFMCPKKGNTKSRGRNSGKGRNPRNQDE
+PPQKASSVQQRK---------------------------------RQKVMRKKPA-KEKN
+DSKPV---------PV--------TPGSKQ-----AHKQLFPLGEASTS-------GQQS
+EKTPGKRKLCGNDSSGFPGD-----------------------------------IRV--
+--C---GLGVGDGSWVGLGPGWTEELAQLQLRC---------------------------
+------------
+>ENSCJAP00000054558 ENSCJAG00000014776	223	None	synovial sarcoma, X breakpoint	Callithrix_jacchus	75B	75	B
+------------------MNGDGSFAKNPSDDEQISENKR--------------------
+---------------------------KAFADIAQYFSKKDWKKLKYSEKITYVYMKRNY
+EAMRTLGFQ-VTI------------------PLFMRDKQ-AEDSQEDDSDRDSNPGNLLE
+CHTMTFG---------------------------------MFQGLFPQIMPREPPEEEGN
+DSEAV---------PE--------TSGTQN-----DVKELCYSGKPSTL--------EMT
+TNIPGHREAQE-------------------------------------------------
+------------KEERRTAHRWSSQNTHNIDRLSLSSFMGAVPGTPKTITHNRNPKGRQM
+PGPIDCVRERIW
+>ENSCATP00000027662 ENSCATG00000037185	169	None	None	Cercocebus_atys	75B	75	B
+------------------MNGDNTFARRPRDDAQISEKIQ--------------------
+--------------------------------------KKEWEKMKAPEKIFFVYMKINY
+EVMTNF---------------------------FNRNKR-AADFHGFFFDNDRNRGNQVG
+RPQMTFG---------------------------------RLQRIFPKIMPKKPA-EIFF
+DSKQV---------AE--------ASGPRN-----GGKQLWPPRKPSTS--------EKI
+NKRSGPKKG---------------------------------------------------
+------------------KHAWTHFFCERKQPVISEEIFF--SEEDDE------------
+------------
+>ENSCSAP00000009489 ENSCSAG00000013341	188	None	protein	Chlorocebus_sabaeus	75B	75	B
+------------------MNGDNTFARRPRDDAQISEKIQ--------------------
+---------------------------KAFDDTAKYFSKKEWEKMKASEKIIYVYMKINY
+EVMTKLGFK-VTL------------------PPFMCSKR-AADFHGNDFDNDRNRGNQVE
+HPQMTFS---------------------------------RLQRIFPKIMPKKPA-EEGN
+DSKQV---------AE--------ASGPRN-----GGKQLCPPRKPSTS--------EKI
+NKRSGPKRG---------------------------------------------------
+------------------KHTWTHRLRERKQPVIYEEISD--PEEDDE------------
+------------
+>ENSP00000469394 ENSG00000269791	188	SSX4B	SSX family member	Homo_sapiens	75B	75	B
+------------------MNGDDAFARRPRDDAQISEKLR--------------------
+---------------------------KAFDDIAKYFSKKEWEKMKSSEKIVYVYMKLNY
+EVMTKLGFK-VTL------------------PPFMRSKR-AADFHGNDFGNDRNHRNQVE
+RPQMTFG---------------------------------SLQRIFPKIMPKKPA-EEEN
+GLKEV---------PE--------ASGPQN-----DGKQLCPPGNPSTL--------EKI
+NKTSGPKRG---------------------------------------------------
+------------------KHAWTHRLRERKQLVVYEEISD--PEEDDE------------
+------------
+>ENSMMUP00000071149 ENSMMUG00000014463	188	None	putative protein	Macaca_mulatta	75B	75	B
+------------------MNGDNTFARRPRDDAQISEKIQ--------------------
+---------------------------KAFDDIAQYFSKKEWEKMKASEKIIYVYMKINY
+EVMTKLGFK-VTL------------------PPFMCSKR-AADFHRNDFDHDRNRGNQVE
+HPQMTSG---------------------------------RLQGIFPKIMPKKPA-EKEN
+DSKQV---------AE--------ASGPRN-----GGKQLCPPRKPSTS--------EKI
+NKRSGPKRG---------------------------------------------------
+------------------KHAWTHRLRERKQPVIYEEISD--PEEDDE------------
+------------
+>ENSPTRP00000060627 ENSPTRG00000023969	188	None	protein	Pan_troglodytes	75B	75	B
+------------------MNGDDAFARRPRDDAQISEKLR--------------------
+---------------------------KAFDDIAKYFSKEEWEKMKSSEKIVYVYMKLNY
+EVMTKLGFK-VTL------------------PPFMCSKR-AADFHGNDFGNDRNHRNQVE
+RPQMTFG---------------------------------SLQRIFPKIMPKKPA-EEEN
+GLKEV---------PE--------ASGPQN-----DGKQLCPPGNPSTL--------EKI
+NKTSGPKRG---------------------------------------------------
+------------------RHAFTHRLRERKQLVIYEEISD--PEEDDE------------
+------------
+>ENSPANP00000021469 ENSPANG00000031568	161	None	None	Papio_anubis	75B	75	B
+------------------MNGDNTFARRPRDDAQISEKIQ--------------------
+---------------------------K-----------NEWKSMKAQRKSSY-------
+----------VTL------------------PPFMCSKR-AADFHGNDFDNDRNRGNQVE
+HPQMTFS---------------------------------RLQRIFPKIMPKKPA-EKEN
+DLKQV---------AE--------ASGPRN-----GGKQLWPPRKPSTS--------EKI
+NKRSGPKRG---------------------------------------------------
+------------------KHAWTHRLRERKQLVIYEEISD--PEEDDE------------
+------------
+>ENSPPYP00000023433 ENSPPYG00000020934	188	None	protein	Pongo_abelii	75B	75	B
+------------------MNGDDAFARRPRDDAQISEKLR--------------------
+---------------------------KAFDDVAKYFSKKEWEMMKSLEKIVYVYMKLNY
+EVMTKLGFK-VTL------------------PPFVCSKR-AAGFHGNDFDNDRNHRNQVE
+RPQMTFG---------------------------------RLQRIFPKIMPKKPA-EEGN
+DSKEV---------PE--------ASGPQN-----DGKQLCSPGKPSTL--------EKI
+NKTSGPKRG---------------------------------------------------
+------------------KHAWTHRLRERKQLVIYVEISD--PEEDDK------------
+------------
+>ENSTGEP00000005599 ENSTGEG00000004641	187	None	None	Theropithecus_gelada	75B	75	B
+------------------MNGDNTFARRPRDDAQISEKIQ--------------------
+---------------------------KAFDDIAQYFSKKEWEKMKASEKIIYVYMKINY
+EVMTKLGFK-VTL------------------PPFMCSKR-AADFHGNDFDNDRNRGNQVE
+HPQTTFG---------------------------------RLQRIFPKIMPKKPA-EKEN
+DLKQV---------AE--------ASGPRN-----GGKQLCP-RKPSTS--------EKI
+NKRSGPKRG---------------------------------------------------
+------------------KHAWTHRLRERKQPVIYEEISD--PEEDDE------------
+------------
+>ENSLAFP00000003781 ENSLAFG00000004535	117	None	None	Loxodonta_africana	75B	75	B
+-------------------------SVHLKWKESKPVAEC--------------------
+---------------------------QAFKDILKYFSKEEWAKLGYSKKVTYVYMKRNY
+DTMTNLGLR-ATL------------------PPFMDPNRLATKSQLDESDEEQNPGTQGN
+------------------------------------------------------------
+------------------------------------------------------------
+---------PR-------------------------------------------------
+-------------------FINHQKLRERKNLVAYEEISD--PEEED-------------
+------------
+>ENSSTOP00000021929 ENSSTOG00000015375	120	None	protein	Ictidomys_tridecemlineatus	75B	75	B
+------------------------------------------------------------
+----------------------------AFRDISKYFSKKEWAKLSHSEKITYVYLKRNY
+TTMTSLGLR-ATL------------------PAFMSSNRQIIESQSDDSDECRNRGSQDE
+LPKS---------------------------------ASGIRQ-----------------
+------------------------------------------------------------
+RKRK--------------------------------------------------------
+------------EPRKKNVNIWSHRLRERKYLVAYEEISD--PEEED-------------
+------------
+>ENSMAUP00000002279 ENSMAUG00000001818	128	Ssxa1	synovial sarcoma, X member	Mesocricetus_auratus	75B	75	B
+------------------MNNRNSCSVNLRKTEHSPEKTC--------------------
+---------------------------KAFQDISKYFSKEEWAKLSYSEKITYVYMKRNY
+TTMTSLGLK-AHL------------------PDFMEPKEEATKSVLSDSDEGCGHESQE-
+------------------------------------------------------------
+------------------------------------------------------------
+---------HR-------------------------------------------------
+-------------------KEVSHRLRERKKPVIYEEISD--PEEEDEDEKE--------
+------------
+>ENSMUSP00000072395 ENSMUSG00000062814	127	Ssxa1	synovial sarcoma, X member	Mus_musculus	75B	75	B
+-------------------MKRRSHSVNLGKTKHKPEETC--------------------
+---------------------------QAFEDISKYFSKEEWKKLSRSEKITYVYMKRNY
+TTMTNLGLR-AHL------------------PDFMESKERVTKSVLSDSDEVSSHESQG-
+------------------------------------------------------------
+------------------------------------------------------------
+---------LR-------------------------------------------------
+-------------------RPVSHQLREKKKPVIYEEISD--LEEEDEDEEE--------
+------------
+>ENSPEMP00000017812 ENSPEMG00000016602	91	Gm21876	predicted gene,	Peromyscus_maniculatus_bairdii	75B	75	B
+------------------MKTDTSCTKSPAEDTCKPEKMS--------------------
+---------------------------KSFRDISKYFSEEEWAKLTKWQKSAYVFMKRNY
+IRMTGLGVK-VNQ------------------PVFMRGKE----SLMKESDEDYGHESDG-
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------
+>ENSTBEP00000001484 ENSTBEG00000001708	218	None	None	Tupaia_belangeri	75B	75	B
+------------------VNRSSFFDKSRRKDTRKLEKKCKVK-QHVCDFHLVTLSSCLL
+PARNKAWE-----------------YSHAFNDISKYFSKKEWAKLNYSEKTTYAYMKRNY
+DTMTSLGLQ-TTV------------------PDFMSSSEQTQIPQEKNSDEDQNLGSQXX
+XXXXXXXXX-----X-------------------XXXXXXXXXXXXXXXXX---------
+------------------------X-XXX------XXX-------------------XXX
+XXXXXXXXXXXXXXXXXXXXXX--------------------------------------
+-----------XXPEEKEKSIWAHRLRERKNPVVYEEISD--PEEED-------------
+------------

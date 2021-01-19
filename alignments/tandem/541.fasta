@@ -1,0 +1,1700 @@
+>ENSENLP00000014648 ENSENLG00000006892	159	ttr	transthyretin (prealbumin, amyloidosis type	Echeneis_naucrates	541A	541	A
+------------------------------------------------------------
+-----------------MPHF----RWSLSWLLVRGEGGIQSATCEC-----SG-LEN--
+-------------------------------------MGKHGGSDTKCPLMVKI------
+---------LDAVKGTPAGSVPLRVSQKAADG-GWTQIANGVTDDTGEIHDLITEEQFAA
+GVYRVEFDIKAYWKNEGSTPFH--E---IAD-----------------------------
+------------------------------------------------------------
+VVFEAHAEGHRH--YTLALLLSPYSFTTTAIVTDAHQ-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSDUP00000025703 ENSSDUG00000018623	156	ttr		Seriola_dumerili	541A	541	A
+------------------------------------------------------------
+------------------EHHQLTMLHPLSCLL------LASAVLLC-----YTAPTV--
+-------------------------------------S-KHGGSDTKCPLMVKI------
+---------LDAVKGTPAGSVPLKVSQREADG-GWTQIANGLTDAAGEIHNLITEEQFPA
+GVYRVEFDTKAYWKSEGSTPFH--E---VAD-----------------------------
+------------------------------------------------------------
+VVFEAHAEGHRH--YTLALLLSPYSYTTTAVVTDAHQ-----------------------
+------------------------------------------------------------
+--------------------
+>ENSAMXP00000043604 ENSAMXG00000002423	150	ttr	transthyretin (prealbumin, amyloidosis type	Astyanax_mexicanus	541A	541	A
+------------------------------------------------------------
+------------------------MAKASIFIF------LASTLVFC-----QAAPV---
+--------------------------------------DVHGGSDSHCPLTVKI------
+---------LDAVKGVPAGNVALKVSRQGSDG-TWEKIAS-TTDLAGEVHNLITDQDFTP
+GVYRVEFDTKSYWKAEGRTPFH--E---VADS----------------------------
+-----------------------------------------------------------Q
+VVFAAHTEGHRH--YTLALLLSPFSYTTTAVVVKAHD-----------------------
+------------------------------------------------------------
+--------------------
+>ENSPNAP00000036864 ENSPNAG00000028049	148	ttr		Pygocentrus_nattereri	541A	541	A
+------------------------------------------------------------
+------------------------MDKASILVL------LSSALVFC-----QGAPV---
+--------------------------------------D-HGGSDSHCPLTVKI------
+---------LDAVKGIPAGNVALKVSRKGTNG-TWEKISSGTTDIAGEVHEIITEQDFTP
+GVYRVEFDTKNYWKAEGRAPFH--E---VAD-----------------------------
+------------------------------------------------------------
+VVFEAHAEGHRH--YTLALLLSPFSYTTTAVVVKAHD-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCHAP00000010257 ENSCHAG00000005935	149	ttr		Clupea_harengus	541A	541	A
+------------------------------------------------------------
+------------------------MHKSTVCVF------LASALLLC-----NAAPV---
+--------------------------------------DPHGGSDAKCPLMVKI------
+---------LDAVKGAPAGSVALKVSRRGANG-EWTQVANGQTDPTGEVHELITEQDFTA
+GVYRVEFDTKTYWKGEGRTPFH--E---VAE-----------------------------
+------------------------------------------------------------
+VVFEAHAEGHRH--YTLALLLSPFSYTTTAVVVKTHD-----------------------
+------------------------------------------------------------
+--------------------
+>ENSDCDP00000051179 ENSDCDG00000031143	156	ttr		Denticeps_clupeoides	541A	541	A
+------------------------------------------------------------
+----------------QHNCTSSDMNQTSICVL------LASSLLLC-----GAAPV---
+--------------------------------------D-HGGSDAKCPLMVKI------
+---------LDAVKGAPAGSVALTVSRRGANG-DWAQVASGKTDASGEVHDLIAEQDFAA
+GVYRVEFDTKAYWKAEGRTPFH--E---VAD-----------------------------
+------------------------------------------------------------
+VVFDAHAGGHRH--YTLALLLSPFSYTATAVVADAHK-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCARP00000114556 ENSCARG00000059135	149	ttr	transthyretin (prealbumin, amyloidosis type	Carassius_auratus	541A	541	A
+------------------------------------------------------------
+------------------------MAKAVICVL------LASLFAYC-----RSAPV---
+--------------------------------------GFHGGSDVLCPLTVKI------
+---------LDAVKGTPAGNIALDVYRQDQGG-TWEKIASGKVDMMGEVHNLITEEEFTP
+GVYRVEFDTKAYWKVEGRTPFH--Q---VAD-----------------------------
+------------------------------------------------------------
+VVFEAHAEGHRH--YTLALLLSPFSYTTTAVVVKAHE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCCRP00000027183 ENSCCRG00000014723	150	ttr	transthyretin (prealbumin, amyloidosis type	Cyprinus_carpio	541A	541	A
+------------------------------------------------------------
+------------------------MAKAVICVL------LVSLFACC-----RSAPVV--
+--------------------------------------RYSRGSDVHCPLTVKI------
+---------LDAVKGTPAGNIALDVYRQDQGG-TWEKIASGKVDMTGEVHNLITEQEFTP
+GVYRVEFDTKAYWKAEGRTPFH--Q---LAD-----------------------------
+------------------------------------------------------------
+VVFEAHAEGHRH--YTLALLLSPFSYTTTAVVVKAHE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSDARP00000054083 ENSDARG00000037191	149	ttr	transthyretin (prealbumin, amyloidosis type	Danio_rerio	541A	541	A
+------------------------------------------------------------
+------------------------MAKEVICVL------LASLFALC-----RSAPV---
+--------------------------------------AFHGGSDAHCPLTVKI------
+---------LDAVKGTPAGNIALDLFRQDQGG-TWEKIASGKVDMTGEVHNLITEQEFTP
+GVYRVEFDTLTYWKTEGRTPFH--Q---LAD-----------------------------
+------------------------------------------------------------
+VVFEAHAEGHRH--YTLALLLSPFSYTTTAVVVKAHD-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSGRP00000014377 ENSSGRG00000008996	149	ttr		Sinocyclocheilus_grahami	541A	541	A
+------------------------------------------------------------
+------------------------MAKAVICAL------LASLFACC-----RSAPV---
+--------------------------------------AFHGGSDVLCPLTVKI------
+---------LDAVKGTPAANIALDVYRQDQGG-TWEKIASGKVDMSGQVHNLITEQEFTP
+GVYRVQFDTKAYWKAEGRTPFH--Q---LAD-----------------------------
+------------------------------------------------------------
+VVFEAHAEGHRH--YTLALLLSPFSYTTTAVVVKAHE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSELUP00000026335 ENSELUG00000000062	151	ttr	transthyretin (prealbumin, amyloidosis type	Esox_lucius	541A	541	A
+------------------------------------------------------------
+-----------------------KVLHRFLSIS------LPTLVFLY-----FCSQN---
+--------------------------------------DRHGESDAHCPLMVKI------
+---------LDAVKGIPAGSVALKVSRQDANGMTWAQVASGVTDVTGEVHNLISEQDFQS
+GVYRVEFDTKAYWKSQGTTPFH--Q---TAE-----------------------------
+------------------------------------------------------------
+VVFEAHAEGHRH--YTLALLLSPFSYTTTAVVMNAHE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSGMOP00000015741 ENSGMOG00000014623	164	ttr	transthyretin (prealbumin, amyloidosis type	Gadus_morhua	541A	541	A
+------------------------------------------------------------
+----------GACGFSSVDFRSCEMMRPLLWLL------LASISLPC-----DTAPVV--
+----H--------------------------------QEKHGESDTTCPLMVKI------
+---------LDAVKGLPAASVALKLSKKGTDG-EWTHVAIGVTDETGEVHNLITDQQFPA
+GVYRVDFDTKAYWKSQGSTPFH--E---MAE-----------------------------
+------------------------------------------------------------
+VVFEAHGEGHLH--YTLALLLSPYSFTTTAVVSTH-------------------------
+------------------------------------------------------------
+--------------------
+>ENSNMLP00000042496 ENSNMLG00000025901	211	ttr	transthyretin (prealbumin, amyloidosis type	Neogobius_melanostomus	541A	541	A
+---MRA------------LSLCVLLLGLLLTTHAAPAPP-TLQHGKGNSKTRWEKRETLG
+RTTDGEIHSHGRTGYRD----PGPMESPQQTGQ---------IETLQ-----SL--LS--
+----N--------------------------------PEKHGSSDMKCPLTVKI------
+---------LDAVNGTPAGPMTLKVFRRGTDD-TWAHVASGMTEESGEIHNLITEEQFTA
+GVYKVEFGTKAYWKSKNVTAFH--E---VAD-----------------------------
+------------------------------------------------------------
+VVFEAHADGHHH--YTLALLLSPFSFTTTALTMDANH-----------------------
+------------------------------------------------------------
+--------------------
+>ENSPMGP00000015195 ENSPMGG00000012452	150	ttr	transthyretin (prealbumin, amyloidosis type	Periophthalmus_magnuspinnatus	541A	541	A
+------------------------------------------------------------
+---------------------QILLLLLLLLLL---------LLSMC-----RL--MD--
+----R--------------------------------NLKHGGSDVRCPLTVKI------
+---------LDAVHGTPAGSMNLRVFRRGPDG-NYTLVASGVTEMTGEIHGLISEEHFTA
+GVYRVEFDTKAYWKSKGITPFH--E---VAN-----------------------------
+------------------------------------------------------------
+VVFEAHTEGHRH--YTLALLLSPFSFTTTALTVDVHQ-----------------------
+------------------------------------------------------------
+--------------------
+>ENSEEEP00000000695 ENSEEEG00000000474	149	ttr		Electrophorus_electricus	541A	541	A
+------------------------------------------------------------
+------------------------MAKAMIFSL------LASLLLFC-----QAAPV---
+--------------------------------------NLHGGSDTHCPLTVKM------
+---------LDAVKGIPIGGVALQVFRQGADG-TWGKVAHGNTDTAGEVHELITDQDFIP
+GIYRVVFDTKAYWKAEGRTPFY--E---FAD-----------------------------
+------------------------------------------------------------
+VVFEAHVEEHRH--YTLALLISPFSHTMTAVVSKVHD-----------------------
+------------------------------------------------------------
+--------------------
+>ENSMMDP00005006011 ENSMMDG00005003273	178	ttr	transthyretin (prealbumin, amyloidosis type	Myripristis_murdjan	541A	541	A
+------------------------------------------------------------
+-----------------------MIKKNAYWDI------KHSTIYNC-----VCLLQ---
+--------------------------------------EKHGDSDNKCPLMVKI------
+---------LDAVKGSPAGSVSLKVSRQGANG-EWVQVATGVTDATGEVHNLITEQEFSA
+GVYRVEFDTKTYWKTEGSTPFH--E---VADVIH----SVFCQ-----------------
+---------------------------------HSAIKVIIDTPLIWQCV-------KVL
+VVFEAHVGGHQH--YTLALLLSPYSYTTTAVVTNGQP-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSORP00005011629 ENSSORG00005006118	151	ttr		Sphaeramia_orbicularis	541A	541	A
+------------------------------------------------------------
+-------------------CLDCE------------MGQLINSLCFE-----VAADSV--
+----F--------------------------------QERHGGSDVKCPLTVKI------
+---------LDAVKGTPAGPMPLKVFRKGADG-VWTQIATGITENDGEIHNLITEEEFPA
+GVYRVEFDTKTYWKNEGSTSFH--E---VAD-----------------------------
+------------------------------------------------------------
+VVFEAHSEGHRH--YTLALLLSPFSFTTTAVISDVHH-----------------------
+------------------------------------------------------------
+--------------------
+>ENSLBEP00000000627 ENSLBEG00000000399	157	ttr		Labrus_bergylta	541A	541	A
+------------------------------------------------------------
+---------------------MCDNTSD-ICQSFYPSGDHASTTVLS-----ASSSFF--
+----C--------------------------------AALHGGSDMKCPLTVKI------
+---------LDAVKGSPAGSVALKVSQKTT---YFTVPSHRVTDATGEIHNLITEQQFPA
+GVYRVEFDTKTYWKNEGSVPFH--E---VAE-----------------------------
+------------------------------------------------------------
+VVFEAHAEGHRH--YTLALLLSPFSYTTTAVVTNVH------------------------
+------------------------------------------------------------
+--------------------
+>ENSPKIP00000017776 ENSPKIG00000003564	143	ttr		Paramormyrops_kingsleyae	541A	541	A
+------------------------------------------------------------
+------------------------MTRTALSLL------AAITVLFC-----DATPE---
+-------------------------------------------DYKTCPLMVKV------
+---------LDAVSGLPASAVKLEAYRHTDN--NWSLIQEGATDNTGEVHGLIEEKDFVP
+GLYKVVFQTKAYWKSKDQEAFH--E---TAE-----------------------------
+------------------------------------------------------------
+VIFTAHGQGHRH--YTLALLLSPYSYSTTAVVTNPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSFOP00015059179 ENSSFOG00015025678	149	ttr	transthyretin (prealbumin, amyloidosis type	Scleropages_formosus	541A	541	A
+------------------------------------------------------------
+------------------------MSRPAVLAF------VAFAIVLS-----GAAPL---
+--------------------------------------VGQGGSDTKCPLAVKV------
+---------LDAVRGAPATAVQLKVSRKTEDG-SWTEVAAGVTDTAGEVHNLIEEKDFTS
+GVYKATFDTQAYWTAAGRTSFH--E---AAE-----------------------------
+------------------------------------------------------------
+VTFKAHEQGHQH--YTLALLLSPFSYTTTAVVNGAHE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCGOP00000023478 ENSCGOG00000011190	151	ttr		Cottoperca_gobio	541A	541	A
+------------------------------------------------------------
+------------------------MLQPLHCLL------LASAVLLC-----NTTPTV--
+-------------------------------------SEKHGGSDIRCPLMVKI------
+---------LDAVKGTPAGSVTLKLSQKTADG-GWTHITNGVTDATGEIHNLITEHQFPA
+GVYRVEFDTKTYWKNEGSTPFH--E---VAD-----------------------------
+------------------------------------------------------------
+VVFEAHAEGHRH--YTLALLLSPYSYTTTAVVTNAHQ-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCSEP00000003335 ENSCSEG00000002182	178	ttr		Cynoglossus_semilaevis	541A	541	A
+-----------------------------------------MIQDRAR--ERY-------
+-----IYKGHQVIRVRLITETQIIMLRPLHCLL------LASAVLLC-----NSAPT---
+--------------------------------------DKHGGSDINCPLTVKI------
+---------LDAVKGTPAGFVPLKVNRKAADG-GWTAIASGVTDATGEIHNLITEEQFSP
+GVYRVEFDTKAYWKSQGSKPFH--E---LAE-----------------------------
+------------------------------------------------------------
+VELKAHAEGHRH--YTLALLLSPYSFTTTAVVTDIHQ-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSMAP00000030421 ENSSMAG00000018650	149	ttr	transthyretin (prealbumin, amyloidosis type	Scophthalmus_maximus	541A	541	A
+------------------------------------------------------------
+------------------------MLPPLCYLL------LAFAVLLC-----NSAHT---
+--------------------------------------DNHGGSDTKCPLMVKI------
+---------LDAVKGTPAGSMPLKVSQKTTEG-GWTLIANGVTDATGEIHNLLTEEQFPA
+GVYRVEFDTKAYWKNQGGTPFH--E---EAD-----------------------------
+------------------------------------------------------------
+VVFEAHAEGHRH--YTLALLLSPYSYTTTAVVTDAHQ-----------------------
+------------------------------------------------------------
+--------------------
+>ENSHHUP00000013673 ENSHHUG00000008424	149	ttr	transthyretin (prealbumin, amyloidosis type	Hucho_hucho	541A	541	A
+------------------------------------------------------------
+------------------------MDSSLLCVL------LAAAVLLC-----SAAPV---
+--------------------------------------DRHGESDTHCPLMVKI------
+---------LDAVKGVPAGAVALSVSRR-VNGMTWAQVASGVTDLTGEVHNLISDQDFQS
+GVYRVEFDTKAYWKSQGTTPFH--E---TAE-----------------------------
+------------------------------------------------------------
+VVFEAHAEGHRH--YTLALLLSPFSYTTTAVVMNAHE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSOTSP00005024868 ENSOTSG00005011725	149	ttr		Oncorhynchus_tshawytscha	541A	541	A
+------------------------------------------------------------
+------------------------MDSSLLCVL------LATAVLLC-----SAAPV---
+--------------------------------------DRHGESDTHCPLMVKI------
+---------LDAVKGVPAGAVALSVSRR-VNGMTWAQVASGVTDLTGEVHNLISDQDFQS
+GVYRVEFDTKAYWKSQGTTPFH--E---TAE-----------------------------
+------------------------------------------------------------
+VVFEAHAEGHRH--YTLALLLSPFSYTTTAVVMKAHE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSTUP00000024960 ENSSTUG00000010910	149	ttr		Salmo_trutta	541A	541	A
+------------------------------------------------------------
+------------------------MDSSLLSVL------LAAAVLLC-----SAAPV---
+--------------------------------------DRHGESDTHCPLMVKI------
+---------LDAVKGVPAGAVTLSVSRR-VNETTWAQVASGMTDLTGEVHNLISDQDFQS
+GVYRVEFDTKAYWKSQGTTPFH--E---TAE-----------------------------
+------------------------------------------------------------
+VVFEAHAEGHRH--YTLALLLSPFSYTTTAVVMKAHE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSIPUP00000021985 ENSIPUG00000014900	155	ttr		Ictalurus_punctatus	541A	541	A
+------------------------------------------------------------
+----------------MHSC--STMARAITFVL------FASTLFCC-----QAAPV---
+--------------------------------------DPHGSSDVHCPLNVKI------
+---------LDAMKGAPAGNVALTVFRQGADK-TWEKVGSGNTNIAGEVHDLLSEQDFIP
+GVYRVEFDSKTYWKTEGRTPFH--E---VAE-----------------------------
+------------------------------------------------------------
+VVFEAHAEGHRH--YTLALLLSPFSYTTTAVVGKGHD-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSAUP00010017215 ENSSAUG00010007903	151	ttr		Sparus_aurata	541A	541	A
+------------------------------------------------------------
+------------------------MLQPLHCLL------LASAVLLC-----NTAPTP--
+-------------------------------------TDKHGGSDTRCPLMVKI------
+---------LDAVKGTPAGSVALKVSQKTADG-AWTQIATGLTDATGEIHNLITEQQFPA
+GVYRVEFDTKAYWTNQGSTPFH--E---VAE-----------------------------
+------------------------------------------------------------
+VVFDAHPEGHRH--YTLALLLSPFSYTTTAVVSSVHE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSMAMP00000010233 ENSMAMG00000006873	149	ttr		Mastacembelus_armatus	541A	541	A
+------------------------------------------------------------
+------------------------MLQLLYCLL------LASAVLLC-----RTAPT---
+--------------------------------------EKHGGSDTKCPLMVKI------
+---------LDAVKGTPAGSVALKVSQRTADG-GWMQIANGVTDATGEIHNLITEQQFPA
+GLYRVEFDTKAYWRNEGNTPFY--E---VAD-----------------------------
+------------------------------------------------------------
+VVFEAHAEGHRH--YTLALLLSPYSYTTTALVTNTHP-----------------------
+------------------------------------------------------------
+--------------------
+>ENSMMOP00000010802 ENSMMOG00000008315	151	ttr	transthyretin (prealbumin, amyloidosis type	Mola_mola	541A	541	A
+------------------------------------------------------------
+------------------------MLQPLHSLL------LASAVLLC-----NTAPIP--
+-------------------------------------TEKHGGSDTKCPLTVKI------
+---------LDAVKGTPAGSVALTVYHRTTDG-GWTRIASGITDAFGEIHNLITEQQFQA
+GVYRIEFDTKSYWKNEGSKPFH--D---VAD-----------------------------
+------------------------------------------------------------
+VVFEAHAEGHRH--YTLALLLSPFSYTTTAVVADANH-----------------------
+------------------------------------------------------------
+--------------------
+>ENSTRUP00000054661 ENSTRUG00000021323	147	ttr		Takifugu_rubripes	541A	541	A
+------------------------------------------------------------
+---------------------------MLQLLL------LASVALLC-----HAAPIL--
+--------------------------------------TAHGGSDTKCPVTVKI------
+---------LDAVKGTPAGPMVLNLYQRTADG-GWTQVANGMTDASGEIHNLITEQKFLP
+GVYRVDFDTKSYWKNEGSVPFH--E---VTN-----------------------------
+------------------------------------------------------------
+VVFEAHSEGHRH--YTLAMLLSPYSFTTTALVTDVQH-----------------------
+------------------------------------------------------------
+--------------------
+>ENSTNIP00000013381 ENSTNIG00000010473	151	ttr	transthyretin (prealbumin, amyloidosis type	Tetraodon_nigroviridis	541A	541	A
+------------------------------------------------------------
+-----------------------IMLPLLLSLL------LVSAALPS-----HAAPVL--
+--------------------------------------KGHGGSDTKCPLTVKI------
+---------LDAVKGTAAGPMALALYKKTADG-GWTQIANGMTDATGEIHELVPEEAFPP
+GLYRLDFDTKAYWMNEGNTPFH--E---VTN-----------------------------
+------------------------------------------------------------
+VVFEAHAGGHRH--YTLAMLLSPYSFTTTALVSDVPH-----------------------
+------------------------------------------------------------
+--------------------
+>ENSBBBP00000024534 ENSBBBG00000019495	147	TTR		Bison_bison_bison	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASFRLFLLC-----LAGLVFV-
+-SEAGSV----------------------------------GAGEPKCPLMVKV------
+---------LDAVRGSPAANVGVKVFKKAADE-TWEPFASGKTSESGELHGLTTEDKFVE
+GLYKVELDTKSYWKSLGISPFH--E---FAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGPRH--YTIAALLSPYSYSTTALVSSPKA-----------------------
+------------------------------------------------------------
+--------------------
+>ENSBTAP00000074464 ENSBTAG00000010991	181	TTR		Bos_taurus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASFRLFLLC-----LAGLVFV-
+-SEAG--------------------------------SV--GAGEPKCPLMVKV------
+---------LDAVRGSPAANVGVKVFKKAADE-TWEPFASGKTSESGELHGLTTEDKFVE
+GLYKVELDTKSYWKSLGISPFH--E---FAE-----------------------------
+------------------------------------------------------------
+VSVRRPALLFFVCLFAIPGN----ALLALCT-PQKSQKENVSL-----------VQRLSH
+FSRNPQNSEKQT------FPLFDDNSFSNRT-----------------------------
+--------------------
+>ENSCDRP00005022627 ENSCDRG00005015690	145	TTR		Camelus_dromedarius	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHRLFLLC-----LAGLVFV-
+-SEAGPA----------------------------------G--PSKCPLMVKV------
+---------LDAVQGSPAANVGVKVFKKAADE-TWEPFASGKTSEFGELHGLTTDDKFVE
+GVYRVELDTKSYWKALGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFAANDSGPRH--YTIAALLSPYSYSTTALVSGPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCHIP00000006159 ENSCHIG00000009995	147	TTR		Capra_hircus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASFRLLLLC-----LAGLVFV-
+-SEASPA----------------------------------GAGESKCPLMVKV------
+---------LDAVRGSPAANVGVKVFKKAADE-TWEPFASGKTSDSGELHGLTTEDKFVE
+GLYKVELDTKSYWKSLGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGLRH--YTIAALLSPYSYSTTALVSSPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCWAP00000023760 ENSCWAG00000018057	148	TTR		Catagonus_wagneri	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASYRLLLLC-----LAGLVFV-
+-SEAGPA----------------------------------GAGESKCPLMVKV------
+---------LDAVRGSPAVNVGVKVFKKAADE-TWEPFALGKTSEFGELHGLTTAEKFVE
+GVYKVELDTKSYWKALGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGPRH--YTIAALLSPYSYSTTALVSSPKKG----------------------
+------------------------------------------------------------
+--------------------
+>ENSDLEP00000006139 ENSDLEG00000004599	196	None	None	Delphinapterus_leucas	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASSRLFLLC-----LAGLVFV-
+-SEASPVVSVRLFEVLSYVSCGRSRRDSFLLCQPAFVSRARGSGEPKCPLMVKV------
+---------LDVVQGIPAVNVGVKVFKKAADE-NWEPFASGKTSEFGELHGLTTDEKLVE
+GIYKVELDTKSYWKSLGFSPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VT--AESGHRH--YTIMALLSPCTYSTTALISGPKECGAPASVDLQDE-GQDFV-----
+------------------------------------------------------------
+--------------------
+>ENSMMSP00000018897 ENSMMSG00000014292	147	TTR		Moschus_moschiferus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASFRLFLLC-----LAGLVFV-
+-SEAGPA----------------------------------GAGESKCPLMVKV------
+---------LDAVRGRPAANVGVKVFKKAADE-TWEPFASGKTGESGELHGLTTEDKFLE
+GLYKVELDTKSYWKSLGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGLRH--YTIAALISPYSYSTTALVSSPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSOARP00000006793 ENSOARG00000006342	147	TTR		Ovis_aries	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASFRLLLLC-----LAGLVFV-
+-SEASPA----------------------------------GAGESKCPLMVKV------
+---------LDAVRGSPAANVGVKVFKKAADE-TWEPFASGKTSDSGELHGLTTEDKFVE
+GLYKVELDTKSYWKSLGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGLRH--YTIAALLSPYSYSTTALVSSPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSPCTP00005031777 ENSPCTG00005022550	147	TTR		Physeter_catodon	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASSRLFLLC-----LAGLVFV-
+-SEASPV----------------------------------GSGESKCPLMVKV------
+---------LDVVQGIPAVNVGVKVFKKAADD-TWEPFASGKTSEFGELHGLTTDEKLVE
+GIYKVELDTKSYWKSLGFSPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-AFTANGSGHRH--YTIMALLSPYTYSTTALISGPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSSCP00000072347 ENSSSCG00000023686	234	TTR		Sus_scrofa	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASYRLLLLC-----LAGLVFV-
+-SEAG--------------------------------PA--GAGESKCPLMVKV------
+---------LDAVRGSPAVNVGVKVFKKAADG-TWEPFALGKTSEFGELHGLTTDEKFVE
+GIYKVELDTKSYWKALGISPFH--E---YAE-----------------------------
+------------------------------------------------------------
+VSTRTLLLFFIFCLFVFNPR----Q----CT-ICP-----IHTMEKSKGTYWISIAPLPI
+LQSEIHNILRGKLLFLFIYLFFCLFAFSRADPEAYGGSQAKSG----IRAVAAGLRHSHS
+NVGSEPLLQPTPQLTAMPDP
+>ENSTTRP00000001780 ENSTTRG00000001898	145	TTR		Tursiops_truncatus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASSRLFLPC-----LAGLVFV-
+-SEASPV----------------------------------GSGESKCPLMVKV------
+---------LDVVQGIPAVNVGVQVFKKAADE-TWEPFASGKTSEFGELHGLTTDEKLVE
+GIY-VELDTKSYWKSLGFSPFH--E----AEV----------------------------
+------------------------------------------------------------
+-VFTANESGHRH--YTIMALLSPCTYSTTALISGPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSVPAP00000003183 ENSVPAG00000003440	129	TTR		Vicugna_pacos	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHRLFLLC-----VAGLVFV-
+-SEAGPA----------------------------------G--PSKCPLMVKV------
+---------LDAVQGSPAVNVGVKVFKKAADE-TWEPFASGKTSEFGELHGLTTDDKFVE
+GVYKVELDTKSYWKALGINPFH--E---YAE-----------------------------
+------------------------------------------------------------
+------------------ALLSPYSYSTTALVSGPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSAMEP00000008606 ENSAMEG00000008180	147	TTR		Ailuropoda_melanoleuca	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHRLLLLC-----LAGLVLV-
+-AEAGPA----------------------------------GSGGSKCPLMVKV------
+---------LDAVRGSPAVNVAVKVFKKAADE-SWEPFASGKTSEFGELHGLTTAEKFVE
+GVYKVELDTKSYWKSLGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGFRH--YTIAALLSPYSYSTTALVSSPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCAFP00000049371 ENSCAFG00000018046	164	TTR		Canis_lupus_familiaris	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHRLLLLC-----LAGLVLV-
+-SEAS--------------------------------PA--GTSGPKCPLMVKV------
+---------LDAVRGSPAVNVAVKVFKKTADE-TWEPFASGKTSEFGELHGLTTVEKFVE
+GVYKVELDTKSYWKSLGISPFH--E---YAE-----------------------------
+------------------------------------------------------------
+GALSTSRFQQWHRVSACLPW----G----CV-SEKRMGDRILSHTVNSEDCWLFFAQIGA
+L-----------------------------------------------------------
+--------------------
+>ENSFCAP00000010512 ENSFCAG00000011314	146	TTR		Felis_catus	541A	541	A
+------------------------------------------------------------
+--------------------------------------MASHLLLLC-----LAGLVLV-
+-SEAGPA----------------------------------GTGESKCPLMVKV------
+---------LDAVQGSPAVNVAVKVFKKAADE-SWEPFASGKTSEFGELHGLTTAENFVE
+GVYKVEIDTKSYWKSLGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANNSGSRH--YTIAALLSPYSYSTTALVSSPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSLCNP00005031005 ENSLCNG00005020213	146	TTR		Lynx_canadensis	541A	541	A
+------------------------------------------------------------
+--------------------------------------MASHLLLLC-----LAGLVLV-
+-SEAGPA----------------------------------GTGESKCPLMVKV------
+---------LDAVQGSPAVNVAVKVFKKAADE-SWEPFASGKTSEFGELHGLTTAENFVE
+GVYKVEIDTKSYWKSLGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGSRH--YTIAALLSPYSYSTTALVSSPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSMPUP00000006890 ENSMPUG00000006945	147	TTR		Mustela_putorius_furo	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASGRLLLLC-----LAGLVLV-
+-SEAGLA----------------------------------GSGESKCPLMVKV------
+---------LDAVRGSPAVNVDVKVFKKAADE-SWELFASGKTKELGELHGLTTAEKFVE
+GVYKVELDTKSYWKSLGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGLRH--YTIAALLSPYSYSTTALVSNPEE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSNVIP00000025215 ENSNVIG00000019494	147	TTHY		Neovison_vison	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASRRLLLLC-----LAGLVLV-
+-SEAGLA----------------------------------GSGGSKCPLMVKV------
+---------LDAVRGSPAVNVGVKVFKKAADE-SWELFASGKTKELGELHGLTTAEKFVE
+GVYKVELDTKSYWKSLGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGFRH--YTIAALLSPYSYSTTALVSNPEE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSPLOP00000030473 ENSPLOG00000022283	146	TTR		Panthera_leo	541A	541	A
+------------------------------------------------------------
+--------------------------------------MASHLLLLC-----LAGLVLV-
+-SEAGPA----------------------------------GTGESKCPLMVKV------
+---------LDAVQGSPAVNVAVKVFKKAADE-SWEPFASGKTSEFGELHGLTTAENFVE
+GVYKVEIDTKSYWKSLGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANNSGSRH--YTIAALLSPYSYSTTALVSRPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSSUP00005015734 ENSSSUG00005010158	147	TTR		Suricata_suricatta	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASPHLLLLC-----LAGLVLV-
+-SEAGPA----------------------------------GTGESKCPLMVKV------
+---------LDAVRGSPAVNVAVKVFKKAADE-SWEPFASGKTSEFGELHGLTTPENFVE
+GVYKVELDTKSYWKSLGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGSRR--YTIAALLSPYSYSTTALVSNPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSUMAP00000001576 ENSUMAG00000001418	147	TTR		Ursus_maritimus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHRLLLLC-----LAGLVLV-
+-AEAGPA----------------------------------GSGGSKCPLMVKV------
+---------LDAVRGSPAVNVAVKVFKKAADE-SWEPFASGKTSEFGELHGLTTAEKFVE
+GVYKVELDTKSYWKSLGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGFRH--YTIAALLSPYSYSTTALVSSPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSVVUP00000038373 ENSVVUG00000027365	147	TTR		Vulpes_vulpes	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHRLLLLC-----LAGLVLV-
+-SEAGPA----------------------------------GTSGPKCPLMVKV------
+---------LDAVRGSPAVNVAVKVFKKTADE-TWEPFASGKTSEFGELHGLTTVEKFVE
+GVYKVELDTKSYWKSLGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGLRH--YTIAALLSPYSYSTTALVSNPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSMLUP00000003316 ENSMLUG00000003645	145	TTR		Myotis_lucifugus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAALRLLLLC-----LAGLVFV-
+-AEAGPA----------------------------------AQGESKCPLMVKV------
+---------LDAVRGSPAVNVAVKVFKKAADG-AWEPFATGKTSEFGELHGLTTPEKFVE
+GIYKVELDTKAYWKELGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGPRR--YTIAALLSPYSYSTTALVGTP-------------------------
+------------------------------------------------------------
+--------------------
+>ENSPVAP00000005666 ENSPVAG00000005998	147	TTR		Pteropus_vampyrus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHRLLLLC-----LAGLVFV-
+-SEASPV----------------------------------GTGESKCPLMIKV------
+---------LDAVRGSPAAHVAVEVFKKAADE-TWEPFASGKTSEFGELHGLTTNDKFVE
+GMYKVMLDTKSYWKALGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGQRQ--YTIAALLSPYSYSTTALVSDPKA-----------------------
+------------------------------------------------------------
+--------------------
+>ENSRFEP00010033101 ENSRFEG00010021771	145	TTR		Rhinolophus_ferrumequinum	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASRRLLLLC-----LAGLVFV-
+-SEAGPA----------------------------------G--ESKCPLMVKV------
+---------LDAVRGSPAVDVAVKVFKKAADE-TWEPFASGKTSEFGELHGLTTTDKFVE
+GVYKVVLDTKSYWKALGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGQRK--YTIAALLSPYSYSTTALVSTPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSDNOP00000031835 ENSDNOG00000033960	147	TTR		Dasypus_novemcinctus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHHLLLLC-----LAGLVLA-
+-SEADHV----------------------------------GTGASKCPLMVKV------
+---------LDAVQGSPAVNVAVNVFKKAADE-TWEPFASGKTSESGELHGLTTHEKFVE
+GIYKVEIDTKSYWKTLGITAFH--E---YAKV----------------------------
+------------------------------------------------------------
+-VFTANDTGHRH--YTIAALLSPYSYSTTAVVSNPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSHAP00000001356 ENSSHAG00000001208	134	TTR		Sarcophilus_harrisii	541A	541	A
+------------------------------------------------------------
+-------------------------------------MTFRSLLLLC-----LAGLVFH-
+-SEAG--------------------------------PVAHGAEDSKCPLMVKV------
+---------LDSVRGSPAVNVDVKVFKKTEEQ-TWELFASGKTNNNGEIHELTSDDQFGE
+GLYKVEFDTISYWKAFGISPFH--E---YAD-----------------------------
+------------------------------------------------------------
+VSIM----EYWVSLFDMGDP----QMKD--------------------------------
+------------------------------------------------------------
+--------------------
+>ENSMODP00000013682 ENSMODG00000010932	149	TTR	Monodelphis domestica transthyretin (TTR), mRNA	Monodelphis_domestica	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSLLLLG-----LASLLFV-
+-SDAAPV--------------------------------IHGAEDSKCPLMVKV------
+---------LDAVRGSPAVNVNVKVFKKSEEQ-TWEPFATGKTNDYGEIHELTNDEKFGE
+GLYKVEFDTFSYWNALGVSPFH--E---YADV----------------------------
+------------------------------------------------------------
+-VFKANDAGHRH--YTIAALLSPYSYSTTAVVSNPKD-----------------------
+------------------------------------------------------------
+--------------------
+>ENSPCIP00000023067 ENSPCIG00000017504	149	TTR		Phascolarctos_cinereus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSFLLLC-----LAGLVFV-
+-SEAAPV--------------------------------IHGGEDSKCPLMVKV------
+---------LDAVRGRPAANVDVKVFKKTEEQ-TWELFAAGKTNDNGEIHELTSDDKFGE
+GLYKVEFDTISYWKALGVSPFH--E---YADV----------------------------
+------------------------------------------------------------
+-VFTANDAGHRH--YTIAAQLSPYSFSTTAIVSNPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSVURP00010003705 ENSVURG00010002967	149	None	None	Vombatus_ursinus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSLLFLC-----LAGLVFV-
+-SEAAPE--------------------------------VHGGDDSKCPLMVKV------
+---------LDAVRGRPAANVDVKVFKKTEAQ-TWELFAAGKTNDNGEIHELTSDDKFGE
+GLYKVEFDTISYWKALGVSPFH--E---YADV----------------------------
+------------------------------------------------------------
+-VFTANDAGHRH--YTIAAQLSPYSFSTTAIVSNPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSEEUP00000003808 ENSEEUG00000004211	122	TTR		Erinaceus_europaeus	541A	541	A
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------GQSKCPLMVKV------
+---------LDAVRGSPAVNVAVKVFKKAADE-TWEPFASGKTSESGELHGLTTDEKFVE
+GVYKVELDTKSYWKTLGISPFH--E---YVEV----------------------------
+------------------------------------------------------------
+-VFTANDSGQRR--YTIAALLSPYSYSTTALVSDPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSARP00000012333 ENSSARG00000013664	147	TTR		Sorex_araneus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASRRLLLLC-----LAGLVLV-
+-TEAGPT----------------------------------GTGQSKCPLMVKV------
+---------LDAVQGSPAVNVAVRVFKKAADE-TWEPFASGKTSEFGELHGLTTDEKFVE
+GIYKVELDTKTYWKALGISPFH--E---YVEV----------------------------
+------------------------------------------------------------
+-VFTANDSGKRR--YTIAALLSPYSYSTTALVSDPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSOPRP00000000171 ENSOPRG00000000190	147	TTR		Ochotona_princeps	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHHLLLLC-----LTGLVFV-
+-SEANPV----------------------------------GSGVPKCPLMVKV------
+---------LDAVQGKPAVNVAVRVFKKAADE-TWEPFASGETSATGELHGLTTNEKFVE
+GVYKVELDTKAYWKSFGIAPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGRRR--YTIAALLSPFSYSTTALVSNPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSOCUP00000014907 ENSOCUG00000017348	147	TTR		Oryctolagus_cuniculus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASQHLLLLC-----LAGLVFV-
+-SEAGPV----------------------------------GTGDSKCPLMVKV------
+---------LDAVRGSPAVDVSVHVFKKAADE-TWEPFASGKTSKTGELHGLTTSEKFVE
+GVYKVELDTKSYWKALGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGHRS--YTIAALLSPFSYSTTAVVSNPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSOANP00000048030 ENSOANG00000005619	157	TTR		Ornithorhynchus_anatinus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFPSVVLVC-----LAALVFA-
+-SEAT--------------------------------PVVHSSVDSKCPLMVKV------
+---------LDAVRGSPATNMAVKVFKQAADE-SWELFATGKTTEFGEIHELTTDEKFVE
+GVYRVEFDTKSYWKVLGLSPFH--E---KAD-----------------------------
+------------------------------------------------------------
+VSRPDLALDGWLLDFLYARSVEPHTYTNNCP-RWPGPTPQSLG----------------S
+------------------------------------------------------------
+--------------------
+>ENSECAP00000013533 ENSECAG00000015875	147	TTR		Equus_caballus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHHLLLLC-----LAGLVFA-
+-SEAGPA----------------------------------GAGESKCPLMVKV------
+---------LDAVRGSPAANVDVKVFKKAADE-TWELFASGKTSEFGELHGLTTDEKFVE
+GIYKVELDTKSYWQSLGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGPRR--YTIAALLSPYSYSTTALVSNPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCHOP00000006497 ENSCHOG00000007339	145	TTR		Choloepus_hoffmanni	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHSLFLLC-----LAGLVFV-
+-SEAG------------------------------------GTGESKCPLMVKV------
+---------LDAVRGSPAVNVAVKVFKKAADE-TWEPFATGKTSESGELHGLTTEDKFVE
+GVYKVELDTKSYWKALGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGHRH--YTIAALLSPYSYSTTAVVANPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCJAP00000074952 ENSCJAG00000059037	144	TTR	Callithrix jacchus transthyretin (TTR), mRNA	Callithrix_jacchus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHHLLLLC-----LAGLVFV-
+-SEAGHM----------------------------------G---YSCPLMVKV------
+---------LDAVQGRPAVNVAVSVFKKAADE-TWEPFAFGKTSESGELHGLTTEEKFVK
+GVYKVEINSKSYWHTLGITSFH--E---HADV----------------------------
+------------------------------------------------------------
+-VFSANDSGPRH--YIVAALLSPYSYSTTAVVSDPRK-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCATP00000020241 ENSCATG00000033890	175	TTR		Cercocebus_atys	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHRLLLLC-----LAGLVFV-
+-SEAGPT----------------------------------GIDESKCPLMVKV------
+---------LDAVRGSPAVNVAVNVFKKAADE-TWAPFASGKTSESGELHGLTTEEEFVE
+GIYKVEIDTKSYWKSLGISPFH--E---HAESFE-----------------T--------
+-------------------DG----------------CHGNRIQTCWSELTFL-LWFHQY
+VVFTANDSGPRH--YTIAALLSPYSYSTTAVVTNPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCSAP00000013882 ENSCSAG00000017862	147	TTR		Chlorocebus_sabaeus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHRLLLLC-----LAGLVFV-
+-SEAGPT----------------------------------GIDESKCPLMVKV------
+---------LDAVRGSPAVNVAVNVFKKAADE-TWAPFASGKTSESGELHGLTTEEEFVE
+GIYKVEIDTKSYWKSLGISPFH--E---HAE-----------------------------
+------------------------------------------------------------
+VVFTANDSGPRH--YTIAALLSPYSYSTTAVITNPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSGGOP00000008665 ENSGGOG00000008865	160	TTR		Gorilla_gorilla	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHRLLLLC-----LAGLVFV-
+-SEAGPT----------------------------------GTGESKCPLMVKV------
+---------LDAVRGSPATNVAVHVFKKGADE-TWEPFASGKTSESGELHGLTTEEEFVE
+GIYKVEIDTKSYWKALGISPFH--E---HAEVSI-----QTFE-----------------
+-------------------DG----------------CHGNRIQT---------------
+----SNDSGPRR--YTIAALLSPYSYSTTAVVTNPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSP00000497927 ENSG00000118271	147	TTR		Homo_sapiens	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHRLLLLC-----LAGLVFV-
+-SEAGPT----------------------------------GTGESKCPLMVKV------
+---------LDAVRGSPAINVAVHVFRKAADD-TWEPFASGKTSESGELHGLTTEEEFVE
+GIYKVEIDTKSYWKALGISPFH--E---HAE-----------------------------
+------------------------------------------------------------
+VVFTANDSGPRR--YTIAALLSPYSYSTTAVVTNPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSMMUP00000080698 ENSMMUG00000052277	149	TTR		Macaca_mulatta	541A	541	A
+------------------------------------------------------------
+----------------------------------MGTMQGGQL-THF-----RSWLQPH-
+-STTGME----------------------------------GVDESKCPLMVKV------
+---------LDAVRGSPAVNVAVNVFKKAADE-TWAPFASGKTSESGELHGLTTEEEFVE
+GIYKVEIDTKSYWKSLGISPFH--E---HAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGPRH--YTIAALLSPYSYSTTAVVTNPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSMLEP00000007618 ENSMLEG00000027892	175	TTR		Mandrillus_leucophaeus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHRLLLLC-----LAGLVFV-
+-SEAGPT----------------------------------GVDESKCPLMVKV------
+---------LDAVRGSPAVNVAVNVFKKAADE-TWAPFASGKTSESGELHGLTTEKEFVE
+GIYKVEIDTKSYWKSLGISPFH--E---HAESFE-----------------T--------
+-------------------DG----------------CHGNRIQTCWSELTFL-LWFHQY
+VVFTANDSGPRH--YTIAALLSPYSYSTTAVVTNPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSMICP00000012614 ENSMICG00000013838	156	TTR		Microcebus_murinus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHGLLLLC-----LAGLVFV-
+-SEAGPA----------------------------------GAGESKCPLMVKV------
+---------LDAVRGSPATNVAVKVFRRAADE-TWEPFASGKTSETGELHGLTTVEKFVE
+GVYKVELDTKSYWKGVGISPFH--E---YAETFE-----LFLVLFIT-PGNA--------
+-------------------GN----------------AVGNRIQTCWSD-----------
+----------------------PYSYSTTAVVTSPEQ-----------------------
+------------------------------------------------------------
+--------------------
+>ENSPTRP00000081072 ENSPTRG00000009949	163	TTR		Pan_troglodytes	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHRLLLLC-----LAGLVFV-
+-SEAGPT----------------------------------GTGESKCPLMVKV------
+---------LDAVRGSPAINVAVHVFKKAADE-TWEPFASGKTSESGELHGLTTEEEFVE
+GIYKVEIDTKSYWKALGISPFH--E---HAEVSI-----QTFEG------CF--------
+-------------------DG----------------CHGNRIQT---------------
+----SNDSGPRR--YTIAALLSPYSYSTTAVVTIPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSPANP00000039544 ENSPANG00000011202	175	TTR		Papio_anubis	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHRLLLLC-----LAGLVFV-
+-SEAGPT----------------------------------GVDESKCPLMVKV------
+---------LDAVRGSPAVNVAVNVFKKAADE-TWAPFASGKTSESGELHGLTTEEEFVE
+GIYKVEIDTKSYWKSLGISPFH--E---HAESFE-----------------T--------
+-------------------DG----------------CHGNRIQTCWSELTFL-LWFHQY
+VVFTANDSGPRH--YTIAALLSPYSYSTTAVVTNPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSPPYP00000010206 ENSPPYG00000009090	147	TTR		Pongo_abelii	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHRLLLLC-----LAGLVFV-
+-SEAGPT----------------------------------GAGESKCPLMVKV------
+---------LDAVRGSPAVNVAVNVFKKAADE-TWEPFASGKTSESGELHGLTTEEEFVE
+GIYKVEIDTKSYWKALGISPFH--E---HAE-----------------------------
+------------------------------------------------------------
+VVFAANDSGPRR--YTIAALLSPYSYSTTAVVTNPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSTGEP00000023726 ENSTGEG00000019174	147	TTR		Theropithecus_gelada	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHRLLLLC-----LAGLVFV-
+-SEAGPT----------------------------------GVDESKCPLMVKV------
+---------LDAVRGSPAVNVAVNVFKKAADE-TWAPFASGKTSESGELHGLTTEEEFVE
+GIYKVEIDTKSYWKSLGISPFH--E---HAE-----------------------------
+------------------------------------------------------------
+VVFTANDSGPRH--YTIAALLSPYSYSTTAVVTNPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSLAFP00000012408 ENSLAFG00000014816	147	TTR		Loxodonta_africana	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAPHRLLLLC-----LAGLVFV-
+-SEAGPA----------------------------------VTGESKCPLMVKV------
+---------MDAVRGSPATNVAVRVFKKAADQ-TWELFADGKTSEFGELHGLTTEEKFVE
+GVYKVELDTKSYWKAVGISAFH--E---YVEV----------------------------
+------------------------------------------------------------
+-VFTANDSGQRH--YTIAALLSPYSYSTTAIVSNPSK-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCCNP00000002488 ENSCCNG00000002726	147	Ttr		Castor_canadensis	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHSLLLLC-----LAGLVFV-
+-SEADPT----------------------------------ATEQSKCPLMVKV------
+---------LDAVRGSPAVNVGVQVFKKAADE-SWEPFASGKTSNTGELHGLTTNKKFVE
+GMYKVEIDTKSYWKALGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFIANDSGFRH--YTIAALLSPYSYSTTALVSNPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCPOP00000011563 ENSCPOG00000012845	131	TTR		Cavia_porcellus	541A	541	A
+------------------------------------------------------------
+----------------------------------------------------------G-
+-LGLGVM----------------------------------GTREAKCPLMVKV------
+---------LDAVRGSPAVGVVVKVFKKGADE-TWEPFATGKTSETGELHGLTTEEKFVE
+AMYKVELDTKAYWTAVGISPFH--E---HAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGRRH--YTIAALLSPYSYSTTAVVTNPKA-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCLAP00000023425 ENSCLAG00000016064	147	TTR		Chinchilla_lanigera	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHRLLLLC-----LAGLVLA-
+-SEADPV----------------------------------GTGEAKCPLMVKV------
+---------LDAVRGSPAVGVVVKVFKKGADD-TWEPFATGKTGETGELHGLTTDKDFVE
+AMYKVELDTKSYWTALGISPFH--E---HAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGRRH--YTIAALLSPYSYSTTAVVTNPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSDORP00000011921 ENSDORG00000012678	142	Ttr		Dipodomys_ordii	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHHLLLLC-----LAGLVFV-
+-SEAGPA---------------------------------------GCPLMVKV------
+---------LDAVRGSPAVNVAVQVFKKAADG-TWEPFAAGKTEDTGELHGLTTNEKFVE
+GVYKVELDTKSYWKALGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFVANDSGHRS--YTIAALLSPFSYSTTAVVSDPQQ-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSTOP00000006729 ENSSTOG00000007541	147	TTR		Ictidomys_tridecemlineatus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHHLLLLC-----LAGLAFV-
+-SEADPV----------------------------------GTGETKCPLMVKV------
+---------LDAVRGSPAVEVSVKVFKKAADG-TWEPFASGKTGENGELHGLTTDEKFVE
+GLYRVELDTKSYWKALGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGHRH--YTIAALLSPFSYSTTAVVSNPKA-----------------------
+------------------------------------------------------------
+--------------------
+>ENSMUGP00000010488 ENSMUGG00000009254	147	Ttr		Meriones_unguiculatus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASLRLFLLC-----LAGLLFL-
+-SEADPA----------------------------------GTGESNCPLMVKV------
+---------LDAVRGSPAVNVAVKVFKKNSEG-KWEPFASGSTAESGELHGLTTHEKFVE
+GVYRVELDTKSYWKSVGISPFH--E---HAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGHRH--YTIAALLSPYSYSTTAVVSNPKN-----------------------
+------------------------------------------------------------
+--------------------
+>ENSMAUP00000011057 ENSMAUG00000011770	147	Ttr		Mesocricetus_auratus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASPHLFLLC-----LAGLAFM-
+-SEASPA----------------------------------GTGESKCPLMVKV------
+---------LDAVRGSPAVDVAVQVFKKTAEG-TWEPFASGKTAESGELHGLTTDEKFVE
+GVYRVELDTKSYWKVLGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGHRH--YTIAALLSPYSYSTTAVVSNPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSMOCP00000003015 ENSMOCG00000002400	147	Ttr		Microtus_ochrogaster	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASPHLFLLC-----LAGLAFM-
+-SEAGPA----------------------------------GPGASKCPLMVKV------
+---------LDAVRGSPAVDVAVQVFKKTAQG-TWEPFASGKTAESGELHGLTTDEKFVE
+GVYRVELDTKSYWKALGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGHRR--YTIAALLSPYSYSTTAVVSNPQN-----------------------
+------------------------------------------------------------
+--------------------
+>ENSMUSP00000074783 ENSMUSG00000061808	147	Ttr		Mus_musculus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASLRLFLLC-----LAGLVFV-
+-SEAGPA----------------------------------GAGESKCPLMVKV------
+---------LDAVRGSPAVDVAVKVFKKTSEG-SWEPFASGKTAESGELHGLTTDEKFVE
+GVYRVELDTKSYWKTLGISPFH--E---FADV----------------------------
+------------------------------------------------------------
+-VFTANDSGHRH--YTIAALLSPYSYSTTAVVSNPQN-----------------------
+------------------------------------------------------------
+--------------------
+>ENSODEP00000025070 ENSODEG00000018347	147	TTR		Octodon_degus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASHCLLLLC-----LAGLAFV-
+-SEAEPV----------------------------------GTGEAKCPLMVKV------
+---------LDAVRGSPAVGVAVKVFKKGADE-TWEPFATGKTSETGELHGLTTEKDFVE
+AMYKVELDTKSYWTALGISPFH--E---HAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGRRH--YTIAALLSPYSYSTTAVVTNPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSPEMP00000028803 ENSPEMG00000024235	147	Ttr		Peromyscus_maniculatus_bairdii	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASSHLILLC-----LAALAFM-
+-SEAGPA----------------------------------GTGESKCPLMVKV------
+---------LDAVRGSPAVDVAVKVFKKTAEG-TWEPFASGKTAESGELHGLTTDEKFVE
+GVYRVELDTKSYWKALGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGHRR--YTIAALLSPYSYSTTAVVSNPQA-----------------------
+------------------------------------------------------------
+--------------------
+>ENSRNOP00000022113 ENSRNOG00000016275	147	Ttr		Rattus_norvegicus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASLRLFLLC-----LAGLIFA-
+-SEAGPG----------------------------------GAGESKCPLMVKV------
+---------LDAVRGSPAVDVAVKVFKKTADG-SWEPFASGKTAESGELHGLTTDEKFTE
+GVYRVELDTKSYWKALGISPFH--E---YAEV----------------------------
+------------------------------------------------------------
+-VFTANDSGHRH--YTIAALLSPYSYSTTAVVSNPQN-----------------------
+------------------------------------------------------------
+--------------------
+>ENSANIP00000014883 ENSANIG00000010158	150	None	None	Accipiter_nisus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSVLFVF-----LAGLVFF-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAADG-SWQDFATGKTTEYGEIHELTTEEQFVE
+GIYRVEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSACCP00020007934 ENSACCG00020005383	150	TTR		Aquila_chrysaetos_chrysaetos	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSVVFVF-----LAGLVFF-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAADG-SWQDFATGKTTEYGEIHELTTEEQFVE
+GIYRVEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSAPLP00020016242 ENSAPLG00020011708	150	TTR	Anas platyrhynchos transthyretin (TTR), mRNA	Anas_platyrhynchos	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSALFVF-----LAGLVFL-
+-AEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKGADG-SWQDFATGKTTEYGEIHELTTEEQFVE
+GTYRVEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSACDP00005010918 ENSACDG00005007943	150	TTR		Anser_cygnoides	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSALFVF-----FAGLVFL-
+-AEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAADG-SWQDFANGKTTEYGEIHELTTEEQFVE
+GTYRVEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSAOWP00000017342 ENSAOWG00000011851	150	TTR		Apteryx_owenii	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSTFFVF-----LAGAVFL-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAADG-SWQDFAVGKTTEYGEIHELTTEEQFVE
+GLYRVEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSDNVP00000024786 ENSDNVG00000017241	150	TTR		Dromaius_novaehollandiae	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSTFFFF-----LAGLVFL-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAADG-SWQDFAVGKTTEYGEIHELTTEEQFVE
+GIYRVEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCPUP00000028194 ENSCPUG00000018989	150	None		Calidris_pugnax	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSVLFVF-----LAGLVFF-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAADG-SWQDFATGKTTEYGEIHELTTEEQFVE
+GIYRVEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCPRP00005021736 ENSCPRG00005015105	150	TTR		Crocodylus_porosus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSMLLVF-----LAGLVFL-
+-TEAAPLV-------------------------------SHGSIDSKCPLMVKV------
+---------LDAVRGSPAANVAIKVFKKTSDG-DWQEFAAGKTTEFGEVHELTSDEKFVE
+GIYRVEFDTSSYWKALGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCPIP00010005749 ENSCPIG00010004430	150	TTR		Chrysolophus_pictus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSTLLVF-----LAGLVFL-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAADG-TWQDFATGKTTEYGEIHELTTEEQFVE
+GVYRVEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCJPP00005011501 ENSCJPG00005009886	238	TTR		Coturnix_japonica	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSTLLVF-----LAGLVFL-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAADG-TWQDFATGKTTEYGEIHELTTEEQFVE
+GVYRVEFDTSSYWKGLGLSPFH--E---YADGSSDSKHPLFIKVLDSARGSPAPNLLVKL
+HKEVEDGSWELLNSKLTNENGEIQDLIPKDKF-EGKYKIEFDTDSYWRNLGLNPFYQYAD
+VVFTANDAGLRH--YSIINIISPFSYSTAATVSEPME-----------------------
+------------------------------------------------------------
+--------------------
+>ENSGALP00000024388 ENSGALG00000015143	168	TTR		Gallus_gallus	541A	541	A
+------------------------------------------------------------
+-----------MICYCWSPCTNFY--------AWKLNIECYLPLSLL-----CSGLVFL-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAADG-TWQDFATGKTTEFGEIHELTTEEQFVE
+GVYRVEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSNMEP00000015045 ENSNMEG00000013374	150	TTR		Numida_meleagris	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSTLLVF-----LAGLVFL-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAADG-SWQDFAAGKTTEYGEIHELTTEEQFVE
+GVYRVEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSPSTP00000012701 ENSPSTG00000008962	150	TTR		Pavo_cristatus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSTLFVF-----LAGLVFL-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAADG-TWQDFATGKTTEYGEIHELTTEEQFVE
+GVYRVEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSPCLP00000022779 ENSPCLG00000020048	150	None	None	Phasianus_colchicus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSTLLVF-----LAGLVFL-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAADG-TWQDFATGKTTEYGEIHELTTEEQFVE
+GVYRVEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCPVP00000008942 ENSCPVG00000006555	150	None		Camarhynchus_parvulus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFQSVLFVF-----LAGLVFF-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPASDVNVKVFKQAEDG-SWQDFAVGKTTEYGEIHDLTTEEQFVE
+GKYMVKFETSSYWKALGLSAFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVTDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCCEP00000014495 ENSCCEG00000013806	150	None		Cyanistes_caeruleus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFQSVLFVF-----LAGLVFF-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPASDVTVKVFKQAEDG-SWQDFAVGKTTEYGEVHELTTEEQFVE
+GKYMVKFETSSYWKALGLSAFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVTDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSEGOP00005000265 ENSEGOG00005000216	160	None	None	Erythrura_gouldiae	541A	541	A
+------------------------------------------------------------
+--------------------------------MWDLILSTEYTEKKHRADAEKTLGHYY-
+-AQPEGKV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPASDVTVKVFKQAEDG-SWQDFAVGKTTEYGEIHELTTEEQFVE
+GKYMVKFETSSYWKTLGLSAFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVTDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSFALP00000006221 ENSFALG00000005970	150	None		Ficedula_albicollis	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFQSVLFVF-----LAGLVFF-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPASDVTVKVFKQAEDG-SWQDFAVGKTTEYGEIHELTTEEQFVE
+GKYMVKFETSSYWKALGLSAFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVTDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSGFOP00000009204 ENSGFOG00000006434	150	None		Geospiza_fortis	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFQSVLFVF-----LAGLVFF-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPASDVNVKVFKQAEDG-SWQDFAVGKTTEYGEIHDLTTEEQFVE
+GKYMVKFETSSYWKALGLSAFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVTDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSJHYP00000006955 ENSJHYG00000005595	150	None	None	Junco_hyemalis	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFQSVLFVF-----LAGLVFF-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPASGVNVKVFKQAEDG-SWQDFAVGKTTEYGEIHDLTSEEQFVE
+GKYMVKFDTSSYWKALGLSAFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVTDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSLSDP00000010750 ENSLSDG00000007911	150	None		Lonchura_striata_domestica	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFQSALFVF-----LAGLVFF-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPASDVTVKVFKQAEDG-SWQDFAVGKTTEYGEIHELTTEEQFVE
+GKYMVKFETSSYWKALGLSAFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVTDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSMVIP00005004628 ENSMVIG00005003562	150	TTR		Manacus_vitellinus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFQSVLFVF-----LAGLVFF-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPASNVAVKVFKQAEDG-SWQDFATGKTTEYGEIHELTTEEQFVE
+GVYMVKFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVTDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSPMJP00000019739 ENSPMJG00000014753	150	None		Parus_major	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFQSVLFVF-----LAGLVFF-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPASDVTVKVFKQAEDG-SWQDFAVGKTTEYGEVHELTTEEQFVE
+GKYMVKFETSSYWKALGLSAFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVTDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSCAP00000016551 ENSSCAG00000012083	150	None		Serinus_canaria	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFQSVLFVF-----LAGLVFF-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPASDVNVKVFKQAEDG-TWQDFAVGKTTEYGEIHDLTTEEQFVE
+GRYMVKFETSSYWKALGLSAFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVTVPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSTGUP00000011059 ENSTGUG00000010708	150	TTR	Taeniopygia guttata transthyretin (TTR), mRNA	Taeniopygia_guttata	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFQSALFVF-----LAGLVFF-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPASDVTVKVFKQAEDG-SWQDFAVGKTQSMGRFTSSTTEEQFVE
+GKYMVKFETSSYWKALGLSAFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVTDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSZALP00000000365 ENSZALG00000000422	150	None		Zonotrichia_albicollis	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFQSVLFVF-----LAGLVFF-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPASGVNVKVFKQAEDG-SWQDFAVGKTTEYGEIHDLTSEEQFVE
+GKYMVKFDTSSYWKALGLSAFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVTDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSACOP00000014839 ENSACOG00000010343	150	None	None	Amazona_collaria	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHPVLFVF-----LAGLVFL-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGTPAANVAVKVFKKAADG-SWQDFAAGKTTEYGEIHELTTEEKFIE
+AVYRIEFDTRSYWKALGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPYSHSTTAVVTDPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSMUNP00000010015 ENSMUNG00000007931	150	None		Melopsittacus_undulatus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSVLFIF-----LAGLVFL-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAADG-SWQDFATGKTTEYGEIHELTTEEQFVE
+GVYRVEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVTDPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSHBP00005005490 ENSSHBG00005004799	150	None		Strigops_habroptila	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSVLFVF-----LAGLVFL-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAADG-SWQDFATGKTTEYGEIHELTTEEQFVE
+GIYRVEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVTDPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSPUP00000008551 ENSSPUG00000006606	149	TTR		Sphenodon_punctatus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFQPALLIC-----LAGLVFL-
+-SEAGPLV-------------------------------THGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFQKAEDG-SWKEFATGKTTEFGEIHELTTDEQFVE
+GIYRVEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPH------------------------
+------------------------------------------------------------
+--------------------
+>ENSACAP00000017580 ENSACAG00000017854	152	TTR		Anolis_carolinensis	541A	541	A
+------------------------------------------------------------
+-----------------------------------MAASTFSLLLVC-----LAATVYL-
+-TKAVPLV-------------------------------THGSIDSRCPLMVKV------
+---------LDAVRGSPATNLVAKVSKRAEDG-TWKEFATGKTNELGEIHELTTDELFVE
+GLYKVEFDTSTYWKALGVSPFH--E---YADV----------------------------
+------------------------------------------------------------
+-VFMANDYGHRH--YTIAALLSPFSYSTTAVVSDPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSLLTP00000017915 ENSLLTG00000013577	171	TTR		Laticauda_laticaudata	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAPASLLFFC-----LATMGYL-
+-IEAAP-----------------------------------------CPLMVKV------
+---------LDAVRGTPATSLPVKVFKKGEDG-TWKEFSSGKTNEFGEIHELTTDELFIE
+GLYKVEFDTSVYWKELGISPFH--E---YADVILI--------IFSK-------------
+--K--------------------------------KKKIT---VLTKNTPKLVSFLFFKQ
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSNSUP00000028052 ENSNSUG00000019991	150	TTR		Notechis_scutatus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAPASLLFFC-----LATMGYL-
+-IEAAPVE-------------------------------SHSSSDSKCPLMVKV------
+---------LDAVRGTPATSLPVKVFKKGEDG-TWKEFSSGKTNEFGEIHELTTDELFIE
+GLYKVEFDTSVYWKELGISPFH--E---YADV----------------------------
+------------------------------------------------------------
+-VFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSPMRP00000007909 ENSPMRG00000005339	152	TTR		Podarcis_muralis	541A	541	A
+------------------------------------------------------------
+-------------------------------------MASSSLLLVC-----LAAMVYI-
+-TEATPLVKV-----------------------------SHGSIDSKCPLMVKV------
+---------LDAVKGRPATSLLVKVSKRAEDG-TWKEFATGETNEFGEIHELTTDEQFTE
+GLYKVQFDTNTYWKAAGVAPFH--E---YADV----------------------------
+------------------------------------------------------------
+-VFTANDSGHRH--YTIAALLSPYSYSTTAVVSDPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSPVIP00000018258 ENSPVIG00000013962	149	TTR		Pogona_vitticeps	541A	541	A
+------------------------------------------------------------
+--------------------------------------MASSSLLLC-----LAAMVYL-
+-TEAAPLV-------------------------------THGSIDSKCPLMVKV------
+---------LDAVRGSPATSLVVKVSKKAEDG-TWKEFASGKTNEFGEIHELTTDELFVE
+GLYKVEFDTSSYWKALGVSPFH--E---YADV----------------------------
+------------------------------------------------------------
+-VFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSPTXP00000003250 ENSPTXG00000002456	150	TTR		Pseudonaja_textilis	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAPTSLLFFC-----LATVGYL-
+-IEAAPVE-------------------------------SHSSSDSKCPLMVKV------
+---------LDAVRGTPATSLPVKVFKKGEDG-TWKEFSSGKTNEFGEIHELTTDELFIE
+GLYKVEFDTSVYWKELGISPFH--E---YADV----------------------------
+------------------------------------------------------------
+-VFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSMRP00000014797 ENSSMRG00000011513	151	TTR		Salvator_merianae	541A	541	A
+------------------------------------------------------------
+------------------------------------MMASSSLLLIC-----LVATVYL-
+-TEATPLV-------------------------------SHGSIDSKCPLMVKV------
+---------LDAVRGSPATSLVVKVSKKAEDG-TWKEFASGKTNEFGEIHELTTDEQFVE
+GVYKVEFETSTYWKALGVSPFH--E---YADV----------------------------
+------------------------------------------------------------
+-VFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSVKKP00000009309 ENSVKKG00000006569	145	TTR		Varanus_komodoensis	541A	541	A
+------------------------------------------------------------
+--------------------------------------ISFPALLYA-----F-------
+-ISCFWNILI-----------------------------SHGSIDSKCPLMVKV------
+---------LDAVRGSPATNLVVRVSKQAEDG-TWKEFANGKTNEFGEIHELTTDEQFVE
+GLYKVEFDTSTYWRALGVSPFH--E---YADV----------------------------
+------------------------------------------------------------
+-IFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPKE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSACUP00000011022 ENSACUG00000007475	150	None		Athene_cunicularia	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSVLFVF-----LAGLVFF-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAADG-SWQDFAAGKTTEYGEIHELTTEEQFVE
+GIYRVEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSCUP00000021329 ENSSCUG00000015639	150	None		Struthio_camelus_australis	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSTLFIF-----LAGLVFL-
+-SEAAPPV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAADG-SWQDFAVGKTTEYGEIHELTTEEQFVE
+GVYRVEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCABP00000023700 ENSCABG00000017464	150	None	None	Chelonoidis_abingdonii	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSVLLVF-----LAGLVFL-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKATDG-NWQDFATGKTTEFGEIHELTTDEQFVE
+GVYRIEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSNPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCSRP00000015914 ENSCSRG00000012173	150	None	None	Chelydra_serpentina	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSVLLVF-----FAGLVFL-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAAGG-NWQDFATGKTTEFGEIHELTTDEQFVE
+GVYRIEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDAGHRH--YTIAALLSPFSYSTTAVVSNPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCPBP00000029859 ENSCPBG00000021030	244	TTR		Chrysemys_picta_bellii	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSVLLVF-----LAGLVFL-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAAGG-NWQDFATGKTTEFGEIHELTTDEKFVE
+GVYRIEFDTSSYWKGLGLSPFH--E---YADDSHDSKHPLVVKILDAVRGSAASSVPVKL
+YKKADDGTWQLLSSGKTNEYGEIHELTTEKQFVTGLYKIEFDTVTYWKGLGLNPFHEHAD
+VVFTANDSGHRH--YTIAVLISPFSYSTTAIVSEPKELGTTH------------------
+------------------------------------------------------------
+--------------------
+>ENSPSIP00000005047 ENSPSIG00000004700	150	TTR		Pelodiscus_sinensis	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFYSAHLIF-----LAGLVFL-
+-AEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAADG-NWKEFATGKTTEYGEIHELTTDEQFVE
+GVYKIEFDTSSYWTRLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSNPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSPCEP00000008359 ENSPCEG00000006741	150	None	None	Pelusios_castaneus	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSVLLIF-----LAGLVFL-
+-SEAAPLA-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKRDAAG-NWQEFAIGKTTEFGEIHELTTDEQFVE
+GIYRIEFNTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSNPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSTMTP00000029738 ENSTMTG00000021504	150	None		Terrapene_carolina_triunguis	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSVLLGL-----LAGLVFL-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAAGG-NWQDFATGKTTEFGEIHELTTDEQFVE
+GVYRIEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSNPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSNPEP00000009705 ENSNPEG00000007254	150	TTR		Nothoprocta_perdicaria	541A	541	A
+------------------------------------------------------------
+-------------------------------------MAFHSTFFVF-----LAGLVFL-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAASVAVKVYKKAADG-SWQEFAVGKTTEYGEIHELTTEEDFVE
+GLYRIEFDTSSYWKGLGLSPFH--E---Y-------------------------------
+----------------------------------------------------------AD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSDPQE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSGRP00000109921 ENSSGRG00000054108	155	ttr		Sinocyclocheilus_grahami	541B	541	B
+------------------------------------------------------------
+----------------MQLC--FNMAKAVICVL------LASLFACC-----RSAPV---
+--------------------------------------AFHGGSDVLCPLTVKI------
+---------LDAVKGTPAGNIALDVYRQNQGG-TWEKIASGKVDMTGEVHSLITEEEFTP
+GVYRVEFDTKAYWKAEGRTPFH--Q---VAD-----------------------------
+------------------------------------------------------------
+VVFEAHAEGHRH--YTLALLLSPFSYTTTAVVVKAHE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSTBEP00000005047 ENSTBEG00000005892	112	URAD	ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-)	Tupaia_belangeri	541B	541	B
+---------------------QEGILRCHPDL-----AGRELQQGTLTAESRR-------
+-----EQSGAGLTSLGAEERLQLAKLNAQYRAR----F-GFPFVLA--------ARLS--
+-DRAA--------------------------------VPRELARRLHCPPTQELRTALGE
+VKKIGHLRLADLLGSDPA------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------
+>ENSANIP00000014898 ENSANIG00000010170	147	None	None	Accipiter_nisus	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFHSLFLVF-------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------LAGLAFFS--EAAPL--DSADSKHPLLIKILDSVRGSPAPNVPVKL
+YKEAADGSWELLNSKQTNDNGELRELTTKEQFVTGIYKIELDTASYWKRLGLNPFHHHAD
+VVFTANDAGYRH--YSIAVLLSPFSYSTMAVVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSAPLP00020016249 ENSAPLG00020011712	145	None	None	Anas_platyrhynchos	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFHSVFLIF-------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------LAGLAFFS--EAAPQVSDSSDSKHPLVVKILDSVRGSPAPNVPVKL
+YKAAADGSWELQ----TNENGELRELTTKEQFVTGIYKIELDTASYWKKLGLNPFHQHAD
+VVFTANDAGYRH--YSIATLLSPFSYSTTAVVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCPUP00000028196 ENSCPUG00000018990	146	None		Calidris_pugnax	541B	541	B
+------------------------------------------------------------
+--------------------------------------IMFLTALLC-----TIACLTYN
+MKFLS--------------------------------SYLKDSADSKHPLFIKI------
+---------LDSVRGSPAQNVPVKLYKEAADG-SWEL----QTNDNGEFHELTTREQFIT
+GTYKIELDTASYWKKLGLNPFH--H---HAD-----------------------------
+------------------------------------------------------------
+VVFTANDAGYRH--YTIAVVLSPFSYSTTAVVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSGALP00000063278 ENSGALG00000044733	147	None		Gallus_gallus	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFHSIFLVF-------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------LAGLAFFS--EAAPQG--SSDSTHPLVVKILDSVRGSPAPNVPVKL
+YKAAADGSWELLNSKETNENGELQELTTKEQFVTGIYKIELDTASYWKKLGLNPFHQHAD
+VVFTANDAGYRH--YSIATVLSPFSYSTTAVVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSMGAP00000010937 ENSMGAG00000010534	149	TTR		Meleagris_gallopavo	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFHSTLLVF-----LAGLVFL-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAANVAVKVFKKAADG-TWQDFATGQTNENGELQELTTKEQFVT
+G-YKIELDTASYWKKLGLNPF---------------------------------------
+-------------------------------------------------------HQHAD
+VVFTANDVGYRH--YSITTVLSPFSYSTTAAVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSPCLP00000022780 ENSPCLG00000020049	145	None	None	Phasianus_colchicus	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFHSVFLVF-------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------LVGLAFFS--EATPQVSGSSDSKHPLVVKILDSVRGSPAPNVPVKL
+YKAAADGSWELQ----TNENGELQELTTKEQFVTGIYKIELDTASYWKKLGLNPFHQHAD
+VVFTANDVGYRH--YSITTVLSPFSYSTTAAVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCPVP00000009015 ENSCPVG00000006570	155	None		Camarhynchus_parvulus	541B	541	B
+------------------------------------------------------------
+------------------------MENI-VSTGDLKNNIPYCFMMQC-----HPSCNI--
+--KIL--------------------------------SVLQDPPDTKHPLSVKV------
+---------VDSVRGSPAPNVAVKLYKGAADG-SWEL----QTNEKGGLSDLTTKEQFVA
+GLYKLELDTASYWKSLGLNPFH--Q---HAD-----------------------------
+------------------------------------------------------------
+VVFTANDAGNRR--YKIAVVLSPFSYSTTAVVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCCEP00000014494 ENSCCEG00000013805	223	None		Cyanistes_caeruleus	541B	541	B
+MLEMIVTKPCQKKKIETWSHSCSASLVC---MATCPAAPEILLPGSTISSPQ--------
+----------KASDYVSSAHRN-LVENM-VSTVHLNNSIPYCFMMHR-----HLSFLKH-
+-KNSL--------------------------------FLLQDPPDAKHPLSVKV------
+---------VDSVRGSPAPNVPVKLYKEAADG-SWELLNSKQTNEKGGLPELTTREQFVA
+GLYKLELDTASYWKSMGLNPFH--N---HAD-----------------------------
+------------------------------------------------------------
+VVFTANDAGTRH--YKIVVVLSPFSYTTTAVVSDPVD-----------------------
+------------------------------------------------------------
+--------------------
+>ENSEGOP00005000266 ENSEGOG00005000217	145	None	None	Erythrura_gouldiae	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFHSVFLVF-------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------LAGLVLCS--EASPLVSDPLDAKHPLFVKVVDSVRGSPAPNVAVKL
+YKEAADGTWEL----QTNEKGGLPELTTKEQFVAGLYKLEFDTAFYWKSLGLNPFYHHAD
+VVFTANDAGNRH--YKIAVVLSPFSYSTTAVVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSFALP00000006211 ENSFALG00000005958	147	None		Ficedula_albicollis	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFHSVFLVF-------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------LAGLALCS--EAAP--PSPLDAKHPLFVKVVDSVRGSPASNVAVKL
+YKESADGAWELLSSKQTNDKGGLPELTTKEQFVAGLYKLELDTASYWKSLGLNPFHHHAD
+VVFTANDAGNRH--YKIVVVLSPFSYSTTAVVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSGFOP00000009209 ENSGFOG00000006439	147	None		Geospiza_fortis	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFHSVFLVF-------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------LGGLALCS--EAAPL--DPPDTKHPLSVKVVDSVRGSPAPNVAVKL
+YKGAADGSWELLNSQQTNEKGGLSDLTTKEQFVAGLYKLELDTASYWKSLGLNPFHQHAD
+VVFTANDAGNRR--YKIAVVLSPFSYSTTAVVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSJHYP00000007013 ENSJHYG00000005601	145	None	None	Junco_hyemalis	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFHSVFLVF-------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------LAGLALCS--EAAPLVSDHPDAKHPLSVKVVDSVRGSPATNVAVKL
+YKGAADGSWEL----QTNEKGGLSELTTKEQFVAGLYKLELDTASYWKSMGLNPFHQHAD
+VIFTANDAGNRR--YKIAVVLTPFSYSTTAVVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSLSDP00000010746 ENSLSDG00000007909	147	None		Lonchura_striata_domestica	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFQSVFLAF-------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------LAGLVLCS--EASP--LDPLDAKHPLFVKVVDSVRGSPAPNVAVKL
+YKEAADGSWELLNSKQTNDKGGLPELTTKEQFVAGLYKLEFDTASYWKSLGLNPFYHHAD
+VVFTANDAGNRH--YKIAVVLSPFSYSTTAVVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSPMJP00000019741 ENSPMJG00000014754	184	None		Parus_major	541B	541	B
+-------MPKKKKKIETWSHICSASLVC---MATCPAAPEILLPRSTISSPQ--------
+----------KASDYVSSAHRN-LLV----------------------------------
+--------------------------------------ENMDPPDAKHPLSVKV------
+---------VDSVRGSPAPNVPVKLYKEGADG-SWELLNSKQTNEKGGLPELTTREQFVA
+GLYKLELDTASYWKSMGLNPFH--D---HAD-----------------------------
+------------------------------------------------------------
+VVFTANDAGNRH--YKIAVVLSPFSYTTTAVVSDPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSCAP00000016561 ENSSCAG00000012088	208	None		Serinus_canaria	541B	541	B
+----------------MWSHTCSASLVY---MATRPTAPEIFLPGSTISSPQ--------
+----------KASDYVSSVHSNILMENM-VSTVDLKNNIPYCFMMQC-----HLPFLQH-
+-KNSL--------------------------------FLWQDPPDAKHPLSVKV------
+---------VDSVRGSPASNVAVKLYKGAADG-SWELLNSQQTNEKGGLPELTTKEQFVA
+GLYKLELDTASYWKSLGLNPFH--Q---HAD-----------------------------
+------------------------------------------------------------
+VVFTANDAGNRR--YKIAVVLSPFSYSTTAVVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSTGUP00000011060 ENSTGUG00000010734	121	None	None	Taeniopygia_guttata	541B	541	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------MPSILFSVKVVDSVRGSPAPNVAVKL
+YKEAADGSWELLNSKQTNDKGGLPELTTKEQFVAGLYKLEFDTASYWKSLGLNPFYHHAD
+VVFTANDAGNRH--YKIAVVLSPFSYSTTAVVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSZALP00000000456 ENSZALG00000000425	145	None	None	Zonotrichia_albicollis	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFHSVFLVF-------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------LAGLALCS--EAAPLVSDHPDAKRPLSVKVVDSVRGSPATNVAVKL
+YKGTADGSWEL----QTNERGGLSELTTKEQFVAGLYKLEFDTASYWKSMGLNPFHQHAD
+VVFTANDAGNRR--YKIAVVLTPFSYSTTAVVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSACOP00000014823 ENSACOG00000010332	147	None	None	Amazona_collaria	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFHSVFLIF-------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------LAGLAFIS--EAAPP--DSADSKNPLFIKILDSVRGSPAPNVPVKL
+YKEAADGSWKLLNSKQTDDNGGLHELTTKEQFVAGLYKIELDTASYWKSLGLNPFHHHAD
+VVFTANDDSYRH--YSIVVILSPFSYSTTAVVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSMUNP00000010038 ENSMUNG00000007932	145	None		Melopsittacus_undulatus	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFHSVFLVF-------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------LAGLAFVS--EAAPSVSDTADSKHSLFIKILDSVRGSPAPNVPVKL
+YKEAADASWEL----QTDNNGGLRELTTKEQFVAGLYKIELDTASYWKSLGLNPFHHHAD
+VVFTANDGSYRH--YSIVVLLSPFSYSTTAVVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSHBP00005005495 ENSSHBG00005004802	147	None		Strigops_habroptila	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFHSVFLVF-------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------LAGLAFFS--EAAPP--DSADSKHPLFIKILDSVRGSPAPNVPVKL
+YKEAADGSWELLNSKQTDDNGGLHELTTKEQFVAGLYKIELGTASYWKSLGLNPFHHHAD
+MVFTANDGSYRH--YSIVVLLSPFSYSTTAVVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSACUP00000011031 ENSACUG00000007479	145	None	None	Athene_cunicularia	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFHSVFLIF-------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------LAGLAFFS--EAAPLVSDSADSKHPLFIKILDSVRGSPAPNVPAKL
+YKEAADGTWELQ----TNDNGELHEITTKEQFATGKYKIELDTASYWKRLGLNPFHQHAD
+VVFTANDAGYRH--YSIAVFLSPFSYSTTAVVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSSCUP00000021330 ENSSCUG00000015641	148	None	None	Struthio_camelus_australis	541B	541	B
+------------------------------------------------------------
+-------------------------------------ECFHSAWHYA-------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------PLYRLLTFSSLFTLPPATGSADSKHPLNVKILDSVRGSPAPNVPIKL
+YKAAADGSWEL----QTNENGEFHELTTKEQFVTGIYKIEFDTASYWKGLGLNPFHQYAD
+VVFTANDAGNRH--YTIATLLSPFSYSTTAVVSEPVE-----------------------
+------------------------------------------------------------
+--------------------
+>ENSCABP00000023704 ENSCABG00000017466	207	None	None	Chelonoidis_abingdonii	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFRSLLLVF-----LA------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------GLVFFS--EA--TPLGSHDSKHPLIVKILDAVRGSPASSVSIKL
+YKKADDGTWQLLSSGKTNEYGEIHELTTEKQFVTGLYKIEFDTVTYWKGLGLNPFHEYAD
+VVFTANDSGHRH--YTIAALISPFSYSTTAVVSELRQFLIKPSFKKKIRLKRDFCKTND-
+-------------------------GFSQIHNLGLEGTRDVIGHGSALKQTRGSLSTNHS
+YIR-----------------
+>ENSCSRP00000015967 ENSCSRG00000012217	152	None	None	Chelydra_serpentina	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFRSLLFVV-----LA------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------GLVFFS--EA--APLGSHDSKHPLIVKILDAVRGSPASTVPVKL
+YKKADDGTWQLLNSGKTNEYGEIHELTTETQFVTGLYKIEFDTLTYWKGLGLNPFHEHAD
+VVFTANDSGHRH--YTIAALLSPFSYSTTAVVSEPKELGTTH------------------
+------------------------------------------------------------
+--------------------
+>ENSGAGP00000027538 ENSGAGG00000020014	217	TTR		Gopherus_agassizii	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFHSVLLVF-----LAGLVFL-
+-SEAAPLV-------------------------------SHGSVDSKCPLMVKV------
+---------LDAVRGSPAAHVAVKVFKKAADG-NWQDFATGKTTEFGEIHELTTD-----
+------------------------E---YADGSHDSKHPLIVKILDAVRGSPASSVPIKL
+YKKADDGTWQLLNSGKTNEYGEIHELATEKQFVTGLYKIEFDTATYWKGLGLNPFHEHAD
+VVFTANDSGHRH--YTIAALISPFSYSTTAVVSEPKELGTTT------------------
+------------------------------------------------------------
+--------------------
+>ENSPCEP00000008337 ENSPCEG00000006724	152	None	None	Pelusios_castaneus	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFCSLLLIF-----LAGQV---
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------FVS--EA--APLGFSDSKHPLIVNILDTVRGSPVSSAPVKL
+YKKADDGTWGLLNSGKTNEHGQIYELTTEEQFVTGVYKIEIDTVTYWKGLGINPFHEHAD
+VIFTASDSGHRH--YSIAVLVSPFFYSATAVVSEPKEVGTTY------------------
+------------------------------------------------------------
+--------------------
+>ENSTMTP00000029744 ENSTMTG00000021508	152	None		Terrapene_carolina_triunguis	541B	541	B
+------------------------------------------------------------
+-------------------------------------MAFRSLLLVF-----LA------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------GLVFFS--EA--APLGSHDSKHPLIVKILDAVRGSAASSVPIKL
+YKKADDGTWQLVSSGKTNEYGEIHELTTEKQFVTGLYRIEFDTVTYWKGLGLNPFHEHAD
+VVFTANDSGHRH--YTIAALISPFSYSTTAVVSDPKELGTTH------------------
+------------------------------------------------------------
+--------------------

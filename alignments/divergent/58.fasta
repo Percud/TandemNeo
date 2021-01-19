@@ -1,0 +1,640 @@
+>ENSCATP00000023549 ENSCATG00000035332	220	None	membrane-spanning 4-domains subfamily A member	Cercocebus_atys	58A	58	A
+-----------------------------------------------MTIMQGMEQA---
+----------TPGA------------GLGVPQL-GNMGVIHS--------YLWKGL-QEK
+FLKGEPKVLGVVQILTALMSLSMGIVMMCVAFSS--YEE-RPISVYAGYTIWGSVMFIIS
+GSL--SVAAGI---RTTKGL-VGGSLGMNITSSVFAITGILINAISLTFYS-FSYHYCNR
+NQLS----N---------------------NCYMTVSISMGMDGMVLLLSVLEFCIAVSL
+SAFGCKVLCCSPGEVVLII-----------PPNSHMAEAAS------PTPL--KTV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSCSAP00000002477 ENSCSAG00000006180	220	None	membrane-spanning 4-domains subfamily A member	Chlorocebus_sabaeus	58A	58	A
+-----------------------------------------------MTTMEGMEQA---
+----------MPGA------------GPGVPQL-GNMAVVHS--------YLWKGL-QEK
+FLKGEPKVLGVVQILIALMSLSMGIVMMCVAFSS--YEE-RPISVYAWYTIWGSVMFIIS
+GSL--SVAAGI---RTTKGL-VGGSLGMNITSSVFAISGILIHAISLTFYS-FRYHYCNQ
+NQLS----N---------------------NCYMTVSILMSMDGVVLLLSVLEFCIAVSL
+SAFGCKAICCSPGEVVLII-----------PSNSHMAEAAP------PTPV--NEV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSGGOP00000033538 ENSGGOG00000008933	167	None	None	Gorilla_gorilla	58A	58	A
+-----------------------------------------------MTTMQGMEQT---
+----------TPGA------------GPDVPQQ-GNIDVIHS--------YLCKGL-QEK
+FFKRKPKVLGVVQILIALMSLSMGIIMMCVAFSS--YEE-RPIFVYAGYTIWGSVMFIIS
+GSL--SVAAGI---RTTKGL----------------------------------------
+----------------------------------------GTDGMVLLLSVLEFCIAVSL
+SAFGCKVLCCSPSEFVLIT-----------PSNSHMAEIAS------PTPL--KTV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSP00000499123 ENSG00000214787	331	MS4A4E	membrane spanning 4-domains	Homo_sapiens	58A	58	A
+-----------------------------------------------MTTMQGMEQTTP-
+------------------------GAGPDVPQL-GNIDVIHS--------YLCKGL-QEK
+FFKRKPKVLGVLCGH---------------KF--------------------------ST
+HSVSLSVAAGI---RTTKGL-VGGSLGKNITSSVLAISGILINAISLTFYS-FRYHYCNH
+DQLS----S---------------------NCYMTMSILMGTDGMVLLLSVLEFCIAVAL
+SAFGCKVLCCSPSESKNKI-----------RSNTFMCYLLSI----Q----------MQY
+DGKRLNVDVDSTVWCSGDGQYLEKVYYDILSSWLRIESIYRVLNGAQAGVQWRDLGSLQP
+PPPSRLPWPPKVPRVQPLPGRHPVWEVRSVSAWPPIVWDVRSPSAWLPSLESEERLCPAA
+IPSRKWGAPLPGHHPIWEVRSVSARPPIF
+>ENSMMUP00000060641 ENSMMUG00000031100	276	None	membrane-spanning 4-domains subfamily A member	Macaca_mulatta	58A	58	A
+MCPLAFPYKQ------KSLLNNILTHLYSHSASQQHCSQS-QSSEWHPTIEKGREINNSI
+MLK-VINAIKIPCNR--------RRKKRRVMMLAGILVHVPL--------CRWFNCCRDR
+--HLDLFISQVVQILIALMSLSMGIVMMCVAFSS--YEE-RPISVYAGYTIWGSVMFIIS
+GSL--SVAAGI---RTTKGL-VGGSLGMNITSSVFAITGIVINAISLTLYS-FRYHYCNQ
+NQLS----N---------------------NCYMTVSILMGMDGMVLLLSVLEFCIAVSL
+SAFGCEVLCCSPGEVVLII-----------PSNSHMAEAAP------PTPL--KTV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSMLEP00000026419 ENSMLEG00000037414	167	None	membrane-spanning 4-domains subfamily A member	Mandrillus_leucophaeus	58A	58	A
+-----------------------------------------------MTIMQGMEQA---
+----------TPGA------------GPGVPQL-GNMGVIHS--------YLWKGL-QEK
+FLKGEPKVLGVVQILIALMSLSMGIVMMCVAFSS--YEE-RPISVYAGYTIWGSVMFIIS
+GSL--SVAAGI---RTTKGL----------------------------------------
+----------------------------------------GMDGMVLLLSVLEFCIAVSL
+SAFGCKVLCCSPGEVVLII-----------PSNSHMAEAAP------PTPL--KTV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSPTRP00000071731 ENSPTRG00000034329	154	None	None	Pan_troglodytes	58A	58	A
+-----------------------------------------------MTTMQGMEQT---
+----------TPGA------------GPDVPQL-GNIDVIHS--------YLCKGL-QEK
+FFKRKPKVLGVVQILIALMSLSMGIKMI----RS--YEE-RPIFVYAGYTIWGSVMFIIS
+GSL--SVAAGI---RTTKVL----------------------------------------
+----------------------------------------GTDGMVLLLSVLEFCIAVSL
+SAFGCKVLCCSPSEVSI--------------------EIAS------PTPL--KTV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSPANP00000046585 ENSPANG00000012676	220	None	membrane-spanning 4-domains subfamily A member	Papio_anubis	58A	58	A
+-----------------------------------------------MTTMQGMEQA---
+----------MPGA------------GPGVPQL-GNMGVIHS--------YLWKGL-QEK
+FLKGEPKVLGVVQILIALMSLSMGIVMMCVAFSS--YEE-RPISVYAGYTIWGSVMFIIS
+GSL--SVAAGI---RTTKGL-VGGSLGMNITSSVFAITGILINAISLTFYS-FSYHYCNR
+NQLS----N---------------------NCYMTVSILMGMDGMVLLLSVLEFCIAVSL
+SAFGCKVLCCSPGEVVLII-----------PSNSHMAEAAP------PTPL--KTV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSPPYP00000003709 ENSPPYG00000003218	144	None	None	Pongo_abelii	58A	58	A
+----------------------------THQTYSRHCRPEESTFSAAMTTMQGMEQ---A
+----------TPGA------------GPGMPQL-GNMDVIHS--------YLCKGL-QEK
+FLKGKPKVLGVVQILIALMSLSMGIIMMCVAFSS--YED-HPIFVYAAYTIWGSV-----
+------------------------------------------------------------
+---------------------------------------MGMDGMVLLLSVLEFCIAVSL
+SAFGCKVLCCSPSE----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSDCDP00000044015 ENSDCDG00000028044	214	None	membrane-spanning 4-domains subfamily A member	Denticeps_clupeoides	58B	58	B
+-----------------------------------------------------MSSSVS-
+-TTDGFVVVTHVYPK-------QPVHST-STI-GHHQHNTSY---AV---PGVSCA-LGK
+FLKGEPKALGVKTISFRG------AVLTVLHP------VSEGVVLYSGIMFWGAIIYIIA
+GSL--SVAAEK---NLNQCL-VKASLGMNIVSSIVAGTAIILHSVDFIILI---------
+---------------------------------SGYYNSLGTNSVMLILAVLEAIVSIYV
+SAFGCRATCTSSPQPQVN--------------NIFSKH---------FTTN------LPP
+Y--SFI-NSNLEHDQKN-------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSLOCP00000010925 ENSLOCG00000008968	233	None	None	Lepisosteus_oculatus	58B	58	B
+-----------------------------------------------------MSSSVS-
+-TDRGMVIISQVYPQ-------GQDTLP-AFAPQTQSMLPAS---HF---PQMSSS-LKK
+FQKGEPKALGVVQIMVGQLILILGVFMIFQR----------SLSVYTGVPFWGPMAYITS
+GAL--SIAADK---KLKPSL-VKAALSMNIVSAVGAGISIIVNFLQILF---DHSYYT--
+----------------------------------TEFNFKAITGSALILSVLEFCVAISS
+SVYGCKAVCNSDPAPVIV--------------IQYTAQ---------P------------
+Q--P--VTQNASDTQY---QLVSNTDV---SSI---------------------------
+------------------PKIPPPAYAE--------------------------------
+-----------------------------
+>ENSCDRP00005017918 ENSCDRG00005012461	242	None	None	Camelus_dromedarius	58B	58	B
+-----------------------------------LHHTQLGPFSAAMTTTPGMELTAP-
+------------------------GAGPGVYQP----ASLHS--------YLWKRM-PEK
+FLKGEPKVLGVMEILIALMNLSFGTVIMCVTLPDTGLTI-TIFSAYTGYTVWGSVMFIIS
+GSF--SIAAGI---KTTKGL-VQGSLGLNIASSVLALSGVILTAISMIL-G-LEIPYCEQ
+EG----------------------------NCFMIRSILIGMDVMMFLLSILEFCIAVSL
+SAYGCKVICCNPNGVSIKLPLTMSILVFLLPCNTLHKLS----------------GLKQR
+TFTISQFP----------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSCWAP00000029312 ENSCWAG00000021942	169	None	None	Catagonus_wagneri	58B	58	B
+-----------------------------------------------MITTQEMEQTTP-
+------------------------GADHDVNQP-RQLSSLRS--------HLWKET-LEK
+FLKGEPKILGVVQVLIALLNLSLGTVIMSVTLSYQNLEY-FFLLVCIGYTILASVMFIIS
+GSL--SIAAGT---KRTKGL----------------------------------------
+----------------------------------------GMNAMVLILTLLEFCIALSL
+SVFGCKVTCCKSRGVVFIL-----------PSNVHMAETAP------PAPF--KEV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSVPAP00000001557 ENSVPAG00000001684	123	None	None	Vicugna_pacos	58B	58	B
+-------------------------------------------------TTPGMELTAP-
+------------------------GAGPGVYQP----ASLHS--------YLWKRM-PEK
+FLKGEPKVLGVVEILIALMNLSFGTVIMCVTYRTD-----YYYSAYTGYMVWGPVMGPSQ
+LQ------QEL---KRQKVWSFLKDLNLEITGSDL-------------------------
+-------------------------------CFSRRSEQG--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSAMEP00000000459 ENSAMEG00000000438	234	None	membrane spanning 4-domains	Ailuropoda_melanoleuca	58B	58	B
+----------------------------LILS----YISYCSSFSAAMATTQGLEGTT--
+------------------------GAGTGVYQP-EKSAVLHP--------HLWKGM-PEK
+FLKGEPKVLGVVQILIALMIFSLGIININVTFPL---NELHYLSEYELYKIAGSLLFIVS
+GSL--SIAAGV---KTTKGL-IRSSLGLNICSSVLAAFGILFGASHMNGFR-FNLAHCRD
+FGNS----E---------------------NCFMSLSILMGLEAMVILLGVLEFCIAVSL
+SAFGCKVTCCYPEGVVLIM-----------PSNPHGAETAS------PVPF--SEG----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSCAFP00000052548 ENSCAFG00000010365	244	None	membrane-spanning 4-domains subfamily A member	Canis_lupus_familiaris	58B	58	B
+-----------------------------------------------MATIQGPEGTTP-
+------------------------GTGSGVYQP-EQSAILRS--------HLHKGI-SEK
+FLKGEPKALGVVQILIALMVLSFTIVHLSITLPF---KESSLLAEHDLFRIVGSLMFITS
+GSL--SVAAGN---RTTKGL-IRSSLGVNIASSILAVIGVFYNVIHLDNFK-YNFYACRQ
+NTKT----G---------------------ACLTFLVILMGLDVTVILLNVLEFCIAVSL
+SSFGCKVTCCHTDEVGTGLVFRF-----PWPYVPRTQRLKQHPSMTSQFPWVRSVGTAPL
+VPLLRV------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSFCAP00000021040 ENSFCAG00000026655	186	None	membrane-spanning 4-domains subfamily A member	Felis_catus	58B	58	B
+----------------------------THKICGRYCGLEESPFSAAMATMQGMEGAIS-
+------------------------EAGPGGDPP-EQPAVIQS--------YLWKRM-PEK
+FLKGEPKVLGVMQILIAMTNLSLEIIKMSAVLPL--SD-KHSVSGLDVYIIGRPVMFIIS
+GSL--SVVAGI---KTTKGL-SLD------------------------------------
+-------------------------------------------AVVLLLTVLEFFVALTL
+SAFGCKVTCCHPGGVVLIL-----------PSNPHVAETAS------PTPF--TEV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSLCNP00005030116 ENSLCNG00005019604	186	None	None	Lynx_canadensis	58B	58	B
+----------------------------THKICGRYCGLEESPFAAAVATMQLMEGTIS-
+------------------------EAGPGGDQP-ERPAVIQS--------HLWKRM-PEK
+FLKGEPKVLGVVQILIAMTNLSLEIIKMSATLPF--SD-THSVSGLDVYIIGRPVMFIIS
+GSL--SVVAGI---RTTKGL-SLD------------------------------------
+-------------------------------------------AVVLLLTVLEFFVALTL
+SAFGCKVTCCHPGGVVLIL-----------PSNPHVAETAS------PTPF--TEV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSMPUP00000014407 ENSMPUG00000014517	235	None	membrane-spanning 4-domains subfamily A member	Mustela_putorius_furo	58B	58	B
+-----------------------------------------------MATTQGLEGTT--
+------------------------GAGPDVHQP-EKSEVLYP--------HQWKWM-PEK
+FLKGEPKVLGVVQILIALMNLSLGIININVIFPF---NEYHYLLEHEVYKTVGSLMFIVS
+GSL--SIVAGT---KTTKGL-IRSSLGLNISSSVLAAFGTYFTASHLNSFR-YNLFHCGT
+YEKT----E---------------------NCFLSLYIFMGLDAMVILLSMLEFCVSVSL
+SAFGCKVTCCHPEGVMLIM-----------PSNPHTAETAF------PEPF--SGGLMPP
+TDQQQNVPENAS------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSNVIP00000028886 ENSNVIG00000022273	235	None	None	Neovison_vison	58B	58	B
+-----------------------------------------------MATTQGLEGTT--
+------------------------GAGPDVHQP-EKSAVLYP--------HQWKWM-SEK
+FLKGEPKVLGVVQILIALMNLSLGIININVMFPF---NEYHYLLEHEVYKIVGSLMFIVS
+GSL--SIVAGI---KTTKGL-IRSSLGLNISSSVLAAFGTYFTASHLNSFR-YNLFHCST
+FEKT----E---------------------NCFMSLYIFMGLDAMVILLSMLEFCVSVSL
+SAFGCKVTCCHPEGVMLIM-----------PSNPHTAEIAF------PEPF--SGGLMPP
+TDQQQNVPENAS------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSPLOP00000007600 ENSPLOG00000005567	167	None	None	Panthera_leo	58B	58	B
+-----------------------------------------------MATMQGMEGTIS-
+------------------------EAGPGGYQL-EQPPVIQS--------HLWKRM-PEK
+FLKGEPKVLGVVQILIAMTNLSLQIIKMSAILPL--SD-THSVSGLDVYIIGRPVMFIIS
+GSL--SVVAGI---RTTKGL-SLD------------------------------------
+-------------------------------------------AVALLLTVLEFFVALTL
+SVFGCKVTCCHPGGVVLIL-----------PSNPHVAETAS------PTPF--TEV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSSSUP00005020337 ENSSSUG00005013178	221	None	None	Suricata_suricatta	58B	58	B
+-----------------------------------------------MATMHGQEETTL-
+------------------------EAGPGRYQP-EQSAVIQS--------HLWKRM-PEK
+FMKGEPKVLGVVQILIATVNFSLEMIKMSATLTF--SYHSHFVSVQDVSKILGPVMFIIS
+GSL--SVVAGV---RTTKGL-IQTSLALNIFSSVMAGAMLYFAIPDLDEFK-GFIYSCRF
+QHRF----E---------------------SCAMAMSILASPNILVFLLNILEFFIALSL
+AAFGCKVTCCNPGGVVFIM-----------PSKPDKAEAAS------PAPF--TEL----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSUMAP00000015684 ENSUMAG00000011503	201	None	membrane spanning 4-domains	Ursus_maritimus	58B	58	B
+-----------------------------------------------MATTQGLEGTT--
+------------------------GAGPGVSQP-EKSAVLHP--------HLWKGM-PEK
+FLKGEPKVLGVVQILIALMIFSLGIININVTFPL---NELHYLSEYELYKIAGSLLFIVS
+GSL--SIAAGV---KTTKGL-IRSSLGLNICSSVLAAFGILLGASHMNGFR-FKLAHCRD
+FGNS----E---------------------NCFMSLSILMGLEAMVILLGVLEFCIAVSL
+SAFGCKVTCCHPEGVSTGL-----------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSVVUP00000037234 ENSVVUG00000026634	226	MS4A4A	membrane spanning 4-domains	Vulpes_vulpes	58B	58	B
+-----------------------------------------------MATTQGPEGTTP-
+------------------------GTGSGVYQP-EQTAILRS--------HLHKGI-SEK
+FLKGEPKALGVVQILIALMVLSFTIIHLSITLPF---KESGLLGEHDLFRIVGSLMFITS
+GSL--SVAAGN---RTTKGL-IRSSLGVNITSSILAAIGAFYNVIHLDNFK-YSFFGCRH
+DTKT----G---------------------ACLTFLFILMGLDATVILLNVLEFCIAVSL
+SSFGCKVTCCHTDEVVWIM-----------PSNPHVAETAA------PAPFAA--GLMPP
+TD----------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSRFEP00010003630 ENSRFEG00010002552	169	None	None	Rhinolophus_ferrumequinum	58B	58	B
+-----------------------------------------------MTTMQDSQ-----
+-------------TT--------KEAGPGVYQL-GQPAAIQS--------YMWKGM-IEK
+FLKGEPKVLGVVQVLIALMNFSLGLITICVSVPYVHHPLTDTFLMYSGYTVWGSVMFIIS
+GSL--SIAAGT---RTTKGL----------------------------------------
+----------------------------------------GMDIIVLILSMLEFCIAVSL
+SSFGCKVLCCNPGGVVFIL-----------PSNPAMAEAAS------PAPF--SKV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSDNOP00000015984 ENSDNOG00000025907	255	None	None	Dasypus_novemcinctus	58B	58	B
+---------------------------MFHGISFSDCLSARSIFSIARMSLERMEQT---
+--------------T--------QEAGPGLSQL-GQPAAVHS--------FLWKQM-AEK
+FLKGEPKALGTVQILIALMNLSLGIIAISVSVLY--YGR-HPFSTYTCYTIWGSIMFIVS
+GSL--TIAAGN---KTAKGL-VQGSLGVNIVSSVFAATGIILNVISITTFS-FFHYHCAY
+KG----------------------------NCDFVTSILMGMDCIVLILTVLEFCIAVSL
+SAFGCKVCCCNSGRVVLIL-----------PSNPHMAETAS------SALV--GEGLMPL
+TNEAKNVPENLSLK----------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSMODP00000051829 ENSMODG00000020215	247	None	None	Monodelphis_domestica	58B	58	B
+-----------------------------------------------------MESQDA-
+-SKGVFPFVPQSGPV-------YFPQGP-----IAVPVHYQH---------LWKDP-QQK
+VLKGDPKALGTVQIMVAIMNLSLGMLFGFIPQNA---YGSPYFLWYTGYVFWGTAFFIIS
+GSL--SIAAEK---RTTDIM-VQSSLAMNVVSSVMAGLGIVFLSINLVTYP----YYCYD
+EVSF----L---------------------SCSMLISIMLGINVILLILAILEFLVSIIT
+SSFGCKALCCGQSEIAI---------------------------------F------MPP
+Y--TYNVPENPAAEAFNRGTMPQNPVIDTATAF---------------------------
+------------------PGSHPNGPIQ--------------------------------
+-----------------------------
+>ENSMEUP00000010127 ENSMEUG00000011106	165	None	None	Notamacropus_eugenii	58B	58	B
+------------------------------------------------------------
+-----------------------------------------------------KAS-LQK
+FLKGEPKALGTVQIMIALMNFSLGMVLILISSDP---YRREVFLFYTGYIFWGTAFFIIS
+GSL--SIVAEN---RTTNTL-VQSSLAMNAVSSVVAGLGIIFFSVNLIRMDSAH-FLCHY
+ESFY----D---------------------SCLLGMYVLMGINVILLILAILELTISIAI
+SGFGCKATCCSQGS----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSPCIP00000051060 ENSPCIG00000009844	244	None	None	Phascolarctos_cinereus	58B	58	B
+-----------------------------------------------------MESQAA-
+-AKGIFPSFPQTSPI-------VIPQGS-----TVQSY-------------QLKAS-LQK
+FLRAEPKALGTVQILIALMNLGLGMLITFLPWNF---YGVNYFLWPSGYIFWGSAFFIIS
+GTL--SIAAEN---RMTNTL-VQSSLAMNIVSSVVAGLGIIFFSLNLVMFEHAHYYYCHQ
+EGYY----V---------------------VCAFSHLLLLGGNVFLLILNILEFAISLAV
+SAFGCNAFCCVYSGVAI---------------------------------F------MPP
+P--T-RVPENSAAEACKEGTTLQSPVADT-TAL---------------------------
+------------------PGSHPDSFI---------------------------------
+-----------------------------
+>ENSVURP00010004648 ENSVURG00010003691	247	None	None	Vombatus_ursinus	58B	58	B
+-----------------------------------------------------MESQAT-
+-SQGTVLTIPQPGPR-------DAQQGS-----GMEPVKATM---QF---YQRKKP-LEK
+FLIGEPKALGVVQIMIGLINFSLGILLDLIFHKQ---LGL-HFLFYSGYTFWGPAFFILS
+GSL--SIAAEN---RTTKGM-VESSLGLNIVSAIVSGIGFYLLLGSLGT---TLTFFHLY
+ATES----D---------------------VYPMTFSILLGINILLLVFTFLEFTIAIAL
+SGFGCHVTCCNQGGVTL---------------------------------V------MPF
+S--P-YVQEAPTADTHKEGLVIQGSDADE-DKS---------------------------
+------------------PGSHPNCGI---------------------------------
+-----------------------------
+>ENSEEUP00000002975 ENSEEUG00000003258	196	None	None	Erinaceus_europaeus	58B	58	B
+----------------------------PHLAHSGHHRVGERNLSAAMTTMQ--------
+------------------------------------------------------------
+------GTEQVVQIVIALMNFSFGVITMSVTITYH---G-SIPSVYTCYTIWGSVMFIVS
+GSL--SIGAGK---RTTKGM-VRGSLGVNITSSIFAAIGIIFMAISLHIYS-FHPYICYG
+--------D---------------------DCAMVVSIITGLEFLVLILSILEFCIAVSL
+SAFGCRVTCCNPGGVVLIM-----------PSNSHMAESSP------SAPF--MDIR---
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSSARP00000001993 ENSSARG00000002196	231	None	None	Sorex_araneus	58B	58	B
+-------------------------------TLSRHRRLKKS-PSFAAMTMTGLEQPIS-
+---------------------------AAMSQP-GNP-ATPH--------YFWKGM-PEK
+FLKGEPKVRGVVQIIIAMVNFSFGIIMMCTSFPF---YGPDPFITYTGYTVWGSVKFIVS
+GSL--SIAAAK---RTTKGLXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-XXXXXXXX
+XXXX--------------------------XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXVVFIM-----------PSNSHTAEIVS------PEQMKAT------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSPCAP00000009207 ENSPCAG00000009902	225	None	None	Procavia_capensis	58B	58	B
+------------------------------------------TFSAAMTTLQGPQQTTP-
+------------------------GTGPGIPQM-GQPTILRS--------YLWKGM-PEK
+FLKGEPKVLGXXXXXXXXXXXXXXXXXXXXXXXX---XXXXXXXXXXXXXXXXXXXFIVS
+GSL--SIAAGN---GTAKYL-VKSSLALNIISAVLAVTGIIVTVYRLNPSS-LNHDHCDN
+SQNP----K---------------------LCVTVWYTLLVLEGLFLILSALAFCIAVSL
+SAFGCKLISLLSGQSVTSM-----------PGNDHMATVHTT-----SFPE--DS-----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSOPRP00000016310 ENSOPRG00000019076	128	None	None	Ochotona_princeps	58B	58	B
+-------------------------------------------------VTQGMEQTVA-
+------------------------ETGPAVPQP-GHKTTLSS--------YMWNGM-PEK
+FLKGEPKILGVVQIMIAVMNLSIGITMMSVTFPL---WQPRPLSTYLCYPLWGSVMDPSQ
+LQQELELPKVWSHLQNLSGA-RESCLCFDKREMNLL------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSOCUP00000008683 ENSOCUG00000010079	278	None	None	Oryctolagus_cuniculus	58B	58	B
+---MKFLFLTSDVSVRACWVY--FCCSSSPDLHSRHCRLQESTISTAMTIIQGNEQTRA-
+------------------------DAGPALSQP-GQQANLNS--------YMWKGL-AEK
+FLKGEPKVLGVVQIMIAVMTMSVGVTMLSATLPY--RGP-HPISVYTFYTIWGSVMFILS
+GSF--SVAAGT---RTTKGL-VQGSLGLNITSSVLAVFGIIISATSLSIYS-FHHPYCNY
+IIGR----D---------------------SCFMTISILLGMDSIALLLSVLEFCIAVSL
+SAFGCKVTCCNPGGVVLIM-----------PTNSHGAEVVP------PAPF--KEDLAPT
+IDQQKNVPNYLP------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSECAP00000014652 ENSECAG00000017092	162	None	None	Equus_caballus	58B	58	B
+------------------------------------------------------------
+--------------------------------------------------------MPEK
+FLKGKPKVLGVVQIVIALVNLSLGITMIRVAVSFPEVYYIGPVSVYSGYTIWGSVMFIIS
+GSL--SIVAGT---RTTRCL-VQGSLGVNITSSVFAASGIIITVINIIILS-GNSHLCYR
+FSEVGELFHHCKCFNEYRWCGAHFKYAGVLHCYLPLCLWMQSNLL---------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSCHOP00000001891 ENSCHOG00000002139	150	None	None	Choloepus_hoffmanni	58B	58	B
+------------------------------------------------------------
+------------------------------------------------------------
+----------VVQILIALMNLSLGIIVMTASFSS---YYFKPFSVYTGYSVWGSVMXXXX
+XXX--XXXXXX---XXXXXX-VQSSLGLNITSSVFAAVGFILYAVSVAVFL-HHYHYCYN
+DDNR---SE---------------------NCYMFISILLGIVTVILILFLFELIISLSL
+SAFGCSAVCCDHGP----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSCJAP00000069795 ENSCJAG00000016376	239	MS4A4A	membrane spanning 4-domains	Callithrix_jacchus	58B	58	B
+----------------------------AHQTYGGRCRPEESTFSAAMTTMQGMEQ---A
+----------MPGA------------GPGVPQL-GNVAVLHS--------YLWKGL-QEK
+FLKGEPKVLGVVQILIALMTLSIGITMMCIAFNI--YGP-RPITVYIGYTIWGSLMFIIS
+GSL--SVAAGI---RTTKGL-VRGSLGMNITSSVLAVSGIIINAFSLDIYS-FHHPYCHY
+YYES----N---------------------DCHGTVSILMGMDGLVLLLSVLEFCIAVSL
+SAFGCKVMCCSPGGVVLVL-----------PPNSHTAETAS------PAPL--NEL----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSCATP00000012630 ENSCATG00000030473	239	MS4A4A	membrane-spanning 4-domains subfamily A member	Cercocebus_atys	58B	58	B
+----------------------------THQTYRRHCRPEESTFSAAMTTMRGMEQ---A
+----------MPGA------------GPGVPQL-GNMAVVHS--------HLWKGL-QEK
+FLKGEPKVLGVVQILIALMSLSMGITMMCVAFSA--YGH-YPISVYIGYTIWGSVMFIIS
+GSL--SIAAGI---RTTKGL-VRGSLGMNITSSVLAVSAILINTISLAIYS-FYHRYCNY
+YSNP----N---------------------NCHGTVSILMGMDGMVLLLSVLEFCIAVSL
+SAFGCKAICCTPGGVVLIL-----------PSNSHMAEAAP------LTPL--NEV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSCSAP00000002481 ENSCSAG00000006182	223	MS4A4A	membrane-spanning 4-domains subfamily A member	Chlorocebus_sabaeus	58B	58	B
+-----------------------------------------------MTTMQGMEQAXXX
+----------MPGA------------GPGVPQL-GNMAVVHS--------HLWKGL-QEK
+FLKGEPKVLGVVQILIALMSLSMGITMMCVAFSA--YGR-YSISVYIGYTIWGSVMFIIS
+GSL--SIAAGI---RTTKGL-VRGSLGMNITSSVLAVSGIIINTISLAIYS-SYHHYCNY
+YSNS----N---------------------NCHGTVSILMGMDGMVLLLSVLEFCIAVSL
+SAFGCKVLCCSPGGVVLIL-----------PSNSHMAEAAP------PTPL--NEV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSGGOP00000002230 ENSGGOG00000002266	239	MS4A4A	membrane spanning 4-domains	Gorilla_gorilla	58B	58	B
+----------------------------MHQTYSRHCRPEESTFSAAMTTMQGMEQ---A
+----------MPGA------------GPGVPQL-GNMAVIHS--------HLWKGL-QEK
+FLKGEPKVLGVVQILIALMSLSMGITMMCMASNT--YGS-NPISVYIGYTIWGSVMFIIS
+GSL--SIAAGI---RTTKGL-VRGSLGMNITSSVLAASGILINTFSLAFYS-FHHPYCNY
+YGNS----N---------------------NCHGTMSILMGLDGMVLLLSVLEFCIAVSL
+SAFGCKVLCCTPGGVVLIL-----------PSNSHMAETAS------PTPL--NEV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSP00000497952 ENSG00000110079	248	MS4A4A	membrane spanning 4-domains	Homo_sapiens	58B	58	B
+----------------MQWLN------TMKELALGVRTSKTCTFSAAMTTMQGMEQ---A
+----------MPGA------------GPGVPQL-GNMAVIHS--------HLWKGL-QEK
+FLKGEPKVLGVVQILTALMSLSMGITMMCMASNT--YGS-NPISVYIGYTIWGSVMFIIS
+GSL--SIAAGI---RTTKGL-VRGSLGMNITSSVLAASGILINTFSLAFYS-FHHPYCNY
+YGNS----N---------------------NCHGTMSILMGLDGMVLLLSVLEFCIAVSL
+SAFGCKVLCCTPGGGKIKH-----------YASIQVFISRER----KKERR--KER-K--
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSMMUP00000026568 ENSMMUG00000020177	220	MS4A4A	membrane spanning 4-domains	Macaca_mulatta	58B	58	B
+-----------------------------------------------MTTMQGMEQ---A
+----------MPGA------------GPGVPQL-GNMAVVHS--------HLWKGL-QEK
+FLKGEPKVLGVVQILIALMSLSMGITMMCVAFSA--YGH-YPISVYIGYTIWGSVMFIIS
+GSL--SIAAGI---RTTKGL-VRGSLGMNITSSVLAVSAILINTISLAIYS-FYHRYCNY
+YGNP----N---------------------NCHGTVSILMGMDGMVLLLSVLEFCIAVSL
+SAFGCKAICCTPGGVVLIL-----------PSNSHMAEAAP------LTPL--NEV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSMLEP00000021701 ENSMLEG00000035057	239	MS4A4A	membrane spanning 4-domains	Mandrillus_leucophaeus	58B	58	B
+----------------------------THQTYRRHCRPEESTFSAAMTTMQGMEQ---A
+----------MPGA------------GPGVPQL-GNMAVVHS--------HLWKGL-QEK
+FLKGEPKVLGVVQILIALMSLSMGITMMCVAFSA--YGH-YPISVYIGYTIWGSVMFIIS
+GSL--SIAAGI---RTTKGL-VRGSLGMNITSSVLAVSAILINTISLAIYS-FYHRYCNY
+YSNP----N---------------------NCHGTVSILMGMDGMVLLLSVLEFCIAVSL
+SAFGCKAICCTPGGVVLIL-----------PSNSHMAEAAP------LTPL--NEV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSMICP00000032906 ENSMICG00000032584	224	None	membrane spanning 4-domains	Microcebus_murinus	58B	58	B
+-----------------------------------------------METMQRMEQTAA-
+--------------------------GLAVP----QPAVLHS--------YMWKGL-QEK
+FLKGKPKVLGTVQILIALMNLSMGIIMMSLTVPCVGFGL-CPMSVYSGYTIWGSLMFIVS
+GAL--SIAAEK---RTTKGL-VRGSLGLNITSSVMALSGVLINAVSASIYS-YQYNYCNY
+RQTT----K---------------------NCFMYTSILMGMDISVAIFSMLEFCIAVSL
+SAFGCKVMCCSPGGVVIIV-----------PSNPHAAEAAT------PAPF--DGGSTPP
+TDQ---------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSPTRP00000006389 ENSPTRG00000003710	239	MS4A4A	membrane spanning 4-domains	Pan_troglodytes	58B	58	B
+----------------------------MHQTYSRHCRPEESTFSAAMTTMQGMEQ---A
+----------MPGA------------GPGVPQL-GNMAVIHS--------HLWKGL-QEK
+FLKGEPKVLGVVQILIALMSLSMGITMMCMASNT--YGN-NPISVYIGYTIWGSVMFIIS
+GSL--SIAAGI---RTTKGL-VRGSLGMNITSSVLAASGILINTFSLAFYS-FHHPYCNY
+YGNS----N---------------------NCHGTMSILMGLDGMVLLLSVLEFCIAVSL
+SAFGCKVLCCTPGGVVLIL-----------PSHSHMAETAS------PTPL--NEV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSPANP00000001551 ENSPANG00000014453	220	MS4A4A	membrane spanning 4-domains	Papio_anubis	58B	58	B
+-----------------------------------------------MTTMQGMEQ---A
+----------MPGA------------GPGVPQL-GNMAVVHS--------HLWKGL-QEK
+FLKGEPKVLGVVQILIALMSLSMGITMMCVAFSA--YGH-YPISVYIGYTIWGSVMFIIS
+GSL--SIAAGI---RTTKGL-VRGSLGMNITSSVLAVSAILINTISLAIYS-FYHRYCNY
+YGNP----N---------------------NCHGTVSILMGMDGMVLLLSVLEFCIAVSL
+SAFGCKAICCTPGGVVLIL-----------PSNSHMAEVAP------LTPL--NEV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSPPYP00000003708 ENSPPYG00000003217	182	None	None	Pongo_abelii	58B	58	B
+------------------------------------------------------------
+------------------------------------------------------------
+FLKGQPKILGVVQILIALMSLSMGITMMCIEFNT--YGS-NPISAYIGYTIWGSVMFIIS
+GSL--SIAAGI---RTTKGL-VRGSLGMNITSSVLAASGILINTFSLAIYS-FHHPYCNY
+YGNS----N---------------------NCHGTVSILMCMDGMVLLLSVLEFCIAVSL
+SAFGCKVLCCTPGGVVLIL-----------PSNSHMAEAAS------PTPL--NEV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSTGEP00000024490 ENSTGEG00000019779	130	None	None	Theropithecus_gelada	58B	58	B
+-----------------------------------------------MTTMQGMEQA---
+----------MPGA------------GPGVPQL-GNMAVVHS--------HLWKGL-QEK
+FLKGEPKVLGVVQILIALMSLSMGITMMCVAFSA--YGH-YPISVYIGYTIWGSVMDPCQ
+LQQELELQKAWNHLKNLSGI-MRSCLCFGKRLELKP------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSLAFP00000016012 ENSLAFG00000020746	189	None	None	Loxodonta_africana	58B	58	B
+--------------------------------------------------LQGMQQATP-
+------------------------GPGPSVPQI-AQLVNLHS--------YVRKGM-PEK
+FLKGEPKVLGVVQILIAVMNLSLGIIMLCVLLPF---RGINPISVYVGYPLWGSVTFLAS
+GSL--SIVAGN---RTTKCL-VESSLGLNIASAVNASVGIIITSLSLAVFS-STYFDYHY
+ICFQ------------------------------------GMDGLVLTLSVLELCIAVSL
+SAFGCQVTCCNPDSVSTGL-----------P-----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSCCNP00000015106 ENSCCNG00000015506	236	Ms4a4a	membrane spanning 4-domains	Castor_canadensis	58B	58	B
+-----------------------------------------------MAAMQGMEPKTL-
+------------------------EAVTGVQQL-GQPVAVHS--------YLWKGM-TKK
+FLKGEPKVLGVVQIIIALMNLSIGIVMICAIVPY--YGM-YPVSVYIGYPIWGSLMFIIS
+GSL--SIAAGI---RTTRGL-VQGSLGLNITSSVLAMAGIIITTLSLSIFS-LNHYFYSC
+NYNL----E---------------------SCSMTKYILLGLDGIVLILSILEFCIAVSL
+SAFGCKVTCCNPGGVVLIV-----------PSNPHMAETAA------PAPF--EDL-VPP
+PDQEKNVPENLSR-----------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSCPOP00000031458 ENSCPOG00000039444	227	None	None	Cavia_porcellus	58B	58	B
+-----------------------------------------------MKTLQDVEPIAP-
+------------------------VAEPPLVWR-GKPEALAL--------HLWERR-RKT
+FLRGKPEALGVVQIVIGLINFSFGLVFCF-LIPI----LQNPILFNMLYWLWGSVAFIIS
+GTL--SIAAGT---STTKRL-VNSSLGLNITSCVLAAVGTIIIINFLTLLS-FEHQRCTY
+TFDK--------------------------ICSSTLPTVLGMESVVLIVSVLEFCIAMCL
+SVSGCKTTCCDPSEALLLL-----------STNISMEETSPE-------PI--KECLETQ
+PYEEIEL-----------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSCLAP00000006826 ENSCLAG00000004807	229	None	membrane-spanning 4-domains subfamily A member	Chinchilla_lanigera	58B	58	B
+------------------------------------------------------------
+----------MERTT--------VEVGPAAPQL-GKPAALQS--------YLWDEM-KEK
+FLKGQPKVLGVMQVMTGLMILSIGIIMMSSTLPG--YGR-HPLSVYIGYSVWGSVMFIIS
+GSF--SIAAAR---RTTKGL-VRASLGLNSTSSVFSGTGMIITMISLGISS-PYPFNCYY
+NSS-----E---------------------SCPMTIAILIGLDAVILLLSMLEFCVAVSV
+SSFGCKAICCYVGGVVLVL-----------PSNPQTTEAAC------PAPL--GGDSTAP
+KDPEKTVDENVP------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSDORP00000015429 ENSDORG00000016399	226	Ms4a4a	membrane-spanning 4-domains subfamily A member	Dipodomys_ordii	58B	58	B
+-----------------------------------------------MTTMQAPGQTTL-
+------------------------EASFGVQQL-GQPVGLHS--------YLWKGL-TEK
+FLKGEPKILGIVQIIIALLNLSLGILMMCILIPF--TWL-LPISVYAGYTVWGSVMFIIS
+GSL--STAAGI---RMTRGL-V-SSVGLNITSSVLAVAGIIISAISLSILS-YGFYYCGY
+DEGF----N---------------------SCF----IILGLDGVVLLLSVLEFCIAISL
+SVFGCKVTCCNPGGVVLIV-----------PSNPPREEKAS------PVLL--EGGLIPP
+KGQDQNV-----------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSSTOP00000015458 ENSSTOG00000026860	228	None	membrane spanning 4-domains	Ictidomys_tridecemlineatus	58B	58	B
+-----------------------------------MLQAGRSTVSAAVITMQGTEQTSV-
+------------------------EGGPALQFL-EQATALRS--------QVWKRM-QKK
+FLKGEPLVLGVVQIIIALIIFIFGIIMMTLERFI------DGPLIISGYTFWGSLMFIIS
+GSF--SIAAGK---RTTKGM-VRSSLGLNIVSSVLASTGMIITIINLAIFT-NFYYYCYH
+NEIS----D---------------------RC-GTMKTLMGLVCVVLILSVLEFCIAVSL
+SAFGCKVICCSPGEALIIL-----------PPNPPVTETAV------YESF--KEV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSMUGP00000016333 ENSMUGG00000014007	262	Ms4a4a	membrane-spanning 4-domains subfamily A member	Meriones_unguiculatus	58B	58	B
+----------MGCSCRRTWVI---------------LFRPISIVSATMIAIQGIEQPPP-
+------------------------EAGYGAQQLG-QPLYVNS--------NSWRRM-TEK
+FLKGEPKVLGVVQIVIALMNLAIGITMIIASMPF---DHPIPISVFIGYPIWGSLMFIIS
+GSF--SIVAGR---RTTKGW-VRSSLGLNITSSVFAFSGIVITSLSPGIFS-FFFYGCTY
+RSSSESSAE---------------------NCYMAMFILMGLDIVIVILSVLEFCIAVSL
+SAFGCRVMCCNPGEVVIIM-----------PPSPPTAETAY------PKSL--REGLVPS
+AHQEKNVPENLH------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSMAUP00000010143 ENSMAUG00000011131	236	Ms4a4a	membrane-spanning 4-domains subfamily A member	Mesocricetus_auratus	58B	58	B
+-----------------------------------------------MITIQGIEQTAL-
+------------------------EAGYDAQQRGQQPLYVNS--------QSWKRM-VEK
+FLKGEPKILGVVQIVIAFMNLTIGIMMISATVPY---SDVLPVSVYIGYPIWGSLMFIIS
+GSF--SIVAGR---RTTKGL-VRSSLGLNITSSVFAFSGIIISSLSPSIHS-FHYYYCTY
+RNSL----E---------------------SCNITMPILMGLDIVVVILSVLEFCIGVSL
+SAFGCRVMCCNPGGVVIIM-----------PSSPPMKETAY------PISL--G-GLVSP
+AHQEKNVPGNLC------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSMOCP00000016290 ENSMOCG00000015238	236	Ms4a4a	membrane-spanning 4-domains subfamily A member	Microtus_ochrogaster	58B	58	B
+-----------------------------------------------MITIQGIGQTAS-
+------------------------GAAYDAQQLGQQSLNVNS--------HAWKRM-TEK
+FLKGEPKILGVVQIVIALMNLTIGIMMISATVTS---SEMPPVSVYIGYPVWGSLMFIIS
+GSF--SIVAGR---RTTKGL-VRSSLGLNITSSVLAFTGIIIHSLSPSIYS-YHLYYCSY
+RDYS----E---------------------SCHMTISILMGLDIVLVILSALEFCIGVSL
+SAFGCRVMCYNPGGVVIIM-----------PSSPPTKETTY------PISL--E-DLVPP
+AHQEKNVPGNLH------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSMUSP00000140768 ENSMUSG00000101389	236	Ms4a4a	membrane-spanning 4-domains, subfamily A, member	Mus_musculus	58B	58	B
+-----------------------------------------------MLVIQGTEQSAL-
+------------------------EAGYGAQQNG-QPLYVNS--------HSWKRM-TEK
+FLKGEPKILGIVQIVIAIMNLSIGIMMIIATVST---GEIPPSSVYIGYPIWGSLMFIIS
+GSF--SIVAGR---RTTKGL-VRSSLGLNITSSVFAFSGIVISSLSPGIYS-FHVYYCTY
+RGSS----E---------------------GCHMTLSILMGLDIVVVVLSVLEFCIGVSL
+SAFGCRVMCCNPGGVMIIM-----------PSNPTKAETAN------PVTL--QSGLMPP
+EHQERNVPENMH------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSPEMP00000004787 ENSPEMG00000007174	236	Ms4a4a	membrane-spanning 4-domains, subfamily A, member	Peromyscus_maniculatus_bairdii	58B	58	B
+-----------------------------------------------MITIQGIEHTAL-
+------------------------EAGYDAQKVGQQPLYVNS--------LSWKRM-TEK
+FLKGEPKILGVVQIVIALMNLSIGIMMISAVVPS---GEILPVSVYIGYPIWGSLMFIIS
+GSF--SIVAGR---RTTKGL-VRSSLGLNITSSVFAISGIIISSLSPGIYS-FHFYYCAY
+RNTS----E---------------------SCHMTMSILIGLDIMVAILSVLEFCIAVSL
+SAFGCRVMCCNPGGVVVIM-----------PSSPPTKETPC------PISL--G-GLVPP
+AHQEKNLPENLQ------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSRNOP00000065614 ENSRNOG00000045611	236	Ms4a4a	membrane spanning 4-domains	Rattus_norvegicus	58B	58	B
+-----------------------------------------------MITIQGTGQTAL-
+------------------------EAGYGAQQNG-QPLYVDS--------HSWKRM-TEK
+FLKGEPKILGIVQIVIAIMNLSIGLMMIGATVSS---GEILPISVYIGYPIWGSIMFIIS
+GSF--SIVAGR---RTTKGL-VRSSLGLNITSSVFAFAGMIINSLSPSIYS-FHVYFCTY
+RSTS----E---------------------GCRMTLSILMGLDIVVVILSVLEFCIGISL
+SAYGCRVMCCNPGGVVIIM-----------PSKPPMPETAY------PVSL--QSGLGPP
+EHQQKNVPGKSH------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSTBEP00000010106 ENSTBEG00000011695	171	None	None	Tupaia_belangeri	58B	58	B
+------------------------------------------------------------
+------------------------------------------------------------
+----------VVQVLIALMNISFGIIMMTVTLPF--YGH-QPISVYIGYTVWGSVMFLIS
+GSL--SIAAGI---RITKGL-VRTSLGFNITSSVLALSGILINAFSLSIYS-FTFYYCNY
+HSNG----E---------------------NCSMTASILLGLDAIVLILSVLEFCIAVSL
+SVFGCRVTCCNSG-VVLVM-----------PSNPHMAETAS------PALP--NKV----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSPMRP00000000503 ENSPMRG00000000375	245	None	membrane-spanning 4-domains subfamily A member	Podarcis_muralis	58B	58	B
+------------------------------------------------------------
+MDNQAFVAIPHHGVMASHPNQILYPTGA-M-HLGGQPLGTGYPGSHLYGGTEPAGN-LRT
+ERKGEPRVLGAIQILIGLVHISFGSLLTLLLD------RSRSYTVLSGYVYWGGLIFIIS
+GFA--LAITEH---NRSSLQ-MKVSACLNIVSTLAATVGIIVLLIDENVFPV---YY---
+---T----P---------------------SDLIHLRVALGLLNVILIFAVLEFFIGMVS
+LSFGYEAIFCRGEEAIYDVPDAV---------IPHQGN---------LLPI------GPP
+P--SYEAYANPCYEPSSQGE----------------------------------------
+------------------------------------------------------------
+-----------------------------
+>ENSPCEP00000014917 ENSPCEG00000011816	229	None	None	Pelusios_castaneus	58B	58	B
+-----------------------------------------------------MASTAAA
+CPDGTITIVNR---------------------IITQPHTASV---PA---PATPQL-LDK
+FYKGEPLALGVTQILVGAVQVAVGVVMNMSH--P---FSSNDFLWYI--PMWSGMLYIIS
+GSL--SMAAAK---NTKIPL-VKGSLGMNIISAVVAGSALIVYLIFLTGTR--HEAFCVW
+---Y----P---------------------EKCLSYKLNVAFSVVLFLFTFLEFCVSICT
+AAFGCKTICYSYSEVSVV--------------IYQ--------------KV------MPP
+D--DPTTATNSPNDA----VAYTSPAYKDLTTL---------------------------
+------------------------------------------------------------
+-----------------------------

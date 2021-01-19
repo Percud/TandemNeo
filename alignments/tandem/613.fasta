@@ -1,0 +1,909 @@
+>ENSAMXP00000048543 ENSAMXG00000043077	206	cd28	T-cell-specific surface glycoprotein	Astyanax_mexicanus	613A	613	A
+------------------------------------------------------------
+-------------------------------------------------------MIAIL
+V------LTIAGLPLGIALSVSQPYYVVGS-NGQVSMHCIFKTK----IQP-QEMQVSLY
+KGLYG---KERICSTSVNISSSQ-LE----TNE--RVHCRAN-V-SNGRVDLTIFGLKGE
+DTDIYRCRVDIIFPPPYLRQFG-NGTLVYIPESPD--CPT-----------------SKT
+EARIQEKPEITP---VQTPTSNLFLL---------------------------------C
+AILIITTLILILQVIIMILSPSK-------SSHVPQIVPQK-----NEYSNF--W-----
+------------------------------------------------
+>ENSACLP00000015041 ENSACLG00000010242	234	None	cytotoxic T-lymphocyte protein	Astatotilapia_calliptera	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------MFLTHCMMGWIVL
+T------ALSFCLPVWSATKVTQPYRVVST-NGVAQIQCVIHPQSLKYPYP-EEARVTVL
+KGLHG---HQEICFSILNFTDQRETR----MEQKEQVECTAE-T-THDTVEVTLSGLNAT
+DTDMYRCEIQIFYPPPYLRLIG-NGTLIHVLDSSS--CPV-----------------QET
+QRQSQHQGEEEGDDDNTAPVSVPVVV-------------------------------LVI
+AIICVLIIIIYFQTVQCERGRRE-------MLRPWPGTLHKVDGASGPCENI--VCNM--
+------------------------------------------------
+>ENSMZEP00005028691 ENSMZEG00005021396	234	None	cytotoxic T-lymphocyte protein	Maylandia_zebra	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------MFLTHCMMGWIVL
+T------ALSFCLPVWSATKVTQPYRVVST-NGVAQIQCVIHPQSLKYPYP-EEARVTVL
+KGLHG---HQEICFSILNFTDQRETR----MEQKEQVECTAE-T-THDTVEVTLSGLNAT
+DTDMYRCEIQIFYPPPYLRLIG-NGTLIHVLDSSS--CPM-----------------QET
+QRQSQHQGEEEGDDDNTAPVSVPVVV-------------------------------LVI
+AIICVLIIIIYFQTVQCERGRRE-------MLRPWPGTLHKVDGASGPCENI--VCNM--
+------------------------------------------------
+>ENSONIP00000042204 ENSONIG00000039248	234	None	cytotoxic T-lymphocyte protein	Oreochromis_niloticus	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------MFLTHCMMGWIVL
+T------ALSFCLPVWSATKVTQPYRVVST-NGVAQIQCVIHPQSLKYPYP-EEARVTVL
+KGLHG---YQELCFSILNFTDQRKTR----MEQKDLVQCTAE-T-TYDTVEVTLSGLNVT
+DTDMYRCEIQIFYPPPYLRLIG-NGTLIHVLDSSS--CPV-----------------QET
+QRQSHHQGEEEEDDDNTAPVSVPVVV-------------------------------LVI
+AIICVLIIIIYFQTVQCERGRRE-------MLRPWPGMLHKVDGASVPCENI--ICNM--
+------------------------------------------------
+>ENSCARP00000114517 ENSCARG00000059106	206	cd28	T-cell-specific surface glycoprotein	Carassius_auratus	613A	613	A
+------------------------------------------------------------
+-------------------------------------------------------MIITL
+I------RIFIYIPLGLALHVSQPYRVVGK-EGEVPLRCSFSSK----LKP-EEMQVSLY
+KGLHG---RERICSSYVNLSEPY-FT----SDG--TVNCRGS-I-SSGRVDMMIAGLRGN
+DTDIYRCEIEILFPPPYLRTLG-NGTIVYIQETPN--CPT-----------------AST
+QSQIQSQSQTSEREAVKYDVGPLPLL---------------------------------Y
+AILIITFCSLILQMIACKWRA---------STATAPMLSQK-----ESYMKF--------
+------------------------------------------------
+>ENSPKIP00000016938 ENSPKIG00000003058	209	cd28	cytotoxic T-lymphocyte protein	Paramormyrops_kingsleyae	613A	613	A
+------------------------------------------------------------
+----------------------------------------------------MIILIITL
+--------ISLWPQEGRALHVFQPYRTVGR-GGEAVIRCSYELS----SGT-EELHLALY
+RGQYE---KQEMCASTFNTRQSY-FE----TEG--IVKCRGE-I-SSNGVNLTVTGLKGV
+DTDLYFCALEVLFPPPYLLRVG-NGTIVYIEEEPD--CPA-----------------HAE
+KIVAD--PEDTSKEAYVLPLILFA-F---------------------------------V
+VIIIVIIAVINN-IIN-MNHRRK-------VVGMPPVASKTLDC-RFGYENF--L-----
+------------------------------------------------
+>ENSSFOP00015027102 ENSSFOG00015017416	212	cd28	cytotoxic T-lymphocyte protein	Scleropages_formosus	613A	613	A
+------------------------------------------------------------
+---------------------------------------------------MMTIGLISL
+--------ISLWLHAGWALHVYQPYRVVGK-GKEATLRCFYQTK----DQP-EEVQFTLY
+RGMDR---KQEVCYSSFNTSQSL-FE----THG--QVRCRGH-I-QPGSVDITISGLVGH
+DTDLYQCVIEVLYPPPYLLGLG-NGTLLYIPEELD--CPE-----------------PAE
+KFLAD--RQETSEAACILPWAIFA-F---------------------------------I
+IIIIIIITAVGYKVLTMKYRRRE-------FIGIPPVPPKKLDC-KNGYENF--L-----
+------------------------------------------------
+>ENSHHUP00000063549 ENSHHUG00000037547	217	cd28	CD28	Hucho_hucho	613A	613	A
+------------------------------------------------------------
+----------------------------------------------------MSLSLLTF
+L------CLGLCLPVWNALRVTQPYRVVGF-RGEVELFCSYHHTG--RHEP-EELRITLY
+RGMYGEQQEQEACTSSFTHNQTF-FQ----VEGEREVRCRGQ-L-GPGRVNLTVSGLRGN
+DTDLYRCAIEVLYPPPYLRTFG-NGTLLYITEEPG--CPR-----------------GPE
+KRRAE--G--TGETSVRLPLAGLA-A---------------------------------A
+TILIVISAVAILLVHQVLQRKRR-------FEAIIPMIS-QNDG-RFDYGNF--Q-----
+------------------------------------------------
+>ENSGGOP00000007783 ENSGGOG00000007961	223	CTLA4	cytotoxic T-lymphocyte associated protein	Gorilla_gorilla	613A	613	A
+------------------------------------------------------------
+---------MA-----------CLGFQRH----KAQLN---LATRTWPC------TLLFF
+LL--------FIPVFCKAMHVAQPAVVLASSRGIASFVCEYASP----GKA-TEVRVTVL
+RQADS--QVTEVCAATYMM-GNELTF------LDDSI-CTGT-S-SGNQVNLTIQGLRAM
+DTGLYICKVELMYPPPYYLGIG-NGTQIYVIDPEP--CPD-----------------SDF
+LLWIL----------A----AVSSGL-------------------------------FFY
+SFLLT--AVSLSKMLKKR---SPLT-TGV-YVKMPPTEP-ECEKQFQPYFIP-IN-----
+------------------------------------------------
+>ENSPTRP00000080210 ENSPTRG00000044793	223	CTLA4	cytotoxic T-lymphocyte associated protein	Pan_troglodytes	613A	613	A
+------------------------------------------------------------
+---------MA-----------CLGFQRH----KAQLN---LATRTWPC------TLLFF
+LL--------FIPVFCKAMHVAQPAVVLASSRGIASFVCEYASP----GKA-TEVRVTVL
+RQADS--QVTEVCAATYMM-GNELTF------LDDSI-CTGT-S-SGNQVNLTIQGLRAM
+DTGLYICKVELMYPPPYYLGIG-NGTQIYVIDPEP--CPD-----------------SDF
+LLWIL----------A----AVSSGL-------------------------------FFY
+SFLLT--AVSLSKMLKKR---SPLT-TGV-YVKMPPTEP-ECEKQFQPYFIP-IN-----
+------------------------------------------------
+>ENSANIP00000017977 ENSANIG00000012219	178	CTLA4	cytotoxic T-lymphocyte associated protein	Accipiter_nisus	613A	613	A
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------MVLANRQGVASLVCKYKHI----GNA-KEIRVTLL
+KQTGD--RFTEICASTYTM-EFKMFS------VEEVIQCHVR-P-SRNNVTLTLTGLQAN
+DTGLYVCKMERMYPPPYFMNKG-NGTHLYVIDPEP--CPD-----------------TAI
+YLWVL----------G----ATASGF-------------------------------FLY
+SIIIS--AILVHKAIKRR---RCLT-TGV-YVKMPSEKL-EK--KVIPFHIT-VN-----
+------------------------------------------------
+>ENSACCP00020001174 ENSACCG00020000823	223	CTLA4	cytotoxic T-lymphocyte associated protein	Aquila_chrysaetos_chrysaetos	613A	613	A
+------------------------------------------------------------
+-------------------------NSWLKIRRKKIRNKNIQTGFPFSFIVTLM--VLF-
+------------HVPHRMSTLTQPAMVLANRQGVASLVCKYKHI----GNA-KEIRVTLL
+KQTGD--RFTEICASTYTM-EFKMFS------VEEVIQCRVS-P-SRNNVTLTLTGLQAN
+DTGLYVCKMERMYPPPYFMNKG-NGTHLYVIDPEP--CPD-----------------TAI
+YLWVL----------G----ATASGF-------------------------------FLY
+SIIIS--AILVRKAIKRR---RCLT-TGV-YVKMPSEKL-EK--KVIPFHIT-VN-----
+------------------------------------------------
+>ENSACDP00005015563 ENSACDG00005011384	153	CTLA4	cytotoxic T-lymphocyte associated protein	Anser_cygnoides	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLSVLVT
+VGFLC--TA---TAIAEVMEVSQPAMVLANRQGVASLVCKYKHI----GNA-KEIRVTLL
+KQTGD--QFTEICASTYTT-EFKMFS------VEEVIQCRVS-P-SRNNVTLTLTGLQVN
+DTGLYVCKMERMYPPPYFMNKG-NGTQLYVIDTEK--TTS--------------------
+HYWSL----------C----ENAF------------------------------------
+------------------------------------------------------------
+------------------------------------------------
+>ENSAOWP00000027284 ENSAOWG00000018380	205	CTLA4	cytotoxic T-lymphocyte associated protein	Apteryx_owenii	613A	613	A
+------------------------------------------------------------
+------------------------------------------------MLS-----VLVT
+VGFLC--TA---TAIAEVMEVTQPAMVLANRQGVASLVCKYKHI----GNA-KEIRVTLL
+KQTGD--QFTEICASTYTT-EFEMFS------VEEVIQCHVS-P-SRNNVTLTLTGLQAN
+DTGLYICKMERMYPPPYFMNTG-NGTQLYVIDPEP--CPD-----------------TAI
+YLWVL----------G----ATASGF-------------------------------FLY
+SIIIS--AIVVGKAIQRR---RRLT-TGV-YVKMPSEKT-EK--KVIPFHIT-VN-----
+------------------------------------------------
+>ENSDNVP00000023606 ENSDNVG00000016399	205	CTLA4	cytotoxic T-lymphocyte associated protein	Dromaius_novaehollandiae	613A	613	A
+------------------------------------------------------------
+------------------------------------------------MLS-----VLVT
+VGFLC--TA---TAIAEVMEVTQPAMVLANRQGVASLVCKYKHI----GNA-KEIRVTLL
+KQTGD--QFTEICASTYTT-EFKMFS------VEEVIQCHVS-P-SRNNVTLTLTGLQAN
+DTGLYICKMERMYPPPYFMNTG-NGTHLYVIDPEP--CPD-----------------TAI
+YLWVL----------G----ATASGF-------------------------------FLY
+SIIIS--AIVVGKAIQRR---RRLT-TGV-YVKMPSEKT-EK--KVIPFHIT-VN-----
+------------------------------------------------
+>ENSCPUP00000008558 ENSCPUG00000006151	205	CTLA4	cytotoxic T-lymphocyte associated protein	Calidris_pugnax	613A	613	A
+------------------------------------------------------------
+------------------------------------------------MLSILV--TVGF
+L---C--TA---TAIAEVMEVTQPAIVLANRQGVASLVCKYKHI----GNA-KEIRVTLL
+KQTGD--QFTEICASTYTT-EFKMFS------VEEVIQCHVS-P-GRNNVTLTLTGLQAN
+DTGLYVCKMERMYPPPYFMNKG-NGTHLYVIDPEP--CPD-----------------TAI
+YLWVL----------G----ATASGF-------------------------------FLY
+SIVIS--AILVGKAIKRR---RCLT-TGV-YVKMPSEKL-EK--KVIPFHIT-VN-----
+------------------------------------------------
+>ENSCPRP00005002320 ENSCPRG00005001699	140	CTLA4	cytotoxic T-lymphocyte associated protein	Crocodylus_porosus	613A	613	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------MEVTQPAMVLANRKGTASLVCEYKHI----GNA-KEIRVTLL
+KQTGN--QFTEICASTYTT-EYEMFS------VEKIIQCHVS-P-SRNNVTLTLTGLQPN
+DTGLYICKMERMYPPPYFMNTG-NGTQLYVIDTEK--TLS--------------------
+HYWGL----------C----ENASRG-------------------------------TTE
+DI----------------------------------------------------------
+------------------------------------------------
+>ENSCJPP00005018929 ENSCJPG00005015379	257	CTLA4	cytotoxic T-lymphocyte associated protein	Coturnix_japonica	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLSAWVT
+VSFLC--AA---TATAKVMEVTQPAIVLANRQGVASLVCNYKHI----GNA-KEIRVTLL
+KQTGD--KFTEICASTYTT-EFKMFS------VEDVIQCHVS-P-SRNNVTLTLTGLQAN
+DTGLYVCKMERMYPPPYFMNKG-NGTQLYVIDPEP--CPD-----------------TAM
+YLWVL----------G----STASGF-------------------------------FLY
+SIIIS--AVVVGKVVSPI---NSPC-PANNTLCVPRTRRKEREQERMLGTNA-LGCSGA-
+--ILLGQCSTDAIMQKENFLDLLFKFVYGSIVLPEWQKTVNLR-QLN-
+>ENSGALP00000014096 ENSGALG00000008666	205	CTLA4	cytotoxic T-lymphocyte associated protein	Gallus_gallus	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLSAWVT
+VSFLC--AA---TATAEVMEVTQPAIVLANRQGVASLVCNYKHI----GNA-KEIRVTLL
+KQTGD--KFTEICASTYTT-EFKMFS------VEEVIQCHVS-P-SRNNVTLTLTGLQAN
+DTGLYVCKMERMYPPPYFMNKG-NGTQLYVIDPEP--CPD-----------------TAT
+YLWVL----------G----ATASGF-------------------------------FLY
+SIIIS--AIVVGKAIQRR---QRLT-TGV-YVKMPSEKL-EK--KVIPFHIT-VN-----
+------------------------------------------------
+>ENSMGAP00000017296 ENSMGAG00000008759	218	CTLA4	cytotoxic T-lymphocyte associated protein	Meleagris_gallopavo	613A	613	A
+------------------------------------------------------------
+-----------------------------------------ITNFKLQI--SSLPSEVYI
+FVFFC--TSKSVWIFFEIMEVTQPAIVLANRQGVASLVCNYKHI----GNA-KEIRVTLL
+KQTGD--KFTEICASTYTM-EFEMFS------VEEVIQCHVS-P-GRNNVTLTLTGLQAN
+DTGLYVCKMERMYPPPYFMNKG-NGTQLYVIDPEP--CPD-----------------TAI
+YLWVL----------G----ATASGF-------------------------------FLY
+SIIIS--AIVVSKAIQRR---RRLT-TGV-YVKMPSEKL-EK--KVIPFHIT-VN-----
+------------------------------------------------
+>ENSNMEP00000025810 ENSNMEG00000021836	205	CTLA4	cytotoxic T-lymphocyte associated protein	Numida_meleagris	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLSAWVT
+VSFLC--AA---TATAEVMEVTQPAIVLANRQGVASLVCNYKHI----GNA-KEIRVTLL
+KQTGD--KFTEICASTYTT-EFKMFS------VEEVIQCHVS-P-SRNNVTLTLTGLQAN
+DTGLYVCKMERMYPPPYFMNKG-NGTQLYVIDPEP--CPD-----------------TAI
+YLWVL----------G----ATASGF-------------------------------FLY
+SIIIS--AIVVGKVIQRR---QRLT-TGV-YVKMPSEKL-EK--KVIPFHIT-VN-----
+------------------------------------------------
+>ENSPSTP00000023152 ENSPSTG00000017022	205	CTLA4	cytotoxic T-lymphocyte associated protein	Pavo_cristatus	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLSAWVT
+VSFLC--AA---TTTAEVMEVTQPAIVLANRQGVASLVCNYKHI----GNA-KEIRVTLL
+KQTGD--KFTEICASTYTT-EFKMFS------VEEVIQCHVS-P-SRNNVTLTLTGLQAN
+DTGLYVCKMERMYPPPYFMNKG-NGTQLYVIDPEP--CPD-----------------TAI
+YLWVL----------G----ATASGF-------------------------------LLY
+SIIIS--AIVMVKAIQRR---RRLT-TGV-YVKMPSEKL-EK--KVIPFHIT-VN-----
+------------------------------------------------
+>ENSPCLP00000015015 ENSPCLG00000012272	205	CTLA4	cytotoxic T-lymphocyte associated protein	Phasianus_colchicus	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLSAWVT
+VSFLC--AA---TATAEVMEVTQPAIVLANRQGVASLVCNYKHI----GNA-KEIRVTLL
+KQTGD--KFTEICASTYTM-EFKMFS------VEEVIQCHVS-P-GRNNVTLTLTGLQAN
+DTGLYVCKMERMYPPPYFMNKG-NGTQLYVIDPEP--CPD-----------------TAI
+YLWVL----------G----ATASGF-------------------------------FLY
+SIIIS--AIVVGKAIQRR---RRLT-TGV-YVKMPSEKL-EK--KVIPFHIT-VN-----
+------------------------------------------------
+>ENSCPVP00000001065 ENSCPVG00000000816	153	CTLA4	cytotoxic T-lymphocyte associated protein	Camarhynchus_parvulus	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLSILVT
+VGFLC--TA---AAIAEVMEVTQPAIVLANRQGVASLVCKYKNI----GNA-QEIRVTLL
+KQTGD--RITEICASSYTM-EFKTFF------VEKVIQCHVT-P-GQNNVTLTLAGLQAN
+DTGLYICKMERMYPPPYFMNKG-NGTHLYVIDKEK--TMS--------------------
+HYWSL----------C----ENAF------------------------------------
+------------------------------------------------------------
+------------------------------------------------
+>ENSCCEP00000022670 ENSCCEG00000020443	229	CTLA4	cytotoxic T-lymphocyte associated protein	Cyanistes_caeruleus	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLSILVT
+VGFLC--TA---TAVAEVMEVTQPAMVLANRQGVASLVCKYKNI----GNA-KEIRVTLL
+KQTGD--RFTEICASSYTM-EFKTFF------VEEVIQCHVT-P-GQNNVTLTLAGLQAN
+DTGLYICKMERMYPPPYFMNKG-NGTHLYVIDPEP--CPD-----------------TAI
+YLWVL----------G----ATASGF-------------------------------FLY
+SIIIS--AILVGKAIKRR---RCLT-TGV-YVKMPSEKL-EK--KVIPFHIS-VDCNK--
+---------------------------EREKPFPSWNGGSANSFPLKK
+>ENSEGOP00005013538 ENSEGOG00005010812	229	CTLA4	cytotoxic T-lymphocyte associated protein	Erythrura_gouldiae	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLSILVT
+MGFLC--TA---TAIAEVMEVTQPAIVLANRQGVASLVCKYKNI----GNA-KEIRVTLL
+KQTVD--QITEVCASSYTT-DFKTLI------MKKVIQCHVT-P-GQNNVTLTLAGLQAN
+DTGLYICKMERMYPPPYFMNKG-NGTHLYVIDPEP--CPD-----------------PAI
+YLWVL----------G----ATASGF-------------------------------LLY
+SIIIS--AVLVGKAIKRR---QCLT-TGV-YVKMPSEQL-EK--KVIPFHIT-VNCNK--
+---------------------------EREKPFPSWDGESDNSFQLKK
+>ENSFALP00000003893 ENSFALG00000003729	222	CTLA4	cytotoxic T-lymphocyte associated protein	Ficedula_albicollis	613A	613	A
+------------------------------------------------------------
+---------VL-----------CLGSSELKIRRKKDQKQKS-------FIAQ--------
+----L--TYHHALYFLTVMEVTQPAMVLANRQGVASLVCKYKNI----GNA-KEIRVTLL
+KQTGD--QFTEICASSYTM-EFKTFS------VEEVIQCHVT-P-GQNNVTLTLAGLQAN
+DTGLYICKMERMYPPPYFMNKG-NGTHLYVIDPEP--CPD-----------------TAI
+YLWVL----------G----ATASGF-------------------------------FLY
+SIIIS--AILVGKAIKRR---QCLT-TGV-YVKMPSEKL-EK--KVIPFHIT-VN-----
+------------------------------------------------
+>ENSGFOP00000008859 ENSGFOG00000006210	153	CTLA4	cytotoxic T-lymphocyte associated protein	Geospiza_fortis	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLSILVT
+VGFLC--TA---AAIAEVMEVTQPAIVLANRQGVASLVCKYKNI----GNA-QEIRVTLL
+KQTGD--RITEICASSYTM-EFKTFF------VEKVIQCHVT-P-GQNNVTLTLAGLQAN
+DTGLYICKMERMYPPPYFMNKG-NGTHLYVIDKEK--TMS--------------------
+HYWSL----------C----ENAF------------------------------------
+------------------------------------------------------------
+------------------------------------------------
+>ENSJHYP00000012363 ENSJHYG00000009668	159	CTLA4	cytotoxic T-lymphocyte associated protein	Junco_hyemalis	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLSILVT
+VSFLC--TA---TAIAEVMEVTQPAIVLANRQGVASLVCKYKNI----GNA-QEIRVTLL
+KQTGD--QITEICASSYTM-EFKTFF------VEKIIQCHVT-P-GQNNVTLTLAGLQAD
+DTGLYICKMERMYPPPYFMNKG-NGTHLYVIGKAS--RFT--------------------
+---VL----------G------------------------------------------YF
+QV--------KGAAITSQ---R--------------------------------------
+------------------------------------------------
+>ENSLSDP00000010230 ENSLSDG00000007540	153	CTLA4	cytotoxic T-lymphocyte associated protein	Lonchura_striata_domestica	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLSILVT
+MGFLC--TA---TAIAEVMEVTQPAIVLANRQGVASLVCKYKNI----GNA-KEIRVTLL
+KQTGD--QVTEICASSYTT-EFKTFF------VKKVIQCHVT-P-GQNNVTLTLAGLQAD
+DTGLYICKMERMYPPPYFMNKG-NGTHLYVIDKEK--TMS--------------------
+HYWSL----------C----ENAF------------------------------------
+------------------------------------------------------------
+------------------------------------------------
+>ENSMVIP00005026640 ENSMVIG00005018569	136	CTLA4	cytotoxic T-lymphocyte associated protein	Manacus_vitellinus	613A	613	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------MEVTQPAMVLANRQGVASLVCKYKHI----GNA-QEIRVTLL
+KQTGD--GLTEICASTYTS-EFRTFR------VQAVIQCRVS-P-GRNNVTLTLAGLQAN
+DTGLYVCKMERMYPPPYFTNMG-KGTHLYVIDKEK--TMS--------------------
+YYWKK----------S----DSIPHH-------------------------------W--
+------------------------------------------------------------
+------------------------------------------------
+>ENSPMJP00000024926 ENSPMJG00000018297	229	CTLA4	cytotoxic T-lymphocyte associated protein	Parus_major	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLSILVT
+VGFLC--TA---TAIAEVMEVTQPAMVLANRQGVASLVCKYKNI----GNA-KEIRVTLL
+KQTGD--RFTEICASSYTT-EFKTFF------VEEVIQCHVT-P-GRNNVTLTLAGLQAN
+DTGLYICKMERMYPPPYFMNKG-NGTHLYVIDPEP--CPD-----------------TAI
+YLWVL----------G----ATASGF-------------------------------FLY
+SIIIS--AILVGKAIKRR---RCLT-TGV-YVKMPSEKL-EK--KVIPFHIS-VDCNK--
+---------------------------EREKPFPSWNGGSANSFQLKK
+>ENSSCAP00000002076 ENSSCAG00000001805	229	CTLA4	cytotoxic T-lymphocyte associated protein	Serinus_canaria	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLSILVT
+VGFLC--RA---TAIAEVMEVTQPAIVLANRQGVASLVCKYKNI----GNA-KEIRVTLL
+KQTGD--QTIEICASSYTT-EFKTFF------VEKVIQCHVT-P-GQNNVTLTLAGLQAN
+DTGLYICKMERMYPPPYLMNKG-NGTHLYVIDPEP--CPD-----------------TAI
+YLWVL----------G----ATASGF-------------------------------FLY
+SIIIS--AILVGKAIKRR---RCLT-TGV-YVKMPSEKL-DK--KVIPFHIT-VNCNK--
+---------------------------EGEKPFPTWDGVSTSSFQLKK
+>ENSTGUP00000010068 ENSTGUG00000009756	229	CTLA4	cytotoxic T-lymphocyte associated protein	Taeniopygia_guttata	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLSILVT
+MGFLC--TA---TAIAEVMEVTQPAIVLANRQGVASLVCKYKNI----GNA-KEIRVTLL
+KQTGD--QVTEICASSYTT-EFKTFF------VKKVVQCHVT-P-GQNNVTLTLAGLQAN
+DTGLYICKMERMYPPPYFMNKG-NGTHLYVIDPEP--CPD-----------------PAI
+YLWVL----------G----ATASGF-------------------------------FLY
+SIITS--AILVGKVIKRR---QCLT-TGV-YVKMPSEKL-EK--KVIPFHIT-VDCNK--
+---------------------------EREKPFPSWDGESDNSFQLKK
+>ENSZALP00000023028 ENSZALG00000017834	131	CTLA4	cytotoxic T-lymphocyte associated protein	Zonotrichia_albicollis	613A	613	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------MEVTQPAIVLANRQGVASLVCKYKNI----GNA-QEIRVTLL
+KQTGD--QITEICASSYTM-EFKTFF------VEKIIECHVT-P-GQNNVTLTLAGLQAN
+DTGLYICKMERMYPPPYFMNKG-NGTHLYVIGKAS--REK--------------------
+---SD----------S----IP------------------------------------YH
+C-----------------------------------------------------------
+------------------------------------------------
+>ENSACOP00000024504 ENSACOG00000016468	202	CTLA4	cytotoxic T-lymphocyte associated protein	Amazona_collaria	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------HSSLK--
+----Q--VSAFHCGAGEKMEVTQPAMVLANRQGVANLVCKYKHI----GNA-KEIQVTLL
+KQTGD--QFTEICASTYTS-EFKTLS------VEEVIQCHVS-P-SRNNVTLTLTGLQAN
+DTGLYICKMERMYPPPYFMNKG-NGTHLYVIDPEP--CPD-----------------TAM
+YLWVL----------G----VTASGL-------------------------------FLY
+SIIIS--AILVGKAIKRR---RCLT-TGV-YVKMPSEKL-EK--KVIPFHIT-VN-----
+------------------------------------------------
+>ENSMUNP00000014337 ENSMUNG00000011156	205	CTLA4	cytotoxic T-lymphocyte associated protein	Melopsittacus_undulatus	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLSILVT
+VGFLC--TA---TAIVQEMEVTQPAMVLANRQGVANLVCKYKHI----GNA-NEIRVTLL
+KQTGD--QFTEICASTYTL-EFKIFS------VEAVIQCHVS-P-SRNNVTLTLTGLQAN
+DTGLYICKMERMYPPPYLMNKG-NGTHLYVIDPEP--CPD-----------------TAI
+YIWVL----------G----ATVSGL-------------------------------LLY
+SIIIS--AILVGKVIKRR---RCLT-TGV-YVKMPSEKL-EK--KVIPFHIT-VN-----
+------------------------------------------------
+>ENSSHBP00005003050 ENSSHBG00005002762	210	CTLA4	cytotoxic T-lymphocyte associated protein	Strigops_habroptila	613A	613	A
+------------------------------------------------------------
+------------------------------------------------MLSVLISHTVFY
+KQVFS--HF---LLSLPENKILVPAMVLANRQGVANLVCKYKHI----GNA-KEIRVTLL
+KQTGD--QFTEICASTYTS-EFKTFS------VEEVIQCHVS-P-SRNNVTLTLTGLQAN
+DTGLYVCKMERMYPPPYFMNKG-NGTHLYVIDPEP--CPD-----------------TAI
+YLWVL----------G----ATASGL-------------------------------FLY
+SITIS--AILVGKAIKRR---RCLT-TGV-YVKMPSEKL-EK--KVIPFHIT-VN-----
+------------------------------------------------
+>ENSSPUP00000017901 ENSSPUG00000013826	207	CTLA4	cytotoxic T-lymphocyte associated protein	Sphenodon_punctatus	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLTVLII
+IDLFG-----TATGFTKVMEVTQPAAAIANRQGIVNLVCEYKYP----GNA-KEIRVALL
+KHMDN--QDTEICASTFTP-EYEMDS------KKDIIQCHVR-P-SYSNVTFTLSGLQAT
+DSGLYICKMERMYPAPYYMDMG-NGTQLYVTDPEP--CPD-----------------MDL
+YVWIL----------G----AVALGL-------------------------------FIY
+SILLT--AVLVCKMIRKR---SYLT-PGL-YVKMTAEEL-EAEKKVKPYHII-IN-----
+------------------------------------------------
+>ENSACAP00000004345 ENSACAG00000004464	193	None	cytotoxic T-lymphocyte associated protein	Anolis_carolinensis	613A	613	A
+------------------------------------------------------------
+--------------------------------------------------------LFCL
+VVFNY--DVCIFVDFPAVMEVTQPVFTVVKSQGAANFQCGFTNT----EDA-SKLRITLL
+KQEGN--ESVQICALSFPLEEGSLFK-----TNEDGIQCQIR-P-GRESVNITLWGLKAT
+DAGLYVCQMEWIYPPPYYSVLG-SGTQLFLLERDA--CPA-----------------VYP
+YFWIS----------V----MIASGL-------------------------------LGY
+SILIT--IYMKTKVLRKS---MYFT-PGI-YEKIIPM-----------------------
+------------------------------------------------
+>ENSNSUP00000012435 ENSNSUG00000009322	141	None	None	Notechis_scutatus	613A	613	A
+------------------------------------------------------------
+------------------------------------------------------------
+--MIS--LLLTLMVYSRVMEVTQPAFMVVKRPEAAYFECEIKNM----GNA-EDLKVTLF
+KEEDN--RSIEICASAFTH-TGILLG-----NKKENQRCQVY-P-GHDWVNVTLWGLQSS
+DAGLYICQIERISPPPYYPVKG-KGTQLFVIGEYS--ANY-----------------EYL
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------
+>ENSPMRP00000013271 ENSPMRG00000008883	199	CTLA4	cytotoxic T-lymphocyte protein	Podarcis_muralis	613A	613	A
+------------------------------------------------------------
+--------------------------------MNPTS------G----CV-MI--SFFIA
+IVFP-----SLAAGFSKVIEVTQPSFLVVKRPEAAHFACEYRNA----GDA-EGLVITLL
+KHLGN--ESLRMCASWLT-AGYEPFI------VKDGIKCQVH-P-GHNGVNITLWGLQPT
+DAGLYICKMERIFPPPYIQVMG-RGTQLYVVDTDP--CPD-----------------SHL
+YLWIA----------T----AVASGL-------------------------------FVY
+SILIT--TCVMRKAIRKS---SYFT-PGV-YEKIVPM-----------------------
+------------------------------------------------
+>ENSPVIP00000003498 ENSPVIG00000002945	196	CTLA4	cytotoxic T-lymphocyte associated protein	Pogona_vitticeps	613A	613	A
+------------------------------------------------------------
+---------------------------------------------------MM--ALFVT
+ILFS-----ILAAGFTKVMEVTQPAFLVAKSQDSVNFVCEYKNA----KDV-KELRVTLL
+KETGN--TSIQICASPLPIQDNKPFS------LKDGIHCQVH-P-GHESVNVTLRGLQST
+DGGVYVCKIERLYPPPYYPVMG-KGTQLYIIDSDP--CPD-----------------ISE
+YLSII----------VT-VVAVVFGL-------------------------------FVN
+SILIT--VYITRRVIRKS---KYFV-PGV-YEKFNQED----------------------
+------------------------------------------------
+>ENSPTXP00000000530 ENSPTXG00000000487	200	None	None	Pseudonaja_textilis	613A	613	A
+------------------------------------------------------------
+---------------------------------NPQLPFQKAIT----KL-LLPFQVFFF
+L-FLC--LHLFLFSSYIIMEVTQPAFMVVKRPETAYFECEIKNM----GNA-EDLKVTLF
+KEENN--RSIEICASAFTH-TGIILG-----NKKENQRCQVY-P-GHDWVNVTLLGLQSS
+DAGLYICQIERISPPPYYPVKG-KGAQLFVIDDAI--LLI-----------------RYI
+YHVHN----------IYNPFLLTLHI-------------------------------ISY
+YILIN--I--LYHIISLL---YYH------------------------------------
+------------------------------------------------
+>ENSSMRP00000026761 ENSSMRG00000020651	201	CTLA4	cytotoxic T-lymphocyte associated protein	Salvator_merianae	613A	613	A
+------------------------------------------------------------
+---------------------------------MPG-NIGKICTCRXPCALRIVLNLFPL
+--NEL--VHPFVCFLILGIEVIQPAFMVAKAQDAAHFMCEYKHI----GDA-KQLQITLY
+KQIGN--DSINICDSFVVIEHETPSTTAHEKLMKEDTLCQVH-P-GQKQVNVSLLDLKPT
+DAGLYICKIERIYPPPYIVAEG-SGIQLYVID--P--CPD-----------------IHL
+NPWVI----------V----AITSGL-------------------------------LGY
+SILIS--IYVVKKLVSI-------------------------------------------
+------------------------------------------------
+>ENSVKKP00000020270 ENSVKKG00000013663	181	CTLA4	cytotoxic T-lymphocyte associated protein	Varanus_komodoensis	613A	613	A
+------------------------------------------------------------
+------------------------------------P------A----CL----------
+---RR--RKPSSACTKAHFSLTQPAFIVAKQQEDAQIVCDYTND----GDA-TDLRIALL
+KQMGN--ESIKVCALSFTT-NFEPVS-------RKVGQCRVD-L-GHERVNVTLPQLQTT
+DAGLYICTMERIFPPPYYPVQG-KGTHLYVVDTEP--CPD-----------------IHL
+YFWII----------M----SAFAGL-------------------------------LGY
+SILLT--ACIMRKVVSTI---VLILCVGA-------------------------------
+------------------------------------------------
+>ENSACUP00000004106 ENSACUG00000002808	200	CTLA4	cytotoxic T-lymphocyte associated protein	Athene_cunicularia	613A	613	A
+------------------------------------------------------------
+----------------------------------------------WRYILITW--TTF-
+--------------CTKNKILVAQPMVLANRQGVASLVCKYKHI----GNA-KEIRVTLL
+KQTGD--RFTEICASTYTM-EFKMFS------VEEVIQCHVS-P-SRNNVTLTLTGLQAN
+DTGLYVCKMERMYPPPYFMNKG-NGTHLYVIDPEP--CPD-----------------TAI
+YLWVL----------G----ATASGF-------------------------------FLY
+SIITS--AILMGKAIKRR---RCLT-TGV-YVKMPSEKL-EK--KVIPFHIT-VN-----
+------------------------------------------------
+>ENSSCUP00000017538 ENSSCUG00000012995	205	CTLA4	cytotoxic T-lymphocyte associated protein	Struthio_camelus_australis	613A	613	A
+------------------------------------------------------------
+------------------------------------------------MLS-----VLVT
+VGFLC--TA---TAIAEVMEVTQPAMVLANRQGVASLVCKYKHI----GNA-KEIRVTLL
+KQTGD--QFTEICASTYTT-EFKMFS------VEEVIQCHVS-P-SRNNVTLTLTGLQAN
+DTGLYICKMERMYPPPYFMNTG-NGTHLYVIDPEP--CPE-----------------TAI
+YLWVL----------G----ATASGF-------------------------------FLY
+SIIIS--AIVVGKAIQRR---RRLT-TGV-YVKMPSEKT-EK--KVIPFHIT-IN-----
+------------------------------------------------
+>ENSCABP00000020924 ENSCABG00000015422	200	CTLA4	cytotoxic T-lymphocyte associated protein	Chelonoidis_abingdonii	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLKLLIT
+IGFLS-----TAT----ALEVTQPAAVLANRQGVANLVCEYKQI----GNA-EEIRVTLL
+KQTDK--EYTEICASTYTS-EYQIFI------VEKTIECHVS-P-SQNNVTLTLMGLHAT
+DAGLYICKMERLYPPPYYMNTG-KGTQLFVTDPEP--CPD-----------------TDL
+YIWIL----------G----AAASGL-------------------------------FIY
+SILIS--ACVLSKAIQKR---KYLT-TGL-YVKMTSEE----EKKVKPYHIV-IR-----
+------------------------------------------------
+>ENSCSRP00000014753 ENSCSRG00000011231	200	CTLA4	cytotoxic T-lymphocyte associated protein	Chelydra_serpentina	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MKALQGG
+ISFFS----------FIGIEVTQPAVVLANRQGVANLVCEYKHI----GNA-EEIRVTLL
+KQMGK--EYIEICASTYTT-EYEMLI------VEKIIQCHVS-P-SQNNVTLTLMGLHAT
+DAGLYICKMERLYPPPYYMNTG-KGTQLFVIDPEP--CPD-----------------TDL
+YLWIL----------G----AAASGL-------------------------------FIY
+SILIT--ACVLSKAIWKR---KYLT-TGL-YVKMTSEE---EEKKVKPYHIV-IR-----
+------------------------------------------------
+>ENSCPBP00000011532 ENSCPBG00000008783	204	CTLA4	cytotoxic T-lymphocyte associated protein	Chrysemys_picta_bellii	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLTLLIT
+IGFLS-----TATGIAKALKVTQPAVVLANRQGVANLVCEYKHI----GNA-EEIRVTLL
+KQTGK--EYTEICASTYTT-EYQMFI------VEKIIECHVS-P-SQNNVTLTLMGLHAT
+DAGLYICKMERLYPPPYYMNTG-KGTQLFVTDPEP--CPD-----------------TDL
+YLWIL----------G----AAASGL-------------------------------FIY
+SILIT--ACVLSKVIRKR---KYLT-TGL-YVKMTSEE----EKKVKPYHIV-IR-----
+------------------------------------------------
+>ENSGAGP00000019266 ENSGAGG00000014237	204	CTLA4	cytotoxic T-lymphocyte associated protein	Gopherus_agassizii	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MLTLLIT
+IGFLS-----TATGIAKALKVTQPAAVLANRQGVANLVCEYKHI----GNA-EEIRVTLL
+KQTGK--EYTEICASTYTS-EYQMFI------VEEIIECHVS-P-SQNNVTLTLMGLHAT
+DAGLYICKMERLYPPPYYMNTG-KGTQLFVTDPEP--CPD-----------------TDL
+YIWIL----------G----AAASGL-------------------------------FIY
+SILIS--ACVLSKVIRKR---KYLT-TGL-YVKMTSEE----EKKVKPYHIV-IR-----
+------------------------------------------------
+>ENSPSIP00000004947 ENSPSIG00000004610	223	CTLA4	cytotoxic T-lymphocyte associated protein	Pelodiscus_sinensis	613A	613	A
+------------------------------------------------------------
+---------CV-----------CLGSKLYIYTL------------NLCTSNTMHCNFSGK
+TEFI--------VCNSSAMEVTQPAVVLANRQGVARLVCGYKHI----GNT-QEIRVTLL
+KQTGH--QYTEVCASTYTT-EYKMFM------ADKIIPCQVS-P-SQNNVTLTLMGLQAA
+DAGLYICKMERLFPPPYYMNTG-KGTQLFVIDPEP--CPD-----------------TDL
+YLWTL----------G----ATASGL-------------------------------FLY
+SILLT--ACVLSKAIRKR---KYLT-TGL-YVKMNSEE---EEKKVKPYHIV-IR-----
+------------------------------------------------
+>ENSPCEP00000026986 ENSPCEG00000020173	223	CTLA4	cytotoxic T-lymphocyte associated protein	Pelusios_castaneus	613A	613	A
+------------------------------------------------------------
+------------------------ERSYLFQKDPAQFVSRDEGSSGWNLF---------L
+LHFFNVLIYHHALPLITAMEVTQPAMVLANR-GVASLVCEYKHI----GNA-EEIRVTLF
+KQTDE--QYTEICASTYTI-ESELFN------VEEVIQCQVS-P-SQNNVTLTLMGLQAT
+DAGLYICKMERLYPPPYIMNKG-NGTQLFVIDPEP--CPD-----------------TDL
+YLWIL----------G----ASGSGL-------------------------------FIY
+SILIT--AFVLSKVVKGTDHYRCLT-QYQ-----PSY--------VLCFNQS-LT-----
+------------------------------------------------
+>ENSTMTP00000000840 ENSTMTG00000000717	199	CTLA4	cytotoxic T-lymphocyte associated protein	Terrapene_carolina_triunguis	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------MKDLQGG
+ISFLA----------FIALKVTQPAVVLANRQGVANLVCEYKHI----GNA-EEIRVTLL
+KQTGK--EYTEICASTYTT-EYQMFI------VEKIIECHVS-P-SQNNVTLTLMGLHAT
+DAGLYICKMERLYPPPYYMNTG-KGTQLFVTDPEP--CPD-----------------TDL
+YLWIL----------G----AAASGL-------------------------------FIY
+SILIT--ACVLSKAIRKR---KYLT-TGL-YVKMTSEE----EKKVKPYHIV-IR-----
+------------------------------------------------
+>ENSNPEP00000011757 ENSNPEG00000008824	202	CTLA4	cytotoxic T-lymphocyte associated protein	Nothoprocta_perdicaria	613A	613	A
+------------------------------------------------------------
+-----------------------------------------------------------M
+LHFIN--KCVFLNSLPPENKILVPAMVLANRQGVASLVCKYKHI----GNA-KEIRVTLL
+KQTGD--RFTEICASTYTM-ELKMFS------VEEVIQCHVS-P-SRNNVTLTLTGLQAN
+DTGLYICKMERMYPPPYFMNTG-NGTHLYVIDPEP--CPD-----------------SAI
+YLWVL----------G----ATASGF-------------------------------FLY
+SIIIS--AVVVGKAIQRR---RRLT-TGV-YVKMPSEKT-EK--KVIPFHIT-VN-----
+------------------------------------------------
+>ENSDARP00000121388 ENSDARG00000092653	225	si	si dkey-1h24	Danio_rerio	613B	613	B
+------------------------------------------------------------
+------------------------------------------MEIFWRCVTLLSLCLLQS
+TP----------SETQNTCKGELPLIEYVPLNSTVKVACPK-------LSA-PEMDFRLF
+KDGDE---VISIYVKINHTSIPK-T------NTNKEFPAEFSVD-LDNSSSFILTVVTVN
+MTALYTCEASISYPPPFKYVDH-KPQTIVFVEARSEKRPD-----------LCQ-QSNHL
+NLWVA-----------------FGLL-------------------------------ATY
+GVLMTCITILRIKPRQIGFF-KDRE-----CGRKWQGVQHPT--RQGFYIQP-RNCLT--
+----------TSTVTK---------------PL---------------
+>ENSANIP00000017962 ENSANIG00000012212	222	CD28	CD28	Accipiter_nisus	613B	613	B
+------------------------------------------------------------
+-------------------------------------------MLLGI---------LVV
+LC-----FIPTADVTENKILVAQRPLLTVA-NKTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---AVEVCFISWNTTKISS-------NSNKEFNCQGIHD--KDKVIFNLWNMSAS
+QTDIYFCKIEAMYPPPYVYNEKSNGTVIHVKE----------------TPIQTQEPQSAI
+PLWIM----------V----AVTGVL-------------------------------AFY
+SMLITAVFI------------NY-----------W-QKSKKNMYHQSDYMNMTPRHP---
+--PYQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSACCP00020001196 ENSACCG00020000853	222	CD28	CD28	Aquila_chrysaetos_chrysaetos	613B	613	B
+------------------------------------------------------------
+-------------------------------------------MLLGI---------LVV
+LC-----FIPTADVTENKILVAQRPLLTVA-NKTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---AVEVCFISWNTTKISS-------NSNKEFNCQGIHD--KDKVIFNLWNMSAS
+QTDIYFCKIEAMYPPPYVYNEKSNGTVIHVKE----------------TPIQTQEPQSAI
+PLWIM----------V----AVTGVL-------------------------------AFY
+SMLITTVFI------------NY-----------W-QKSKKNMYHQSDYMNMTPRHP---
+--PYQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSAPLP00020008256 ENSAPLG00020006034	222	CTLA-4	CD28	Anas_platyrhynchos	613B	613	B
+------------------------------------------------------------
+-------------------------------------------MLLGI---------LVV
+LC-----FIPAADVTENKILVAQHPLLIVA-NKTANLVCNYSYN----GTG-KEFRASLH
+KGTNS---AVEVCFISWNKTKSSS-------NSNKEFNCQGTFY--EDKVIFNLWNMNAN
+QTDIYFCKIEAMYPPPYVYNEKSNGTVIHVKE----------------TPVQTQEPQSAI
+SYWVM----------V----AVTGLL-------------------------------AFY
+SILITAIFI------------SY-----------W-QKSKKNRYHQSDYMNMTPRHP---
+--PYQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSACDP00005015568 ENSACDG00005011387	222	CD28	CD28	Anser_cygnoides	613B	613	B
+------------------------------------------------------------
+-------------------------------------------MLLGI---------LVV
+LC-----FIPAADVTENKILVAQHPLLIVA-NKTANLVCNYSYN----GTG-KEFRASLH
+KGTDS---AVEVCFISWNKTKSSS-------NSNKEFNCQGTFY--EDKVIFNLWNMNAN
+QTDIYFCKIEAMYPPPYVYNEKSNGTVIHVKE----------------TPIQTQEPQSAI
+SYWVM----------V----AVTGLL-------------------------------AFY
+SILITAIFI------------SY-----------W-QKSKKNRYHQSDYMNMTPRHP---
+--PYQKNKGYPPYAPTRDY-----------TAYRSWQP----------
+>ENSAOWP00000027281 ENSAOWG00000018378	222	CD28	CD28	Apteryx_owenii	613B	613	B
+------------------------------------------------------------
+-------------------------------------------MLLGI---------LVV
+LC-----FIPAAHVTENKILVAQHPLLIVA-NKTANLVCNYTYN----GTG-KEFRASLH
+KGTDS---AVEVCFVSWNMTKFSS-------NSNKEYNCKGIHD--KDRVIFNLWNMTAS
+QTDIYFCKIEAMYPPPYVYNEKSNGTVIHVKE----------------TPTQTQESQSPS
+SYWIM----------V----AVTGVL-------------------------------AFY
+STLITAVFI------------NY-----------W-QKSKEKMYHQSDYMNMTPRHP---
+--PYQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSDNVP00000023608 ENSDNVG00000016400	222	CD28	CD28	Dromaius_novaehollandiae	613B	613	B
+------------------------------------------------------------
+-------------------------------------------MLLGI---------LVA
+LC-----FLPAAHATENKILVAQHPLLTVE-NKTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---AAEVCFVSWNMTKISS-------NSNKEFNCKGIHD--KDKVIFKLWNMTAN
+QTDIYFCKIEVMYPPPYVYNEKSNGTVIHVTE----------------TPIQIQEPQSAS
+SYWIM----------V----AVTGVL-------------------------------AFY
+STLITAVFI------------NY-----------W-QKSKEKMYHQSDYMNMTPRHP---
+--PYQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSCPUP00000008556 ENSCPUG00000006149	283	CD28	CD28	Calidris_pugnax	613B	613	B
+---------TSVSPS-------DYIIIYIEENCCN-------KSSCEKSLLQ------LG
+GYILPRREHQQGRGD-----TEKSCTG---GCVV-----LKSHTVFYK---------QVF
+FS-----LSPLLSLPENKILVAQRPLLIVA-NKTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---AVEVCFISWNTTNTSS-------NSNKEFNCTGSHN--KDKVIFSLWNMSAS
+QTDIYFCKIEAMYPPPYVYNEKSNGTVIHVKE----------------TLIQTQEPQSAI
+PLWIM----------V----AVTGVL-------------------------------AFY
+SMLITAVFI------------NY-----------W-QKSKKNMYHQSDYMNMTPRHP---
+--PHQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSCPRP00005002317 ENSCPRG00005001690	249	CD28	CD28	Crocodylus_porosus	613B	613	B
+----------------------------------------EFLSHCSK------------
+-------------PEVTYFGHEK---------LP-----PIERKLRLC---------RNR
+HL-----FRHPQWCTENKILVTQRPVLRVD-NKTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---AVEVCFVSWNITKGNN------TQSTNGFTCHGYQDDQKKHVIFSLSNMNPN
+HTDIYFCKIEVMYPPPYVCSDKSNGTIIHVRD----------------VPFQQSELQSTR
+YFWLM----------A----AAIGVF-------------------------------AIY
+SIIITVACI------------HC-----------S-LKNKKNRILQSDYMNMTPRHP---
+--QGPKNKCYQPYAPTRDY-----------TAYRSWQP----------
+>ENSCPIP00010016716 ENSCPIG00010013354	150	CD28	CD28	Chrysolophus_pictus	613B	613	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------MTKSNS-------NSNKEFNCWGNHD--KDKVIFNLRNMTAS
+QTDIYFCKIEAMYPPPYVYNEKSNGTVIHVRE----------------TPIQTREPESAT
+SYWVM----------V----AVTGLL-------------------------------GFY
+SMLITAVFI------------IY-----------R-QKSKRNRYRQSDYMNMTPRHP---
+--PHQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSCJPP00005018926 ENSCJPG00005015378	221	CD28	CD28	Coturnix_japonica	613B	613	B
+------------------------------------------------------------
+--------------------------------------------MLGI---------LVV
+LC-----LIPAADVTENKILVAQRPLLIVA-NRTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---AVEVCFISWNMTKINS-------NSNKEFNCQGIHD--KDKVIFNLWNMSAS
+QTDIYFCKIEAMYPPPYIYNEKSNGTVIHVRE----------------TPVQTQEPESAT
+SYWVM----------V----TVTGLL-------------------------------GFY
+SVLITAVFI------------IY-----------R-QKSKRNRYRQSDYMNMTPRHP---
+--PHQKNKGYPSYAPTREY-----------TAYRSWQP----------
+>ENSGALP00000014099 ENSGALG00000008669	304	CD28	CD28	Gallus_gallus	613B	613	B
+MLQRHRGAFPRLKPSNSRASCLNVAVVVVSLGCTSRATQGGGEKLCELVMVQ--------
+-------LALWGRLWREALGGSAVPGRWAQGRRP-----TIVT-MLGI---------LVV
+LC-----LIPAADVTENKILVAQRPLLIVA-NRTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---AVEVCFISWNMTKINS-------NSNKEFNCRGIHD--KDKVIFNLWNMSAS
+QTDIYFCKIEAMYPPPYVYNEKSNGTVIHVRE----------------TPIQTQEPESAT
+SYWVM----------V----AVTGLL-------------------------------GFY
+SMLITAVFI------------IY-----------R-QKSKRNRYRQSDYMNMTPRHP---
+--PHQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSMGAP00000018939 ENSMGAG00000008783	227	CD28	CD28	Meleagris_gallopavo	613B	613	B
+------------------------------------------------------------
+----------------------------------------------AL---------SLL
+LT-----SVFLPSLPENKILVAQSPLLIVA-NRTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---SVEVCFISWNMTKSNS-------NSNKEFNCWGNHD--KDKVIFNLRNMTAS
+QTDIYFCKIEAMYPPPYVYNEKSNGTVIHVRERHLKQVYE--------TPIQTQEPESAT
+SYWVM----------V----ALTGLL-------------------------------GFY
+SMLVTAVFI------------IY-----------R-QKSKRNRYRQSDYMNMTPRHP---
+--PHQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSNMEP00000025811 ENSNMEG00000021837	221	CD28	CD28	Numida_meleagris	613B	613	B
+------------------------------------------------------------
+--------------------------------------------MLGI---------LVV
+LC-----LIPAADVTENKILVSQHPLLIVA-NKTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---AVEVCFISWNMTKTNS-------NSNKEFNCQGSRA--KDKVIFNLWNMSAS
+QTDIYFCKIEAMYPPPYVYNEKSNGTVIHVRE----------------TPIQTQEPESAT
+SYWVM----------V----AVTGLL-------------------------------SFY
+SMLITAVFI------------IY-----------R-QKSKRNRYRQSDYMNMTPRHP---
+--PHQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSPSTP00000023167 ENSPSTG00000017037	255	CD28	CD28	Pavo_cristatus	613B	613	B
+-------------------------------------------------MVQ--------
+-------LALRGRLWRETLGGSAVPGGWGQGRGP-----TIIT-MLGI---------LVV
+LC-----LIPAADVTENKILVAQRPLLIVA-NRTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---AVEVCFISWNMTKINS-------NSNKEFNCQGIHD--KDKVIFNLWNMSAS
+QTDIYFCKIEAMYPPPYVYNEKSNGTVIHVRE----------------TPIQTQEPESAT
+SYWVM----------V----AVTGLL-------------------------------SFY
+SMLITAVFI------------IY-----------R-QKSKRNRYRQSDYMNMTPRHP---
+--PHQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSPCLP00000015018 ENSPCLG00000012273	221	CD28	CD28	Phasianus_colchicus	613B	613	B
+------------------------------------------------------------
+--------------------------------------------MLGI---------LVV
+LC-----LIPAADVTENKILVAQSPLLIVA-NRTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---SVEVCFISWNMTKSNS-------NSNKEFNCWGNHD--KDKVIFNLRNMTAS
+QTDIYFCKIEAMYPPPYVYNEKSNGTVIHVRE----------------TPIQTQEPESAT
+SYWVM----------V----AVTGLL-------------------------------GFY
+SMLITAVFI------------IY-----------R-QKSKRNRYRQSDYMNMTPRHP---
+--PHQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSCPVP00000001083 ENSCPVG00000000823	212	CD28	CD28	Camarhynchus_parvulus	613B	613	B
+------------------------------------------------------------
+---------------------------------------------------------FSW
+---------KKLSLCIVLILVAQHPLLIVT-NQTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---SVEVCFISWNVTKIRS-------NSTQEFNCQGDHD--KDKVIFNLWNMNAN
+QTDIYFCKIEVMYPPPYVYNEKSNGTVIHVKE----------------TPIQIQEPQSTI
+PLWIL----------A----TVTGIL-------------------------------ALY
+SMLITAGFF------------NY-----------W-QKSKKRMYHQSDYMNMTPRHP---
+--PY-KNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSCCEP00000022669 ENSCCEG00000020442	222	CD28	CD28	Cyanistes_caeruleus	613B	613	B
+------------------------------------------------------------
+-------------------------------------------MLLGI---------LVV
+LC-----FIPTADVTENKILVAQHPLLIVA-NQTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---SVEVCFISWNTTKISS-------NSNKEFNCQGYHD--KDKVIFSLWNMNAN
+QTDIYFCKIEVMYPPPYVYNEKSNGTVIHVKE----------------TPTQIQEPQSAI
+PLWIL----------A----IVTGIL-------------------------------ALY
+SMLITAVLI------------NY-----------W-QKFKKNMYHQSDYMNMIPRHP---
+--PYQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSEGOP00005013533 ENSEGOG00005010809	222	CD28	CD28	Erythrura_gouldiae	613B	613	B
+------------------------------------------------------------
+-------------------------------------------MLLGI---------LVV
+LF-----FIPTADVTENKILVAQHPLLIVA-NQTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---SVEVCFISWNTTKISS-------NSNKGFNCQGSND--KDKVIFNLWNMNTN
+QTDIYFCKIEVMYPPPYVYNEKSNGTVIHVKE----------------TPIQIQEPQSAI
+PLWIL----------A----TVTGIL-------------------------------ALY
+SMLITAVFI------------NY-----------W-QKSKKHMYHQSDYMNMTPRHP---
+--PYQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSFALP00000003873 ENSFALG00000003718	222	CD28	CD28	Ficedula_albicollis	613B	613	B
+------------------------------------------------------------
+-------------------------------------------MLLGI---------LVV
+LC-----FIPTADVTENKILVAQHPLLIVA-NQTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---SVEVCFISWNTTIISN-------NSNKEFNCQGDHD--KNKVIFNLWNMNAN
+QTDIYFCKIEVMYPPPYVYNEKSNGTVIHVKE----------------IPTRIQEPQSTI
+PLWIL----------A----TVTGIL-------------------------------ALY
+SVLITAACI------------NY-----------W-QKSKNKKYHQSDYMNMTPRHP---
+--IYQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSGFOP00000008852 ENSGFOG00000006204	212	CD28	CD28	Geospiza_fortis	613B	613	B
+------------------------------------------------------------
+---------------------------------------------------------FSW
+---------KKLSLCIVLILVAQHPLLIVT-NQTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---SVEVCFISWNVTKIRS-------NSTQEFNCQGDHD--KDKVIFNLWNMNAN
+QTDIYFCKIEVMYPPPYVYNEKSNGTVIHVKE----------------TPIQIQEPQSTI
+PLWIL----------A----TVTGIL-------------------------------ALY
+SMLITAGFF------------NY-----------W-QKSKKRMYHQSDYMNMTPRHP---
+--PY-KNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSJHYP00000012368 ENSJHYG00000009670	234	CD28	CD28	Junco_hyemalis	613B	613	B
+------------------------------------------------------------
+--------------------MHLLCLLSH-SSQR-----SILLKRLGY---------FIF
+---------LCRHDYKNKILVAQHPLLVVS-NQTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---SVEVCFISWNVTKIRS-------NSTKEFNCQGDHD--KDKVIFNLWNMNAN
+QTDIYFCKIEVMYPPPYVYNEKSNGTVIHVKE----------------TPIQIQEHQSTI
+PLWIL----------A----TVTGIL-------------------------------ALY
+SMLITAGFF------------NY-----------W-QKSKKRLYHQSDYMNMTPRHP---
+--PY-KNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSLSDP00000010226 ENSLSDG00000007537	221	CD28	CD28	Lonchura_striata_domestica	613B	613	B
+------------------------------------------------------------
+--------------------------------------------FLGI---------LVL
+CS-----SRFLPSLPENKILVAQHPLLIVA-NQTATLVCNYTYN----GTG-KEFRASLQ
+KGTDS---SVEVCFISWNTTKISS-------NSNKGFNCQGSHD--KDKVIFNLWNMNTN
+QTDIYFCKIEVMYPPPYVYNEKSNGTVIHVKE----------------TPTQIQEPQSAI
+PLWIL----------A----TVTGIL-------------------------------ALY
+SMLITAVSI------------NY-----------W-QKSKKHMYRQSDYMNMTPRHP---
+--PYQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSMVIP00005026641 ENSMVIG00005018570	208	CD28	CD28	Manacus_vitellinus	613B	613	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----------FLGILNLILVAQSPLLKVD-NKTATLICNYTYN----GTG-KEFRASLH
+KGTGS---AIEVCFISWNTSKSSS-------TSNKQFNCQGAHD--KDKVIFNLWNMSAS
+QTDIYFCKIEVMYPPPYVYNEKSNGTVIHVQE----------------TPTRTQEPLSAI
+PLWIM----------A----TVTGVL-------------------------------AFY
+SMLITAVFI------------NY-----------W-QKSRRNMYHQSDYMNMTPRHP---
+--PYQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSPMJP00000024928 ENSPMJG00000018298	222	CD28	CD28	Parus_major	613B	613	B
+------------------------------------------------------------
+-------------------------------------------MLLGI---------LVV
+LC-----FIPTADVTENKILVAQHPLLIVA-NQTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---SVEVCFISWNTTKISS-------NSNKEFNCQGYHD--KDKVIFSLWNMNAN
+QTDIYFCKIEVMYPPPYVYNEKSNGTVIHVKE----------------TPTQIQEPQSAI
+PLWIL----------A----TVTGIL-------------------------------ALY
+SMLITAVFI------------NY-----------W-QKFKKNMYHQSDYMNMIPRHP---
+--PYQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSSCAP00000002062 ENSSCAG00000001788	252	CD28	CD28	Serinus_canaria	613B	613	B
+------------------------------------------------------------
+---MERRLVLWGPGS-----HSSACRGWRQGSRP-----TINTMLLGI---------LVV
+LF-----FIPTADVTENKILVAQHPLLIVA-NQTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---SVEVCSFSWNATNIRN-------NSTKEFNCQGDHD--KDKVIFNLWNMNAN
+QTDIYFCKIEVMYPPPYVYNEKSNGTVIHVKE----------------TPTQIQESQSAI
+PLWIL----------A----TVTGIL-------------------------------ALY
+SMLITAGFL------------NY-----------W-QKSKKHMYHQSDYMNMTPRHP---
+--PYQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSTGUP00000017034 ENSTGUG00000016732	222	CD28	CD28	Taeniopygia_guttata	613B	613	B
+------------------------------------------------------------
+-------------------------------------------MLLGI---------LVV
+LF-----FIPTADVTENKILVAQHPLLIVA-NQTATLVCNYTYN----GTG-KEFRASLQ
+KGTDS---SVEVCVISWNTTKISS-------NSNKGFNCQGSYD--KDKVIFNLWNMNTN
+QTDIYFCKIEVMYPPPYVYNEKSNGTVIHVKE----------------TPTQIQEPQSAI
+PLWIL----------A----TVTGIL-------------------------------ALY
+STLITAVSI------------NY-----------W-QKSKKYMYRQSDYMNMTPRHP---
+--PYQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSZALP00000023027 ENSZALG00000017833	234	CD28	CD28	Zonotrichia_albicollis	613B	613	B
+------------------------------------------------------------
+--------------------MHLLCLLSR-SSQR-----SILLKRLGY---------FIF
+---------LCRHDCKNKILVAQHPLLVVS-NQTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---SVEVCFISWNVTNIRS-------NSTKEFNCQGDHD--KDKVIFNLWNMNAN
+QTDIYFCKIEVMYPPPYVYNEKSNGTVIHVKE----------------TPIQIQEPQSTI
+PLWIL----------A----TVTGIL-------------------------------ALY
+SMLITAGFF------------NY-----------W-QKSKKRLYHQSDYMNMTPRHP---
+--PY-KNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSACOP00000024512 ENSACOG00000016471	222	CD28	CD28	Amazona_collaria	613B	613	B
+------------------------------------------------------------
+-------------------------------------------MLLGI---------LVV
+LC-----FIPTADVTENKILVDQSPLLTVA-HKNATLVCNYTYN----GTG-KEFRASLH
+KGTDR---AVEVCFILWNTTKISS-------NSNKEFNCEGIHD--KDKVIFNLWNMSVN
+QTDIYFCKIEAMYPPPYVYNEKSNGTVIHVKE----------------TPMPIQEPQSAI
+PLWIM----------V----AVTGVL-------------------------------AFY
+SMLVTAAFI------------NY-----------W-QKSKKNLYHQSDYMNMTPRHP---
+--PYQKHKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSMUNP00000014338 ENSMUNG00000011157	215	CD28	CD28	Melopsittacus_undulatus	613B	613	B
+------------------------------------------------------------
+--------------------------------------------SRGC---------LVL
+LC-----LI------QNKILVDQSPLLTVA-HKNATLVCNYTYN----GTG-KEFRASLH
+KGTDR---AVEVCFFLWNTTKISS-------NSNKEFNCEGIHD--KDKVIFNLWNMSVN
+QTDIYFCKIEAMYPPPYIYNEKSNGTVIHVKE----------------TPMKIQEPQSAI
+PLWTM----------G----AVTGVL-------------------------------AFY
+SMLITAAFV------------NY-----------W-HKSKKNLYHQSDYMNMTPRHP---
+--PYPKNKGYPSYAPARDY-----------TAYRSWQP----------
+>ENSSPUP00000017880 ENSSPUG00000013791	216	CD28	CD28	Sphenodon_punctatus	613B	613	B
+------------------------------------------------------------
+----------------------------------------------WL---------LHA
+HF-----VNKCIPSLENTIPVEQCPLLLAD-NRNATLVCNYTYK----KKGEQEFSASLH
+KGADS---AVEVCSVVWNSTYHNF-------KASPDFNCLVAYG--DKEVNFTLWNMHVN
+QTDIYFCKIEARYPPPYFHSGESNGTVLHVKEP--------------------QSQSEAG
+TFMVM----------A----AAVGVI-------------------------------AFY
+SMLITAAFI------------YC-----------W-LKNKKNRILQKDYINMLPRHP---
+--PAPRNKNYHPYAPTRNY-----------TAYRSWEP----------
+>ENSACAP00000004357 ENSACAG00000004486	232	CD28	CD28	Anolis_carolinensis	613B	613	B
+------------------------------------------------------------
+-----------------------------------------MSRPSWI--LFTTLSIIH-
+-------LAYTTVPPATTMTMEQSPLHVVV-SQNAEISCNYTSQ----KEL-NLLKISLL
+KGVEK---RVHVCSYSWNTTSNA-T-----K-TERDFNCWVDFAKKQNKTTFHLQNLHVN
+QTDIYICKIEDLYPPPYEASVSHNGTLIHVKGVSE--VPVC----------QCH-QHGLE
+YMLMI---------------AAIIIF-------------------------------IVY
+SVTVTAACY------------YC-----------W-RKAKKNRIVRNDYFNMTPWQS---
+--NGVKKRQLPQSVPARNY-----------TAYRSWEP----------
+>ENSLLTP00000010705 ENSLLTG00000008160	212	None	None	Laticauda_laticaudata	613B	613	B
+------------------------------------------------------------
+----------------------------------------------FYLFLIILC-----
+---------------SENISKQQRFLHKTV-HQNAQVTCDFPAH----RET-ITKLNAYL
+LKGIG---KVQLFEANWNNSTIL-I-----KTNSSGLSLDINIAKEEKHAVFHLRDLQVI
+HTDSYMCKIEVIDPPPYETESRS--NLIYVKELPP--LQE---------------KLNYM
+NMPMA---------------ITLGFF-------------------------------VFY
+SLIITAAIY------------YY-----------W-LKSKKNRALQNDYFNMTPWQS---
+--NGPRKRPPQNGVPTRNY-----------TAYRYWEP----------
+>ENSNSUP00000012452 ENSNSUG00000009323	252	CD28	CD28	Notechis_scutatus	613B	613	B
+--------------------------------------------MRIKSLRYLFDL----
+-----------------------KCGVKL--IQLQ----LSVLGSRWGVLLFHVTA-YL-
+-------LKCFSPPTAENISKQQRFLHKTV-HQNAQLTCDFPAH----RET-ITKLNAYL
+LKGIG---KVQLFEANWNNSTIL-I-----KTNSSGLSLDINIAKEEKHAVFHLRDLQVI
+HTDSYMCKIEVIDPPPYETKSRS--NLIYVKELPP--LQE---------------KLNYM
+NMPMA---------------IPLGFF-------------------------------VFY
+SLLITAAIY------------YY-----------W-LKSKKNRALQNDYFSMTPWQS---
+--NGPRKRPPQNGVPTRNY-----------TAYRYWEP----------
+>ENSPMRP00000013263 ENSPMRG00000008873	221	CD28	CD28	Podarcis_muralis	613B	613	B
+------------------------------------------------------------
+-------------------------------------------MISWI--LIALSLI-Q-
+----------PDSLTEANILVQQRPLR-LM-SESAKIFCNYTSN----GKK-IEAFRALL
+RKGVE---RVEVCSIYKNSTHNI-T-----K-YSPEISCRVAFKTE-KEVTFNLQSLHAN
+QTDIYSCKIEVFEPPPYEVNES-LGTLVHVKA-PE--TPES----------QCQ-Q-GPV
+FTSMA---------------AAIGVL-------------------------------IVY
+SILTTTAFF------------YC-----------W-LKTKKNKIVRNDYFNMTAWQS---
+--NALKKRPQPPGVPARNY-----------TAYRSWEP----------
+>ENSPVIP00000007595 ENSPVIG00000006203	267	None	CD28	Pogona_vitticeps	613B	613	B
+--------------------------------------------MRTKSMRQWYLLTQVA
+DLLLPFHNLLL-----------CICEVKM--SAPP-----FHSPTFWI---FLTTLIIQ-
+-------IACI----TEAILVHQSPLHVVV-NGNAEIFCNYTYE----KKV-EKFNVWLL
+KGVPK---REAVCSFKCSSACI--I-----QNDTTGFSCHVT--RKEKGVVFQLQNLSTG
+QTDVYVCKIEVTYPPPYVDDESNNGTFINVTGKTM--KGISDWSHRRESPNLCH-Q-GLN
+GEIAH---------------R--EVH-------------------------------QQL
+IVIMTCRDLQCQKQSA-T---AC-----------H-MLEKINGRVLVEIM-SCLWSNRSS
+AGHGGGNRTLD-------------------------------------
+>ENSPTXP00000000553 ENSPTXG00000000498	223	CD28	CD28	Pseudonaja_textilis	613B	613	B
+------------------------------------------------------------
+----------------------------------------------ITLFLIILCS-YL-
+-------LKCFSPPTAENISKQQRFLHKTV-HQNAQLTCDFPAH----RET-ITKLNAYL
+LKGIG---KVQLFEANWNNSTIL-I-----KTNSSGLSLDINIAKEEKHAVFHLRDLQVI
+HTDSYMCKIEVIDPPPYETESRS--NLIYVKELPP--LQE---------------KLNYM
+NMPMA---------------IPLGFF-------------------------------VFY
+SLIITAAIY------------YY-----------W-LKSKKNRALQNDYFSMTPWQS---
+--NGPRKRPPQNGVLTRNY-----------TAYRYWEP----------
+>ENSSCUP00000017540 ENSSCUG00000012996	206	CD28	CD28	Struthio_camelus_australis	613B	613	B
+------------------------------------------------------------
+------------------------------------------------------------
+-------------MCENKILVAQHPLLTVA-NKTATLVCNYTYN----GTG-KEFRASLH
+KGTDS---AVEVCFVSWNMTKISS-------NSNKEFNCKGIHD--KDKVIFSLWNMTAS
+QTDIYFCKIEAMYPPPYVYNEKSNGTVIHVKD----------------IPTQMQESQSTS
+SYWIM----------V----AVTGVL-------------------------------AFY
+STLITAVFI------------NY-----------W-QKSKEKMYHQSDYMNMTPRHP---
+--PYQKNKGYPSYAPTRDY-----------TAYRSWQP----------
+>ENSCABP00000020932 ENSCABG00000015431	221	CD28	CD28	Chelonoidis_abingdonii	613B	613	B
+------------------------------------------------------------
+---------------------------------------------------------YKT
+IL-----VFFPSSLPENKILVEQPPRITAA-NENATLACKYAYN----GTG-NEFRASLN
+KGTDR---AVEVCSVSWNGSFHNH-------HSNKDFNCLVAVDSHKKEVNFSLWKLNTD
+QTDIYFCKIEVMFPPPYISNDKSNGTVIHVKVPCQ--------------LFPLPVFQSAT
+PFWAV----------V----VTLGFL-------------------------------AFY
+SVLITAVFV------------IC-----------W-WKNKKNRILTSDYMNMTPRHP---
+--PGPKNKHYQPYAPTRIH-----------TEYRSWEP----------
+>ENSCSRP00000014605 ENSCSRG00000011174	211	CD28	CD28	Chelydra_serpentina	613B	613	B
+------------------------------------------------------------
+------------------------------------------------------------
+--------MFFPILPENKILVEQPPRIITV-NENATLACKYVYN----GTG-NEFRASLN
+KGTDR---AVEVCSVSWNGSFHNH-------HSNKEFNCLVAVDSHKKQVNFDLWKLNTE
+QTDIYFCKIEVMFPPPYIYNDKSNGTVIHVKVPCQ--------------VQ----IPSAT
+SFLAL----------V----VTLGFL-------------------------------GFY
+SVLITAAFV------------IC-----------W-WKNKRNRILTSDYMNMTPRLP---
+--PGPKNKHYQPYAPTRIH-----------TEYRSWEP----------
+>ENSCPBP00000011539 ENSCPBG00000008786	222	CD28	CD28	Chrysemys_picta_bellii	613B	613	B
+------------------------------------------------------------
+-------------------------------MIF------------WI---------LTA
+LS-----FIQAAELTENKILVEQPPRITAS-DENATLACKYAYN----GTG-NEFRASLN
+KGADR---AVEVCSVSWNGSFHNN-------HSNKDFNCLVAVDSHKKEVNFSLWKLNTD
+QTDIYFCKIEVMFPPPYISNDKSNGTVIHVKEMVR--------------Q----PLPFQP
+PFWVL----------M----VILGFL-------------------------------AFY
+SVLITVVFV------------IC-----------W-WKNKKNRILTSDYMNMTPRHP---
+--PGPKNKHYQPYAPTRIH-----------TEYRSWEP----------
+>ENSGAGP00000019268 ENSGAGG00000014238	208	CD28	CD28	Gopherus_agassizii	613B	613	B
+------------------------------------------------------------
+-------------------------------------------MIFWI---------LAA
+LS-----FIQAAEITENKILVEQPPRIMAA-NENATLACKYAYN----GTG-NEFRASLN
+KGTDR---AVEVCSVSWNGSFHNH-------HTNKDFNCLVAVDSHKKEVNFSLWKLNTD
+QTDIYFCKIEVMFPPPYISNDKSNGTVIHVKGKTQ--------------NYNCPISFS--
+----L----------H----VHLNALAHSIEDPCQAPNDNFSVKGKITLPPNNGSSNCHF
+HLLAIEFIE------------EC-----------W-SKE---------------------
+------------------------------------------------
+>ENSPSIP00000009032 ENSPSIG00000008228	223	CD28	CD28	Pelodiscus_sinensis	613B	613	B
+------------------------------------------------------------
+--------------------------K---Y--------------HIM---------HFI
+NE-----CFFPSSLPENKISVEQHPLIITY-NENVTLACKYTYN----GTG-NEFRASLN
+KGADR---AVEVCSLSWNDSFHKN-------HSNEKFNCLVAVDSNKKQVNFSLCNLNTN
+QTDIYFCKIEVMFPPPYIYNDKSSGTVIHVRVKEM--------------LHPPPEFQPAR
+PFWPI----------V----VTLGVL-------------------------------AFY
+GVLVTAAFV------------IC-----------W-WKNKRNRILTSDYMNMTPRHP---
+--PGPKNKHYQPYAPTRMH-----------TEYRS-------------
+>ENSPCEP00000026983 ENSPCEG00000020172	208	CD28	CD28	Pelusios_castaneus	613B	613	B
+------------------------------------------------------------
+------------------------------------------------------------
+-------------GMNILILVKQHPPLITY-SKNATLACKYTYN----GTG-NEFRASLN
+KGTDR---AVEVCSVSWNGSFHHH-------NSNTEFNCLVAADSNIKQVNFSLWNLKAN
+QTDIYFCKIEVMFPPPYIYNDKSNGTIIHVREMLP--------------CSP--EPQPAR
+PFWAL----------V----VALAVL-------------------------------AFY
+SVLITAAFV------------IC-----------W-WKNKRNRILTSDYMNMTPRHP---
+--PGTKNKHYQPYAPTRIH-----------TEYRSWEP----------
+>ENSTMTP00000000829 ENSTMTG00000000707	243	CD28	CD28	Terrapene_carolina_triunguis	613B	613	B
+-------------------------------------------------MAQ------LG
+SV--------------------T-PSS---YLPF-----NKVVLGTEG---------ICI
+TV-----CFFPSSLPENKILVEQPPRIMAF-NENATLACKYAYN----GTG-NEFRASLN
+KGADR---AVEVCSVSWNGSFHNH-------HSNKDFNCLVAVDSHKKEVNFSLWKLNTD
+QTDIYFCKIEVMFPPPYISNDKSNGTVIHVKEM----------------LCQSPIFPPAT
+PFWAL----------M----VTLGFL-------------------------------AFY
+SVLITAVFV------------IC-----------W-WKNKKNRILTSDYMNMTPRHP---
+--PGPKNKHYQPYAPTRIH-----------TEYRSWEP----------

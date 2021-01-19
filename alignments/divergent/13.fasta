@@ -1,0 +1,1485 @@
+>ENSBSLP00000003397 ENSBSLG00000001904	157	None	galactose-specific lectin	Betta_splendens	13A	13	A
+------------------------------------------------------------
+----------MA-TGLFYVVLLCL------S----------------TGLWADPHVSVED
+ECC-ERCPPGWT---------QLGDRCYIFH--FSPKEWTDAEVACIAI--GGNLASVHN
+KEQLTFIQEMIKRS--------TGSYVQTWLGGYDA--------E-GVWLWSDGSACS-F
+KFWATQEPNNT---------A-GAENCMAMGKS---------SGNDLKCGSKN------A
+-YICGKRL----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSORLP00000004882 ENSORLG00000003912	170	None	None	Oryzias_latipes	13A	13	A
+------------------------------------------------------------
+------LSSPLSC--LFTMLVLI-----LLGLALMAV-DPSD-------------EQELK
+LLR-GNCPMFWY---------SYGDRCYKYV--ATPMTWGNAELHCVSQ--NANLVSVHS
+VEEEAFVKMLIQNF--------DPAEAPTWIGLSDAQE------E-GGWLWSDGTKVD-F
+QAWDLAQPDNQ---------K--IENCGHTNHG----I--NKKWNDYPCTHTY------S
+-FVCKSRQNCS-------------------------------------------------
+------------------------------------------------------------
+-
+>ENSSFAP00005050125 ENSSFAG00005024196	162	None	lactose-binding lectin	Salarias_fasciatus	13A	13	A
+------------------------------------------------------------
+-----------------MMFFLF-----LCFLALGAA-APLE-------------EKNTK
+LQR-GGCAPFWF---------SFSGRCYRYV--ATEMTWADAEFHCVSL--GANLVSIHS
+QEEQNFVKSLIQNF--------DPVQGRTWIGLTDLHK------N-FRWMWSDGSRVD-F
+VFWNTGEPSNY---------E-GAESCVETNYS----A--NKKWNDAKCHETF------P
+-FVCASRTVCP-------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPNAP00000033421 ENSPNAG00000022033	180	None	galactose-specific lectin	Pygocentrus_nattereri	13A	13	A
+------------------------------------------------------------
+------------MA-IRYSLLLWV------MCLLAVH----------------QAVAEEK
+KEA-VLRDPGWK---------SYGSRVFKFF--GLKTTWDEAEKTCVRN--NAHLASVHD
+EGEDNFIKRLIHAQ--------SNQNQATWLGGYSSKT-----AY-DRWYWTDGSHFD-F
+ADWYPGEPNGS-------------GKCLQTNYY--------GAWDDLVCYNKR------P
+-FVCARKAKMVSFVFSALCSWSY----------KAVV----------DVPLL--------
+------------------------------------------------------------
+-
+>ENSACIP00000026102 ENSACIG00000020230	163	None	None	Amphilophus_citrinellus	13A	13	A
+------------------------------------------------------------
+-----------------MILLLF-----LFGLALGAE-SPSD-------------DNKVK
+LQLGNGCPMFWW---------NYNDRCYKYV--ATHMTWADAEIYCLSE--GANLVSVHS
+EDEHNFVKSLIQNF--------DHAGGLTWIGLSDKHK------E-GTWMWSDGCPLH-F
+VNWSPTQPDNE---------G-GNENCGHTNVV----I--DKKWNDYKCDIAL------P
+-SVCATHTTCS-------------------------------------------------
+------------------------------------------------------------
+-
+>ENSACLP00000032643 ENSACLG00000022128	160	None	None	Astatotilapia_calliptera	13A	13	A
+------------------------------------------------------------
+-----------------MILLLF-----LFTL--TAV-SSSD-------------DHRVQ
+LLR-GSCPPFWY---------SFNGRCYKYV--ATHMSWADAELYCVSQ--RANLVSIHS
+REEEEFVKSLIKNF--------DHAERWTWIGLSDIHK------E-GRWMWSDGCAVS-F
+VYWSAGQPNND---------G-KDQHCGHTNVN----K--EKKWNDYQCSLNL------A
+-SVCATQITCP-------------------------------------------------
+------------------------------------------------------------
+-
+>ENSNBRP00000011534 ENSNBRG00000008977	162	None	lactose-binding lectin	Neolamprologus_brichardi	13A	13	A
+------------------------------------------------------------
+-----------------MILLLF-----LFSLALGAP-SESH-------------SDGIQ
+LLR-GSCPMFWF---------SFNGRCYKYV--ATHMSWADAELYCVSQ--RANLVSIYS
+QEEEEFVKSLIKNF--------DHAEQWTWIGLSDLHK------E-GRWMWSDGCAVS-F
+VYWHAGQPDNA---------G-TNEHCVHTNYS----N--LKKWNDYQCSLNL------A
+-SVCATRISCP-------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCARP00000027735 ENSCARG00000012329	139	None	None	Carassius_auratus	13A	13	A
+------------------------------------------------------------
+-----------IMAMLRNLLLLFI------VFSMGNA----------------------D
+--D-EKCPFGWT---------NFGVQCYKFF--SQGVNWITAEKNCQSL--DANLASV--
+---------LIPSS-----------STRCWLGAHDGVQ------E-GQWLWSDGTPYD-Y
+TSWCSNEPNNL-----------NTENCGEINWT----S--NRCWNDISCSTSM------G
+-YICAKDL----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCCRP00000029454 ENSCCRG00000015905	149	None	galactose-specific lectin	Cyprinus_carpio	13A	13	A
+------------------------------------------------------------
+------------MAVLRSLLLLFI------MYSVVNA----------------------N
+--D-EKCPNGWT---------NFGVKCYKYF--SHTVNWITAERTCQTY--DANLASVHN
+KLENDLLLSLMPS------------NIRFWVGAQDGEQ------E-GQWIWSDGSPFD-Y
+TSWCSGEPNNS---------G-NVEHCLELAYS----S--NRCWNDLTCSIQL------A
+-FVCAKNL----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSDARP00000091691 ENSDARG00000038321	151	zgc	zgc	Danio_rerio	13A	13	A
+------------------------------------------------------------
+------------MAMLRNLLLLSV------MFSLGNA----------------------G
+IGT-CQCPYGWS---------KFGVKCYRFI--SQSVTWATAEKNCQSL--GANLASVHS
+KAENDFLLSLIPSS-----------STRCWIGGHDGEN------E-GRWLWTDGSVID-Y
+NNWCATEPNNQ-----------NVENCMEMQWT----V--NRCWNDQACSTSM------G
+-YMCAANL----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSGAFP00000027133 ENSGAFG00000018337	163	None	None	Gambusia_affinis	13A	13	A
+------------------------------------------------------------
+-----------------MILLFL-----LFGLSLAAV-VPSD-------------RQEMK
+LQR-GGCPPFWF---------SFNGRCYKYV--STLMTWADAEQHCVTQ--GANLVSIHS
+QAEENFVKLLIRNF--------DHAEGVNWIGLSDIHK------D-GRYFWSDGSRFN-F
+KLWNAKEPNNS---------G-GPEPCVHTNFG----P--SKGWNDSVCTGKY------S
+-SVCKARPVFCP------------------------------------------------
+------------------------------------------------------------
+-
+>ENSXMAP00000024150 ENSXMAG00000029831	118	None	None	Xiphophorus_maculatus	13A	13	A
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------FRYF--GTFRTWARAERDCLSL--GAQLASVHS
+FLEHHQIQNLISES--------GGGNQETWIGASDAEE------N-SIWFWSDGTIFQ-F
+TSWCGGQPNNA---------G-GKQSCVVMNHS----V--NACWNDEQCTASR------P
+-YVCVKKR----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSELUP00000054229 ENSELUG00000026132	197	None	None	Esox_lucius	13A	13	A
+---MSAGTATVGQQQACILN--------------VQMCGWRI------------NQNL--
+---STCVLRTLAMLTLTVIVLLSA------PFTLAGT--------------------KEG
+SQN-KPCRQGWV---------KFQSRCFQFI--RTPRTWMEAESHCLTL--GANLVSVHS
+PEESRFLLQLT-------------DGSPAWIGGSDAVQA-HFVKN-RQWFWSDGSTFG-Y
+QNWAEGEPNNFN--------R-TREPCIQMNYG----K--EHRWNDNICYRTF------S
+-SVCLLKTC---------------------------------------------------
+------------------------------------------------------------
+-
+>ENSGMOP00000021561 ENSGMOG00000020074	93	None	None	Gadus_morhua	13A	13	A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------CYKYV--TSKLTWADAEIYCRSL--GANLVSIHG
+FSEMTFIDMVIQNY--------DPTKGYHWIGLSDVHK------E-GSWLWSDGSPLD-F
+PSWYPGEPDNL---------E-GGQHCAH-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSNMLP00000005682 ENSNMLG00000004185	169	None	None	Neogobius_melanostomus	13A	13	A
+------------------------------------------------------------
+------------I--IIIILLFL-----LLGVSLGLA-SPSG-----------LSEVKVK
+LVR-GGCPPFWF---------SFKGRCYKYV--SSHLTWADAELYCVSE--RANLVSIHS
+LEEHNFVKSLIQNF--------DHRQGLTWIGLSDTQK------E-G-WMWSDGSPVD-F
+SQWNTGEPNNV---------G-GNEDCALVNFG----S--ELKWNDGTCSDRR------P
+-SVCVLLIHMCPMN----------------------------------------------
+------------------------------------------------------------
+-
+>ENSPMGP00000011891 ENSPMGG00000009845	162	None	None	Periophthalmus_magnuspinnatus	13A	13	A
+------------------------------------------------------------
+---------------FLLLVSLL-----LLGLSLGLA-SPSG-----------LEEV--K
+LVR-GDCPMFWY---------SFNGRCYKYV--ATPLTWADAEIYCVSQ--HANLVSIHS
+LEEDNFVKTLIQNF--------DHRQGQTWIGLSDVHK------E-TAWMWSDGCPVV-F
+DKWSIRQPDNM---------G-GREHCGQICFD----E--EQNWNDHLCSINI------P
+-SVCATRG-C--------------------------------------------------
+------------------------------------------------------------
+-
+>ENSSORP00005002137 ENSSORG00005001293	150	None	None	Sphaeramia_orbicularis	13A	13	A
+------------------------------------------------------------
+----------------------------------DKS-FPTS-----------LYSL--H
+LQR-GDCPPFWF---------NFNGRCYKYV--ATELTWADAEIYCVSQ--RANLVSIHS
+LEEHKFVESLIQNF--------DHAQGQTWIGLSDIHK------E-GTWMWSDGYPVD-F
+VLWDNGQPDND---------Q-GNEHCGLKNYG----E--GLKWNDGVCSKAY------P
+-SVCATRI-LCP------------------------------------------------
+------------------------------------------------------------
+-
+>ENSSFOP00015039501 ENSSFOG00015030748	177	None		Scleropages_formosus	13A	13	A
+------------------------------------------------------------
+-------MGPLSI--S---VLLFT-AL---VLSGGFA-APRA--QEQREKSVIIEGYMEN
+TSATQGCPSGWQ---------KFNSRCFHYI--SQKTSWVHAQIHCIRF--SASLASIHS
+LQEYRFVQNVTRRL--------GNNFPLAWIGGTDAPQ------E-GKWIWVDGTPFD-F
+TKWTPGEPNNR-----------GGENCLEMNFG------DQKLWNDISCKKYN------P
+-SVCARQAS---------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCGOP00000002492 ENSCGOG00000001286	168	None	None	Cottoperca_gobio	13A	13	A
+------------------------------------------------------------
+-----------------MLLFLF-----LFGLALGAV-SPSD-------------EPHVE
+LQR-ASCPMLWY---------SFNGRCYKYV--ATGMTWADAELHCVSE--GANLVSIHS
+RAEEDFVRSLVKNF--------DRHEKYTWIGLSDIHK------E-GRWMWSDGSAVN-Y
+VFWNSGEPNND---------R-GKEHCTHTNFN--------TQWNDVRCSEIY------P
+-CLCISRNLSLPGVGLNVD-----------------------------------------
+------------------------------------------------------------
+-
+>ENSGACP00000008603 ENSGACG00000006508	161	None	None	Gasterosteus_aculeatus	13A	13	A
+------------------------------------------------------------
+-----------------MLLLLF-----LLGLALGAV-CPSD-------------DPPFQ
+LQR-GQCPMFWY---------SFNGRCYKYV--ATQMSWADAEIYCVSL--GTNLASIHS
+LEEQSFIKILIRNS--------DPAEGHTWTGLSDTHK------E-GAWMWSDGSRID-F
+TYWDKEQPDNI---------G--NENCVHTNYL----G--LKKWNDGICYSNL------P
+-FVCASRLSCP-------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCSEP00000013855 ENSCSEG00000008913	170	None	lactose-binding lectin	Cynoglossus_semilaevis	13A	13	A
+------------------------------------------------------------
+-----------------MILHVL-----LFAVFLGAV-SPSG---------------EEN
+LQR-GVCPLFWF---------GYNDRCYKYV--ATPMTWADAELHCLSH--GANLVSMHS
+LDEHTFVRTLIKNF--------DPFERPAWIGLSDTHK------E-GNWMWSDGCPVK-Y
+VLWDVGQPDNR---------Q--VENCGHINNE----S--SKKWNDAKCTYNN------P
+-FVCASRVASCPSLPNEQGAIA--------------------------------------
+------------------------------------------------------------
+-
+>ENSOTSP00005048967 ENSOTSG00005023663	175	None		Oncorhynchus_tshawytscha	13A	13	A
+------------------------------------------------------------
+------------MAMLTILLLLSA------AIVLGEA-FDLR--ATRAGVEEEQQEAGAA
+ESD-HPCPRGWT---------KYGSRCFMFV--NTAMTWARAESYCLSH--RANLASVHN
+CGDNYNLQQLVLKN--------TGQHQTIWIGGVDAVQ------N-KQWFWSDGSKFD-Y
+ENWEQGEPNYY---------G-GREHCLEMNFG----G--DKKWNDLNCEEKL------P
+-LVCALKTC---------------------------------------------------
+------------------------------------------------------------
+-
+>ENSSAUP00010037704 ENSSAUG00010015924	145	None	None	Sparus_aurata	13A	13	A
+------------------------------------------------------------
+------------------------------------------------MAVAALQGANLK
+LLR-GGCPMFWF---------SFNRRCYKYV--AAPLTWADAELYCVSE--GANLVSIHS
+LEEQEFVKTLIKNF--------DHTEGRTWIGLSDIHK------E-GRWMWSDGCAVD-F
+VFWGSGQPNNV---------G-GNEDCVHTNSQ----T--DRRWHDNRCSFTI------S
+-SVCGS------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSHCOP00000003437 ENSHCOG00000004766	161	None	None	Hippocampus_comes	13A	13	A
+------------------------------------------------------------
+--------KPFTC--FS--FLAFC-NH--F-------------------------CFIFA
+FSC-FFCPKGWT---------QLDKYCYSFK--NDPRTFPDAESVCNIL--GGNLVSINS
+AKEHALVVELIREG--------AGSVVDTWIGLHDAIL------E-GDFVWTDGEVVN-F
+KNFGANQPDNN---------G-GNENCVEIEAD----E--YSLWDDDECTDLN------P
+-FVCIRPVDDKDCH----------------------------------------------
+------------------------------------------------------------
+-
+>ENSTRUP00000050755 ENSTRUG00000022122	211	None	None	Takifugu_rubripes	13A	13	A
+--------------------MKTLLVIALVHCVALLVQGAAGELLPLFNSRNRIFFSL--
+---PPRGVKP--------RFCLFVSNKIMNPPYGGAA-APRK--AH----KTDYYFPLSF
+LARFSFCLDGWT---------SFRGSCYYLG--NSADSWANAEDFCGSF--GASLASVHN
+IWEYSFLQRLMKTA--------GHS--FAWIGGY--YF------E-GAWRWEDGTPFD-Y
+DNWDKEDSPDL---------F----QCLQMDSQ----V--GQGWSSHDCSTPF------P
+-FLCKLNPNC--------------------------------------------------
+------------------------------------------------------------
+-
+>ENSTNIP00000003732 ENSTNIG00000001037	157	None	None	Tetraodon_nigroviridis	13A	13	A
+-----------------------LL-----------------------------------
+------------------TLALFLSAALLLQ---GAT-VA--------------ADSVNS
+ARLFSFCLDGWT---------SFRGNCYLLV--NHPDSWANAESFCASF--GANLASVHS
+IWEYEFLQRLLKTG--------GHS--FGWIGGY--YF------E-AAWRWEDGSQLD-Y
+DNWGKVANPDL---------F----QCLQMDSQ----V--GQGWSSHDCSTRF------A
+-FLCQNNPGC--------------------------------------------------
+------------------------------------------------------------
+-
+>ENSBBBP00000008535 ENSBBBG00000016570	172	None		Bison_bison_bison	13A	13	A
+------------------------------------------------------------
+--------MLPSL-GLPRLSWMLLSCLMLLSQVQGEDS--------------------QR
+SER-ISCPRGSI---------AYGSSCYVLY--KVARSWMSANIACQ-RRHSGHLASVLS
+GTEGSFLASLVRNN--------LNTQSDVWIGLHDPTE--GSEPDAGGWEWSSTAMLN-Y
+FAWERIPSTVS-----------GLDHCGILSR-----TSGYLKWKNYNCNVNL------P
+-YICQFKG----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSBTAP00000073451 ENSBTAG00000011314	175	REG3A	regenerating islet-derived 3	Bos_taurus	13A	13	A
+------------------------------------------------------------
+--------MLPSL-GLPRLSWMLLSCLMLLSQIQGEN-SQK----------------ELP
+SAR-ISCPSGSM---------AYRSHCYALF--KTPKTWMDADIACQ-KRPSGHLVSVLS
+GAEESFVASLVRNN--------LNTQSDIWIGLHDPTE--GSEANAGGWEWISNDVLN-Y
+VAWETDPAAIS-----------SPGYCGSLSR-----SSGYLKWRDHNCNLNL------P
+-YVCKFTD----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCHIP00000011441 ENSCHIG00000013598	175	None		Capra_hircus	13A	13	A
+------------------------------------------------------------
+--------MLPSL-GLPRLSWMLLSCLMLLSQVQGEN-SQK----------------ELP
+SPR-ISCPSGSM---------AYRSNCYALY--TTPKTWMDADIACQ-KRHSGHLVSVLS
+GAEESFVASLIKNN--------LNTQSDIWIGLHDPTE--GSEPNAGGWEWSSNDVLN-Y
+VAWETDPAAIS-----------SPGYCGSLSR-----SSGYLKWRDHNCYLNL------P
+-YVCKFTD----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCWAP00000025094 ENSCWAG00000019058	175	None	None	Catagonus_wagneri	13A	13	A
+------------------------------------------------------------
+--------MLPSV-SLPSLSCMLLSCMLLLSQVQGED-SQA----------------DVP
+SAR-NSCPKGSM---------AYASYCYALF--ITPKTWMDADMACQ-KRPSGHLVSVLS
+GAEASFVSSLIKNN--------LNTLSDVWIGLHDPTE--GSEPNAGGWEWSSSDVLN-Y
+VAWEGTPSTNS-----------YPGYCGSLSR-----NTGYLKWRDYNCYVNL------P
+-YVCKFEG----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSDLEP00000021051 ENSDLEG00000015290	176	None	None	Delphinapterus_leucas	13A	13	A
+------------------------------------------------------------
+-------KMMPSM-GVPSLSWMLLSCLMLLSQVQGED-SQK----------------KLP
+SAR-ISCPRGSM---------TYASYCYALF--TTPKTWMNANMACQ-KRSSGHLVSVLS
+GAEGSFVAALVKNN--------LKTVSDVWIGLHDPTE--GSEPNGSGWEWSSTDVLN-Y
+VAWERDPSTNS-----------SPGYCGSLSR-----SSGYLKWRDYNCYVNL------P
+-YVCKFKG----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSMMSP00000012407 ENSMMSG00000009497	175	None	None	Moschus_moschiferus	13A	13	A
+------------------------------------------------------------
+--------MLPSL-GLPRLSWMLLSCLMLLSQVQGEN-FQK----------------ELP
+SPR-ISCPTGSM---------AYRSYCYALF--KTPKTWMNADIACQ-KRPSGHLVSVLS
+GAEESFVASLVENN--------LNTESDIWIGLHDPTE--GSEPNAGGWEWSSTDVLN-Y
+VAWETDPAAIS-----------SPGYCGSLSR-----SSGYLKWRDHNCYLKL------P
+-YVCKFTD----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSOARP00000021808 ENSOARG00000020308	176	None		Ovis_aries	13A	13	A
+------------------------------------------------------------
+-------TMLPSL-GLPRLSWMLLSCLMLLSQVQGEN-SQK----------------ELP
+SPR-ISCPSGSM---------AYRSNCYALY--TTPKTWMDADIACQ-KRHSGHLVSVLS
+GAEESFVASLIKSS--------LNTQSDIWIGLHDPTE--GSEPNAGGWEWSSNDVLN-Y
+VAWETDPVAIS-----------SPGYCGSLSS-----SSGYLKWSDHNCYLTL------P
+-YVCKFTD----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPCTP00005017695 ENSPCTG00005012595	176	None	None	Physeter_catodon	13A	13	A
+------------------------------------------------------------
+-------KMMPSM-GLPSLLWMLLSCLMLLSQVQGEE-SQK----------------KLP
+SAR-ISCPKGSM---------AYASYCYALF--TTPKTWMDADMTCQ-KRPSGYLVSVLS
+GTEGSFVASLVKNN--------LKTTSDVWIGLHDPTE--GSEPNAGGWEWSNDDVLN-Y
+AAWEKNPSHNS-----------NPGYCGSLSR-----SSGYLKWRDYNCYVNL------P
+-YVCKFKG----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSSSCP00000030478 ENSSSCG00000031177	176	None	regenerating islet-derived 3	Sus_scrofa	13A	13	A
+------------------------------------------------------------
+-------MMLPSM-SLPSLSWMLLSCLMLLSQVQGED-SPA----------------DTP
+SAR-ISCPKGSM---------AYASYCYALF--ITPKTWMGADMACQ-KRPSGHLASVLS
+GAEASFVSSLIKNN--------LNALSDVWIGLHDPTE--GLEPNAGGWEWSSSDVLN-Y
+VAWERNPSTSS-----------YPGYCGSLSR-----NTGYLKWRDYNCYVNL------P
+-YVCKFKG----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSTTRP00000002566 ENSTTRG00000002739	166	None	None	Tursiops_truncatus	13A	13	A
+------------------------------------------------------------
+--------IM--------PSMMLRSCLMFLSQVQGED-SQN----------------KLP
+FAR-IRCPKGSM---------AYVSYCYALF--IAPKTWMDADMTCQ-KRPSGHLVSVLS
+GPEGSFVPS-AKNN--------LKLLSDVWIGLHDPTE--GSEPNASGWEWSSTDVLN--
+VAWKRNPATIS-----------NPGYCGSLSK-----STGYLKWRVYNCYINL------S
+-YVCKFKD----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSVPAP00000002244 ENSVPAG00000002432	110	None	None	Vicugna_pacos	13A	13	A
+------------------------------------------------------------
+--------MLPPT-ALASLSWGLLTCLMLLSQVQAEH-ARK----------------DLP
+SAR-ISCPAGSV---------ASGSYCCALF--TTPRSWADAEMACR-KR-SGHLVSVLS
+GAEGSFVASLVKEN--------LNPLSDVWNGRHDPTE----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSFCAP00000028723 ENSFCAG00000035055	176	None		Felis_catus	13A	13	A
+------------------------------------------------------------
+-------MMRPHT-DLPSVSWMLFSCLMLLSQVQGED-SPK----------------EVP
+TPR-ITCPKGSK---------AYASHCYALF--MTPKSWMNADMACQ-KRPSGHLVSVLS
+GAEASFVASLVQNS--------ANTYSNIWMGLHDPTE--GYEPNAGGWEWSSTDVLN-Y
+LAWERHPSTNP-----------NPGYCGSLSA-----STGYLKWRDYNCGAML------P
+-YICKFKD----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSLCNP00005018049 ENSLCNG00005011867	176	None		Lynx_canadensis	13A	13	A
+------------------------------------------------------------
+-------MMRPHT-DLPSMSWMLFSCLMLLSQVQGED-SPK----------------EVP
+TPR-IRCPKGSK---------AYASHCYALF--MTPKSWMNADMACQ-KRPSGHLVSVLS
+GAEASFVASLVQNS--------ANTYSNIWMGLHDPTE--GYEPNAGGWEWSSTDVLN-Y
+LAWERHPSTNP-----------NPGYCGSLSA-----STGYLKWRDYNCGAML------P
+-YICKFKD----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSMPUP00000008456 ENSMPUG00000008521	176	None	None	Mustela_putorius_furo	13A	13	A
+------------------------------------------------------------
+-------MMLPPT-ALHSMSWMLLSCLMFLAQVQGED-SQN----------------DVP
+AQR-ISCPKGSK---------AYASHCYAFF--RTPKSWVDADLACQ-KRPSGHLVSVLS
+GAEASFVASLIKNS--------ANTYSNIWIGLHDPTE--GYEPNAGGWEWSSGDLLN-Y
+LAWEKDPSTIA-----------NPGYCGSVSS-----NTGYLRWKDYSCASGL------P
+-YICKFKD----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSNVIP00000025324 ENSNVIG00000019589	175	None	None	Neovison_vison	13A	13	A
+------------------------------------------------------------
+--------MLPPT-ALHSMSWMLLSCLMFLAQVQGED-SQN----------------DVP
+ASR-ISCPQGSK---------IYASHCYAYF--RTPKSWVDADMACQ-KRPSGHLVSVFS
+GAEASFVASLIKNS--------VNTYSNIWIGLHDPTE--GYEPNAGGWEWSSGDLLN-Y
+LAWEKDPSTIA-----------NPGYCGSVSR-----STGYLRWKDYSCTTRL------P
+-YICKFKG----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPLOP00000003805 ENSPLOG00000002744	175	None	None	Panthera_leo	13A	13	A
+------------------------------------------------------------
+--------MRPHT-DLPSMSWMLFSCLMLLSQVQGED-SPK----------------EVP
+TPR-IRCPKGSK---------AYASHCYALF--MTPKSWMNADMACQ-KRPSGHLVSVLS
+GAEASFVASLVQNS--------ANTYSNIWMGLHDPTE--GYEPNAGGWEWSSTDVLN-Y
+LAWERHPSTNP-----------NPGYCGSLSA-----STGYLKWRDYNCGVML------P
+-YICKFKD----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSMLUP00000022752 ENSMLUG00000023992	177	None		Myotis_lucifugus	13A	13	A
+------------------------------------------------------------
+-----RDTMLPPM-ALPRMSWMLLSCLMLLSQVQGED-TKE-----------------ES
+LPK-ISCPKGSY---------VFRSHCYALF--RTAKTWPDADLTCQ-KRYSGFLASVLS
+GAEASFLASLVKNN--------LNTCDYVWIGLHDPTE--GLEPNADGWEWSNRDVMN-Y
+SAWEKDPASIP-----------TSGHCGSLSQ-----NSGYLFWKDYNCNEKL------A
+-YVCKFKG----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPVAP00000001597 ENSPVAG00000001692	175	None	None	Pteropus_vampyrus	13A	13	A
+------------------------------------------------------------
+--------MLPPM-AFPSLSWMLFSCLVLLSQVQGED-NKK----------------EVS
+SPR-SRCPKGSY---------AFRSHCYALF--MTPKSWNDADIACQ-KRPSGFLVSVLS
+GAEASFLASLVKIN--------LNAYSNIWIGIHDPTK--GYELNAGGWEWSSDDVLN-Y
+LAWERNPATIS-----------NPGYCGSLSR-----NSGYLSWKDYNCSARL------P
+-YICKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSRFEP00010021205 ENSRFEG00010014244	176	None	None	Rhinolophus_ferrumequinum	13A	13	A
+------------------------------------------------------------
+-------MMLSSM-ALPSVSWMLISCLMLLSQVQGQD-PEN----------------KLD
+SPR-RNCPAGSY---------AYRFHCYALF--TTPKSWTEADIACQ-KRPSGNLVSVLS
+AGEASFLASLVKNN--------LKGQSNVWIGLHDPTQ--GYQPNAGGWEWSSNDVLN-Y
+EAWERNPCTIS-----------NPGYCGSLSG-----SSGYLKWKDYQCREKL------P
+-YICKFEN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSMODP00000021055 ENSMODG00000016866	156	None	None	Monodelphis_domestica	13A	13	A
+------------------------------------------------------------
+--------MLPPR-MAPIFSGLLFSCLLLSGLTQGEK-DA----------------SDLP
+SVR-SSCPDGFA---------FHGSYCYGLLGIIEKESWNSAELQCQ-GYRSGHLVSLLN
+QNEADFVATLINEY--------QVVTEPVWIGLHDPNK------NRR-WKWSSNSLFL-F
+QAWADKAPSSD-----------KANTCATLNN-----DTGKRAKH---------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSMEUP00000001642 ENSMEUG00000001801	99	None	None	Notamacropus_eugenii	13A	13	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------GYPSGHLGSLLN
+EAEASFVATMIMEN--------EIGENPVWIGLHDPNK------NHR-WRWSSNALYL-Y
+QAWGTGSPTN-------------SNYCVTLTP-----QSGFQSWKDEPCQKQY------L
+-YLCKFEA----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPCIP00000002337 ENSPCIG00000001932	168	None	None	Phascolarctos_cinereus	13A	13	A
+------------------------------------------------------------
+-----------MV-MTHSFPGMLLACLLLTGLAHGEA-GPA---------------AAAA
+SVR-RSCPEGSK---------AFGSYCYGLFSIA--QTWDNAEMDCQ-SQNSGHLVSLMN
+EAEASFVASLVTEN--------GVSKNPVWIGLYDPNK------NRR-WKWTSNALFT-Y
+QAWAASAPSNS-----------NPGYCVTLTS-----ETGFKNWKDQSCTSKN------Y
+-YICKFKS----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSVURP00010000854 ENSVURG00010000745	170	None	None	Vombatus_ursinus	13A	13	A
+------------------------------------------------------------
+--------MLPLV-MMPSFSGMLLACLLLTGLVHGEA-APA---------------A-VA
+SVR-RSCPEGSK---------AFGSYCYGLFSIA--QTWDAAEVDCQ-SQTSGHLVSLMN
+GAEASFVASLVAEN--------GVNRNPIWIGLYDPNK------NRR-WKWTGNALFT-Y
+QAWATSAPSNS-----------NPGYCATLTP-----ETGFKNWKDQPCTSRN------F
+-YICKFKS----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSEEUP00000010954 ENSEEUG00000012024	148	None	None	Erinaceus_europaeus	13A	13	A
+------------------------------------------------------------
+-----------------------------------DE-SLK----------------EQS
+SPR-INCPTGSK---------LYASHCYALF--LTPKSWMEAELNCQ-KQPSGHLVSVLN
+GFEATFVATLIKSS--------ANSYSYFWMGLHDNSE--GQESNLSGWKWSNNDFTN-Y
+NAWEKTPPTT------------SNSFCGTLTR-----NSGFKKWKDYNCDSAL------P
+-YVCKFKS----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSSARP00000009702 ENSSARG00000010756	106	None	None	Sorex_araneus	13A	13	A
+------------------------------------------------------------
+--------MLL---PMASVAWLVLSCLVLQTQVKGED-LQN----------------EEL
+SPR-ARCPKGSK---------AYGNYCYAFF--KIAKTWMDADSECQ-KRRNGHLVSVLT
+ESEGYFVATLIKNS--------GTTYANVWIGLHD-------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSOPRP00000012250 ENSOPRG00000013433	174	None	None	Ochotona_princeps	13A	13	A
+------------------------------------------------------------
+--------MLLPT-ALPRVSWML-SCLMILSQVQGED-SQS----------------EMG
+SPS-INCPKGTK---------TYGSFCYAVF--TTPKTWMDAELDCQ-KRPLGNLVSVLN
+RAEASFVSSLIRST--------VNSHQFIWLGLSDPTE--ASEPNGGGWEWSSTDLLR-Y
+TAWDTIPSNAK-----------DRGFCASLSR-----SSKFLKWRDYNCDLQL------P
+-YVCKFKY----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSOCUP00000004884 ENSOCUG00000005632	175	None	None	Oryctolagus_cuniculus	13A	13	A
+------------------------------------------------------------
+--------ILLPM-ALPRTSWMLLSCLMLLSHVQGED-VQQ----------------DVA
+SPR-INCPPGSK---------AYGYHCYAVF--VTPKSWMDADLACQ-KRPLGSLVSIHS
+AAEASFVSSLIRRT--------GNSQRNIWMGLHDPTQ--GTESSGEGWEWSSNDLVH-Y
+TAWERNPSTAT-----------DRGYCGSLTY-----ASKFLRWRDFNCDLQL------P
+-YVCKFRY----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSECAP00000016063 ENSECAG00000018356	175	None	regenerating islet-derived protein	Equus_caballus	13A	13	A
+------------------------------------------------------------
+--------MLSTK-ALPSMSWMLLSCLMLLSQVQGED-SQK----------------NLP
+SPR-LSCPKGSN---------AYGSHCYALF--MTPKSWMDADIACQ-KRPSGHLVSILS
+GAEASFVGSLVKNT--------VNTYSYIWIGLHDPTQ--GYEPYADGWEWSSTDVLN-Y
+FAWERDPATVS-----------NPGYCASLSQ-----STGYLKWKDYNCDVKL------P
+-YICKFDA----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCJAP00000015240 ENSCJAG00000062192	166	REG1B	regenerating family member 1	Callithrix_jacchus	13A	13	A
+------------------------------------------------------------
+------------M-AQTNTCFMLISCLMILSLSQGQE-AQT----------------ELP
+KAR-ISCPEGTN---------AYGSYCYY-F-NEDLETWVDADLYCQ-NMHSGNLVSVLT
+QAEGAFVASLIKES--------STDDNSVWIGLHDPKK------NRR-WHWSSGSLVS-Y
+KSWETGAPSSA-----------NAGYCASLTS-----RSGFKKWKDESCEKKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCATP00000018907 ENSCATG00000033260	166	REG1B	regenerating family member 1	Cercocebus_atys	13A	13	A
+------------------------------------------------------------
+------------M-AQTNSCFMLISCLMFLSLSQGQE-TQT----------------ELP
+NAR-ISCPEGAN---------AYRSYCYY-F-NEDPETWVDADLYCQ-NMNSGNLVSVLT
+ESEGAFVASLIKES--------STDDSNVWIGLHDPKK------NRR-WYWSSGSLVS-Y
+KSWDIGAPSSA-----------NAGYCASLTS-----CSGFKKWKDESCEKKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCSAP00000011941 ENSCSAG00000015863	166	REG1B	regenerating family member 1	Chlorocebus_sabaeus	13A	13	A
+------------------------------------------------------------
+------------M-AQTNSCFMLISCLMFLSLSQGQE-TQT----------------ELP
+NAR-ISCPEGTN---------AYRSYCYY-F-NEDPETWVDADLYCQ-NMNSGNLVSVLT
+EAEGAFVASLIKES--------STADSNVWIGLHDPKK------NRR-WHWSSGSLVS-Y
+KSWDIGAPSSA-----------NAGYCASLTS-----CSGFKKWKDESCEKKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSGGOP00000003061 ENSGGOG00000003112	166	REG1B	regenerating family member 1	Gorilla_gorilla	13A	13	A
+------------------------------------------------------------
+------------M-AQTNSFFMLISSLMFLSLSQGQE-SQT----------------ELP
+NPR-ISCPEGTN---------AYRSYCYY-F-NEDPETWVDADLYCQ-NMNSGNLVSVLT
+QAEGAFVASLIKES--------STDDSNVWIGLHDPKT------NRR-WHWSSGSLVS-Y
+KSWDTGAPSSA-----------NAGYCASLTS-----CSGFKKWKDESCEKKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSP00000303206 ENSG00000172023	166	REG1B	regenerating family member 1	Homo_sapiens	13A	13	A
+------------------------------------------------------------
+------------M-AQTNSFFMLISSLMFLSLSQGQE-SQT----------------ELP
+NPR-ISCPEGTN---------AYRSYCYY-F-NEDPETWVDADLYCQ-NMNSGNLVSVLT
+QAEGAFVASLIKES--------STDDSNVWIGLHDPKK------NRR-WHWSSGSLVS-Y
+KSWDTGSPSSA-----------NAGYCASLTS-----CSGFKKWKDESCEKKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSMMUP00000001333 ENSMMUG00000039038	166	REG1B	regenerating islet-derived 1	Macaca_mulatta	13A	13	A
+------------------------------------------------------------
+------------M-AQTNSCFMLISCLMFLSLSQGQE-TQT----------------ELP
+NAR-ISCPEGTN---------AYRSYCYY-F-NEDPETWVDADLYCQ-NMNSGNLVSVLT
+EAEGAFVASLIKES--------STDDSNVWIGLHDPKK------NRR-WHWSSGSLVS-Y
+KSWDIGAPSSA-----------NAGYCASLTS-----CSGFKKWKDESCEKKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSMLEP00000026413 ENSMLEG00000037415	166	REG1B	regenerating family member 1	Mandrillus_leucophaeus	13A	13	A
+------------------------------------------------------------
+------------M-AQTNSCFMLISCLMFLSLSQGQE-TQT----------------ELP
+NAR-ISCPEGAN---------AYRSYCYY-L-NEDPETWVDADLYCQ-NMNSGNLVSVLT
+EAEGAFVASLIKES--------GTDDSNVWIGLHDPKK------NRR-WYWSSGSLVS-Y
+KSWDIGAPSSA-----------NAGYCASLTS-----CSGFKKWKDESCEKKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPTRP00000020783 ENSPTRG00000012113	166	REG1B	regenerating family member 1	Pan_troglodytes	13A	13	A
+------------------------------------------------------------
+------------M-AQTNSFFMLISSLMFLSLSQGQE-SQT----------------ELP
+NPR-ISCPEGTN---------AYRSYCYY-F-NEDPETWVDADLYCQ-NMNSGNLVSVLT
+QAEGAFVASLIKES--------STDDSNVWIGLHDPKK------NHR-WHWSSGSLVS-Y
+KSWDTGAPSSA-----------NAGYCASLTS-----CSGFKKWKDESCEKKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPANP00000015692 ENSPANG00000030123	166	REG1B	regenerating family member 1	Papio_anubis	13A	13	A
+------------------------------------------------------------
+------------M-AQTNSCFMLISCLMFLSLSQGQE-TQT----------------ELP
+NAR-ISCPEGAN---------AYRSYCYY-F-NEDPETWVDADLYCQ-NMNSGNLVSVLT
+EAEGAFVASLIKES--------STDDSNVWIGLHDPKK------NRR-WYWSSGSLVS-Y
+KSWDTGAPSSA-----------NAGYCASLTS-----CSGFKKWKDESCEKKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPPYP00000013661 ENSPPYG00000012250	166	REG1B		Pongo_abelii	13A	13	A
+------------------------------------------------------------
+------------M-AQTNSFFMLISSLMFLSLSQGQE-SQT----------------ELP
+NPR-ISCPEGTN---------AYHSYCYY-F-NEDPETWVDADLYCQ-NMNSGNLVSVLT
+QAEGAFVASLIKES--------STDDSNVWIGLHDPKK------NRR-WHWSSGSLVS-Y
+KSWDTGAPSSA-----------NAGYCASLTS-----CSGFKKWKDESCEKKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSTGEP00000023777 ENSTGEG00000019228	166	REG1B		Theropithecus_gelada	13A	13	A
+------------------------------------------------------------
+------------M-AQTNSCFMLISCLMFLSLSQGQE-TQT----------------ELP
+NAR-ISCPEGAN---------AYRSYCYY-F-NEDPETWVDADLYCQ-NMNSGNLVSVLT
+EAEGAFVASLIKES--------STDDSNVWIGLHDPKK------NRR-WYWSSGSLVS-Y
+KSWDIGAPSSA-----------NAGYCASLTS-----CSGFKKWKDESCEKKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSLAFP00000027922 ENSLAFG00000028709	176	None	None	Loxodonta_africana	13A	13	A
+------------------------------------------------------------
+--------MLPPM-ALFSMSGMLLSCLMLLSQVQGEEDSPK----------------EHS
+SAR-IKCPGGSK---------AYGSYCYALF--LTPKTWVDAEIACQ-KRSSGHLVSVLS
+VAEASFVASVVKSA--------SNTYTNVWIGLHDPTL--GLEPNAGGWEWSSWDVLN-Y
+FAWERDPSTVL-----------NSGHCGSLSR-----NTGFLKWKDYNCDQRL------P
+-YVCQFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCCNP00000004317 ENSCCNG00000004568	174	None	regenerating islet-derived protein	Castor_canadensis	13A	13	A
+------------------------------------------------------------
+--------MLTLM-AIPRVSWMLLSCLMLLSQVQGEE-SQK----------------EQP
+SPR-ITCPKGSQ---------D-ASHYYALF--KTPKSWMDADLACQ-KRPSGHLVSVLN
+GAEASFVSSLVKST--------VNSYQYIWIGLHDPTL--GEEPNGGGWEWSNTDVLN-Y
+LNWERNPFTAS-----------DRGYCGSLSR-----NSGFLKWRDYHCDVQL------P
+-YVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCPOP00000013005 ENSCPOG00000014439	176	None	None	Cavia_porcellus	13A	13	A
+------------------------------------------------------------
+--------MLPST-ALRGMSWALLSCMMLLSQVQAED-SQD----------------KIA
+SPR-ISCPKGSK---------AYGSYCYAFF--KTPKSWVDADLACQ-KRPSGHLTSVLS
+GAEGSFVSSLIQST--------VTSYQYVWIGLHDPTL--GQEPNGGGWEWSSTDVLD-Y
+FNWDRNPSTAS-----------DRGFCGSVSR-----ISGFLKWRDYKCDVQL------P
+-YVCKFKKS---------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCLAP00000009068 ENSCLAG00000006327	176	None	regenerating islet-derived protein	Chinchilla_lanigera	13A	13	A
+------------------------------------------------------------
+-------MMLASM-ALRGMSWMLLSCLMLLSQVQGED-AQD----------------KIL
+SPR-ISCPKGSK---------AYGSYCYALF--KTPKPWIDADLACQ-KRPSGHLASVLS
+GAEGSFVSSLIRSN--------AINYQYVWIGLHDPTL--GLEPNGGGWEWSSTDVLD-Y
+FNWERNPSSAS-----------DRGYCGSVSR-----SSGFLKWRDYSCDVQL------P
+-YVCKFKD----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSDORP00000002470 ENSDORG00000002631	175	Reg3d	regenerating islet-derived protein	Dipodomys_ordii	13A	13	A
+------------------------------------------------------------
+--------MLPPS-TFSSMFWMLLSCLMLLSQVQGED-SQK----------------DAP
+AAR-ISCPKGSQ---------AYASYCYALF--KSPKSWTSADLACQ-KRPSGHLVSVLS
+GAEASFVSTLVKNT--------ATTYQYVWMGLHDPTL--GEEPNADGWEWSNSDVLN-Y
+LNWERNPSIYA-----------DRGYCGSLSR-----NSGFLRWRDYNCDTQL------P
+-YVCKFKG----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSSTOP00000001487 ENSSTOG00000001662	121	None	None	Ictidomys_tridecemlineatus	13A	13	A
+------------------------------------------------------------
+--------MLSTL-PLPSMSWMLLPCLMLLSQVQDEI---------------------PL
+PLS-LSGPKGSK---------VSGSLLFSCF--TT------MQLACQ-KWSEGHLVSVLS
+EAEAQFLSSLVKSS--------VNSYQYVWIGTLHLP-----------SCWSSTDVLN-Y
+ANWERNPSTA--------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSMUGP00000018787 ENSMUGG00000015934	175	Reg3b	regenerating islet-derived protein	Meriones_unguiculatus	13A	13	A
+------------------------------------------------------------
+--------MLPRT-ALVSTSWRLLCGLMLLSQVQGED-SLK----------------EIP
+SPR-LSCPAGSR---------AYGSYCYTLF--RIPQSWFDAELACQ-KRPSGHLVSVLS
+GAEASFVSSLVKST--------GNTYQYIWIGLHDPTL--GEEPNGGGWEWSNNDVMN-Y
+FNWERNPSNCL-----------DRGFCGSLSR-----ASGFLKWRDNICDMKL------P
+-YVCKFKD----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSMAUP00000013481 ENSMAUG00000013518	174	Reg3gamma	regenerating islet-derived protein	Mesocricetus_auratus	13A	13	A
+------------------------------------------------------------
+--------MLRSM-ALTRMSWMLLSCLMFLAYVQGQD-VEE----------------DVP
+SSR-ISCPKGSR---------AYGSYCYALF--RINKSWFDADLACQ-KRPSGHLVSVLS
+GSEASFVSSMVKSS--------VNSGPDVWIGLHDPTL--GQEPNGGGWEWSNADVMN-F
+FNWEISPSST------------SGGYCGSLSR-----NSGFLKWRDSYCNMQL------P
+-YVCKFKA----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSMOCP00000000123 ENSMOCG00000000127	175	Reg3b	regenerating islet-derived protein	Microtus_ochrogaster	13A	13	A
+------------------------------------------------------------
+--------MLSRI-ALTSMSWMLLSCLMLFSQVQGED-SPK----------------EAP
+SPR-ISCPQGSR---------AYGSYCYALF--RIPQTWFDAELACQ-KRPLGHLVSVLT
+GAEASFVSSLVKST--------GNSYSYVWIGLHDPTL--GEQPNGGGWEWSNTDVMN-Y
+LNWERNPSTAL-----------DRGFCGTLSR-----ASGFLKWRDNTCEMKL------P
+-YVCKFSG----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSMUSP00000098829 ENSMUSG00000079516	175	Reg3a	regenerating islet-derived 3	Mus_musculus	13A	13	A
+------------------------------------------------------------
+--------MLPHL-VLNSISWMLLSCLLFVFQVQGED-FQK----------------EVP
+SPR-TSCPMGYK---------AYRSHCYALV--MTPKSWFQADLVCQ-KRPSGHLVSILS
+GGEASFVSSLVNGR--------VDNYQDIWIGLHDPTM--GQQPNGGGWEWSNSDVLN-Y
+LNWDGDPSSTV-----------NRGHCGSLTA-----SSGFLKWGDYYCDGTL------P
+-FVCKFKQ----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSODEP00000015006 ENSODEG00000011079	175	None	regenerating islet-derived protein	Octodon_degus	13A	13	A
+------------------------------------------------------------
+--------MLPST-ALRGTAWVLLSCLMVLSQVQGED-SKG----------------KNA
+APR-ISCPKGSN---------AYGSHCYAVF--RTAKSWFEADLACQ-KRPQGHLASVLS
+GAEGSFLSSLIKSN--------GISSTYVWIGLHDPTL--GLEPNAGGWTWSSTDVLD-Y
+FNWERNPSISS-----------DRGYCGTVTR-----NSGFLRWRDYNCDAQL------P
+-YVCKFEK----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPEMP00000007347 ENSPEMG00000009322	175	Reg3b	regenerating islet-derived protein	Peromyscus_maniculatus_bairdii	13A	13	A
+------------------------------------------------------------
+--------MLSRR-ALASLSWMLLSCLMLLSQVQGED-SPK----------------EVP
+SPR-ISCPAGSR---------AYGPYCYALF--RIPQTWFDAELACQ-KRPSGHLVSVLS
+GSEASFLSSLVKST--------GNSYQYIWIGLHDPTL--GEQPNGDGWEWSNSDVMN-Y
+FNWERNPFTAL-----------DRGFCGSLSR-----ASGFLKWRDNICDMKL------P
+-YVCKFSG----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSRNOP00000008665 ENSRNOG00000006579	174	Reg3g	regenerating family member 3	Rattus_norvegicus	13A	13	A
+------------------------------------------------------------
+--------MLPRV-ALTTMSWMLLSSLMLLSQVQGED-AKE----------------DVP
+TSR-ISCPKGSR---------AYGSYCYALF--SVSKSWFDADLACQ-KRPSGHLVSVLS
+GSEASFVSSLIKSS--------GNSGQNVWIGLHDPTL--GQEPNRGGWEWSNADVMN-Y
+FNWETNPSSV------------SGSHCGTLTR-----ASGFLRWRENNCISEL------P
+-YVCKFKA----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSAOWP00000006942 ENSAOWG00000004782	201	None	None	Apteryx_owenii	13A	13	A
+-------------------------------------MDWRSYWGLCLLGGLLLAPSLQG
+ECPPRRRQPRVSAGTGQPCRCPLASQRPLRC-------------------------PPAG
+EER-AGCAKGWF---------PFDGRCYGFF--PQELSWRRAEGFCQRLGTRTHLASIHS
+EEEHQAIISMLASSQPYSDSEEEEADDEVWIGLHRPLG--R-----RNWEWSDGTKMD-Y
+GSWYREV---F---------S-RRRACAALED-----TTDFATWDIELCSDRK------P
+-FICEYRI----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCPUP00000018637 ENSCPUG00000012800	298	None	outer dense fiber of sperm tails	Calidris_pugnax	13A	13	A
+----------------------------------------------MGCGGLSTPPSC--
+-CRPSPGKG--QMGATRTLRLSLLGCLLLTP-------------------------RLHG
+QEA-AACPSGWV---------SFEEGCYGFF--PQELSWRRAEAFCRRFGVGTHLASVHS
+EEEHGAIATMLSSSHPAEGSEEGDKDNGVWIGLHRPRR--S-----KYWQWSDGSEVD-Y
+GSWHQQE--HG---------S-RRRVCAALQD-----STGYHLHDPSRN--RA------P
+--AYSFGVRAGGQQPERSPGPAYLVPPGTTTKGKDGIPAYSIHGRPHDLPPFRTPGPGCY
+SPERAGRLTLPCAPACSLRSRGRQFTTEETPGRRDGGRDGPPSTPGWAAITPGLRPPSPM
+G
+>ENSJHYP00000004863 ENSJHYG00000003999	159	None	None	Junco_hyemalis	13A	13	A
+------------------------------------------------------------
+------------MAAAARLALLLLGCAGLLR-------------------------PLDG
+RYI-GYCPDGWS---------YFYLSCFKYF--SEPLSWDEAERRCQDVQKGAHLAWVEN
+AHEAATLRRTISY---------HQRAQPVWIGLQKSRE--S-----QAWQWTNGEDYS-T
+TGEVPG---NG---------A-RGGSCAALTH-----DSDFSVWSSADCSQKH------H
+-YICKFYPLR--------------------------------------------------
+------------------------------------------------------------
+-
+>ENSSPUP00000000283 ENSSPUG00000000281	148	None	None	Sphenodon_punctatus	13A	13	A
+------------------------------------------------------------
+------------MGPVAYVSLLLFGFLISNP-----------------------F--LGA
+VGA-DTCAREWL---------QYQGNCYGYF--DEKMTWEEAEIECQSYARGAHLASVLT
+RAETLVVAQHISTY--------QVDLSDVWIGLHDIRQVSN-----GKWRWADESSYN-Y
+QVWMTGTPNNV---------G-K--------------------WNDASCKKQN------S
+-YICKHEL----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSACAP00000021966 ENSACAG00000029001	107	None	C-type lectin	Anolis_carolinensis	13A	13	A
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------MECQSYGSKAHLASILS
+AEETDFIAKHISTY--------QHETSSVWMGLYDPRQ--T-----GKWNWSDGSIYN-Y
+MAWARGQPDFL---------H-GPEYCVELNL-----FTGFKQWNNNNCKKMN------T
+-YICKIKL----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPVIP00000031705 ENSPVIG00000023309	161	None	C-type lectin	Pogona_vitticeps	13A	13	A
+------------------------------------------------------------
+--------------ILHWLLVLHYFVLFSHP-----------------------LSSLST
+AEA-DTCAREWL---------QNQGNCYAYF--DHQLSWQEAEIECQSYGRGAHLASVLT
+KAETLLVAEHIATY--------QKQPSNVWIGLHDVRQ--T-----RKWRWADESTYN-Y
+KAWMIGEPDNY---------G-QNEHCVELVF-----YTGFTQWNDAECKKRN------A
+-YICKHEL----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSVKKP00000000658 ENSVKKG00000000582	121	None	None	Varanus_komodoensis	13A	13	A
+------------------------------------------------------------
+------------------------------------------------------------
+----DPCPRAWL---------QYQGNCYGFF--HKKLTWHEAEIECQSYGRGAHLASVLT
+RAETLLVAEFIFTY--------QKTRSDVWIGLHDSRL--T-----RKWRWADESPYN-Y
+KSWMPGEPNNL---------G-NMEYCVELRQ-----STGKQAIFRV-------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCABP00000004029 ENSCABG00000003040	166	None	None	Chelonoidis_abingdonii	13A	13	A
+------------------------------------------------------------
+--------MTAGSSAPILFSETASHHTVLFP---------LP-----------IPSLGSG
+IGA-TSCPPEWL---------FYQGHCYAFF--PE-------EVQCQYHRKGAHLASIIT
+KAEGNTVARYITES---------GATGHVWIGLHDPRQ--VSAQS-LRWTWTYGSLYR-Y
+SRWNVGEPYNL---------N-DSEYCIELLK-----GTGFKNWNDQVCNRKN------G
+-YVCKYGL----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSGAGP00000002084 ENSGAGG00000001663	198	None	None	Gopherus_agassizii	13A	13	A
+------------------------------------------------------------
+--------MTTDISASILFSETASPRNVLSP---------HP-----------NSSLGSG
+VEA-TSCPNDWL---------YYHDHCYGFF--PEKTTWSEAEVECHYQHKGGHLASILS
+EAEGDLVARYISQS---------GSKDDVWIGLHNPRH--N-----KRWRWTDGSLYH-Y
+SAWNPGEPNNL---------G-NIEYCTELLN-----FRGKQML-KRTCTSNG------A
+-KTGPWPHP---PPL----STD-----MASCPGTLPLS-LSSHCHSAEIIP---------
+------------------------------------------------------------
+-
+>ENSPSIP00000012425 ENSPSIG00000011069	144	None	C-type lectin	Pelodiscus_sinensis	13A	13	A
+------------------------------------------------------------
+-----------------------------------------------------------G
+AIK-SARSPDWIGDKLHSLSPWLGSHCYGYY--RDSVTWLAAEVQCENHHPGAHLASILN
+DAERDALGQYLSKM---------TS-GDVWIGLHNPCK--G-----KTWLWSDGSRFH-Y
+TTWVPNEPNNL---------G-GKEYCGEVYA-----STGYKNWNDIPCEKKN------T
+-YVCKY------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPCEP00000020745 ENSPCEG00000016025	136	None	None	Pelusios_castaneus	13A	13	A
+------------------------------------------------------------
+------------MGPVASFSLCLLV-FLIFN---------P---------------WLEG
+TWA-TSCPREWL---------HYEGHCYGVF--PEKRTWSDAEVECQTHRLGAHLASILS
+KAEGDTVANYIITS---------GFRDNIWIGLRDSHQ--N-----GRWKWTDGSLYH-Y
+SAWESKQPDNE---------Y-GVEYCAGLRI----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSATEP00000025735 ENSATEG00000017853	162	None	lactose-binding lectin	Anabas_testudineus	13B	13	B
+------------------------------------------------------------
+-----------------MLLFLF-----FFALALAAV-SPAD-------------VPASQ
+LQR-GNCPPFWF---------SFRGRCYKYV--STRMTWAEAELYCVSE--RANLVSIHS
+LEEENFVKSLIKNF--------DHAQGYSWIGLTDIHK------E-GSWMWSDGCPVK-F
+VYWDAREPNNS---------G-RKEHCGHVNHG----T--AKKWNDQPCSDLY------T
+-SVCASRILCR-------------------------------------------------
+------------------------------------------------------------
+-
+>ENSSDUP00000009768 ENSSDUG00000007185	162	None	lactose-binding lectin	Seriola_dumerili	13B	13	B
+------------------------------------------------------------
+-----------------MILLLF-----LFGLTLGAE-SPSD-------------EHEGK
+LQR-GNCPMFWF---------SFNGRCYKYV--ATHMSWADAELHCVSE--KANLVSIHS
+LNEHNFVRSLIKNF--------DHGEGLTWIGLSDIHK------E-GRWMWSDGCAVK-F
+TLWCVGQPDNN---------G-GSQHCVVNKDL----S--DQKWNDGRCSLTI------P
+-SVCASRINCP-------------------------------------------------
+------------------------------------------------------------
+-
+>ENSAMXP00000054743 ENSAMXG00000038934	110	None	None	Astyanax_mexicanus	13B	13	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------MDWAGAEAHCINL--GGNLVSVHS
+ENEYQMVKALIRTY--------DPKEKSTWIGLSNCQK------K-NSWVWSDGSRYG-Y
+SKWNPREPNHK---------L--GECCVHINDS----S--QKNWNDIPCKNKY------P
+-FVCVRRL----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSACIP00000026149 ENSACIG00000020271	163	None	None	Amphilophus_citrinellus	13B	13	B
+------------------------------------------------------------
+-----------------MIFLAI-----LFGLALGAV-SLSD-------------NQEVK
+LQR-GDCPKFWY---------YFNGTCYKYV--GSHMTWADAEFNCVSQ--KANLVSVHS
+LEEYEFIQFLIENF--------DPTQGHTWIGLSDIHK------E-GRWMWSDGSAVD-F
+AIWSPGQPDNY---------T-DGEHCVHTNFG-------EQKWNDIKCYDSY------S
+-SVCAYRIACPCS-----------------------------------------------
+------------------------------------------------------------
+-
+>ENSHBUP00000018152 ENSHBUG00000020232	149	None	None	Haplochromis_burtoni	13B	13	B
+------------------------------------------------------------
+--------------------------------------DHRV-------------KLLVQ
+LLH-GNCPMFWY---------NFNGRCYKYV--AAHMSWADAELYCVSQ--GANLVSIHS
+REEENFVRTLIKNF--------DHTEGITWIGLSDLHK------E-GRWMWSDGCAVR-F
+VHWYPQQPDNW---------K-GIEHCGHMNYS----N--VKKWNDFPCSVIS------P
+-SVCATRITCPKT-----------------------------------------------
+------------------------------------------------------------
+-
+>ENSMZEP00005009715 ENSMZEG00005007353	149	None	None	Maylandia_zebra	13B	13	B
+------------------------------------------------------------
+--------------------------------------DHRV-------------KLLVQ
+LLH-GNCPMFWY---------NFNGRCYKYV--AAHMSWADAELYCVSQ--GANLVSIHS
+QEEENFVRTLIKNF--------DHTEGITWIGLSDLHK------E-GRWMWSDGCAVR-F
+VHWCPQQPDNW---------K-GIEHCGHMNYS----N--VKKWNDFPCSVIS------P
+-SVCATRITCPKT-----------------------------------------------
+------------------------------------------------------------
+-
+>ENSNBRP00000011571 ENSNBRG00000009018	151	None	None	Neolamprologus_brichardi	13B	13	B
+------------------------------------------------------------
+-----------------IILFLL-----LFP---------KS-------------DHGAK
+LLR-GNCPTFWY---------SFNGRCYKYV--SASMAWADAELHC-----GANLVSIHT
+SDEESFVRSLFGNS--------DLTQAPTWIGLSDVHR------E-GRWMWSDVSVVH-F
+SNWLAGEPNNL---------G-KNEHCVQNNFG----P--VKKWNDEPCSRGY------P
+-CVCVKRNACV-------------------------------------------------
+------------------------------------------------------------
+-
+>ENSONIP00000066834 ENSONIG00000036498	171	None	lactose-binding lectin	Oreochromis_niloticus	13B	13	B
+------------------------------------------------------------
+-----------------MILLLF-----LFSLTLGAP-SDSP--SDDNEVKPQLDGRAVK
+LLR-GSCPMFWW---------NFNGRCYKYV--ATHLSWADAELYCLSQ--GANLVSIHN
+TEEENFVRSLISNF--------DHEQRPTWIGLSDIHK------E-GRWMWSDGSVVG-F
+VNWNAGEPNNV---------A-GKEHCVVNNFS----S--PKKWNDYPCSHSF------S
+-SVCLKRKD---------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPNYP00000003810 ENSPNYG00000002967	162	None	None	Pundamilia_nyererei	13B	13	B
+------------------------------------------------------------
+-------MLLLLL--LFMILFLF-----LFLFSL-------G-------------NQTVK
+LLR-GNCPMFWY---------SFNGRCYKYV--ATHMTWADAELYCVSE--KANLVSIYS
+EEEEEFVKSLIKNF--------DHAEGRTWIGLSDLHK------E-GRWMWSDGCAVS-F
+VYWHARQPDNE---------G-GAEHCGHNNYD--------TKWNDVPCSRTY------A
+-SVCATRVACP-------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCHAP00000046016 ENSCHAG00000021329	148	None	None	Clupea_harengus	13B	13	B
+------------------------------------------------------------
+------------------------------------M-WGL-------------SACMFC
+SRI-PKCPAGWQ---------QYGERCFRFI--DTARTWAEAERFCLLQ--GGNLASVHS
+LSEYNFIQGLIVTL--------THGTPLTWIGGSDAQQ------V-RLWLWSDGSRFGAF
+LHWGPGEPNNA---------G-GAEHCLHMNN-----G--DLHWNDHYCSYTY------P
+-SVCTRRLISV-------------------------------------------------
+------------------------------------------------------------
+-
+>ENSDCDP00000011777 ENSDCDG00000006636	198	None	galactose-specific lectin	Denticeps_clupeoides	13B	13	B
+MRLFTLNQTHSGTDTPCRFSFETIVS---LVCNEY---GWRKTYKMRWWPSAHLHLLL--
+---QRDCSRRITM--TALRVLLIC-CIVFMPIVKAGE-----------------------
+-EPSEPCAKDWV---------LHGTRYFKLF--TTAADWAVAERACQSN--GGHLASIHS
+AEEHRFLAGLVKKV--------GN--ISVWIGGSDAVK------V-GTWFWSDGSKWD-F
+AEWASGEPNNG---------G-QKQHCAQLWGE----R----T---------F------P
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCARP00000064678 ENSCARG00000028919	152	None	galactose-specific lectin	Carassius_auratus	13B	13	B
+------------------------------------------------------------
+------------MAMLRSLLLLFI------VFSMGKA----------------------E
+--V-KKCPYGWT---------HFGVRCYKFF--SQAVNWVTAERKCQSL--DANLASVHS
+KIEQDFLLSLLPS------------TTQCWIGTHDAEQ------E-GEWLWTDGTPFD-Y
+TYWAPGQPDNK-----------KTENCGELTYNYYGQS--YDRWNDVPCLTEQ------G
+-YVCAKYL----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSSGRP00000041497 ENSSGRG00000022557	152	None		Sinocyclocheilus_grahami	13B	13	B
+------------------------------------------------------------
+---------------------------------MPNF-YSI-------------FFAESS
+DIG-RKCPKGWE---------KFGTQCFKYF--SDLKPWAEAEKQCVGL--GGNLASIHS
+QLAHNFLKTLVIKH--------GNDNSRAWIGAHDAIK------E-DIWFWSDGSAFE-Y
+SDWHTGEPSNG---------G-GNERCVEMGYG----G--EKRWNDAHCDTLL------N
+-FICYRTTKIHF------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCVAP00000007359 ENSCVAG00000009007	123	None	None	Cyprinodon_variegatus	13B	13	B
+------------------------------------------------------------
+-----------------MILFLI-----LFALALGSV-STSS-------------EPEIR
+LER-GTCPMSWY---------SFNGRCYKYV--ATRMTWAEAELHCVSE--GANLVSVHS
+SAEYDFVKSLIKNF--------DTAEGRTWIGLSDIHK------E-GGWMWSDGFPFC-S
+SSSRSSSH-----------------H----------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSFHEP00000009963 ENSFHEG00000011232	146	None	None	Fundulus_heteroclitus	13B	13	B
+------------------------------------------------------------
+-----------------MLLLY----------------------------------IFMK
+LLR-GGCPEFWY---------SFNDRCYKYV--ATLMTWGDAEQHCVSQ--GANLVSIHS
+LQEENFVKRLISNF--------DPAQKSNWIGLSDAQK------D-GTFFWSDGSKLS-F
+TYWDAGEPNNY---------K-GPEPCVKTNRG----L--AKKWNDVPCNWKL------S
+-FVCKARPAC--------------------------------------------------
+------------------------------------------------------------
+-
+>ENSKMAP00000002263 ENSKMAG00000001737	169	None	None	Kryptolebias_marmoratus	13B	13	B
+------------------------------------------------------------
+---------IISS--HFNMMMFV-----FFILALAAV-SPAA-------------GQDPE
+LQH-SNCPMFWS---------SFNGRCYKYV--ATQMTWVDAELHCVSQ--RSNLVSVHS
+LEEHNFVNFLIKNF--------DPAQRFTWIGLTDLYK------E-GAWMWSDGSKVN-F
+QHWDQGQPDNR---------N-KVEHCVHTNMV----T--NHKWNDHQCSETF------P
+-FVCAFLLISAG------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPREP00000005162 ENSPREG00000003607	162	None		Poecilia_reticulata	13B	13	B
+------------------------------------------------------------
+-----------------MILLFL-----LFGLSLAAV-VPSD-------------RQEMT
+LQR-GGCPPFWF---------IFNGRCYKYV--ATLMTWADAEQHCVTQ--GANLVSIHS
+LEEENFVKMLIRNF--------DHAEGANWIGLSDAQK------D-GTYFWSDGSRFN-F
+KLWNAGEPNNS---------G-GSEPCVHTNWD----S--AKRWNDKVCTDKF------S
+-SVCKARLDLQ-------------------------------------------------
+------------------------------------------------------------
+-
+>ENSXMAP00000034475 ENSXMAG00000023006	162	None		Xiphophorus_maculatus	13B	13	B
+------------------------------------------------------------
+-----------------MILLFF-----LFGLSLAAV-APSD-------------KQEMK
+LQR-GGCPPFWF---------SFNGRCYKYV--ATLKTWADAEQHCVNQ--GANLVSIHS
+LEEENFVKLLIKNF--------DPTQGVNWIGLSDAQK------D-GTYFWSDGSTFN-F
+NFWNTGEPNNA---------G-GSEPCVHTNSG----P--ARKWNDKVCTDAH------S
+-FVCKLRPYCQ-------------------------------------------------
+------------------------------------------------------------
+-
+>ENSELUP00000006415 ENSELUG00000007318	160	None	None	Esox_lucius	13B	13	B
+------------------------------------------------------------
+-------------MTLTVLLLLCA------SIALGDT-H---------------PVQSSD
+WYK-YGCPLGWN---------TYGSRCFKYV--KAKRSWADSALNCMAL--GGSLASVHS
+LLEYKFIQALILET--------TGKLPSTWLGGYDAVV------E-GRWMWSDGSSFD-Y
+TNWNTGEPNDA---------G-VGEDCLQMDAS----Q--EKSWFDVPCKYAF------A
+-SLCSRRM----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSNMLP00000005531 ENSNMLG00000004062	155	None	None	Neogobius_melanostomus	13B	13	B
+------------------------------------------------------------
+-----------------VLINLF-----------------LC-----------ESAVKVK
+LER-GSCPLFWF---------SFQGRCYKYV--SSRLTWADAELHCVAE--QANLVSIHS
+MEEHKFVKSLIENF--------DHRQGCTWMGLSDTHK------E-RAWMWSDGCPVT-F
+LLFGSEQPDNE---------G-GNEHCGEIHGN----L--ERNWNDQPCSVTL------P
+-SVCASRIPVCPR-----------------------------------------------
+------------------------------------------------------------
+-
+>ENSEEEP00000032477 ENSEEEG00000015483	141	si	si ch211-125e6	Electrophorus_electricus	13B	13	B
+------------------------------------------------------------
+-----------VMVMWKVCLLLCL---------------------------------LLD
+TVH-SNCPHQWT---------LYGRRCYRFF--TSRLTWYEAECACVNN--GGSLASVHS
+VAEYKFLQTLVKRV--------SGFLAVSWLGGYDNLS----VQE-GHWLWSDGSKVN-F
+NYWVSNQPDNY---------N-GMENCLEMNYG----E--KLYLRHFMF-----------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSMMDP00005022417 ENSMMDG00005010885	174	None	galactose-specific lectin	Myripristis_murdjan	13B	13	B
+------------------------------------------------------------
+---------ILTL--RPMLLLLC-----FLSLALGAA-SSST-------------DHEVR
+LER-GSCPMFWY---------SFNGRCYKYV--ATRMTWADAELHCVSE--GANLVSLHS
+LDEHNFVIHLIKNF--------DPEQGSTWIGLSDLHK------E-GRWMWSDGSKVN-F
+TFWHSGQPDNI---------Q-GTEHCGEIHIG----T---IRWNDNICSTPH------S
+-FVCASRTVCPNNCNSLG------------------------------------------
+------------------------------------------------------------
+-
+>ENSSORP00005002152 ENSSORG00005001305	161	None	None	Sphaeramia_orbicularis	13B	13	B
+------------------------------------------------------------
+-----------------MLLFIF-----LTVLALGAT-SPSG-----------DGEV--K
+LQR-GNCPQFWF---------SFDGRCYKYV--ATHATWADAELYCVSQ--RANLVSIHS
+H-EHDFIQTLIQNF--------DHAQGWTWIGLSDIHK------E-GTWMWSDGCPVD-F
+VLWENGQPDNA---------H-EIEHCVHKNFG----E--SLKWNDDACSETF------P
+-SVCATRI-LCP------------------------------------------------
+------------------------------------------------------------
+-
+>ENSLBEP00000032608 ENSLBEG00000024571	161	None	lactose-binding lectin	Labrus_bergylta	13B	13	B
+------------------------------------------------------------
+-----------------MQLFLF-----LFALALGAV-SPSD-------------QDQTR
+LQR-AGCPMFWY---------NFNGRCYKYI--STPTTWADAELYCLSL--RANLVSIHS
+LEEKNFVKLLIKNY--------DHSERWTWIGLSDIHK------E-GNWMWSDGCQAK-Y
+FFWASGQPDNA---------N--GEHCVHYNLG----I--DLKWNDLPCSHLA------P
+-SVCASRINCP-------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPKIP00000011810 ENSPKIG00000018754	175	None	None	Paramormyrops_kingsleyae	13B	13	B
+------------------------------------------------------------
+------MAHTITV---ALLLCLL--P--LFGYGVEGQ-LRQ----------QTASTLDTG
+FCK-ATCPPGWI---------NFKNRCFKYI--AVGKTWIDSELNCLSS--GGNLASIHS
+EEEFQFIKALIKSR--------DSAENPTWIGLTDSSK------E-GTWLWTDGSKVD-F
+TKWNSGEPNNV---------N-GGENCVHTNWS----GKGEKGWNDIACNSFY------A
+-FVCARHSGM--------------------------------------------------
+------------------------------------------------------------
+-
+>ENSSFOP00015012937 ENSSFOG00015008346	159	None	None	Scleropages_formosus	13B	13	B
+------------------------------------------------------------
+--------------------SIYI-PL---IL------------------NELLPTPMGN
+TSATQGCPSGWH---------RFKSRCFHYV--SQRTSWARAQIHCIHL--GGSLASIHS
+LQEYHFVQNVTRGL--------GNNFPVAWIGGTDAPQ------R-KIWLWIDGTPFD-F
+NKWAPGQPDDG---------LFYKENCLEMNFR----GNPQKLWNNAYCTKSN------P
+-SVCARQASS--------------------------------------------------
+------------------------------------------------------------
+-
+>ENSGACP00000008102 ENSGACG00000006123	162	None	None	Gasterosteus_aculeatus	13B	13	B
+------------------------------------------------------------
+------------M--ERLPLFTF--C--FVAIHFGLY-NKY--------------TNVTY
+LQR-GQCPMFWY---------SFNGRCYKYV--ATSVSWADAEIRCVAD--GANLVSIHS
+LQEQMFVENLIKNF--------DPAYGRTWIGLSDIHK------E-GAWMWSDGSKVD-Y
+TYWGPGEPNNS---------R-GREHCVEINDP----G--TVKWNDHFCSYNV------P
+-FVCASHL----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCSEP00000013837 ENSCSEG00000008902	162	None	None	Cynoglossus_semilaevis	13B	13	B
+------------------------------------------------------------
+-------------------MFLL-----LFTLALGAA-SASN--SSA------SSEPVNI
+LQR-GGCPLFWF---------SFNSRCYKYV--STHLAWADAELYCVSE--GANLVSIHS
+TEEQSFVRSLVQNF--------DHAEGWTWIGFSDIHK------E-GSWMWSDGCPAK-F
+L----GEPNNG---------G-GIENCGHTNFG----T--AKNWNDYPCHYKF------P
+-SLCATRLASCP------------------------------------------------
+------------------------------------------------------------
+-
+>ENSSMAP00000020722 ENSSMAG00000012688	164	None	None	Scophthalmus_maximus	13B	13	B
+------------------------------------------------------------
+-----------------MIAFLF-----LLGLALGAV-SPSD-------------EQEVK
+LLR-GNCPVFWY---------SFDGRCFKYV--ASHMTWADAELQCVSE--GANLVSIHN
+GEEQTFIKYLIKNF--------DPAEGSTWIGLSDLHK------E-GSWMWSDGSAVD-F
+VFWTEQQPDNS---------G-GAENCVHTNYD----T--SLKWNDIPCSLKR------S
+-FVCATGKVGICN-----------------------------------------------
+------------------------------------------------------------
+-
+>ENSHHUP00000053425 ENSHHUG00000032085	157	None	None	Hucho_hucho	13B	13	B
+------------------------------------------------------------
+-----------NY-------EKN--T--VAELTLGYV-AIPP-------------LSRMA
+LSR-KSCSMGWY---------DFNGRCYKYV--ATRLDWADAESYCVTQ--GANLASVHS
+EAEHQFIKTLIKMF--------DSLEFYTWIGLSDIVK------E-GRWMWTDGSKVD-F
+TNWFKSDPDGG-----------EAQNCVNTNYQ--------TLWIDNECSEGY------A
+-FVCAERLC---------------------------------------------------
+------------------------------------------------------------
+-
+>ENSSTUP00000002687 ENSSTUG00000001386	156	None	None	Salmo_trutta	13B	13	B
+------------------------------------------------------------
+-------------------MLFN-------------------------GI----SLPPTE
+WHH-RVCPKGWH---------RYKTHCYRYV--PIMTTWPKAERKCLLL--GGNLASVHS
+LPQYRFLQSVIRKS--------TRKVQRTWIGANDAIE------E-GLWLWSDGSRFN-Y
+QNWGPGQPSNYNHGVIKDNTN-GREHCMEMNYG----A--SRCQNDAPCWFTF------P
+-FLCSRKR----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSLOCP00000000741 ENSLOCG00000000672	147	None	None	Lepisosteus_oculatus	13B	13	B
+------------------------------------------------------------
+------------M--KCLLSALL--CI---LLTLSV--------------------VTGT
+YDCQCTCPTGWM---------KFNGFCYKFF--TERMTWADARHHCHQL--RSLLPSVPD
+EHVNTFLLNLIRSE--------DNREHSVWLGGTDCRK------E-GMWTWADGTPWN-Y
+TLWATGEPKNY---------Q--QEHCLQLNWK----GN--K----PACNIL-------H
+-CFC--------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSMAMP00000015004 ENSMAMG00000010184	162	None	C-type lectin mannose-binding	Mastacembelus_armatus	13B	13	B
+------------------------------------------------------------
+-----------------MILFLV-----MFGLALGAE-STSP-------------GSGVK
+LQR-LSCPMFWY---------SFNERCYKYV--ATHMTWADAELYCVSQ--RANLVSIHS
+QNEQSFVKALIKNF--------DPAQRTTWIGLSDIHK------E-GKWMWSDGSAVT-F
+TFWNTGEPNNN---------K-RNEHCVQTNWD----I--NLKWNDIPCSLTY------S
+-FVCASRTASP-------------------------------------------------
+------------------------------------------------------------
+-
+>ENSMALP00000025917 ENSMALG00000018011	158	None	galactose-specific lectin	Monopterus_albus	13B	13	B
+------------------------------------------------------------
+-----------------MLLFLF-----LFGLLLSAV-FPSV-----------------K
+LQH-GNCTNSEH---------SFNGRCYKYV--ATAMTWADAELHCVSE--GTNLVSIHS
+LKEQNFVKALVKKF--------NQAERHIWIGLSDTHK------Q-GRWMWSDGSAVY-F
+VFWNVGEPNNA---------G-GNEHCVHGTLS----L--DMKWNDLLCSQTF------A
+-FVCASHPICP-------------------------------------------------
+------------------------------------------------------------
+-
+>ENSDNOP00000020408 ENSDNOG00000035424	163	REG1A	regenerating family member 1	Dasypus_novemcinctus	13B	13	B
+------------------------------------------------------------
+------------M-ASINSSFLLLSCLMFLSLSQGEE-DQR----------------DLR
+STW-ISCPEGTN---------VHGTYCYL-F-NGDLETWFDRSSHSSYARACIHLVSMLN
+QAEGAFMASLIKDS--------GAQDHNIWVGLYDPKK------EKRRTTAGSGSLFS-Y
+KFWVIGAPSST-----------NSGYRAILTS-----NSGFLRWKDVSCESKF------S
+-FV---------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSOPRP00000012257 ENSOPRG00000013443	166	REG1A	regenerating family member 1	Ochotona_princeps	13B	13	B
+------------------------------------------------------------
+------------M-ALTSSYLVVVSCLMILSQ-----------------VRGQEDEPAEP
+IPK-NTCPEGAN---------SFGSYCYF-H-YQFSETWTDADLYCQ-NMHSGNLVSVVN
+QAEGDFVASLVKES--------GTSDSKVWIGLYDPNK------NRR-WRWSSGSLYS-Y
+QAWAVGSPATT-----------NPGYCVVLTS-----DSEYKKWKDYSCDKKR------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSOCUP00000021346 ENSOCUG00000027194	182	REG1A	regenerating family member 1	Oryctolagus_cuniculus	13B	13	B
+------------------------------------------------------------
+------------M-ARTTSYLMLISCLMCLSQGQEFI-LPHGSPLNPSRFPGQEEQPQQP
+SPK-NRCPEGTN---------AYGSYCYF-F-YQHPETWVDADLFCQ-NMHSGNLVSVIN
+QAEGDFVASLIKES--------GTNDLKVWIGLHDPNK------NRR-WRWSSGSLFS-Y
+RSWVVGYPRTT-----------NPGYCVILSS-----DSGYKKWKDESCEIKL------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCJAP00000031311 ENSCJAG00000047062	97	None	None	Callithrix_jacchus	13B	13	B
+------------------------------------------------------------
+--------------------------LLIVSSFSGQE-AQT----------------GLP
+QAR-ISCPEGTN---------AYRSYCYY-F-NEDRETWVDADLYCQ-NMNSGNLVSVLT
+QSEGTFVASLIKKR--------GTDDFNVWIGLRDPKK------VGC-------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCATP00000015527 ENSCATG00000031745	166	REG1A		Cercocebus_atys	13B	13	B
+------------------------------------------------------------
+------------M-AQTGSYFMLISCLMFLSQSQGQE-AQT----------------DLP
+QAR-ISCPEGSN---------AYRSYCYY-F-NEDRETWVDADLYCQ-NMNSGNLVSVLT
+QAEGAFVASLIKES--------GTHDFNVWTGLHDPKK------NRR-WYWSSGSLVS-Y
+KSWDIGAPNSV-----------NPGYCVSLTS-----SSGFRKWKDVPCEDKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCSAP00000011947 ENSCSAG00000015871	166	REG1A	regenerating family member 1	Chlorocebus_sabaeus	13B	13	B
+------------------------------------------------------------
+------------M-AQTGSYFMLISCLMFLSQSQGQE-AQT----------------DLP
+QAR-ISCPEGSN---------AYGSYCYY-F-NEDRETWVDADLYCQ-NMNSGNLVSVLT
+QAEGAFVASLIKES--------GTDDFNVWTGLHDPKK------NRR-WHWSSGSLVS-Y
+KSWDIGAPSSV-----------NPGYCVSLTS-----SSGFRKWKDVSCEDKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSGGOP00000004866 ENSGGOG00000004968	166	REG1A	regenerating family member 1	Gorilla_gorilla	13B	13	B
+------------------------------------------------------------
+------------M-AQTSSYFMLISCLMFLSQSQGQE-AQT----------------ELP
+QAR-ISCPEGTN---------AYRSYCYY-F-NEDRETWVDADLYCQ-NMNSGNLVSVLT
+QAEGAFVASLIKES--------GTDDFNVWIGLHDPKK------NRR-WHWSSGSLVS-Y
+KSWDIGAPSSV-----------NPGYCVSLTS-----STGFRKWKDVPCEDKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSP00000233735 ENSG00000115386	166	REG1A	regenerating family member 1	Homo_sapiens	13B	13	B
+------------------------------------------------------------
+------------M-AQTSSYFMLISCLMFLSQSQGQE-AQT----------------ELP
+QAR-ISCPEGTN---------AYRSYCYY-F-NEDRETWVDADLYCQ-NMNSGNLVSVLT
+QAEGAFVASLIKES--------GTDDFNVWIGLHDPKK------NRR-WHWSSGSLVS-Y
+KSWGIGAPSSV-----------NPGYCVSLTS-----STGFQKWKDVPCEDKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSMMUP00000011408 ENSMMUG00000040046	166	REG1A		Macaca_mulatta	13B	13	B
+------------------------------------------------------------
+------------M-AQTGSYFMLISCLMFLSQSQGQE-AQT----------------DLP
+QAR-ISCPEGSN---------AYGSYCYY-F-NEDRETWVDADLYCQ-NMNSGNLVSVLT
+QAEGAFVASLIKES--------GTDDFNVWTGLHDPKK------NRR-WHWSSGSLFS-Y
+KSWDIGAPNSI-----------NPGYCVSLTS-----SSGFRKWKDVPCEDKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSMLEP00000015432 ENSMLEG00000031894	166	REG1A		Mandrillus_leucophaeus	13B	13	B
+------------------------------------------------------------
+------------M-AQTGSYFMLISCLMFLSQSQGQE-AQT----------------DLP
+QAR-ISCPEGSN---------AYRSYCYY-F-NEDRETWVDADLYCQ-NMNSGNLVSVLT
+QAEGAFVASLINES--------GTHDFNVWTGLHDPKK------NRR-WYWSSGSLVS-Y
+KSWDIGAPNSV-----------NPGYCVSLTS-----SSGFRKWKDVPCEDKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPTRP00000081031 ENSPTRG00000012114	169	REG1A	regenerating family member 1	Pan_troglodytes	13B	13	B
+------------------------------------------------------------
+------------M-AQTSSYFMLISCLMFLSQSQGQE-AQT----------------ELP
+QAR-ISCPEGTN---------AYRSYCYY-F-NEDRETWVDADLYCQ-NMNSGNLVSVLT
+QAEGAFVASLIKES--------GTDDFNVWIGLHDPKK------NRR-WHWSSGSLVS-Y
+KSWGIGAPSSV-----------NPGYCVSLTS-----STGERQRIHPPVSVLS------C
+-LAPGMELGLG-------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPANP00000018045 ENSPANG00000029437	166	REG1A		Papio_anubis	13B	13	B
+------------------------------------------------------------
+------------M-AQTSSYFMLISCLMFLSQSQGQE-AQT----------------DLP
+QAR-ISCPEGSN---------AYRSYCYY-F-NEDRETWVDADLYCQ-NMNSGNLVSVLT
+QAEGAFVASLIKES--------GTDDFNVWTGLHDPKK------NRR-WYWSSGSLFS-Y
+KSWDIGAPNSV-----------NPGYCVSLTS-----SSGFRKWKDVPCEDKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPPYP00000013660 ENSPPYG00000012249	166	REG1A		Pongo_abelii	13B	13	B
+------------------------------------------------------------
+------------M-AQTSSYFMLISCLMFLSQSQGQE-AKT----------------ELP
+QAR-ISCPEGTN---------AYGSYCYY-F-NEDRETWVDADLYCQ-NMNSGNLVSVLT
+QAEGAFVASLIKES--------GTGDFNVWIGLHDPKK------NRR-WHWSSGSLVS-Y
+KSWGIGAPSSV-----------NPGYCVSLTS-----SSGFWKWKDVPCEDKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSTGEP00000023844 ENSTGEG00000019287	166	REG1A		Theropithecus_gelada	13B	13	B
+------------------------------------------------------------
+------------M-AQTGSYFMLISFLMFLSQSQGQE-AQT----------------DLP
+QAR-ISCPEGSN---------AYRSYCYY-F-NEDRETWVDADLYCQ-NMNSGNLVSVLT
+QAEGAFVASLIKES--------GTDDFNVWTGLHDPKK------NRR-WYWSSGSLFS-Y
+KSWDIGAPNSV-----------NPGYCVSLTS-----SSGFRKWKDVPCEDKF------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSLAFP00000026594 ENSLAFG00000030430	131	None	None	Loxodonta_africana	13B	13	B
+------------------------------------------------------------
+-----------------------------------------------------------P
+STR-ISCPEGTN---------AYGSYCYY-F-NEDLVTWVDADLFCQ-NMHLGHLVSVLN
+QVE----ASLIKES--------RTGNLNVWVGLHDPKK------NHR-WCWSSGSLVS-Y
+KAWKSGSPSSV-----------SPGYCVSLTS-----T---QKWKDKRCEAKL------S
+-FVCKFKNK---------------------------------------------------
+------------------------------------------------------------
+-
+>ENSDORP00000021072 ENSDORG00000026814	167	None		Dipodomys_ordii	13B	13	B
+------------------------------------------------------------
+------------M-AKTNTFLILIPCLIFLSVSHGQE-AES----------------DLP
+SPR-MSCPEGSI---------FYGSHCYY-YNYLDQLTWADADIYCQ-SFESGHLVSVLN
+QSEGNFVASLINDS--------GVRNSFIWIGFYDPKK------NRR-WHWSNSSPVT-Y
+KAWTSGSPNNN-----------NPGYCAALAS-----NEGYKKWKDLSCEQTY------S
+-FVCKFKG----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSSTOP00000003192 ENSSTOG00000003573	166	REG1A	regenerating family member 1	Ictidomys_tridecemlineatus	13B	13	B
+------------------------------------------------------------
+------------M-AQTSSYLMLITCLMFLSLSQGQD-YEA----------------HHP
+IHH-ISCPEGTH---------SYGSHCYY-F-YEDRLTWIEADLFCQ-NTHAGHLVSLLT
+QSEGNFVASMIKES--------GTTDSSVWIGLHDPKK------THL-WHWSSGSLYT-Y
+KAWAPGSPNIA-----------NRGYCVSLTA-----KSGFKLWKDTNCEAHM------S
+-FVCKFNS----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSMUGP00000018845 ENSMUGG00000015970	168	Reg1		Meriones_unguiculatus	13B	13	B
+------------------------------------------------------------
+------------M-ARSTAYFILASCLMFLSPSQGQE-AEE----------------DLP
+SSR-ISCPEGSN---------AYSSYCYY-F-IEERLTWADADLFCQ-NMNSGYLVSVLS
+QAEGNFVASLIKES--------GTTDANVWTGLHDPKR------NRR-WHWSSGSLFI-Y
+KSWATGSPNSS-----------NRGYCVSLTS-----NTAHLG---------V------P
+-ISCLYEMSQTSFWRHLVL-----------------------------------------
+------------------------------------------------------------
+-
+>ENSMAUP00000001062 ENSMAUG00000000796	173	Reg2		Mesocricetus_auratus	13B	13	B
+------------------------------------------------------------
+------------M-AQTNIYYVLFPCLMLLSCSQGQK-AEESMPMD---------EKDLP
+SAR-INCPEGAN---------AYGSYCYY-F-IEDCMAWGEADLFCQ-NMNSGHLVSVLS
+QAEGTFVASLVKES--------GITVSNVWIGLHDPKN------NRR-WHWSSGSLFL-Y
+KSWATGAPSTS-----------NRGFCVSLTS-----NTAYKKWKDENCDALY------S
+-FVCKFKS----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSMOCP00000022364 ENSMOCG00000019434	173	Reg2	regenerating family member 1	Microtus_ochrogaster	13B	13	B
+------------------------------------------------------------
+------------M-AQNNACYILFACLMLLACSQGKL-AEEGLPTL---------EKDLP
+SAM-NNCPEGAN---------AYGSYCYY-F-VEDRLTWGEADLFCQ-NMNSGHLVSVLS
+QAEGNFVASLVKES--------GTTNAYVWIGLHDPKN------NRR-WHWSSGSVFL-Y
+KSWATGAPSTN-----------NRGYCVALTS-----NTAYKKWKDENCDSLY------S
+-FVCKFKN----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSMUSP00000145161 ENSMUSG00000059654	165	Reg1	regenerating islet-derived	Mus_musculus	13B	13	B
+------------------------------------------------------------
+--------------MARNAYFILLSCLIVLSPSQGQE-AEE----------------DLP
+SAR-ISCPEGSN---------AYSSYCYY-F-TEDRLTWADADLFCQ-NMNSGYLVSVLS
+QAEGNFVASLIKES--------GTTDANVWTGLHDPKR------NRR-WHWSSGSLFL-Y
+KSWATGSPNSS-----------NRGYCVSLTS-----NTGYKKWKDDNCDAQY------S
+-FVCKFKG----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPEMP00000011132 ENSPEMG00000011894	173	None	regenerating islet-derived	Peromyscus_maniculatus_bairdii	13B	13	B
+------------------------------------------------------------
+------------M-AQNNAYPILFACLMLLSCSQGQK-AEEGLPMD---------EKDLP
+SAR-INCPEGAN---------AYGSYCYY-F-IEDRMTWGEADLFCQ-NMNSGHLVSVLS
+QAEGNFVASLVKES--------GATATNVWIGLHDPKN------NRR-WHWSSGSLFL-Y
+KSWATGAPSTN-----------NRGFCVSLTS-----NTAYKKWKDENCDSQY------S
+-FVCKFKS----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSRNOP00000054678 ENSRNOG00000006486	165	Reg1a	regenerating family member 1	Rattus_norvegicus	13B	13	B
+------------------------------------------------------------
+--------------MTRNKYFILLSCLMVLSPSQGQE-AEE----------------DLP
+SAR-ITCPEGSN---------AYSSYCYY-F-MEDHLSWAEADLFCQ-NMNSGYLVSVLS
+QAEGNFLASLIKES--------GTTAANVWIGLHDPKN------NRR-WHWSSGSLFL-Y
+KSWDTGYPNNS-----------NRGYCVSVTS-----NSGYKKWRDNSCDAQL------S
+-FVCKFKA----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSANIP00000016928 ENSANIG00000011528	152	None	None	Accipiter_nisus	13B	13	B
+------------------------------------------------------------
+------------MSAGPKLPHCLLSCLLLMAFVAGD---------------------SL-
+RWA-TTCPQKWL---------YYRGYCYGYF--TARKTWAEAEDECSRYGPMGRLASIHS
+QGASRVLSDYIARQ---------SDRDNTWIGLRDDE----------QWKWSDNSAFD-Y
+QRWDREQPNNL---------W-DKEDC-------------FEFWHDYPCNYKF------P
+-FLCSH-QL---------------------------------------------------
+------------------------------------------------------------
+-
+>ENSACCP00020006289 ENSACCG00020004296	172	None	C-type lectin	Aquila_chrysaetos_chrysaetos	13B	13	B
+------------------------------------------------------------
+------------MSAGPKLPHCLLGCLLLMAFMAGAL-AGRP-----------SRAPPR-
+RWA-TTCPHKWL---------YYRGYCYGYF--TERKTWAEAEDECSRYGPMGRLASIHS
+RGASKVLSSYIARQ---------SNRDNIWIGLRDDEH------T-RQWKWSDNSAFD-Y
+QRWDQGQPNNL---------W-DKEDCVVLDK-----LSGFEFWHDYPCDYKF------P
+-FLCSH-QL---------------------------------------------------
+------------------------------------------------------------
+-
+>ENSDNVP00000012142 ENSDNVG00000008562	120	None	None	Dromaius_novaehollandiae	13B	13	B
+------------------------------------------------------------
+------------------------------------------------------------
+EEE-IGCTSGWV---------PFDGRCYGFF--PQELSWRRAESFCQRLGARTHLVSIHN
+EEEHQAIISMLASSQPYSDSEEQEANGDVWIGLRLSL---R-----RLWEWSDGTKLD-Y
+GSWYRDV---L---------P-RRRACAALED-----TA---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSNMEP00000003252 ENSNMEG00000003792	166	None		Numida_meleagris	13B	13	B
+----------------------------------------------------------DP
+LVPRSPRAP-------------RPPRGPRSP-------------------------HTSA
+GEL-DDCAPGWV---------PTRGGCLGYF--PWELSWSRAESFCRRLGARTHLASVHS
+AAELRELGELLSSSRGSAGS-GEDVDDDVWIGLHRPLR--S-----RGWQWSDGTAVA-Y
+RSWHRAA---V---------P-RRRACAALQD-----SSDFMTWDGKSCSDRK------P
+-FVCKTGS----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSSCAP00000002755 ENSSCAG00000002393	110	None	None	Serinus_canaria	13B	13	B
+------------------------------------------------------------
+------------------------------------------------------------
+----TRCPRGWL---------SFEGHCYGYF--GQQLSWRRAEAWCQAT-RGGHLASLHS
+PEEHRALAAFLARR------PEREKEENVWIGLHRR----R-----QGWLWADGSPRH-Y
+WAWEGDD---G---------P-KGHPCIALED-----SAG--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSSHBP00005015994 ENSSHBG00005013972	173	None	C-type	Strigops_habroptila	13B	13	B
+------------------------------------------------------------
+------------MRAGPRLPPRLLGCLLLAACLGGCL-GAPP-----------APAPAQG
+GRA-ASCPQNWH---------LFRGYCYGYF--TERLTWEEAEAECERHGPMGHLASIHS
+SGASRVLATYVKSH---------RDGANTWIGLRDEEH------S-RQWKWSDGSTFN-Y
+KSWDRGQPNNL---------W-DIEDCVVLDQ-----LSGFKLWHDYPCDNRF------P
+-FLCQH-RL---------------------------------------------------
+------------------------------------------------------------
+-
+>ENSSPUP00000001620 ENSSPUG00000001267	136	None	None	Sphenodon_punctatus	13B	13	B
+------------------------------------------------------------
+------------------------------------------------------------
+--A-DTCAREWL---------QYRGNCYGFF--NKKLSWEEAEIECQSYARGAHLASILT
+VPETAIVAEHISQF--------QTDPSDVWIGLHDIRQ--N-----GKWRWADESTYN-Y
+KAFMLGEPNNL---------G-GVEYCVELRK-----VTGEETSPRHMWKGRP------L
+LSLCPLI-----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSACAP00000007853 ENSACAG00000008003	160	None	C-type	Anolis_carolinensis	13B	13	B
+------------------------------------------------------------
+------------MGLLTYASLCLFGLL---L-----------------------FSPLPG
+AEA-DSCARDWM---------QNQGNCYAYF--DYKLTWAEAEIDCQSYGRGAHLASVLS
+QAESSLIANYISTY--------QKDKSNVWIGLNDPRQ--N-----HRWRWSDESAYN-Y
+RAWAKNEPSNS---------G-NNEYCVELLL-----ITGYKEWNDRSCQASN------T
+-YICKCSY----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSLLTP00000003506 ENSLLTG00000002633	157	None	None	Laticauda_laticaudata	13B	13	B
+------------------------------------------------------------
+------------MGRFLLVSLSLLVVI---------------------------FSLNGI
+GAD-HHCPLDWL---------SFEKSCYKFI--RQRKSWNEAERSCVQLQRNSHLASILS
+PAESFFISNVISRK--------LVPFTGVWIGLNDPKK--N-----RTWKWTDGSNFG-Y
+TSWARKEPSSP---------V-GGKFCVQLTT-----LSRYFRWKAVNCKSKN------F
+-FICKM------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSNSUP00000001944 ENSNSUG00000001653	172	None	C-type lectin	Notechis_scutatus	13B	13	B
+------------------------------------------------------------
+------------MAQFIVVSFSLLVVA---------------------------LSLRGT
+GAD-HHCPSGWA---------SYNEFCYMVY--NRSVTWNNAERFCLQQETNCHLASIHS
+KPEAAFIVRLVYHR--------ASAGSSVWIGLNDPEK--R-----RTWQWSDGSSIR-Y
+RSWMPGEPNNH---------A-NNENCVVLSV-----WSRYVGWNDQDCGSRH------N
+-FVCKFQARTETNTV----NVT-----SRK------------------------------
+------------------------------------------------------------
+-
+>ENSPMRP00000019120 ENSPMRG00000012493	160	None	C-type	Podarcis_muralis	13B	13	B
+------------------------------------------------------------
+------------MGLFTYFSLCLLGIL---V-----------------------ANPFLG
+AEA-DTCAREWL---------QNQGNCYAYF--DAKLTWQEAEIECQSYGRGAHLASVLT
+KAETLLVAEHISTY--------QQDISDVWIGLHDVRQ--T-----RKWRWADESTYN-Y
+KAWMINQPDNY---------R-KAEYCVELRR-----TTDFKQWNDAPCRKLN------A
+-YICKHEL----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPVIP00000022874 ENSPVIG00000017266	147	None	C-type lectin mannose-binding	Pogona_vitticeps	13B	13	B
+------------------------------------------------------------
+------------MARRTFFSLSLSGLLIISY-----------------------Y--LQG
+AKA-ANCREGWL---------QYQQYCFVVI--PTKMPWPEAEAECQNYGRGSHLASFDS
+ELQMNVVGKHILAE--------YPDTDDLWIGMEDSRK--T-----RRFAWNDGSPVR-F
+TSWCAGEPNNQ---------G-GNEYCVHTKA-----SSGEERLPDV-------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPTXP00000024068 ENSPTXG00000016714	140	None	None	Pseudonaja_textilis	13B	13	B
+------------------------------------------------------------
+------------------MFLCLLIFF---F-----------------------ITLFNI
+VEA-DTCAREWL---------QNQGNCYAYF--DQRLTWHEAEIECQSYGRGAHLASILT
+KAETLLVAEHISTY--------QQELSNVWIGLHDVRQ--T-----GKWRWADESTYN-Y
+KSWMNYQPDNY---------D-KNEHCVELRR-----STDLATSLSL-------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSSMRP00000008429 ENSSMRG00000006754	154	None	None	Salvator_merianae	13B	13	B
+------------------------------------------------------------
+------------MGFISAFSLFLLGVL---M-----------------------ISSFPG
+AKA-KTCPEDWL---------EANGNCYGYF--DLPLTWYGAELECQSYSPETHLASIHT
+QAEADFLAQFIGN-------------QHAWXGLADTQK--K-----RKWRWADXSAYD-Y
+KAWLENQPNNS---------G-GTQNCVELINL----ENGKAAWNDVECRTLN------K
+-FICKQ------------------------------------------------------
+------------------------------------------------------------
+-
+>ENSCSRP00000019711 ENSCSRG00000015011	181	None	None	Chelydra_serpentina	13B	13	B
+------------------------------------------------------------
+-------MTTTDSSAPILFSQTASPRNVLSP---------R------------ISSLRSG
+IGA-SFCFSGWQ---------PFQSHCYKFF--PQRMTWSEAEVQCQFLHNGAHLASILS
+EAEGNVVARHIINS---------GSKDYVWIGLHSPEH--N-----RRWWWTDGSQFC-Y
+SNWKIGEPNNS---------G-GKEYCTELIK-----GKGEQKLKHTFTSRPY------S
+-TFGPR------CSV----------------KGKDQSR-VIAH-----------------
+------------------------------------------------------------
+-
+>ENSCPBP00000005800 ENSCPBG00000004628	166	None	None	Chrysemys_picta_bellii	13B	13	B
+------------------------------------------------------------
+--------MTAGSSAPILFSETASHHTVLSP---------RP-----------IPSLGSG
+IGA-TPCPSDWL---------FYQGRCYAFF--PEKVSWSEAEVQCQYHHNGAHLASILT
+EAEGTMVARYIRES---------HFKDNVWIGLHDPRK--Y-----RRWRWTDGSRYY-Y
+KAWNTGEPNND---------H-GVEYCVELL--------NFKNWNDKVCHTQN------G
+-YVCKYRP----------------------------------------------------
+------------------------------------------------------------
+-
+>ENSPSIP00000011520 ENSPSIG00000010357	166	None	C-type lectin	Pelodiscus_sinensis	13B	13	B
+------------------------------------------------------------
+---------------VAFFSLCLLGCL-IFN---------PS-----------L--PGSG
+RKA-AACSRGWF---------HYRDHCYKFF--SEKLTWSDAEIECQHEQTGAHLASILN
+DAETNIVAQYLSTA---------TSTDRVWIGLHDPNK--D-----KTWLWTDGSRFR-Y
+RTWMAGEPNND---------R-SREYCVEMYA-----STGYKKWNDVTCEREA------P
+-YLCKYQPKPAGGTW---------------------------------------------
+------------------------------------------------------------
+-
+>ENSPCEP00000020736 ENSPCEG00000016016	182	None	None	Pelusios_castaneus	13B	13	B
+------------------------------------------------------------
+----------------TLFSATASPHSVLSR---------H---------------VRSG
+IQA-TFCHTDWL---------HYKGHCYGFF--LEKMTWSEAEVECQHNRLGAHLASILT
+KEEGDVVAKYISMT---------GYKGHVWIGLHDARQ--D-----RRWKWTDGSLHR-Y
+SAWEPKQPDNW---------G-NTEHCAQLTA-----KYSKHTHASTKKPRQDPGHILQL
+-SVQGWPPVRSACLL----PSE-----K---RGTKLLK-G--------------------
+------------------------------------------------------------
+-
+>ENSNPEP00000019528 ENSNPEG00000014551	194	None	None	Nothoprocta_perdicaria	13B	13	B
+------------------------------------------------------------
+--------SSTPISSLPIPS----------PLRAGCE-G--------------CSSPAEL
+GAS-SSCPSHWL---------SYRGHCYGYF--TQRKTWQQAEKECERYGPRGHLASVHT
+FPERKVLAKYVAQH---------LQPGNVWIGLHDEEH-----QE-RSWKWSDNSVLS-F
+QGWAQGQPDNV---------N-DNEDCVVLDS-----DSRR---HRGRCGDKA------V
+-VDTGVMDMEGGDGYRGVMDME-----EDDGHGGRVID-GVMDTRK--------------
+------------------------------------------------------------
+-

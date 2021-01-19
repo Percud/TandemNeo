@@ -1,0 +1,216 @@
+>ENSCHIP00000020548 ENSCHIG00000019156	158	None	None	Capra_hircus	366A	366	A
+------------------------------------------------------------
+----------------------------------------------------------MT
+PSCCSPHCQPTCCRTTCCETTCC-----KPTCVISCPLKPCCQPTCCESICC-QPSCPPT
+CYQTSE--TTSCRTTCHKPTCV-TT----------CCQPTCCGSSSCGQT---------F
+SGSSCGQPCCQSVYC-APVYCHRICYHPP---------QECGSSCCQPCSRPVCCQTTCC
+R-----PSCVSTCCRPSCC-----------------------------------------
+--------------------------------------
+>ENSVPAP00000004100 ENSVPAG00000004413	159	None	None	Vicugna_pacos	366A	366	A
+------------------------------------------------------------
+----------------------------------------------------------MT
+HSGCSPCCQPTCCQPTCCEPSCCQ-----PATQTT----------CCSTTCR-KPTCVTT
+CCQPTCCEPSSCGQTCCQPTCV-TSCCSPSCCQS-----TCCESSSCGQN---------C
+GGSS----CCQ-SYC-APVYCHRTWYHPTCCCLPGCLAQSCGSSCCQPRCRPVCCQTTCC
+R-----PSCVSSCCQPSCC-----------------------------------------
+--------------------------------------
+>ENSPVAP00000013958 ENSPVAG00000014811	142	None	None	Pteropus_vampyrus	366A	366	A
+------------------------------------------------------------
+------------------------------------------------------------
+-MCCSPCCQPTCCRTTCCRTTCCGSMAVG-----S-CCQPCCR-PCCVSSCC-QPCCRPT
+CCQTTCCRT-----TCCRPTCV-SSCCQPCCCSTPCCQPSCCGSNSCGSG---------C
+CGSS----CCQASSC-SPVHVRRTCYYPTCCCVPGCIAYGGGSSCGQSCGC---------
+------------------------------------------------------------
+--------------------------------------
+>ENSPCAP00000008835 ENSPCAG00000009520	147	None	None	Procavia_capensis	366A	366	A
+------------------------------------------------------------
+----------------------------------------------------------MT
+HSCCSPCCQPTCCTTTCCQPTCSQSSC------------------------C-QPCCRPA
+FRQTTCC------TTYQQPICE-TSCCRPTCCSAPCCQPTCCG----GQT---------S
+CESSCCQPCCRPSCCYTPVYCRRTCYHPTCVRLTSGLPLSYGSSCCEPCCQPACSRPSCY
+VSS---------CCQPSCC-----------------------------------------
+--------------------------------------
+>ENSOANP00000048074 ENSOANG00000042332	146	None	None	Ornithorhynchus_anatinus	366A	366	A
+------------------------------------------------------------
+-----------------------------------------------------------P
+SCCLSPCCPPTCCQTTCCKTT----------------------------------CCRPT
+CCVTSCCRPT---------------CCRPTCCQSVCCQPTCCRPACCVSTCCRPCCPRPC
+CASSCCQPCCRP--------------------------ACCVTSCCQPCCRPLCCQTTCC
+RTTCCRPTCCVPSCCQPCCSPPCCQTTCCRTSCCRPT-CGS-------------------
+--------------------------------------
+>ENSECAP00000008323 ENSECAG00000010460	211	None	None	Equus_caballus	366A	366	A
+------------------------------------------------------------
+----------------------------------------------------------MT
+HSCCSPCCQPTCCRTTCCQPTCSGS-------------------SCCESSCC-QPCCPPT
+RCQVTCCRT-----TCYQPACV-TS-CRPSCCPTPCCQPTCSESSCCGQT---------C
+SQSS--------SCS-GPVYCRRTCYHPTCVCLPCCQAQSCGSSCCQPCCRPACCESSCC
+RQSSCC----QPCCPPASCQTICCQ--------------------PACSGPVYCRRTCYH
+PTCVCLPCCQAQSCGSSCCQPCCRPACCESSCCQPSCC
+>ENSCJAP00000004221 ENSCJAG00000010933	165	None	keratin-associated protein	Callithrix_jacchus	366A	366	A
+------------------------------------------------------------
+-----------------------------------------------------------M
+THCCSPCCQPTCCRT-----TCCRTTCWKPTCVTSCCSTPCCQPSCCVSSCC-QPCCRPT
+CCQNTCCGT-----TCCQPTCV-TSCCQPSCCSTPCCQPTCCGSSCCG------------
+----------QTSSC-APVYCTRTCYHPMCVCLPGCLNQSCGSSCCQPCCRPACCETTCC
+RTTCCQPTCVSSCCQPSCC-----------------------------------------
+--------------------------------------
+>ENSCSAP00000015159 ENSCSAG00000002879	174	None	None	Chlorocebus_sabaeus	366A	366	A
+------------------------------------------------------------
+-----------------------------------------------------------M
+THCCSPCCQPTCCRT-----TCCRTTCWKPTCVTTCSSTPCCQPSCCVSSCC-QPCCRPT
+CCQNTCCRT-----TCCQPTCV-TSCCQPSCCSTPCCQPICCGSSCCGQT---------S
+CGSS----CGQTSSC-APVYCRRTCYHPTCVCLPGCLDQSCGSSCCQPCCRPACCETTCC
+RTTCFQPTCVSTCCQPVCC-----------------------------------------
+--------------------------------------
+>ENSGGOP00000022884 ENSGGOG00000039324	174	KRTAP9-2	keratin associated protein	Gorilla_gorilla	366A	366	A
+------------------------------------------------------------
+-----------------------------------------------------------M
+THCCSPCCQPTCCRT-----TCCRTTCWKPTTVTTCSSTPSCQPACCVSSCC-QPCCRPT
+CCQNTCCRT-----TCCQPTCL-TSCCQPSCCSTPCCQPTCCGSSCCGQT---------S
+CGSS----CGQSSSC-APVYCRRTCYYPTTVCLPGCLNQSCGSSCCQPCCRPACCETTCC
+RTTCFPPTCVYSCCQPSCC-----------------------------------------
+--------------------------------------
+>ENSP00000366950 ENSG00000239886	174	KRTAP9-2	keratin associated protein	Homo_sapiens	366A	366	A
+------------------------------------------------------------
+-----------------------------------------------------------M
+THCCSPCCQPTCCRT-----TCCRTTCWKPTTVTTCSSTPCCQPACCVSSCC-QPCCRPT
+CCQNTCCRT-----TCCQPTCV-TSCCQPSCCSTPCCQPTCCGSSCCGQT---------S
+CGSS----CGQSSSC-APVYCRRTCYYPTTVCLPGCLNQSCGSNCCQPCCRPACCETTCC
+RTTCFQPTCVSSCCQPSCC-----------------------------------------
+--------------------------------------
+>ENSMLEP00000013128 ENSMLEG00000030744	155	None	None	Mandrillus_leucophaeus	366A	366	A
+------------------------------------------------------------
+------------------------------------------------------------
+----XXXXQPTCCRT-----TCCRTTCWKPTCVTTCSSTPCCQPSCCVSSCC-QPCCRPT
+CCQNTCC-------HCCQPTCV-TSCCQPSCCSTPCCQPSCCG-----------------
+--------CCQPSSC-APVYCRRTCYHPTCVCLPGCLNQSCGSSCCQPCCRPACCETTCC
+RTTCFQPTCVSSCCQPVCC-----------------------------------------
+--------------------------------------
+>ENSMICP00000048015 ENSMICG00000046147	107	None	None	Microcebus_murinus	366A	366	A
+------------------------------------------------------------
+-----------------------------------------------------------M
+ADCCSPCCQPTCCRTTCCQTTCCRTTCWQPSCETTCCTTPCCQPSCCVSSCC-QPCCQPT
+----------------------------------------CC------------------
+-STP----CCQPSSC-APVYCTRTCYHPTSVCLPGCLNQSCGSSCCQPSCC---------
+------------------------------------------------------------
+--------------------------------------
+>ENSPTRP00000089277 ENSPTRG00000044531	170	KRTAP9-2	keratin-associated protein	Pan_troglodytes	366A	366	A
+------------------------------------------------------------
+-----------------------------------------------------------M
+THCCSPCCQPTCCRT-----TCCRTTCWKPTTVTTCSSTPCCQPTCCVSSCC-QPCCCPT
+CCQNTCCRT-----TCCQPTCV-TSCYQPSCCSTPCCQPTCCGSSCCGQT---------S
+C--------GQSSSC-TPVYCRRTCYYPTNVCLPGCLNQSCGSSCCQPCCHPACCETTCC
+RTTCFQPTCVSSCCQPSCC-----------------------------------------
+--------------------------------------
+>ENSTGEP00000009448 ENSTGEG00000007780	178	None	keratin-associated protein	Theropithecus_gelada	366A	366	A
+------------------------------------------------------------
+-----------------------------------------------------------M
+TNCCSPCCQPTCCRT-----TCCRTTCWKPTTVTTCSSTPCCQPSCCVSSCC-QPCCRPT
+CCQNTCCQPT-CVTSCCQPTCV-TSCCQPSCCSTPCCQPSCCGSSCCGQT---------N
+CGSS----CCQPSSC-APVYCRRTCYHPTCVCLPGCLNQSCGSSCCQPCCRPACCETTCC
+RTTCFQPTCVSSCCQPVCC-----------------------------------------
+--------------------------------------
+>ENSLAFP00000016184 ENSLAFG00000020912	177	None	None	Loxodonta_africana	366A	366	A
+------------------------------------------------------------
+----------------------------------------------------------MT
+HSCCPPCCQPTCCTTICSQPTCCTTTYCQPTC----SGSPCCQPSCCTTVCS-QP----T
+CCTTTYCQPTCCCTTSCQPICQ-TSCCRPSCCSTPCCQPTCSVSSCAGQT---------S
+CGSS----CGQPSCS-GPVYCRRTCYRPTCVCLTSGLPQSFGSSCCQPCCQPNCCRPSCC
+QTTSFHPCCVTNCCQPSCC-----------------------------------------
+--------------------------------------
+>ENSCPOP00000026249 ENSCPOG00000035236	169	None	None	Cavia_porcellus	366A	366	A
+MTCCGCSGGCGSSCGGCGSSC--------------------CCVPVCCCKPVCCCVPACS
+CSSCGKGS--CGSCGSSKGGCGS-CGGCKGGCGSCGCSKGGCGSCGGC------------
+--KSS-CCKPCCCQSSCCKPCCCQSSCCKPCCCQSSCCKPC----CCQ-----SSCCKPC
+CCQSSCCQPCCCQSSCCKPCCCQSSCCKPCCSQSSC------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------
+>ENSCLAP00000022029 ENSCLAG00000015090	151	None	None	Chinchilla_lanigera	366A	366	A
+MGCCGCSGGCGSSCGGCGCSSS-----------CGGCGSSCCCKPVCCCKPVCCCVPACS
+CSSCGKG------------SCGS-CGGCKGGCGSCGCSKGGCGSC---------------
+-----GGCKSSCCL--CCKPCCCQSSCCKPCCCESSCCKPC----CCQ-----SS-----
+---------------------------------------------CCKPC---------C
+CESSCCKPCCCQSSCCVPVCCQCKI-----------------------------------
+------------------------------------------------------------
+--------------------------------------
+>ENSMAUP00000020758 ENSMAUG00000018707	154	None	None	Mesocricetus_auratus	366A	366	A
+MSCCGCSGGSDSSCGGCGSSC-----------------GSSCCKPVCCCKPVCCCVPACS
+CSSCGGCRGRCGSCGGCKSNCCQ-FNSCKPCCS---------------------------
+-----SGCRSSCCQSS-CSPFAAKSSCCKPCCSSG-------------------------
+--------------------------CGSSCCQSSCCKPCCCQSSCCKPC---------C
+CQSSCCKPCCCQSSCCAPVCCQCKI-----------------------------------
+------------------------------------------------------------
+--------------------------------------
+>ENSMOCP00000007091 ENSMOCG00000006849	121	None	None	Microtus_ochrogaster	366A	366	A
+MSCCGCSGGCGSSCGGCGS---------------------------CCCKPVCCCVPVCS
+CSSCGGCK----GGCSSCGGCGS-CGGCKGGCGSCGGCKGGCSSCGGC------------
+--GSCGGCKGGCGQSSCCKPCCCQSSCCKPCCSQSSCCAPV----CCQ-----CKI----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------
+>ENSMUSP00000147854 ENSMUSG00000109859	219	Gm45618	predicted gene	Mus_musculus	366A	366	A
+MTCCGCSGGCGCSCGGCGSS---------------------------CCKPVCCCVPVCS
+CSSCGGCKGGCGSCGGCKGGCGS-CGGCKGGCGSCGGCKGGCGSCGGCKGGCGSCGCCKG
+GCSSCGGCKSSCCQSSCCKPCCCQSCCCKPCCCESCCCKPC----CCQ-----SSCCKPC
+CCQSSCCKPCCCQSCCCKPCCCESCCCKPCCCQSSCCKPCCCQSCCCKPC---------C
+CQSSCCKPCCCQSSCCAPVCCQCKI-----------------------------------
+------------------------------------------------------------
+--------------------------------------
+>ENSODEP00000024339 ENSODEG00000017810	124	None	None	Octodon_degus	366A	366	A
+------------------------------------------------------------
+----------------------------------------------------------MT
+HSCCSPCCQPTCCRTT-----HCRTTCWQPACITSSCSSPCCQPSCCGQTSCGSSCCQPS
+CCQTTCCXS-----S----------CCQPSC-----CQPSCCQ-----------------
+--S----TCCQPACS-RPVYCTRRCYYPTCVHLCSGLPESYGSSCCQPCSC---------
+------------------------------------------------------------
+--------------------------------------
+>ENSP00000377576 ENSG00000198083	169	KRTAP9-9	keratin associated protein	Homo_sapiens	366B	366	B
+------------------------------------------------------------
+-----------------------------------------------------------M
+THCCSPCCQPTCC----------RTTCWKPTTVTTCSSTPCCQPSCCVSSCC-QPCCRPA
+CCQNTCCRT-----TCCQPTCL-TSCCQPSCCSTTCCQPICCGSSCCGQT---------S
+CGSS----CGQSSSC-APVYCRRTCYYPTTVCLPGCLNQSCGSSCCQPCCRPACCETTCC
+RTTCFQPTCVSSCCQPSCC-----------------------------------------
+--------------------------------------
+>ENSMICP00000016641 ENSMICG00000034211	126	None	keratin-associated protein	Microcebus_murinus	366B	366	B
+------------------------------------------------------------
+-----------------------------------------------------------M
+TDCCSPCC----------QTTCCRTTCWQPSCETTCCSTPCCQPSCCGSSCC-QPCCQPT
+CCPTTCCRTT-CWK----PTSV------TTCCTTPCCQPSCC------------------
+-VTP----CCQPSSC-APVYCTRTCYHPTSVCLPGCLNQSCGSSCCQPSCC---------
+------------------------------------------------------------
+--------------------------------------
+>ENSPTRP00000053062 ENSPTRG00000050065	235	None	None	Pan_troglodytes	366B	366	B
+------------------------------------------------------------
+-----------------------------------------------------------M
+THCCSPCCQPTC----------CRTTCWKPTTVTTCSSTPCCQPSCCVSSCC-QPCCRPA
+CCQNTCCQPT-CV----------TSCYQPSCSSTPCCQPICCGSSCCGQT---------S
+CGSS----------C-APVYCRRTCYYPTTVCLPGCLNQSCGSSCCQPCCRPACCETTCC
+RTTCFQPTCVC--CQPSCCSTPCCQPTCCGSSCCGQTSCGSSCGQSSSCAPVYCRRTCYH
+PTSVCLRGCLNLSCGSSCCQPCYCPACCVSSCCQHSCC
+>ENSPPYP00000022431 ENSPPYG00000020052	136	None	None	Pongo_abelii	366B	366	B
+------------------------------------------------------------
+-----------------------------------------------------------M
+THCCSPCC-----RT-----TCCRTTCWKPTTVTTCSSTPCCQPSCCVSSCC-QPCCRPT
+CCQNTCCRT-----TCCQPTCV-TSCCQPSCCSTPCCQPTCCGS----------------
+---S----YGQSSSC-APVYCRRTCYHPTTVCLPGCLNQSCGSSCCQPCCRPACCE----
+------------------------------------------------------------
+--------------------------------------
+>ENSPEMP00000017559 ENSPEMG00000029033	211	Gm45618	predicted gene	Peromyscus_maniculatus_bairdii	366B	366	B
+MSCCGCSGGCGSSCGXXXXXX-----------------XXXX----------XXXXXXXX
+XXXCGGCKGGCGSC----GGCGS-CGSCKGGCGSCGGCKGGCGSCGGCKGGCGSCG----
+GCGSCGGCKSSCCQSSCCKPCCCQSSCCKPCCCQSSCCKPC----CCQ-----SSCCKPC
+CCQSSCCKPCCCQSSCCKPCCCQSSCCKPCCCQSXXXXXXXXXXXCCKPC---------C
+CQSSCCKPCCCQSSCCAPVCCQCKI-----------------------------------
+------------------------------------------------------------
+--------------------------------------
+>ENSRNOP00000060774 ENSRNOG00000030626	225	AABR07072002	None	Rattus_norvegicus	366B	366	B
+MTGCGCSGGCGSSCGGCGSSCLCCCVPTCSCSSCGGCGS-------SCCKPVCCCVPVCN
+CSSCGGCGSSCGGCGSSCGGCGSSCGGCGSSCGGCGSSCGGCGSSC---CKPVCCCVPVC
+SCSSCGGCKPSCCQSSCCKPCCCQSSCCKPCCSSSSCCKPC----CCQ-----SSCCKPC
+CCQSSCCKPCCSSG------------CGSSCCQSSCCKPCCCQSSCCKPC---------C
+CQSSCCKPCCSSSSCCKPCCSQCKI-----------------------------------
+------------------------------------------------------------
+--------------------------------------

@@ -1,0 +1,1266 @@
+>ENSATEP00000018656 ENSATEG00000012999	109	None	parvalbumin	Anabas_testudineus	658A	658	A
+------------------------------------MAF-AGILNDADITAALA---ACQ
+A-ADSFKHKDFFAKVGLAGKSADDIKKAFAVIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTDAETKVFLKAGD
+SDGDGKIGVDEFAALVKG------------------------------------------
+-------
+>ENSBSLP00000046771 ENSBSLG00000022268	109	None	parvalbumin	Betta_splendens	658A	658	A
+------------------------------------MAF-AGILNEADITAALA---ACQ
+A-ADSFKYKDFFAKVGLAGKTPDDIKKAFAVIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTDAETKEFLKAGD
+SDGDGKIGVDEFAALVKS------------------------------------------
+-------
+>ENSORLP00000012017 ENSORLG00000009587	108	pvalb1	parvalbumin	Oryzias_latipes	658A	658	A
+------------------------------------MAF-AG-LNDADVKAALD---GCA
+A-ADSFDYKKFFKACGLASKSADEVKKAFATIDQDNSGFIEEEELK--------------
+-----------------------------LFLQNF-----SAGARALTDKETKTFLAAGD
+SDGDGKIGVDEFASLVKA------------------------------------------
+-------
+>ENSGWIP00000016026 ENSGWIG00000009019	109	None	parvalbumin	Gouania_willdenowi	658A	658	A
+------------------------------------MAF-AGILNDADITAALA---ACQ
+A-ADSFKYKEFFAKVGLAGKSADDVKKAFAVIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTDAETQAFLKAGD
+TDGDGKIGVDEFSVLVKS------------------------------------------
+-------
+>ENSSFAP00005018663 ENSSFAG00005009818	109	None	parvalbumin	Salarias_fasciatus	658A	658	A
+------------------------------------MAF-AGILNDADITAALA---AYQ
+A-ADSFNHKDFFVKVGLTGKSADDVKKAFAVIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SAGARALTDAETKAFLKAGD
+SDGDGKIGVDEFAALVKG------------------------------------------
+-------
+>ENSENLP00000045479 ENSENLG00000019354	109	None	parvalbumin	Echeneis_naucrates	658A	658	A
+------------------------------------MAF-AGILTDADITAALA---ACQ
+A-ADSFKHKDFFAKVGLAAKSADDIKKAFAIIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTDAETKTFLKAGD
+SDGDGKIGVDEFAALVKV------------------------------------------
+-------
+>ENSSDUP00000007118 ENSSDUG00000005237	109	None	parvalbumin	Seriola_dumerili	658A	658	A
+------------------------------------MAF-AGVLSDADITAALA---ACQ
+A-ADSFKHKDFFAKVGLAAKSADDIKKAFAIIDQDKSGFIEEEELK--------------
+-----------------------------LFLQNF-----SAGARALTDAETKTFLKAGD
+SDGDGKIGVDEFAAMVKH------------------------------------------
+-------
+>ENSAMXP00000048337 ENSAMXG00000033519	109	pvalb2		Astyanax_mexicanus	658A	658	A
+------------------------------------MAF-AGILAEADIAAAIQ---DCA
+A-AESFNYKTFFAKVGLSAKTPEDIKKAFFVIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SAGARALTDAETKAFLSAGD
+SDGDGKIGVDEFASLVKA------------------------------------------
+-------
+>ENSPNAP00000024871 ENSPNAG00000009673	109	pvalb3	parvalbumin	Pygocentrus_nattereri	658A	658	A
+------------------------------------MAF-AGILNDADITAALQ---ACQ
+A-ADSFKHKDFFAKVGLSSKSADDVKKAFAVIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SAGARALTDAETKAFLAAGD
+SDGDGKIGVDEFAALVKA------------------------------------------
+-------
+>ENSACIP00000007469 ENSACIG00000005851	109	pvalb1	parvalbumin	Amphilophus_citrinellus	658A	658	A
+------------------------------------MAF-AGVLNDADVKAALD---GCA
+A-ADSFDYKKFFQASGLAAKTADDVKNAFKIIDQDNSGFIEEEELK--------------
+-----------------------------LFLQNF-----SAGARALTDKETKAFLSAGD
+SDGDGKIGIDEFAALVKS------------------------------------------
+-------
+>ENSACLP00000022450 ENSACLG00000015226	109	None	parvalbumin	Astatotilapia_calliptera	658A	658	A
+------------------------------------MAF-AGVLTEADITAALA---ACQ
+A-ADSFKHKEFFAKVGLAAKSADDIKKAFAIIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTDAETKTFLKAGD
+SDGDGKIGVDEFAAMVKS------------------------------------------
+-------
+>ENSHBUP00000019210 ENSHBUG00000021378	109	None	parvalbumin	Haplochromis_burtoni	658A	658	A
+------------------------------------MAF-AGVLTEADITAALA---ACQ
+A-ADSFKHKEFFAKVGLAAKSADEIKKAFAIIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTDAETKTFLQAGD
+SDGDGKIGVDEFAAMVKS------------------------------------------
+-------
+>ENSMZEP00005011455 ENSMZEG00005008599	109	None	parvalbumin	Maylandia_zebra	658A	658	A
+------------------------------------MAF-AGVLTEADITAALA---ACQ
+A-ADSFKHKEFFAKVGLAAKSADDIKKAFAIIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTDAETKTFLKAGD
+SDGDGKIGVDEFAAMVKS------------------------------------------
+-------
+>ENSNBRP00000026353 ENSNBRG00000020143	109	None	parvalbumin	Neolamprologus_brichardi	658A	658	A
+------------------------------------MAF-AGVLTEADITAALA---ACQ
+A-ADSFKHKDFFAKVGLAAKSADEIKKAFAIIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTDAETKAFLQAGD
+SDGDGKIGVDEFAAMVKS------------------------------------------
+-------
+>ENSONIP00000002833 ENSONIG00000002272	121	pvalb4	parvalbumin	Oreochromis_niloticus	658A	658	A
+---------------------MV----MARSELMLTMAF-AGVLTDADIAAALD---ASK
+D-AGTFDHKKFFKSCGLHGKSADDIKKAFAIIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----KSGARVLNDAETKAFLGAGD
+TDGDGKIGADEFVVLVKAT-----------------------------------------
+-------
+>ENSPNYP00000026480 ENSPNYG00000019969	109	None	parvalbumin	Pundamilia_nyererei	658A	658	A
+------------------------------------MAF-AGVLTEADITAALA---ACQ
+A-ADSFKHKEFFAKVGLAAKSADEIKKAFAIIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTDAETKTFLQAGD
+SDGDGKIGVDEFAAMVKS------------------------------------------
+-------
+>ENSCHAP00000021271 ENSCHAG00000010695	109	pvalb4	parvalbumin beta	Clupea_harengus	658A	658	A
+------------------------------------MAF-AAFLKEADITAALG---ACK
+G-ADSFDHKAFFAKVGLKGKSGDELKKAFEIIDQDKSGFIEEEELK--------------
+-----------------------------LFLQNF-----CKGARALTDGETKKFLKAGD
+SDNDGKIGIDEFTALIKH------------------------------------------
+-------
+>ENSDCDP00000024949 ENSDCDG00000018805	109	pvalb2		Denticeps_clupeoides	658A	658	A
+------------------------------------MAF-AGILNDADVAAAIK---ACE
+A-AESFNYKSFFKAVGLSAKSSDEVKKAFFVIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SAGARALTDAETKAFLSAGD
+SDGDGKIGVDEFAALVKA------------------------------------------
+-------
+>ENSCARP00000023481 ENSCARG00000010593	109	pvalb3	parvalbumin	Carassius_auratus	658A	658	A
+------------------------------------MAF-AGILNDADITAALQ---ACQ
+A-ADSFNYKSFFAKVGLSAKTPDDIKKAFAVIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SAGARALTDAETKAFLKAGD
+SDGDGKIGVDEFAALVKA------------------------------------------
+-------
+>ENSCCRP00000014605 ENSCCRG00000008312	109	cyp		Cyprinus_carpio	658A	658	A
+------------------------------------MAF-AGILKDDDVAAALK---DCS
+A-ADSFDYKSFFAKVGLSAKTPDDIKKAFAVIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SAGARALTDAETKAFLKAGD
+SDGDGKIGVDEFAALVKA------------------------------------------
+-------
+>ENSDARP00000031690 ENSDARG00000022817	109	pvalb3	parvalbumin	Danio_rerio	658A	658	A
+------------------------------------MAF-AGILNEADITAALQ---ACQ
+A-ADSFDYKSFFAKVGLSAKTPDDIKKAFAVIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SAGARALTDAETKAFLKAGD
+SDGDGKIGVDEFASLVKA------------------------------------------
+-------
+>ENSSGRP00000061896 ENSSGRG00000032022	109	pvalb3	parvalbumin	Sinocyclocheilus_grahami	658A	658	A
+------------------------------------MAF-AGILNDADITAALQ---ACQ
+A-ADSFNYKSFFAKVGLSAKTPDVIKKAFAVIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SAGARALTDAETKAFLKVGD
+SDGDGKIGVDEFAAMIKA------------------------------------------
+-------
+>ENSCVAP00000011761 ENSCVAG00000014056	108	pvalb1	parvalbumin	Cyprinodon_variegatus	658A	658	A
+------------------------------------MAF-AG-LNDADVKAALD---GCA
+A-ADSFDYKKFFKACGLAGKSADDVKKAFATIDQDNSGFIEEEELK--------------
+-----------------------------LFLQNF-----SASARALTDKETKAFLAAGD
+SDGDGKIGVDEFAALVKA------------------------------------------
+-------
+>ENSFHEP00000001967 ENSFHEG00000002737	108	pvalb1	parvalbumin	Fundulus_heteroclitus	658A	658	A
+------------------------------------MAF-AG-LNDADVKAALD---GCA
+A-ADSFDYKKFFKACGLAGKSADDVKKAFATIDQDNSGFIEEEELK--------------
+-----------------------------LFLQNF-----SASARALTDKETKAFLAAGD
+SDGDGKIGVDEFAALVKA------------------------------------------
+-------
+>ENSGAFP00000016038 ENSGAFG00000010852	109	None	None	Gambusia_affinis	658A	658	A
+------------------------------------MAF-AGFLSDADISAAIA---ACQ
+A-ADSFKHKDFFAKVGLAAKSADDVKKAFAIIDQDKSGFIEEEELK--------------
+-----------------------------LFLQNF-----SASARALTDAETKTFLQAGD
+SDGDGKIGVDEFAAMVKG------------------------------------------
+-------
+>ENSKMAP00000011256 ENSKMAG00000008390	109	None	parvalbumin	Kryptolebias_marmoratus	658A	658	A
+------------------------------------MAF-AGLLSDADITAALA---ACQ
+A-ADSFKHKEFFAKVGLAGKSADDIKKAFAVIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTDAETKTFLKAGD
+SDGDGKIGVDEFAALVKG------------------------------------------
+-------
+>ENSPREP00000006332 ENSPREG00000004400	109	None	parvalbumin	Poecilia_reticulata	658A	658	A
+------------------------------------MAF-AGFLSDADISAAIA---ACQ
+A-ADSFKHKDFFAKVGLTAKSADDVKKAFAIIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTDAETKTLMQAGD
+SDGDGKIGVDEFAAMVKG------------------------------------------
+-------
+>ENSXMAP00000014691 ENSXMAG00000014664	109	None	parvalbumin	Xiphophorus_maculatus	658A	658	A
+------------------------------------MAF-AGFLNDADISAAIA---ACQ
+A-ADSFKHKDFFAKVGLTAKSADDVKKAFAIIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTDAETKTLMQAGD
+SDGDGKIGVDEFAAMVKG------------------------------------------
+-------
+>ENSELUP00000018625 ENSELUG00000018123	109	pvalb2	parvalbumin	Esox_lucius	658A	658	A
+------------------------------------MAF-KGMLKDEDVAAALQ---AFA
+A-ADSFNHKQFFAKVGLAGKSDEDLKKAFYLVDQDKSGFIEEEELK--------------
+-----------------------------LFLQNF-----SPSARALTDAETKAFLADGD
+KDGDGMIGVDEFAAMIKA------------------------------------------
+-------
+>ENSGMOP00000009781 ENSGMOG00000009150	103	None	None	Gadus_morhua	658A	658	A
+------------------------------------MAF-AGILKDAEVAAALE---ACK
+Y-AGSFDHTKFFKSCGLAGKSSDDVKKAFGIIDQDQSDFIEEEELK--------------
+-----------------------------LFLQNF-----SASARALSDAETKAFLKAGD
+SDGDGKIGVDGR------------------------------------------------
+-------
+>ENSNMLP00000024151 ENSNMLG00000015498	109	None	None	Neogobius_melanostomus	658A	658	A
+------------------------------------MAF-AGILSEADITAALA---ACS
+A-ADSFKYKDFFAKVGLAAKSADDIKKAFAVIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SAGARALTDAETKAFLKAGD
+SDGDGKIGVDEFSSLIKS------------------------------------------
+-------
+>ENSPMGP00000011883 ENSPMGG00000009835	109	pvalb1	parvalbumin	Periophthalmus_magnuspinnatus	658A	658	A
+------------------------------------MAF-AGMLSQEDIKAAVQ---ACQ
+A-ADSFDYKKFFKACGLAGKSSDEVKKAFAIIDQDNSGFIEEEELK--------------
+-----------------------------LFLQNF-----SAGARALTDKETKTFLSAGD
+SDGDGKIGVDEFTALVKA------------------------------------------
+-------
+>ENSEEEP00000019862 ENSEEEG00000009718	109	pvalb3	parvalbumin	Electrophorus_electricus	658A	658	A
+------------------------------------MAF-AGILNDADVTAALQ---ACQ
+A-ADSFNYKAFFAKVGLSSKSADDVKKAFAVIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SAGARALTDAETKAFLAAGD
+TDGDGKIGVDEFAALVKA------------------------------------------
+-------
+>ENSMMDP00005020986 ENSMMDG00005010298	109	pvalb1	parvalbumin	Myripristis_murdjan	658A	658	A
+------------------------------------MAF-AGVLSDADIKAALD---GCT
+A-AESFDYKKFFKACGLASKSADEIKKAFGIIDQDNSGFIEEEELK--------------
+-----------------------------LFLQNF-----SAGARALTDKETKTFLAAGD
+TDGDGKIGVEEFASLVKA------------------------------------------
+-------
+>ENSSORP00005029531 ENSSORG00005014102	109	None	parvalbumin	Sphaeramia_orbicularis	658A	658	A
+------------------------------------MAF-AGILNEADITAALA---ACS
+A-ADSFKYKDFFAKVGLSAKTPDDIKKAFAVIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SGSARALTDAETKAFLAAGD
+SDGDGKIGVDEFAALVKA------------------------------------------
+-------
+>ENSLBEP00000036364 ENSLBEG00000027207	109	pvalb1	parvalbumin	Labrus_bergylta	658A	658	A
+------------------------------------MAI-AGVLNAAEVKAALD---GCA
+A-ADSFDYKTFFKACGMAGKSSDEVKKAFAIIDQDNSGFIEEEELK--------------
+-----------------------------LFLQNF-----SAGARALTDKETAAFLAAGD
+SDGDGKIGVDEFAALVKA------------------------------------------
+-------
+>ENSPKIP00000037441 ENSPKIG00000015629	109	pvalb4	parvalbumin	Paramormyrops_kingsleyae	658A	658	A
+------------------------------------MAF-AGILNDGDITAALD---ACK
+A-ADSFSYKAFFAKVGLSSKSADDVKKAFAIIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTDAETKTFLKAGD
+SDGDGKIGADEFAALVKA------------------------------------------
+-------
+>ENSSFOP00015034438 ENSSFOG00015021939	109	pvalb2		Scleropages_formosus	658A	658	A
+------------------------------------MAF-TGILKDEDVAAAIK---DCQ
+A-ADSFNYKNFFAKTGLSSKSADDIKKAFYVIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----ASGARALTDAETKAFLSAGD
+SDGDGKIGVDEFAVLVKA------------------------------------------
+-------
+>ENSCGOP00000010832 ENSCGOG00000005338	109	None	parvalbumin beta	Cottoperca_gobio	658A	658	A
+------------------------------------MAL-AGTLKEADITAALA---ACQ
+A-ADSFKHKEFFAKVGLSAKSADDIKGAFKVIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTEGETKAFLKAGD
+SDGDGMIGMDEFATMVKG------------------------------------------
+-------
+>ENSGACP00000012466 ENSGACG00000009409	109	None	None	Gasterosteus_aculeatus	658A	658	A
+------------------------------------MAL-AASLNAADITAALA---ACQ
+A-ADSFKYKEFFKKIGLAAKSADDIKNAFKVIDQDKSGFIEEEELK--------------
+-----------------------------LFLQNF-----SASARALTEAETKAFLAAGD
+ADGDGMIGMDEFAAMVKG------------------------------------------
+-------
+>ENSCSEP00000019589 ENSCSEG00000012513	109	pvalb4	parvalbumin	Cynoglossus_semilaevis	658A	658	A
+------------------------------------MSFDKL-LDSGKVAAA---LEECK
+A-ADSFCHKKFFASCGLSDKSEAQLTEAFNIIDQDKSGFIEEEELK--------------
+-----------------------------LFLQVF-----KKDARALTDKETGSFMKAGD
+TDGDGKIGSSEFIAMVKP------------------------------------------
+-------
+>ENSSMAP00000022276 ENSSMAG00000013626	109	pvalb4	parvalbumin	Scophthalmus_maximus	658A	658	A
+------------------------------------MAF-KGVLDDAKITAALE---ECK
+K-PESFCHKKFFGTCGLSAKSPADVKAAFDIIDQDKSGFIEEDELK--------------
+-----------------------------LFLQTF-----KAGARSLTDTETKNLLKAGD
+TDNDGKIGADEFASMVKV------------------------------------------
+-------
+>ENSHHUP00000069309 ENSHHUG00000040836	109	pvalb2	parvalbumin	Hucho_hucho	658A	658	A
+------------------------------------MAF-KGMLKDEDIAAALK---HCA
+A-AESFNHKEFFAKVGLAGKSTEDLKKAFYFVDQDKSGFIEEDELK--------------
+-----------------------------LFLQTF-----SAGARALTDKETKAFLAVGD
+VDGDGMIGVDEFVTLVKA------------------------------------------
+-------
+>ENSOTSP00005005821 ENSOTSG00005003382	109	pvalb2	parvalbumin	Oncorhynchus_tshawytscha	658A	658	A
+------------------------------------MAF-KGMLKDEDIAAALK---HCA
+A-ADSFNHKEFFAKVGLAGKSTEDLKKAFYFVDQDKSGFIEEDELK--------------
+-----------------------------LFLQTF-----SAGARALTDKETKVFLAAGD
+ADGDGMIGVDEFAAMIKG------------------------------------------
+-------
+>ENSSTUP00000084478 ENSSTUG00000037130	109	pvalb4	parvalbumin beta	Salmo_trutta	658A	658	A
+------------------------------------MAC-AHLCKEADIKTALE---ACK
+A-ADSFNFKTFFHTIGFASKSADDVKKAFKVIDQDASGFIEVEELK--------------
+-----------------------------LFLQNF-----CPKARELTDAETKAFLKAGD
+ADGDGMIGIDEFAVLVKQ------------------------------------------
+-------
+>ENSLOCP00000010413 ENSLOCG00000008560	124	None	parvalbumin	Lepisosteus_oculatus	658A	658	A
+-----------------ESECEA----GQCPRSYSKMAF-AGILKDEDIAAALQ---ACQ
+A-ADSFNYKTFFAKVGLAGRSADDVKKAFAVLDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----KADARVLTDAETKAFLAAGD
+SDGDGKIGVDEFAALVKA------------------------------------------
+-------
+>ENSIPUP00000004149 ENSIPUG00000002908	109	prv2		Ictalurus_punctatus	658A	658	A
+------------------------------------MAF-AGLLSDADITAALQ---ACQ
+A-ADSFNYKTFFSKVGLSGKSSDDVKKAFAVIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SAGARALTDAETKAFLAAGD
+SDGDGKIGVDEFAALVKA------------------------------------------
+-------
+>ENSSAUP00010033058 ENSSAUG00010014016	117	None	parvalbumin	Sparus_aurata	658A	658	A
+----------------------------MLYCQQVKMAF-AGLLKEADITAALA---ACQ
+A-ADSFKHKDFFAKVGLAGKSADDIKKAFAVIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTDGETKTFLKAGD
+SDGDGKIGVDEFAAMMKA------------------------------------------
+-------
+>ENSMAMP00000035086 ENSMAMG00000023557	120	pvalb4	parvalbumin	Mastacembelus_armatus	658A	658	A
+---------------------MV----MARSESMIEMAF-AGVLKDADVAAALE---ACK
+T-ADSFDHKKFFHSCGLSGKTPEDVKKAFAIIDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----KADARALTDAETKAFMKIGD
+TDGDGKIGAEEFAALVKA------------------------------------------
+-------
+>ENSMALP00000008504 ENSMALG00000006050	109	pvalb4	parvalbumin	Monopterus_albus	658A	658	A
+------------------------------------MAF-AGVLNEADIAAALE---ACK
+S-PDTFNYKNFFHTCGLSGHSADDVKKAFGIIDRDKICFIEEDELK--------------
+-----------------------------LFLQNF-----SANARALTDAETKAFLKAGD
+TDGDGKIGVDEFAAVVKQ------------------------------------------
+-------
+>ENSHCOP00000006991 ENSHCOG00000008881	108	pvalb1	parvalbumin beta	Hippocampus_comes	658A	658	A
+------------------------------------MAF-TGFLNDAEMKAALD---GCS
+A-PESFNFKTFFKVSGLASKSPDDVKKAFRIIDQDNSGFIEEEELK--------------
+-----------------------------LFLQNF-----SASARALTDKETKTFLAAGD
+SDGDGMIGIDGKTSPNA-------------------------------------------
+-------
+>ENSMMOP00000009008 ENSMMOG00000006955	109	pvalb1	parvalbumin	Mola_mola	658A	658	A
+------------------------------------MAF-AGVLNEADVKKALD---SCA
+A-ADSFNYKAFFKACGLSGKSADDVKKAFAIIDQDNSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTEKETKAFLSAGD
+SDGDGKIGVEEFAALVKA------------------------------------------
+-------
+>ENSTRUP00000025604 ENSTRUG00000010170	109	pvalb1	parvalbumin	Takifugu_rubripes	658A	658	A
+------------------------------------MAF-AGILNDADVKAALD---SCS
+A-ADSFNYKSFFQKCGLAAKSPDDLKKAFAIIDQDNSGFIEEEELK--------------
+-----------------------------LFLQNF-----SASARALSDKETKAFLAAGD
+SDGDGKIGVEEFAALMKA------------------------------------------
+-------
+>ENSTNIP00000014908 ENSTNIG00000011948	111	pvalb1	parvalbumin	Tetraodon_nigroviridis	658A	658	A
+-----------------------------------KMAF-GGILSEADVKAALD---GCS
+AAAESFEYKAFFKKCGLAGKSADEVKKAFAIIDQDNSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALSDKETKAFLAAGD
+SDGDGKIGVDEFAALVKA------------------------------------------
+-------
+>ENSBBBP00000000963 ENSBBBG00000010109	109	None		Bison_bison_bison	658A	658	A
+------------------------------------MSISDV-LSADDIAAALK---ECQ
+D-PDTFEPQKFFQTSGLAKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSBTAP00000054975 ENSBTAG00000046943	125	None		Bos_taurus	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLAKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADGMFTPVHGRRDLSSGGIRG-RGVRP-------------------------
+-------
+>ENSCDRP00005020108 ENSCDRG00005014012	109	None	None	Camelus_dromedarius	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLAKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTKSETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSCHIP00000032823 ENSCHIG00000026637	132	None	oncomodulin	Capra_hircus	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECR
+D-PDTFEPQKFFQTSGLAKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADGMFTPAHGRGDLSSGGIRG-RAVRPRG--QTNIG----------------
+-------
+>ENSCWAP00000013615 ENSCWAG00000010569	109	None	None	Catagonus_wagneri	658A	658	A
+------------------------------------MSITDV-LSADDIAAALL---ECQ
+D-PDTFEPQKFFQTSGLAKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSDLEP00000028571 ENSDLEG00000020471	132	None	None	Delphinapterus_leucas	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLAKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADGTFTPVHGIRDFSAGSIRG-RELRPRD--QTDMG----------------
+-------
+>ENSMMSP00000020460 ENSMMSG00000015375	109	None	None	Moschus_moschiferus	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLAKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSOARP00000001036 ENSOARG00000001002	128	None		Ovis_aries	658A	658	A
+-----------------ARSCWALTTFRLFCENRWKMSITDV-LSADDIAAALQ---ECR
+D-PDTFEPQKFFQTSGLAKMSASQVKDVFRFIDNDQSGYLDEDELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADGKFTPAHG------------------------------------------
+-------
+>ENSPCTP00005020918 ENSPCTG00005014893	109	OCM2	None	Physeter_catodon	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLAKMSASQVKDVFRFIDDDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSSSCP00000049371 ENSSSCG00000007596	132	None		Sus_scrofa	658A	658	A
+------------------------------------MSITDV-LSADDIAAALL---ECQ
+D-PDTFEPQKFFQTSGLAKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADGMFTPVHSMRDLSSGSIRD-RGLKPGD--ETDLG----------------
+-------
+>ENSTTRP00000004967 ENSTTRG00000005274	88	None	None	Tursiops_truncatus	658A	658	A
+------------------------------------------------------------
+--PDTFEPQKFFQTSGLAKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSVPAP00000010328 ENSVPAG00000011090	88	None	None	Vicugna_pacos	658A	658	A
+------------------------------------------------------------
+--PDTFEPQKFFQTSGLAKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSAMEP00000009429 ENSAMEG00000008965	128	None	None	Ailuropoda_melanoleuca	658A	658	A
+-----------------ASSCLPLTTSHLFCVTRRKMSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADGMSTPVPS------------------------------------------
+-------
+>ENSCAFP00000022743 ENSCAFG00000015446	109	None	None	Canis_lupus_familiaris	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSFCAP00000000288 ENSFCAG00000000313	109	None		Felis_catus	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESSARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSLCNP00005028879 ENSLCNG00005018817	109	None	oncomodulin	Lynx_canadensis	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESSARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSMPUP00000016465 ENSMPUG00000016568	109	None	None	Mustela_putorius_furo	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSNVIP00000008075 ENSNVIG00000006417	109	None	None	Neovison_vison	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSPLOP00000017008 ENSPLOG00000012444	109	None	None	Panthera_leo	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESSARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSSSUP00005027874 ENSSSUG00005018015	109	None	None	Suricata_suricatta	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESSARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSUMAP00000012108 ENSUMAG00000009054	109	None	oncomodulin	Ursus_maritimus	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSVVUP00000020557 ENSVVUG00000015131	109	OCM2	oncomodulin	Vulpes_vulpes	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSMLUP00000008591 ENSMLUG00000009432	109	None	None	Myotis_lucifugus	658A	658	A
+------------------------------------MSITDV-LSAEDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTETETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSPVAP00000010288 ENSPVAG00000010917	101	None	None	Pteropus_vampyrus	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGAD--------------------------------------------------
+-------
+>ENSRFEP00010013004 ENSRFEG00010008833	109	None	None	Rhinolophus_ferrumequinum	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSDNOP00000005519 ENSDNOG00000007139	109	None		Dasypus_novemcinctus	658A	658	A
+------------------------------------MSITDF-LSADDITAALQ---ECQ
+D-PDTFEPPKFFQTSGLSRLSAGQLKDVFRVIDNDESGYLDEEELK--------------
+-----------------------------FFLQKF-----DSGARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSVURP00010023000 ENSVURG00010017631	109	None	None	Vombatus_ursinus	658A	658	A
+------------------------------------MSITDV-LSAADIAAALE---ECQ
+D-PDSFNHKKFFETSGLSKMSASQVKDIFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARVLTSSETKSLLEAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSEEUP00000005613 ENSEEUG00000006188	101	None	None	Erinaceus_europaeus	658A	658	A
+------------------------------------MSITDL-LSAEDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGAE--------------------------------------------------
+-------
+>ENSSARP00000001687 ENSSARG00000001886	80	None	None	Sorex_araneus	658A	658	A
+------------------------------------------------------------
+--PDTFEPQKFFQTSGLSKMSASEVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESSARELTETETKSLLAAAD
+SDGDGKIGAE--------------------------------------------------
+-------
+>ENSOPRP00000004798 ENSOPRG00000005230	109	None	None	Ochotona_princeps	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQRFFQTSGLAKMSASQVKDIFRFIDNDQSGYVEEDELK--------------
+-----------------------------FFLQKF-----NSDARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSOCUP00000043341 ENSOCUG00000007419	144	None	None	Oryctolagus_cuniculus	658A	658	A
+--------------------------MSALCFQHHGPSPSDC--DPVSLRQPVL---YST
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFLDNDQSGYLDEDELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADGTFTLVHHTKQCSPRSTREGLGCGIRQ-GLTSPFP---------------
+-------
+>ENSECAP00000000174 ENSECAG00000000243	109	None	oncomodulin	Equus_caballus	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSCHOP00000002278 ENSCHOG00000002573	109	None	None	Choloepus_hoffmanni	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+SDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSCJAP00000069762 ENSCJAG00000015258	139	None	putative	Callithrix_jacchus	658A	658	A
+------------------------------------MSITDM-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGAEGMSTPVCSITHFRPGKVA--HACNPSTLGGHSRWITRSRD----------
+-------
+>ENSCATP00000040688 ENSCATG00000042940	109	None	oncomodulin	Cercocebus_atys	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGAEEFQEMVHS------------------------------------------
+-------
+>ENSGGOP00000024021 ENSGGOG00000022595	109	OCM2	oncomodulin	Gorilla_gorilla	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSANQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGAEEFQEMVHS------------------------------------------
+-------
+>ENSP00000257627 ENSG00000135175	109	OCM2	oncomodulin	Homo_sapiens	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGAEEFQEMVHS------------------------------------------
+-------
+>ENSMMUP00000069358 ENSMMUG00000049706	109	None	putative	Macaca_mulatta	658A	658	A
+------------------------------------MSITDV-LSAEDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGAEEFQEMVHS------------------------------------------
+-------
+>ENSMLEP00000026102 ENSMLEG00000037262	109	None	oncomodulin	Mandrillus_leucophaeus	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGAEEFQEMVHS------------------------------------------
+-------
+>ENSMICP00000044363 ENSMICG00000042503	109	None	putative	Microcebus_murinus	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGAEEFQEMVHS------------------------------------------
+-------
+>ENSPTRP00000033242 ENSPTRG00000019432	109	OCM2	oncomodulin	Pan_troglodytes	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGAEEFQEMVHS------------------------------------------
+-------
+>ENSPANP00000016703 ENSPANG00000009446	109	None	oncomodulin	Papio_anubis	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDIFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGAEEFQEMVHS------------------------------------------
+-------
+>ENSPPYP00000019431 ENSPPYG00000017340	109	None		Pongo_abelii	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECR
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGAEEFQEMVHS------------------------------------------
+-------
+>ENSTGEP00000013791 ENSTGEG00000011189	101	None	None	Theropithecus_gelada	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGAE--------------------------------------------------
+-------
+>ENSLAFP00000028960 ENSLAFG00000027808	109	None	None	Loxodonta_africana	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGAEEFQEMVHS------------------------------------------
+-------
+>ENSCCNP00000003760 ENSCCNG00000003986	109	Ocm	oncomodulin	Castor_canadensis	658A	658	A
+------------------------------------MSITDV-LSAEDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMTASQVKDVFRFIDNDQSGYLDEDELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+TDGDGKVGADEFQEMVHS------------------------------------------
+-------
+>ENSCPOP00000010715 ENSCPOG00000011911	109	None	Oncomodulin	Cavia_porcellus	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSCLAP00000011035 ENSCLAG00000007617	109	None	oncomodulin	Chinchilla_lanigera	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSDORP00000022375 ENSDORG00000012852	131	Ocm		Dipodomys_ordii	658A	658	A
+------------------------------------MSITDV-LSAEDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGFLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+SDGDGKIGADGTCRARSRVWVP---FLHT-RACAHTH--THTFWYL--------------
+-------
+>ENSSTOP00000009630 ENSSTOG00000010731	109	None		Ictidomys_tridecemlineatus	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSMUGP00000000430 ENSMUGG00000000442	109	Ocm		Meriones_unguiculatus	658A	658	A
+------------------------------------MSITDM-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQLKDVFRFIDNDQSGYLDGEELR--------------
+-----------------------------YFLQRF-----QSDARELTESETKSLMEAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSMAUP00000017107 ENSMAUG00000016041	119	Ocm		Mesocricetus_auratus	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEDELK--------------
+-----------------------------FFLQKF-----QSDARELTESETKSLMAAAD
+NDGDGKIGFSSDFHMCTHAMLEDKNSHL--------------------------------
+-------
+>ENSMOCP00000005566 ENSMOCG00000005057	109	Ocm	putative	Microtus_ochrogaster	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEDELK--------------
+-----------------------------FFLQKF-----QSDARELTESETKSLMAAAD
+NDGDGKIGAEEFQEMVHS------------------------------------------
+-------
+>ENSMUSP00000031622 ENSMUSG00000029618	109	Ocm		Mus_musculus	658A	658	A
+------------------------------------MSITDI-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQLKDIFQFIDNDQSGYLDEDELK--------------
+-----------------------------YFLQRF-----QSDARELTESETKSLMDAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSODEP00000015003 ENSODEG00000011077	112	None		Octodon_degus	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----ESGARELTESETKSLMAAAD
+NDGDGKIGADGMSTIIQFKTR---------------------------------------
+-------
+>ENSPEMP00000027662 ENSPEMG00000023404	109	Ocm		Peromyscus_maniculatus_bairdii	658A	658	A
+------------------------------------MSITDV-LSADDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDVFRFIDNDQSGYLDEEELK--------------
+-----------------------------FFLQKF-----QSDARELTESETKSLMAAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSRNOP00000040755 ENSRNOG00000001031	109	Ocm2	oncomodulin	Rattus_norvegicus	658A	658	A
+------------------------------------MSITDI-LSAEDIAAALQ---ECQ
+D-PDTFEPQKFFQTSGLSKMSASQVKDIFRFIDNDQSGYLDGDELK--------------
+-----------------------------YFLQKF-----QSDARELTESETKSLMDAAD
+NDGDGKIGADEFQEMVHS------------------------------------------
+-------
+>ENSANIP00000011770 ENSANIG00000007963	109	None	None	Accipiter_nisus	658A	658	A
+------------------------------------MALS-GILTEAEISAGLQ---SCQ
+A-ADSFNYKTFFVKVGLNSKSKDQLTKVFGILDQDRSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTDAETKAFLAAGD
+SDGDGKIGVDEFQALVKS------------------------------------------
+-------
+>ENSACCP00020023196 ENSACCG00020015936	115	None	None	Aquila_chrysaetos_chrysaetos	658A	658	A
+------------------------------H---PTAILS-MKKIQRSLTTFFHLFLLIS
+A-ADSFNYKTFFLKVGLNSKSKDQLTKVFGILDQDRSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTDAETKAFLAAGD
+SDGDGKIGVDEFQALVKS------------------------------------------
+-------
+>ENSAOWP00000000282 ENSAOWG00000000233	120	None	None	Apteryx_owenii	658A	658	A
+------------------------------------MAL-AGILTDAEIAAGLQ---SCE
+A-ADSFNYKTFFVKVGLNSKSKDQLAEVFGILDQDRSGFIEEDELK--------------
+-----------------------------LFLKNF-----SASARALTDAETKAFLAAGD
+SDGDGKIGVDGKIPFMKWSNFLPLAFPSV-------------------------------
+-------
+>ENSDNVP00000013317 ENSDNVG00000009405	130	None	parvalbumin	Dromaius_novaehollandiae	658A	658	A
+-------MSFA-IQFLYSQVCIS----VTE---ELNPA-----YQLIKNDLG---SFKMK
+T-ADSFNYRTFFVKVGLNSKSKDQLAKVFGILDQDRSVNPKKKK----------------
+----------------------------------K-----KDLPIALTDAETKAFLAAGD
+SDGDGKIGVDGKIPXMKWSNFLPLAFP--------SV-----------------------
+-------
+>ENSCPUP00000023039 ENSCPUG00000015654	120	None	None	Calidris_pugnax	658A	658	A
+----------------------------------------GSRTSVKGQEDL---TKVYI
+T-ADSFDYKTFFVKVGLNSKSKDELAQVFRILDQDRSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARVLTDAETKAFLAAGD
+SDGDGRIGVDGNFNTMLGKSSYYTKFKQSTGL----------------------------
+-------
+>ENSCPRP00005007077 ENSCPRG00005005012	109	None	parvalbumin	Crocodylus_porosus	658A	658	A
+------------------------------------MALV-GILTDAEITAGLQ---SCQ
+A-ADTFNYKTFFAKVGLNSKSKDQLAKVFGILDQDKSGFIEEDELK--------------
+-----------------------------FFLQNF-----SASARALTDAETQAFLKAGD
+SDGDGKIGVDEFQALVKS------------------------------------------
+-------
+>ENSCJPP00005016542 ENSCJPG00005013574	119	None	parvalbumin	Coturnix_japonica	658A	658	A
+---------------------------MTLR---NNLLLSEEKLNNSFLVPGLQLSLFIS
+A-ADSFNYKTFFVKVGLNSKSKDQLAKVFGILDQDRSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTDAETKAFLAAGD
+SDGDGKIGVDEFQALVKS------------------------------------------
+-------
+>ENSGALP00000033677 ENSGALG00000021286	129	None	parvalbumin	Gallus_gallus	658A	658	A
+---------MSELQDRTASSCRE----LPCS---ANMAFA-GILTEAEIAAGLQ---SCQ
+A-ADSFNYKTFFVKVGLNSKSKDQLAKVFGILDQDRSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTDAETKAFLAAGD
+SDGDGKIGVDEFQALVKS------------------------------------------
+-------
+>ENSNMEP00000008342 ENSNMEG00000008138	109	None	None	Numida_meleagris	658A	658	A
+------------------------------------MALV-GILTEAEIAAGLQ---SCQ
+A-ADSFNYKTFFVKVGLNSKSKDQLAKVFGILDQDRSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARALTDAETKAFLAAGD
+SDGDGKIGVDEFQALVKS------------------------------------------
+-------
+>ENSCPVP00000002680 ENSCPVG00000001985	107	None	parvalbumin	Camarhynchus_parvulus	658A	658	A
+------------------------------------MALS-SILTEAEIAAGLH---SS-
+--ADSFDYKTFFVKVGLNSKSKDQIAKVFGILDQDRSGFIEEEELK--------------
+-----------------------------LFLKNF-----SASARALTDAETKAFLAAGD
+SDGDGKIGVDEFQALVKS------------------------------------------
+-------
+>ENSCCEP00000025390 ENSCCEG00000022400	109	None	parvalbumin	Cyanistes_caeruleus	658A	658	A
+------------------------------------MALS-SILTEAEIAAGLQ---SCQ
+A-ADSFDYKTFFVKVGLNSKSKDQVAKVFGILDQDRSGFIEEEELK--------------
+-----------------------------LFLKNF-----SASARALTDAETKAFLAAGD
+SDGDGKIGVDEFQALVKS------------------------------------------
+-------
+>ENSEGOP00005021117 ENSEGOG00005016933	117	None	None	Erythrura_gouldiae	658A	658	A
+------------------------------------MALS-SILTEAEIAAGLQ---SCQ
+A-ADSFDYKTFFVKVGLNSKSKDQVAEVFGILDQDRSGFIEEEELK--------------
+-----------------------------LFLKHF-----SASARALTDAETKAFLAAGD
+SDGDGKIGVDGKTALIKMTIPV-FEIS---------------------------------
+-------
+>ENSFALP00000014580 ENSFALG00000013972	112	None	parvalbumin	Ficedula_albicollis	658A	658	A
+------------------------------I---LDMALS-SILTEAEIAAGLQ---SCQ
+A-ADSFDYKTFFIKVGLNSKSEDQVAKVFGILDQDRSGFIEEEELK--------------
+-----------------------------LFLKNF-----SASARALTDAETKAFLAAGD
+SDGDGKIGVDEFQALVKS------------------------------------------
+-------
+>ENSGFOP00000000089 ENSGFOG00000000083	107	None	None	Geospiza_fortis	658A	658	A
+------------------------------------MALS-SILTEAEIAAGLH---SS-
+--ADSFDYKTFFVKVGLNSKSKDQIAKVFGILDQDRSGFIEEEELK--------------
+-----------------------------LFLKNF-----SASARALTDAETKAFVAAGD
+SDGDGKIGVDEFQALVKS------------------------------------------
+-------
+>ENSJHYP00000007748 ENSJHYG00000006124	107	None	None	Junco_hyemalis	658A	658	A
+------------------------------------MALS-SILTEAEIAAGLQ---SS-
+--ADSFDYKTFFVKVGLNSKSKDQVAKVFGILDQDRSGFIEEEELK--------------
+-----------------------------LFLKNF-----SASARALTDAETKAFLAAGD
+SDGDGKIGVDEFQALVKP------------------------------------------
+-------
+>ENSLSDP00000005726 ENSLSDG00000004429	117	None	parvalbumin	Lonchura_striata_domestica	658A	658	A
+------------------------------------MALS-SILTEAEIAAGLQ---SCQ
+A-ADSFDYKTFFVKVGLNSKSKDQVAKVFGILDQDRSGFIEEEELK--------------
+-----------------------------LFLKHF-----SASARTLTDAETKAFLAAGD
+SDGDGKIGVDGKTALIKMIIPA-FEIS---------------------------------
+-------
+>ENSMVIP00005004566 ENSMVIG00005003524	109	None	parvalbumin	Manacus_vitellinus	658A	658	A
+------------------------------------MALS-GILTEAEIAAGLQ---SCQ
+A-ADSFDYKTFFVKVGLNSKSKDELTKVFSILDQDRSGFIEEEELK--------------
+-----------------------------LFLKHF-----SASARALTDAETKAFLAAGD
+SDGDGKIGVDEFQALVKS------------------------------------------
+-------
+>ENSPMJP00000023333 ENSPMJG00000017236	122	None	None	Parus_major	658A	658	A
+------------------------------------MALS-SILTEAEIAAGLQ---SCQ
+A-ADSFDYKTFFVKVGLNSKSKDQVAKVFGILDQDRSGFIEEEELN--------------
+-----------------------------CFLLRFFYQTEFKGARALTDAETKAFLAAGD
+SDGDGKIGVDGKTALIKMIIPA-LETP---------------------------------
+-------
+>ENSSCAP00000013806 ENSSCAG00000010195	117	None	parvalbumin	Serinus_canaria	658A	658	A
+------------------------------------MALS-SILTEAEIAAGLQ---CCQ
+A-ADSFDYKTFFVKVGLNSKSNDQVAKVFGILDQDRSGFIEEEELK--------------
+-----------------------------LFLKNF-----SASARALTDAETKAFLAAGD
+SDGDGKIGVDGKTALIKMIIPA-SETS---------------------------------
+-------
+>ENSTGUP00000037297 ENSTGUG00000026871	106	None	None	Taeniopygia_guttata	658A	658	A
+------------------------------------MALSSI-LTE--AEIA---AGLQS
+S-ADSFDFKTFFVKVGLNSKSKDQVAKVFGILDQDRSV----------------------
+------------------------------NKKHF-----SASARALTYAETKAFLAAGD
+SDGDGKIGVDGKTALIKMIIPAFEIS----------------------------------
+-------
+>ENSZALP00000002832 ENSZALG00000002953	109	None	parvalbumin	Zonotrichia_albicollis	658A	658	A
+------------------------------------MALS-SILTEAEIAAGLQ---SCQ
+A-ADSFDYKTFFVKVGLNSKSKDQVAKVFGILDQDRSGFIEEEELK--------------
+-----------------------------LFLKNF-----SASARALTDAETKAFLAAGD
+SDGDGKIGVDEFQALVKS------------------------------------------
+-------
+>ENSSPUP00000000089 ENSSPUG00000000072	108	None	None	Sphenodon_punctatus	658A	658	A
+------------------------------------MALV-GILTDAEIAAGLQ---SCQ
+G-N-SCLFKTFFAKVGLNAKSKDQLAKVFGILDQDKSGFIEEDELK--------------
+-----------------------------LFLQNF-----SASARILTDAETKAFLAAGD
+SDGDGKIGVDEFQVLVKS------------------------------------------
+-------
+>ENSACAP00000022848 ENSACAG00000028934	109	None	parvalbumin	Anolis_carolinensis	658A	658	A
+------------------------------------MSL-AGILTDAEIAAGLE---SCK
+A-PDSFNSKTFFAKSGMHGKSKDQLTKVFGILDQDKSGYIEEDELQ--------------
+-----------------------------KFLQNF-----AASARLLTEKETKVLLSAGD
+TDGDGKIGVDEFIALVTA------------------------------------------
+-------
+>ENSLLTP00000011430 ENSLLTG00000008811	110	None	None	Laticauda_laticaudata	658A	658	A
+------------------------------------MAF-SGILTDADIAAALQ---SCQ
+A-ADSFSCKTFFTKSGLHGKSKDQLTKVFEVIDQDKSGYIEEGELK--------------
+-----------------------------MFMQNF-----DGKARVLTDKETSEFLKAGD
+TDGDGKIGVEEFVVLITKC-----------------------------------------
+-------
+>ENSPMRP00000035089 ENSPMRG00000022716	110	None	parvalbumin,	Podarcis_muralis	658A	658	A
+------------------------------------MAFAGI-LSDADIEAA---LKSCQ
+A-PDSFTYKSFFEKTGLSKKSKEELGKVFGVLDQDKSGFIEKEELQ--------------
+-----------------------------NFMQNF-----KPGARVLTDKETNAFLAAGD
+TDGDGKIGVEEFQALVTSK-----------------------------------------
+-------
+>ENSPVIP00000006807 ENSPVIG00000005609	119	None	parvalbumin	Pogona_vitticeps	658A	658	A
+------------------------------------MALAGI-LTDAEITAG---LQCCQ
+A-PDSFNYKTFFAKSGLRDKPRDLWREVFAVLDQNKSGFIEEDELR--------------
+-----------------------------NFLQNF-----SLSARRLTDEETKNFLAAGD
+IDGDGKLGMEGTMTPSEIPFPCPAMAAA--------------------------------
+-------
+>ENSPTXP00000001432 ENSPTXG00000001168	110	None	parvalbumin	Pseudonaja_textilis	658A	658	A
+------------------------------------MAF-SGILNDADIAAALK---SCQ
+A-ADSFSCKTFFAKSGLQGKSKDQLTKVFEVIDQDKSGYIEEGELK--------------
+-----------------------------MFMQNF-----DGKARVLTDKETLEFLKAGD
+TDGDGKIGVDEFVVLVSKC-----------------------------------------
+-------
+>ENSSMRP00000025990 ENSSMRG00000020075	110	None	None	Salvator_merianae	658A	658	A
+------------------------------------MAFAGI-LTDAEIEAG---LQSCQ
+A-PDSFSCKTFFDKSGLSKKPKEQLAKAFEILDQDKSGYIEEDELR--------------
+-----------------------------KFLQNF-----SSGARLLTDNETKDFLAKGD
+TDGDGKIGVEEFQALAIKT-----------------------------------------
+-------
+>ENSVKKP00000011307 ENSVKKG00000007884	111	None	None	Varanus_komodoensis	658A	658	A
+-----------------------------P---DWDSGNPGS-SPHS--ALS---SLNDF
+S-LDSFCCKTFFAKASLTGKSKEELSKVFGVIDQDKSGFIEEEELS--------------
+-----------------------------KFLQNF-----KDGARVLTDKETKEFLAKGD
+TDGDGKIGVDEFIALVKC------------------------------------------
+-------
+>ENSSCUP00000020758 ENSSCUG00000015241	109	None	parvalbumin	Struthio_camelus_australis	658A	658	A
+------------------------------------KYLTNL-KSLLFFIAS---CLFIS
+A-ADSFNYKTFFVKEGLNSKSKDQLAKVFGILDQDRSGFIEEDELK--------------
+-----------------------------LFLKNF-----SATARALTDAETKAFPVAGD
+SDGDGKIGVDEFQALVKS------------------------------------------
+-------
+>ENSCPBP00000028281 ENSCPBG00000019992	117	None	None	Chrysemys_picta_bellii	658A	658	A
+---------------------MG----MGT---LEI-CTTVITSREKVLNNR---FLFLP
+A-ADSFNYKSFFSKVGLKGKSTDQVKKIFGILDQDKSGFIEEDELQ--------------
+-----------------------------LFLQNF-----SSTARALTAAETKAFMAAGD
+TDGDGKIGVDEFQALVKA------------------------------------------
+-------
+>ENSNPEP00000005734 ENSNPEG00000004323	135	None	parvalbumin	Nothoprocta_perdicaria	658A	658	A
+------------------------------------MAL-AGILTDAEIAAGLQ---SCQ
+D-ADSFNYKTFFVKVGLNSKSKDQLAKVFGILDQDRSGFIEEDELK--------------
+-----------------------------LFLKNF-----SASARVLTDAETKAFLAAGD
+SDGDGKIGVDGKIPVIKWSNLCPWHFLVSSSGQ-----LPCSMCWL-----LCI------
+-------
+>ENSGWIP00000016020 ENSGWIG00000009014	110	None	parvalbumin,	Gouania_willdenowi	658B	658	B
+------------------------------------MAITDF-LAASDITSA---INACK
+A-KDSFRPKMFFKIVGLSKKTPAEIERVFQILDQDKSGFIEQDELQ--------------
+-----------------------------LFLQNF-----SKGARPLTAAETRAFLLEGD
+SDGDGKIGWEEFSALVTSA-----------------------------------------
+-------
+>ENSSFAP00005018664 ENSSFAG00005009819	110	None	parvalbumin,	Salarias_fasciatus	658B	658	B
+------------------------------------MAITDF-LAASDITSA---INACK
+A-KDSFRPKMFFKIVGLSKKTPTEIERVFKILDQDKSGYIEQDELQ--------------
+-----------------------------LFLQNF-----SKGARPLTAAETRAFLLEGD
+SDGDGKIGWEEFSALVKSA-----------------------------------------
+-------
+>ENSENLP00000045484 ENSENLG00000019355	133	None	None	Echeneis_naucrates	658B	658	B
+------------------------------------MAITNF-LAASDITLA---INACK
+A-KDSFSPKMFFKTVGLSKKSPAEIERVFEILDQDKSGYIEQDELQ--------------
+-----------------------------LFLQNF-----AKGARPLTAAETRAFLLEGD
+SDGDGKIGWEGRQVLRERLTSL-IIS------------------VLFVYFFFCLFV----
+-LLSFV-
+>ENSSDUP00000007130 ENSSDUG00000005252	110	None	parvalbumin,	Seriola_dumerili	658B	658	B
+------------------------------------MAITDF-LAASDINSA---INACK
+A-KDSFSPKMFFKTVGLSKKSPTEIERVFKILDQDKSGYIEQDELQ--------------
+-----------------------------LFLQNF-----AKGARPLTAAETRAFLLEGD
+SDGDGKIGWEEFSALVKSS-----------------------------------------
+-------
+>ENSPNAP00000024938 ENSPNAG00000009748	110	None	parvalbumin,	Pygocentrus_nattereri	658B	658	B
+------------------------------------MAITDF-LAASDISSA---INACK
+A-KDSFSPKTFFATVGLSKRSLSEIEKVFKMLDQDKSGFIEQDELQ--------------
+-----------------------------LFLQNF-----SKGARALTAAETKAFLVAGD
+MDGDGKIGWEEFSALVNAS-----------------------------------------
+-------
+>ENSACIP00000003691 ENSACIG00000002923	110	None	None	Amphilophus_citrinellus	658B	658	B
+------------------------------------MAITEF-LAVSDITSA---ISACK
+A-EDSFSAKMFFNTVGLTKKSPREIEKVFKILDQDKSGYIEQDELQ--------------
+-----------------------------LFLQNF-----REGARPLTAAETRAFLLEGD
+SDGDGKIGWEGWSNLLQSL-----------------------------------------
+-------
+>ENSCHAP00000018456 ENSCHAG00000009581	115	None	None	Clupea_harengus	658B	658	B
+----------------------------MT---CLRMAVKDL-FAASDITSA---ISSCQ
+A-NDSFSPKAFFATVGLSKKSPPEIEKVFRILDQDKSGFIEQEELQ--------------
+-----------------------------LFLQNF-----SKGARTLTAAETRAFMLDGD
+MDGDGKIGWEEFSALVKSS-----------------------------------------
+-------
+>ENSCARP00000005294 ENSCARG00000002544	114	None	None	Carassius_auratus	658B	658	B
+------------------------------------MAITEV-LPASDISTA---ISLCT
+A-KDSFSPKTFFASLGLSKKSPPEIEKVFKMLDQDKSGFIERDELQ--------------
+-----------------------------LFLQSF-----SKGARVFTAAETKDFLVAGD
+MDGDGKISWEALPRVLSLSRFQ-S------------------------------------
+-------
+>ENSCCRP00000038549 ENSCCRG00000020627	140	None	None	Cyprinus_carpio	658B	658	B
+MVRLQVLLVTSAKVLLQVQALDF----PQI---HWEMPITDV-LAASDISTA---INACK
+A-KDSFSPKTFFATVGLSKKSPPEIEKVFKMLDQDKSGFIEQDELQ--------------
+-----------------------------LFLQNF-----SKGARALTAAETKAFLMAGD
+MDGDGKIGWEGWYLKYADIL----------------------------------------
+-------
+>ENSSGRP00000013930 ENSSGRG00000008742	110	None	parvalbumin,	Sinocyclocheilus_grahami	658B	658	B
+------------------------------------MGITDV-LAASDISTA---INACK
+A-KDSFSPKTFFATVGLSKKSPPEIEKVFKMLDQDKSGFIEQDELQ--------------
+-----------------------------LFLQNF-----SKGARALTAAETKALLMAGD
+MDGDGKIGWEEFSALVNAS-----------------------------------------
+-------
+>ENSNMLP00000024204 ENSNMLG00000015508	111	None	None	Neogobius_melanostomus	658B	658	B
+------------------------------------MAITDF-LASSDINFA---INACK
+A-KDTFSPKMFFKAVGLSKKTPSEIERVFKILDQDKSGFIEQDELQ--------------
+-----------------------------LFLQNF-----SKGARPLTAAETRAFLLEGD
+SDGDGKIGWEGRHRSFTNKI----------------------------------------
+-------
+>ENSMMDP00005049558 ENSMMDG00005022518	110	None	parvalbumin,	Myripristis_murdjan	658B	658	B
+------------------------------------MAITDF-LAASDITSA---INACK
+A-KDSFSPKMFFKTVGLSKKSPTEIERVFKILDQDKSGYIEQDELQ--------------
+-----------------------------LFLQNF-----SKGARPLTAAETRAFLLAGD
+SDGDGKIGWEEFSALVKSS-----------------------------------------
+-------
+>ENSSORP00005029535 ENSSORG00005014103	138	None	None	Sphaeramia_orbicularis	658B	658	B
+------------------------------------MAITDF-LAASDITLA---INACK
+A-KDSFSPKTFFKTVGLSKKTPTEIERVFKILDQDKSGYIEQDELQ--------------
+-----------------------------LFLQNF-----SKGARPLTAAETRAFLLEGD
+SDGDGKIGWEGSFLLWSNHHKA-CKVPS------------CCMMVSQGGHLFTFFT----
+-SRSL--
+>ENSLBEP00000013130 ENSLBEG00000010105	108	None	parvalbumin,	Labrus_bergylta	658B	658	B
+------------------------------------MAITDF-LAASDITSA---INA--
+A-KDSFSPKMFFKTVGLSKKTPVEIERVFKILDQDKSGFIEQDELQ--------------
+-----------------------------LFLQNF-----SKGARTLTAAETRAFLSEGD
+SDGDGKIGWEEFSALVKSS-----------------------------------------
+-------
+>ENSCGOP00000010834 ENSCGOG00000005439	148	None	parvalbumin,	Cottoperca_gobio	658B	658	B
+------------------------------------MAITDF-LAALDITAA---ISACK
+A-KDSFSPKMFFKTVGLSKKNPTDIKKVFTVLDQDKSGFIEQDELQLSFPHREYTYIHTY
+TYTYTYLMSVLTSLLVVCVCVCVFLFFIRLFLQKF-----SKGARTLTAAETRGFLLQGD
+SDGDGKIGWEGRQV----------------------------------------------
+-------
+>ENSHHUP00000069249 ENSHHUG00000040420	120	None	None	Hucho_hucho	658B	658	B
+----------------------------------------AS-LGGVGLKAEVKFQLDLV
+S-NDSFSPKKFFAMVGLSKKSPTEIEKIFMILDQDKSGCIEQDELQ--------------
+-----------------------------LFLQN------SKGARPLTAAETRAFLLAGD
+KDGDGKIGWDGRVTRQRGPGPELTFM------------------ILVAV-----------
+-------
+>ENSSTUP00000007614 ENSSTUG00000003705	110	None	parvalbumin,	Salmo_trutta	658B	658	B
+------------------------------------MTLTDF-LAVSDIASA---INACR
+A-NHSFSPKKFFAMVRLSKKSPPEIKKIFMILDQDKSVYIEQDELQ--------------
+-----------------------------LFLQNF-----SKGARPLTTAENRAFLLAGD
+KDGNGKIGWDEFSNLVMSS-----------------------------------------
+-------
+>ENSSAUP00010033046 ENSSAUG00010014014	110	None	parvalbumin,	Sparus_aurata	658B	658	B
+------------------------------------MAITDF-LAASDITSA---INACK
+G-KDSFSPKMFFKTVGLSKKTPTEIEGVFKILDQDKSGFIEQDELQ--------------
+-----------------------------LFLQNF-----SKGARTLTAAETRAFLLEGD
+SDGDGKIGWEEFSALVKSS-----------------------------------------
+-------
+>ENSMAMP00000010277 ENSMAMG00000006667	110	None	None	Mastacembelus_armatus	658B	658	B
+------------------------------------MAITDF-LAASDITSA---INACK
+V-KDSFSPKTFFKTVGLSKKTPSEIERVFKILDQDKSGFIEQDELQ--------------
+-----------------------------LFLQNF-----AKGARPLTAAETRAFLMEGD
+SDGDGKICWEEFSALVKSS-----------------------------------------
+-------
+>ENSHCOP00000024665 ENSHCOG00000015036	110	None	parvalbumin,	Hippocampus_comes	658B	658	B
+------------------------------------MAITDV-LAVSDITSA---LNACK
+A-KDSFNPKMFFKAVGLSKKTPTEIEKVFNILDQDKSGFIEQDELQ--------------
+-----------------------------LFLQNF-----SKGARTLTAAETRGFLLEGD
+SDGDGKIGWEEFSALVKSS-----------------------------------------
+-------
+>ENSMMOP00000003622 ENSMMOG00000002878	110	None	None	Mola_mola	658B	658	B
+------------------------------------MAITDF-LAASDITLA---INACK
+A-KDSFSPKMFFKTVGLSKKTPTEIERVFKILDQDKSGYIEQDELQ--------------
+-----------------------------LFLQNF-----SKGARPLTAAETRAFLLEGD
+SDGDGKIGWEEFSALVKSS-----------------------------------------
+-------
+>ENSTRUP00000071866 ENSTRUG00000021587	152	None	parvalbumin,	Takifugu_rubripes	658B	658	B
+----------------------------------------------SKPNTPVYVCDLLS
+A-KDSFNPSVFFKTIGLSKKTPAEIETVFKILDQDKSGYIEQDELQ--------------
+-----------------------------LFLQNF-----SKGARPLTAAETRAFLMEGD
+SDGDGKIGWDGRQGWSTGSFLSFCLSDSASSLSQWFYLTHRCILLLLLLLLLLLLLLLLL
+LSSSFLN
+>ENSTNIP00000015862 ENSTNIG00000012886	110	None	None	Tetraodon_nigroviridis	658B	658	B
+------------------------------------MAITDF-LAASDITSA---INACK
+A-KDSFSPNVFFKTVGLSKKTPAEIKKVFKILDQDKSGFIEQDELQ--------------
+-----------------------------LFLQNF-----SKGARPLTAAETRAFLLEGD
+SDGDGKIGWEEFSALVKSS-----------------------------------------
+-------
+>ENSSHAP00000017426 ENSSHAG00000014808	109	None	parvalbumin,	Sarcophilus_harrisii	658B	658	B
+------------------------------------MSMTDI-LSPKDIEAA---LSSCK
+A-AGSFDYKIFFSKVGLSGKTPEQVKKVFSILDQDKSGFLEEDELQ--------------
+-----------------------------NFLQNF-----APGARTLTPDETKIFLTAGD
+SDGDGKIGVDDFSILMEF------------------------------------------
+-------
+>ENSMODP00000047985 ENSMODG00000008249	127	None	parvalbumin	Monodelphis_domestica	658B	658	B
+------------------------------------MSVTDI-LSPKDIEAA---LSSCK
+A-AGSFDYKIFFSKVGLSGKTPDQVKKIFSILDRDKSGFIEEDELQ--------------
+-----------------------------NFLQNF-----APDARALTPDETKIFLTAGD
+SDGDGKIGVDGRLNLVRVAFRSSSTPG-ELGLCSPSM-----------------------
+-------
+>ENSMEUP00000012663 ENSMEUG00000013892	80	None	None	Notamacropus_eugenii	658B	658	B
+------------------------------------------------------------
+--AGSFDYKTFFSKVGLSGKAPDQIKKVFSILDQDKSGFIEEDELQ--------------
+-----------------------------NFLQNF-----APDARALTPDETKIFLTAGD
+SDGDGKIGVD--------------------------------------------------
+-------
+>ENSPCIP00000041438 ENSPCIG00000030285	109	None	None	Phascolarctos_cinereus	658B	658	B
+------------------------------------MSMTDI-LSPEDIEAA---LSSCK
+A-AGSFDYKTFFSKVGLSGKTPDQIKKVFSILDQDKSGFIEEDELQ--------------
+-----------------------------NFLQNF-----APDARALTPDETKIFLTAGD
+SDGDGKIGVDEFQSMTKS------------------------------------------
+-------
+>ENSVURP00010022992 ENSVURG00010017628	109	None	None	Vombatus_ursinus	658B	658	B
+------------------------------------MSMTDI-LSPKDIEAA---LSSCK
+A-AGSFDYKTFFSKVGLSRKTPDQIKKVFSILDRDKSGYVEEDELQ--------------
+-----------------------------KFLQNF-----APDARTLTPDETKSFLTAGD
+SDGDGKIGVDEFQSMTKS------------------------------------------
+-------
+>ENSOANP00000003084 ENSOANG00000001942	97	None	None	Ornithorhynchus_anatinus	658B	658	B
+-------------------------------------------------TIR---SPFLS
+A-ADSFNYKAFFSTVGLSKKTPDQVKKVFGILDQDKSGFIEEDELQ--------------
+-----------------------------LFLQNF-----SSSARVLTAAETKAFLTAGD
+TDGDGKIGVDEFQNLVKS------------------------------------------
+-------
+>ENSANIP00000011818 ENSANIG00000007989	130	None	None	Accipiter_nisus	658B	658	B
+-------MVYN-LKYIYASSALL----ETH---SKYVPPNQI-A----SLSS---QEDHK
+A-DDSFNYKSFFSTVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSSARVLTSAETKAFLAAGD
+TDGDGKIGVEGKTFGNFIKL-MF-------------------------------------
+-------
+>ENSACCP00020023173 ENSACCG00020015922	113	None	None	Aquila_chrysaetos_chrysaetos	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-DDSFNYKSFFSTVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSSARVLTSAETKAFLAAGD
+TDGDGKIGVEGKTFGNFIKL-MF-------------------------------------
+-------
+>ENSAPLP00020005481 ENSAPLG00020004012	113	None	None	Anas_platyrhynchos	658B	658	B
+------------------------------------MAITDI-LSTKDIESA---LSSCQ
+A-ADSFNYKSFFSTVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSSARVLTAAETKAFLAAGD
+TDGDGKIGVEGQTFGNFIEL-MF-------------------------------------
+-------
+>ENSACDP00005011486 ENSACDG00005008414	113	None	None	Anser_cygnoides	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-ADSFNYKSFFSTVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSSARVLTSAETKAFLAAGD
+TDGDGKIGVEGQTFGNFIEF-MF-------------------------------------
+-------
+>ENSAOWP00000000262 ENSAOWG00000000219	109	None	None	Apteryx_owenii	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-ADSFNHKSFFSTVGLTNKTPDQVKKIFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SPNARVLTAAETKAFLAAGD
+TDGDGKIGVEEFQSLVKA------------------------------------------
+-------
+>ENSDNVP00000013325 ENSDNVG00000009419	109	None	parvalbumin,	Dromaius_novaehollandiae	658B	658	B
+------------------------------------MAMTDI-LSAKDIESA---LSSCQ
+A-ADSFNYKSFFSTVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSSARVLTTAETKAFLAAGD
+TDGDGKIGVEEFQSLVKA------------------------------------------
+-------
+>ENSCPUP00000023037 ENSCPUG00000015653	109	None	parvalbumin,	Calidris_pugnax	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-DDSFNYKSFFSMVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSSARVLTSAETKAFLAAGD
+TDGDGKIGVEEFQSLVKA------------------------------------------
+-------
+>ENSCPRP00005007053 ENSCPRG00005005008	109	None	parvalbumin	Crocodylus_porosus	658B	658	B
+------------------------------------MAI-TDILSAKDIEAALS---SCQ
+A-AESFNYKSFFSTVGLKGKSADQVKKVFGILDQDKSGFIEEDELQ--------------
+-----------------------------LFLKNF-----SSSARALTDAETKAFLAAGD
+TDGDGKIGVDEFQALVKA------------------------------------------
+-------
+>ENSCJPP00005016544 ENSCJPG00005013576	118	None	parvalbumin,	Coturnix_japonica	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-EDSFNYKSFFSTVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSSARVLTSAETKAFLAAGD
+TDGDGKIGVEGKAAGNFIQV-RLQNAC-V-------------------------------
+-------
+>ENSGALP00000065536 ENSGALG00000053246	109	OCM2	oncomodulin	Gallus_gallus	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-ADSFNYKSFFSTVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSSARVLTSAETKAFLAAGD
+TDGDGKIGVEEFQSLVKA------------------------------------------
+-------
+>ENSMGAP00000019524 ENSMGAG00000001506	125	None	parvalbumin,	Meleagris_gallopavo	658B	658	B
+-------------KGTLGNSTKG----EKK---SSTMAITDI-LSAKDIESA---LSSCQ
+A-ADSFNYKSFFSTVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSSARVLTSAETKAFLAAGD
+TDGDGKIGVEEFQSLVKA------------------------------------------
+-------
+>ENSNMEP00000008343 ENSNMEG00000008152	113	None	parvalbumin,	Numida_meleagris	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-ADSFNYKSFFSTVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSSARVLTSAETKAFLAAGD
+TDGDGKIGVEGKAAGNLLTV-TF-------------------------------------
+-------
+>ENSPSTP00000001098 ENSPSTG00000000887	138	None	None	Pavo_cristatus	658B	658	B
+-----------------------------------------Q-QLERKICKR---CLSLP
+A-ADSFNYKSFFSTVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSSARVLTSAETKAFLAAGD
+TDGDGKIGVEGKAAGNLVKARPYNARI-ELHLNGPVENSPRNL----ARYFLSYFSY---
+-------
+>ENSPCLP00000021954 ENSPCLG00000019307	111	None	None	Phasianus_colchicus	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-ADSFNYKSFFSTVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSSARVLTTAETKAFLAAGD
+TDGDGKIGVEGKNVLNAYSL----------------------------------------
+-------
+>ENSCPVP00000002651 ENSCPVG00000001971	109	None	parvalbumin,	Camarhynchus_parvulus	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-DDSFNYKSFFSMVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSNARALTSAETKAFLAAGD
+TDGDGKIGVEEFQSLVKA------------------------------------------
+-------
+>ENSCCEP00000025392 ENSCCEG00000022401	125	None	parvalbumin,	Cyanistes_caeruleus	658B	658	B
+-------------MEEKGIKSHF----TGH---LSTMAITDI-LSAKDIESA---LSSCQ
+A-DDSFNYKSFFSMVGLSSKSTDQIRKVFAILDRDKSGFIEEDELQ--------------
+-----------------------------MFLKNF-----SSDARALTSVETKAFLAAGD
+TDGDGKIGVEEFQSLVKA------------------------------------------
+-------
+>ENSEGOP00005021106 ENSEGOG00005016929	107	None	None	Erythrura_gouldiae	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-DDSFNYKSFFSMVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSNARALTSAETKAFLAAGD
+SDGDGKIGVEGKTLEN--------------------------------------------
+-------
+>ENSFALP00000014579 ENSFALG00000013971	109	None	parvalbumin,	Ficedula_albicollis	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-DDSFNYKSFFSMVGLSTKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSNARALTSAETKAFLAAGD
+TDGDGKIGVEEFQSLVKA------------------------------------------
+-------
+>ENSGFOP00000000085 ENSGFOG00000000082	109	None	parvalbumin,	Geospiza_fortis	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-DDSFNYKSFFSMVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSNARALTSAETKAFLAAGD
+TDGDGKIGVEEFQSLVKA------------------------------------------
+-------
+>ENSJHYP00000007670 ENSJHYG00000006112	109	None	None	Junco_hyemalis	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-DDSFNYKSFFSMVGLSSKTPEQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSNARALTSAETKAFLAAGD
+TDGDGKIGVEEFQSLVKA------------------------------------------
+-------
+>ENSLSDP00000005715 ENSLSDG00000004427	109	None	parvalbumin,	Lonchura_striata_domestica	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-DDSFNYKSFFSMVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSNARALTSAETKAFLAAGD
+SDGDGKIGVEEFQSLVKA------------------------------------------
+-------
+>ENSMVIP00005004562 ENSMVIG00005003521	109	None	parvalbumin,	Manacus_vitellinus	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-DDSFNYKSFFSMVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSSARVLTSAETKAFLAAGD
+TDGDGKIGVEEFQSLVKA------------------------------------------
+-------
+>ENSPMJP00000023335 ENSPMJG00000017237	109	None	parvalbumin,	Parus_major	658B	658	B
+------------------------------------MAITDI-LCAKDIESA---LSSCQ
+A-DDSFNYKSFFSMVGLSSKSTDQIRKVFAILDRDKSGFIEEDELQ--------------
+-----------------------------LFLQNF-----SSNARALTSVETKAFLAAGD
+TDGDGKIGVEEFQSLVKA------------------------------------------
+-------
+>ENSSCAP00000013794 ENSSCAG00000010190	109	None	parvalbumin,	Serinus_canaria	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-DDSFNYKSFFSMVGLSSKTPDQIKLVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSNARALTSAETKAFLAAGD
+TDGDGKIGVEEFQSLVKA------------------------------------------
+-------
+>ENSTGUP00000008994 ENSTGUG00000008734	109	None	None	Taeniopygia_guttata	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-DDSFNYKSFFSMVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSNARALTSAETKAFLAAGD
+SDGDGKIGVEEFQSLVKA------------------------------------------
+-------
+>ENSZALP00000002834 ENSZALG00000002954	109	None	parvalbumin,	Zonotrichia_albicollis	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-DDSFNYKSFFSMVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSNARALTSAETKAFLAAGD
+TDGDGKIGVEEFQSLVKA------------------------------------------
+-------
+>ENSACOP00000000337 ENSACOG00000000261	109	None	None	Amazona_collaria	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-DGSFNCKSFFSMIGLSSKTPDQIKKIFGILDQDNNGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSSARALTPAEIKDFIAAGD
+RDGDGKIGVDDKNSLVKF------------------------------------------
+-------
+>ENSMUNP00000008273 ENSMUNG00000006604	109	None	parvalbumin,	Melopsittacus_undulatus	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-DGSFNCKSFFSMIGLSSKTPDEIKKIFGILDQDNNGFIEEDELQ--------------
+-----------------------------LFLKNF-----SSSARALTPAEIKDFMAAGD
+SDGDGKIGVEEFQSMVKA------------------------------------------
+-------
+>ENSSHBP00005005668 ENSSHBG00005004961	108	None	None	Strigops_habroptila	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-DGSFNYKSFFSTIGLPSKTPDQIKKVFAILDQDNNGFIEEEELH--------------
+-----------------------------LFLKNF-----SSTARALTPAEVKDFLTAGD
+SDGDGKIGVEGKTFRHL-------------------------------------------
+-------
+>ENSSPUP00000000128 ENSSPUG00000000126	109	None	None	Sphenodon_punctatus	658B	658	B
+------------------------------------MAMTDI-LSAKDIEAA---LSSCQ
+A-ADSFNHKAFFSKVGLSKKTPDQVKSVFAILDQDKSGFIEEDELQ--------------
+-----------------------------LFLKNF-----SSGARVLTAGETKAFLAAGD
+TDGDGKIGVDEFQVLVKA------------------------------------------
+-------
+>ENSACUP00000020730 ENSACUG00000013839	109	None	parvalbumin,	Athene_cunicularia	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-DDSFNYKSFFSTVGLTSKSPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSSARVLTSAETKAFLAAGD
+TDGDGKIGVEEFQSLVKA------------------------------------------
+-------
+>ENSSCUP00000020752 ENSSCUG00000015238	109	None	parvalbumin,	Struthio_camelus_australis	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-ADSFNYKSFFSTVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSSARVLTTAETKAFLAAGD
+TDGDGKIGVEEFQSLVKA------------------------------------------
+-------
+>ENSCABP00000004879 ENSCABG00000003674	109	None	None	Chelonoidis_abingdonii	658B	658	B
+------------------------------------MAM-TDILSAQDIEAALT---SCQ
+A-ADSFSYKSFFSKVGLKSKSTDQIKKIFGILDQDKSGFIEEDELQ--------------
+-----------------------------LFLQNF-----SSSARALTAAETKAFMAAGD
+TDGDGKIGVDEFQALVKA------------------------------------------
+-------
+>ENSCSRP00000021239 ENSCSRG00000016096	109	None	None	Chelydra_serpentina	658B	658	B
+------------------------------------MAMTDI-LSAKDIEDA---LTSCK
+A-ADSFNYKSFFSKVGLKGKSTDQVKKVFGILDQDKSGFIEEDELQ--------------
+-----------------------------LFLQNF-----SSTARALTAAETKAFMAEGD
+TDGDGKIGVDEFQALVKA------------------------------------------
+-------
+>ENSGAGP00000021837 ENSGAGG00000016035	109	None	None	Gopherus_agassizii	658B	658	B
+------------------------------------MAM-TDILSAQDIEAALT---SCQ
+A-ADSFSYKSFFSKVGLKSKSTDQIKTIFGILDQDKSGFIEEDELQ--------------
+-----------------------------LFLQNF-----SSSARALTAAETKAFMAAGD
+TDGDGKIGVDEFQALVKA------------------------------------------
+-------
+>ENSPSIP00000016813 ENSPSIG00000014979	109	None	parvalbumin	Pelodiscus_sinensis	658B	658	B
+------------------------------------MAM-TDILSAKDIEAALS---SCQ
+A-ADSFNYKSFFSKVGLKGKSTDQVKKIFGILDQDKSGFIEEDELQ--------------
+-----------------------------LFLKNF-----SSGARALTDAETKAFMAAGD
+TDGDGKIGVDEFQALVKA------------------------------------------
+-------
+>ENSPCEP00000001243 ENSPCEG00000001048	128	None	None	Pelusios_castaneus	658B	658	B
+------------------------------------MAMTDI-LSAKDIEAA---LTSCQ
+A-ADSFNYKSFFSKVGLKGKSTDQVKKIFGILDQDKSGFIEEDELQ--------------
+-----------------------------LFLQNF-----SSSARALTDAETKAFMAAGD
+TDGDGKIGVDGKIFSVIFSGFWFLQIC-IFRLNVNLQH----------------------
+-------
+>ENSTMTP00000023746 ENSTMTG00000017314	128	None	None	Terrapene_carolina_triunguis	658B	658	B
+------------------------------------MAMTDI-LSAKDIEAA---LTSCQ
+A-ADSFNYKSFFSKVGLKGKSTDQVKKIFGILDQDKSGFIEEDELQ--------------
+-----------------------------LFLQNF-----SSTARALTAAETKAFMAAGD
+TDGDGKIGVDGKFFNVVFSKFWFLQIC-IFRLKVNLQH----------------------
+-------
+>ENSNPEP00000005714 ENSNPEG00000004322	109	None	parvalbumin,	Nothoprocta_perdicaria	658B	658	B
+------------------------------------MAITDI-LSAKDIESA---LSSCQ
+A-ADSFNYKSFFSTVGLSSKTPDQIKKVFGILDQDKSGFIEEEELQ--------------
+-----------------------------LFLKNF-----SSSARVLTTAETKAFLAAGD
+TDGDGKIGVEEFQSLVKA------------------------------------------
+-------

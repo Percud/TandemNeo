@@ -1,0 +1,540 @@
+>ENSBSLP00000046280 ENSBSLG00000022100	223	None	L-rhamnose-binding lectin	Betta_splendens	1328A	1328	A
+------------------------------------------------------------
+--------------------------LN-----QFKA-AFLSE-ASLVIPSTVTALSTER
+VITCDHS-FY-VQRLSCA-------------------------SGVIVVQSAVYGRLDSE
+ICSEGVPASQLSNTK-CSQQGLL----DVLKKRCDGKSQCEISP-SVVRV-DDPCFGIYK
+YVDTSFACFP--ARRRVVCESS--------------------------------------
+------------------------------------------------------------
+---------VLVLSCDEGQVLFVYSADYGRRDGTTCSLDRPPEQLRNTQCSQPS-S-RVA
+ERCNGRRSCTVTANNSAFGDPCVGTYKYLEVFYTCRGESCL-------------------
+-------------------------------------------
+>ENSORLP00000037743 ENSORLG00000029722	205	None	None	Oryzias_latipes	1328A	1328	A
+------------------------------------------------------------
+------------------------------------------------------GVFTET
+AVTCEN---GSVHQLGCR------------------------NNEVISVQSALYGRADSV
+TCSEGRPANQLSNTM-CSQNGIL----DLVRR-------------RDVRT-SDPCVGTYK
+YLQTNFICLP--AIQEVTCEGSTAQLRCGKG--RVIFVYGAYYGRRDRRTCSDGRPQSQV
+ENVNCINP--A-QEVPQRCNGRHFCSIEASNS-VFG-DPCYGTYKYLEVAYVCICKFFHV
+SIK------SNLKYQNVYNF----------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSSFAP00005026348 ENSSFAG00005013514	199	None	None	Salarias_fasciatus	1328A	1328	A
+------------------------------------------------------------
+--------------------------------------------NSPLH----MVVLILL
+VLLC-------LQHFTPL------------------------VSPVISVVKANYGRLDGK
+KCSRGRSRAQLGNVR-CKNPAKK------VAQRCNGKRRCNLRA-SNSVF-GDPCRGTYK
+YLEVDFNKNG--RKKRVTCEGKTAKLRCGAG--RVISVVKANYGRLDGKKCSRGRSRAQL
+GNVRCKNP--A-KKVAQRCNGKRRCNLRASNS-VFG-DPCRGTYKYLEVDFVCKSE----
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSENLP00000000688 ENSENLG00000000504	221	None	L-rhamnose-binding lectin	Echeneis_naucrates	1328A	1328	A
+------------------------------------------------------------
+---------------MLHFSPGTALLLATTCLLAT-------------------EVSTER
+VVTCDD-RGN-VQLLRCD-------------------------IGVVRVQSALYGRTDGE
+TCREGRPRKQLRNTE-CSQNNTV----DIIKRRCDGKKMCEINT-DVVRI-SDPCVGTYK
+YLETYYTCFP--AIRVIACENSVADLFCAEG--QVIYVYGAEYGRRDQTTCIYQQPSRQI
+EDVECLNP--T-DKVAESCNGKNRCTISARNS-VFG-DPCVGTYKYLDISYVCEYPVV--
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSACLP00000013975 ENSACLG00000009542	234	None	None	Astatotilapia_calliptera	1328A	1328	A
+------------------------------------------------------------
+---------------MGPGGP------MGPGGPMAPG-GPLGQ-SGPMGPFPPTFMSTAR
+VITCDSL-DN-VQRLSCD-------------------------NGVIIVQAAMYGRTDAE
+ICSDGIPADQLANTQ-CFQIDTL----KDVKSRCDGKKVCEIST-NSFRT-SDPCSGIYK
+YLDTTYTCFP--AIHSVTCDDS--------------------------------------
+------------------------------------------------------------
+---------LANLQCGEGQVLLIHGADYGRRDSTTCSLNLPASQLQNVQCSKPI-S-NLA
+DSCNGKSNCTVKVSSSVFGDPCFGTYKYLEMAYSCHFGFPDH------------------
+-------------------------------------------
+>ENSHBUP00000025854 ENSHBUG00000008098	169	None	L-rhamnose-binding lectin	Haplochromis_burtoni	1328A	1328	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------GRTDAE
+TCSEGRPAEQLKNTQ-CSQDGAL----KVVKSRCDGQKVCEINA-VLFGT-SDPCYGIYK
+YVDTTYACFP--AIHSVTCGDS--------------------------------------
+------------------------------------------------------------
+---------LANLQCDEGQVLLIHRADYGRHDATTCSFNRPASQLQNVQCSKQI-N-KVA
+ESCNGKSSCTVKVSDSVFGDPCYGTYKYLEVAYSCHFADES-------------------
+-------------------------------------------
+>ENSNBRP00000012942 ENSNBRG00000010036	236	None	L-rhamnose-binding lectin	Neolamprologus_brichardi	1328A	1328	A
+------------------------------------------------------------
+---------------LTLRFPFCVSVLAATCVLMTSD-NCFAR-AGPLALFP---VSTER
+VITCDSL-DN-VQRLSCE-------------------------NGVIIVQSVLYGRTDAE
+TCSEGRPAEQLKNTQ-CSQVGAL----KVVKSRCDGQKVCEINT-NLFRT-SDPCYGIYK
+YVDTTYACFP--AIHSVTCEDS--------------------------------------
+------------------------------------------------------------
+---------LANLQCGEGQVLLIHRADYGRRDATTCSFNRPASQLQNVQCSKQI-N-KVA
+ESCNGKSSCTVKVSGSVFGDPCYGTYKYLEVAYSCHFADES-------------------
+-------------------------------------------
+>ENSCHAP00000003051 ENSCHAG00000001981	220	None	None	Clupea_harengus	1328A	1328	A
+------------------------------------------------------------
+-------------------------VLFVHPIHPQ------------SCLFLFSGIEAKR
+STVC-EG---GTAHLSCDISVT-----------EC----LSTGGAFITVISASYGRSDKT
+TCSSGQRSKKLSNTR-CQQYLSR----CIMSERCNGMSCCALPV-KNSVF-SDPCRGTYK
+YLTVSFTCLP--ANRSVTCEHARSVISCATG---SLLVHHANYGRRDRLTCHQPHLT---
+-TSDCYHSQTD-N-LRFRCNGRNSCQLHASNA-IFS-DPCHGVSKYLEVTYSCFKY----
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSCARP00000023527 ENSCARG00000010605	224	None	None	Carassius_auratus	1328A	1328	A
+------------------------------------------------------------
+-------------------------------IHFPV---ILAVLYVILNSFLSPGVDTKR
+YFSC-EG---GSVPLSCGDD---------FYDKLF----HVSDWGYIKVITANYGRTDHT
+TCSTGRSLHQLSNVD-CFQETSV----HVMSKRCDGRKSCSVPA-VNSVF-SDPCVGTYK
+YLDVSYLCLP--FRKSVTCEGKRTLIDCGNG---VIWIHHANYGRRDLVTCPHKLAT---
+-TPDCYSPQTR-S-LRSSCNGKNYCQLNASKTSFLS-DPCPDVHKYLEVMYSCI------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSDARP00000147852 ENSDARG00000097446	223	si	si ch211-66i15	Danio_rerio	1328A	1328	A
+------------------------------------------------------------
+-------------------------------------------LQVILPSYIPAGVDAKR
+TVTC-EG---GSAHLSCGKKQSINFPKLCICLFLC----NMSDFGFVRVIKANYGRTDRT
+TCISGRPANQINNVH-CFRKSSL----STVSARCNGIKSCSVPA-VNSVF-SDPCLGTYK
+FLDITYDCIP--SKRSVTCENTQSVIVCGSG---VILVHYANYGRRDLSTCPHKLAK---
+-TPHCYSPQTS-S-LRSRCNGRKTCSLSASNS-LYS-DPCPGVNKYLEVTYSCV------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSCVAP00000018830 ENSCVAG00000022157	185	None	None	Cyprinodon_variegatus	1328A	1328	A
+------------------------------------------------------------
+------------------------------------------------------------
+-MVC---------PSPPE-------------------------SGVIHLLSVLYGRADTT
+TCGENKPRQQLSNTE-CSQDGSL----DKLLQRCEGRKVCEVNA-AFFRT-SDPCVGIYK
+YVDTHYVCIP--AVHTVTCEDS--------------------------------------
+------------------------------------------------------------
+---------VADLQCDFGPVISVIGAFYGRSDPTTCSFQRPSSQLQKTDCLRPS-S-EVS
+ARCDGKHSCSIKASNSVFKDPCYGTYKYLEVSYSCVCK----------------------
+-------------------------------------------
+>ENSFHEP00000013319 ENSFHEG00000015118	221	None	L-rhamnose-binding lectin	Fundulus_heteroclitus	1328A	1328	A
+------------------------------------------------------------
+-------------------------------------------------------LSTKR
+VITCEDP-DN-VHHLSCE-------------------------TGVIIVESVLYGRLNRE
+TCSEGRPKSQLRDTS-CSQMGAL----ETLKARCNGRKVCEVNA-KLFRT-SDPCYGTYK
+YIHTTYSCYP--AVQTVACESS--------------------------------------
+------------------------------------------------------------
+---------ETNLQCDEGRVISVIGAYYGRTDPTTCSFQRPSSQVQNVDCLRPS-M-EVA
+TSCNGRTSCSVKVANSLFGDPCYGTYKYLEVAHTCECEWLKRSFSL-STFSFWK-KT-SD
+FCIK---------------------------------------
+>ENSGAFP00000023130 ENSGAFG00000015592	220	None	None	Gambusia_affinis	1328A	1328	A
+------------------------------------------------------------
+----------------GLSRF-SFPDLASTCLLVD------------------AGIAKET
+VTTCMD-N--VVHRLSCS---------------------------VISVETSLYGRKDNV
+TCNEGKSPDEVSNTN-CSLDGVA----NVFKKRCNGKKVCELNT-DVLGR-SDPCRGTAK
+YLQTTYTCLP--AIHRMICEHSLSYLSCDQG--QVIVVHGADYGRRDQTTCQYGCSADQT
+QNTACSSP--T-SKVAESCQGKNSCVIKASNS-VFG-DPCLGTYKYLEVAYHCECNRESI
+A-----------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSKMAP00000004502 ENSKMAG00000003438	225	None	L-rhamnose-binding lectin	Kryptolebias_marmoratus	1328A	1328	A
+------------------------------------------------------------
+-----------------MLFFSSTLLLAASCLLVH------------------AGSPTET
+VTTCEN-D--IVHRLSCD------------------------SGEVISVQNSMYGRADSV
+TCIEGRPQSQISNTN-CALVGVA----DVVKKRCNGKKVCELSS-NILG--SDPCRGTAK
+YLQTTYTCLP--AVHRKTCEHSLAHLQCAEG--LVISVYGADYGRRDKSTCSFGRPNDQL
+QNTVCSSP--T-SKVAESCQGKNSCVIKASNS-VFG-DPCQGTFKYLEVAYACQYPQDAL
+NQS------V--------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSPREP00000004167 ENSPREG00000002927	203	None	None	Poecilia_reticulata	1328A	1328	A
+------------------------------------------------------------
+----------------------------------------------------KCVLS---
+------S-I-SLPLLDCS---------FFQYFFFC----LPEENEIIFVINAKYGRSDQT
+TCSDGIPEDQTTNSA-CVS---------RADLVCNGKSECSVLA-SSSVF-GDPCAGTYK
+YLEVLYLL----EKSLVACEGAVARLHCAKG--QAIYVXSATYGRWDWKTCSAGRPAYQL
+ENTECYTDREE---VGERCNGKQWCKVRASNY-VFG-NPCYGTFKYLAVEYLCYGEFRLS
+-LH---------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSXMAP00000023369 ENSXMAG00000027863	225	None	None	Xiphophorus_maculatus	1328A	1328	A
+------------------------------------------------------------
+-----------------MMLFSATLYLASTWLLVD------------------AGIAKET
+VTTCVD-N--VVHRLSCD------------------------LESVISVETSLYGRKDNV
+TCNEGKSPDEVSNTN-CSLVGVA----NVVKERCNGKKVCELST-DVFGR-SDPCGATAK
+YLQTTYTCLP--AFHRVICEHSLSDLSCDQG--QVIVVHGADYGRRDQTTCLYGRPANQI
+QNTACSSP--T-STVAESCQGKNSCIIKASNS-VFG-DPCVGTYKYLEVAYHCQYAVTPD
+EQI---------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSGMOP00000000579 ENSGMOG00000000601	153	None	None	Gadus_morhua	1328A	1328	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------DQGVVSVLTVFYGRKNRQ
+TCEE---------------------------AICNGKKVCEVDK----EIFSDPCPETYK
+YIQTTYTCLP--AHHVVACEDSEVKLSCG----QTIALIGAFYGRTDRTTCIYGVPDGQF
+NNITCSTPTAN-QVVTERCKGKSNCNFHAKNS-MFGDDPCKGTYKYLELAYMCK------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSNMLP00000005328 ENSNMLG00000003888	198	None	None	Neogobius_melanostomus	1328A	1328	A
+------------------------------------------------------------
+----------------------------------------------------------ER
+RTAC-ED---STADLTCQ-------------------------GRVLHIYRADYGRSDRT
+TCSQGRPSEQLQNVN-CASYTAT----HLVAEMCNGKSRCSVRA-SNSVF-GDPCGGTYK
+YLQVSYSCEPIPIVRTVSCEGQTADLSCDSG--KVIRIHRADYGRSDRTTCSQGRPSEQL
+QNMNCAASTTN-DHVAKMCNGKSRCSVTASNS-VFG-DPCGGTYKYLQVSYTCESYW---
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSPMGP00000017000 ENSPMGG00000013920	230	None	None	Periophthalmus_magnuspinnatus	1328A	1328	A
+------------------------------------------------------------
+-------------MLQSVYSVCTLCTLYTLCLLCVYVVLYVDSLYSMCTLCTVPGESADT
+TVTCGA----HVHRLSCD-------------------------DGVISVDKAFYGRADSD
+TCETRKTAT-----A-KYLRGVR----QVLRSQCNGKEWCELNA-GVFA--ADPCSDTFK
+YMKTSYSCVP--AIHRVVCEHSMAHLQCDAG--QTIKVLGADFGRRDHVTCAFRRDPALV
+QKIDCSNP--A-PVVAEKCDGKNQCEVRVSEM-VVE-QSCANTSLYLEYSYTCS------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSMMDP00005030968 ENSMMDG00005014603	344	None	None	Myripristis_murdjan	1328A	1328	A
+------------------------------------------------------------
+--------------------MCCFHV-------------Y-------LVRPCLVFVCPEK
+VTTCDGNEAS-VHRLSCD-------------------------VTVISVESTLYGRSDSE
+TCSTGRPAEQLSNTE-CSLQGTL----EILKSRCNGKRVCELNA-NVFQS-SDPCPGTHK
+YLETTFTCLP--ACESCVHEINDDDIYV--G--QVITIHGGDYGRHDQTTCSYKRPASQL
+ENILTLPV-AS-CPILHSCNGQKSCTIYASNS-VFG-DPCVGTYKYLELAYTCECKCLKG
+RVCELNANVFQSSAAYPGQIIVVHSADYGRHDRTTCSYKRPASQLQNVYCSRPT-K-KVA
+ESCNGRNSCTIYASNSVFGDPCHGTYKYLELIYTCQCKCLKRGCFTFILLRLTV-GF-HH
+MCKKKTPGAGK--------------------------------
+>ENSPKIP00000022206 ENSPKIG00000006308	347	None	L-rhamnose-binding lectin	Paramormyrops_kingsleyae	1328A	1328	A
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------MLQHKCLPAYCKADEGVISVQKANYGCTDSH
+VCASNP--QKVASVT-CTEATTT----SVLSQSCNGRSMCEVTV-SPALF-SDPCQGTSK
+YLNSSYVCLP--AKTSITCQHSSDILDCGTD---VIKVLHTNYGRRDTTTCSVGRPPKEV
+MDDNCFLSVTA-A-ISDRCNGKSKCSVTPDD--FST-DPCYGSFKYLEVSYGCLASRKSI
+TCGGPYGSI----SC-ENDLIRIYDAFYGQMSPTICSNGRPESQLTNTNCALANVVDIVS
+KGCNDRTSCDL---AFAFTDPCFGTYKYLEVSYGCIETCQSSLDCSTALTNASVDGRQGI
+GCHHSTTGVTSTFSSSSRNSFLSFFCLAFQLGFSSLHTVVMQL
+>ENSCGOP00000011682 ENSCGOG00000005797	219	None	None	Cottoperca_gobio	1328A	1328	A
+------------------------------------------------------------
+----------------MVHVTCTTVLLAATCLLLS------------------QDVVTET
+VTTCEV-E--TIHSLSCD------------------------IG-VIRVYEALYGRADSV
+TCGDGRPPGQLADTT-CSQDGTV----DVLKRRCDGRIVCDVRV-SDFGS-PDPCTGTYK
+YLQTKYTCLP--AIHQVTCEHSFASLQCDEG--NLIFVIGAHYGRHDRTTCISQRPESQI
+QNIDCSRQQ-A-SKVFESCDGKNGCVIKASNS-VFG-DPCYGTFKYLEVAYICKCG----
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSGACP00000007351 ENSGACG00000005562	186	None	None	Gasterosteus_aculeatus	1328A	1328	A
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------D-------------------------TGVIQVHSALYGRKDNE
+TCSEEIPPNQLADTT-CSLAGTT----ALVKTGCDGKRECELNP-NTVRT-SDPCRGISK
+YLQTIYSCFP--AIHFATCEGSLANLQCDQG--LQIRVYGADYGRRDTTTCIYKRPDAQV
+QNVLCSAP--S-PKVAERCNGKNNCIITASNS-VFG-DPCPGTYKYLEVAYICEYPTTNP
+EES------L--------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSSMAP00000027093 ENSSMAG00000016568	214	None	None	Scophthalmus_maximus	1328A	1328	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------------MFGDPCVGTYK
+YLDVSYTCQS----RCVTCERTLAELKCDDG--QQLVIHGATYGRGDNTTCSSGRSASEL
+GNVNCSSE-VT-DKVAERCNGKSSCIIEGFNL-MFG-DPCVGTYKYLDVSYTCISRSTTC
+ERT------LANLRCDDDMVLSVYDAFYGRRDNTTCALGRSSAELADVNCSSQV-TDIVA
+QRCNGKNSCLILGFNSKFGDPCAGIYKYLDVLFFCKELAK--------------------
+-------------------------------------------
+>ENSLOCP00000000076 ENSLOCG00000000067	76	None	None	Lepisosteus_oculatus	1328A	1328	A
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------IRMDSANYGRADHA
+TCSEGRPPQQLANAQ-CFLPSTL----AVMSQRCDGNTQCTVPA-TNDVF-SDPCVGTYK
+YLDVTYTCS---------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSMALP00000000363 ENSMALG00000000328	215	None	L-rhamnose-binding lectin	Monopterus_albus	1328A	1328	A
+------------------------------------------------------------
+----------------GKLDFPSTERVSSCDDHHF------------------QCLNCAH
+TVACEG----LVAHLKCA------------------------EGEVISVDSANYGRHDKT
+TCASGRPDSQIQNVQ-CSSPTSK------VADRCNGKSTCDVSV-NNSEF-GDPCVGTYK
+YLEVTYKCQP----HTVACEGSLAHLKCAEG--QIISVDSANYGRHDQTTCVSGRPYSQI
+QNVQCSRP--T-SKVADSCNGKNSCDINANNS-EFG-DPCFGTYKYLEVTYRCQHPV---
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSHCOP00000020435 ENSHCOG00000006508	232	None	None	Hippocampus_comes	1328A	1328	A
+------------------------------------------------------------
+--------------MPSCFKLSSALLLAAMCFLIA------------------EVVSAEQ
+MTTCDSDRFV-VHRLNCD-------------------------YGVINVQQALYGRSSSL
+VCSDGRPPQQLANTQ-CERQGTT----DELSSRCNGKKTCVVNT-DAFRN-PDPCDGTFK
+YLQTNFTCLP--AITVVACEESLAHLFCDVG--QVISVYGADYGRRDRTTCTYKRPESQI
+QNVDCLRP--T-ELVASRCNGENSCTVAARNN-VFG-DPCGGTYKYLEVAYTCVYPETAK
+TSS------STL------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSTNIP00000013854 ENSTNIG00000010924	308	None	None	Tetraodon_nigroviridis	1328A	1328	A
+------------------------------------------------------------
+---------------MQLFTPLTILLIP----ILA------------------PLFSAQR
+ATTCEG-RLN-VHHLKCD-------------------------SGVISVRGALYGRADTT
+TCSEGRPPRQLSNTA-CSHKGTM----DVVSRRCNGKKECEINE-RDVTK-RDPCRGTHK
+YLETNYTCLP--ATHLIVCENSLAHLSCYDG--QVIFVYGADYGRRDTTTCAYRRPTGQT
+KNTLCFRS--T-KTVADRCNWKNSCTFKVENR-LFG-DPCRGTYKYLEVAYRCEFYVVSC
+EHS------RVQLYCEEGQVINVYGADYGRRDTTTCAYKRPSDQTKNTLCFSAT-T-KVA
+DRCNGRNSCTFKVENSLFGDPCVGTYKYLEVAYVCE------------------------
+-------------------------------------------
+>ENSATEP00000031323 ENSATEG00000021591	233	None	None	Anabas_testudineus	1328B	1328	B
+----------------------MCVELH--------------------------------
+---HRYVDRSKRDK------------RCVHCIQLY---------SSRSNVMCLCLILTVS
+SVAC-ED---SYANLHCG--------------------------QVIFVSSANYGRRDRT
+TCSTGQPASQVETVT-CSLP--V----NKVAQSCDGKSSCSVKV-RGSLF-GDPCFGTYK
+YLEVTYTCQSKFSKAP----------SDYEG--QVLFVYSADYGRHDRTTCSFDRPAVQV
+QNVQCSRLYSLTSLCLHRCNGKSSCTIQATNS-EFG-DPCVGTYKYLEVYYTCHCECSSF
+----TYAI----------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSSFAP00005020744 ENSSFAG00005010823	192	None	None	Salarias_fasciatus	1328B	1328	B
+------------------------------------------------------------
+------------------------------------------------------------
+--SCDS-GNS-VHRLSCD-------------------------IGVISVQESLYGREDRV
+TCSEGKHYYQLANTE-CSLAGTT----ELIRRRCDGKKVCELITASDIRI-LDPCPGILK
+YVDTNYTCLP--ALTHVACQQSLARLHCDQG--QVIVVYGADYGRRDRTTCINGRPDSQL
+QNVSCSKP--T-NIVATRCNGKNTCDIRALNS-VFG-DPCPDIYKYLEVAYRCKCE----
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSENLP00000007698 ENSENLG00000003569	222	None	None	Echeneis_naucrates	1328B	1328	B
+------------------------------------------------------------
+--------------MVSVR----------SRGA------ETSH-AQMSSGIGMTSFSTQR
+TIACDGS-DN-VQRLSCE-------------------------DGLISVQEALYGRKDRE
+ICSEDRPAYQLTNTD-CSQVGTL----DVIKRRCDGKKVCEFNT-QILHT-SDPCFGTFK
+YLDTTYNCVH--GIHSITCEHS--------------------------------------
+------------------------------------------------------------
+---------LAILKCDQGLVIHVQSANYGRHDQTTCSFNRPPPQLQNVRCSHPI-N-KVA
+ESCNGKNSCIIKASNSVFGDPCYGTFKYLEVSYTCDCK----------------------
+-------------------------------------------
+>ENSSDUP00000020060 ENSSDUG00000014586	197	None	None	Seriola_dumerili	1328B	1328	B
+------------------------------------------------------------
+------------------------------------------------------DFPTET
+ATTC-E-GYN-IHRLSCG-------------------------FGVISVQTALYGRKDRV
+ICSEGMSTYKTENIY-CSLDGVL----GIIKKRCDGKKLCEINS-NV-FT-PDPCRGTYK
+YLRTTYTCLP--STTHVVCENSLAHLYCAAG--QVITVYGADYGRRDRTTCIYKQSESKI
+QNTDCYNP--T-NTVAESCNGKNSCTIKASNS-VFG-DPCSGTYKYLEVSYTCECK----
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSAMXP00000032226 ENSAMXG00000001291	226	si	L-rhamnose-binding lectin	Astyanax_mexicanus	1328B	1328	B
+------------------------------------------------------------
+---------------MQTHTASSTTWI------------LLLFLTFYGDAEAASVLAARR
+YLTC-ET---HSAYLSCD-------------------------YGYIKIYSANYGRTDRT
+TCSDGAPAHGVANVH-CFSERSL----KVMSDRCNGRRSCSVPV-VNAVF-SDPCIGTWK
+YLDFAYQCLP--YKRSVICEYAEGEISCDSG---VIFIHHANYGRRDRTTCPHKLAT---
+-TSDCYFPQTF-S-LRSRWANWNT-----VNT-VLL-EHCITLKTYIYSHQSTQTIISCT
+-VEMKNRT----------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSPNAP00000015425 ENSPNAG00000021458	213	si	L-rhamnose-binding lectin	Pygocentrus_nattereri	1328B	1328	B
+------------------------------------------------------------
+-----------------------MYKL------------QMIWISSIAGAHAASVVAAKR
+YLTC-EG---HSAHLSCD-------------------------YGYIKVLRANYGRTDKT
+TCSEKRPHHQLSNVH-CFQERSL----KIMSDRCNGLQSCAVPV-VNSVF-SDPCVGIYK
+YLDVFYFCLP--YKRSVICEYQEGVISCASG---VIFIHYANYGRRDRTTCPHKLAT---
+-TSDCYFPQTS-S-LRSRCNGKTSCKLKASND-VFS-DPCYGVHKYLEVTYSCRYFE---
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSACIP00000020312 ENSACIG00000015726	215	None	None	Amphilophus_citrinellus	1328B	1328	B
+------------------------------------------------------------
+--------------------MILPAIHTLTFIFVT------------------LVVSTER
+AVTCDD-RFN-VQRLSCD-------------------------HGVISVQSALYGRADRE
+TCSEGRPQQQLENTE-CSQRGTV----DVLKMRCDGMKVCEINT-NLVRT-SDPCFGTYK
+YLETNYTCFP--AIHTVACEQSLAQLYCDAG--QVIFVYGAHYGRLDRTTCSYKRPDSQT
+ENVYCSNP--S-PKVAQSCNGKNSCTVTASNS-VFG-DPCVGTYKYLEVSYVCECK----
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSACLP00000013998 ENSACLG00000009559	220	None	None	Astatotilapia_calliptera	1328B	1328	B
+------------------------------------------------------------
+---------------MLCVRLSCTLLLAATCLLSG------------------ADASMEK
+AVSCHM-G--GVQRLSCE------------------------NG-VISVVAALYGRADRE
+ICSEGRPQQQLNNTE-CSQQGTV----DVLRRRCDGKKVCELSV-TDVES-PDPCVDTYK
+YLETSYTCLP--ASHLVTCEHSFAHLHCDEG--QAILVYGAHYGRHDQTTCSYRILASEV
+QNVYCSRP--T-SKVAESCDGKSSCTIRASNS-VFG-DPCVGTYKYLEVAYICQYLT---
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSMZEP00005036024 ENSMZEG00005026877	226	None	None	Maylandia_zebra	1328B	1328	B
+------------------------------------------------------------
+-----------KQHLVQDPVYHYTAHLMSHFHICS------------------SDASMEK
+AVSCHM-G--GVQRLSCE------------------------NG-VISVVAALYGRADRE
+TCSEGRPQQQLNNTE-CSQQGTV----DVLRRRCDGKKVCELSV-TDVES-PDPCVDTYK
+YLETSYTCLP--ASHLVTCEHSFAHLHCDEG--QAILVYGAHYGRHDQTTCSYRILASEV
+QNVYCSRP--T-SKVAESCDGKSSCTIRASNS-VFG-DPCVGTYKYLEVAYICQCKQPK-
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSNBRP00000010385 ENSNBRG00000008048	216	None	None	Neolamprologus_brichardi	1328B	1328	B
+------------------------------------------------------------
+--------------LVQDPVYHYRAHLMSHFHICS------------------SDASMEK
+AVTCHM-G--VVQRLSCG------------------------TM-HVY-------TCTTK
+TCSEGRPQQQLNNTK-CSQQGTV----DVLKRRCDGRKVCELSV-TDVQS-PDPCVDTYK
+YLETSYTCLP--ASHLVTCEHSFAHLHCGEG--QAILVYGAHYGRHDQTTCSYRRPASQV
+QDVYCSRP--T-SKVAESCNGKSSCTIRASNS-VFG-DPCVGTYKYLEVAYICQCKQPK-
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSONIP00000008372 ENSONIG00000006626	225	None	L-rhamnose-binding lectin	Oreochromis_niloticus	1328B	1328	B
+------------------------------------------------------------
+---------------MLCYRLCTTLLLATACLLTS------------------SVVSTET
+AVTCDD-GIN-VQHLSCD-------------------------NGVIRVQAALYGRRDRE
+TCSEGRPQNQLDNTQ-CSQSGTV----DILKTRCDGRKVCEINT-NVVRT-SDPCVGIFK
+YLETNYTCFP--AIQTVACEGSLAHLYCDVG--QVIFVYGAYYGRLDKTTCSYRRPDSQI
+QNVYCSNP--T-PKVAERCNGKNSCTVSASNS-VFG-DPCGGTYKYLEVSYVCDYPVTIT
+P-----------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSPNYP00000000747 ENSPNYG00000000607	235	None	L-rhamnose-binding lectin	Pundamilia_nyererei	1328B	1328	B
+------------------------------------------------------------
+--------------MLSSRL-SSTLLLAATCVLMTS---GFPR-TGPLAHFP---VSTER
+VITCDSL-DS-VQRLSCE-------------------------NGVIIVQSVLFGRTDAE
+TCSEGRPAHQLKNTQ-CSQDGAL----KVVKSRCDGQKVCEINP-VLFHTSSDPCYGIYK
+YVDTTYACFP--AIHSVTCDDS--------------------------------------
+------------------------------------------------------------
+---------LANLQCDEGQVLLIHRADYGRHDATTCSFNRPASQLQNVQCSKQI-N-KVA
+ESCNGKSSCTVKVSGSVFGEPCYGIYKYLEVAYSCHFADES-------------------
+-------------------------------------------
+>ENSCCRP00000058017 ENSCCRG00000031106	224	si	si ch211-66i15	Cyprinus_carpio	1328B	1328	B
+------------------------------------------------------------
+------------------MGYEMFDWLYIGPIGRFH---FHFIMPVLFCERSAALPEAKR
+TLIC-EG---GSAFLSCD-------------------------LGFIKVLEANYGRTDYT
+TCVSGRPANEISNKH-CFQETSL----HTMSARCDGRKSCSVPA-VNSVF-SDPCRGTFK
+YLDVSYDCIP--AKRSVTCENTQSVIVCDTG---VISVYHANYGRRDLVTCPHKLAK---
+-SPHCYSPQTR-S-LRSRCNGRKSCQLNASNS-VYT-DPCNGVIKYLEVMYSCI------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSDARP00000157670 ENSDARG00000109390	226	si	si ch211-66i15	Danio_rerio	1328B	1328	B
+------------------------------------------------------------
+--------------------------ML---VHKLS---LIICKSFILPSHIPAGVDAKR
+TVTC-EG---GSAHLSCGKKQSINSPKLCIY------------LGFVKVLEANFGRTDRT
+TCISGRPANQINNVH-CFRESSL----STMSARCDGIKSCSVPA-VNSVF-SDPCFGTHK
+FLDITYDCIP--SKRSVTCENTQSVIVCGSG---VILVHYANYGRRDLSTCPHKLAK---
+-TPHCYSPQTS-S-LRSRCNGKKSCSLSASNS-LYS-DPCPRVNKYLEVTYSCV------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSFHEP00000015600 ENSFHEG00000017228	215	None	None	Fundulus_heteroclitus	1328B	1328	B
+------------------------------------------------------------
+-------------------------------MTAF------------------SGIFKGT
+VTTCEE-S--AVQRLSCD------------------------SGSVISVETAVYGRTDSV
+TCIEGKSPGQVSNTA-CSAAGVTDAVTDAVKKRCNGKKVCELIP-NALVG-SDPCKDTAK
+YLQTSYTCLP--AFHRAICEHSLSNLRCDEG--QVIVIYGADYGRRDQNTCAYGLTARQM
+QDTACYSP--T-SSVAESCQGKNSCTVVASNS-VFG-DPCRETVKYLEVAYACQYPAPPD
+DQI---------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSGAFP00000023137 ENSGAFG00000015618	220	None	None	Gambusia_affinis	1328B	1328	B
+------------------------------------------------------------
+---------------MLFFRLNSALLLATACLLMV------------------SVAVTEK
+ATTCDD-SDN-IQHLSCE-------------------------NGVISVQSALYGRADRQ
+ICSEDKSPQQLANTQ-CSQEGAV----DIIKKRCDGKRVCEFNT-DDVRR-SDPCVGIAK
+YLDTNYTCPP--AHRRVTCEHSYAHLYCDYG--QVIFVYGADYGRRDHTTCSYRRPASQT
+ENVYCSNP--T-NIVAQICNRKNSCTIRAHNS-VFG-DPCVGTFKYLEVAYTCEYL----
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSXMAP00000038768 ENSXMAG00000029179	220	None	None	Xiphophorus_maculatus	1328B	1328	B
+------------------------------------------------------------
+---------------MLLFRLSSALLLATACLPMV------------------SVAVTEK
+ATTCDD-SDN-IQHLSCD-------------------------NGVISVQSALYGRADRQ
+ICSEGKSPKQLANTQ-CSQDGAV----GIIKNRCDGKRVCEFNT-GDVRS-SDPCVGIAK
+YLETNYTCLP--ANRLVTCEHSNSHLYCDYG--QVIFVYGADYGRRDRTTCSYRRPASRT
+ENVYCSNP--T-NIVAQTCNGKNSCTIRAHNS-VFG-DPCRGTFKYLEVAYTCQYL----
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSELUP00000008970 ENSELUG00000009597	345	None	Esox lucius L-rhamnose-binding lectin CSL1-like (LOC105020798), mRNA	Esox_lucius	1328B	1328	B
+MLLNQSVLIIRYGMSVLENRFLTCVDLSLQCDHGVLKVYGVKYRTNEKSTDESPKPCSDT
+EAFNTLSERCDGKGQCQVTTPSSVC-DLCNPAQL----------NQPYLEVTYGCLESKH
+VTTC-DG-A-GMVHLECD-------------------------DGLVFVQKAVYGRTDSQ
+TCSQGRPQGQLTNTQ-CSQEGTL----TRWSQRCDGKRMCEVNM-KVNHV-SDPCYGTYK
+YLDVTYICVP--ARVSITCSDSTSSLDCGKG---VIKVFHANFGRRDGTTCSAGRHE--L
+SDQNCLQPKVL-EVVKKWCEGKSRCTVGH--DPTFG-DPCYGTYKYLEVSYRCLGGEYRC
+-LGGEYRCLGGEYRC-LGGEYRAA-----------------------------DKGEEMR
+KGTRDDEEARA---DY--------------------------------------------
+-------------------------------------------
+>ENSSORP00005009146 ENSSORG00005005023	222	None	None	Sphaeramia_orbicularis	1328B	1328	B
+------------------------------------------------------------
+---------------MHNSRLTGRLLLAVTLFLME------------------TVVSTKT
+VTTCDN-SYN-VHRLSCD-------------------------FGVIGVQSALYGRADSE
+TCSEGRPANQISDTS-CSQQGTT----DVIRTRCDGKSVCELNV-KVVRT-SDPCAGTYK
+YLQTNYTCLP--AIQVTACEFSVAHLYCDVG--QVILVYGADYGRRDQTTCIYKRPESQI
+TNVDCSNP--T-KKVAESCNGKNSCIINANNA-FFG-DPCQGTYKYLEVAYVCEYPTV--
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSLBEP00000025578 ENSLBEG00000019530	224	None	None	Labrus_bergylta	1328B	1328	B
+------------------------------------------------------------
+-----------------MLHLSITVWLAAFCLLVR------------------EGVTSYR
+VTTCEG-N--HVHRLSCD------------------------SG-VISVQMSVYGREETQ
+TCSEGKPPRQTSNTD-CSMSEAQ----GVLKGWCDGKTVCEFSS-ADFNV-SDPCPGTFK
+YLQTDYDCLP--AMYHVTCEHSFAHLQCDTG--QVIFVQAAKYGRTDPTKCFYKRPASQT
+SNVYCSIP--A-NKVVESCNGASSCVIQASNS-VFG-DPCEGTYKYLEVAYICEYPVSSL
+EFA---------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSSFOP00015006033 ENSSFOG00015003816	227	None	None	Scleropages_formosus	1328B	1328	B
+------------------------------------------------------------
+----------------------------------------------MEQLFNICVIVASN
+FTLIEHG-T-STTRLNF-------------------------RTGVIKIRSANYGRTNGY
+TCSAGGNTCNSFSAQFAGFSHHL----LTEINRCDGSQYCELNV-GPEQF-PDPCANTFK
+YLNTSYSCLH--ADTSVTCEHEVGELNCAG----VIKVFRATYGRRDGTTCTSGRPPRQL
+VNVNCFHSLSTFAVVISSCNGKNSCSLTTSHP-SFS-DPCYGTYKYLEVTYGCYPASKFT
+----------GELQC-GMPNSA-I-----------------------------N----L-
+------------------------------------------------------------
+-------------------------------------------
+>ENSCSEP00000009681 ENSCSEG00000006213	228	None	None	Cynoglossus_semilaevis	1328B	1328	B
+------------------------------------------------------------
+---------------MVHFSLGTTLVLTTCMIW--------------------TAASTKS
+IITCDT-GDN-VQHLTCE-------------------------SGVIGVQSALYGRKDRE
+TCSEGRPNNQLTVTD-CSQMGTV----DIIKKRCNGKKECEFNT-NVVRT-SDPCVGIFK
+YLETNYTCFD--ARHVVICYGSLVHLSCDEG--QVILVYGADYGRHDHNTCSFGRPTTQT
+NDVDCSSSNTF-SIIYERCNGKNSCTVMPTTP-LLG-DPCVGTYKYLEMAYVCEYPGVIS
+LVS------Q--------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSSMAP00000027200 ENSSMAG00000016631	220	None	None	Scophthalmus_maximus	1328B	1328	B
+------------------------------------------------------------
+---------------MLR--LRL-SLTLSACWLLT------------------AAASSER
+VVTCED-GS-NVQRLSCE------------------------TG-VISVQTALYGRADGE
+TCSDGRPTQQLINTH-CSQQGTL----DILRRRCDAKKVCELNI-NTVHN-PDPCHGTFK
+YLETVYTCQP--ANYLLICEHSLATLQCGQG--QVIQVYGADYGRRDRITCSYARHASQA
+QNVDCSSP--T-VRVAESCNGRNSCTIRASNS-MFG-DPCVGTYKYLEVAYVCQYPKSL-
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSMAMP00000022321 ENSMAMG00000014988	207	None	None	Mastacembelus_armatus	1328B	1328	B
+------------------------------------------------------------
+-----------------------MWYEAVSFKFFF------------------FFFLKHR
+VITCD--GDA-VQHLGCD-------------------------TGVISVQTALYGRTDDV
+TCSKGRPKQQLANTQ-CSQEGTV----DILKKRCDGKKVCELNT-KDVQM-SDPCSGIYK
+YLNTSYIY------NLRICEGSLAQLHCDDG--LVIVVLGADYGRRDQTTCSYKRPVSQI
+QNVYCTSP--T-TKVAESCSGKESCSISVSNS-LFG-DPCVSTYKYLEVAYTCECK----
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>ENSMMOP00000013833 ENSMMOG00000010586	223	None	None	Mola_mola	1328B	1328	B
+------------------------------------------------------------
+--------MCQSNKLSQPDRNVCFSVLAATCFLTAAG-KY---------GSESAREPAER
+IVTCEND-FG-VHRLSCE-------------------------RGVISVQAALYGRADTQ
+TCSNGRPAHQLTNTQ-CSQPGTV----NVLRKRCDGKKVCT-----------------FK
+YVDTTYTCNP--AIHRVICEHS--------------------------------------
+------------------------------------------------------------
+---------FAYLFCDEGQVIHVNGADYGRRDQTTCSSHRPASQLQNVYCSSPA-G-NVG
+ERCNGKNSCVVSVSNSVFGDPCVGTFKYLEVAYTCLYSEIS-------------------
+-------------------------------------------
+>ENSTRUP00000065011 ENSTRUG00000032887	209	None	None	Takifugu_rubripes	1328B	1328	B
+------------------------------------------------------------
+---------------MLHIA----------------------------------VHGFTS
+ITICQRFVLRKPSLSISE-------------------------KGVISVQAALYGRADTD
+TCSEGRPVGQLTNTT-CSQPGTE----DLVKTRCDGKKECEINI-RDVAT-PDPCVGTFK
+YLDTNYTCLP--AIHVVACEGSLAHLFCGKTSLFVISVYGADYGRRDETTCSYRRFSFQT
+RNTLCSGP--T-NKVAELCNGKNRCTFRVGSS-LFG-DPCRNTYKYLELAYVCECTF---
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------

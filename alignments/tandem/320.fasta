@@ -1,0 +1,174 @@
+>ENSGGOP00000006600 ENSGGOG00000036646	105	None	None	Gorilla_gorilla	320A	320	A
+------------------------------------------------------------
+---------------------------------------------------MR---DAEG
+G--SPRIRVEAHQGEGA----------------KHGK-----GE----WMGLRQGCCSSC
+GRR-SCGCGDCARGAQCHGLHLS-RNRRILHSSQDDVYSSHCQRGRSCRGQSGGYSAVSG
+GSWTLRDI
+>ENSP00000451043 ENSG00000165948	105	IFI27L1	interferon alpha inducible protein 27 like	Homo_sapiens	320A	320	A
+------------------------------------------------------------
+---------------------------------------------------MR---DAEG
+G--SPRIRVEAHRGEGA----------------NHGK-----GE----WMGLRQGCCSSC
+GRR-SCGCGDCARGAQCHGLHLS-RNRRILHSSQDDVYSSHCQRGRSCCWQSGGYSAVSG
+GSWTLCDI
+>ENSPTRP00000011378 ENSPTRG00000006674	104	IFI27L1	interferon alpha inducible protein 27 like	Pan_troglodytes	320A	320	A
+------------------------------------------------------------
+---------------------------------------------------MR---DAEG
+G--SPRIRMEAHRGEGA----------------NHGK-----GE----WMGLRQGCCSSC
+GRR-SCGCGDCARGAQCHGLHLS-RNRRILHSSQDDVYSSHCQRG-SCCWQSGGYSAVSG
+GSWTLCDI
+>ENSGWIP00000034260 ENSGWIG00000017702	125	None	None	Gouania_willdenowi	320B	320	B
+----------------------------------------------------------S-
+--PMQ--VGWEGAGSVGAIGAVGSVVAAPFVLGALGFTSAGIAAGSFAASMMSSAAIANG
+GGVAAGSLVALLQSAGAVGLSGAATAAVAGAGGAVASAVGASVT----GLAYPNDPNMEE
+KE-EDDDEDDEEK-----------------------------------------------
+--------
+>ENSSFAP00005037226 ENSSFAG00005018735	148	None	None	Salarias_fasciatus	320B	320	B
+------------------------------------------------------------
+---GK--GKKIAAIIGGTVGAVGAVALAPVALTAMGFTSAGIAAGSMAASMMSSAAIANG
+GGVAAGSLVAVLQSAGAAGLTMSATAAVGTAGAAVGGAATAAGM----WLKS--LFHKKE
+KQDDDDDDGDDDDDDPDG----SEGA--VLY-----------KVGDE-----LISFQAPP
+------N-
+>ENSSDUP00000015183 ENSSDUG00000011092	157	None	interferon alpha-inducible protein 27-like protein	Seriola_dumerili	320B	320	B
+MGISAAIEPGEANPFSLKWDEEEIEEEEEEKEEKDDKEKEEKEASSLS--------TF--
+-------NKVLIGTTTTVVGGVGAVALAPVVLGAVGFTSAGIAAGSFAASMMSSAAIANG
+GGIAAGSLVAILQSAGAVGLSGGATAAVAGAGGTVGWLASLIG--------IKAFGGKKD
+KK----------------------------------------------------------
+--------
+>ENSONIP00000072546 ENSONIG00000030164	111	None	None	Oreochromis_niloticus	320B	320	B
+-----------------------------------------MGNSDF-------------
+-------PTDLAP-LTALPGGVV--ILTPAILATLGFTSAGIVAGSIAAKLMSYLAIASG
+GGVAAGGLVAILQSWGAAGLSWAATLVFGSAGAAVAW-----VLSTVCNVTVIYEDSHSE
+------------------------------------------------------------
+--------
+>ENSCHAP00000028634 ENSCHAG00000013771	147	None	None	Clupea_harengus	320B	320	B
+----------------------------------MSAKRTELFISGYV--------LVLS
+SNEDCILAEAVAAAVGATAGAVGTIALATLALPAVGFTATGIAAGSFAASMMSSAAVANG
+GAVAAGSLVAVLQSAGVIGLSGGAVAAVGTVGGAVGGALAGAGA----WMHKVF--GKTC
+KKTSKGDTGDDPKDG---------------------------------------------
+--------
+>ENSCARP00000073432 ENSCARG00000033797	134	None	None	Carassius_auratus	320B	320	B
+------------------------------------------------------------
+--------SGLFTIIGVTAGAVGAVALAPLALTMAGFTSAGIAASSLAASMMSSAAIANG
+GGVAAGSLVALLQSAGAAGLSAGLTAAVASVGGAAGAVIGGAAD----LLSHSRGPPSL-
+-------------ENEDDGDEEQEDAEMMNL---------------Q-----EAKELMPK
+--------
+>ENSCCRP00000028301 ENSCCRG00000015319	138	si	si dkey-188i13	Cyprinus_carpio	320B	320	B
+------------------------------------------------------------
+---SQPHISCTQDNYLCLCPLAGAVALAPVALTMAGFTSAGIAAGSLGASMMSSAAIANG
+GGVAAGSLVALLQSAGAAGLSAGATAVVASVGGAAGAVIGGAAD----LFSRFKSPPSLE
+EEDDG--------------NEEGEE-TEMDF---------------L-----ESKMLIPK
+--------
+>ENSDARP00000099250 ENSDARG00000074754	140	si	si dkey-188i13	Danio_rerio	320B	320	B
+------------------------------------------------------------
+------MKPGLFTVLGVAAGAVGTAVLAPVALTMAGFTSAGIAAGSLGASMMSSAAIANG
+GGVAAGSLVALLQSAGAAGLSAGATAAVASVGGAVGAAFGGAAD----FFSRPPPNNDD-
+-T-----------------TE-RLISKYMAI-------MLTLIIGLL-----MVAIIIVK
+------EN
+>ENSSGRP00000016327 ENSSGRG00000010005	148	si	interferon alpha-inducible protein 27-like protein	Sinocyclocheilus_grahami	320B	320	B
+------------------------------------------------------------
+--------SGLFTIIGVTVGAVGTVALAPVALTMAGFTSAGIAASSIAASMMSSAAIANG
+GGVAAGSLVALLQSAGAAGLTAGATAVVASVGGAAGAVIGGAAD----LRSHSKIDGDGD
+GDGDGDGNGDGDGDGNGNGDEEEEETDMINF---------------Q-----ETKELMPK
+--------
+>ENSGAFP00000026503 ENSGAFG00000017891	126	None	None	Gambusia_affinis	320B	320	B
+------------------------------------------------------------
+---------------LQHVGAIGMVFMAPVALGAIGFTSAGIAAGSYAASMMSSAAISNG
+GGVAAGSLVAILQSAGTSGFTPFANTVLASIGVALGTCVGAAVE----WLSNIFQKRKEK
+KRTEKAME-------------------AILF-------GV--TAGAL--------FLLSK
+------R-
+>ENSPREP00000032612 ENSPREG00000022098	122	None	interferon alpha-inducible protein 27-like protein	Poecilia_reticulata	320B	320	B
+------------------------------------------------------------
+--------CVSGKVLVITGGSVGAVALAPVALGAIGFTSAGIAAGSFAASMMSAAAVTNG
+GGVAAGGLVAVLQSAGAAGLSGAASAVVASVGAGVGAAVGRLAG----KTSTPK---KEE
+ER-KNDQMGEEEKAKNEK------------------------------------------
+--------
+>ENSXMAP00000026229 ENSXMAG00000021950	119	None	interferon alpha-inducible protein 27-like protein	Xiphophorus_maculatus	320B	320	B
+------------------------------------------------------------
+--------CVSGKILVITGGSVGTVALAPVALGAIGFTSAGIAAGSFAASMMSAAAITNG
+GGVAAGGLVAVLQSAGAAGLSGAASAVVASVGAGVGAAVGRLAG----KTRKQK---EEE
+ER-KKDQMKEEERQK---------------------------------------------
+--------
+>ENSMMDP00005000934 ENSMMDG00005000551	170	None	None	Myripristis_murdjan	320B	320	B
+------------------------------MDSCCDR--ATLHSLHFS--------LFL-
+--PTEGIIVTALTVTGALIGGVGAVVAAPYVLAGIGFTSAGISAGSFAASMMSSAAIANG
+GGVAAGSLVAILQSAGAAGLTAGASAAVAGAGAAAGAAVAGTAG----ALTVK-----GE
+EEDKDTKERRKKRNRPCV----VSASKRCPR-----------NRGQR-----KADQKRPA
+------TV
+>ENSGACP00000008885 ENSGACG00000006714	123	IFI27L1	interferon alpha inducible protein 27 like	Gasterosteus_aculeatus	320B	320	B
+---------------------------------------------------------MD-
+--P----KTAAGIVVGAGAGAVVAVVGAPLVLGAVGFTSAGIAAGSYAASMMSAAAVANG
+GAVAAGSTVAVLQAAGAVGLSGAVTAAVTGVGAAVGWLVSLIGG----GRKKKAKKESTC
+EDDSTANNGTN-------------------------------------------------
+--------
+>ENSTRUP00000064245 ENSTRUG00000030974	153	None	None	Takifugu_rubripes	320B	320	B
+-----------------------------------------VQASKLT---------IL-
+--PFC--FKINGLCVICPALWLATVALAPVALGAAGFTSAGIAAGSVAAKMMSVTAVASG
+GGVAAGSAVAVLQSAGMAGLSVATNVVLAGAGAGAGAALDYLGR----LLRKKKKSRESN
+LRPKTRKS-----------TLEESPDEIVDF-------PSE-----S-----SIFVHAPS
+--------
+>ENSCJAP00000017784 ENSCJAG00000009712	78	None	None	Callithrix_jacchus	320B	320	B
+------------------------------------------------------------
+------------------------VQAVPVVLSARGFTGAGMAKNSLAAKMMSAVAIDD-
+GGVASGSLVATLQSLGATGLSRLTKLILGSTGSAVAAGFVDFF-----------------
+------------------------------------------------------------
+--------
+>ENSCATP00000010582 ENSCATG00000029578	78	None	None	Cercocebus_atys	320B	320	B
+------------------------------------------------------------
+-------------------------MAVPMVLSAMGFTTTGITSSSIAAKMMSTAAIANG
+GGVAPGSLVATLQSLGATGLSGLTKFILGSTGSAIVAGIARFY-----------------
+------------------------------------------------------------
+--------
+>ENSCSAP00000007194 ENSCSAG00000010970	122	None	interferon alpha inducible protein	Chlorocebus_sabaeus	320B	320	B
+-----------------------------------------MVASAFTSSAVTGVAKVAR
+VASSCAVVFPLARIATVVIGGVVAMEAVPMVLSVMGFTATGITSSSIAAKMMSAAAIANG
+GGVAPGSLVAILQSLGATGLSGLTRFILGSTGSAIAAGIARFY-----------------
+------------------------------------------------------------
+--------
+>ENSGGOP00000006605 ENSGGOG00000006752	122	IFI27	interferon alpha inducible protein	Gorilla_gorilla	320B	320	B
+-----------------------------------------MEASALTSSAVTSVAKVVR
+VASGSAVVLPLARIATVVIGGVVAMAAVPMVLSAMGFTAAGIASSSIAAKMMSTAAIANG
+GGVASGSLVATLQSLGATGLSGLTKFILGSIGSAIAAGIARFY-----------------
+------------------------------------------------------------
+--------
+>ENSP00000483430 ENSG00000165949	122	IFI27	interferon alpha inducible protein	Homo_sapiens	320B	320	B
+-----------------------------------------MEASALTSSAVTSVAKVVR
+VASGSAVVLPLARIATVVIGGVVAMAAVPMVLSAMGFTAAGIASSSIAAKMMSAAAIANG
+GGVASGSLVATLQSLGATGLSGLTKFILGSIGSAIAAVIARFY-----------------
+------------------------------------------------------------
+--------
+>ENSMMUP00000076501 ENSMMUG00000023780	147	IFI27	interferon alpha inducible protein	Macaca_mulatta	320B	320	B
+-------------------------------------MRAAMVASAFTSSAVTGVAKVAR
+VASGCAVVLPLARIATVVIGGVVAVEAVPMVLGVMGFTATGITSSSIAAKMMSAAAIANG
+GGVAPGSLVATLQSLDSLRISLREMEEGGKEPKPGTVGPGRLSLKQICWVTWGISSPLGH
+SLLH--------------------------------------------------------
+--------
+>ENSMLEP00000030953 ENSMLEG00000039663	78	None	None	Mandrillus_leucophaeus	320B	320	B
+------------------------------------------------------------
+-------------------------MAVPMVLSAMGFTATGITSSSIAAKMMSTAAIANG
+GGVAPGSLVATLQSLGATGLSGLTKFILGSTGSAIVAGIARFY-----------------
+------------------------------------------------------------
+--------
+>ENSPTRP00000011379 ENSPTRG00000006675	122	IFI27	interferon alpha inducible protein	Pan_troglodytes	320B	320	B
+-----------------------------------------MEASALTSSAVTSVAKVVR
+VASGSAVVLPLARIATVVIGGVVAMAAVPMVLSAMGFTAAGITSSSIAAKMMSAAAIANG
+GGVASGSLVATLQSLGATGLSGLTKFILGSTGSAIAAGIARFY-----------------
+------------------------------------------------------------
+--------
+>ENSPANP00000046127 ENSPANG00000032229	122	None	interferon alpha-inducible protein 27,	Papio_anubis	320B	320	B
+-----------------------------------------MVASAFTSSAVTGVAKVAR
+VASGCVVVLPLARIATVVIGGVVAVEAVPMVLGVMGFTATGITSSSIAAKMMSAAAIANG
+GGVAPGSLVATLQSLGATGLSGLTRFILGSIGSAIAAGIARFY-----------------
+------------------------------------------------------------
+--------
+>ENSPPYP00000006933 ENSPPYG00000006097	89	None	None	Pongo_abelii	320B	320	B
+------------------------------------------------------------
+-----------ARIATVVIGGV---EAVPMVLSAMGFTAAGIASSSIAAKMMSAAAIANG
+GGVASGSLVATLQSLGATGLSGLTKFILGSTGSAIAAGIARFY-----------------
+------------------------------------------------------------
+--------
+>ENSTGEP00000036328 ENSTGEG00000028914	78	None	None	Theropithecus_gelada	320B	320	B
+------------------------------------------------------------
+-------------------------MAVPMVLSVMGFTATGITSSSIAAKMMSTAAIANG
+GGVAPGSLVATLQSLGATGLSGLTKFILGSTGSAIVAGIARFY-----------------
+------------------------------------------------------------
+--------

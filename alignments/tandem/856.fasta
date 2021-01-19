@@ -1,0 +1,406 @@
+>ENSATEP00000002522 ENSATEG00000001804	128	None	protein C2-DOMAIN ABA-RELATED	Anabas_testudineus	856A	856	A
+---------------------MASSL-LVLVLVL-----CSLAATEAQLRLYNLRASGLP
+TSL-FGSTDGYVKVFCSSVSVGKTSVVSNNANPWWKEEFAYFQAQENDVLRLEVHDSDFL
+FDDLLGVCQRQVKLGTHT-HDCYLDK---------------GGTLNYSYTLG--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSGWIP00000026339 ENSGWIG00000013833	149	None	None	Gouania_willdenowi	856A	856	A
+MSVFNHLQLQWGS-PSAV-EAMASSL-LLLL--L-----LCTASVSAQLRIFGLRARGLP
+SDL-LGTTDGYVKVFIGTTILGQTSVRHNNANPWWDEEFAYFKVQENDLLRLEVHDDDFL
+FDDLLGVCQRPVKEGTHT-HECYLEK---------------KGTLFYTYTLSGDNQ----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSSFAP00005001079 ENSSFAG00005000783	130	None	probable ADP-ribosylation factor GTPase-activating protein	Salarias_fasciatus	856A	856	A
+---------------------MASGL-HFLLLLLL----CSV-SSEARLRIFEISASDLP
+SDI-FGITDAYIKVSVGSQSLGQTKVKDNQVNPWWEEEFYYSYAQQDDVLRLEVHDEDTF
+FDDLLGICSRQLQYGTHR-FDCFLEE---------------KGVLHYSYTLDSQ------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSONIP00000059602 ENSONIG00000038091	128	None	None	Oreochromis_niloticus	856A	856	A
+---------------------MASRL-CLLLLIL-----CGPNVAQCGLRVYNVYARGIR
+PDPGNNNGDGYVRMSCGPVST-TTHVVFNTPNPNWHEELHYYGASPGNYLELRVYDKDVM
+FDDLLGICATNIQRGTRK-QYCSLSK---------------GGYLYFTYTLS--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSDCDP00000018739 ENSDCDG00000015032	135	si	si ch211-240l19	Denticeps_clupeoides	856A	856	A
+----------VGVLPKTMGSF-RLVLLC---TVVL----SCLCAVQAKVRVWGISGSGIT
+GDPVG-APDPYVKVYCGNSFGGMTDFQKDTANPSWNVEFNFPNSGVGDNLKLEIWDKDLN
+YDDKLGTCSSTVKSGSYK-VTCSFG----------------KGTLFYHYST---------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSCARP00000055435 ENSCARG00000023966	331	si	si ch211-240l19	Carassius_auratus	856A	856	A
+-----------------MAVFYHLRLVSLAVLMLV----SQLDFTSAAVRVFGLNARDLT
+GDPAGNKPDPYVKVWCGSTFGGQTEFHKDTAHPTWSAEFYFPNCKVSETLKLEVWDKDLN
+FDDHLGTCHEQFLCHPLL-LPTHHRHLDSSPPSTISDCIFFPVLFVFQFVWLLSLIKTLF
+ILALVSSSSYTQSSQNALTIMEAANTTSLSDFIHHSVNHMDQQQESMVNIGRAIQALVTQ
+VSELTQRIHQLTSPTVPIAPPAPPVPRETSQDHFRPEPRLLAPENYSGEPNFCKTFLNKC
+FMHFALQPRTFATEESKVTFTLTLLSGKAALWGRGCGRTNIHVAPRSTPSLMK
+>ENSDARP00000100169 ENSDARG00000074547	134	si	si ch211-240l19	Danio_rerio	856A	856	A
+-----------------MAVFCDLRLVSLAVLMLA----SQLDFASASVRVFGLHARDLT
+GDPFGNEPDPYVKVWCGAVSGGQTEYHKDNANPTWSAEFNFPNCKCGDDVKLEIWDKDKT
+FDDHLGTCNKLVQYGSFA-VTCYLN----------------KGTFFYRYEAK--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSSGRP00000099897 ENSSGRG00000049761	138	si	si ch211-240l19	Sinocyclocheilus_grahami	856A	856	A
+-----------------MAVFYHLRLVSLAVLMLV----SLLDVASATVRVFGLHARDLT
+GDAAGNKPDPYIKVWCGSVFGGQTEYHKDTAHPKWSAEFNFPNCKANETLKLEVWDKDLN
+YDDRLGTCTKQLQYGSFT-VTCYLN----------------KGTVFYSYGSLSSPS----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSGMOP00000021943 ENSGMOG00000020456	140	None	None	Gadus_morhua	856A	856	A
+--------------HRNM-VAFTSSCYLVLVLLAL----GPLSAVQAGLRLFNIRANGLP
+SGL-FGTTDGYVEVSCGSAYLGKTSIRKNNPNPWWEEEFTYFKALPNDVLRLTCYDSDVL
+LDDLLGTCQRPIKVGTHS-HDCYLKK---------------G-TLSYTYTLDGVAVQ---
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSPMGP00000015777 ENSPMGG00000012928	133	None	None	Periophthalmus_magnuspinnatus	856A	856	A
+---------------------MAIHL-PLIWLIW-----CGLVTFREKVKIYNLRASDLP
+SDL-LSPTDGYVKVFCGSAALGQTGVRNDDLNPWWKEEFTYFKAQENDVLRLEVFDDDIL
+FDDLLGVCQRQLRVGSYK-HDCYLKK---------------GGTLHYEYTLSAPVQK---
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSLBEP00000004432 ENSLBEG00000003396	130	None	None	Labrus_bergylta	856A	856	A
+---------------------MASSL-PLLLLLL-----CTLNVAHSNIRIFNLRATGLP
+SDL-FGTTDGYVKVFCSAASLGKTSVRINNRNPWWEEEFSYFKAQENDILRLEVFDSDFL
+FDDQLGVCQRSVKVGTHQ-HDCFLKR---------------GGTLHYSYTLQGQ------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSCSEP00000013270 ENSCSEG00000008569	131	None		Cynoglossus_semilaevis	856A	856	A
+---------------------MTSRV-CPLLLLLV----CSLAVAKAQLKVFNLRATDLP
+ADI-FGVTDGYVKVSCMAAVLGQTEVRKNSANPWWEEEFFYYEAQENDILRLELHDEDFI
+FDDLLGVCQINIKPGTHE-HDCYLDK---------------G-VLYYSYTFTPQQ-----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSHHUP00000003484 ENSHHUG00000002187	130	si	si ch211-240l19	Hucho_hucho	856A	856	A
+---------------------LAMASLSLGLLFLC----MLVGVHGANVRVSGLHASGLQ
+GDAAGNFPDPYVKVWCGGVSGGMTDWHKDTNNPSWSAVFSFLNVPSSASLKFEIWDKDLN
+FDDHLGTCTTRLQSGSHS-VTCGLS----------------SGTFYYTYSYQ--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSOTSP00005020810 ENSOTSG00005010075	128	si	si ch211-240l19	Oncorhynchus_tshawytscha	856A	856	A
+-----------------------MASLSLGLLFLC----MLVGVHGANVRVSGLHASGLR
+GDPAGNYPDPYVKVWCGGESGGMTDWHKDSQNPSWSAVFNFLNVPSSASLKFEIWDKDLN
+FDDHLGTCTTNLQLGSHS-VTCGLS----------------SGTFYYTYSYQ--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSSTUP00000059666 ENSSTUG00000025730	128	si	si ch211-240l19	Salmo_trutta	856A	856	A
+-----------------------MASLSLGLLFLC----MLVGVHGANVRVSGLHASGLR
+GDPAGNYPDPYVKVWCGGEPGGMTDWHKDTQNPSWSAVFNFLNVPSSASLKFEIWDKDLN
+FDDHLGTCTTKVQFGSHS-VTCGLS----------------SGTFYYTYSYQ--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSBSLP00000002428 ENSBSLG00000001410	128	None	protein C2-DOMAIN ABA-RELATED	Betta_splendens	856B	856	B
+---------------------MASAP-ALLVLVL-----ACLTATQAQVKVFNLRATGLP
+SNL-ISTTDGYVKVFCSSASMGETSVINNNADPWWKEEFSYFKAQENDVLRLEVYDSDFL
+FDDRLGVCQRQMKLGTHT-HDCYLEK---------------GGTLNYSYTLG--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSORLP00000021579 ENSORLG00000017246	131	None	uncharacterized	Oryzias_latipes	856B	856	B
+----------------------MTSL-PALLLLA-----LGLTVAEAQLRLYNLRASDLP
+SDL-LGTSDGYVQVYSGSTYLGKTAVRKNDPDPWWEEEFQHFKAKEGDELKLEVYDQDLL
+FHDLVGVCQRQMKLGTHT-HDCYLKK---------------GGVLTYTYTLDDINQ----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSGWIP00000026341 ENSGWIG00000013836	130	None	GTPase activating protein	Gouania_willdenowi	856B	856	B
+---------------------MASCL-H-LLLFL-----CGAPVALSQLRLFNLRASDLP
+DRL-LGTTDGYVEVFLGSSPLGKTSVRYNNPNPWWEEEFTFFKAQENNVLRLEVYDSDVL
+FDDLLGTCQRTLRVGTHM-HDCYLKK---------------GGTLHYTYTLTPQQ-----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSSFAP00005001070 ENSSFAG00005000767	130	None	None	Salarias_fasciatus	856B	856	B
+---------------------MASCS-SLLLLLLL----GCLGGVQSQVRVFDLRASKLP
+QGL-MSTTDGYVKVFLGSATLGKTSVRNNDANPWWAEDFAYFYAQANDVLRLEVHDDDIL
+FDDLIGVCQRQLQVGTHE-HDCFLEK---------------GGTLHYSYDLKQ-------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSENLP00000010626 ENSENLG00000005158	128	None		Echeneis_naucrates	856B	856	B
+---------------------MASSL-PLLLLVL-----CSLSVVQCQLRVFNLRATGLP
+SDI-LGITDGYLKVFCGSAFLGTTSVRKDNANPWWEEEFTNFKAQENDVLRLEVYDSDFL
+FDDVLGVCQRQIKKGTHE-HDCYLEK---------------GGTLHYAYTLG--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSSDUP00000013214 ENSSDUG00000009600	128	None		Seriola_dumerili	856B	856	B
+---------------------MASSL-PLLLLVL-----CSLSVAQSQLKVFNLRATGLP
+SDL-FGITDGYVKVFCGSATLGMTSIRDNNPNPWWEEEFTNSKAQVNDVLRLEVFDHDFA
+FDDLLGVCQCQIKPGTHE-HNCFLKE---------------GGSLHYTYTLS--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSAMXP00000044323 ENSAMXG00000038681	134	si	si ch211-240l19	Astyanax_mexicanus	856B	856	B
+-----------------MATIMTLRLTCVALLVVV----AHLELTDAAVRVWGMRASRLE
+GDPTG-PPDPYLKVWCGSSFAGMTQFYRDTSSPSWNAEFHIPSCRANDNLKLEVWDKDLN
+VDDHLGTCITQVRYGSNNNKSCRVG----------------KGTLTYNYKLS--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSPNAP00000034552 ENSPNAG00000006655	136	None	None	Pygocentrus_nattereri	856B	856	B
+---------------RAIFCTMTLRLMCVAILVIA----AHLALTNAAVRVWGLQAFNLD
+GDPIG-PPDPYIKVWCGSIFGGMSEFRQDNANPVWSAEFYFPNCKAKDILKLEVWDKDLT
+YDDYLGTCTMKVQSGTYLYRTCMVG----------------RGTLSYNYELK--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSACIP00000008447 ENSACIG00000006641	128	None	None	Amphilophus_citrinellus	856B	856	B
+---------------------MASNL-PLLLLGF-----CYVGLAESQLKLFDLRASNLP
+SNL-LGTTDGYVKVFCGATTLGTTSIRPDNANPWWKEEFSYFKAQENEVLRLEVYDSDVI
+FDDLLGVCQRQLKMGTHE-HDCYLDK---------------GGTLHYTYTIG--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSACLP00000032218 ENSACLG00000021851	122	None	None	Astatotilapia_calliptera	856B	856	B
+---------------------QATGK-S-----------LELLLAFSQLKVYDLRATDLP
+TVV-LLTTDAYVKVSSGFTSLGKTSVRYNDANPWWEEEFSYFNIKENDTLTLKVYDLDLV
+FDDLLGVCKRKLKVGTYQ-HDCFLTK---------------GGTLHYTYTLG--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSHBUP00000012000 ENSHBUG00000013696	129	None	protein C2-DOMAIN ABA-RELATED	Haplochromis_burtoni	856B	856	B
+---------------------MDSSV-PLVLLLLM----CSSIMVEAQLKVYDLRASNLP
+TVI-LLTTDAYVTVSCGSTSLGKTSVRYNDPNPWWNEEFSYFYAEENDTLTLEVYDLDLL
+FDDQLGVCQRQLKVGTYQ-HDCFLTK---------------GGTLHYTYTLG--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSMZEP00005034843 ENSMZEG00005026054	129	None	None	Maylandia_zebra	856B	856	B
+---------------------MDSSV-PLVLLLLM----CSSIMVEAQLKVYDLRATDLP
+TVV-LLTTDAYVKVSSGFTSLGKTSVRYNDANPWWEEEFSYFNIKENDTLTLKVYDLDLV
+FDDLLGVCKRKLKVGTYQ-HDCFLTK---------------GGTLHYTYTLG--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSNBRP00000023473 ENSNBRG00000017975	119	None	None	Neolamprologus_brichardi	856B	856	B
+---------------------MDSSV-PLVLLLLM----CSSIMVEAQLKVYNLRA----
+-------TDAYVTVSSGATSLGKTSVRYNDPNPWWEEEFSYFYTEENDTLTLEVYDFDLV
+FNDQLGVCQRQLKVGTYQ-HDCFLTK---------------GGTLHYTYTLG--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSONIP00000030615 ENSONIG00000027875	128	None	GTPase activating protein	Oreochromis_niloticus	856B	856	B
+---------------------MASRL-CLLLLIL-----CGPNVAQCGLRVYNVYARGIR
+PDPGNNNGDGYVRMSCGRVST-TTHVVFNTPNPKWHEELHYYGASPGNRLELRVYDKDVI
+FDDLLGICATNIRRGTRQ-NTCRLSK---------------GGYLYFTYTLS--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSPNYP00000014762 ENSPNYG00000011199	129	None	protein C2-DOMAIN ABA-RELATED	Pundamilia_nyererei	856B	856	B
+---------------------MDSSV-PLVLLLLM----CSSIMVEAQLKVYDLRASNLP
+TVI-LLTTDAYVTVSCGSTSLGKTSVRYNDPNPWWNEEFSYFYAEENDMLTLEVYDLDLL
+FDDQLGVCQRQLKVGTYQ-HDCFLTK---------------GGTLHYTYTLG--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSCHAP00000052587 ENSCHAG00000023982	129	None	None	Clupea_harengus	856B	856	B
+----------------MATCC-TSLPLG---LLVL----SLLCVATADVRVWGIRAYGLY
+GDPWG-PPDPYVKVYCGHAFGGMTDFRRDNANPSWSAQFSFPSGRPGDVLRLEVWDKDLM
+NDDHLGTCITTVQRGSLS-LSCSIG----------------NGRLELRYEL---------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSCARP00000055447 ENSCARG00000023972	135	si	si ch211-240l19	Carassius_auratus	856B	856	B
+-----------------MAVFDHLGLVSLAALILA----SQLDFTSAAVRVFGLHAKDLT
+GDPAGNDPDPYVKVWCGSTFGGMTEFRRDSANPSWSAEFSFPNCKAKDDLKFQVWDKDLN
+FDDYLGTCVRRVQYESST-GTCELK----------------NGALYYSFEAEI-------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSCCRP00000025604 ENSCCRG00000013870	131	si	si ch211-240l19	Cyprinus_carpio	856B	856	B
+-----------------MAVFDHLWLVSLAVLMLV----SQLDFASAGVRVFGLHARDLT
+GDPAGNKPDPYVKVWCGSAYG---EYQRDVANPSWSATFSFPNCRVGQTLKMEVWDKDLI
+FDDYLGTCTKSLSRGVFN-AVCSLN----------------AGTLYYTYNVQ--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSDARP00000098194 ENSDARG00000074613	135	si	si ch211-240l19	Danio_rerio	856B	856	B
+-----------------MAAFNHLRLVSLAVLMLA----SQLDFASASVRVFALYARDLT
+GDPAGNKPDPYVKIWCGSTFGGQTEYHKDNANPVWSAEFNFPNCKSKETLKLEVWDKDLN
+FDDKLGTCTKTVEYGLSS-VTCHLK----------------KGSLFYKYELKQ-------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSCVAP00000029039 ENSCVAG00000016510	129	None	cytosolic phospholipase A2	Cyprinodon_variegatus	856B	856	B
+---------------------MASSL-SVSFLVL-----CALSLAQAQLRVFDLRASDLP
+YDI-FGITDAYVKVYVGTASLGKTATRANTIHPWWEEEFTYFHAQENDILKLDVHDADLL
+FHDLVGSCERQLKPGTYH-YDCHLEE---------------GGTLHYSYTLDQ-------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSFHEP00000028158 ENSFHEG00000012082	132	None		Fundulus_heteroclitus	856B	856	B
+---------------------MAPNL-PVLLLVL-----CALSLAQAQLRLFNLRASKLP
+SDL-FGTTDGYVKVFCGAATLGKTSVRKDTVNPWWEEEFAHFQAQENEVLRLEVYDSDLV
+FDDLLGVCQRQMQLGTHQ-HDCYLEK---------------GGTLHYSYTLGQESQ----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSGAFP00000024074 ENSGAFG00000016243	128	None	None	Gambusia_affinis	856B	856	B
+---------------------MVSNL-PVVLLVL-----CALSLTQAQLRLFNLRASKLP
+SDL-LGTTDGYVKVFCGKTSLGKTAVRKDTVNPWWEEEFNYFHALENDEMKLEVYDNDLL
+FDDLLGVCQRQLQPGTHQ-HDCFLEK---------------GGTLHYSYTLG--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSKMAP00000011320 ENSKMAG00000008519	128	None		Kryptolebias_marmoratus	856B	856	B
+---------------------MASNL-PLLLLVL-----SGLSMAQSQLTLFNLRATGLP
+SDL-FGTTDGYVKVFCSATSLGKTSVRRDTVNPWWEEEFSHFQAQENEVLRLEVYDSDLL
+FDDLLGVCQRQIKLGSHE-HDCFLKK---------------GGTLHYSYTLG--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSPREP00000017771 ENSPREG00000012019	128	None	protein C2-DOMAIN ABA-RELATED	Poecilia_reticulata	856B	856	B
+---------------------MVSIF-PVALLVL-----CALSLAQAQLRLFNLRASNLP
+SDL-LSTVDGYVKVFCGATSLGKTAVRKDTANPWWEEEFNYFHALENDEVTLEVYDADLL
+FDDLVGVCQRQLQPGTHQ-HDCFLKK---------------GGTLHYSYTLG--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSXMAP00000004975 ENSXMAG00000004977	128	None	protein C2-DOMAIN ABA-RELATED	Xiphophorus_maculatus	856B	856	B
+---------------------MVSKL-HVVLLVL-----CALSLAQAQLRLFDLRASKLP
+SDL-LGTADGYVKVFCGETSLGKTAVRKDTANPWWEEEFNYFHALENDEMKLEVYDNDLL
+FDDQLGVCQRQLQPGTHQ-HDCFLKK---------------GGTLHYSYTLG--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSELUP00000029765 ENSELUG00000001629	141	None		Esox_lucius	856B	856	B
+---------------------MTSHTLSLGLLFIGALSLVHCDQYYGHVRVWGISATNLN
+GDILS-QPDPYVKVWCGPAFGGMTSLLKNQANPTWPGEFNFLDIIHKSVLKLEVWDDDNG
+PDDRLGTCTTTIRKGTNI-ETCHLK----------------KGILYYTYSYEKSSYDQDD
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSGMOP00000021944 ENSGMOG00000020457	134	None	None	Gadus_morhua	856B	856	B
+---------------RNM-VALTSSCSLVLVLLAL----GPLTAVAAQLRVFNIRASGLP
+SDL-LGITDGYVEVSCGPTYLGETSVRHNDANPWWDEEFRDSSALPNDVLRLTVHDHDTF
+LDDLLGTCQRPIKVGTYS-HDCYLDE---------------G-TLSYSYTLA--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSNMLP00000028334 ENSNMLG00000018025	121	None	None	Neogobius_melanostomus	856B	856	B
+---------------------MAP-----PCVLL--------LLCATQLRVSNLRAKGLP
+QDV-LGITDGYVKVFYRSELLGQTEVRKNEANPWWREDFVYVYANPNNPVRLEVHDKDLI
+WDDLVGTCHAVVQPGTHQ-DQCELEQ---------------GGVLFYEYTLG--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSPMGP00000015773 ENSPMGG00000012924	124	None	None	Periophthalmus_magnuspinnatus	856B	856	B
+---------------------MGV-----LCLVLL----C-AAVCCGQLRVFNLRAKGLP
+QDS-LGITDGYVRVICRNDLVGQTSVRKNTVDPWWKEEFMYYSAVENSTLKLEVHDEDLI
+WDDLVGTCLSQVQFGTHQ-NQCALEK---------------GGMLYYDYTLS--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSEEEP00000035984 ENSEEEG00000017118	128	si	si ch211-240l19	Electrophorus_electricus	856B	856	B
+-----------------------MHALLLWAVALA----LTLAPSDAAVRVFSLRANGLK
+GDPAGNPPDPFVKVWCGSSFGGMTEFHKDNSNPSWSASFYFPDCGANDHLTFEVWDKDLN
+FDDLLGTCVSSVQPGLHQNFACSLQ----------------YGTLFYSYEL---------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSMMDP00005020512 ENSMMDG00005010095	132	None		Myripristis_murdjan	856B	856	B
+---------------------MAFNH-SFLLLAL-----CSLVVVQAQLRLFNLRATGLP
+ADL-LGITDGYVKVFCGSGVLGETSVRHNNANPWWEEEFVHFKAQQNDVLRLEVFDSDPI
+FDDLLGICQRQIKVGTHE-HDCFLEK---------------GGTLHYAYTLDDDSQ----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSSORP00005000916 ENSSORG00005000563	132	None		Sphaeramia_orbicularis	856B	856	B
+------------------------MW-SLVLLVLP----VLWAAAEAQLRVFNLRASDLP
+SDI-LGITDGYVKVFCSSTFVGETSVRDNNANPWWEEEFTHFLVQENDILRLEVHDSDFL
+FDDLLGVCERPVKNGTHE-HDCFLEE---------------GGVLHYTYTLVFLSVIF--
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSCGOP00000020271 ENSCGOG00000009815	128	None	None	Cottoperca_gobio	856B	856	B
+---------------------MASSR-PLMLLIL-----CSLNVAEAHLKLYNLRASNLP
+SSI-LGTTDGFVKVFCGSATLGETSHRNNNPNPWWDEEFTHFKAQENDVMRLEVHDSDFL
+FDDLLGVCQRQIKLGTHD-HDCFLEK---------------GGILHYSYTLG--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSGACP00000006679 ENSGACG00000005063	128	None	None	Gasterosteus_aculeatus	856B	856	B
+---------------------MASTR-PLLLLVL-----CSLTLTDAQFKLFNLRATDLS
+ANL-LGRPDAYVKVSCGSSDLGETSVSRNQKNPWWEEEFATYKGQENDVMRLEVFDKDLF
+FDDLLGVCQRQIKRGTHA-HDCFLEK---------------GGTLHYTYTLG--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSSMAP00000029359 ENSSMAG00000017990	129	None	None	Scophthalmus_maximus	856B	856	B
+---------------------MASSL-PLLLLVL-----CSLTAAEAQLRLYNLRASGLP
+SDL-MGITDGYVKVFCGSANLGETSVNHNNANPWWTEEFSHFKAQENDILRLEVHDEDIF
+YDDLLGVCQRQIKVGTHE-HDCYLKE---------------GGTLHYMYTLSV-------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSIPUP00000034022 ENSIPUG00000022859	124	None	None	Ictalurus_punctatus	856B	856	B
+-------------------GASGTRRVC------------LALPSDAALRVFRMQGQSLK
+GDALGYAPDPYVKVFVRNEMRN-TYVIKDTSNPVWSSSLSFSTAKVNDQLKLQVWDQDVK
+NHDLLGTCYAQVRSGTSN-FKCPLSK---------------GGTLTYSTQFS--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSSAUP00010025236 ENSSAUG00010011031	128	perf1		Sparus_aurata	856B	856	B
+---------------------MASGL-SLLLLVL-----CSLSVAQSQLRLFNLRATGLP
+SDL-LGTTDGYVKVFCGSATLGTTSTRKDDANPWWEEEFSYFSAQENDILRLEVHDSDLL
+FDDLLGVCQRQIKPGTHD-HDCYLEE---------------GGTLHYSYTLG--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSMAMP00000027560 ENSMAMG00000018534	132	None		Mastacembelus_armatus	856B	856	B
+---------------------MASSL-TFLQLVL-----CCLTVAEAQLKLFNLRATKLP
+SDI-LGTTDGYVKVFCGSATLGKTSVRKNDADPWWEDEFNYFKAHENDVLRLEVYDSDLL
+FDDLLGVCQRQIKLGTHQ-HDCFLKK---------------GGTLHYAYTLGTQNQ----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSMALP00000011006 ENSMALG00000007855	132	None		Monopterus_albus	856B	856	B
+---------------------MASSV-PFVMLVL-----SSLIVAEAQLRLFNLRASNLP
+SSL-FGTTDGYVKVSCGAAKLGKTSVSNDNPNPWWSEEFTHFMAQENDKLKLEVYDSDLI
+FDDLLGVCERAIALGVHE-HNCYLEK---------------GGILTYSYTLGNQTH----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSHCOP00000017844 ENSHCOG00000001936	131	si	C2 domain-containing protein	Hippocampus_comes	856B	856	B
+---------------------MASSL-SLLLLVL-----CALPVAQAQLRVFNLRASGLP
+SDI-LGITDGYVKVFCGSATLGKTAVRKDTVNPWWEEEFSYFKAQERDVLRLEVYDRDLI
+FDDQLGVCQRQIRPGTHE-HDCFLTK---------------GGTLHYAYTLEQHN-----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSMMOP00000010405 ENSMMOG00000008025	128	None	None	Mola_mola	856B	856	B
+---------------------MASTL-CLVLLVL-----CSLSMAQGQVKVFNLRASDLP
+SNL-LATTDGYVKVFCGPATLGKTSVRNNNKNPWWEEEFIYFKGQENDILKLEVYDSDVV
+FDDLLGVCQRKIKQGTHQ-HDCFLEK---------------GGTLHYSYTLG--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSTRUP00000034212 ENSTRUG00000013417	128	None	protein C2-DOMAIN ABA-RELATED	Takifugu_rubripes	856B	856	B
+---------------------MASSL-SLLLLVL-----CSLAAAQARLRVFNLRATGLP
+SDS-LGVSDGYVKVSCGAVSLGKTAVLHNQVNPWWEEEFAYLSAKENDILRLEVFDSDLI
+FDDELGVCSRQLKKGTYD-YQCSLED---------------GASLYYSYTLY--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------
+>ENSTNIP00000003115 ENSTNIG00000000155	126	None	None	Tetraodon_nigroviridis	856B	856	B
+---------------------MASAL-PLL--VL-----AVFSLAQAQIRVFDLRASDLP
+SDL-LGTTDGYVKVFIGKESLGKTSVRNDNKHPWWEEEFQHFNAQENDTLKLEVYDSDIL
+FDDLLGVCQRQVRKGTYS-HDCFLEK---------------GGTLHYSYTLR--------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------

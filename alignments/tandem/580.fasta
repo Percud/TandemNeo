@@ -1,0 +1,1910 @@
+>ENSAMXP00000039288 ENSAMXG00000040576	153	None	oxytocin-neurophysin	Astyanax_mexicanus	580A	580	A
+--------------------------------------------MSG--PTLYVSLLCLL
+S----VASACYISNCPIGGKRSLIEA-PAR-K---------------------------C
+MPCGPG-----DRGRCFGPSICCAAEL-GCYVGSPEAASCVEENYLPSPCESGGKACGS-
+-EGGRCAAPGICCHS---------------------------------------------
+--EGCSTDQTCLAEDEAEPE----NN-------------------------EGLGGEVLM
+KLLHLARQHPS-S--------RN----HQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPNAP00000034092 ENSPNAG00000023140	155	oxt	isotocin-neurophysin IT	Pygocentrus_nattereri	580A	580	A
+--------------------------------------------MSRT-AFSAFCFLCLL
+S----VCSACYISNCPIGGKRAVQDF-PPR-Q---------------------------C
+MACGPG-----DKGRCFGPSICCGEGI-GCILGATEALRCLEEDYLPSPCEAGGKACGP-
+-VAGRCAAPGVCCDS---------------------------------------------
+--DGCSIDQSCLDGESDINT-----------------IGQ-----------TASSRDLLL
+KLLHWTNYAQP-Y--------RP----YQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCARP00000054310 ENSCARG00000023473	154	oxt	isotocin-neurophysin IT	Carassius_auratus	580A	580	A
+--------------------------------------------MSGG-LLSVVCLLCLL
+S----ICSACYISNCPIGGKRSVQDW-PSR-Q---------------------------C
+LSCGPG-----DHGQCFGPSICCGEGI-GCLVGSPETLRCLEEDFLPSPCEVSGKACGY-
+--EGRCAAPGVCCDS---------------------------------------------
+--EGCSMDQSCADGEADGPA-----------------TTQ-----------PASSQDLLL
+KLLHLSSHAHP-V--------RL----HQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSSGRP00000088962 ENSSGRG00000044634	154	oxt	isotocin-neurophysin IT	Sinocyclocheilus_grahami	580A	580	A
+--------------------------------------------MFGG-LLSVVGLLCLL
+S----ICSACYISNCPIGGKRAVQDW-PSR-Q---------------------------C
+LSCGPG-----DHGRCFGPSICCGEGI-GCLVGSPETLRCLEEDFLPSPCEVSGKACGY-
+--EGHCAAPGVCCDS---------------------------------------------
+--EGCSMDQSCANGDADGPA-----------------TTQ-----------PASSQDLLL
+KLLQLSNHAHP-F--------RL----HQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSGAFP00000015639 ENSGAFG00000010566	155	oxt		Gambusia_affinis	580A	580	A
+--------------------------------------------MSG--AAVSVGLLFLL
+S----VCSACYISNCPIGGKRSIMDA-PLR-K---------------------------C
+MSCGPG-----DRGRCYGPSICCGEGI-GCLMGSPESAHCVEENYLLTPCQAGGRACGS-
+-EGGRCAAAGFCCDA---------------------------------------------
+--ESCTADQSCLPEDNGDDQ----SS-----------QFE-----------GGDPTDIIL
+RLLHLARHTSH-R---------T----HQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSXMAP00000016112 ENSXMAG00000016093	155	oxt	isotocin-neurophysin IT	Xiphophorus_maculatus	580A	580	A
+--------------------------------------------MSG--AAVSVGLLFLL
+S----VCSACYISNCPIGGKRSIMDA-PLR-K---------------------------C
+MSCGPG-----DRGHCYGPSICCGEGI-GCLMGSPESAHCVEENYLLTPCQAGGRACGS-
+-EGGRCAAAGLCCDA---------------------------------------------
+--ESCTADQACLPEDDGDDQ----SS-----------QFE-----------GADPTDIIL
+RLLHLARHTSH-R---------T----HQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSELUP00000000862 ENSELUG00000002407	156	oxt	isotocin-neurophysin IT	Esox_lucius	580A	580	A
+--------------------------------------------MSG--AAVSVCLLFLL
+S----LCSACYISNCPIGGKRSIMEA-PQR-K---------------------------C
+MSCGPG-----EQGHCFGPSICCVEGL-GCWMGTPETAHCLEENYLPTPCQAGGRPCGS-
+-EAGRCAAQGFCCDS---------------------------------------------
+--EGCSADRSCLSDKEGDDF----IS-----------QSE-----------GSNSDNIIF
+RLRHLAAQSPA-H--------RI----RQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSGMOP00000008079 ENSGMOG00000007548	156	oxt	isotocin-neurophysin IT	Gadus_morhua	580A	580	A
+--------------------------------------------MTG--AAVSVSLLFLL
+S----ACSACYISNCPIGGKRSLMDA-PQR-K---------------------------C
+MPCGPG-----DRGRCFGPSICCGEGL-GCLLGSPETLHCAEENYLLTPCQAGGKPCGS-
+-EGGHCAASGLCCDA---------------------------------------------
+--ESCTTDQSCVTEEDGYDP----TG-----------LLE-----------SSDSNQIFL
+RLMHLAGHALP-H--------RI----HQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSEEEP00000036096 ENSEEEG00000017170	154	None	vasotocin-neurophysin VT	Electrophorus_electricus	580A	580	A
+--------------------------------------------MTLS-TLSVLCALGLL
+G----LSPACYIQNCPRGGKRSFPDA-VPR-Q---------------------------C
+LACGPA-----DKGQCFGPSICCGESI-GCLVGSPASARCVEEDYLPSPCESRGKACGA-
+-EEGRCAAPGVCCHA---------------------------------------------
+--DGCTLDPDCMEENKREDD------------EQNRGLTG-----------P--SRELLL
+RMLNFN-RARSPY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSSTUP00000049789 ENSSTUG00000021052	155	avp	vasotocin-neurophysin VT	Salmo_trutta	580A	580	A
+--------------------------------------------MPH--STLLLCVIGLL
+A----FSSACYIQNCPRGGKRALPDT-GSR-Q---------------------------C
+MTCGPG-----DQGRCFGPSICCGEGL-GCWMGSSETARCFEENYLPTPCQTGGRPCGS-
+-DAGHCAATGVCCDS---------------------------------------------
+--ESCVLDPDCLGESRYHSP------------ADHSAGAR-----------SGSPEELLL
+RQLHFATRGQSE------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSANIP00000017131 ENSANIG00000011656	124	None	None	Accipiter_nisus	580A	580	A
+--------------------------------------------MPSK-ALAV-CLLGLL
+A----LSSACYIQNCPIGGKRAVLDM-DIR-K---------------------------C
+MPCGPR-----NKGHCFGPNICCGEEL-GCYIGTSETLRCQEENFLPTPCESGHKPCGG-
+-SGGSCAAPGICCS-S--------------------------------------------
+--EGCMVDSSCDQEM----------LFV--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSACCP00020000074 ENSACCG00020000050	124	None	None	Aquila_chrysaetos_chrysaetos	580A	580	A
+--------------------------------------------MPCK-ALAV-CLLGLL
+A----LSSACYIQNCPIGGKRAVLDM-DIR-K---------------------------C
+MPCGPR-----NKGHCFGPNICCGEEL-GCYIGTSETLRCQEENFLPTPCESGHKPCGG-
+-SGGSCAAPGICCS-S--------------------------------------------
+--EGCVVDSSCDQEM----------LFA--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSAPLP00020007959 ENSAPLG00020005849	124	None	neurophysin	Anas_platyrhynchos	580A	580	A
+--------------------------------------------MPSK-ALAV-CLLGLL
+A----LSSACYIQNCPIGGKRAALDV-DVR-K---------------------------C
+LPCGPR-----NQGRCFGPNICCGEEL-GCYLGTPETLRCREENFLPTPCEAGRKPCGG-
+-DGANCAAPGICCS-S--------------------------------------------
+--EGCVADPACEREA----LFA--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSACDP00005004982 ENSACDG00005003652	124	None	None	Anser_cygnoides	580A	580	A
+--------------------------------------------MHAK-ALAL-CLLGLL
+A----LSSACYIQNCPIGGKRAVLDG-DIR-K---------------------------C
+LPCGPR-----NQGRCFGPRICCGEEL-GCYLGTPETLRCQEESFLPTPCESGRKPCGG-
+-DGASCAAPGICCN-S--------------------------------------------
+--EGCVADPACEREA----LFA--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSAOWP00000006711 ENSAOWG00000004611	126	None	None	Apteryx_owenii	580A	580	A
+--------------------------------------------MPCK-ALAV-CLLALL
+A----LSSACYIQNCPIGGKRAILDM-DIR-K---------------------------C
+LPCGPR-----NQGRCFGPNICCGEEL-GCYLGTSETLRCQEENFLPTPCESGRKPCGGG
+GNGGSCAASGICCS-N--------------------------------------------
+--EGCTVDSSCDLEA----------MFP--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSDNVP00000023233 ENSDNVG00000016137	124	None	neurophysin	Dromaius_novaehollandiae	580A	580	A
+--------------------------------------------MPCK-ALAV-CLLALL
+A----LSSACYIQNCPIGGKRAVLDM-DIR-K---------------------------C
+LPCGPR-----NKGHCFGPNICCGEEL-GCYLGTPETLRCQEENFLPTPCESGRKPCGS-
+-SGGSCAASGICCS-N--------------------------------------------
+--EGCVVDSSCDQEV----------MFP--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCPUP00000012468 ENSCPUG00000008827	124	None	neurophysin	Calidris_pugnax	580A	580	A
+--------------------------------------------MPCK-ALAI-CLLGLL
+A----LSSACYIQNCPIGGKRAILDM-EIR-K---------------------------C
+MPCGPR-----NKGRCFGPNICCGEEL-GCYMGTSETLRCQEENFLPTPCESGHKPCGG-
+-SGGSCATPGICCS-S--------------------------------------------
+--EGCVLDSSCDQEM----------LIA--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCPRP00005027180 ENSCPRG00005018831	124	None	neurophysin	Crocodylus_porosus	580A	580	A
+--------------------------------------------MAHS-ALAV-CVLCLL
+A----LSSACYIQNCPIGGKRSVLDM-DIR-K---------------------------C
+LPCGPR-----NKGHCFGPSICCGEEL-GCYFGTSETLRCQEENYLPTPCESGRKPCGN-
+-AGGTCAAEGICCS-Y--------------------------------------------
+--EGCTMDSSCDQAS----MFS--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCJPP00005008490 ENSCJPG00005007570	124	None	neurophysin	Coturnix_japonica	580A	580	A
+--------------------------------------------MSYK-ALTV-CLLGLL
+A----LSSACYIQNCPIGGKRALPDM-DIR-K---------------------------C
+LPCGPR-----NKGHCFGPNICCGEEL-GCYLGTSETLRCQEENFLPTPCESGRKACGE-
+-DGASCAAPGICCS-S--------------------------------------------
+--EGCVFDSSCNQEM----------LFA--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSGALP00000036320 ENSGALG00000019026	124	None	oxytocin/neurophysin I	Gallus_gallus	580A	580	A
+--------------------------------------------MFYK-ALTV-CLLGLL
+A----LSSACYIQNCPIGGKRAVPDM-DIR-K---------------------------C
+LPCGPR-----NKGHCFGPNICCGEEL-GCYLGTSETLRCQEENFLPTPCESGRKACGE-
+-DGASCAAPGICCS-S--------------------------------------------
+--EGCVLDSSCNQEM----------LFA--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMGAP00000013970 ENSMGAG00000013229	125	None	None	Meleagris_gallopavo	580A	580	A
+--------------------------------------------MSYK-ALTV-CLLGLL
+A----LSSACYIQNCPIGGKRALPDM-DIR-K---------------------------C
+LPCGPR-----NKGHCFGPNICCGEEL-GCYLGTSETLRCQEENFLPTPCESGRKACGE-
+-DGASCAAPGICCSSA--------------------------------------------
+--EGCVLDSSCNQEM----------LFA--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSNMEP00000004820 ENSNMEG00000005156	124	None	neurophysin	Numida_meleagris	580A	580	A
+--------------------------------------------MSYK-ALII-CLLGLL
+A----FSSACYIQNCPIGGKRAVPDM-DIR-K---------------------------C
+LPCGPR-----NKGHCFGPNICCGEEL-GCYLGTSETLRCQEENFLPTPCESGRKACGE-
+-DGASCAAPGICCS-T--------------------------------------------
+--EGCVLDSSCNQEM----------LFA--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPSTP00000008906 ENSPSTG00000006279	124	None	None	Pavo_cristatus	580A	580	A
+--------------------------------------------MSYK-ALTV-CLLGLL
+A----LSSACYIQNCPIGGKRAVPDM-DIR-K---------------------------C
+LPCGPR-----NKGHCFGPNICCGEEL-GCYLGTSETLRCQEENFLPTPCESGRKACGE-
+-DGASCAAPGICCS-T--------------------------------------------
+--EGCVLDSSCNQEM----------LFA--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPCLP00000007912 ENSPCLG00000006626	124	None	None	Phasianus_colchicus	580A	580	A
+--------------------------------------------MSYK-ALTV-CLLGLL
+A----LSSACYIQNCPIGGKRAVPDM-DIR-K---------------------------C
+LPCGPR-----NKGHCFGPNICCGEEL-GCYLGTSETLRCQEENFLPTPCESGRKACGE-
+-DGASCAAPGICCS-T--------------------------------------------
+--EGCVLDSSCNQEM----------LFA--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCPVP00000004474 ENSCPVG00000003290	123	None	neurophysin	Camarhynchus_parvulus	580A	580	A
+--------------------------------------------MSCK-ALAL-CLLGLL
+T----ISSACYIQNCPIGGKRAVLDM-DIR-K---------------------------C
+LPCGPR-----NKGHCFGPNICCGAEL-GCYIGTSEALRCQEENFLPTPCESGRKPCGS-
+--GGSCAAPGICCS-T--------------------------------------------
+--EGCGTDSSCDQEL----------LFV--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCCEP00000005803 ENSCCEG00000006319	135	None	neurophysin	Cyanistes_caeruleus	580A	580	A
+--------------------------------------------MSCK-ALAL-CLLGLL
+A----LSSACYIQNCPIGGKRAVLDM-DIR-K---------------------------C
+LPCGPR-----NKGHCFGPNICCGEEL-GCYIGTSETLRCQEENFLPTPCESGHKACGS-
+-G-GSCAAPGICCS-T--------------------------------------------
+--GCVLLSSAPREQI----------LTHPGCTPLSGSCGE--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSEGOP00005001945 ENSEGOG00005001583	123	None	None	Erythrura_gouldiae	580A	580	A
+--------------------------------------------MSCK-ALAL-CLLGLL
+A----LSSACYIQNCPIGGKRAVLDM-DIR-K---------------------------C
+LPCGPR-----NKGHCFGPNICCGEEL-GCYIGTSDALRCQEENFLPTPCESGRKPCGS-
+--GGSCAAPGICCS-T--------------------------------------------
+--EGCGTDSSCDQEM----------LFV--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSFALP00000000223 ENSFALG00000000217	123	None	neurophysin	Ficedula_albicollis	580A	580	A
+--------------------------------------------MSCK-ALAL-CLLGLL
+A----LSSACYIQNCPIGGKRAALDM-EIR-K---------------------------C
+LPCGPR-----NKGHCFGPSICCGEEL-GCYLGTSETLRCQEENFLPTPCESGHKPCGS-
+--GGSCAAPGICCS-T--------------------------------------------
+--EGCSTDSSCEQEM----------LFV--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSGFOP00000006753 ENSGFOG00000004770	123	None	neurophysin	Geospiza_fortis	580A	580	A
+--------------------------------------------MSCK-ALAL-CLLGLL
+T----ISSACYIQNCPIGGKRAVLDM-DIR-K---------------------------C
+LPCGPR-----NKGHCFGPNICCGEEL-GCYIGTSEALRCQEENFLPTPCESGRKPCGS-
+--GGSCAAPGICCS-T--------------------------------------------
+--EGCGTDSSCDQEL----------LFV--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSJHYP00000005557 ENSJHYG00000004528	123	None	None	Junco_hyemalis	580A	580	A
+--------------------------------------------MSCK-ALAL-CLLGLL
+T----ISSACYIQNCPIGGKRAVLDM-DIR-K---------------------------C
+LPCGPR-----NKGHCFGPNICCGEEL-GCYIGTSEALRCQEENFLPTPCESGRKPCGS-
+--GGSCAAPGICCS-T--------------------------------------------
+--EGCGTDSSCDQEL----------LLV--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSLSDP00000002006 ENSLSDG00000001590	123	None	neurophysin	Lonchura_striata_domestica	580A	580	A
+--------------------------------------------MSCK-ALAL-CLLGLL
+A----LSSACYIQNCPIGGKRAVLDM-DIR-K---------------------------C
+LPCGPR-----NKGRCFGPNICCGEEL-GCYIGTSDTLRCQEENFLPTPCESGRKACGS-
+--GGSCAAPGICCS-T--------------------------------------------
+--EGCGTDSSCDQEM----------LFV--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPMJP00000025306 ENSPMJG00000018542	404	None	None	Parus_major	580A	580	A
+-MPES-LSRSQDYKNR-------ARGWDE------QPKIPRPAAMSCK-ALAL-CLLGLL
+A----LSSACYIQNCPIGGKRAVLDM-DIR-KVGPGGLGALRTPSFPSPNLLPPCSPEQC
+LPCGPR-----NKGHCFGPNICCGEEL-GCYIGTSETLRCQEENFLPTPCESGHKACGS-
+--GGSCAAPGICCSTG--------------------------------------------
+--ERGTASRGTRTEP----PHSREGIQAFTEQRERGGCPRDCPCPTRLPTHGCDSQSTLH
+ALSRPQGTDETARVRAGREAGTNKFWGPSKCKTHIPSCCRFSQNSTLLPESNYQKSCYKS
+REASENGVNTSSLNHSARGSLGAGSGISGGCFWGSLGIFWGSLGAGSGISGDCFWGSLGA
+VFGVPWGLFLGVPGDCFWGSLGAGSGISRGCFWGFLGIVFGGPWGLVGAVCFTPHSPLSP
+LRGLWH
+>ENSSCAP00000013474 ENSSCAG00000009991	123	None	neurophysin	Serinus_canaria	580A	580	A
+--------------------------------------------MSCK-ALAL-CLLGLL
+T----LSSACYIQNCPIGGKRAVLDM-DIR-K---------------------------C
+LPCGPR-----NKGHCFGPNICCGEEL-GCYIGTSEALRCQEENFLPTPCESGRKPCGS-
+--GGSCAAPGICCS-T--------------------------------------------
+--EGCGTDSSCDQEL----------LFV--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSTGUP00000011316 ENSTGUG00000010980	171	None	None	Taeniopygia_guttata	580A	580	A
+----------------------------------------------MK-ALVL-CLLGLL
+A----LSSACYIQNCPIGGKRAVLDM-DIR-K---------------------------C
+LPCGPR-----DKGRCFGPNICCGEEL-GCHIGTSDTLRCQEENFLPTPCESGRKACGS-
+--GGSCAAPGICCSTG--------------------------------------------
+--EGGTAPRGSCTEG----IWGSYNSGRGEDAQGIGCVPSVC--PSITPTA---------
+---RPLS------------WENKRVWGRGKQTANFGG-----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSZALP00000008821 ENSZALG00000007628	123	None	oxytocin/neurophysin I	Zonotrichia_albicollis	580A	580	A
+--------------------------------------------MSCK-ALAL-CLLGLL
+T----ISSACYIQNCPIGGKRAVLDM-DIR-K---------------------------C
+LPCGPR-----NKGHCFGPNICCGEEL-GCYIGTSEALRCQEENFLPTPCESGRKPCGS-
+--GGSCAAPGICCS-T--------------------------------------------
+--EGCGTDSSCDQEL----------LLV--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSACOP00000009949 ENSACOG00000006926	124	None	None	Amazona_collaria	580A	580	A
+--------------------------------------------MPCK-VLAV-CLLGLL
+A----LSSACYIQNCPIGGKRAVLDM-DVR-K---------------------------C
+LPCGPR-----NKGRCFGPNICCGEEL-GCYLGTSETLRCQEETFLPTPCEAGHKPCGS-
+-GGGTCAAPGICCG-T--------------------------------------------
+--EGCLLDSSCDQEM----------LFA--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMUNP00000002675 ENSMUNG00000002334	113	None	oxytocin/neurophysin I	Melopsittacus_undulatus	580A	580	A
+--------------------------------------------MPCK-ALAV-CLLGLL
+A----LSSACYIQNCPIGGKRAVLDM-DIR-K---------------------------C
+LPCGPR-----NQGRCFGPNICCGEEL-GCYLGTPETLRCQEETFLPTPCEAGHKPCGS-
+-G-GSCAAPGICCG-T--------------------------------------------
+--GGYGSG----------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSSHBP00005024462 ENSSHBG00005020382	124	None	neurophysin	Strigops_habroptila	580A	580	A
+--------------------------------------------MPCK-ALAV-CLLGLL
+A----LSSACYIQNCPIGGKRAVLDM-DIR-K---------------------------C
+LPCGPR-----NKGRCFGPNICCGEEL-GCYVGTSEALRCQEETFLPTPCEAGHKPCGS-
+-GSGTCAAPGICCG-T--------------------------------------------
+--EGCLVDSSCDQEA----------LFA--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSSPUP00000011215 ENSSPUG00000008613	86	None	None	Sphenodon_punctatus	580A	580	A
+------------------------------------------------------------
+----------------------------MD-D---------------------------C
+IPCGPR-----NRGHCFGPNICCGEEL-GCYFGTAETLRCQEENYLPTPCESGRKPCGN-
+-S-GTCAAGGICCG-N--------------------------------------------
+--EGCMVDSACDQES----AFS--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSLLTP00000021436 ENSLLTG00000015981	168	None	None	Laticauda_laticaudata	580A	580	A
+--------------------------------------------MSY--SMLTFWLFSLL
+A----FSSACYIQNCPIGGKRSVLDM-EVR-K---------------------------C
+ISCGPR-----NRGHCFGPNICCGEEL-GCFFGTAETLRCQEENFLPTPCESGRKPCGG-
+-NGGMCAASGICCNH---------------------------------------------
+--GASPSCRELQGAWGDASG----PA------------RP-----------ALSGSSLLS
+SHLAWPGATRAAPSDPSPPTKAP----PQ---APC----S--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSNSUP00000011545 ENSNSUG00000008693	98	None	oxytocin/neurophysin I	Notechis_scutatus	580A	580	A
+------------------------------------------------------------
+-----ME-----HTCTC--SPAARTN-GDV-Y---------------------------C
+ISCGPR-----NRGHCFGPNICCGEEL-GCFFGTAETLRCQEENFLPTPCESGRKPCGG-
+-NGGMCAASGICCNH---------------------------------------------
+--DGCMVDSTCDQ--E--------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPMRP00000014701 ENSPMRG00000009819	136	None	neurophysin	Podarcis_muralis	580A	580	A
+--------------------------------------------MSY--NMLAFCLVWLL
+A----LSSACYIQNCPIGGKRSLLDM-EVR-K---------------------------C
+ISCGPR-----NRGHCFGPNICCGEEL-GCYLGTAETMRCQEENFLPTPCESGRKPCGN-
+-SGGTCAASGICCNN---------------------------------------------
+--GEDISPSETCPF----SF----LF------------KI-----------IFIGFYIFI
+K-----------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPVIP00000008993 ENSPVIG00000007196	130	None	neurophysin	Pogona_vitticeps	580A	580	A
+--------------------------------------------MSY--HTLAFCLLWLL
+A----FSSACYIQNCPIGGKRSVLDM-EVR-K---------------------------C
+ISCGPR-----NRGHCFGPNICCGEEL-GCYFGTAETLRCQEENFLPTPCESGRKPCGN-
+-NGGTCAAAGICCNN---------------------------------------------
+--GETHPAMPGRTL----NV----TR------------QQ-------------SGHS---
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPTXP00000021853 ENSPTXG00000015127	102	None	None	Pseudonaja_textilis	580A	580	A
+------------------------------------------------------------
+----------------------------GM-Y---------------------------C
+ISCGPR-----NRGHCFGPNICCGEEL-GCFFGTAETLRCQEENFLPTPCESGRKPCGG-
+-NGGMCAASGICCNH---------------------------------------------
+--DGSMVDRITCL--GALGR----RE------------RE-----------EIFGFTFIR
+SP----------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSSMRP00000022987 ENSSMRG00000017838	120	None	None	Salvator_merianae	580A	580	A
+--------------------------------------------MSYN-TLAF-CLLGLL
+A----XSSACYIQNCPIGGKRSILDM-EVR-K---------------------------C
+ISCGPR-----NRGHCYGPNICCAEEL-GCYFGTAETLRCQEENFLPTPCESGRKPCGN-
+-NGGTCAASGICCS-N--------------------------------------------
+--EGCMIDSVCDQE----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSVKKP00000028357 ENSVKKG00000018348	85	None	None	Varanus_komodoensis	580A	580	A
+------------------------------------------------------------
+------------------------SL-LKL-R---------------------------C
+ISCGPR-----NRGHCFGPNICCGEEL-GCYFGTAETLRCQEENFLPTPCESGRKPCGN-
+-NGGTCAASGICCNN---------------------------------------------
+--GKNNSFLLVFP-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSACUP00000021897 ENSACUG00000014628	124	None	None	Athene_cunicularia	580A	580	A
+--------------------------------------------MPCK-ALAL-CLLGLL
+A----LSSACYIQNCPIGGKRAVLDM-DIR-K---------------------------C
+MPCGPR-----NKGRCFGPNICCGEEL-GCYIGTSETLRCQEENFLPTPCESGHKACGG-
+-SGGSCAAPGLCCS-S--------------------------------------------
+--EGCVLDSSCDQEM----------LFA--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSSCUP00000023932 ENSSCUG00000017580	161	None	neurophysin	Struthio_camelus_australis	580A	580	A
+MVPAC-VSSSGHYIYRYPPGREPKRLPDP------APERDGPAAMLNK-ALAV-CLLALL
+A----LSSACYIQNCPIGGKRAVLDM-DIR-K---------------------------C
+MPCGPR-----NKGHCFGPNICCGEEL-GCYFGTSETLRCQEENFLPTPCESGRKPCGN-
+-NEGSCAASGICCS-N--------------------------------------------
+--EGCMVDSSCDQEV----------MFP--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCABP00000014278 ENSCABG00000010660	124	None	None	Chelonoidis_abingdonii	580A	580	A
+--------------------------------------------MSQN-TLTI-CVLWFL
+A----LSSACYIQNCPIGGKRSVLDL-DVR-K---------------------------C
+IPCGPR-----NKGHCFGPSICCGAEM-GCYFGTSETLRCQEENYLPTPCESGRKPCGP-
+-NGGTCAAPGICCN-N--------------------------------------------
+--EGCMVDSACDEES----LFS--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCSRP00000008448 ENSCSRG00000006213	126	None	None	Chelydra_serpentina	580A	580	A
+------------------------------------------RGGQSN-ALAV-LLVWLL
+A----LSSACYIQNCPIGGKRSVLDM-DVR-K---------------------------C
+IPCGPR-----NKGHCFGPSICCGAEM-GCYFGTSETLRCQEETYLPTPCESGRKPCGP-
+-NGGTCAAPGICCN-N--------------------------------------------
+--EGCMVDSACDQES----LFS--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCPBP00000035283 ENSCPBG00000024566	167	None	None	Chrysemys_picta_bellii	580A	580	A
+MVAARLSSCSGRYIYRHP-GRSGDKTWRAFLSPLESEAGSAAATMSQN-TLAI-CVLWFL
+A----LSSACYIQNCPIGGKRSVLDM-DVR-K---------------------------C
+IPCGPR-----NKGHCFGPSICCGAEM-GCYFGTSETLRCQEENYLPTPCESGRKPCGP-
+-NGGTCAAPGICCN-N--------------------------------------------
+--EGCMVDSACDQES----LFS--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSGAGP00000023035 ENSGAGG00000016895	124	None	None	Gopherus_agassizii	580A	580	A
+--------------------------------------------MSQN-TLAI-CVLWFL
+A----LSSACYIQNCPIGGKRSVLDL-DVR-K---------------------------C
+IPCGPR-----NKGHCFGPSICCGVEM-GCYFGTSETLRCQEENYLPTPCESGRKPCGP-
+-NGGSCAAPGICCN-N--------------------------------------------
+--EGCMVDSACDEES----LFS--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPSIP00000018698 ENSPSIG00000016615	124	None	neurophysin	Pelodiscus_sinensis	580A	580	A
+--------------------------------------------MSHS-TLAV-CLLWLL
+A----LSSACYIQNCPIGGKRSVLDV-DVR-K---------------------------C
+IPCGPR-----NKGHCFGPSICCGAEL-GCYFGTSETLRCQEENYLPTPCESGRKPCGP-
+-SGGTCAAPGICCN-N--------------------------------------------
+--EGCLVDSACDQES----LFS--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPCEP00000009805 ENSPCEG00000007773	117	None	None	Pelusios_castaneus	580A	580	A
+--------------------------------------------MSHN-TIAI-CVLWLL
+A----LSSACYIQNCPIGGKRSVLDM-DVR-K---------------------------C
+IPCGPR-----NKGHCFGPSICCGAEL-GCYFGTSETLRCQEENYLPTPCESGRKPCGI-
+-SGGTCAAPGICCN-N--------------------------------------------
+--AFTALQLIF-------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSTMTP00000000712 ENSTMTG00000000607	124	None	neurophysin	Terrapene_carolina_triunguis	580A	580	A
+--------------------------------------------MSQN-SLAI-CVLWFL
+A----LSSACYIQNCPIGGKRSVLDM-DVR-K---------------------------C
+IPCGPR-----NKGHCFGPSICCGAEM-GCYFGTSETLRCQEENYLPTPCESGRKPCGP-
+-NGGTCAAPGICCN-N--------------------------------------------
+--EGCMVDSACDQES----LFS--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSNPEP00000009295 ENSNPEG00000006987	124	None	neurophysin	Nothoprocta_perdicaria	580A	580	A
+--------------------------------------------MPCK-ALAL-CLLALL
+A----LSSACYIQNCPIGGKRAVLDM-DIR-K---------------------------C
+LPCGPR-----NKGHCFGPNICCGEEL-GCYLGTSETLRCQEENFLPTPCESGRKACGS-
+-NGGSCAAAGICCS-H--------------------------------------------
+--EGCVFDSSCDQEG----------LFP--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSATEP00000025565 ENSATEG00000017510	153	avp	vasotocin-neurophysin VT	Anabas_testudineus	580B	580	B
+--------------------------------------------MPH--SLSPLCVLGLI
+A----LSSACYIQNCPRGGKRALPET-GIR-Q---------------------------C
+MPCGPG-----DRGRCFGPSICCGDGL-GCLLGSPETAHCAEENYLLTPCQAGVRPCGS-
+-DGGRCAISGLCCNS---------------------------------------------
+--ESCAVDSDCLGETEVSDS----AH-----------GSA-----------GSSPAELLL
+RLLHVATRGQTEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSBSLP00000003054 ENSBSLG00000001722	156	oxt	isotocin-neurophysin IT	Betta_splendens	580B	580	B
+--------------------------------------------MTA--AAVSLCLLFLL
+S----VCSACYISNCPIGGKRSIMDA-PLR-R---------------------------C
+MSCGPG-----DRGRCFGPGICCGDGF-GCLLGSAETARCAEESYLLTPCQAGGRPCGA-
+-EGGRCAAAGLCCDA---------------------------------------------
+--ESCATDQSCLAEEDGDEQ----SS-----------HYE-----------GGDPGDLIL
+RLLHLAGHPSP-H--------QG----HQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSORLP00000043817 ENSORLG00000022162	168	oxt	oxytocin/neurophysin I	Oryzias_latipes	580B	580	B
+-MS-------GL-SVRRPHR--------------------QPAAMHP--SLLSLCALGFL
+A----LSSACYIQNCPRGGKRALPEA-GIR-Q---------------------------C
+MSCGPG-----ERGRCFGPSICCGEGF-GCLLGSPESAQCVEENYLLTPCQTGGRPCGS-
+-EGGRCAASGLCCNS---------------------------------------------
+--EGCVVDSDCLVETEVIDP----SH-----------GSA-----------RSSPAELLL
+RLLHVASRGQNEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSGWIP00000016281 ENSGWIG00000009143	154	avp	oxytocin/neurophysin I	Gouania_willdenowi	580B	580	B
+--------------------------------------------MHH--SSLALSVLGML
+A----LSSACYIQNCPRGGKRALSDT-GIR-Q---------------------------C
+MSCGPG-----DRGHCFGPSICCGEGL-GCLLGSPESANCVEENFLLTPCQAGGRACGS-
+-EGGHCAASGLCCTS---------------------------------------------
+--ESCVVDNECVGDTVGMTG----QD----------RGSS-----------RSSPTELLI
+RLLHVATRGQNQY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSSFAP00005052186 ENSSFAG00005025018	153	avp	vasotocin-neurophysin VT	Salarias_fasciatus	580B	580	B
+--------------------------------------------MPQ--SWSPLCVLGLL
+A----LSSACYIQNCPRGGKRALPDT-AVR-Q---------------------------C
+MSCGPG-----DRGHCFGPSICCGEGL-GCLLGSPEAAHCVEENYLLTPCQAGGRPCGS-
+-EGGRCAAPGLCCNS---------------------------------------------
+--ESCVVDSDCQPEENLSDL----AH-----------SSV-----------RSSPTELLL
+RLLHVATRGQNEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSENLP00000009748 ENSENLG00000004703	156	oxt	isotocin-neurophysin IT	Echeneis_naucrates	580B	580	B
+--------------------------------------------MTG--AAVSVCLLFLL
+S----VCSACYISNCPIGGKRSIIDG-PLR-K---------------------------C
+MSCGPG-----DRGRCFGPSICCGEGL-GCLLGSPETAHCVEENYLLTPCQAGGRPCGS-
+-EGGRCAASGLCCDA---------------------------------------------
+--ESCTTDQSCLAEEEGDDQ----TG-----------QFE-----------GSDPGDILL
+RLLQLAGHTSP-H--------RM----HQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSSDUP00000003273 ENSSDUG00000002499	153	avp	vasotocin-neurophysin VT	Seriola_dumerili	580B	580	B
+--------------------------------------------MPH--SLFPLCVLGLL
+A----LSSACYIQNCPRGGKRALPET-GIR-Q---------------------------C
+MSCGPS-----DRGRCFGPSICCGEGL-GCLLGSAETAHCVEENYLLTPCQAGGRPCGS-
+-EGGRCAASGLCCSS---------------------------------------------
+--ESCAVDSDCLGETEASDP----AH-----------SSA-----------GSSPAELLL
+RLLHVASRGQTEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSAMXP00000008820 ENSAMXG00000008582	161	None	oxytocin-neurophysin	Astyanax_mexicanus	580B	580	B
+----------------------------------------MMSTHAQS-VLCTLCALLLL
+A----LSSACYIQNCPRGGKRSAPDTDLLR-P---------------------------C
+LVCGPG-----GKGHCFGPSICCAEGL-GCFMGSAETAHCSEEDYIPSPCRAGGKPCGA-
+-KEGHCAAPGVCCHS---------------------------------------------
+--EGCTLDPDCTENSGGEPA------------EQSSSLTE-----------PSSRGELLL
+RMIQSN-RARTSY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPNAP00000003735 ENSPNAG00000010167	158	None	oxytocin-neurophysin	Pygocentrus_nattereri	580B	580	B
+-----------------------------------------MSAHAQS-VLCLLCALL--
+A----LSSACYIQNCPRGGKRSALDIDLLR-P---------------------------C
+LACGPG-----GKGRCFGSSICCGEGL-GCFMGSPETARCSEEDYLPSPCEAGRKPCGA-
+-EEGHCAAPGVCCHS---------------------------------------------
+--GGCTLDPECTQESKAEEQ------------AEPNGSLL-----------GTSRGELLL
+RMLQSS-RARNPY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSACIP00000005626 ENSACIG00000004442	156	oxt		Amphilophus_citrinellus	580B	580	B
+--------------------------------------------MTG--AAVSVCLLFLL
+S----VCSACYISNCPIGGKRSIMDA-PLR-K---------------------------C
+MSCGPG-----DRGRCFGPSICCGEGL-GCLLGSPETAHCVEENYLLTPCQAGGRPCGS-
+-EGGRCAASGLCCDA---------------------------------------------
+--ESCITDQSCLIEEEGDEQ----TS-----------QFD-----------GSDPGDIIL
+RLLHLAGHTSP-H--------RV----HQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSACLP00000020405 ENSACLG00000013883	153	avp	vasotocin-neurophysin VT	Astatotilapia_calliptera	580B	580	B
+--------------------------------------------MPH--SLFPLCVLGLL
+A----FSSACYIQNCPRGGKRALTET-GIR-Q---------------------------C
+KSCGPG-----DRGRCFGPSICCGDGF-GCLLGSPETAHCVEENYLLTPCQAGGRSCGS-
+-EGGHCAISGFCCNS---------------------------------------------
+--EGCMVDSDCVGETEATDP----VH-----------GSE-----------RSSPTELLM
+RLLHVAARGQNEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSHBUP00000022937 ENSHBUG00000003494	153	avp	vasotocin-neurophysin VT	Haplochromis_burtoni	580B	580	B
+--------------------------------------------MPH--SLFPLCVLGLL
+A----FSSACYIQNCPRGGKRALTET-GIR-Q---------------------------C
+KSCGPG-----DRGRCFGPSICCGDGF-GCLLGSLETAHCVEENYLLTPCQAGGRSCGS-
+-EGGHCAISGFCCNS---------------------------------------------
+--EGCMVDSDCLGETEATDP----VH-----------GSA-----------RSSPTELLM
+RLLHVAARGQNEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMZEP00005010412 ENSMZEG00005007270	153	avp	vasotocin-neurophysin VT	Maylandia_zebra	580B	580	B
+--------------------------------------------MPH--SLFPLCVLGLL
+A----FSSACYIQNCPRGGKRALTET-GIR-Q---------------------------C
+KSCGPG-----DRGRCFGPSICCGDGF-GCLLGSPETAHCVEENYLLTPCQAGGRSCGS-
+-EGGHCAISGFCCNS---------------------------------------------
+--EGCMVDSDCVGETEATDP----VH-----------GSE-----------RSSPTELLM
+RLLHVAARGQNEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSNBRP00000019216 ENSNBRG00000014710	153	avp	vasotocin-neurophysin VT	Neolamprologus_brichardi	580B	580	B
+--------------------------------------------MPH--SLFPLCVLGLL
+A----FSSACYIQNCPRGGKRALTET-GIR-Q---------------------------C
+KSCGPG-----DRGRCFGPSICCGDGF-GCLLGSPETAHCVEENYLLTPCQAGGRSCGS-
+-EGGHCAASGFCCNS---------------------------------------------
+--EGCMVDSDCLGESEATDP----VH-----------GSA-----------RCSPTELLM
+RLLHVAARGQNEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSONIP00000019172 ENSONIG00000015235	156	oxt	oxytocin/neurophysin I	Oreochromis_niloticus	580B	580	B
+--------------------------------------------MTG--AAVSVCLLFLL
+S----VCSACYISNCPIGGKRSIMDA-PLR-K---------------------------C
+MSCGPG-----DRGRCFGPSICCGEGL-GCLLGSPETAHCVEENYLLTPCQAGGRACGS-
+-EGGRCAASGLCCDA---------------------------------------------
+--ESCATDQSCLIEEEGDEQ----TS-----------QFD-----------GSDPGDIIL
+RLLHLAGHSSP-H--------RV----HQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPNYP00000021361 ENSPNYG00000016008	153	avp	vasotocin-neurophysin VT	Pundamilia_nyererei	580B	580	B
+--------------------------------------------MPH--SLFPLCVLGLL
+A----FSSACYIQNCPRGGKRALTET-GIR-Q---------------------------C
+KSCGPG-----DRGRCFGPSICCGDGF-GCLLGSPETAHCVEENYLLTPCQAGGRSCGS-
+-EGGHCAISGFCCNS---------------------------------------------
+--EGCMVDSDCLGETEATDP----VH-----------GSA-----------RSSPTELLM
+RLLHVAARGQNEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCHAP00000044405 ENSCHAG00000020623	158	None	vasotocin-neurophysin VT	Clupea_harengus	580B	580	B
+-------------------------------------------VPHYTWP-DLLCVLGLL
+S----LSSACYIQNCPRGGKRSFPDQ-LPR-Q---------------------------C
+MACGPG-----ERGRCFGPSICCGDEM-GCYVGSPEAASCVEEDYLPSPCEAGGKPCGS-
+-EDGHCAAPGICCDA---------------------------------------------
+--ESCVLDPACQEEGKSRPL------------SEQNATLM-----------GPSPAEILL
+RILHASGRARSQY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSDCDP00000041313 ENSDCDG00000026954	153	oxt	isotocin-neurophysin IT	Denticeps_clupeoides	580B	580	B
+--------------------------------------------MSGA-PVSVFCLLCLL
+S----ACTACYISNCPIGGKRAAQDF-PSR-Q---------------------------C
+LSCGPG-----DRGRCFGPSICCGEGL-GCYMGSPETARCLEENFLPSPCEAGGKACGS-
+-EDGHCAAPGICCDS---------------------------------------------
+--EGCTVDQSCLDGDNEND-------------------SQ-----------SENGKELLM
+KLLHMSSHPHP-Y--------RF----HQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCARP00000066171 ENSCARG00000029688	150	oxt	isotocin-neurophysin IT	Carassius_auratus	580B	580	B
+--------------------------------------------MSGG-LLSVVSLLCLL
+S----VCSACYISNCPIGGKRSVQDW-PSR-Q---------------------------C
+MSCGPG-----DRGRCFGPSICCGEGL-GCLVGSPETLRCLEEDYLPSPCEAPGKACGY-
+--EGRCAAPGVCCDS---------------------------------------------
+--EGCSMDQSCVDGDADGPV--------------------------------ASSQDLLL
+KLLHLSNHAHP-Y--------RL----HQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCCRP00000000475 ENSCCRG00000000364	149	oxt	isotocin-neurophysin IT	Cyprinus_carpio	580B	580	B
+--------------------------------------------MSGG-LLSVVGLLCLL
+S----VCSACYISNCPIGGKRAVQDW-PSR-Q---------------------------C
+MSCGPG-----DRGRCFGPSICCGEGI-GCLVGSPETLRCLEEDFLPSPCEAPGKACGY-
+--EGRCAASGVCCDS---------------------------------------------
+--EGCSMDQSCVDGDTDGPA--------------------------------GSTQDLLL
+KLLHLSNHAHP-R--------LH----Q--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSDARP00000062884 ENSDARG00000042845	154	oxt		Danio_rerio	580B	580	B
+--------------------------------------------MSGG-LLSAAALLCLL
+S----VCSACYISNCPIGGKRSVQDW-PIR-Q---------------------------C
+MPCGPG-----DRGRCFGPSICCGEGI-GCLVGSPETLRCLEEDFLPSPCEMSGKACGY-
+--EGRCAAPGVCCDS---------------------------------------------
+--EGCSVDQSCVDGDADAAA-----------------VNQ-----------PANSPDLLL
+KLLHLSSHAHP-S--------RI----HQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSSGRP00000022802 ENSSGRG00000013538	154	None	isotocin-neurophysin IT	Sinocyclocheilus_grahami	580B	580	B
+--------------------------------------------MSGG-LLSVVGLLCLL
+S----VCSACYISNCPIGGKRAVQDW-PSR-Q---------------------------C
+MTCGPG-----DRGRCFGPSICCGEGI-GCLVGSPETLRCLEEDFLPSPCEAPGKACGY-
+--EGRCAAPGVCCDS---------------------------------------------
+--EGCSMDQSCVDGDADGPA-----------------PAP-----------PASSQDLLL
+KLLHLSNHAHP-Y--------RL----HQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCVAP00000031403 ENSCVAG00000020628	155	oxt	isotocin-neurophysin IT	Cyprinodon_variegatus	580B	580	B
+--------------------------------------------MSG--SAMFVGLFFLL
+S----VCSACYISNCPIGGKRSIMDA-PLR-K---------------------------C
+MSCGPG-----DRGRCFGPSICCGEGL-GCLMGSPESAHCIEENYLLTPCQAGGRPCGS-
+-EGGRCAASGLCCDA---------------------------------------------
+--ESCTADQMCLPEDDGDDQ----TS-----------QYE-----------GGDPGDIIL
+RLLHLASHSSH-R---------S----HQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSFHEP00000016848 ENSFHEG00000018743	163	avp	vasotocin-neurophysin VT	Fundulus_heteroclitus	580B	580	B
+--------------------------------------FPVSSAMHH--SMLPLCVLGLL
+A----LSSACYIQNCPRGGKRALPEG-GIR-Q---------------------------C
+MPCGPG-----DRGRCFGPSICCGDGL-GCLLGSAASAHCEEENYLLTPCQAGGRPCGP-
+-EGGRCASSGLCCNS---------------------------------------------
+--EGCLLDSDCLGESDATDP----AQ-----------SSA-----------RSSPTDLLL
+RLLHVAKNGVNKR--------RI----MK-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSGAFP00000017933 ENSGAFG00000010655	172	avp	arginine	Gambusia_affinis	580B	580	B
+MIG-------GL-SVRHPHKRR----------------KSEAAAMHH--SL--LSVLGLL
+A----LSSACYIQNCPRGGKRALPEG-GVR-Q---------------------------C
+MPCGPG-----DRGRCFGPSICCGEGL-GCLLGSAAAAHCEEENYLLTPCQPGGRPCGP-
+-EGGHCASSGLCCNS---------------------------------------------
+--EGCMVDSDCLGETDATNP----AQ-----------SSA-----------RSSPTDLLL
+RLLHHHPHMLHSK--------T--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSKMAP00000000273 ENSKMAG00000000261	153	avp	vasotocin-neurophysin VT	Kryptolebias_marmoratus	580B	580	B
+--------------------------------------------MQH--SLLPLSVLGLL
+A----LSSACYIQNCPRGGKRALPEA-ATR-Q---------------------------C
+MSCGPG-----DRGRCFGPSICCGEGL-GCLLGSAASGHCVEENYLLTPCQAGGRPCGS-
+-EGGRCAASGLCCNS---------------------------------------------
+--EGCAVDPDCLGDTEATDS----AQ-----------SSA-----------RSSPTELLL
+RLLHAASRGPNEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPREP00000023494 ENSPREG00000015860	138	avp	oxytocin/neurophysin I	Poecilia_reticulata	580B	580	B
+--------------------------------------------MHH--SL--LCVLGLL
+A----LSSACYIQNCPRGGKRALPEG-GVR-Q---------------------------C
+MPCGPG-----DRGRCFGPSICCGEGL-GCLLGSAAAAHCEEENYLLTPCQPGGRPCGP-
+-EGGHCASSGLCCNS---------------------------------------------
+---------------DAADP----AQ-----------SSA-----------RSSPTDLLL
+RLLHVASRGQNDY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSXMAP00000016040 ENSXMAG00000016007	171	avp	vasotocin-neurophysin VT	Xiphophorus_maculatus	580B	580	B
+MIG-------GL-SVRHPHKRR----------------KSEAAAMHH--SL--LCVLGLL
+A----LSSACYIQNCPRGGKRALPEG-GVR-Q---------------------------C
+MPCGPG-----DRGRCFGPSICCGEGL-GCLLGSAAAAHCEEENYLLTPCQPGGRPCGP-
+-EGGHCASSGLCCNS---------------------------------------------
+--EGCMVDSDCLGETDAADP----AQ-----------SSA-----------RSSPTDLLL
+RLLHVASRGQNDY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSELUP00000001088 ENSELUG00000002611	158	avp	vasotocin-neurophysin VT	Esox_lucius	580B	580	B
+--------------------------------------------MTH--FALPLCVLGLI
+A----FSSACYIQNCPRGGKRALQDP-SIR-Q---------------------------C
+MTCGPG-----EQGHCFGPSICCVEGL-GCWMGTPETAHCLEENYLNTPCQVGGRPCGS-
+-EAGRCATPGFCCDS---------------------------------------------
+--ESCVVDQDCLGESSYHSP----SP------ADQSIAAT-----------KNSPGELLL
+RLLHFATRRQSEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSGMOP00000008122 ENSGMOG00000007594	154	avp	vasotocin-neurophysin VT	Gadus_morhua	580B	580	B
+--------------------------------------------MPS--SVFPLCVLGLL
+A----LSSACYIQNCPRGGKRALADG-ELR-Q---------------------------C
+MPCGPG-----DRGRCFGPNICCGQEF-GCLLGSPGIAQCVEENYLLTPCQAGGNPCGS-
+-KGGRCAASGLCCNA---------------------------------------------
+--ESCAVSSECLEELQPAEP----HG----------STGN-----------GNSPAELLL
+RLLHVATRGQTEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSNMLP00000038556 ENSNMLG00000023779	151	avp	arginine	Neogobius_melanostomus	580B	580	B
+------------------------------------------KMMSL--SMLPLCVLGLL
+A----LSSACYIQNCPRGGKRALADT-SLR-Q---------------------------C
+MACGPG-----ERGRCFGPGICCGESL-GCLMGSPEASHCAEENYLLTPCQSGGRPCGS-
+-EEGRCAASGLCCNS---------------------------------------------
+--ESCVLDSDCLVDSKSSEG----P--------------------------HSSPAELLL
+RLLHITSRTQTEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPMGP00000021293 ENSPMGG00000017146	153	avp	arginine	Periophthalmus_magnuspinnatus	580B	580	B
+----------------------------------------VSVCMPH--SMLSLCVLGLI
+A----LSSACYIQNCPRGGKRALQDP-SLR-Q---------------------------C
+MSCGPG-----ERGRCFGPSICCGEGL-GCLMGSPETAHCVEENYLLTPCQSGGRPCGS-
+-EGGRCAASGLCCDT---------------------------------------------
+--ESCVLDSDCLVDSESTEG----A--------------------------HSSPAELLL
+RLLHIASRTQTEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSEEEP00000020226 ENSEEEG00000009876	154	None	oxytocin/neurophysin I	Electrophorus_electricus	580B	580	B
+--------------------------------------------MSI--STLYVSLLCLV
+M----LSSACYISNCPIGGKRSLMDA-PSH-K---------------------------C
+MSCGPG-----ERGRCFGPSICCVADL-GCYVGSPEAAGCMEENILPSPCESGGRPCGS-
+-EGGHCAAPGVCCDL---------------------------------------------
+--EKCVLNSNCSEESRLHHP----AE----------VRLS-----------STSTREMLL
+RLFNLASRGQR-Q--------I--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMMDP00005035082 ENSMMDG00005016482	153	avp	vasotocin-neurophysin VT	Myripristis_murdjan	580B	580	B
+--------------------------------------------MPH--SVFPLCVLGLL
+A----LSSACYIQNCPRGGKRALPET-GLR-Q---------------------------C
+MPCGPG-----DRGRCFGPSICCGEGL-GCLLGSPETAHCVEENYLLTPCQAGGRPCGS-
+-EGGRCAASGLCCDA---------------------------------------------
+--ESCAVDSDCLVETEDVAH----SS-----------PVS-----------GSSPAELLL
+RLLHVATRGQTEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSSORP00005015315 ENSSORG00005007776	153	avp	vasotocin-neurophysin VT	Sphaeramia_orbicularis	580B	580	B
+--------------------------------------------MSH--SMLPLCVLGFI
+A----LSSACYIQNCPRGGKRALPET-GIR-Q---------------------------C
+MSCGPG-----DRGRCFGPSICCAEGL-GCLMGSPETAHCVEENYLFTPCQAGGRSCGS-
+-EGGHCAASGLCCNS---------------------------------------------
+--ESCVVDSDCLGEAEASEP----AH-----------SSV-----------GSLPADLLL
+RLLHVASRGQTEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSLBEP00000024569 ENSLBEG00000018613	160	avp	vasotocin-neurophysin VT	Labrus_bergylta	580B	580	B
+-----------------MST--------------------SLITMPN--SVIPLCVLGLL
+A----LSSACYIQNCPRGGKRALPET-GIR-Q---------------------------C
+MSCGPR-----DRGRCFGPSICCGEGL-GCLLGSPETAHCVEENYLLTPCQAGGRPCGS-
+-EGGRCAASGVCCNS---------------------------------------------
+--ESCVVDSDCLGGIEASDP----AD-----------NHA-----------GSSAADMLL
+RLLHVANRGQTEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPKIP00000000266 ENSPKIG00000019004	156	avp	vasotocin-neurophysin VT	Paramormyrops_kingsleyae	580B	580	B
+--------------------------------------------MPDS-A-LLLIMLSLL
+T----LSSACYIQNCPRGGKRSFPDP-DLR-Q---------------------------C
+STCGPG-----ARGRCFGPSICCGEGM-GCYVGSPETVRCLEENYLPSPCEAGGKVCGT-
+-EGGRCAASGICCDT---------------------------------------------
+--DGCALDADCLDDMRQQPS------------PEESSLSM-----------GSAPEELLL
+RLLHMTSRGKSQY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSSFOP00015046875 ENSSFOG00015007848	183	avp	vasotocin-neurophysin VT	Scleropages_formosus	580B	580	B
+MLR-------GRQSPRRLCRRTK---------ARTPTTAFAAAAMPES-A-LPLLLLSLL
+A----FSSACYIQNCPRGGKRSFPDT-ALR-Q---------------------------C
+LACGPG-----AKGRCFGPSICCGEGM-GCYMSSPETARCLEENFLPSPCEAGGKVCGA-
+-EGGRCAAPGVCCDT---------------------------------------------
+--EGCVLDPDCMEDTRHQLS------------AENHSSQI-----------KGSPEELLL
+NLLHMATRGQNQ------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCGOP00000049020 ENSCGOG00000021849	153	oxt	vasotocin-neurophysin VT	Cottoperca_gobio	580B	580	B
+--------------------------------------------MTG--AAVSMCLLFLL
+S----VCSACYISNCPIGGKRSIMDA-PLR-K---------------------------C
+MSCGPG-----DRGRCFGPSICCGEGL-GCLLGAPETAHCVEENYLLTPCLAGGRPCGS-
+-DGGRCAASGLCCNS---------------------------------------------
+--ESCTVEPDCLGETEASDP----AH-----------GSA-----------VSSPAELLL
+RLLHVATRGQTEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSGACP00000008848 ENSGACG00000006670	153	avp	arginine	Gasterosteus_aculeatus	580B	580	B
+--------------------------------------------MPH--SSFPLCVLGLL
+A----ISSACYIQNCPRGGKRALPET-GIR-Q---------------------------C
+MSCGPG-----DRGRCFGPSICCGEGL-GCLLGSSEMANCVEENYLLTPCQAGGRPCGS-
+-DGGHCAASGLCCNS---------------------------------------------
+--ESCAVDPDCLGEIEASDP----GR-----------GTA-----------GASAAELLL
+RMLHVATRGQAEH-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCSEP00000027828 ENSCSEG00000017786	150	avp	vasotocin-neurophysin VT	Cynoglossus_semilaevis	580B	580	B
+--------------------------------------------MPY--SLLPLCLLGLL
+T----VSSACYIQNCPRGGKRALTET-GVR-Q---------------------------C
+MSCGPG-----DRGHCFGPSICCGESF-GCILGSTETAHCMEENYLLSPCQAGGRPCGS-
+-EGGRCAVSGLCCDS---------------------------------------------
+--ESCTVDNDCVGDAEASDP----GH-------------A-----------GSSPVELLL
+RLLHVN-RGQAEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSSMAP00000005500 ENSSMAG00000003395	174	oxt		Scophthalmus_maximus	580B	580	B
+-----------------MTVSVF---------PPVCRSFTLSVEMTG--AAVSVCLLFLM
+S----LCSACYISNCPIGGKRSIMDA-PQR-K---------------------------C
+MSCGPG-----DRGRCFGPSICCGEGL-GCLMGSPETAHCMEENYLLTPCQAGGRPCGS-
+-EGGRCAASGLCCDA---------------------------------------------
+--ESCTADQSCLIEEEGDYQ----TG-----------QFE-----------GSDPGDIIL
+RLLHLASHTSP-H--------QI----HQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSHHUP00000033554 ENSHHUG00000021186	156	avp	arginine	Hucho_hucho	580B	580	B
+--------------------------------------------MPH--SAILLCVIGLL
+A----FSSACYIQNCPRGGKRALQDT-GIR-Q---------------------------C
+MTCGPG-----DQGRCFGPSICCGEGL-GCWMGSSETARCFEENYLPTPCQTGGRPCGS-
+-EAGHCAAPGVCCDS---------------------------------------------
+--ESCALDPDCLGESRYHSP------------ADHNTGAT-----------RDSQEELLL
+RLLHFATGGQSEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSOTSP00005072486 ENSOTSG00005034227	153	None	vasotocin-neurophysin VT	Oncorhynchus_tshawytscha	580B	580	B
+--------------------------------------------MPYSTF-PLLWVLGLL
+A----LSSACYIQNCPRGGKRSFPD--LPR-Q---------------------------C
+MSCGPG-----DRGRCFGPNICCGEGM-GCYMGSPEAAGCVEENYLPSPCEAGGRVCGS-
+-E-GSCAASGVCCDS---------------------------------------------
+--ESCVLDPDCLEDSKRQSP------------SEQNAALM-----------GGLAGD-LL
+RILHATSRGRPQ------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSSTUP00000050227 ENSSTUG00000021238	153	None	vasotocin-neurophysin VT	Salmo_trutta	580B	580	B
+--------------------------------------------MPYSTF-PLLWVLGLL
+A----LSSACYIQNCPRGGKRSFPD--LPR-Q---------------------------C
+MSCGPG-----DRGRCFGPSICCGEGM-GCYVGSPEAAGCVEENYLSSPCEAGGRVCGS-
+-E-GSCAAPGVCCDS---------------------------------------------
+--ESCVLDPDCLEDSKRQSP------------SEQNAALM-----------GGLAGD-LL
+RILHATSRGRPQ------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSLOCP00000001307 ENSLOCG00000001161	132	None	None	Lepisosteus_oculatus	580B	580	B
+----------------------------------------------VKWSMFRPSVLGLL
+S----LSSACFISNCPLGGKRAVPDL--GH-G---------------------------H
+RQCGPE-----DRGRCFGPSICCGEEL-GCYVGTPETARCLEENYLPSPCEAGGRACGA-
+-EGGRCAAPGVCCDE---------------------------------------------
+--ESCTIDDSCLEGEGVPRG------------SGQGQST---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSIPUP00000022472 ENSIPUG00000015242	151	oxt	isotocin-neurophysin IT	Ictalurus_punctatus	580B	580	B
+--------------------------------------------MSAA-PLSVFCLLCLL
+S----ICTACYISNCPIGGKRAVQDI-PTR-Q---------------------------C
+MACGPG-----DKGRCFGPNICCGEEI-GCMVGTLEAMRCLEEDYVPSPCETGGKTCGS-
+-VAGRCAAPGVCCDS---------------------------------------------
+--ESCTTDPSCLEGEGDAAA-----------------HSL-----------PASGKDLLL
+KLLHWTNYR-------------P----YQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSSAUP00010018284 ENSSAUG00010008261	156	pro-VT	isotocin-neurophysin IT	Sparus_aurata	580B	580	B
+--------------------------------------------MTG--AAVSVCLVFLL
+S----VCSACYISNCPIGGKRSIMDA-PLR-K---------------------------C
+MSCGPG-----DRGRCFGPSICCGEGL-GCLLGSPETAHCVEENYLLTPCQAGGRPCGS-
+-EGGRCAASGLCCDA---------------------------------------------
+--ESCTTDQSCLIEEEGDDQ----SS-----------QFE-----------GGDTGDIIL
+RLLHLAGHTSP-H--------RI----HQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMAMP00000030724 ENSMAMG00000020712	153	avp	vasotocin-neurophysin VT	Mastacembelus_armatus	580B	580	B
+--------------------------------------------MPH--SLFPMCVLGLI
+A----LSSSCYIQNCPRGGKRALPET-GIR-Q---------------------------C
+MSCGPG-----DRGRCFGPSICCGEGL-GCLLSSPETAHCVEENYLLTPCQAGGKPCGS-
+-DGGRCAAAGLCCNS---------------------------------------------
+--ENCAVDSDCLGETEASDP----AH-----------GSA-----------GSSPTELLL
+RLLHVATRGQTEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMALP00000025725 ENSMALG00000017898	156	oxt	isotocin-neurophysin IT	Monopterus_albus	580B	580	B
+--------------------------------------------MSG--AAASVCLLFLL
+S----VCSACYISNCPIGGKRSIIDA-PLR-K---------------------------C
+MSCGPG-----DRGRCFGPSICCGEGL-GCLLGSSETAHCVKENYLLTPCQAGGRPCGS-
+-DGGRCAASGLCCDA---------------------------------------------
+--ESCTTDQTCLTEEEGDDQ----TS-----------QPE-----------GSGPTDLIL
+RLLRLAGHTSP-L--------RL----RQ-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSHCOP00000002412 ENSHCOG00000003618	158	avp	oxytocin/neurophysin I	Hippocampus_comes	580B	580	B
+-------------------------------------------MARS--SALPRCVLGLL
+ALSIALSSACYIQNCPRGGKRALAET-ALR-Q---------------------------C
+MSCGPG-----EKGRCYGPNICCVEGF-GCLLGSSETTQCVEENYLLTPCQAGGRPCGL-
+-EGGRCAASGLCCNS---------------------------------------------
+--ESCSVDSSCLGEVDTKNP----AE-----------TSA-----------GSSPAELLL
+RLLHVATRGQTEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMMOP00000001321 ENSMMOG00000000380	153	avp	arginine	Mola_mola	580B	580	B
+-----------------------------------------FTMPPH--SLLLLCALGLL
+A----LSSACYIQNCPRGGKRALPET-GIR-Q---------------------------C
+MSCGPR-----DRGRCFGPSICCGEGL-GCLLGSPETAHCVEENYLLTPCQAGGRPCGS-
+-EGGRCAVSGLCCNS---------------------------------------------
+--ESCVVDSDCLAEGEASDS----S--------------T-----------MSSPSELLL
+RLLHVATRGQTEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSTRUP00000039963 ENSTRUG00000015631	155	oxt	isotocin-neurophysin IT	Takifugu_rubripes	580B	580	B
+--------------------------------------------MTG--TAISVCLLFLL
+S----VCSACYISNCPIGGKRSIMDA-PQR-K---------------------------C
+MSCGPG-----DRGRCFGPGICCGESF-GCLMGSPESARCAEENYLLTPCQAGGRSCGS-
+-EGGRCASSGLCCDA---------------------------------------------
+--ESCTMDQSCLSEEEGDER----GS-----------LFD-----------GSDSGDVIL
+KLLRLAGLTSP-H--------QT----H--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSTNIP00000019783 ENSTNIG00000016676	152	avp	arginine	Tetraodon_nigroviridis	580B	580	B
+--------------------------------------------MPR--FALLLSLLGLL
+S----LSSACYIQNCPRGGKRALPET-GTR-Q---------------------------C
+LSCGPR-----DRGRCFGPGICCGEGL-GCLMGSPETARCAEENYLLTPCQPGGRACGP-
+-EGGRCAVSGLCCNS---------------------------------------------
+--ESCMVDPDCLEP-EALEP----GD-----------SLA-----------AGSPAELLL
+RLLHVSSRGQPEY-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSBTAP00000010554 ENSBTAG00000008026	125	OXT	oxytocin/neurophysin I	Bos_taurus	580B	580	B
+--------------------------------------------MAGS-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAVLDL-DVR-T---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCFVGTAEALRCQEENYLPSPCQSGQKPCGS-
+--GGRCAAAGICCS-P--------------------------------------------
+--DGCHEDPAC----DPEAAFSQH------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCHIP00000017989 ENSCHIG00000017609	125	OXT	oxytocin/neurophysin I	Capra_hircus	580B	580	B
+--------------------------------------------MAGS-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAVLDL-DVR-T---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCFVGTAEALRCQEENYLPSPCQSGQKPCGS-
+--GGRCAAAGICCS-P--------------------------------------------
+--DGCHADPAC----DPEAAFSQH------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCWAP00000017012 ENSCWAG00000013142	125	OXT	oxytocin/neurophysin I	Catagonus_wagneri	580B	580	B
+--------------------------------------------MAGP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAVLDL-DVR-K---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCFVGTAEALRCQEENYLPSPCQSGQKPCGS-
+--GGRCAAAGICCS-P--------------------------------------------
+--DGCRVDPAC----DPEATFSQR------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSDLEP00000020352 ENSDLEG00000014822	125	OXT	oxytocin/neurophysin I	Delphinapterus_leucas	580B	580	B
+--------------------------------------------MAGP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAVLDL-DVR-K---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCLVGTAEALRCQEENYLPSPCQSGQKPCGS-
+--GGRCAAAGICCS-P--------------------------------------------
+--DGCRGDPAC----DPEAAFSQL------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMMSP00000007581 ENSMMSG00000005907	125	OXT	oxytocin/neurophysin I	Moschus_moschiferus	580B	580	B
+--------------------------------------------MAGS-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAVLDL-DVR-T---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCFVGTAEALRCQEENYLPSPCQSGQKPCGS-
+--GGRCAAAGICCS-P--------------------------------------------
+--DGCRADPAC----DPEAAFSQH------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSOARP00000004918 ENSOARG00000004595	107	OXT	oxytocin/neurophysin I	Ovis_aries	580B	580	B
+--------------------------------------------MAGS-SLAC-CLLGLL
+A----LTSACYIQNCX--------------------------------------------
+---GPG-----GKGRCFGPSICCGDEL-GCFVGTAEALRCREENYLPSPCQSGQKPCGS-
+--GGRCAAAGICCS-P--------------------------------------------
+--DGCHADPAC----DPEAAFSQH------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPCTP00005009226 ENSPCTG00005006517	125	OXT	oxytocin/neurophysin I	Physeter_catodon	580B	580	B
+--------------------------------------------MAGP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAVLDL-DVR-K---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCLVGTAEALRCQEENYLPSPCQSGQKPCGS-
+--GGRCAAAGICCS-P--------------------------------------------
+--DGCRGDPAC----DPEAAFSQL------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSSSCP00000007626 ENSSSCG00000007164	125	OXT	oxytocin/neurophysin I	Sus_scrofa	580B	580	B
+--------------------------------------------MAGP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAVLDL-DVR-K---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCFVGTAEALRCQEENYLPSPCQSGQKPCGS-
+--EGRCAAAGICCN-P--------------------------------------------
+--DGCRFDPAC----DPEATFSQR------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSTTRP00000011342 ENSTTRG00000011964	85	OXT	oxytocin/neurophysin I	Tursiops_truncatus	580B	580	B
+------------------------------------------------------------
+-----------------------------------------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCLVGTAETLRCQEENYLPSPCQSGQKPCGS-
+--GGRCAAAGICCS-P--------------------------------------------
+--DGCRGDPAC----DPEAAFSQL------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSAMEP00000011643 ENSAMEG00000011075	99	AVP	arginine	Ailuropoda_melanoleuca	580B	580	B
+--------------------------------------------MPAT-VLPA-CFLGLL
+A----FTSACYFQNCPRGGKRAMSDL-ELR-Q---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCFVGTAEALRCQEENYLPSPCQSGHQPCGS-
+--GGRCA-----------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCAFP00000061071 ENSCAFG00000006432	211	AVP	arginine	Canis_lupus_familiaris	580B	580	B
+--------------------------------------------MPDT-MLLPACFLGLL
+A----FTSACYFQNCPRGGKRAMSDL-ELR-Q---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCFVGTAEALRCQEENYLPSPCQSGRTPCGS-
+--GGRCAAAGICCNDGGWPGVRAGARGWRAR---RPPGAGGXXXXGGRLGSRPRRVQPVA
+PAESCVTEPESREGAGLH--RGARAS------DRSNATQL-----------DGPTGALLL
+RLVQLAG-------------------------APE----PAEPAPPGVY-----------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSFCAP00000024172 ENSFCAG00000026996	125	OXT	oxytocin/neurophysin I	Felis_catus	580B	580	B
+--------------------------------------------MAGS-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAALDL-DVR-Q---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCFVGTAEALRCQEENYLPSPCQSGHKPCGS-
+--GGRCAAAGICCN-D--------------------------------------------
+--DGCRADPAC----DAEAAFSQR------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSLCNP00005031959 ENSLCNG00005020817	125	OXT	oxytocin/neurophysin I	Lynx_canadensis	580B	580	B
+--------------------------------------------MAGS-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAALDL-DVR-Q---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCFVGTAEALRCQEENYLPSPCQSGHKPCGS-
+--GGRCAAAGICCS-P--------------------------------------------
+--DGCRADPAC----DAEAAFSQR------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMPUP00000008902 ENSMPUG00000008974	125	OXT	oxytocin/neurophysin I	Mustela_putorius_furo	580B	580	B
+--------------------------------------------MAGP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAALDL-DVR-Q---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCFVGTNEALRCQEENYLPSPCQSGHQPCGS-
+--GGRCAAAGICCS-P--------------------------------------------
+--DGCRADPAC----DPEAAFSQR------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSNVIP00000025710 ENSNVIG00000019896	125	OXT	oxytocin/neurophysin I	Neovison_vison	580B	580	B
+--------------------------------------------MAGP-GLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAALDL-DVR-Q---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCFVGTAEALRCQEENYLPSPCQSGHQPCGS-
+--GGRCAAAGICCS-P--------------------------------------------
+--DGCRADPAC----DPEAAFSQG------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPLOP00000003837 ENSPLOG00000002759	125	OXT	oxytocin/neurophysin I	Panthera_leo	580B	580	B
+--------------------------------------------MAGS-GLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAALDL-DVR-Q---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCFVGTAEALRCQEENYLPSPCQSGHKPCGS-
+--GGRCAAAGICCS-P--------------------------------------------
+--DGCRADPAC----DAEAAFSQR------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSSSUP00005017892 ENSSSUG00005011540	166	AVP	arginine	Suricata_suricatta	580B	580	B
+--------------------------------------------MPDT-MLPA-CFLGLL
+A----FTSACYFQNCPRGGKRSMSDL-ELR-Q---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCFVGTVEALRCQEENYLPSPCQSGHKPCGS-
+--GGRCAAAGICCN-D--------------------------------------------
+--ESCVTEPECREG----TGFHRRARASD---RS-NGTQLDGPT-----------GALLL
+RLVQLAGAPEPAEPAS---PGVY-------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSVVUP00000035352 ENSVVUG00000025434	229	None	None	Vulpes_vulpes	580B	580	B
+--------------------------------------------MPDT-MLLPACFLGLL
+A----FTSACYFQNCPRGGKRAMSDL-ELR-Q---------------------------C
+LPCGPG-----GQGRCFGPSICCGDEL-GCFVGTAEALRCQEENYLPSPCQSGRTPCGS-
+--GGRCAAAGVCCSPGELGPGRARE--------GAPGHXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX--XXXXXX------XXXXXXXX-----------XXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX---XXX----XXXXXXPSLQK----------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPVAP00000000301 ENSPVAG00000000327	95	OXT	oxytocin/neurophysin I	Pteropus_vampyrus	580B	580	B
+--------------------------------------------MAGP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAALDL-DVR-K---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCFVGTAEALRCQEENYLPSPCQSGQKPCGS-
+--G---------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSRFEP00010023572 ENSRFEG00010015751	125	OXT	oxytocin/neurophysin I	Rhinolophus_ferrumequinum	580B	580	B
+--------------------------------------------MAGP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAALDL-DVR-K---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCFVGTAEALRCQEENYLPSPCQSGQKPCGS-
+--GGRCAASGICCS-P--------------------------------------------
+--DGCRADPAC----DPEAAFSQR------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSDNOP00000021688 ENSDNOG00000048281	84	None	None	Dasypus_novemcinctus	580B	580	B
+--------------------------------------------MPDS-ALPA-CVLGLL
+A----LTSACYFQNCPRGGRRAAADL-ELR-Q---------------------------C
+LPCGPA-----GRGRCFGPSICCAAEL-GCFVGTAEALRCQDESRLPSP-----------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMODP00000006710 ENSMODG00000005441	170	None	oxytocin-neurophysin	Monodelphis_domestica	580B	580	B
+--------------------------------------------MPGT--ALPACFFCLL
+A----FTSACYFQNCPRGGKRGLADT-ELR-Q---------------------------C
+LPCGPG-----SKGRCFGPSICCGEEL-GCYMGTAESLRCQEESYLPSPCQSGQKPCGN-
+--GGRCAAPGICCND---------------------------------------------
+--ENCMMEPACRDEADSR--RRARAS------EKSNETQL-----------DGPASAFLL
+RLVQLAG-------------------------QQM----SELQSQPQEEEVTY-------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMEUP00000000127 ENSMEUG00000000143	107	None	None	Notamacropus_eugenii	580B	580	B
+--------------------------------------------MPDA-RLLA-CFLCLV
+T----FTSACYFQNCPKGGKRSLSDT-EMR-Q---------------------------C
+LTCGPR-----SKGRCFGPSICCGDEL-GCYMGTAESLRCQEESYLPSPCQSGQKPCGN-
+--GGHCAAAGICCN-A--------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPCIP00000000605 ENSPCIG00000036942	136	None	None	Phascolarctos_cinereus	580B	580	B
+--------------------------------MGSPGSLPGLAPRPRP-GLACCYLLALL
+A----LASACYIQNCPIGGKRSALDM-DVR-K---------------------------C
+LPCGPG-----SKGRCFGPSICCGEEL-GCYVGTAESLRCQEESYLPSPCQSGQKPCGT-
+--GGRCAASGICCS-S--------------------------------------------
+--DGCALDPVCDQE----PTFS--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSVURP00010025943 ENSVURG00010019871	136	None	None	Vombatus_ursinus	580B	580	B
+--------------------------------MGSPGSLPGLAPRPRP-GLACCYLLALL
+A----LASACYIQNCPIGGKRSTLDM-DVR-K---------------------------C
+LPCGPG-----SKGRCFGPSICCGEEL-GCYMGTAESLRCQEESYLPSPCQSGQKPCGS-
+--GGRCAASGICCS-S--------------------------------------------
+--DGCGLDPVCDQE----PTFS--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSEEUP00000002541 ENSEEUG00000002789	118	AVP	arginine	Erinaceus_europaeus	580B	580	B
+--------------------------------------------MPEA-LLPA-CLLGLL
+A----LTSACYFQNCPRGGKRAMSDL-DLR-Q---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCFVGSAEALRCQEENYLPSPCQSGQKPCGS-
+--GGRCAAAGVCCS-H--------------------------------------------
+--ESCVVEPECRE-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPCAP00000008381 ENSPCAG00000009023	130	OXT	oxytocin/neurophysin I	Procavia_capensis	580B	580	B
+--------------------------------------------MAGS-CLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAVRDL-DVR-K---------------------------R
+LPCGPGGKGPGGKGRCFGPSICCGDQL-GCLVGTAEALRCQEENYLPSPCQSGQKPCGS-
+--GGRCAAAGICCS-P--------------------------------------------
+--DGCRTEPAC----DPETAFSPL------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSOPRP00000013663 ENSOPRG00000014980	183	AVP	arginine	Ochotona_princeps	580B	580	B
+--------------------------------------------MPDT-VLPV-CFLGLL
+A----LTSACYFQNCPRGGKRATSDM-ELR-Q---------------------------C
+LPCGPG-----GKGRCFGPSICCADEL-GCFVGTAEALRCQEENFLPSPCQSGQKPCGS-
+--GGRCAAIGICCN-D--------------------------------------------
+--ESCVTEPECRES------FPRRARAGD---RS-NATRLDAPA-----------GALLL
+RLVQLAGAPEPAQPSR---AATDRV-PPS----PAPATLINLERRRL-------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSOCUP00000045888 ENSOCUG00000008352	173	OXT	oxytocin/neurophysin I	Oryctolagus_cuniculus	580B	580	B
+--------------------------------------------MAGP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAALDR-DVR-K---------------------------C
+LPCGPA-----GKGRCFGPSICCADEL-GCFVGTAEALRCQEENFLPSPCQSGQKPCGS-
+--GGRCAAAGVCCS-A--------------------------------------------
+--GEWAAGFPQWGA-GPGRAAPNRTSPCR---RL-PHRSHLRPR-----------GRLLR
+ALSTEG--PDPSD-----------R-TPQ----PLPG-IIKIK-----------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSOANP00000020606 ENSOANG00000013035	124	None	None	Ornithorhynchus_anatinus	580B	580	B
+--------------------------------------------MACP-RVLF-SLLGLL
+A----LASACYIQNCPLGGKRALPDR-DSR-K---------------------------C
+LPCGPG-----GKGRCFGPNICCGEEL-GCYVGTAEALRCQEENYLPSPCQAGHRPCGR-
+-DGGTCAAPAICCS-S--------------------------------------------
+--DGCSVDPVCEHE----PEFP--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSECAP00000022402 ENSECAG00000024857	161	AVP	arginine	Equus_caballus	580B	580	B
+--------------------------------------------MPDT--MLPACFLGLL
+A----FTSACYFQNCPRGGKRAMSDL-ELR-Q---------------------------V
+QPQPSE-------GCREGADICCGDEL-GCFVGTAEALRCQEENYLPSPCQSGQKPCGS-
+--GGRCAAAGICCND---------------------------------------------
+--ESCVTEPECREGAGLP--RRARAS------DRSNATQL-----------DGPTGALLL
+RLVQLAG-------------------------APE----PGEP---GVY-----------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCHOP00000002406 ENSCHOG00000002715	94	OXT	oxytocin/neurophysin I	Choloepus_hoffmanni	580B	580	B
+------------------------------------------------------------
+---------------------AARDL-DVR-Q---------------------------C
+LPCGPG-----GKGRCFGPSICCADEL-GCFVGTAEALRCQEETYLPSPCQSGQRPCGS-
+--GGRCAAAGICCS-P--------------------------------------------
+--DGCRTHPAC----DPEVSFSQR------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCJAP00000039252 ENSCJAG00000021094	211	AVP	arginine	Callithrix_jacchus	580B	580	B
+--------------------------------------------MPDA--TLPACFLGLL
+A----FSSACYFQNCPRGGKRAMSDL-ELR-Q---------------------------C
+LPCGPG-----GKGRCFGPSICCVDEL-GCFVGTAEALRCQEENSLPSPCQSGHKACGS-
+--GGRCAAFGICCNDGARRGRAGAGTGADRVGGGHAGGGGGGPPSRAAPTPGRPRLQAHT
+ITESCVIEPECRE--GFH--RRARAG------DRSNATQL-----------DGPAGALLL
+RLVQLAG-------------------------APE----PFEPAQPGVY-----------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCATP00000032737 ENSCATG00000039403	125	OXT	oxytocin/neurophysin I	Cercocebus_atys	580B	580	B
+--------------------------------------------MAGP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAAPDL-DVR-K---------------------------C
+LPCGPG-----GKGRCFGPNICCAEEL-GCFVGTAEALRCQEENYLPSPCQSGQKACGS-
+--GGRCAVFGLCCS-P--------------------------------------------
+--DGCHADPAC----DMEATFSQH------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCSAP00000009476 ENSCSAG00000013313	125	OXT	oxytocin/neurophysin I	Chlorocebus_sabaeus	580B	580	B
+--------------------------------------------MAGP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAAPDL-DVR-K---------------------------C
+LPCGPG-----GKGRCFGPNICCAEEM-GCLVGTAEALRCQEENYLPSPCQSGQKACGS-
+--GGRCAVFGLCCS-P--------------------------------------------
+--DGCHADPAC----DMEVTFSQH------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSGGOP00000018738 ENSGGOG00000027655	162	AVP	arginine	Gorilla_gorilla	580B	580	B
+--------------------------------------------MPDT--MLPACFLGLL
+A----FSSACYFQNCPRGGKRAMSDL-ELR-Q---------------------------C
+LPCGPG-----GKGRCFGPSICCADEL-GCFVGTAEALRCQEENYLPSPCQSGQKECGS-
+--GGRPCSH-------------------------------------------------VL
+PAESCMTEPECRE--GFH--RRARAS------DRSNATQL-----------DGPAGALLL
+RLVQLAG-------------------------APE----PFEPAQPDVY-----------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSP00000217386 ENSG00000101405	125	OXT	oxytocin/neurophysin I	Homo_sapiens	580B	580	B
+--------------------------------------------MAGP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAAPDL-DVR-K---------------------------C
+LPCGPG-----GKGRCFGPNICCAEEL-GCFVGTAEALRCQEENYLPSPCQSGQKACGS-
+--GGRCAVLGLCCS-P--------------------------------------------
+--DGCHADPAC----DAEATFSQR------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMMUP00000013990 ENSMMUG00000010678	125	OXT	oxytocin/neurophysin I	Macaca_mulatta	580B	580	B
+--------------------------------------------MAGP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAAPDL-DVR-K---------------------------C
+LPCGPG-----GKGRCFGPNICCAEEL-GCFVGTAEALRCQEENYLPSPCQSGQKACGS-
+--GGRCAVFGLCCS-P--------------------------------------------
+--DGCHADPAC----DMEATFSQH------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMLEP00000027468 ENSMLEG00000037934	125	OXT	oxytocin/neurophysin I	Mandrillus_leucophaeus	580B	580	B
+--------------------------------------------MAGP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAAPDL-DVR-K---------------------------C
+LPCGPG-----GKGRCFGPNICCAEEL-GCFVGTAEALRCQEENYLPSPCQSGQKACGS-
+--GGRCAVFGLCCS-P--------------------------------------------
+--DGCHADPAC----DMEAIFSQH------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMICP00000028338 ENSMICG00000035095	125	OXT	oxytocin/neurophysin I	Microcebus_murinus	580B	580	B
+--------------------------------------------MAGP-SVAC-CLLGLL
+A----LTSACYIQNCPLGGKRAALDL-EVR-K---------------------------C
+LPCGPG-----GKGRCFGPSICCADEL-GCFVGTAEALRCQEENYLPSPCQSGLKPCGS-
+--GGRCAAAGFCCG-P--------------------------------------------
+--DGCKYDLDC----NPDAAFSQP------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPTRP00000022589 ENSPTRG00000013189	125	OXT	oxytocin/neurophysin I	Pan_troglodytes	580B	580	B
+--------------------------------------------MAGP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAAPDL-DVR-K---------------------------C
+LPCGPG-----GKGRCFGPNICCAEEL-GCFVGTAEALRCQEENYLPSPCQSGQKACGS-
+--GGRCAVLGLCCS-P--------------------------------------------
+--DGCHADPAC----DMEATFSQH------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPANP00000016968 ENSPANG00000024265	148	AVP	arginine	Papio_anubis	580B	580	B
+--------------------------------------------MPDT-MLPA-CFLGLL
+A----FSSACYFQNCPRGGKRAMSDL-ELR-Q---------------------------C
+LPCGPG-----GKGRCFGPSICCADEL-GCFVGTAEALRCQEENYLPSPCQSGQKACGS-
+--GGRCAAFGICCN-D--------------------------------------------
+--ESCMTEPDCRE------GFHRRARASD---RS-NATQLDGPA-----------GALLL
+RLVQ--------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPPYP00000012094 ENSPPYG00000010828	125	OXT	oxytocin/neurophysin I	Pongo_abelii	580B	580	B
+--------------------------------------------MASP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAAPDL-DVR-K---------------------------C
+LPCGPG-----GKGRCFGPNICCAEEL-GCFVGTAEALRCQEENYLPSPCQSGQKACGS-
+--GGRCAVFGLCCS-P--------------------------------------------
+--EGCHADPAC----DMEATFSQH------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSTGEP00000014711 ENSTGEG00000011952	125	OXT	oxytocin/neurophysin I	Theropithecus_gelada	580B	580	B
+--------------------------------------------MAGP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAAPDL-DVR-K---------------------------C
+LPCGPG-----GKGRCFGPNICCAEEL-GCFVGTAEALRCQEENYLPSPCQSGQKACGS-
+--GGRCAVFGLCCS-P--------------------------------------------
+--DGCHADPAC----DMEATFSQH------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSLAFP00000005943 ENSLAFG00000007073	171	AVP	neurophysin	Loxodonta_africana	580B	580	B
+----------------------------------------PAPGMPDT-TLHALASSNLL
+G----LTSALLLPECPRGGK-AMSDM-ELRTA---------------------------C
+LPCGPG-----GKGRCFGPSICCGEEL-GCFVGTAEALRCQEENYLPSPCQSGQKPCGS-
+--GGRCAAAGICCYE---------------------------------------------
+--ESCVTEPECREGAGIH--RRTRAS------DRSNATQL-----------DGPAGALLL
+RLVQLAG-------------------------APE----PEEPAKPGVY-----------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCCNP00000021020 ENSCCNG00000020903	125	Oxt	oxytocin/neurophysin I	Castor_canadensis	580B	580	B
+--------------------------------------------MAGP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAALDL-DVR-K---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCFVGTAEALRCQEENYLPSPCQSGQKPCGS-
+--GGRCAARGICCS-P--------------------------------------------
+--DGCRTDPAC----DPEAAFSER------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCPOP00000001551 ENSCPOG00000001717	125	OXT	oxytocin/neurophysin I	Cavia_porcellus	580B	580	B
+--------------------------------------------MAGP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAALDL-DVR-K---------------------------C
+LPCGPG-----GQGRCFGPSICCADAL-GCFVGTAEALRCQEENYLPSPCQSGQKPCGS-
+--GGRCAANGVCCN-D--------------------------------------------
+--DGCRIDPAC----DSEAAFAER------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSDORP00000017000 ENSDORG00000026916	109	Avp	arginine	Dipodomys_ordii	580B	580	B
+--------------------------------------------MPDT-MLPV-CFLGLL
+A----FTSACYFQNCPRGGKRAMSDM-ELR-Q---------------------------C
+LPCGPG-----GKGRCFGPSICCGDEL-GCFVGTAEALRCQEESYLPSPCQSGQKPCGS-
+--GGRCAAAGLCCN-D--------------------------------------------
+--GG--------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSSTOP00000013478 ENSSTOG00000015044	124	None	oxytocin-neurophysin	Ictidomys_tridecemlineatus	580B	580	B
+--------------------------------------------MASL-SLPC-CLLGLL
+A----LTSACYIQNCPLGGKRAVLEL-DVR-K---------------------------C
+LPCGPG-----GQGRCFGPSICCGDEL-GCFVGTAEALRCQEENYLPSPCQSGQKPCGS-
+--GGRCAAAGFCCS-S--------------------------------------------
+--DGCRTDPAC----DPETNFSE-------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMUGP00000009093 ENSMUGG00000008151	125	Oxt	oxytocin/neurophysin I	Meriones_unguiculatus	580B	580	B
+--------------------------------------------MACP-SLAF-CLLGLL
+A----LTSACYIQNCPLGGKRAVLDL-DMR-K---------------------------C
+LPCGPG-----GKGRCFGPSICCADEL-GCFVGTAEALRCQEENYLPSPCQSGQKACGS-
+--GGRCAASGVCCS-P--------------------------------------------
+--DGCRTDPAC----DPESAFSER------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMAUP00000024599 ENSMAUG00000021401	85	None	None	Mesocricetus_auratus	580B	580	B
+------------------------------------------------------------
+-----------------------------------------------------------C
+LSCGPG-----GKGSCFGPDICD-NDL-GCFMGIPEALRCQEKKHLSLPCHSSRRPGGN-
+--EGHRASSGICCTL---------------------------------------------
+--NNCFMDPTCNSPGSAFSES---------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMOCP00000019836 ENSMOCG00000017703	125	Oxt	oxytocin/neurophysin I	Microtus_ochrogaster	580B	580	B
+--------------------------------------------MACP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAALDL-DTR-K---------------------------C
+LPCGPG-----GKGRCFGPNICCADEL-GCFVGTAEALRCQEENYLPSPCQSGQKPCGS-
+--GGRCAAAGVCCN-P--------------------------------------------
+--DGCRMDPAC----DPESAFSER------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMUSP00000028764 ENSMUSG00000027301	125	Oxt		Mus_musculus	580B	580	B
+--------------------------------------------MACP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAVLDL-DMR-K---------------------------C
+LPCGPG-----GKGRCFGPSICCADEL-GCFVGTAEALRCQEENYLPSPCQSGQKPCGS-
+--GGRCAATGICCS-P--------------------------------------------
+--DGCRTDPAC----DPESAFSER------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSODEP00000006133 ENSODEG00000004605	129	OXT	oxytocin/neurophysin I	Octodon_degus	580B	580	B
+--------------------------------------------MTGP-SLTC-CLLGLL
+S----LTSACYIQNCPLGGKRATLDL-DVR-K---------------------------C
+LPCGPG-----GQGRCFGPSICCADAL-GCFVGTAEALRCREENFLPSPCQSGRKPCAG-
+--GGRCAADGVCCS-S--------------------------------------------
+--DGCRTDPACDADADDEAAFSER------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPEMP00000007572 ENSPEMG00000009490	125	Oxt	oxytocin/neurophysin I	Peromyscus_maniculatus_bairdii	580B	580	B
+--------------------------------------------MACS-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAVLDL-DMR-K---------------------------C
+LPCGPG-----GKGRCFGPNICCADEL-GCYVGTAEALRCQEENYLPSPCQSGQKPCGS-
+--GGRCAAAGVCCS-P--------------------------------------------
+--DGCRMDPAC----DPESAFSEH------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSRNOP00000028829 ENSRNOG00000021225	125	Oxt	oxytocin/neurophysin I	Rattus_norvegicus	580B	580	B
+--------------------------------------------MACP-SLAC-CLLGLL
+A----LTSACYIQNCPLGGKRAALDL-DMR-K---------------------------C
+LPCGPG-----GKGRCFGPSICCADEL-GCFVGTAEALRCQEENYLPSPCQSGQKPCGS-
+--GGRCATAGICCS-P--------------------------------------------
+--DGCRTDPAC----DPESAFSER------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSTBEP00000004646 ENSTBEG00000005418	124	OXT	oxytocin/neurophysin I	Tupaia_belangeri	580B	580	B
+--------------------------------------------MASS--SLACCLLGLL
+A----LTSACYIQNCPPGGKRAL-DL-DVR-K---------------------------C
+LPCGPG-----GRGHCFGSKICCDEEL-GCFLGPTHSQSCEKEDYLPTPCQSGGKPCGN-
+--RATCAAAGFCCSP---------------------------------------------
+--EGCHLDPDCDTKDIFSEP----------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSANIP00000017113 ENSANIG00000011635	161	None	None	Accipiter_nisus	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALADT-ALR-Q---------------------------C
+MPCGPG-----NRGNCFGPGICCGAEL-GCYLGTAETQRCAEEDYLPSPCQAGGQPCGS-
+--GGRCAAPGICCTA---------------------------------------------
+--ETCAMDASCLDEGSDG--AQE-TA-------EKNLTVL-----------DGSAGDLLL
+KLMHLANRQQ-----QGKHPLL--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSACCP00020000072 ENSACCG00020000048	161	None	None	Aquila_chrysaetos_chrysaetos	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALADT-ALR-Q---------------------------C
+MPCGPG-----NRGNCFGPGICCGAEL-GCYLGTAETQRCAEEDYLPSPCQAGGQPCGS-
+--GGRCAAPGICCTA---------------------------------------------
+--ETCAMDAGCLDEGSDG--AQE-TA-------EKNLTVL-----------DGSAGDLLL
+KLMHLANRQQ-----QGKHPLL--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSAPLP00020007975 ENSAPLG00020005864	163	None	vasotocin-neurophysin	Anas_platyrhynchos	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALADA-ALR-Q---------------------------C
+LPCGPG-----NRGRCFGPGVCCGAEL-GCYLGTAETRRCAEEDFLPSPCQPTGQPCGS-
+--GGRCAANGVCCSA---------------------------------------------
+--DACAVDASCLEEGSER--EEEEEE------AEKNLTVL-----------DGSAGDLLL
+RLMHLAGRQQGKQQPGL-------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSACDP00005004986 ENSACDG00005003658	161	None	None	Anser_cygnoides	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALADT-ALR-Q---------------------------C
+LPCGPG-----NRGRCFGPGICCGAELGGCYVGTAETRRCAEEDYLPSPCQPGGQPCGS-
+--GGRCAADGVCCSA---------------------------------------------
+--DTCAADASCLEEGSER--AE--EA------AEKNLTVL-----------DGSAGDLLL
+RLMQLAGRQ-QGRQPGL-------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSAOWP00000006697 ENSAOWG00000004606	133	None	None	Apteryx_owenii	580B	580	B
+------------------------------------------------------------
+-----------------------MPL-SDA-A---------------------------C
+MPCGPG-----NRGNCFGPSICCGAEL-GCYVGTAETLRCAEENYLPSPCRAGGRPCGA-
+--GGRCAAPGICCTD---------------------------------------------
+--ETCSLEPACPEEEEEEEVAGERGR------VLRNLTAL-----------DASAGDFLL
+KLMHLANRQQQGKAPPLL------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSDNVP00000023227 ENSDNVG00000016133	187	None	neurophysin	Dromaius_novaehollandiae	580B	580	B
+--------------------------------------------MADT--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALADT-AMR-Q---------------------------C
+MPCGPG-----NSGNCFGPSICCGAEL-GCYVGTAETLRCAEENYLPSPCQAGGQPCGA-
+--GGRCAAPGICCTDGKRGREPGPG------------GSG-GSV---GLNNPLCFLPRPA
+PAETCSLEPLCLEEVGE-------RR------APRNLTAL-----------DASXGDLLL
+KLMHLANRQQQGKGL---------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCPUP00000012469 ENSCPUG00000008829	161	None	vasotocin-neurophysin	Calidris_pugnax	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALADT-ALR-Q---------------------------C
+MPCGPG-----NRGNCFGPGICCGSEL-GCYLGTAETRRCAEEDYLPSPCQAGGQPCGS-
+--SGRCAAPGICCTA---------------------------------------------
+--ETCAMDAGCLEEGSDG--AQE-AA-------EKNLTVL-----------DGSAGDLLL
+KLMHLANRQQ-----QGKHPLL--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCJPP00005008493 ENSCJPG00005007573	161	None	vasotocin-neurophysin	Coturnix_japonica	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALGDT-ALR-Q---------------------------C
+LPCGPG-----NRGRCFGPGICCGAEL-GCYLGTAETRRCAEEDYVPSPCQAGGQPCGS-
+--GGRCAANGVCCSA---------------------------------------------
+--DTCAMDAVCLEEGSEQ--AE--EA------AEKNLTVL-----------DGAAGDLLL
+RLMHLANRQQQGKQPGL-------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSGALP00000022811 ENSGALG00000014117	161	AVP	arginine	Gallus_gallus	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALGDT-ALR-Q---------------------------C
+LPCGPG-----NRGRCFGPGICCGAEL-GCYLGTAETRRCAEEDYMPSPCQAGGQPCGS-
+--DGRCAANGVCCSA---------------------------------------------
+--DTCAMDAVCLEEGSEQ--AE--EA------AEKNLTVL-----------DGAAGDLLL
+RLMHLANRQQQGKQPGL-------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMGAP00000013973 ENSMGAG00000013230	161	None	vasotocin-neurophysin	Meleagris_gallopavo	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALGDT-ALR-Q---------------------------C
+LPCGPG-----NRGRCFGPGICCGAEL-GCYLGTAETRRCAEEDYVPSPCQAGGQPCGS-
+--GGRCAANGVCCSA---------------------------------------------
+--DTCAMDAVCLEEGGEQ--AE--EA------VEKNLTVL-----------DGTAGDLLL
+RLMHLANRQQQGKQPGL-------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSNMEP00000004824 ENSNMEG00000005160	161	None	vasotocin-neurophysin	Numida_meleagris	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALGDT-ALR-Q---------------------------C
+LPCGPG-----NRGRCFGPGICCGAEL-GCYLGTAETRRCAEEDYVPSPCQAGGQPCGS-
+--DGRCAANGVCCSA---------------------------------------------
+--DTCAVDAVCLEEGSEQ--AE--EA------AEKNLTVL-----------DGAAGDLLL
+RLMHLANRQQQGKQPGL-------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPSTP00000023880 ENSPSTG00000017612	161	None	None	Pavo_cristatus	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALGDT-ALR-Q---------------------------C
+LPCGPG-----NRGRCFGPGICCGAEL-GCYLGTAETRRCAEEDYVPSPCQAGGQPCGS-
+--GGRCAANGVCCSA---------------------------------------------
+--DTCAMDAVCLEEGSEQ--AE--EA------AEKNLTVL-----------DGAAGDLLL
+RLMHLANRQQQGKQPGL-------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPCLP00000007909 ENSPCLG00000006625	161	None	None	Phasianus_colchicus	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALGDT-ALR-Q---------------------------C
+LPCGPG-----NRGRCFGPGICCSAEL-GCYLGTAETRRCAEEDYVPSPCQAGGQPCGS-
+--GGRCAANGVCCSA---------------------------------------------
+--DTCAMDAVCLEEGSEQ--AE--EA------VEKNLTVL-----------DGTAGDLLL
+RLMHLANRQQQGKQPGL-------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCPVP00000004445 ENSCPVG00000003273	164	None	vasotocin-neurophysin	Camarhynchus_parvulus	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALADT-ALR-Q---------------------------C
+LPCGPG-----NRGSCFGPGICCGTEL-GCYLGTAETRRCAQEDALPSPCQPDGQPCGS-
+--GGRCAAPGICCTA---------------------------------------------
+--ETCTMDSACLDEGGEG--AQE-AA------EEKNLTLL-----------DGSAGDLLL
+KLMHLANRQQQ---QQGKHPLL--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSEGOP00005001946 ENSEGOG00005001585	167	None	None	Erythrura_gouldiae	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALADA-ALR-Q---------------------------C
+MPCGPG-----NRGNCFGPGICCGAEL-GCYLGTAETRRCAEEDYLPSPCRAGGQPCGA-
+--GGRCAAPGICCTA---------------------------------------------
+--ETCAMDTGCLDEGSDG--AQE-AA------EEKNLTVL-----------DGSAGDLLL
+KLMHLANRQQQQQQQQGKHPLL--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSFALP00000000226 ENSFALG00000000220	128	None	None	Ficedula_albicollis	580B	580	B
+------------------------------------------------------------
+------------------------GS-SFP-Q---------------------------C
+LPCGPG-----NTGSCFGPGICCGPEL-GCYLGTAEARRCAEEDALPSPCQAGGEPCGS-
+--GGRCAANGICCTA---------------------------------------------
+--ESCSTDSSCLDEGSEG--ARE-AA------DEKSLAVL-----------DGSAGDLLL
+KLMHLANRQQQGKHPLL-------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSJHYP00000005563 ENSJHYG00000004535	167	None	None	Junco_hyemalis	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALGDT-AVR-Q---------------------------C
+LPCGPG-----NRGSCFGPGICCGAEL-GCYLGTAETRRCAQEDALPSPCQPEGQPCGS-
+--GGRCAAPGICCSA---------------------------------------------
+--ETCTMDSACLDEGAEG--AQE-AA------DEKNLTLL-----------DGSAGDLLL
+KLMHLANRQQQQQQQQGKHALL--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSLSDP00000002009 ENSLSDG00000001593	164	None	vasotocin-neurophysin	Lonchura_striata_domestica	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALPDA-ALR-Q---------------------------C
+MPCGPG-----NRGNCFGPGICCGAEL-GCYLGTAETRRCAEEDFLPSPCQAGGQPCGA-
+--GGRCAAPGICCSA---------------------------------------------
+--ETCAMDSACLDQGSDG--AQE-AA------EEKNLTVL-----------DGSAGDLLL
+KLMHLANRQQQ---QQGKHPLL--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPMJP00000025307 ENSPMJG00000018543	163	None	vasotocin-neurophysin	Parus_major	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALADT-ALR-Q---------------------------C
+MPCGPG-----NRGNCFGPGICCGAEL-GCYLGTAETRRCSEEDYLPSPCQAGGQPCGA-
+--GGRCAAPGICCTP---------------------------------------------
+--ETCSMDTACLDEGSDG--AQE-AA------EEKNLTVL-----------DGSAGDLLL
+KLMHLANRQQ----QQGKHPLL--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSTGUP00000034501 ENSTGUG00000029561	162	None	vasotocin-neurophysin	Taeniopygia_guttata	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALADA-ALR-Q---------------------------C
+MPCGPG-----NRGNCFGPGICCGSEL-GCYLGTAETRRCAEEDFLPSPCQAGGQPCGA-
+--GGRCAAPGICCSA---------------------------------------------
+--ETCAMDSACLDQGSDG--AQE-AA------EEKNLTVL-----------DGSAGDLLL
+KLMHLANRQQ-----QGKHPLL--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSACOP00000009964 ENSACOG00000006934	161	None	None	Amazona_collaria	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALSDT-ALR-Q---------------------------C
+MPCGPG-----NRGNCFGPGICCGAEL-GCYLGTAETRRCAEEDYLPSPCRAGGQPCGN-
+--GGRCAAPGICCTP---------------------------------------------
+--ETCAMDTACLDEGSDG--AQE-AA-------EKNLTVL-----------DGSAGDLLL
+KLMHLANRQQ-----QGKHPSL--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSSHBP00005024460 ENSSHBG00005020379	161	None	vasotocin-neurophysin	Strigops_habroptila	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALSDT-ALR-Q---------------------------C
+LPCGPG-----NRGNCFGPGICCGAEL-GCYLGTAETRRCAEEDYVPSPCRAGGQPCGN-
+--GGRCAAPGICCTP---------------------------------------------
+--ETCAMDTACLDESSDG--AQE-AA-------EKNLTVL-----------DGSAGDLLL
+KLMHLANRQQ-----QGKHPTL--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSACUP00000021896 ENSACUG00000014626	164	None	vasotocin-neurophysin	Athene_cunicularia	580B	580	B
+--------------------------------------------MAEP--SLPLSFLCLL
+A----LSSACYIQNCPRGGKRALADT-ALR-Q---------------------------C
+MPCGPG-----NRGNCFGPGICCGAEL-GCYLGTAETQRCAEEDYLPSPCQAGGQPCGS-
+--GGRCAAPGICCTP---------------------------------------------
+--ETCAMDAGCLAEGGDG--AQE-TA-------EKNLTVL-----------DGSAGDLLL
+KLMHLANRQQQQ--QQGKHPLL--------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSNPEP00000009297 ENSNPEG00000006988	144	None	vasotocin-neurophysin	Nothoprocta_perdicaria	580B	580	B
+------------------------------------------------------------
+-----ME---DGGGVGPGARAPITHP-RPP-Q---------------------------C
+MSCGPG-----NRGNCFGPSICCGAEL-GCYVGTAETRRCAEETYVPSPCWAGGRPCGA-
+--DGRCAAPGICCSD---------------------------------------------
+--ESCGLEPACLEEEAAG---TEQDA------LGANGTAL-----------DASAGELLL
+KLMRLASRRQPGAAAPL-------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------

@@ -1,0 +1,366 @@
+>ENSACLP00000005629 ENSACLG00000003798	128	None	C-C motif chemokine	Astatotilapia_calliptera	9A	9	A
+------------------------------------------------------------
+--------------------------------------------MAPRGTITLTALLLCF
+ILGILCPA-P---AECA---RASCCTSYSKTPVSFNRIKGYREQRNWENCRIEAIIFYTV
+ANRQMCANPKAEWVKKLLEQLSAKL---KNMSKGGSV-------------KKTGNTSGRD
+GSGSDLTATEAFTAY-------------------------
+>ENSHBUP00000033480 ENSHBUG00000020431	128	None	C-C motif chemokine	Haplochromis_burtoni	9A	9	A
+------------------------------------------------------------
+--------------------------------------------MAPRGTITLTALLLCF
+ILGILCPA-P---AECA---RTACCTSYSKTPVSFNRIKGYREQRNWENCRIEAIIFYTV
+ANRQLCANPKAEWVKKLLEQLSAKL---KNMSKGGSV-------------KKTGNASGRD
+GSGSDLTATEAFTAY-------------------------
+>ENSHHUP00000071641 ENSHHUG00000042088	105	None	None	Hucho_hucho	9A	9	A
+------------------------------------------------------------
+--------------------------------------------MAQIR-ASVIVLLVLL
+AVGLFTTEAS---AAKQARRRRGCCQSYTGGEIPCGVIVGYTLQPMTEICRIPAIIFHTK
+KGKDLCADPSQSWVIQHVNRLGDKA---VHIRKSQS------------------------
+----------------------------------------
+>ENSMALP00000031587 ENSMALG00000021794	111	None	C-C motif chemokine	Monopterus_albus	9A	9	A
+------------------------------------------------------------
+-------------------------------------------------MITFTAALLCF
+TVGPLSPA-P---AALGSRMGKSCCTSYNRKPVPFQVIKGYREQTTRENCRMEAIIFYTA
+KKNEICATRRDEWVRKTLELLSSKL---KKMSKVRSDAA------RACP-GRC-------
+-----L----------------------------------
+>ENSAMEP00000000282 ENSAMEG00000000271	112	None	cytokine SCM-1	Ailuropoda_melanoleuca	9A	9	A
+------------------------------------------------------------
+-----------------------------------------------------MRPLLLA
+LLGICFLTEFIVEGVGSEVLERSICVSLTTKRLPVKNIKTYTIKEG----SMKAVIFITR
+RGLKVCADPQADWVKKAVESVDK--STRRNTKQTQPTGAQHSTNTAVTLTT---------
+----------------------------------------
+>ENSCAFP00000036196 ENSCAFG00000029542	213	None	None	Canis_lupus_familiaris	9A	9	A
+-------MKSFAHLESENTTSHFMKPDNNIKGALCEFLFPSWRASLVISGRTPWNPGTFC
+PCTVEHDNQLCVPEQES-HVGPWRRATDAVSI----AVEAGMWRAALLSRTSTMRSLLLA
+LFGICFLTEFIVEGVGSEVLERSICMSLTTKRLPVKSIKTYTIKEG----SMRAVIFITR
+RGFKFCADPQADWVKKAVESVDK--STRRNMKQTKPTGAQLSTNTAVTLTT---------
+----------------------------------------
+>ENSFCAP00000021151 ENSFCAG00000029190	158	None	cytokine SCM-1	Felis_catus	9A	9	A
+----------------------------------------MALALGALQSREAWDSRK--
+----------C--------AHHWRN-------KEALESGRIFTLPAQLRRTSAMRPLVLA
+LLAICFLTEFMAEGVGSEVLERSICVSLTTKKLPVKNIKTYTIKEG----SMKAVIFITR
+RGLKVCADPQAEWVKKAVENVDK--STRRNMKQTKPTGAQHLTNSAVTLTT---------
+----------------------------------------
+>ENSLCNP00005034557 ENSLCNG00005022454	112	None	X-C motif chemokine ligand	Lynx_canadensis	9A	9	A
+------------------------------------------------------------
+-----------------------------------------------------MRPLVLA
+LLAICFLTEFMAEGVGSEVLERSICVSLMTKKLPVKNIKTYTIKEG----SMKAVIFITR
+RGLKVCADPQAEWVKKAVENVDK--STRRNMKQTQPTGAQHFTNSAVTLTT---------
+----------------------------------------
+>ENSUMAP00000023872 ENSUMAG00000017370	112	None	cytokine SCM-1	Ursus_maritimus	9A	9	A
+------------------------------------------------------------
+-----------------------------------------------------MRPLLLA
+LLGICFLTEFIVEGVGSEVLERSICVSLTTKRLPVKNIKTYTIKEG----SMKAVIFITR
+RGLKVCADPQADWVKKAVESVDK--STRRNVKQTQPTGAQHSTNTAVTLTT---------
+----------------------------------------
+>ENSVVUP00000036678 ENSVVUG00000026258	144	None	cytokine SCM-1	Vulpes_vulpes	9A	9	A
+------------------------------------------------------------
+---------------------MWGSALTTGVIKRLLRAAVPHSLPEQLSRTSTMRSLLLA
+LFGICFLTEFIVEGVGSEVLERSICMSLTTKRLPVKNIKTYTIKEG----SMRAVIFITR
+RGFKFCADPQADWVKKAVESVDK--STRRNMKQAKPTGAQLSTNTAVTLTT---------
+----------------------------------------
+>ENSSHAP00000022388 ENSSHAG00000018950	117	None	cytokine SCM-1	Sarcophilus_harrisii	9A	9	A
+------------------------------------------------------------
+------------------------------------------------------MKLLLA
+FFCFCGFTLFTVEGVGSEIMKRSFCVSLSSKPLPVHSVKSYTIEEG----PMKAVIFVTR
+RGFKICADPEVNWAKTVIRSVDGR-LKRKNMIQTKPTGSQPPTGRTMTMSGKPSLM----
+----------------------------------------
+>ENSMODP00000003571 ENSMODG00000002933	120	None	cytokine SCM-1	Monodelphis_domestica	9A	9	A
+------------------------------------------------------------
+-----------------------------------------------------MKLFLLA
+FLCFCGLIAYTVEGVGSEVMKRRFCVSLTSKRIPVNSVKSYIIEEG----SMRAVIFVTR
+KGIKICADPEVSWAKGVIRAVDSR-TTKRNLTQTKPT-SQPSTDRIMSISGKPTSRSVA-
+----------------------------------------
+>ENSPCIP00000041855 ENSPCIG00000030540	118	None	None	Phascolarctos_cinereus	9A	9	A
+------------------------------------------------------------
+-----------------------------------------------------MKLLLLV
+LFCFCGFTLFTVEGVGSEVMKRSFCVSLTSKPLPVNSVKSYLIEEG----PMRAVIFVTR
+RGIKICADPEVNWARGIIRAVDSR-HKRRNMIQTKLMGSQPPTDRTMTISGKPSSP----
+----------------------------------------
+>ENSVURP00010005117 ENSVURG00010004027	118	None	None	Vombatus_ursinus	9A	9	A
+------------------------------------------------------------
+-----------------------------------------------------MKLLLSI
+LFCFCGFTLFTVEGVGSEVMKRSFCVSLTSKPLPVYSVKSYLIEEG----PMRAVIFVTR
+RGIKICADPDINWARGIIRAVDSR-HKRRNMIQTKPTGSQLPTDRTMTMSGKPSST----
+----------------------------------------
+>ENSP00000356793 ENSG00000143185	114	XCL2	X-C motif chemokine ligand	Homo_sapiens	9A	9	A
+------------------------------------------------------------
+-----------------------------------------------------MRLLILA
+LLGICSLTAYIVEGVGSEVSHRRTCVSLTTQRLPVSRIKTYTITEG----SLRAVIFITK
+RGLKVCADPQATWVRDVVRSMDRKSNTRNNMIQTKPTGTQQSTNTAVTLTG---------
+----------------------------------------
+>ENSLAFP00000014907 ENSLAFG00000017780	114	None	None	Loxodonta_africana	9A	9	A
+------------------------------------------------------------
+-----------------------------------------------------MRLLILA
+ILAICCLGAYIVEGVGSEVPDRSVCVSLHTRPLPVQKIKSYTIKEG----SMKAVIFITK
+RGLKICADPQAKWVKSAVRSMDKKSTTRRNMVQTEPTGAQQSTNTAVTLTG---------
+----------------------------------------
+>ENSCPOP00000023063 ENSCPOG00000032648	114	None	None	Cavia_porcellus	9A	9	A
+------------------------------------------------------------
+-----------------------------------------------------MRLLLLA
+ILGACCLAACTVEGVGSEVPESSVCMSLRVHPLPLNRIKTYTIKEG----PMRAVIFITK
+RELKVCAHPEATWVKKALKSIHSKSSTRRNVTQIHPTGAQQSTYTTVTLPQ---------
+----------------------------------------
+>ENSMUSP00000027860 ENSMUSG00000026573	114	Xcl1	chemokine (C motif) ligand	Mus_musculus	9A	9	A
+------------------------------------------------------------
+-----------------------------------------------------MRLLLLT
+FLGVCCLTPWVVEGVGTEVLEESSCVNLQTQRLPVQKIKTYIIWEG----AMRAVIFVTK
+RGLKICADPEAKWVKAAIKTVDGRASTRKNMAETVPTGAQRSTSTAITLTG---------
+----------------------------------------
+>ENSPEMP00000021979 ENSPEMG00000019474	113	Xcl1	chemokine (C motif) ligand	Peromyscus_maniculatus_bairdii	9A	9	A
+------------------------------------------------------------
+-----------------------------------------------------MRLLLLT
+FLGVCCLTTYTVEGVGTEVLEETFCVSLTTQPLPVQRIKTYTIREG----ILKAVIFVTK
+RGVKICADPHAKWVKAAIKTVDRRIRTKKNMT-EAPTRVQRSTSPAMALSG---------
+----------------------------------------
+>ENSORLP00000029869 ENSORLG00000028943	134	None	C-C motif chemokine	Oryzias_latipes	9B	9	B
+------------------------------------------------------------
+--------------------------------------------MAIRGI--AAASLLCF
+LLGMLCPA-P---ADSA-RSNLSCCTAYNKMQLPFQRIRGYREQTS-NYCHIEAIIFYTI
+NNRQFCANAKETWVKHSLELLSTKL---KRMSKILPGPE------KAVM-EKPKNPELSK
+T---LEVIPETFHNKTESV---------------------
+>ENSNBRP00000027682 ENSNBRG00000021118	128	None	c-C motif chemokine	Neolamprologus_brichardi	9B	9	B
+------------------------------------------------------------
+--------------------------------------------MAPRGTITLTALLLCF
+ILGILCPA-P---AECA---RTACCTSYSKTPVSFNRIKGYREQRNWENCRIEAIIFYTV
+ANRQMCANPKAEWVKKVLEQLSAKL---KNMSKGGSV-------------KKTGNASGRD
+GSGSDLTATEAFTAY-------------------------
+>ENSONIP00000033519 ENSONIG00000027385	131	None	C-C motif chemokine	Oreochromis_niloticus	9B	9	B
+------------------------------------------------------------
+--------------------------------------------MALRGTITLTALLLCF
+ILGILSPA-P---AECA---RTACCTSYSKTQVSINRVKGYREQTGYEYCRIEAIIFYTV
+ANRQVCADPKAHWVKKLLEQLSAKL---KNMSKGGSVGG------KTSV-KKTGNASGRD
+GSGSAT---EAFTAY-------------------------
+>ENSPNYP00000006642 ENSPNYG00000005133	128	None	C-C motif chemokine	Pundamilia_nyererei	9B	9	B
+------------------------------------------------------------
+--------------------------------------------MAPRGTITLTALLLCF
+ILGILCPA-P---AECA---RTSCCTSYSKTPVSFNRIKGYREQRNWENCRIEAIIFYTV
+ANRQMCANPKAEWVKKLLEQLSAKL---KNMSKGGSV-------------KKTGNASGRD
+GSGSDLTATEAFTAY-------------------------
+>ENSDARP00000096549 ENSDARG00000071499	159	cxcl32b	chemokine (C-X-C motif) ligand 32b, duplicate	Danio_rerio	9B	9	B
+------------------------------------------------------------
+-------------------------------------------------MRSALITLLCL
+AVMLLVQES----YQVS-SSSNCPCLKLSDGVLRKANIKSYIRQRA-GVCHIDAIVFTTV
+RGITFCADPKLTWVIDAMKFLDKKK---AASEPKTTTQPINSTFNATSMPNTTANLNTTN
+TT-SDLNT--TNTNTTSHLNTTNTNTKAQTKRLFTTIQPC
+>ENSSFOP00015016808 ENSSFOG00015010836	102	None	C-C motif chemokine	Scleropages_formosus	9B	9	B
+------------------------------------------------------------
+--------------------------------------------MAQFS-LTAASVLLLL
+SVALLCTN-----------AAAACCSRYVENEISIARINGYSIQTNRGRCHINAVIFHTI
+KGKDLCADPAQPWVMNRIKFLREKV---KSMKGSNTTSQ------AN-------------
+----------------------------------------
+>ENSBBBP00000022613 ENSBBBG00000016601	106	None	None	Bison_bison_bison	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MKLLILT
+CLVICSLAAYTVEGVGTEVLEKSICVSLTTQQLPIKNIKTYTIKEG----SVKAVIFITR
+RGFKICADPQAAWVKKAVQ--------DRNISQAKPTGAQQSTNTTVTLTG---------
+----------------------------------------
+>ENSBTAP00000013116 ENSBTAG00000009943	112	None	chemokine (C motif) ligand	Bos_taurus	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MKLLILT
+CLVICSLAAYTVEGVGSEVLEKSICVSLTTQRLPIKNIKTYTIKEG----SMKAVIFITR
+RGLKVCADPHVDWVKKAVRTIDR--STRRNVSQSKPTQAQQSPNTAVTLTG---------
+----------------------------------------
+>ENSCDRP00005011616 ENSCDRG00005008249	113	None	X-C motif chemokine ligand	Camelus_dromedarius	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLILV
+FLGLCCLAAYTVEGVGSEVLEKTICVSLTTRRLPVKNIKTYTIKEG----SMKAVIFFTK
+RGLKVCADPHVEWVKKAVHTIDK--STRRNVNQTKPTGAQQSTNTAVTVTGQ--------
+----------------------------------------
+>ENSCHIP00000017019 ENSCHIG00000017060	112	None		Capra_hircus	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MKLLILT
+CLVICSLAAYTVEGVGSEVLEKSICVSLTTQRLPVKNIKTYTIKEG----SMKAVIFITR
+RGLKVCADPHVEWVKKAVRTIDK--STRRNVSQSKPTEAQQSPKTAVTLTG---------
+----------------------------------------
+>ENSCWAP00000011664 ENSCWAG00000009125	112	None	None	Catagonus_wagneri	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLILA
+LLAICCLTAYTVEAVGSEVLEKTICVSLTTRRLPIKNIKTYTIKEG----SMKAVIFITR
+RGLKICADPHVEWVKKAVQTIDK--SSKRNVNQAKPTGAQQSTNTAVTLTG---------
+----------------------------------------
+>ENSMMSP00000005543 ENSMMSG00000004145	112	None	None	Moschus_moschiferus	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLILT
+CLVICSLAAYTVEGVGSEVLEKSICVSLTAQRLPIKNIKTYTIKEG----SMKAVIFITR
+RGLKVCADPHVDWVKKAVRTIDK--STRRNVSQTKPTEAQQSPNRAVTLIG---------
+----------------------------------------
+>ENSOARP00000009767 ENSOARG00000009100	112	None	None	Ovis_aries	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MKLLILT
+CLVICSLAAYTVEGVGTEVLEKSICVSLTTRQLPVKNIKTYTIKEG----SMKAVIFITR
+RGLKVCADPHVEWVKKAVQTIDK--STRRNVSQSKPTEAQQSPKTAVTLTG---------
+----------------------------------------
+>ENSPCTP00005004869 ENSPCTG00005003450	112	None	None	Physeter_catodon	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLFILA
+FLGICCLAAYTVEGVGSEVLEKSICVSLTTQRLPIKNIKTYTIKEG----SMKAVIFITR
+RGLKVCADPQVEWVKKAVRTIDK--STRRNVSQTKPTGAQQSSSTTVTLTG---------
+----------------------------------------
+>ENSSSCP00000006715 ENSSSCG00000006298	110	XCL1	chemokine (C motif) ligand	Sus_scrofa	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLILA
+FLVICCLTAYTVEAVGSEVLEKSICVSLTTRRLPVKNIKTYTIKEG----SMKAVIFITR
+RGLKVCADPHVEWVKKAVQTIDK--SNRG--NQAKPTGAQQTTNTAVTLTG---------
+----------------------------------------
+>ENSTTRP00000016606 ENSTTRG00000021400	110	None	None	Tursiops_truncatus	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLILA
+FLGICCLAAYTVEGVGSEVLEKTICVSLTTQQLPIKKIKTYTIKEG----PMKAVIFITR
+RGLKVCADPQVEWVKKAVN--NK--VTRRNVSQTKPTGAQQSSSTAVTLSG---------
+----------------------------------------
+>ENSMPUP00000000511 ENSMPUG00000000517	112	None	None	Mustela_putorius_furo	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRPLLLA
+LLGVCLLSDFLVEGVGSEVLEKSFCVSLTTKRLPIKNIKTYTIKEG----PMRAVIFITR
+RGFKICADPQADWVRKAIEGVDK--STRRNVKQTKPTGAQYSTNTAVTPTA---------
+----------------------------------------
+>ENSNVIP00000031819 ENSNVIG00000024486	112	XCL1	None	Neovison_vison	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRPLLLA
+LLGVCLLSDFLVEGVGSEVLEKSFCVSLTTKRLPIKNIKTYTIKEG----PMRAVIFITR
+RGFKICADPQADWVKKAIEGVDK--STRRNVKQTKPTGAQYSTNTAVTLTA---------
+----------------------------------------
+>ENSSSUP00005005582 ENSSSUG00005003642	112	None	None	Suricata_suricatta	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRPLFLA
+LLGICVLAEFMVEGVGSEVLDKSKCLSLMTKKLPIKNIKTYTIREG----SMRAVIFITR
+RGLKVCVDPQAEWVKKAVESVDK--STRKNMKQTTPTGAQHFTNSAVTLTT---------
+----------------------------------------
+>ENSMLUP00000010881 ENSMLUG00000011950	112	None	None	Myotis_lucifugus	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MKPLLLA
+LLGVCCLVARDVEGVGSEILDQRICVSMTTRRLPVSRIKTYTIKEG----PMKAVIFITK
+RGLKLCADPQIDWVKKAVETMDK--SKRINMNQTKPTGAQQPTSTGVPQAR---------
+----------------------------------------
+>ENSDNOP00000029249 ENSDNOG00000042103	114	None		Dasypus_novemcinctus	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLILA
+FLGICCLTAYNVEGVGSEVPEKAICISLTTRPLPVHKIKRYIIKEG----AMKAVIFFTR
+RGLRICADPEANWVKAAVKSVDSKSLLRRNTIEIKPTGAQQSTNTAVSLTG---------
+----------------------------------------
+>ENSOPRP00000005785 ENSOPRG00000006314	114	None	None	Ochotona_princeps	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRPLLLA
+LLGICCLATSMVEGVGSEVPEKSICVSLTTQPLPVNRIRTYTIKEG----PMKAVIFVTR
+RGLKICADPKANWVTAAINTVDGRSNTRRRTAQTKPTATQQTTKTAVTMTA---------
+----------------------------------------
+>ENSOCUP00000011149 ENSOCUG00000012952	114	None	None	Oryctolagus_cuniculus	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRRLLLV
+LLCICCLTTSIVEGVGSEVPDKSICVSLTTQPLPVNRIRTYTIKEG----PMKAVIFITK
+RGLKVCADPQAKWVKTAIKSISNKPSTRRSTTQTQPTGTQQSTRRAVTLTA---------
+----------------------------------------
+>ENSECAP00000046436 ENSECAG00000013872	206	None	X-C motif chemokine ligand	Equus_caballus	9B	9	B
+MRQPHFFMHTFGFIDTLTTG-------EGERATRCGVST--------SGGKGTFFQRKKA
+PVLQRL---SVIPHPPRKPPLTTGSALTIRGIKEAREQ-HSSFSACTAHRTSAMRPLLLA
+LLGICCLTAQVVEGVGSEVLEKSICVSLTTRRLPVKNIKTYTIKEG----SMRAIIFITK
+RGLKVCADPQVEWVKKAVESVDK--TTRRRVIQTQPTGPQQTTKTATTLTT---------
+----------------------------------------
+>ENSCJAP00000063867 ENSCJAG00000045342	114	None	X-C motif chemokine ligand	Callithrix_jacchus	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLRILV
+LLGICFLTAYIVEGIGSEVSDKSVCVSLTTQRLPVNRIKTYTIKEG----SLKAVIFITK
+RGLKVCADSQAKWVNDMVKSLDRKSKTTNNMTQTKPTGTQQSTNTAVTMTA---------
+----------------------------------------
+>ENSCATP00000037982 ENSCATG00000041701	114	None		Cercocebus_atys	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLTLA
+LLGICCLTAYIVEGVGSEVSDKSTCVSLTTQRLPVNRIKTYTIKEG----SLKAVIFITK
+RGLKVCADPQARWVKDVVKSMDRKSNTRNNMIQTKPTGTQQSTNTAVTLTG---------
+----------------------------------------
+>ENSCSAP00000007274 ENSCSAG00000011060	114	None		Chlorocebus_sabaeus	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLNVA
+LLGICCLTAYIVEGVGSEVSDKSTCVSLTTQRLPVNRIKTYTIKEG----SLKAVIFITK
+RGIKVCADPQARWVKDVVKSMDRKSNTRNNMIQTKPTGTQQSTNTAVTLTG---------
+----------------------------------------
+>ENSGGOP00000038150 ENSGGOG00000037002	102	None	None	Gorilla_gorilla	9B	9	B
+------------------------------------------------------------
+------------------------------------------------------------
+-----LSVFFSSPGVGSEVSDKRTCVSLTTQRLPVSRIKTYTITEG----SLRAVIFITK
+RGLKVCADPQATWVRDVVRSMDRKSSARNNMIQTKPTGTQQSTNTAVTLTG---------
+----------------------------------------
+>ENSP00000356792 ENSG00000143184	114	XCL1	X-C motif chemokine ligand	Homo_sapiens	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLILA
+LLGICSLTAYIVEGVGSEVSDKRTCVSLTTQRLPVSRIKTYTITEG----SLRAVIFITK
+RGLKVCADPQATWVRDVVRSMDRKSNTRNNMIQTKPTGTQQSTNTAVTLTG---------
+----------------------------------------
+>ENSMMUP00000074521 ENSMMUG00000013779	114	None		Macaca_mulatta	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLTLA
+LLGICCLTAYIVEGVGSEVSDKSTCVSLTTQRLPVNRIKTYTIKEG----SLKAVIFITK
+RGLKVCADPQARWVKDVVKSMDRKSNTRNNMIQTKPTGTQQSTNTAVTLTG---------
+----------------------------------------
+>ENSMICP00000040622 ENSMICG00000042806	114	None	X-C motif chemokine ligand	Microcebus_murinus	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLILA
+CLAVCCLTVHVVEGVGSEVPDKSICVSLTTQRLPVNRIKTYTIKEG----SMKAVIFITK
+RGLKVCADPQAKWVKAAVKSVDSKSQTKSNLLQTKPTGTQHSTNTDVTLTG---------
+----------------------------------------
+>ENSPANP00000045872 ENSPANG00000035235	114	None		Papio_anubis	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLTLA
+LLGICCLTAYIVEGVGSEVSDKSTCVSLTTQRLPVNRIKTYTIKEG----SLKAVIFITK
+RGLKVCADPQARWVKDVVKSMDRKSNTRNNMIQTKPTGTQQSTNTAVTLTG---------
+----------------------------------------
+>ENSPPYP00000000628 ENSPPYG00000000538	114	None	None	Pongo_abelii	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLILA
+LLGICCLTAYIVEGVGSEVSDKRTCVSLTTQRLPVSRIKTYTITEG----SLRAVIFITK
+RGLKVCADPQARWVKDVVRSMDKKSNTRNNMIQTKPTGTQQSTNTAVTLTG---------
+----------------------------------------
+>ENSTGEP00000036819 ENSTGEG00000029328	114	None	None	Theropithecus_gelada	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLTLA
+LLGICCLTAYIVEGVGSEVSDKSTCVSLTTQRLPVNRIKTYTIKEG----SLKAVIFITK
+RGLKVCADPQARWVKDVVKSMDRKSNTRNNTIQTKPTGTQQSTNTAVTLTG---------
+----------------------------------------
+>ENSCCNP00000013686 ENSCCNG00000014180	113	Xcl1		Castor_canadensis	9B	9	B
+------------------------------------------------------------
+------------------------------------------------------MRLLLT
+FLAICCLTSCIVEGVGNEVPEKSICVSLTTQRLPVNRIKTYTIKEG----SMKAVIFITR
+RGLKVCADPQANWVKAAVKSVDFRSTTRKNMIQTNPTGAQQATNPTMTLSG---------
+----------------------------------------
+>ENSCLAP00000008428 ENSCLAG00000005901	113	None	X-C motif chemokine ligand	Chinchilla_lanigera	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLLLA
+VLGACCLATCTVKAVGSEIPESSICVSLTTQRLPVSRIKTYTIKEG----SVRAVIFITK
+RGLKICADPDARWVKSAVKSIKSKSNTRRSMIQTNPTGAQPSTHTAVTKS----------
+----------------------------------------
+>ENSSTOP00000013069 ENSSTOG00000014588	113	None		Ictidomys_tridecemlineatus	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLLLA
+LLGICCLSACTVYGVGSEVPEKSVCVSLSTQRLPINRIRTYTIKEG----SVKAVIFITR
+RGLKVCANPEAEWVKSAVKSVDSRSTTKRSKLQSSPPTVQPTTTS-GTLSR---------
+----------------------------------------
+>ENSMUGP00000018028 ENSMUGG00000015301	114	Xcl1		Meriones_unguiculatus	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLLLT
+FLGVCCLSICIVEGVGTEVLEKTTCVTFKTRPLPLQKIKTYTIKEG----MMKAIIFITK
+KGLKFCADPKAKWVQEAVISIDGRSSVKKSMAKTVPTRVQRSTSTAMFLSG---------
+----------------------------------------
+>ENSMAUP00000001916 ENSMAUG00000001442	114	Xcl1	X-C motif chemokine ligand	Mesocricetus_auratus	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLLLT
+FLGACCLTTWTVEGVGTEVLEESFCVSLTAQQLPVQKIKTYTIREG----ILKAVIFVTR
+RGLKICADPHAKWVKAAIKTVDRRSRARKNVIETSPTRVQRSTSTAVTLTG---------
+----------------------------------------
+>ENSODEP00000001975 ENSODEG00000001554	113	None		Octodon_degus	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLFLA
+ILGACCLTACIVAGVGNEVPESSICVSLTTQRLPVSRIRTYTIKEG----PVRAVIFITR
+RGLKVCADPEDKWVKAAVKSIDRKSNTRRDRIELSPTRTQQSTQTAVSLS----------
+----------------------------------------
+>ENSRNOP00000003976 ENSRNOG00000002964	114	Xcl1	X-C motif chemokine ligand	Rattus_norvegicus	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRLLLLT
+FLGVCCFAAWVVEGVGTEVLQESICVSLRTQRLPVQKIKTYTIKEG----AMRAVIFVTK
+RGLRICADPQAKWVKTAIKTVDGRSSASKSKAETIPTQAQRSASTAIALSG---------
+----------------------------------------
+>ENSTBEP00000012225 ENSTBEG00000014125	109	None	None	Tupaia_belangeri	9B	9	B
+------------------------------------------------------------
+-----------------------------------------------------MRPLILA
+LLGVCCLATSLVEGVGNEVPEKSICVSLTTKRLPVNRIKTYTIREG----SMRAVIFITR
+RGLKICADPEAGWVQTAVKILNSTSK-----APTKPTGTQSSTSMSGTLTG---------
+----------------------------------------

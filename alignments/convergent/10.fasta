@@ -1,0 +1,930 @@
+>ENSCDRP00005004022 ENSCDRG00005002822	215	None	None	Camelus_dromedarius	10A	10	A
+------------------------------------------------------------
+----MTRRH----------SVRLLFLISL-ALE--MIHVGNSYQ----------------
+---------------------REKYKRSREEINNAPAQKLQQKTLN--WTLNNFREMNES
+ADGWRPRGAFPH-----SPALQE-----------RAPPR-PRCCRTGGTCMLG-------
+--------------------S-S----------ACPRPLHRSECGALVHGAWTFRGCRLC
+RCVFAALHCLPRQT-PG------RCGKRTRV--------LG-SQSTH-------------
+-ACICFFIIWI-------H-RNLP-------VTPCGRT-------GTG--LRRQALLFKA
+TASVPPG---KEGALYPRLRPA-----A--------------------------------
+------
+>ENSSSCP00000017368 ENSSSCG00000016393	210	None	cripto, FRL-1, cryptic family	Sus_scrofa	10A	10	A
+------------------------------------------------------------
+-------------------------MISL-ALQ--IIDLGNSYQ----------------
+---------------------REKYQDSREEINNATAQ-LQQKTLN--WTLNNFREEHDR
+TQGWRPQGSFPY-----SWAFQE-----------RAPPR-PRCCKNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDLRHSECGAVMHGAWTFRGCRLC
+RCVFATLHCLPRQT-TG------RCDLKDFL--------AS-HSSGPSTRCTWSVL---L
+-FLPCVLLKSILSEGAP---DFSK-------WVREA------------ALCGEPGFVLPL
+ALSML-------------------------------------------------------
+------
+>ENSVPAP00000006279 ENSVPAG00000006761	157	None	None	Vicugna_pacos	10A	10	A
+------------------------------------------------------------
+----MTRRH----------SVRLLFLISL-ALE--MIHVGNSYQ----------------
+---------------------REKYKRSREEINHAPAQKLQQKTLN--WTLNNFREMNDS
+ADGWRPRGAFPH-----SPALQE-----------RAPPR-PRCCRNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRHSECGALVHGAWTFRGCRLC
+RCVFAALHCLPRQT-PG------RC-----------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCAFP00000041550 ENSCAFG00000024065	195	None	cripto, FRL-1, cryptic family	Canis_lupus_familiaris	10A	10	A
+------------------------------------------------------------
+----MTWSY----------PVRLLFFVSL-ALW--NIHLGNN------------------
+--------------------------SHREEINNATTQKLQQKTLN--WTLNNLGEVNGN
+GDGWRPQDTRPY-----FHAFQD-----------LGASSPPRCCRNGGTCVLG-------
+--------------------S-FCVCPDPFTGRYCEHDQRHSECGALMHGAWTFRGCRLC
+RCVFAALHCLPRQT-PG------SCDLEDLL--------AA-RSDGLSAQLSSQRMLSVL
+FLLPCLLLQTILSEG-----------------GDC-------------------------
+------------------------------------------------------------
+------
+>ENSFCAP00000041390 ENSFCAG00000046547	232	None	None	Felis_catus	10A	10	A
+------------------------------------------------------------
+--ISSTWETTVRSILFIVSYFLLPICFLI-IISLIFSVFLKGYQ----------------
+---------------------REKHKGNREEINNATVQKLLQKTLN--WTLNNFGEVNAS
+ANGWRENPTC----------DSP-----------TGEPQLLRCCSNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRHSECGTVKHGAWTFLGCRLC
+RCVFAALHCLPRQT-PG------SCGKSTRL--------LL-AQSTHAGGCSFVP-----
+-IYPQRSS-CA-------R-RHRN-------DA-----PRERRCSGLPHI-LKASVVWRT
+H-GV-------NAHL---------------------------------------------
+------
+>ENSLCNP00005020869 ENSLCNG00005013615	242	None	None	Lynx_canadensis	10A	10	A
+------------------------------------------------------------
+--ISSTWETTVRSVLFIVSYFLLPICFLI-IISLIFSVFLKGYQ----------------
+---------------------REKHKGNREEINNATVQKLLQKTLN--WTLNNFGEVNAS
+ANGWRENPTSQRQAEADSQATPP-----------TGEPQLLHCCSNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRHSECGSVKHGAWTFLGCRLC
+RCVFAALHCLPRQT-PG------SCGKSTRL--------LL-AQSTHAGGCSFVP-----
+-IYPQRSS-CA-------R-RHRN-------DA-----PRERRCSGLPHI-LKASMVWRT
+H-GV-------NAHL---------------------------------------------
+------
+>ENSNVIP00000022421 ENSNVIG00000017482	208	None	None	Neovison_vison	10A	10	A
+------------------------------------------------------------
+LALHIIHLGDNSKKHFIYSLFLLYIYFLI-IISLTFSMFLKDYQ----------------
+---------------------KEKHKGKREEIKNATAQKLQQETLN--WILNNLGEGNGS
+MDGWRPQDSSLP---------PT-----------GVSPR-LSCCRNGGTCVLG-------
+--------------------S-FCICPAHFTGRYCEHDQRHSECGALMHGAWTFHSCRLC
+RCVFAVLHCLPQQT-PD------SCGKFSAQ--------QG--------ACF-PLF---L
+CLPLCLLVISVKQINKIF-------------FFPIYF-----------------------
+------------------------------------------------------------
+------
+>ENSSSUP00005005179 ENSSSUG00005003381	209	None	None	Suricata_suricatta	10A	10	A
+------------------------------------------------------------
+----MVRSH----------PVRLLFFTSL-ALQ--IIHLGNSYH----------------
+---------------------REKHKGNREEINNSTAQKLQQKTLN--WTLNNFGEVNAS
+AKGWRPQDSPPY-----LPALQE-----------REPLQLLRCCRNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRHRECGAVKHGAWTFLGCRLC
+RCVFAALHCLPRQT-PG------SCDLEDFL--------AA-PANGISAQRMLSV----L
+FLLPCLLLQSI-------Q-REQA-------WLSVGKP-------GHV--HLL-------
+------------------------------------------------------------
+------
+>ENSPVAP00000005252 ENSPVAG00000005550	205	None	None	Pteropus_vampyrus	10A	10	A
+------------------------------------------------------------
+----MTRSY----------LVRFLFMLSL-ALQ--VIHLGNSYP----------------
+---------------------REKHKGSREEVNNATTRKLQQKTLN--GT-SNFREVNGS
+TEGWRSQILLPY-----SWAFQE-----------RATQR-PRCCMNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCELDQRHSECGALVHGAWTFRGCRLC
+RCVFAALHCLPRQT-PG------HCDPKDFL--------IS-HSNGLSAQCLLSF----L
+TLLPCFLLQCMEQAYCS--------------WENQGLV--------------------YR
+F-----------------------------------------------------------
+------
+>ENSMODP00000049739 ENSMODG00000041568	203	TDGF1	teratocarcinoma-derived growth factor	Monodelphis_domestica	10A	10	A
+------------------------------------------------------------
+----MAWIY----------HVRRLFLITL-VFQ--VIHLGNGFN----------------
+--------------------EKEKLKGSAEEPINTTAPKQQPPNQN--PTWNSTRDLNRS
+SESPKQFQSRP------FIPFIGFK--------DGTK----LCCQNGGTCVLG-------
+--------------------S-FCVCPMHFVGRHCEHDERKSNCGVFAHGDWVYKGCYLC
+RCIYGKLHCFRDPT-LN------NCDLN-------EEFVTL-QSNGSRLQYTLYFL----
+LPFSCFLLQWIVLQKS--SSLVPWR-----------------------------------
+------------------------------------------------------------
+------
+>ENSEEUP00000004109 ENSEEUG00000004531	156	None	None	Erinaceus_europaeus	10A	10	A
+------------------------------------------------------------
+----MTRRP----------NIRILFMSSL-LLQ--TLHSANSDQ----------------
+---------------------RERHNDSRGETHSATALKTLQRTPS--PAWADPRAGNGS
+ADGWRRLDSRLY-----SGIPLD-----------G-APR-PRCCRNGGTCVLG-------
+--------------------S-FCVCPEDFTGRYCEHDQRNSECGALGHGAWALRGCHLC
+RCLFAALHCLPLPT-PG------RC-----------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPCAP00000007779 ENSPCAG00000008339	200	None	None	Procavia_capensis	10A	10	A
+------------------------------------------------------------
+----MMRGH----------HVRLLFMIGL-ALQ--IIHSGXXXX----------------
+---------------------XXXXXXXXXXXXXXXXXXXXXXXXX-----XXXXXXXXX
+---XXXXXXXXX-----------XXXXXXXXXXXXXAPTPSSCCQNGGTCVLG-------
+--------------------S-FCVCPARFTGRHCEYDPQRSECGASAHGSWTVRGCRLC
+RCVYGALHCLSRQT-QG------TCDLKDSL--------TS-YSDGQSSQHILSF----L
+ALLSCFLLQCLRRVALSKC-CP--------------------------------------
+------------------------------------------------------------
+------
+>ENSGGOP00000026463 ENSGGOG00000003802	223	None	None	Gorilla_gorilla	10A	10	A
+------------------------------------------------------------
+----MTWRH----------HVRLLFTVSL-ALQ--IINLGNSYQ----------------
+---------------------REKHNGGRKEVIKVATQKHQQSPLN--WTSSHFGEATGS
+AEGWGPEEPLPY-----SWAFGE-----------GASAR-PRCCRNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRRSECGALEHGAWTLRACHLC
+RCIFGALHCLPLQT-PD------RCDPKDFL--------AS-HAHGPSAGGAPSL----L
+LLLPCALLHRLLRPDAPAH-P-R------------SLVP---------------------
+--SVLQ----R----ERRPCGRPGLGHRL-------------------------------
+------
+>ENSP00000281882 ENSG00000152093	223	CFC1B	cripto, FRL-1, cryptic family	Homo_sapiens	10A	10	A
+------------------------------------------------------------
+----MTWRH----------HVRLLFTVSL-ALQ--IINLGNSYQ----------------
+---------------------REKHNGGREEVTKVATQKHRQSPLN--WTSSHFGEVTGS
+AEGWGPEEPLPY-----SWAFGE-----------GASAR-PRCCRNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRRSECGALEHGAWTLRACHLC
+RCIFGALHCLPLQT-PD------RCDPKDFL--------AS-HAHGPSAGGAPSL----L
+LLLPCALLHRLLRPDAPAH-P-R------------SLVP---------------------
+--SVLQ----R----ERRPCGRPGLGHRL-------------------------------
+------
+>ENSPTRP00000091498 ENSPTRG00000012455	223	None	cryptic family protein	Pan_troglodytes	10A	10	A
+------------------------------------------------------------
+----MTWRH----------HVRLLFTVSL-ALQ--IINLGNSYQ----------------
+---------------------REKHNGGREEVIKVATQKHQQSPLN--WTSSHFGEVTGS
+AEGWGPEEPLTY-----SWAFGE-----------GASAR-PRCCRNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRRSECGALEHGAWTLRACHLC
+RCIFGALHCLPLQT-PD------RCDPKDFL--------AS-HAHGPSAGGAPSL----L
+LLLPCALLHRLLRPDAPAH-P-R------------SLVP---------------------
+--SVLQ----R----ERRPCGRPGLGHRL-------------------------------
+------
+>ENSCCNP00000024481 ENSCCNG00000023955	200	Cfc1	cripto, FRL-1, cryptic family	Castor_canadensis	10A	10	A
+--------------------------------------------------------RTGG
+VSRKMTWSH----------YVRLPFMISL-ALQ--IIHLGNSYQ----------------
+---------------------REKHKGDKEEVSNITAPNLQQTTLS--WTLSDFRKEHGT
+QEGWWPQDSPPN-----FKALEE-----------RAPAR-PRCCRNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRRSDCGALGHGAWTLHGCRLC
+RCVFAALHCLPRQ--LG------RCDLKDFL--------TS-HTSGPRTHSMLSFL----
+-LMPCVLLQCLIHGG---------------------------------------------
+------------------------------------------------------------
+------
+>ENSMAUP00000020147 ENSMAUG00000018250	166	Cfc1	cripto, FRL-1, cryptic family	Mesocricetus_auratus	10A	10	A
+---------------------------------------------------MRGDSPTLG
+VVV--LKRY----------QARPLFFMTV-ALQ--LVHLVNSYQ----------------
+---------------------RESD--GAREVTKILSPKPPGTTLD--GTLSNSSRENGS
+QEGWRPRDSSPY-----SGTFGE-----------SVVPG-SRCCHNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRHRDCGALGHGAWTLHSCRLC
+RCIFSALYCLPRQA-FG------HC-----------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMUSP00000027298 ENSMUSG00000026124	202	Cfc1	cripto, FRL-1, cryptic family	Mus_musculus	10A	10	A
+---------------------------------------------------MRANSPTQG
+I-S--LKMH----------QARPLFLVTV-ALQ--LIGLGYSYQ----------------
+---------------------SEGD--GAREVSNILSPVIPGTTLD--RTLSNSSRKNDI
+PEGARLWDSLPD-----SSTLGE-----------SAVPV-SRCCHNGGTCVLG-------
+--------------------S-FCVCPAYFTGRYCEHDQRRRDCGALGHGAWTLHSCRLC
+RCIFSALYCLPHQT-FS------HCDLKSFL--------SS-GARGSRECSIP-SL---L
+LLVLCLLLQGVAGKG---------------------------------------------
+------------------------------------------------------------
+------
+>ENSRNOP00000062738 ENSRNOG00000042646	164	Cfc1	cripto, FRL-1, cryptic family	Rattus_norvegicus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------EGD--GAREISYLLSPKLPGTTLD--GTLSSSSRKNDS
+QEGAHPSEALSG-----SNTLEE-----------SAVPG-SRCCHNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRHRDCGALGHGAWTLHSCRLC
+RCIFSALYCLPRQT-FS------HCDLKSFL--------SS-GARGSRACSIP-RL---L
+LLVLCLLLQVVCGWG---------------------------------------------
+------------------------------------------------------------
+------
+>ENSTBEP00000006156 ENSTBEG00000007121	140	None	None	Tupaia_belangeri	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------ESPR-PRCCLNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCELDQRRSDCGALGHGAWTWRSCRLC
+RCVFGDLRCLPSQT-PG------RCDLNDFA--------AS-HADGQRAPTSF-------
+LLLPCGLVPGLQCPGGLV--------------------PSQHRTDPTPHK----------
+-----------HVQEPQRPTREPGLGTS--------------------------------
+------
+>ENSACCP00020017537 ENSACCG00020012040	196	None	None	Aquila_chrysaetos_chrysaetos	10A	10	A
+------------------------------------------------------------
+----MYWGN----------HVRILFTVTL-VWQ--AVHLGEGRE----------------
+------------------KE-RE---E-DVKSLNATAQKQQPKIEG--SIINAVSDMNQS
+YESRKQQNSRA------LVPFTGIT--------ESKKLN-RHCCQNGGTCILG-------
+--------------------A-FCACLKHFTGRYCEHDER--NCGSIAHGAWVLKGCWLC
+RCGYGTLNCLSEIM-QD------NCELK-SEK---EEITRL-YSNGLRLQQTVFAL----
+ACLITI-----------LLAFCCWQF----------------------------------
+------------------------------------------------------------
+------
+>ENSAPLP00020013280 ENSAPLG00020009749	197	None	None	Anas_platyrhynchos	10A	10	A
+------------------------------------------------------------
+----MYRGK----------HVRILFTLTV-VWQ--AFHLGKGRE----------------
+------------------EEDNEKD----VKNLNVTAQKLQPKNEG--TIINALSDMNQS
+YESRKQQNSRS------FVPFTGIT--------ESKKLN-RNCCLNGGTCILG-------
+--------------------A-FCACLKHFTGRYCEHDER--NCGSIAHGAWVLKGCWLC
+RCGFGTLNCLSEIM-HE------NCELK-REE---EEITRL-YSNGLRLQQTMFTL----
+TCLLTL-----------LLEFCCWQL----------------------------------
+------------------------------------------------------------
+------
+>ENSDNVP00000012443 ENSDNVG00000008782	199	None	cryptic	Dromaius_novaehollandiae	10A	10	A
+------------------------------------------------------------
+----MHRGQ----------HVRILFTVTL-VWQ--AIHLGKGRE----------------
+---------------------KEEHEK-DVENVNATAQKQQPKNEG--TVINTLSDMNQS
+YESRKQQHART------FVPFTGIT--------ESKKLN-RHCCQNGGTCILG-------
+--------------------A-FCACQKHFTGRYCEYDERQSNCGSVAHGAWVLRGCQLC
+RCGYGTLHCLSDMT-HG------NCDLK-AEE---EEMSRL-YSSGLKLQQTAFAL----
+FCLLPF-----------LLELCCWQL----------------------------------
+------------------------------------------------------------
+------
+>ENSCPUP00000022137 ENSCPUG00000015027	194	None	None	Calidris_pugnax	10A	10	A
+------------------------------------------------------------
+----LFWRI----------SR--YFTT-I-LLH--TCTSCPGSE----------------
+------------------K---EELEE-YMRSLNATAQRQQPKNEG--TMINTLSDMNQS
+YENRKQQNSRA------LVPFTGIT--------ESKKLN-RHCCQNGGTCILG-------
+--------------------A-FCACLKHFTGRYCEHDER--NCGSIAHGAWVLKGCWLC
+RCGYGTLNCLSEIM-HD------NCELK-SER---EEITRL-YSNGLRLQQTMFVL----
+SCLLTV-----------LLELCCWQL----------------------------------
+------------------------------------------------------------
+------
+>ENSGALP00000020578 ENSGALG00000012623	193	CFC1	cripto, FRL-1, cryptic family	Gallus_gallus	10A	10	A
+------------------------------------------------------------
+----MFWRK----------HVRILFTVTL-IWQ--AIHLGKGRE----------------
+---------------------K-EHEK-DVKNFNDTAQKQSPKNSV--TIIDAFSDMNQS
+YQSRKQQNSRE------FVPFTGIT--------ESKNLN-RNCCQNGGTCILG-------
+--------------------A-FCACPKHFSGRHCELR----KCGSIIHGDWVMKGCWLC
+RCLYGTLKCLSQNT-QD------GCE--LRRE---EEIIRL-YSNGLRLQQTMSAL----
+ICLLTF-----------LLELCCWQL----------------------------------
+------------------------------------------------------------
+------
+>ENSNMEP00000020589 ENSNMEG00000017666	193	None	cryptic	Numida_meleagris	10A	10	A
+------------------------------------------------------------
+----MYWRN----------HVRILFIVTL-IWQ--TIHLAKGRE----------------
+---------------------K-EHEK-DVKNLNTTAQKQQPKNSV--TIIDAFSDTNQS
+YQSRKQPNSRE------FVPFTGIT--------DSKKLN-RNCCQNGGTCILG-------
+--------------------A-FCACPKHFSGRHCELR----KCGSIAHGDWMMKGCWLC
+RCLYGTLKCLSQNT-RD------SCE--LRRE---EEIIRL-YSNGLRLQQTMFAQ----
+ICLLTF-----------LLELCCWQL----------------------------------
+------------------------------------------------------------
+------
+>ENSCPVP00000004045 ENSCPVG00000002984	151	None	None	Camarhynchus_parvulus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------NTTNRH--IILLSLKTIKLD
+ILKRLWQLERP------EGTSEEKV--------RFRAPE-IRCCQNGGTCILG-------
+--------------------T-FCACLKYFTGRHCEYDERLGNCGSIPHGIWVLKDCWLC
+RCAYGTLHCLSEIR-QS------NCGKKCAKY---SCPFHP-YLNLI-LHFSSLVP----
+ISLLS-----------------------------RVRKE--PT-----------------
+------------------------------------------------------------
+------
+>ENSFALP00000003386 ENSFALG00000003245	169	None	None	Ficedula_albicollis	10A	10	A
+------------------------------------------------------------
+-------------------------------VT--CRHVGR-------------------
+---GVCVLLAQIYFCSCQGPVREERKE-DVESLNATAQKQQAKNEG--TFINVLRDMNQS
+YESRKQQSSRS------FVPFTGIT--------ESKKLS-RRCCQNGGTCILG-------
+--------------------T-FCACQKHFSGRYCEHDERLGSCGSIPHGLWVLKGCWLC
+RCGYGTLHCLSEVM-RR------NCDVH-DSV---QQETSH-------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSGFOP00000014157 ENSGFOG00000009683	197	None	None	Geospiza_fortis	10A	10	A
+------------------------------------------------------------
+----MYWGN----------HVRILFTVTL-VWQ--AVHLEK-------------------
+------------------SPEKEEQKG-VVKGLNATAQKQQPKNEG--TFTNALSDMNQS
+YESKRQQSSRS------LVPFTGIT--------ESKKLN-RRCCQNGGTCILG-------
+--------------------T-FCACLKYFTGRHCEYDER--NCGSIPHGIWVLKDCWLC
+RCAYGTLHCLSEIR-QS------NCELT-SET---EEIIRL-YSNGLRLQQTVFSV----
+TCLLAV-----------LWSSASWQL----------------------------------
+------------------------------------------------------------
+------
+>ENSSCAP00000020818 ENSSCAG00000014995	174	None	cryptic	Serinus_canaria	10A	10	A
+------------------------------------------------------------
+---------------------IILFTVTL-VWQ--AVHLEK-------------------
+------------------GN------------LNATAQKQQPKNEG--TFTNALSDMNQS
+YESRKQQDSRS------LVPFTGIT--------ESKKLN-RRCCQNGGTCILG-------
+--------------------T-FCACLKHFSGRYCEYDE---HCGSIPHGVWVLKDCWLC
+RCGYGTLHCLSEIR-QS------NCELT-SET---EEIIRL-YSNGLRLQQTVLSV----
+ICLLAI-----------LLNFC--------------------------------------
+------------------------------------------------------------
+------
+>ENSZALP00000015112 ENSZALG00000012464	261	None	cryptic	Zonotrichia_albicollis	10A	10	A
+MFSASWRLSLTASWTAGGEFRQPRSPCPSVSAVQQPEAEGSGHLPSAQALPEDLTAISG-
+-CRKMYWGN----------HVRILFTLTL-VWQ--AVHLEK-------------------
+------------------SPEKEERKE-VVKGLNATALKQQPKNEG--TFTNALSDMNQS
+YESRKQQSSRS------LVPFTGIT--------ESKKLN-RRCCQNGGTCILG-------
+--------------------T-FCACLKYFTGRHCEYDERLGNCGSIPHGVWVLKDCWLC
+RCAYGTLHCLSEIR-QS------NCELT-SET---EEIIRL-YSNGLRLQQTVISV----
+TCLLAV-----------LWSSASWQL----------------------------------
+------------------------------------------------------------
+------
+>ENSPMRP00000022255 ENSPMRG00000014473	220	None	cryptic	Podarcis_muralis	10A	10	A
+------------------------------------------------------------
+----MYWKQ----------NTRFILAVTL-ALQ--SIHFGKGSR----------------
+---------------------HEQI-QDAGEIAAATVPKDNIKDQL--TTLNIFNEMNQS
+YESRKHLN-KP------IVPFIGLT--------ESKTLK-RDCCQNGGTCILG-------
+--------------------S-FCACPQHFTGRYCEYDQRKSNCGVFKHGQWIRKSCHLC
+RCAFGELHCLSPRN----------CAVS--EE---EEWIHL-LSNGQRLEKTMGCF----
+FLGWFLCTLWTALPVVKTLLRLVFITMICLMMMLALQKK--ED-----------------
+------------------------------------------------------------
+------
+>ENSPTXP00000016317 ENSPTXG00000011281	190	None	None	Pseudonaja_textilis	10A	10	A
+---------------------------------------------------MLISLYPGL
+TLKKIFISS----------TVPFAITLSL----------NR-------------Y-----
+-------RIYMIFFE-------------------GTASRTRPL---------AARKTGQK
+QVKKKVQRSLFL-----CQLWAIHF--------SGRTLN-RHCCKNGGTCILG-------
+--------------------S-FCACPQYFVGRYCEHDERKSNCGPFVHGEWIWKGCQLC
+RCAYGAPLPMALIG-ASVAQ-WLECSTASYFC---SKLPTI-WQF--KSHQAQ-------
+GC----------------LSLPSFRGG---------------------------------
+------------------------------------------------------------
+------
+>ENSVKKP00000012312 ENSVKKG00000008567	159	None	None	Varanus_komodoensis	10A	10	A
+-------------------------------------------MPKISLLQTHFE-----
+-----------------------LVRISLSL-----------------------------
+--------------FGCIPPIAFG---------VLTMQR-------------WCYGLKGS
+WTQAHRTNNKAL-----LCIFS--K--------IYGTLN-RHCCQNGGTCILG-------
+--------------------S-FCACPKYFVGRYCEHDERKSNCGPFAHGEWIEKGCQLC
+RCGYGAMIFFFFPF-ET-------CQPKFYS---------I------HGHQDFFSF----
+LVLKVA------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSCPBP00000006972 ENSCPBG00000005486	205	None	None	Chrysemys_picta_bellii	10A	10	A
+------------------------------------------------------------
+--MQVFLNI----------CVLLISNCSFPPLP--ISLPFQGRE----------------
+---------------------KEEHKG-DGENVHATAQKQQPKNQG--TTLNMFNDMNRS
+DESSKQQSSRT------FVPFTGLT--------DSKKLN-RHCCQNGGTCILG-------
+--------------------S-FCACPKHFTGRYCEHDD---NCGSVAHGVWVQKGCRFC
+RCGYGILHSNPLAY-LNLN---LTCLSF-PLP---LSYETTTLLPGTTATTKM--G----
+----AK-------------FTPTWVHCFGKYLFNVL------------------------
+------------------------------------------------------------
+------
+>ENSPSIP00000016481 ENSPSIG00000014697	203	None	cryptic	Pelodiscus_sinensis	10A	10	A
+------------------------------------------------------------
+----MYRGQ----------HVRILFTVSL-ALQ--VIHYGKGRE----------------
+---------------------KEEHKS-DGENVHATALKQQPKNQG--TALSMFSDMNRS
+DESNKLQSSRT------FVPFTGLT--------DSKKLN-RHCCQNGGTCILG-------
+--------------------S-FCACPKHFTGRYCEHDERNSNCGHVAHGAWVQKGCRLC
+RCGYGILHCLSETI-QA------NCDLR-MEE---EEFLRL-RSSGRRLHQTM--G----
+----SL-----------ILLLFCFLTLLCSRLHLQL------------------------
+------------------------------------------------------------
+------
+>ENSPCEP00000011257 ENSPCEG00000008885	142	None	None	Pelusios_castaneus	10A	10	A
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------YPCHMLVRFSRS
+LWIEVILLKAIF-----YNDFFFKT--------PGKKLN-RHCCKNGGTCILG-------
+--------------------S-FCACPKHFTGRYCDFDERKRDCGGVIHGNWLQKDCSLC
+KCVYGTLHCIPQMF-QDDSDPCPPCSYALPGSLSCSAPIVP-RYNGANAEPPGT------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSBTAP00000068773 ENSBTAG00000054983	208	None	None	Bos_taurus	10B	10	B
+------------------------------------------------------------
+----LNFFK----------YSRLLFVISL-ILQ--IIPMGKSYQ----------------
+---------------------TGKYKSSREESSSGKAQKFQQKTLN--WTLNNLREENDS
+TEGWKPQGLFPY-----SLTFQELS---------GAPPR-RSCCQNGGTCVLS-------
+--------------------S-FCVCPAHFTGRYCEHDQRRSKCGALVHGAWTFRGCHLC
+RCVFAALHCLPLQT-PG------RCGKKNPP--------CV-LFQFSR-----------S
+VVSNSLQPHGLQHARPPCP-SPTPRV-------DSNSCPLSR------------------
+------------------------------------------------------------
+------
+>ENSCHIP00000031960 ENSCHIG00000026116	208	None	cryptic	Capra_hircus	10B	10	B
+------------------------------------------------------------
+----MTWSH----------SIRLLFVISL-MLQ--IIPMGNSYQ----------------
+---------------------TGKYKSSREESSSGKAQKFQQKTLN--WTLNNLREENDS
+TEGWKPQGSFPY-----SLTFQELSGSAADKGHPGAPPR-QSCCQNGGTCVLS-------
+--------------------S-FCVCPAHFTGRYCEHDQRRSKCGALVHGAWTFRGCHLC
+RCVFAALHCLPLQT-PG------RCDLKDFL--------TS-HSNGLRTQLTWRV----L
+LLLSCFLLKSILSEGGAC------------------------------------------
+------------------------------------------------------------
+------
+>ENSDLEP00000016203 ENSDLEG00000011890	249	None	None	Delphinapterus_leucas	10B	10	B
+------------------------------------------------------------
+----ITFFK----------YSRLLFMISL-ALQ--IIHVGNSYQ----------------
+---------------------REKYKGSREGINSATAQKLQQKTLD--WTLNNFREENDS
+AEGWRPQGSLPY-----SRTFRE-----------RAPPR-PRCCRNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRHSECGALGHGAWTFRGCRLC
+RCVFAALHCLPLQT-PG------RCE----P--------SW-WGSLGGAPSGGTHL---M
+NAQPPSSATWISSLVTLLV-KVQP-------FNPTAAPPSQPALPGTRSVCGGECD--YS
+TISFPSL---PLL--------------------------LGSLFAGPVPLIH--------
+------
+>ENSOARP00000011902 ENSOARG00000011105	193	None	None	Ovis_aries	10B	10	B
+------------------------------------------------------------
+----MTWSH----------SIRLLFVISL-MLQ--IIPMGNSYQ----------------
+---------------------TGKYKSSREESSSGKAQKFQQKTLN--WTLNNLREENDS
+TEGWKPQGSFPY-----SLTFQE----------PSAPPR-QSCCQNGGARVLT-------
+--------------------R-VSAPPALTPG-----PGFLSKCGALVHGAWTFRGCHLC
+RCVFSALHCLPLQT-PG------RCDLKDFL--------TS-HSNGLRTQLTWRV----L
+LLLSCFLLKSILSEGGAC------------------------------------------
+------------------------------------------------------------
+------
+>ENSPCTP00005003359 ENSPCTG00005002395	269	None	None	Physeter_catodon	10B	10	B
+------------------------------------------------------------
+----ITFFK----------YSRLLFMISL-ALQ--IIHVGNSYQ----------------
+---------------------REKYKGSRDGINSATAQKLQQKTRD--WPLNNFREENDS
+AEGWRPQGSLPY-----SRTFRE-----------RAPPR-PRCCRNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRHGECGPLGHGAWTFRGCRLC
+RCVFAALHCLPLQT-PG------RCGKKTRP--------SW-WGSLGGAPSGGTHL---M
+NAQPPSSATWISSLVTLLV-KVQP-------FNPTSASPSQPAPHGTRSVCWGGVWLWYN
+SLSLPPS---PTG--------------------------LSVCWACAPDSLAALSAPQRM
+EDKIME
+>ENSTTRP00000014543 ENSTTRG00000015346	226	None	None	Tursiops_truncatus	10B	10	B
+------------------------------------------------------------
+----MTRSH----------SVRLLFMISL-ALQ--IIHVGNSYQ----------------
+---------------------REKYKGSREGINSATAQKLQQKTLD--WTSNNFREENDS
+AEGWRPQGSLPY-----SRTFRE-----------RAPPR-PRCCRNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRHSECGALGHGAWTFRGCRLC
+RCVFAALHCLPLQT-PG------RCDLKDFL--------AS-HSNGPRTQLTGNV----L
+LLLPCFLLNR-------------P------------------------------------
+-----QR---ADGTAHPRNPNR-----AASQRGRARRRCVGKPLACPLV-----------
+------
+>ENSAMEP00000003787 ENSAMEG00000003596	172	None	None	Ailuropoda_melanoleuca	10B	10	B
+------------------------------------------------------------
+---------------------RLLFFISL-ALQ--SIHLGNN------------------
+--------------------------SNREEINNATAQKLQQKTLS--WTLNNVGEGNGS
+MDAWRPQDSSPY-----FRAFQG-----------PKALCPPRCCRNGGTCVLG-------
+--------------------S-FCVCPARFTGRYCEHDQRHSECGALMHGAWTFHRCLLC
+RCVFAALHCLPQQT-PG------RCALPSHP--------AV-HGV---GSFSRERVIRVQ
+YCKML-------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSVVUP00000010810 ENSVVUG00000007977	219	None	cryptic	Vulpes_vulpes	10B	10	B
+------------------------------------------------------------
+----MTWSY----------PVRLLFFVSL-ALW--NIHLGNN------------------
+--------------------------SNREEINNATTQKLQQKTLN--WTLNNLGEVNGN
+GDGWRPQDTGPY-----VDAFQD-----------R--ASSPRCCRNGGTCVLG-------
+--------------------S-FCVCPDPFTGRYCEHDQRHSGCGALMHGAWTVRGCRLC
+RCVFAALHCLPRQT-PG------SCGKKTRV--------PC-AQSTHAG-----RAVAPL
+YL-PMAPEQDRNRHGWPDA-TRAKQTLLQRRKVPCNHSPGLPRILRA-------------
+----------RRGA----------------------------------------------
+------
+>ENSMLUP00000009619 ENSMLUG00000010563	187	None	None	Myotis_lucifugus	10B	10	B
+------------------------------------------------------------
+----MTWSH----------STRLLLMISL-VLQ--IIHLGNSYQ----------------
+---------------------REKHKGSREEVNNATVQKLQQKTLN--WTLNNFREMNGS
+VESWRSQDLLPH-----SRAFQE-----------RALPP-QRCCMNGGTCVLG-------
+--------------------S-FCVCSAHFTGRYCEHDLRHSECGTLVHGSWTVCGCQLC
+RCVFGTLHCLPRQT-SG------RCGPKLQL--------NI-HSAAEEAGEAPTI----A
+TVMPSA---WL-------------------------------------------------
+------------------------------------------------------------
+------
+>ENSRFEP00010005098 ENSRFEG00010003509	214	None	None	Rhinolophus_ferrumequinum	10B	10	B
+------------------------------------------------------------
+----MSWSH----------PFLLCICFSI-IISLIFSMFLKGYQ----------------
+---------------------REKHKAGREEINT-TAQKLQQEIFT--WTWNNFREVNGS
+VEGWRSQDSLPH-----FRATPT-----------GATPR-PRCCKNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRHSECGALVHGAWTFRACRLC
+RCVFAALYCLPRQT-PG------RCGKGTCA--------HI-PHMHAVAPSYTPI----R
+SDPPVPVDTEMSTLGQFIT-QKSP-------I-------------------VVSHIVYYH
+F-----------------------------------------------------------
+------
+>ENSDNOP00000034128 ENSDNOG00000032309	225	None	None	Dasypus_novemcinctus	10B	10	B
+------------------------------------------------------------
+----MTRGQ----------HVRLLFMISV-ALQ--ITHLGNSHQ----------------
+---------------------REKHRDGQEEIRSSTDQKPQQKAFS--WPLLAFREANES
+AEGWRRRDPLSS-----SRGFRE-----------GA----PRCCQNGGTCVLG-------
+--------------------S-FCVCPVHFTGRHCEHDERRSECGALAHGAWTLRDCRLC
+RCVYGALRCLAGQPPPD------RCDPGDFV--------AS-PSGGPSPRRVPGC-----
+-----VLLACLGLQAFVLP-GHRP-------CSPVAN----------------HRQMWTD
+V-----------TTKHQKPCGNTDLGKSK-------------------------------
+------
+>ENSPCIP00000016918 ENSPCIG00000012993	150	None	None	Phascolarctos_cinereus	10B	10	B
+------------------------------------------------------------
+-------------------------------------LFKKGFD----------------
+--------------------QKEKPKSNGGEHINTTVQKQQPLNHH--TTLNIISELNRS
+SESPKQLRSGP------FIPFIGFR--------DGTK----PCCQNGGTCILG-------
+--------------------S-FCVCPMHFVGRYCEHDERKSNCGVFAHGDWVYKGCYLC
+RCIYGKLHCFRDPT-LN------NCGSE-------MSGSRC-WKKG--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSOPRP00000015364 ENSOPRG00000016829	116	None	None	Ochotona_princeps	10B	10	B
+------------------------------------------------------------
+----MTGRL----------RVRLLLVIGL-TSQ--LILPGKSYQ----------------
+---------------------RERHKVAVNS----SAAPRQSLPRN--WTGGAAGEPSTR
+VWGWKLEDPGPY-----SRALAE-----------RAPPR-LRCCQNGGTCVLG-------
+--------------------S-FCVCPAHFTGRHCEHDQRH-------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSECAP00000022860 ENSECAG00000026988	196	None	cryptic	Equus_caballus	10B	10	B
+------------------------------------------------------------
+----MPWSR----------PVRLLFMITL-ALQ--VIHLGNSYQ----------------
+---------------------REKHKGSREEINNATAQKLQEKTLN--STSNNFRKVTGS
+AEGWGPQDSLPS-----SPAVQE-----------RAPPR-PRCCRNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRHSECGALVHGAWTFRGCRLC
+RCVFVALHCLPSQT-PG------RCDLKDFL--------AS-RSNGRSAQHMLSL----L
+ILLLGFFLLRM-------L-SEGG-------D----------------------------
+------------------------------------------------------------
+------
+>ENSCJAP00000020502 ENSCJAG00000011112	229	None	uncharacterized	Callithrix_jacchus	10B	10	B
+------------------------------------------------------------
+----MTWRH----------HVRLLFLISL-ALR--IISLGNSYQ----------------
+---------------------IEKSNRGRGEVTKVAALKQQQTPLN--WTSGHVGEVTES
+EEGWRPGERLPY-----SRAFRE-----------GAPGR-PRCCRNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRRSECGSLGHGAWTLRGCHLC
+RCVFGALHCLPLQT-PG------HCDPKDFL--------AS-RAHGQSAGGAPSL----L
+LLLPCALLHRLLRRDAPAR-PPP------------SLVP---------------------
+--SVPR----Q----DPRPCRRLGFGHRLSFSML--------------------------
+------
+>ENSCATP00000000853 ENSCATG00000004056	234	None	cripto, FRL-1, cryptic family	Cercocebus_atys	10B	10	B
+------------------------------------------------------------
+----MTWRH----------HVRFLFTVSL-ALQ--IINLGNSYQ----------------
+---------------------REKHNGRREEVTKVATQKHQQSPLN--WTSSHSGEVTGS
+AQGWGPEEPLPY-----SRAFGE-----------SASAR-PRCCRNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRRSECGALEHGAWTLRGCHLC
+RCVFGTLHCLPLQT-PG------SCDPKDFL--------AS-HAPGRGAGGAPSL----L
+LLLPCALLHRLLRPDAPAH-P-G------------SLVP---------------------
+--SVLQ----R----ERRPLRKAGTWASPFIFTVVNNRCV--------------------
+------
+>ENSCSAP00000013732 ENSCSAG00000017711	227	None	None	Chlorocebus_sabaeus	10B	10	B
+------------------------------------------------------------
+----MTWRH----------HVRFLFTVSL-ALQ--IINLGNSYQ----------------
+---------------------REKHNGRREEVTKVATQKHQQSPLN--WTSSHSGEVTGS
+AQRWGPEEPLPY-----SRAFGE-----------GASAR-PRCCRNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRRSECGALEHGAWTLRGCHLC
+RCLFGTLHCLPLQT-PG------SCDPKDFL--------AS-HAPGRGAGGAPSL----L
+LLLPCALLHRLLRPDAPAH-P-R------------SLVP---------------------
+--SVLQ----R----ERPCGRPGPGHRLSFLLL---------------------------
+------
+>ENSP00000259216 ENSG00000136698	223	CFC1	cripto, FRL-1, cryptic family	Homo_sapiens	10B	10	B
+------------------------------------------------------------
+----MTWRH----------HVRLLFTVSL-ALQ--IINLGNSYQ----------------
+---------------------REKHNGGREEVTKVATQKHRQSPLN--WTSSHFGEVTGS
+AEGWGPEEPLPY-----SRAFGE-----------GASAR-PRCCRNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRRSECGALEHGAWTLRACHLC
+RCIFGALHCLPLQT-PD------RCDPKDFL--------AS-HAHGPSAGGAPSL----L
+LLLPCALLHRLLRPDAPAH-P-R------------SLVP---------------------
+--SVLQ----R----ERRPCGRPGLGHRL-------------------------------
+------
+>ENSMMUP00000062099 ENSMMUG00000021625	250	None	cripto, FRL-1, cryptic family	Macaca_mulatta	10B	10	B
+------------------------------------------------------------
+----MTWRH----------HARFLFTVSL-ALQ--IINLGNSYQ----------------
+---------------------REKHNGRREEVTKVVTQKHQQSPLN--WTSSHSGEVTGS
+AQGWGPEEPLPY-----SRAFGE-----------GASAR-PRCCRNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRRSECGALEHGAWTLRGCHLC
+RCVFGTLHCLPLQT-PG------SCGKRPCN--------SV-PSSP-----PHHT----L
+LRLHCSAFTA-------AH-PPY------------RSTVHLP-LPGYI------------
+AFSKLDRFIIEENRIHWESYSELNFGLKLLISRLLSLKMISSVLTCPFQ-----------
+------
+>ENSMLEP00000002527 ENSMLEG00000010234	191	None	cripto, FRL-1, cryptic family	Mandrillus_leucophaeus	10B	10	B
+------------------------------------------------------------
+----MTWRH----------HVRFLFTVSL-ALQ--IINLGNSYQ----------------
+---------------------REKHNGGREEVTKVATQKHQQSLLN--WTSSHSGEVTGS
+AQGWGPEEPLPY-----SRAFGEVNAVPWSME-PGPSAAATSAGASSGPCTAFPSRRLAA
+VTRKTSWPPTLQCAAPGARPACCSCCPARSCTASCART----------------------
+RPRTLAPSCLPSRSGSG------APA----------------------EGRDLGI----A
+FHFHCCK-----------------------------------------------------
+------------------------------------------------------------
+------
+>ENSMICP00000005756 ENSMICG00000006310	188	None	cryptic	Microcebus_murinus	10B	10	B
+------------------------------------------------------------
+----MTQRH----------PFRLLFMVSL-ALQ--IIHLGNSYQ----------------
+---------------------NEKHKSGHEKVTNIATQKHQHPTPS--WTVDNFSAVNVG
+VDRWGPQDSGSC-----SPAFRE-----------RAPAR-PRCCRNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRRSECGALTHGAWTFRGCRLC
+RCVFGALHCLPRQT-LG------RCGKRARD--------SC-SQLAHGCSR--AFI---S
+RIFKCQVPQT--------------------------------------------------
+------------------------------------------------------------
+------
+>ENSPANP00000006656 ENSPANG00000021925	234	None	cryptic	Papio_anubis	10B	10	B
+------------------------------------------------------------
+----MTWRH----------HVRFLFTVSL-ALQ--IINLGNSYQ----------------
+---------------------REKHNGRREEVTKVATQKHQQSPLN--WTSSHSGEVTGS
+AQGWGPEEPLPY-----SRAFRE-----------GASAR-PRCCRNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRRSECGALEHGAWTLRGCHLC
+RCVFGTLHCLPLQT-PG------SCDPKDFL--------AS-HAPGRGAGGAPSL----L
+LLLPCALLHRLLRLDAPAH-P-R------------SLVP---------------------
+--SVLQ----R----ERRPLRKAGTWASPFIFTVVNNRCV--------------------
+------
+>ENSPPYP00000014221 ENSPPYG00000012745	223	None	None	Pongo_abelii	10B	10	B
+------------------------------------------------------------
+----MTWRH----------HVRLLFMVSL-ALQ--IISLGNSYQ----------------
+---------------------REKPNGGREEVTKVATQKHQQSPLN--WTSSHFGEVTGS
+AEGWGPEEPLPY-----SRTLGE-----------GASAR-PRCCRNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRRSECGALQHGAWTLRGCHLC
+RCIFGALHCLPLQT-PG------RCDPKDFL--------AS-HAHGPSAGGAPSL----L
+LLLPCALLHRLLRHDAPAH-P-R------------SLVP---------------------
+--SVLQ----R----ERRPCRRPGLGHRL-------------------------------
+------
+>ENSTGEP00000036060 ENSTGEG00000028697	191	None	None	Theropithecus_gelada	10B	10	B
+------------------------------------------------------------
+----MTWRH----------HVRFLFTVSL-ALQ--IINLGNSYQ----------------
+---------------------REKHNGRREEVTKVATQKHQQSPLN--WTSSHSGEVTGS
+AQGWGPEEPLPY-----SRAFREVNAVPWSME-RGPSAAATSAGASSGPCTAFPSRRLAA
+VTRKTSWPPTLQGAAPGARPACCSCCPARSCTASCART----------------------
+RPRTLAPSCLPSCRGSG------APA----------------------EGPDLGI----A
+FHFHCCK-----------------------------------------------------
+------------------------------------------------------------
+------
+>ENSLAFP00000005045 ENSLAFG00000006015	184	None	None	Loxodonta_africana	10B	10	B
+------------------------------------------------------------
+-------------------YSRLLFMISL-ALQ--IIHLGKSYQ----------------
+---------------------REKHKGGKEEINNATTQKFQQKTLHWTWTLNNFSEANGS
+AQGWRRPPDSPG-----FRRTPT-----------GVSTQ-SSCCRNGGTCVLG-------
+--------------------S-FCVCPAHFTGRRCEHDPKRSECGAHAHGAWTVRGCRLC
+RCVYGALHCLPRQT-PG------PCDLKDFL--------TS-HSNGLSSQHTLSF----L
+ILLPCFLL----------------------------------------------------
+------------------------------------------------------------
+------
+>ENSDORP00000012459 ENSDORG00000013250	205	None	cryptic	Dipodomys_ordii	10B	10	B
+---------------------------------------------------MREGLPTRS
+VSGKMIWRT----------YVRFLFIISL-ALQ--LIHLGNSYQ----------------
+---------------------SETRQSGKE-AGKIAAPKLQPTTLN--LTLSDFRKDNGS
+EEEWRLRESALY-----SRASDG-----------RVFPR-LRCCRNGGTCVLG-------
+--------------------S-FCVCPPHFTGRYCEHDQRRSDCGALVHGAWTFRGCRLC
+RCIFAALHCLPRQT-QG------RCDLKDLL--------TS-FASGPSAHGRLSLL----
+-LLPSVLLHCLIHEG---------------------------------------------
+------------------------------------------------------------
+------
+>ENSMOCP00000005304 ENSMOCG00000004778	204	Cfc1	cryptic	Microtus_ochrogaster	10B	10	B
+---------------------------------------------------MSGDSSALG
+V-G--LKRH----------QARPLFLMTV-VLQ--LVHQGNSYQ----------------
+---------------------REPD--SVRQVSNILSPRLPETTLD--GTLSDSSRMNGS
+QEGWRPRDSPPH-----SRTFGE-----------SAIPG-SRCCYNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRRRDCGALGHGAWTLHSCRLC
+RCIFSALYCLPRQT-FG------HCDLKGFL--------SS-GSSGTRGPSASGAL---S
+LLMLGLLLQGMAGDGG--------------------------------------------
+------------------------------------------------------------
+------
+>ENSPEMP00000000163 ENSPEMG00000000122	200	Cfc1	cripto, FRL-1, cryptic family	Peromyscus_maniculatus_bairdii	10B	10	B
+---------------------------------------------------MRGDSPTLG
+V-G--CKRH----------QARPLFLTTV-VLL--LIDQGNTYQ----------------
+---------------------REPD--SAREVSPTLFPKLPGATRD--GNLSNSSRENSG
+QEGWRPRESPPD-----SRTLGE-----------SVVPG-VRCCHNGGTCVLG-------
+--------------------S-FCVCPAHFTGRYCEHDQRRRDCGALEHGAWTLHSCRLC
+RCIFSALYCLPRQA-FG------HCDLRGFL--------SS-G---TRGSSTSSAL---S
+LLLLCLFLHGVAGEG---------------------------------------------
+------------------------------------------------------------
+------
+>ENSANIP00000024973 ENSANIG00000016884	195	None	None	Accipiter_nisus	10B	10	B
+------------------------------------------------------------
+----MYWGN----------HVRILFTVTL-VWQ--AVHLGEGRE----------------
+------------------KE-R----E-DVKSLNATAQKQQPKIEG--SIINAVSDMNQS
+YESRKQQNSRS------LVPFTGIT--------ESKKLS-RHCCQNGGTCILG-------
+--------------------A-FCACLKHFTGRYCEYDER--NCGSIAHGAWVLKGCWLC
+RCGYGTLNCLSEIM-HD------NCELK-SEK---EDITRL-YSNGLRLQQTVFAL----
+ACLITI-----------LLAFCCWQF----------------------------------
+------------------------------------------------------------
+------
+>ENSACDP00005024315 ENSACDG00005017640	202	None	None	Anser_cygnoides	10B	10	B
+------------------------------------------------------------
+----MYWEK----------RVRILFTVTV-VWQ--AFHLGKGRE----------------
+------------------EEENEKDVK-DVKNLNATAQKLQPKNEG--TIINALSDMNQS
+YESRKQQNSRS------FVPFTGIT--------ESKKLN-RNCCLNGGTCILG-------
+--------------------A-FCACLKHFTGRYCEHDERQSNCGSVAHGAWVLKGCWLC
+RCGYGTLNCLSEIM-HE------NCELK-REE---EEITRL-YSNGLRLQQKMFTL----
+TCLLTL-----------LLEFCCWQL----------------------------------
+------------------------------------------------------------
+------
+>ENSAOWP00000021600 ENSAOWG00000014597	190	None	None	Apteryx_owenii	10B	10	B
+------------------------------------------------------------
+-------LF----------WRVILFTVTL-VWQ--AIHLGKGRE----------------
+---------------------KEEHEK-DVENVNATAQKQQPRNEG--TVINTLSDMNQS
+YESRKQQHSRT------FVPFTGIT--------ESKKLN-RHCCQNGGTCILG-------
+--------------------T-FCACQKHFTGRYCEYDER--NCGSVAHGAWVLRGCRLC
+RCGYGTLHCLSDIM-HG------NCE-----E---EEMTRP-YSNGLRLQQTAFAF----
+FCLLPF-----------LLELCCWQL----------------------------------
+------------------------------------------------------------
+------
+>ENSCPRP00005014405 ENSCPRG00005010154	190	None	None	Crocodylus_porosus	10B	10	B
+------------------------------------------------------------
+----TIFLV----------FCRILFMVPM-ALQ--VIHFGRGKESFIFLICSGQFF----
+-------------------------------------------NEF--IFLLIYFNLPFP
+SSSVFPTFS-----------------------------R-PHCCQNGGTCILG-------
+--------------------S-FCACLKHFTGRYCEHDERKRNCGPVAHGAWIIKGCRFC
+RCGYGMLHCLSGRT-QD------NCGKEK--------LIKSMENNGSPASPPR-AL----
+------------TPNPQLLQPCQCPSLLTCTPFPTLSPS--PTSASHS------------
+------------------------------------------------------------
+------
+>ENSCJPP00005011079 ENSCJPG00005009555	194	None	cryptic	Coturnix_japonica	10B	10	B
+------------------------------------------------------------
+----MYSRK----------HVGILFTVTL-IWQ--AIHIGEGRE----------------
+---------------------KEDHEN-DVKNLNVTAQKQHPKNSV--TIIDAFSDMNQS
+YQSRKHQNSME------FVPFTGIT--------ESKNLN-RNCCQNGGTCILG-------
+--------------------A-FCACPKHFSGRHCELR----KCGSIAHGDWVMKGCWLC
+RCLYGTLKCLSQNT-QD------SCGKEQRRE---EEIIRL-YSKGLRSQQTVSAL----
+ICFLTF-----------ILELCCW------------------------------------
+------------------------------------------------------------
+------
+>ENSPSTP00000010738 ENSPSTG00000007580	214	None	None	Pavo_cristatus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+----------MLY------PVTEHS---SLQTASTPCRKSHFMSPN--MQFYPFIEYQ--
+------RPHRRH-----KITCPQST--------PGKNLN-RNCCQNGGTCILG-------
+--------------------A-FCACPKHFSGRHCELR----KCGSIAHGDWVMKGCWLC
+RCLYGTLKCLSQNT-QD------SCDFLQEYD------ATMCHQNKTRSL--LHVG----
+FCIYLQ---LH-GGSPIAFLNSCLQLLLSKYAFTNLQFT--RQPTGLQFRHCLYDNIWKK
+Y------------------------------------------WDCNTRAKTT-------
+-GKV--
+>ENSPCLP00000018147 ENSPCLG00000015165	194	None	None	Phasianus_colchicus	10B	10	B
+------------------------------------------------------------
+----MYWRK----------HVRILFAVTL-IWQ--AIHLGKGRE----------------
+---------------------EDEHEK-NVKNLSITAQKQLPKNSV--TIIDAFSDMNQS
+YQSRKQQDSRE------FVPFTGIT--------ESKNLN-RNCCQNGGTCILG-------
+--------------------A-FCACPKHFSGRHCELR----KCGSIAHGDWVMKGCWLC
+RCLYGTLKCLSQNT-QD------YCE--LRRE---EEIIRL-YSNGPRLQQTMSAL----
+ICLLTF-----------LLELCGWQL----------------------------------
+------------------------------------------------------------
+------
+>ENSCCEP00000009873 ENSCCEG00000009986	262	None	cryptic	Cyanistes_caeruleus	10B	10	B
+--------------------------------MQQRQVQGSAHLPSAQALPEHLTATPG-
+-CRKMYWAN----------QVRILFTVTL-VWQ--AVHLEKGKGNFMFLPAPLRFSTFTV
+CISSLQTTLPLLICASCQGPEKEERKE-DVKSLNATAQKQQLKNEG--TFISALSDMNQS
+YESRKQQSSRS------FVPFTGIT--------ESKKLN-RHCCQNGGTCILG-------
+--------------------T-FCACLKHFTGRYCEHDERLSNCGSIAHGVWVLKGCWLC
+RCGFSTLHCLSEIV-QG------NCELK-SET---EEIIRL-YSNGLRLQQTVFSV----
+ICLLTI-----------LLEFC--------------------------------------
+------------------------------------------------------------
+------
+>ENSEGOP00005010837 ENSEGOG00005008467	199	None	None	Erythrura_gouldiae	10B	10	B
+------------------------------------------------------------
+----SFKIF----------FYRILFTATL-VWQ--AVHLQK-------------------
+------------------GPEKEEWKE-DVKSLNATAQKQQPKNAG--SFINALSDMNQS
+YESRKQQSSRS------FVPFTGIT--------ESKKLN-RGCCQNGGTCILG-------
+--------------------T-FCACLKHFTGRYCEYDER--NCGSIPHGVWVLQDCWLC
+RCGYGTLHCLSEIR-QS------NCELT-SET---EEIIRL-YSNGLRLQQTVFSV----
+TCLLTL-----------LLACWRQIKMY--------------------------------
+------------------------------------------------------------
+------
+>ENSLSDP00000017890 ENSLSDG00000012780	192	None	cryptic	Lonchura_striata_domestica	10B	10	B
+------------------------------------------------------------
+----SFLNF----------FYRILFTATL-VWQ--AVHLEK-------------------
+------------------GPEREEWKE-DVKSLNATAQKQQPKNEG--SFINALSDMNQS
+YQSRKQQSSRS------FVPFTGIT--------ESKKLN-RRCCQNGGTCILG-------
+--------------------T-FCACLKHFTGRYCEYDD---NCGSIPHGVWVLQDCWLC
+RCGYGTLHCLSEIR-QS------NCELT-SET---EEIIRL-YSNGLRLQQTVFSV----
+TCLLAI-----------LLEFC--------------------------------------
+------------------------------------------------------------
+------
+>ENSMVIP00005028781 ENSMVIG00005020018	199	None	cryptic	Manacus_vitellinus	10B	10	B
+------------------------------------------------------------
+----MYCEN----------HVRVLFTVTL-VWQ--AVHLGKGRG----------------
+------------------KEESE---E-DVKSLNATAQKQQPKNEG--IFINALNDMNQS
+YESRKQQSSRS------LVPFTGIT--------ESKKLS-RHCCQNGGTCILG-------
+--------------------T-FCACLKHFTGRYCEHDERQSNCGSIAHGAWVLKGCWLC
+RCGYGTLNCLSEIM-WD------NCELK-SEK---EEITRL-YSNGLRLQQTVFAV----
+ACLLTI-----------LLEFCCWQL----------------------------------
+------------------------------------------------------------
+------
+>ENSPMJP00000001953 ENSPMJG00000001615	225	None	cryptic	Parus_major	10B	10	B
+--------------------------------MQQPEVKGSAHLPSAPALPEDLTAASG-
+-CRKMYWGN----------QLRILFTVTL-VWQ--AVHLEK-------------------
+------------------GPEKEERKE-DVKNLNATAQKQQLKNEG--TFINALSDMNQS
+YESRKQQSSRS------IVPFTGIT--------ESKKLN-RHCCQNGGTCILG-------
+--------------------T-FCACLKHFTGRYCEHDERLSNCGSIAHGVWVLKGCWLC
+RCGFGTLHCLSEIV-QG------NCELK-SET---EEIIRL-YSNGLRLQQTVFSV----
+ICLLTI-----------LLQFC--------------------------------------
+------------------------------------------------------------
+------
+>ENSTGUP00000000506 ENSTGUG00000000498	193	None	None	Taeniopygia_guttata	10B	10	B
+------------------------------------------------------------
+----HFLNF----------FYRILFTATL-VWQ--AVHLEK-------------------
+------------------GPESEEWKE-DVKSLNVTAQKRQPKNEG--SFINALSDMSQS
+YESRKQQSSRS------FVPFTGIT--------ESKKLN-RRCCQNGGTCILG-------
+--------------------T-FCACLKHFTGRYCEYDER--NCGSIPHGVWVLQDCWLC
+RCGYGTLHCLSEIR-QS------NCELT-SET---AEIIRL-YSNGLRLQQTVFSV----
+TCLLAV-----------LLEFC--------------------------------------
+------------------------------------------------------------
+------
+>ENSACOP00000018548 ENSACOG00000012781	185	None	None	Amazona_collaria	10B	10	B
+------------------------------------------------------------
+----MYWGN----------HVRILFTVTL-VWQ--AVHLGKGKE----------------
+------------------N-----------SVLNATVQKQQPKNEG--TTINAFSDMNQS
+YESRKEQNSLA------VVPFTGIT--------ESKKLN-RHCCQNGGTCILG-------
+--------------------A-FCACLKHFTGRYCEHDD---NCGNIAHGAWVLKGCWLC
+RCGYGTMNCLSEIM-HD------NCE-----N---EDIIRL-FSNGLKIRQTVFAL----
+ACLLTI-----------CLELCCWQL----------------------------------
+------------------------------------------------------------
+------
+>ENSMUNP00000015501 ENSMUNG00000011960	168	None	teratocarcinoma-derived growth factor	Melopsittacus_undulatus	10B	10	B
+------------------------------------------------------------
+----MYWGK----------ENLVF------------------------------------
+----------------------------------SPPLPQQPKNEG--TTINAFSDMNQS
+YESRKEQNSQA------VVPFTGIT--------ESKKLN-RHCCQNGGTCILG-------
+--------------------A-FCACLKHFTGRYCEHDER--NCGSIAHGAWVLKGCWLC
+RCGYGTLNCLSEIM-HN------NCELK-SEN---EEITSL-FSNGLRIQQTVFAL----
+ACLLTI-----------LLELCFWQL----------------------------------
+------------------------------------------------------------
+------
+>ENSSHBP00005024272 ENSSHBG00005020206	178	None	None	Strigops_habroptila	10B	10	B
+------------------------------------------------------------
+----MYWGN----------HVRILFTEKF-------------------------------
+-----------------------------VVCLNATAQKQQPKNEG--TTINVLSDMNQS
+YEIRKQQNSGA------VVPFTGIT--------ESKKLN-RHCCQNGGTCILG-------
+--------------------A-FCACLKHFTGRYCEHDER--NCGSVAHGAWVLKGCWLC
+RCGYGTLNCLSEIM-HN------NCELK-SEN---EEITSL-FSNGLRLQQTVFAL----
+GCLLTF-----------LLELCCWQL----------------------------------
+------------------------------------------------------------
+------
+>ENSSPUP00000006010 ENSSPUG00000004632	124	None	None	Sphenodon_punctatus	10B	10	B
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------TNLNASNNMTQS
+FESRRQQNSRT------FVPFTGLT--------ESKKLN-RHCCQNGGTCILG-------
+--------------------S-FCACPKQFAGRYCEHDEQKSNCGPLAHGDWIRKNCHLC
+RCGYGVLHCLHVRS-GFLNQSRLGCHRS-TVT---FVFTL--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------
+>ENSACAP00000012493 ENSACAG00000012757	202	None	cryptic	Anolis_carolinensis	10B	10	B
+------------------------------------------------------------
+----MSWRQ----------NARFIITMTL-AFQ--AISFGKGSV----------------
+---------------------QEVDRHNNGEHPDTTLQKHYTKHQL--ATLNVINDMNQS
+YESRKQMNSKP------LVPFTGLT--------RSRTLN-RHCCQNGGTCILG-------
+--------------------S-FCACPKHFIGRYCEYDERKSNCGPFKHGEWMRKGCQLC
+RCGYGILHCLPEHI-TN-------CVVT--EE---EEFIYL-PSNCPRLQQTM--S----
+----FL-----------MLLLGGFFTLFCTKLIHQL------------------------
+------------------------------------------------------------
+------
+>ENSLLTP00000024078 ENSLLTG00000017731	191	None	None	Laticauda_laticaudata	10B	10	B
+------------------------------------------------------------
+----LCILC----------LSRFILTITL-VLW--NINFAEGFR----------------
+---------------------KEGDTHDPEGNVDVIIQKHSAKERA--TTLKVYSVMNQS
+SEYKKQINSRP------IVPFTGLT--------ESRTLN-RHCCKNGGTCILG-------
+--------------------S-FCACPQYFVGRYCEHDERKSNCGPFVHGEWIWKGCQLC
+RCAYGVLQCLSEQR-QN-------CGST--L-------FYI-FTLCETLSKMSIIC----
+LYKLYF-----------LLLRGV-------------------------------------
+------------------------------------------------------------
+------
+>ENSNSUP00000019636 ENSNSUG00000014348	202	None	cryptic	Notechis_scutatus	10B	10	B
+------------------------------------------------------------
+----LCILC----------LSRFILTITL-VLW--NINFAEGLR----------------
+---------------------KEGDTHDPEGNVDVIIQKHSAKERA--TTLKVYSVMNQS
+FEYKKQINSRP------IVPFTGLT--------ESRTLN-RHCCKNGGTCILG-------
+--------------------S-FCACPQYFVGRYCEHDERKSNCGPFVHGEWIWKGCQLC
+RCAYGVLQCLSEQR-QN-------CALN--KE---EEFIYL-TSNCPRLQQT--MC----
+F----L-----------ILLLGCFFTWFSTKIFYHV------------------------
+------------------------------------------------------------
+------
+>ENSPVIP00000020579 ENSPVIG00000015694	202	None	cryptic	Pogona_vitticeps	10B	10	B
+------------------------------------------------------------
+----MRWRQ----------NARFIFTLIL-ALQ--DVPLGKGYK----------------
+---------------------KEMERGHTGENDDARAPKHHPKDQT--TTLNVFKAMNQS
+YESRKHMNFKP------VVPFTGLT--------QSRTLN-RHCCQNGGTCILG-------
+--------------------S-FCACPKHFIGRYCEYDERKSGCGPFKHGEWIQKACRLC
+RCGFGVFHCLSQPI-QN-------CAVR--KE---EEFIHL-PSNCPGLQQTM--C----
+----FL-----------MLLLVAFLALFCSKPFHQL------------------------
+------------------------------------------------------------
+------
+>ENSSMRP00000024870 ENSSMRG00000019224	198	None	None	Salvator_merianae	10B	10	B
+------------------------------------------------------------
+----MHWTQ----------NTRFILTVTL-ALQ--GIQFGKGYN----------------
+---------------------EEEHVQDIGENPGSTSQKQHTKDQV--TTLNAFHDMNQS
+YESRKQINTRQ------MVPFTGLT--------QSKTLD-RHCCQNGGTCILG-------
+--------------------S-FCACPKHFVGRYCEHDERKSNCGPFMHGEWIQKGCRFC
+RCVYGFLHCLSENT-QN-------CVVR--EE---EEFVHL-RSNCERLQRTM--G----
+----FM-----------ISLLSCVFVLFFKAF----------------------------
+------------------------------------------------------------
+------
+>ENSACUP00000015549 ENSACUG00000010447	190	None	None	Athene_cunicularia	10B	10	B
+------------------------------------------------------------
+----MYWGN----------HVRILFTVTL-VWQ--AARLEKGME----------------
+------------------N-----------FVFNATAQKQQPENEG--TIINALSDMNQS
+YESRKQQNSRA------LVPFTGIT--------ESKKLN-RHCCQNGGTCILG-------
+--------------------A-FCACLKHFTGRYCEHDER--NCGSIAHGAWVLQGCWLC
+RCGYGTLNCLSEVM-HD------NCELK-SGK---EAITRL-YSNGIRLQQTVFVF----
+VCLFTI-----------LMELCCWQL----------------------------------
+------------------------------------------------------------
+------
+>ENSSCUP00000024812 ENSSCUG00000018186	186	None	None	Struthio_camelus_australis	10B	10	B
+------------------------------------------------------------
+---------------------LILFTVTL-VWQ--AIHLGKGRE----------------
+---------------------KEEHEK-DVENINATAQKQQHKKER--TVINTLSDMNQS
+YESRKQQHSRT------LVPFTGIT--------ESKKLN-RHCCQNGGTCILG-------
+--------------------T-FCACRKHFTGRYCEYDER--NCGSVAHGAWVLQGCRLC
+RCGYGALNCLSDVM-HG------SCE-----E---EEMPRL-YSSGLRLQQTVFAL----
+FCLLTV-----------LLELCCWQL----------------------------------
+------------------------------------------------------------
+------
+>ENSCABP00000025329 ENSCABG00000018639	191	None	None	Chelonoidis_abingdonii	10B	10	B
+------------------------------------------------------------
+-------LF----------WCKILFTVSL-ALQ--VIHFGKGKG----------------
+---------------------K-EHKS-DRENVHATVQKQQPRNQG--TT-HMFNDMNRS
+DESSKQQSSRT------FVPFTGLT--------DSKKLN-RHCCQNGGTCILG-------
+--------------------S-FCACPKHFTGRYCEHD---DNCGSVAHGVWVQKGCRFC
+RCGYGVLHCLSEIM-QD------NCE-----E---EEFLRL-RSSGLRLQQTK--I----
+----CS-----------LILLLCFFTLFCSRIHQQL------------------------
+------------------------------------------------------------
+------
+>ENSGAGP00000029538 ENSGAGG00000021336	202	None	None	Gopherus_agassizii	10B	10	B
+------------------------------------------------------------
+----MYRGQ----------HVRILFTVSL-ALQ--VIHYGKGRE----------------
+---------------------KEEHKS-DRENVHATAQKQQPKNQG--TT-HMFNDMNRS
+DESSKQQSSRT------FVPFTGLT--------DSKKLN-RHCCQNGGTCILG-------
+--------------------S-FCACPKHFTGRYCEHDEQNSNCGSVAHGVWVQKGCRFC
+RCGYGVLHCLSEIM-QD------NCDLK-TEE---EEFLRF-RSSGPRLQQTK--M----
+----CS-----------LILPLCFFTLFCSRLHQQL------------------------
+------------------------------------------------------------
+------
+>ENSTMTP00000026920 ENSTMTG00000019671	181	None	None	Terrapene_carolina_triunguis	10B	10	B
+------------------------------------------------------------
+--------------------------------M--VIHYGKGRE----------------
+---------------------KEEHKG-DGENVHATAQKQQPKNQG--TTLHMFNDMNRS
+DESSKQQSSRT------FVPFTGLT--------DSKKLN-RHCCQNGGTCILG-------
+--------------------S-FCACPKHFTGRYCEHDD---NCGSVAHGVWVQKGCRFC
+RCGYGILHCLSEIT-QD------NCGNR-PVF---Q---TL-KSMGLFICVN--------
+-----------------YMHKICWVRRFRTFLKMITNVK--YK-----------------
+------------------------------------------------------------
+------
+>ENSNPEP00000009471 ENSNPEG00000007108	197	None	cryptic	Nothoprocta_perdicaria	10B	10	B
+------------------------------------------------------------
+----PFWRG----------FRKILFTVTL-VWQ--AIHLGKGHE----------------
+---------------------KEEHEK-DVENVNATAQKQQPKNEG--TVINTLSDMNQS
+YEGRKQQHSRT------FVPFTGIT--------ESKKLN-RNCCQNGGTCILG-------
+--------------------T-FCACQKHFTGRYCEYDER--NCGSIAHGAWVLQGCRLC
+RCGYGALHCLSDIV-HG------SCDLK-AED---KEMPRL-YSNGQRLQQTAFAL----
+FCLVLF-----------ILELCCWQL----------------------------------
+------------------------------------------------------------
+------

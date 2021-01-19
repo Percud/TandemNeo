@@ -1,0 +1,330 @@
+>ENSATEP00000018684 ENSATEG00000013013	148	None	None	Anabas_testudineus	1169A	1169	A
+------------------------------------------------------------
+---MEASSAL-LVCM-L-VVTCSVWTVNGRSIEVNIDDQELVDVE-------------VA
+VKAGKLPGVCWACKWALNKVKAILRRNST-------------------------------
+-QEFIKGKLLS-ICNQIGLLKSLCRKFVNSHLGVLIEELTTSDNVLTICVNTKACKSNEL
+MEQL-----FFPDDEDSLIVFNEFP-------------------------
+>ENSBSLP00000034559 ENSBSLG00000016819	154	None	None	Betta_splendens	1169A	1169	A
+------------------------------------------------------------
+---MDVPSAL-LVCM-LLLATCSVWTGDGRSFQVSIDDQQPMDEAV-----------GVS
+GAGGKLPGMCWGCKWALNKVKKVIGPNAT-------------------------------
+-AEAISSKLLR-VCDGIGLIKSKCYKFVKNHLSVLVEELSTTDDVRTICVNTGACSPKEL
+MELF-----LSS-GEDPQVVINVNA-----------RMKN----------
+>ENSORLP00000039639 ENSORLG00000022450	139	None	antimicrobial peptide	Oryzias_latipes	1169A	1169	A
+------------------------------------------------------------
+---MESTSV-L-LLA---VLVISVWTISETGR-VTLDDE-----------------NQLE
+GSAEGLPGMCWGCKWMLKKVKAALGNTTK-------------------------------
+-VEKIKSQLLN-VCDKIGLLRSQCKKFVAKNLDVLTEELTTTDDVRTICVNVRACRPKEL
+LDLT-----PLNEEPFMEVNSIP---------------------------
+>ENSGWIP00000035853 ENSGWIG00000018508	147	nkl	antimicrobial peptide	Gouania_willdenowi	1169A	1169	A
+------------------------------------------------------------
+---METSSIVL-LCI---LATCSVWAVHGRTLEINMSEEEQ-------------DSGDSS
+VEAQALPGKCWVCKWVLNKLKKFAGPNAT-------------------------------
+-AETLKSKLLS-VCDEIGLLKPACRKFVKSHLGELIEELTTTDDVRTICVNTEACKPKQT
+LDFI-----LSPNKDKQCIEINDF-F------------------------
+>ENSSFAP00005020003 ENSSFAG00005010439	182	None	None	Salarias_fasciatus	1169A	1169	A
+----------------------MEASGSRRFTSAGYKR--VPAP--------------QS
+VLTMETPPALL-LCL---LLACSVWAAHGRAVKISVDEPEPEPEP---------EDAASS
+VEAGGLPGICWACKWALKKVKKVVGDNAT-------------------------------
+-AAALRSRLLS-VCNEIGLLKTACRSFVKKNLGELIEELTTTDDVKTICINVRACKPKED
+LDPL-----PAADTPSPAPDRSPAPWFRLRQ-------------------
+>ENSENLP00000023933 ENSENLG00000010845	141	None	antimicrobial peptide	Echeneis_naucrates	1169A	1169	A
+------------------------------------------------------------
+---MEMR----LVLF-AFLVTCSVWAVYGRSLEIKIDDQEEVEME-------------IS
+KEARKLPGLCWACQWALNKVKKTLKRNNT-------------------------------
+-EDYVKKKLTA-VCSQMGLLKSLCERFVRKNLEVLIEELTTTDDVKTICVNAKACRKMNL
+QQII-----FYNSNEMYDF-----P-------------------------
+>ENSSDUP00000023968 ENSSDUG00000017427	147	None	antimicrobial peptide	Seriola_dumerili	1169A	1169	A
+------------------------------------------------------------
+---METSSVL-LVCI-L--VTCSVWTVCGRSFVVNIDDQEQVEVE-------------IS
+TEAGKIPGVCWACKWALKKIKKIIGKNTT-------------------------------
+-SEEVKSKLNA-VCNEIGLLKDLCRKFVKKHLGELIEELTTSDDVRTICVNTKACKPKEL
+SHLI-----FYPGDEDSQAEIYDFS-------------------------
+>ENSACIP00000005861 ENSACIG00000004630	133	None	None	Amphilophus_citrinellus	1169A	1169	A
+------------------------------------------------------------
+--------------M---TQSFILTSTPVAKSESPIKLTCM-------------IL---C
+LLYLQIPGKCWACKWILNKVKKFAGPNAT-------------------------------
+-AESLSSKLSS-VCNEIGLLKSLCRKFVKXHLGELIEELTTTDDVKTICVNMGACKPKEV
+-DLF-----FYPKKGDPRIEIKEF-H------------------------
+>ENSACLP00000025132 ENSACLG00000017053	143	None	None	Astatotilapia_calliptera	1169A	1169	A
+------------------------------------------------------------
+---METSSLLF-LCL---VATFSVRAVHGRTVEVSIDDEED-------------VD---V
+GISMGLPGKCWACKWILNKVKKLAGPNAT-------------------------------
+-AESLKSKLLS-VCDGIGLLKSLCRKFVKVHLGELIEELTTTDDVRTICVNMGACKSKEL
+-ELL-----FYAENGAPLIDVNEH-D------------------------
+>ENSHBUP00000020723 ENSHBUG00000023002	143	None	None	Haplochromis_burtoni	1169A	1169	A
+------------------------------------------------------------
+---METSSLLL-LCL---VAAFSVRAVHGRTLEVSIDDEED-------------VD---I
+EVSMGLPGKCWACKWILNKMKKFAGPNAT-------------------------------
+-AESLKSKLLS-ICDEIGLLKSLCRKFVKVHLDELIEELTTTDDVRTICVNMGACNPKEV
+-DLF-----FYPEKGAPRIDVKEF-H------------------------
+>ENSMZEP00005006871 ENSMZEG00005005266	143	None	None	Maylandia_zebra	1169A	1169	A
+------------------------------------------------------------
+---METSSLLF-LCL---VATFSVRAVHGRTVEVSIDDEED-------------VD---V
+GISMGLPGKCWACKWILNKVKKLAGPNAT-------------------------------
+-AESLKSKLLS-VCDGIGLLKSLCRKFVKVHLGELIEELTTTDDVRTICVNMGACKSKEL
+-ELL-----FYAENGAPLIDVNEH-D------------------------
+>ENSNBRP00000000490 ENSNBRG00000000454	141	None	antimicrobial peptide	Neolamprologus_brichardi	1169A	1169	A
+------------------------------------------------------------
+---METSSLLF-LCL---VATFSVRAVHGRTLEVSIDDEED-------------VE----
+-VSMGLPGKCWACKWIVNKVKKLAGPNPT-------------------------------
+-AESLKSKLLS-VCDGIGLLKSLCRKFVKVHLGELIEELTTTDDVRTICVNMGACKSKEL
+-ELL-----FYAENGAPLIDVKEH-D------------------------
+>ENSONIP00000004521 ENSONIG00000003594	161	None	uncharacterized	Oreochromis_niloticus	1169A	1169	A
+-----------------------------MYKSSHNYR--CCHD--------------LS
+VAAMETSSLIF-LCL---VATFSVRAVHGRTLEVSIDDEED-------------VD---M
+EVLMGLPGKCWACEWILNKVKKLAGPNPT-------------------------------
+-AESLKSKLLS-VCDGIGLLKSLCRKFVKAHLGELIEELTTTDGVRTICVNMGACKSKEL
+-ELL-----FYAENGGPLIDVKEL-D------------------------
+>ENSPNYP00000026715 ENSPNYG00000020141	139	None	None	Pundamilia_nyererei	1169A	1169	A
+------------------------------------------------------------
+---METSSLLF-LCL---VATFSGVYRKNLV----TNTPNM-------------HG---C
+VLYLQLPGKCWACKWILNKVKKLAGPNAT-------------------------------
+-AESLKSKLLS-VCDGIGLLKSLCRKFVKVHLGELIEELTTTDDVRTICVNTGACKSKEL
+-ELL-----FYAENGAPLIDVNEH-D------------------------
+>ENSCHAP00000036445 ENSCHAG00000017239	125	nkl	NK-lysin tandem duplicate	Clupea_harengus	1169A	1169	A
+------------------------------------------------------------
+---MKITIVLL-GS----VLICSALAYAWEG-----PDYEE---N---------SLEMDQ
+GGEAKLPGVCWACKWVLNKVKKSISKTSK-------------------------------
+-QDEIGKKLQA-TCDKIGFLKSMCKRFVKKYLPELVEELSTTDDVTTICVTVKACKPKQL
+IYI-----------------------------------------------
+>ENSCARP00000091546 ENSCARG00000045266	124	None	antimicrobial peptide	Carassius_auratus	1169A	1169	A
+------------------------------------------------------------
+--------MLQ-RIVLITLLISSACALHWEMHIKESIGNQLEESSG-------------E
+IQTEQLPGLCWACKWAMGKLKKRISNGTT-------------------------------
+-ADEVKKKLEN-ICDRIGFLKSLCRKFVNKYMGTLIEELSTTDDAKTICINIRVCKKKE-
+--------------------------------------------------
+>ENSCCRP00000067836 ENSCCRG00000036564	121	None	antimicrobial peptide	Cyprinus_carpio	1169A	1169	A
+------------------------------------------------------------
+--------MLW-KIILITLLIFSACAQHWEMHKEESIGNELEESSG-------------E
+IQTEQLPGLCWACKWAMGKLKKQISNGTT-------------------------------
+-ADEIKNKLGT-TCDQIGFLKSLCRKFVNKYMGTLIEELSTTDDARTICVNIGICK----
+--------------------------------------------------
+>ENSDARP00000064632 ENSDARG00000044023	121	nkl	NK-lysin tandem duplicate	Danio_rerio	1169A	1169	A
+------------------------------------------------------------
+--------MLR-GIILLTLLISSVCAVQWEMHKEQHSGIELE-GSG-------------E
+IPTEQLPGMCWACKWALGKVKRKISNGAT-------------------------------
+-QDEIKVQLSQ-VCDQIGFLKSLCRGFVNKYMDVLIEELSTTDNARTICANISVCKK---
+--------------------------------------------------
+>ENSSGRP00000097791 ENSSGRG00000048812	122	None	antimicrobial peptide	Sinocyclocheilus_grahami	1169A	1169	A
+------------------------------------------------------------
+--------MLR-RIILIALLISSVCALHWEMRKEESTGNELEEDSG-------------E
+IQTEQLPGICWACNWAMKKLKKQISNGAT-------------------------------
+-ADDIKKKLGM-VCDEIGFLKSLCRKFVNKYTDTLVEELSTTDNARTICVNITVCKK---
+--------------------------------------------------
+>ENSCVAP00000031373 ENSCVAG00000020578	146	None		Cyprinodon_variegatus	1169A	1169	A
+------------------------------------------------------------
+---MKTFSFFF-LCI--IFMAGSVWVVQGRGLQVRIDD--T-------------ELEEPV
+LEQQGIPGLCWACKWALNKLKKSLSKNAT-------------------------------
+-VEAIKAKLKA-VCNGAGLLKSKCNKFVEKQLGVLVEELTTTDDVKTICINTGACKSKEP
+LDLI-----FFTNREPLRIKISELP-------------------------
+>ENSFHEP00000000817 ENSFHEG00000001559	130	None	antimicrobial peptide	Fundulus_heteroclitus	1169A	1169	A
+------------------------------------------------------------
+----GHFSVKLTFII--LLNLSTVWMIQGRNLQVNIDD--E-------------ELAEPN
+AKQQGIPGICWGCKWALNRVKKVLGKNST-------------------------------
+-V-----QLKS-VCDKIGLLKSKCKKFVDKNLGVLVEELTTTDDVRTICVNLTEGIMGSV
+VSQC-----ST----S--FS------------------------------
+>ENSGAFP00000011319 ENSGAFG00000007682	142	nkl	NK-lysin tandem duplicate	Gambusia_affinis	1169A	1169	A
+------------------------------------------------------------
+---MENRSF-L-LCI---VLACSIWMIQGRSVKIRMDD--D-------------ELGEPD
+--VQGLPGMCWGCKWALNKLKKELGSNST-------------------------------
+-AEAIKAKLRS-VCDGIGLLKSQCRKFINGNLGILIEELTTTDDVRTICVNLRACKPKDL
+EMIF-----DSIKQESLRIEINDVN-------------------------
+>ENSKMAP00000011719 ENSKMAG00000008789	165	None	antimicrobial peptide	Kryptolebias_marmoratus	1169A	1169	A
+------------------------------------------------------------
+---FITYV---RTLI-GSFSFLAVWMVQGRSFEVSIDDEEASLME-------------GS
+TKAEGFSVVCKACQWALKRVKKMIGPNAT-------------------------------
+-AEKVTQVLKN-VCDGAGPLKKKCHSFVDSHLRELVKELLTDDGVRTICIKTRASETELL
+KLKE------------AEYELKRWLKIAKCWVEVKSSKRLAESVIRSARS
+>ENSPREP00000030271 ENSPREG00000020508	147	nkl	NK-lysin tandem duplicate	Poecilia_reticulata	1169A	1169	A
+------------------------------------------------------------
+---MEKRSFLL-LCI---FLACSIWMIQGRSLKIRIDDDDD-------------ELGEPD
+GDVQGIPGMCWGCKWALNKLKKQLGSNAT-------------------------------
+-VEAIKAKLRS-VCDGIGLLKSKCHKFVNTNLGVLIEELTTTDDVRTICVNVGACKPKDL
+EMIF-----YPNKQEMRRIEISEVN-------------------------
+>ENSXMAP00000007843 ENSXMAG00000007827	144	None	antimicrobial peptide	Xiphophorus_maculatus	1169A	1169	A
+------------------------------------------------------------
+---MENRSF-L-LCI---VLACSIWMVQGRSLKIRIDD--D-------------ELGEPD
+VDVQGLPGMCWGCKWALNKLKKKLGSNST-------------------------------
+-AEAIKAKLRS-VCDGIGLLKSQCRKFVDANLAVLIEELTTTDDVRTICVNVGVCKQKDL
+EMIF-----YPNKQESRRIKISEVN-------------------------
+>ENSELUP00000014770 ENSELUG00000014259	128	nkl	antimicrobial peptide	Esox_lucius	1169A	1169	A
+------------------------------------------------------------
+---MKTSVILL-AFG---LLACSVCEHS--------QDFDDQESI---------KSQPEE
+RMEQQLPGTCWACKWALNKVKKSLPATSN-------------------------------
+-QEQIKGKLLA-VCDKIGFLKSLCKSFVNKNLMVLIEELSTTDDVRAICVNINACKPKED
+LDLS-----Y----------------------------------------
+>ENSNMLP00000002779 ENSNMLG00000002000	161	None	None	Neogobius_melanostomus	1169A	1169	A
+--------------------------------------------MP---------YGLI-
+----------F-IYK---TFFFFFFLLKKKKKKKKKNSNSPTRLCCPTTLIKRTHGFELF
+CHYFQLPGLCWTCKWVMNKVKKREIKCACF------------------------------
+-LQTLTSKLLS-VCDKIGFLKSRCQKFVKAKLQVLVEELSTTDDVHTICVNVKACKPKEA
+MTDD-----YYPKDAGETFSGCYMEE------------------------
+>ENSPMGP00000012985 ENSPMGG00000010707	137	nkl	NK-lysin tandem duplicate	Periophthalmus_magnuspinnatus	1169A	1169	A
+------------------------------------------------------------
+---MNRSSLV-VLCV-L--LSCS-----GETLILFLLS-------------------RLC
+SYILMLPGVCWACKWALNKIKKKMGNNAT-------------------------------
+-AEVIKSKLLS-ICNQIGLIKSLCQKFVQKNLEVLIEELTTTDDVRSICVNVKACKSVSI
+YTYTHTA--FCNKNVNNLIFVSH---------------------------
+>ENSEEEP00000044539 ENSEEEG00000021034	127	None	None	Electrophorus_electricus	1169A	1169	A
+------------------------------------------------------------
+----SFVTHHT-LPVVFTFLCSSAWAMHLEYLKDILV-----SSRGS--L--DQ-TDLLT
+PE-VKLPGACWACKWIIKTLKRQLGTETN-------------------------------
+-MDNIKIGLNQVFCDQIGFLKFLCKPLVSKYMDVLTEELSTTDNPAIACANIGIC-----
+--------------------------------------------------
+>ENSMMDP00005005114 ENSMMDG00005002839	144	None	NK-lysin tandem duplicate	Myripristis_murdjan	1169A	1169	A
+------------------------------------------------------------
+------------MFN-ISPFFFTVWMVHGRYLVVNLDDADLVEEE-------------IP
+V-AGKLPGICWACKWALNKVKKAAGNNAT-------------------------------
+-AE-VKIIILL-LCDQIGFLKSLCRKFVKKNLSVLIEELSTTDDVRTICVNLKACKALFV
+SPGYLVLLMVYSSFFFFLFFLFVLQ-------------------------
+>ENSSORP00005056316 ENSSORG00005025064	147	None	None	Sphaeramia_orbicularis	1169A	1169	A
+------------------------------------------------------------
+---MKTSSVLL-VCI---LAACSVWTVHGRCVEISNDDQVQ-------------NDLEVD
+AAALKLPGLCWACKWTMNKLKKFGGANAT-------------------------------
+-AESLKSKLLS-VCDEIGLLKPLCRKFVKKNLGQLIEELTTTDDVRTICVNVNACHKVEV
+HSIK-----NRE-----NSRKNDF-FIKICQ-------------------
+>ENSLBEP00000007470 ENSLBEG00000005777	141	None	None	Labrus_bergylta	1169A	1169	A
+------------------------------------------------------------
+---MEASSVLLLMCI-L--GTCSVWTVHGASLEVNIDDQEHQQVDV-----------DVD
+V-DILRPGICWACKWTLNKVKKALGHNAT-------------------------------
+-AE-VKKNLLS-CCEEIGFLKPLCRHFVKKHLGVLIEELSTTDGVNTICVNVRACNPHF-
+-----------NEMEDSSSEVDEYP-------------------------
+>ENSPKIP00000012712 ENSPKIG00000000424	193	None	None	Paramormyrops_kingsleyae	1169A	1169	A
+MDTRNLKRETHSIVRGKGAGAQPPPRAIRSWVGLHYSTERKPPPLNRSVSTPRTDDASEG
+FMTMTCIHILA-GVLFLSALAESAIVDRWEYREVYFQKI--NETSED--L-----QELEA
+LLEEQLPGLCWACKWIVKKARKLIGDNKT-------------------------------
+-PDRMRDVLNR-VCDQIGFLKSQCKRFLGKVMDTLVEELSTTDSPQQACINLNACK----
+--------------------------------------------------
+>ENSCGOP00000047473 ENSCGOG00000021287	153	nkl	uncharacterized	Cottoperca_gobio	1169A	1169	A
+------------------------------------------------------------
+---METYSCL-LVCI-L--VTCSVWTVNGRSFEVNVDDQEPVEVE-------------IS
+VKAGKLPGVCWACKWALNKVKKVAGRNAT-------------------------------
+-VEKLTSKLKV-VCDQIGLLKSLCRKFVTKHLAELIEELTTTDDVKTICVYTRACKSKEL
+LEQV-----YPSDKDDFQIQINEYP-----------RRRMHE--------
+>ENSGACP00000012178 ENSGACG00000009229	146	nkl	NK-lysin tandem duplicate	Gasterosteus_aculeatus	1169A	1169	A
+------------------------------------------------------------
+---METSSVL-LVCI-L--AACSVWAVHGRSFEVNIDDQKQVEVE-------------IS
+V-NGKLPGLCWACEWALKKVKKAIGRNAT-------------------------------
+-AETVTTKLKS-ICREMGYLKSLCKGFVTKHLGELIEEFTTTDDVRTICVNTRACKPKEF
+ADIL-----FYQKEDESSSEMNVYR-------------------------
+>ENSCSEP00000003877 ENSCSEG00000002527	127	nkl	uncharacterized	Cynoglossus_semilaevis	1169A	1169	A
+------------------------------------------------------------
+---MNKSPIL-LFCI-L--AACSVWSVHGKSQEMNIDDEEPAEVE-------------LP
+V-EAKPPGLCWGCKWALNKVKKAMTQKET-------------------------------
+-YEKVKARLIK-ICNKIGFLKSRCHKFVITHLDELVEELSTTDDVKTICVNVKACNSPAC
+F-------------------------------------------------
+>ENSSMAP00000032944 ENSSMAG00000020183	147	None	None	Scophthalmus_maximus	1169A	1169	A
+------------------------------------------------------------
+---METSSVL-LVCI-L--VTCSVWTVHGRSLEINIDDQEQVDVA-------------IS
+VEAGKLPGKCWACKWALNKVKKVMGPNVT-------------------------------
+-SEGVKSKLNI-VCNEIGLLKSLCRKFVNSHIWELVEELSTTDDVRTICVNTGACEPKQL
+SHLL-----FYPKQEESQTEIIEYS-------------------------
+>ENSHHUP00000063447 ENSHHUG00000037495	136	None	None	Hucho_hucho	1169A	1169	A
+------------------------------------------------------------
+---MKTSLVLL-TLS---LMACSVWEVCGQCQEVNLDDQEDQEVV---------EAQPEK
+HIVQQLKGTCWACMWALNKVKKHISSSSS-------------------------------
+-EAQIKQKLLS-VCDKMGLLKSLCKGMVKKHLWVLVEELSTSDDVRTICINIKACKPKYV
+LDLS-----Y----------------------------------------
+>ENSOTSP00005074442 ENSOTSG00005035075	133	None	antimicrobial peptide	Oncorhynchus_tshawytscha	1169A	1169	A
+------------------------------------------------------------
+---MKTSLVLL-ALS---LLACSVWEIHGQCQEVDLDD---QEVL---------EAKPEK
+RMEQQLKGTCWVCKWALNKVKKSISTSSS-------------------------------
+-QEELKQTLLS-VCDNIGFLKSGCKGLVKKHLWVLIEELSTSDDVRTICVNIKACKPKEV
+LDLS-----Y----------------------------------------
+>ENSSTUP00000076647 ENSSTUG00000033757	136	None	antimicrobial peptide	Salmo_trutta	1169A	1169	A
+------------------------------------------------------------
+---MKTSLVLL-TLS---LLACSVWEVCGQCQEVNLDDQEDPKVV---------EAKPEK
+HMVQQLKGTCWACMWALKKVKEHISSSSS-------------------------------
+-EVEIKQKLLS-VCDKMGLLKSLCKGMVKRHLWVLVEELSTSDDVRTICINIKACKPKYI
+LDLS-----Y----------------------------------------
+>ENSSAUP00010006342 ENSSAUG00010003231	147	nkl	antimicrobial peptide	Sparus_aurata	1169A	1169	A
+------------------------------------------------------------
+---MEQSSVL-LVCI-L--VTCCVWTVHGRTLQINTDDQEPVDIE-------------IS
+GEAGKIPGICWACKWALNKVKKVIGPNAT-------------------------------
+-TESVTTKLNS-VCNEIGLLKALCRKFVKAHLGELIEELTTTDDVRTICVNTGACKPKEW
+VNLL-----FYRSDVDAKFEMIDYP-------------------------
+>ENSMAMP00000011208 ENSMAMG00000007601	146	nkl	antimicrobial peptide	Mastacembelus_armatus	1169A	1169	A
+------------------------------------------------------------
+---MKASSVL-LVCL-L--VTCSVWTVQARSLEISIDDEEQVDVE-------------IS
+MEAGKFPGLCWACKWALNKVKKL-TRNCT-------------------------------
+-VEDIKSKLSS-VCDQIGLLKSLCRKFVKTHLGELIEELTTTDDVKTICVNTGACKQKEL
+LDLL-----FYPRHKDPQILFNEDD-------------------------
+>ENSMALP00000018012 ENSMALG00000012564	147	None	antimicrobial peptide	Monopterus_albus	1169A	1169	A
+------------------------------------------------------------
+---METSSVL-LVCI-L--VTCSVWTVHGRTFEVSIDDQKQVDVE-------------IS
+VEAGKRPGLCWACKWALNKVKAVIGPNTT-------------------------------
+-T-----ELKS-ICDQIGLLKSMCRKFVTKHLQELIEELTTTDDVRTICVNTRAWTIKSN
+EDYF-----LYFIQLLH-VKLSVFL-----------QSDVTT--------
+>ENSMMOP00000013385 ENSMMOG00000010280	183	None	None	Mola_mola	1169A	1169	A
+-------------------------MNQIKLVSTDTSA--LEV------------ETSKD
+TLLFMRLPVF-LSCV-L--LVINIRTTDKRSARFYILDSGTICWLIT--VITTSGCAWRE
+SKKCALLGVCWLCQWALNKVKKRIGANVT-------------------------------
+-VESLKSKVSS-ICNEAGFLKSKCRKFVARHLGEFIEELTTTDDVRTICINAKDLDQVF-
+----------NLDDEDSQSDMIVYV-----------QRGVQGS-------
+>ENSTRUP00000019323 ENSTRUG00000007776	145	nkl	antimicrobial peptide	Takifugu_rubripes	1169A	1169	A
+------------------------------------------------------------
+---MATSSIL-LLCI-L--VTCSVWTVQARNLKVSTDDDDEDQDE-------------LA
+IEAGRLPGVCWACKWALKKVKIIIGNNSN-------------------------------
+-SEAIKAKLMS-ICNQIGLLKSLCRKFVTKHLGVLIEELTTSDDVRTICVNVKACKPKEL
+EELF-------QSGFSSQLEMNEYA-------------------------
+>ENSTNIP00000002877 ENSTNIG00000001275	111	None	None	Tetraodon_nigroviridis	1169A	1169	A
+------------------------------------------------------------
+-------------------------------------DDDEDQM-------------VIS
+EEDVQLSVLCKACTWAIGRVKKALGKNTT-------------------------------
+-VEIINKKLST-ICNNAPFLKSQCRKFINKHLDMLIRELTTNDGVKTICIKVKACNNLTI
+TEMYFVF----SSNHLY-F-------------------------------
+>ENSATEP00000018697 ENSATEG00000013023	148	None	antimicrobial peptide	Anabas_testudineus	1169B	1169	B
+------------------------------------------------------------
+---MKTSSVL-LVCM-L-VVTCSVWTAQGRRIEVNIDDREQEDVE-------------TS
+VEAKKLPGVCWACQWVLKKVKKVIGPNAT-------------------------------
+-AESITSKLLP-VCDKIGLLKSLCRKFVKSHLSVLVEELTTTDDVKTICINTGACKSKEL
+MDQF-----FFSGDEDAQIIINKYV-------------------------
+>ENSAMXP00000029094 ENSAMXG00000042375	128	None		Astyanax_mexicanus	1169B	1169	B
+------------------------------------------------------------
+-----MTTMLK-IILLTFLLIGTVCAMHLELLRVDDDEEHLNESL-----------DLLE
+PEV-EFPGMCWACKWAMGRLKSSLGTNTS-------------------------------
+-KEAVKAMLGT-VCDGIGFLKFLCNRMVKRYFDVLVEELSTVDNPAIICSHIGVWCVKK-
+--------------------------------------------------
+>ENSPNAP00000024256 ENSPNAG00000008764	146	None	antimicrobial peptide	Pygocentrus_nattereri	1169B	1169	B
+------------------------------------------------------------
+--------MLR-NILIAFLLIDSGCAMHLEYLKVESDEEPLHESLAA-----DQAEDLPM
+PGA-AFPGVCWACKWAMGKLKQSLRSDAT-------------------------------
+-VGMIKEKLRD-VCNGIGFLKYICKGIVNRYLDVLTEELSTTDSPRTICANIGVCSSKTL
+LEFIQDF-------PEVQQKF-----------------------------
+>ENSACIP00000005874 ENSACIG00000004639	131	None	None	Amphilophus_citrinellus	1169B	1169	B
+-------------------------------------------M--------------LS
+VGQLG--NWLL-FSLSKTAVTHNSWCVQVLFLETS-------------------------
+-FLTINKQLCWACKWILNKVKKF-------------------------------------
+---SLSSKLLS-ACDEIGLLKPMCRKFVKAHLGELIEELTTTDDVRTICVNMGACKVHLN
+-AFI-----FRKCLCS--------VHYSLCRC------------------
+>ENSACLP00000025010 ENSACLG00000017001	143	None	None	Astatotilapia_calliptera	1169B	1169	B
+------------------------------------------------------------
+---METSSLLL-LCL---VAAFSVRAVHGRTLEVSIDDEED-------------VD---I
+EVSMGLPGKCWACKWILNKMKKFAGPNAT-------------------------------
+-AESLKSKLLS-ICDEIGLLKPLCRKFVKVHLEELIEELTTTDDVRTICVNTGACNPKEV
+-DLF-----FYPEKGAPRIDVKEF-H------------------------
+>ENSDARP00000109920 ENSDARG00000089202	119	nkl	NK-lysin tandem duplicate	Danio_rerio	1169B	1169	B
+------------------------------------------------------------
+--------MLR-GIVLLTLLISSACAAHLEMHKEPFPEFDFE-GSG-------------E
+IPKEQLPGLCWACKWAMGKLRQHISNTAN-------------------------------
+-KEEIKNQLAQ-VCDGIGFLRPLCRWFVKKYMDILTEELSTTDGPRTICSHLHVC-----
+--------------------------------------------------
+>ENSNMLP00000002737 ENSNMLG00000001976	182	None	None	Neogobius_melanostomus	1169B	1169	B
+---------MCCMHR------ALWPANHVGYLSCTSDP--CIVPIT---------AGLEL
+TEKMNCSSLVL-LCV---LLIGSVWMIQGKRVAV---DDGP------------QDQDEVD
+TTETKLPGLCWACKWVMNKVKKEAGKN-AT------------------------------
+-AKTLTSKLLS-VCDKIGFLKSRCQKFVKAKLQVLVQELSTTDGVRTICIKVKACKPKEA
+MTDD-----YYPKDAGETFSGRYME-------------------------
+>ENSSFOP00015066774 ENSSFOG00015002298	163	None	None	Scleropages_formosus	1169B	1169	B
+------------------------------------------------------------
+---MTSVRICI-LLG---FLATSAMAFHLEFRELDLQESGGNETG------K-DLWRFEE
+KVDGQLPGVCWACKWIVNKVKKSLPRDNSEKQVHDLLFTPCFKHMDALWIFAWSLMFYFS
+HQNEVRDKLHR-VCDKIGFLKSLCKKFVTKTIDILVEELSTTDDAKTICVKVRACSSK--
+--------------------------------------------------
+>ENSIPUP00000001316 ENSIPUG00000000939	129	None	NK-lysin type	Ictalurus_punctatus	1169B	1169	B
+------------------------------------------------------------
+--------MFW-NLLVASFFIGSACAMHMEYLRVDSAEELLDGTLDS--A--DKDEDLPM
+SEIQLFPGACWACKWAMNNVKKHLGINPT-------------------------------
+-VDMIKAQLAE-VCNSIGFLRGLCKTIINKYLDTLVEELSTTDNPATICVNIGIC-----
+--------------------------------------------------

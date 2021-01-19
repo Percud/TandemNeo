@@ -1,0 +1,384 @@
+>ENSBBBP00000014517 ENSBBBG00000022268	244	None	None	Bison_bison_bison	91A	91	A
+------------------MNRDS-FSENPREDRKKLEKKSK-------------------
+------------------S--------GFLKWARLGYSEKTTYVNMKRNYETMTRLGLQ-
+CTP------------------PAFMCPKNGATKSKRCDSKTK-NPRE----KGNSKALE-
+------------KWIL-------------------IVCDFHVKKVMPKKP--VKGKKRSK
+IV---------PG--------TSGPEQ-----AQRQLRSQAKASIS-------AQQSKKT
+AGSKKKK------VS-AIR-------LRERKPVAYEEISDPEEESNGNTVDVWANRRQKR
+EPVAQE-----EISDHEEESNRNTVNVWANRLRKRK-PVAYEEISDPEEEEDEDD
+>ENSBTAP00000065558 ENSBTAG00000048817	249	SSX5	synovial sarcoma, X breakpoint	Bos_taurus	91A	91	A
+------------------MNRGS-FWENPREDRKKLEKKSK-------------------
+------------------TFKTISQYFSKKEWARLGYSEKITYVNMKRNYETMTRLGLQ-
+CTP------------------PAFMCPKNGATKSKRCDSKTK-NPRE----KDEPPQGT-
+------------S----------------------NMQGGKCQKVMPKKP--VKGKKRSK
+IV---------PG--------TSGPEQ-----AQRQLRSQAKASIS-------AQQSKKT
+AGSKKKK------VS-AIR-------LRERKPVAYEEISDPEEESNGNTVDVWANRGQKR
+EPVAQE-----EISDHEEESNRNTVNVWANRLRKRK-PVAYEEISDPEEEEDEDD
+>ENSCDRP00005023705 ENSCDRG00005016342	180	None	None	Camelus_dromedarius	91A	91	A
+------------------MNRGSSFVKNSCDDTQKLEKKS--------------------
+-----------------KAFKDISKYFSKEEWANLAYSQKITYVYMKRNYETMTGLGLK-
+ASM------------------PNFMCPRRPTIKFREHDSEDK-NPGN--Q--KEFPQEVF
+NM--QER---------------------------------KQLKVIPEKR--EKE-----
+---------------------TSGSEQ-----APKQLCPLQKEVSS-------DQQIKEI
+P-----------------------------------------------------------
+------------------GPKIERVKVWANRLRERKHRVIYEEISDPEEDD----
+>ENSOARP00000013465 ENSOARG00000012563	156	None	None	Ovis_aries	91A	91	A
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------DEPAEGT-
+------------S----------------------NMQGRKRQKVMSKKP--VKGKKRSK
+IV---------PG--------TSGPEQ-----AQRQLRSQTKASIS-------AQESKKT
+SESERKK----VDVW-ANR-------LRKRQPVAYEEISDSEEESERKKVDVWANRLRKR
+QPVAYE-----EISDSEEESERKAVDVWANRLRKRQ-LVAYEEISDSEEESE---
+>ENSTTRP00000013482 ENSTTRG00000014219	166	None	None	Tursiops_truncatus	91A	91	A
+------------------------------------------------------------
+------------------AFKDISKYFSKKEWADLGYSEKITYVYMKRNYDIMTDLGLK-
+TTL------------------PTFMCPKKRATKSNGHDSKDX-XXXXX-X--XEPAQEAS
+NM--RER---------------------------------KHLKVMPKKS--KKKKNPSK
+LV---------PV--------TSGSE------AQEQLCPPGKANTS-------GQQSKKT
+S-----------------------------------------------------------
+------------------GHRRREINVWTHRLRERKNLVVYKEISDSEEDD----
+>ENSVPAP00000011078 ENSVPAG00000011905	216	None	None	Vicugna_pacos	91A	91	A
+------------------MNRGSSFVKNSSDDTQKLEKKSKHLWIQVCVLAPLWVALSPF
+WKVSRAIKHLLHTRGEAGAFKDISKYFSKEEWANLAYSEKITYVYMKRNYETMTGLGLK-
+ASL------------------PNFMCPRRPTIKFGERDSEDK-NPGN--Q--KEFPQEVF
+NM--QER---------------------------------KQLKVLPEKR--EKE-----
+---------------------T-GSQQ-----APKKLCPVEQESSS-------DQQIKEI
+P-----------------------------------------------------------
+------------------GPKIERVKVWANRLRERKYRVIYEEISDPEEDD----
+>ENSAMEP00000013477 ENSAMEG00000012801	188	None	None	Ailuropoda_melanoleuca	91A	91	A
+------------------MNKGSFFANNSMEDTQISEKKSK-------------------
+------------------AFKDISKYFSKEEWANLGYSDKITYVYMKRNYDTMTSLGLR-
+ATL------------------PAFMCPKIQAVKSNGHDSDGNQKPKN----QVQLPHPF-
+--------------------N--------------SNLPRNIKKVMLKKQ--IKEESDWE
+EI---------PI--------APGSEQ-----AQKELYPPEKESTS-------NQQSENT
+P--GKRGNS---------------------------------------------------
+--------------------------IWASRLRERKNLVVYEEISDPEEDD----
+>ENSCAFP00000009001 ENSCAFG00000015307	223	None	putative protein	Canis_lupus_familiaris	91A	91	A
+------------------MNKDSSFAKSSREDTQKSEKKCK-------------------
+------------------AFKDISKYFSKEEWAKLGYSDKITYVYMKRNYDTMTGLGLR-
+ATL------------------PAFMCPKKRAIKSKRHDSDENENHRN----QNEPLQEVS
+NV--KKRKHQKITWILRMLFFPKSSVYHTSFTWSILLFARLPGKKVMLKT--VKEEEDSD
+PI---------PI--------TPGFEQ-----AQKVLCLPGKASTS-------DQQSEII
+PGPKRGKNS---------------------------------------------------
+--------------------------IWAYRLRERKNLVVYEEISDPEEED----
+>ENSFCAP00000052757 ENSFCAG00000047414	188	None	protein	Felis_catus	91A	91	A
+------------------MNKGNSFAKRPKEVTQKSEKKCK-------------------
+------------------EFEAISKFFSKEEWAKLGYSDKITYVYMKRNYDIMTGLGFK-
+TTL------------------PAFMCPKKCATKSSGHDSDEDQDSGN----ENEPIQEDS
+DV--QQRKRL----------------------------------KVMHKK--PKEKDDSD
+P---------VPVA--------LGSKQ--VQEQQR--CPG--------KASAPGKKSKKK
+PGSKKRKN----------------------------------------------------
+--------------------------IWANRLRQRKNLIAYEEISDPEEDD----
+>ENSLCNP00005029926 ENSLCNG00005019473	181	None	None	Lynx_canadensis	91A	91	A
+------------------MNKGNSFAKRPKEVTQKSEKKCK-------------------
+------------------EFEAISKFFSKEVWAKLGYSDKITYVYMKRNYDIMTGLGLK-
+TTL------------------PAFMCPKKCATKSSGHDSDEDQDSGN----ESKWTGRAW
+KG--SPKAQL--LWV-----------------------------QLLGKD--SQEFALSK
+VS-------------------------------WLNLYSP--------TQPTLIYQLFST
+IGSKKGKN----------------------------------------------------
+--------------------------IWANRLRQRKNLIAYEEISDPEEDD----
+>ENSMPUP00000013367 ENSMPUG00000013469	190	None	None	Mustela_putorius_furo	91A	91	A
+------------------MNKGSSFAKNSKEDTQKSEKKCK-------------------
+------------------AFKDISKYFSKEEWAKLGYSDKITYVYMKRNYDTMTSLGLR-
+ATL------------------PAFMCPKKRAMQSNGRDSDDDQNENQ----AQDEAVMG-
+--------------------F--------------GSRFRNHQKVMLEKT--IKEESDSE
+PI---------PI--------TPGPEQ-----AQKEPCPPEKASTS-------DQQSLNE
+CSGKKLMSS---------------------------------------------------
+--------------------------VWAYRLRERKTLIVYEEISDPEEDD----
+>ENSNVIP00000007811 ENSNVIG00000006180	198	None	None	Neovison_vison	91A	91	A
+------------------MNKGSSFAKNSKEDTQKSEKKCK-------------------
+------------------AFKDISKYFSKEEWAKLGYSDKITYVYMKRNYDTMTSLGNRK
+ATL------------------PAFMCPKKRAMKSNGRDSDDDQNENQ----GDQKRKFQL
+----------------------AFGVYQCGSNIS-ASRSQNMGKTGYV------------
+EY---------LC--------ALGKEQASPYLGKQRLTLPSPSGPP-------IYQLFLT
+VGSRKLMNS---------------------------------------------------
+--------------------------VWAYRLRERKTLIVYEEISDPEEDD----
+>ENSPLOP00000020435 ENSPLOG00000014780	210	None	None	Panthera_leo	91A	91	A
+------------------MNKGNSFAKKPKEVTQKSEKKCK-------------------
+------------------EFEAISKFFSKEEWAKLGYSDKITYVYMKRNYDIMTGLGLK-
+TTL------------------PAFMCPKKCATKSSGHDSDEDQDSGN----ESKWTGRAW
+KG--SPKAQL--LWV-----------------------------QLLGKD--SQEFALSK
+PEDVENRLCRMPVGTWEGGGISLSEKN--KTKQNRDLYSP--------TQPTLIYQLFST
+IGSKKGKN----------------------------------------------------
+--------------------------IWANRLRQRKNLIAYEEISDPEEDD----
+>ENSPVAP00000014580 ENSPVAG00000015463	161	None	None	Pteropus_vampyrus	91A	91	A
+------------------------------------------------------------
+------------------AFKDICKYFSKEEWAKLGNSQKCTYVYMKRNYDTMTGLGLN-
+ATL------------------PAFMNPNKQTAKSPENDSHEDQNLGN----QDERPQKTS
+DL--QHL-------------------------------------KMPKKP--GSKEHDLK
+TL---------PE--------THGSEP-----AQKQLCPPGKEIAS-------SQQMEKS
+AGPR--HRH---------------------------------------------------
+--------------------------VWAYRLRERKNIVMYEEISDLEEDD----
+>ENSRFEP00010024480 ENSRFEG00010016277	123	None	None	Rhinolophus_ferrumequinum	91A	91	A
+------------------MDRGSSLAKSHREDAQKSQEKYE-------------------
+------------------AFDDISKNFSKKEWAKLGDLQKRTYVYMKRNYDYMTLLGLN-
+TNC------------------PYFMHSPNQSTNALESDSDEDQSPRN----QD-------
+------------------------------------------------------------
+------------------------------------------------------------
+------ENP---------------------------------------------------
+--------------------------VWAHRLRERKNRVVCEEVSDPKEDD----
+>ENSOCUP00000006909 ENSOCUG00000007996	128	None	None	Oryctolagus_cuniculus	91A	91	A
+------------------MSTNGSLPMSHSADSQKSEKTCK-------------------
+------------------AFKDISQYFSKKEWEKLEYSEKITYVYMKRNYTTMTKLGIRK
+GWAHTTPVSSSAAAGASHFPLVQEE------------------LPRQPLG------TLLF
+SVLYRAKGKEQHQWSVHLPFSLPSASL---------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------------------
+>ENSECAP00000003532 ENSECAG00000005068	204	None	protein	Equus_caballus	91A	91	A
+------------------MNRDSSFAKSLKKGTRKLEKECK-------------------
+------------------AFEDISKYICKEEWAKLGYSEKITYVYMKRNYDTMTSLGLR-
+AKL------------------PAFMCPKKGNTKSRGRNSGKGRNPRN----QDEPPQKAS
+SV--QQR---------------------------------KRQKVMRKKP--AKEKNDSK
+PV---------PV--------TPGSKQ-----AHKQLFPLGEASTS-------GQQSEKT
+PGKRKLCGNDSSG---------------------------------------FPGDIRV-
+---C--------GLGVGDGSWVGLGPGWTEELAQLQLRC----------------
+>ENSCJAP00000054558 ENSCJAG00000014776	223	None	synovial sarcoma, X breakpoint	Callithrix_jacchus	91A	91	A
+------------------MNGDGSFAKNPSDDEQISENKRK-------------------
+------------------AFADIAQYFSKKDWKKLKYSEKITYVYMKRNYEAMRTLGFQ-
+VTI------------------PLFMRDK-QAEDSQEDDSDRDSNPGN----LLECHTM--
+---------------------------------TFGMFQGLFPQIMPREP-PEEEGNDSE
+AV---------PE--------TSGTQN-----DVKELCYSGKPSTLEMTTNIPGHREAQE
+KEERR----------TAHRWSSQNTHNIDRL-----SLSSF--------MGAVPGTPKTI
+TH-----NRNPKGRQMPGPIDCVRERIW---------------------------
+>ENSP00000338796 ENSG00000241476	223	SSX2	SSX family member	Homo_sapiens	91A	91	A
+------------------MNGDDAFARRPTVGAQIPEKIQK-------------------
+------------------AFDDIAKYFSKEEWEKMKASEKIFYVYMKRKYEAMTKLGFK-
+ATL------------------PPFMCNK-RAEDFQGNDLDNDPNRGN----QVERPQM--
+---------------------------------TFGRLQGISPKIMPKKP--AEEGNDSE
+EV---------PE--------ASGPQN-----DGKELCPPGKPTTSEKIHERSGNREAQE
+KEERR--GT-------AHRWSSQNTHNIGRF-----SLSTS--------MGAVHGTPKTI
+TH-----NRDPKGGNMPGPTDCVRENSW---------------------------
+>ENSMLEP00000005731 ENSMLEG00000024868	158	None	None	Mandrillus_leucophaeus	91A	91	A
+------------------MNSDDAFARRPNVGAQIPEKIQK-------------------
+------------------AFDDIAKCFSKKEWEKMKYSEKIIYVYMKRKYEAMTKLGFR-
+VTL------------------PPFMHNK-RATDFQGNDFDNDHNRGN----QVERPQLS-
+---------------------------------TFSMLQGIFPKIMPKKPAPAEEGNDLK
+GV---------SE--------TSGPKN-----DGKQLCPPGKANTSEKTNKRS-------
+------------------------------------------------------------
+-------------------------------------------------------
+>ENSMICP00000042198 ENSMICG00000045282	94	None	protein	Microcebus_murinus	91A	91	A
+------------------MDRGRSFAKSSGGDAQIS-EKCK-------------------
+------------------TFKDISKYFSKEEWSRLGYSQKTSYVYMKKNYDTMTRLGLK-
+TNL------------------PAFMSSKRRAIKSQAQGSAGQRQSRR----NQ-------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------------------
+>ENSPTRP00000086438 ENSPTRG00000042703	222	None	protein	Pan_troglodytes	91A	91	A
+------------------MNGDDAFARRPKAGAQIPEKIQK-------------------
+------------------AFDDIAKYFSKKEWEKMKSSEKISYVYMKRKYEAMTKLGFK-
+ATL------------------PPFMRNT-GATDLQGNDFDNDRNHRN----QVERPQM--
+---------------------------------TFGRLQGIFPKIMPKKPA---------
+-------------------------EN-----NGKQLCPPGKRTTSEKINKASGKRKQFG
+NNPSDFPGY--VQVCGLGVWHGSQTSLGADW--AEELTQLQ--------MRCLTGLPEIQ
+TGVVI---------------HIKNHVTWGKSSKFSQ-----FQIPSP--------
+>ENSPANP00000041746 ENSPANG00000016327	218	None	None	Papio_anubis	91A	91	A
+------------------MNSDDAFARRPNVGAQIPEKIQK-------------------
+------------------AFDDIAKCFSKKEWEKMKYSEKIVYVYMKRKYEAMTKLGFR-
+VTL------------------PPFMHNK-RATDFQRNDFDNDRNRGN----QVERPQLS-
+---------------------------------TFSMLQGIFPKIMPKKPAPAEEGNDLK
+GV---------SE--------TSGPKN-----DGKQLCPPGKANTSEKTNKRSGNREARE
+KEERW--GT-------AHHL------------------SSS--------VGAVPGTPKNR
+VIIVNDNLMDPKGGNMPGPTDCVRESSW---------------------------
+>ENSTGEP00000005868 ENSTGEG00000004848	223	None	protein	Theropithecus_gelada	91A	91	A
+------------------MNSDDAFARRPNVGAQIPEKIQK-------------------
+------------------AFDDIAKCFSKKEWEKMKYSEKIVYVYMKRKYEAMTKLGFR-
+VTL------------------PPFMHNK-RATDFQRNDFDNDRNRGN----QVERPQLS-
+---------------------------------TFSMLQGIFPKIMPKKPAPAEEGNYLK
+GV---------SE--------TSGPKN-----DGKQLCPPGKANTSEKTNKRSGNREARE
+KEERW--GT-------AHRWSSQ--HNIGRL-----SLSSS--------VGAVPGTPKAI
+T------NRDPKGGNMPGPTDCVRESSW---------------------------
+>ENSSTOP00000021929 ENSSTOG00000015375	120	None	protein	Ictidomys_tridecemlineatus	91A	91	A
+------------------------------------------------------------
+------------------AFRDISKYFSKKEWAKLSHSEKITYVYLKRNYTTMTSLGLR-
+ATL------------------PAFMSSNRQIIESQSDDSDECRNRGS----QDELPKSAS
+GI--RQR-----------------------------------------------------
+----------------------------------------------------------KR
+KEPRKKNVN---------------------------------------------------
+--------------------------IWSHRLRERKYLVAYEEISDPEEED----
+>ENSMUSP00000094256 ENSMUSG00000095316	94	Gm21876	predicted gene,	Mus_musculus	91A	91	A
+------------------VKTDSSYTKSPR-DIFKPEKMSK-------------------
+------------------SFQDISKYFSEEEWESLTKWQKSAYVFMKRNYIRMTGLGVT-
+VNK------------------PVFMRGKDQITEFLLKESDEGLGHAN----EG-------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------------------
+>ENSPEMP00000017812 ENSPEMG00000016602	91	Gm21876	predicted gene,	Peromyscus_maniculatus_bairdii	91A	91	A
+------------------MKTDTSCTKSPAEDTCKPEKMSK-------------------
+------------------SFRDISKYFSEEEWAKLTKWQKSAYVFMKRNYIRMTGLGVK-
+VNQ------------------PVFMRGKE----SLMKESDEDYGHES----DG-------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------------------
+>ENSRNOP00000064611 ENSRNOG00000049427	91	AABR07036711	None	Rattus_norvegicus	91A	91	A
+-----------------------THSVNLRKTKHKPEEACK-------------------
+------------------AFEDISKYFSREEWAKLSHSEKITYVYMKRNYTTMTNLGLR-
+AHL------------------PDFMESNEQATKSVLNDSDEVFSHES----QGK------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------------------
+>ENSCHIP00000030777 ENSCHIG00000025401	208	None	protein	Capra_hircus	91B	91	B
+------------------MNRGS-FYETPREDRKKLEKKSK-------------------
+------------------SFKNISKYFSKKEWARLGYSEKVTYVNLKRNYETMTRLGLK-
+CTP------------------PAFMCPKNGATESKHCDSKIK-NPRE----KDEPAEGT-
+------------S----------------------NMQGRKRQKVMPKKP--VKGKKRSK
+IV---------PG--------TSGPEQ-----AQRQLRSQTKASIS-------AQQSKKT
+SGKRYNL------SY-LF----------------------------GNKSSVF-------
+--------------PGHVQVNGLTVNVWANRLRKRK-PVAYEEISDPEEED----
+>ENSCWAP00000016758 ENSCWAG00000012946	184	None	None	Catagonus_wagneri	91B	91	B
+------------------MNRGSFIAKKSREGSQKSEKKS--------------------
+-----------------KAFNDISKYFSKEEWANLRYSEKITYVYTKRSYDTMSGLGLK-
+ATP------------------PAFMCPKKPTTESSGHDSEDE----------DEPPKEAS
+NL--RGR---------------------------------KYLKVMPKKP--EKEKNPSE
+LV---------PT--------ASGSQK-----AQSKPCPRGKASAS-------AQQSKKR
+S-----------------------------------------------------------
+------------------GSKRSNINVWTHRLRERKNPVIYEEISDPEEDD----
+>ENSMMSP00000018685 ENSMMSG00000014111	237	None	None	Moschus_moschiferus	91B	91	B
+------------------MNRGS-FSKSPREDRQKLEKKSK-------------------
+------------------TFKTISKYFSKKEWARLGYSEKITYVYMKRNYETMTSLGLK-
+STP------------------PAFMCPKNGAKKSKHCDSKIK-NPMT----KGAS-----
+-----------------------------------NMQGRKRQKVVPKEP--VKGKKHSK
+LV---------PG--------TSGPEE-----AQKQPCPQAKASKE-------T------
+SGKRNNLSYLITDLC-CHRCES---HVTGDKAFKFSELQIPSPQ-NGNKESKFTDCSKV-
+-----F-----NSRDFPGSPVVKTVSIWAHRLRKRK-PVAYEEISDPEEED----
+>ENSPCTP00005011448 ENSPCTG00005008039	200	None	None	Physeter_catodon	91B	91	B
+------------------MNRGSSFAKSPREYSQKSEKNS--------------------
+-----------------KAFKDISKYFSKKEWADLGYSEKITYVYMKRNYDTMTDLGNR-
+KFW------------------PKSRK-----TTN------NS-NPPQRLNAALIMP-LIL
+FV--CDL---------------------------------HIKRVMPKKS--EKKKYPSK
+LV---------PE--------TSGSEQ-----AQEQLCPPGKANTS-------GQQSTET
+SGKRNLGTTPLAS---------------------------------------LAT-FK--
+----------------CMGPRRRKIDVWTHSLQEEKNLVVYEEICDPKEDD----
+>ENSSSCP00000063895 ENSSSCG00000047914	184	None	protein	Sus_scrofa	91B	91	B
+------------------MNRGSYFAQRAREDAQKSEKKS--------------------
+-----------------KAFNDISKYFSKEEWAKLGYSEKITYVYMKRNYDTMTGLGLK-
+ATP------------------PTFMCPRKQTIESSGHDSEDQ----------DEPPKEAS
+NL--RGR---------------------------------KYLEVMPKTP--EKEKNLLE
+LG---------PT--------TSGSEK-----APSEPCLLGKASAS-------AQQSKET
+S-----------------------------------------------------------
+------------------GSGRSKINVWTHRLRERKYPVIYEEISDPEEDD----
+>ENSSSUP00005034706 ENSSSUG00005022288	194	None	None	Suricata_suricatta	91B	91	B
+------------------MNKDRSFANRPKAVTQKSEKDCK-------------------
+------------------VFKTISKYFSDKEWAKLGYSEKTTYVYMKRNYDTMTGLGNRK
+FWVQTSLRT-------HHYPLSPFICHGFFLGC----N-------------KCPMPALCA
+GR--N-----------------------PRATPFFSFLFLFLIKKVMHKK--PKEKNDLD
+PV---------PV--------ALGSEQ-----AQKQQSPPGEDSIS-------DKQIKKI
+PGKR--------------------------------------------------------
+--------------------------YRAYILRERKNLVAYEEISDPEEED----
+>ENSVVUP00000023989 ENSVVUG00000017602	188	None	None	Vulpes_vulpes	91B	91	B
+------------------MNKGSSFAKSSREDTQKSEKKCK-------------------
+------------------AFKDISKYFSKQEWAKLGYSDKITYVYMKRNYDTMTGLGNR-
+KFG------------------CRQACEHV-------------------------------
+----TIPQSLYMPWLLPRLQQVT------REMPLILFICDLHIKKVMLKT--VKEEEDSD
+PI---------PI--------TPGFEQ-----AQKVLCLPGKACTS-------DQQSEII
+PGPKRGKNS---------------------------------------------------
+--------------------------IWAYRLRERKNLVVYEEISDPEEED----
+>ENSMLUP00000001640 ENSMLUG00000001798	190	None	None	Myotis_lucifugus	91B	91	B
+------------------MNRESSLDNNPMEGSQDSEEKCK-------------------
+------------------AFKDIRKYFTKEEWAKLRNSEKRTCVCLKRNYEIMTGLGLM-
+TTC------------------PDFMRPKNWTTK-SGHDSDEDWNPGN----EVLEVLQIS
+P------------------HFTPFAPLHPSPTPSQAFTYLLSMSMIALED--Q-------
+-----------PQ-------------------QHHKSCWTGADP--------MEQDLLQL
+TESKKEETN---------------------------------------------------
+--------------------------VWVGRLRERKNRVVYQEISDPEDDD----
+>ENSDNOP00000020991 ENSDNOG00000036239	204	None	None	Dasypus_novemcinctus	91B	91	B
+------------------MNRGNSFKKSPK-DTHRAEKKSK-------------------
+------------------ALKDISRYFSKEEWSELGYSEKVNYVYMKRNYDTMTNLGLK-
+TTI------------------PDFMCPNRLAIKYKGDNSDEDSTSRN----QNELPQVIP
+SV--QKKKL-------------------------------KIQKMMSKKP--SREENDSK
+GAPEGANL---KR--------PPGSEQ-----TQKQLCPTGKASTSGKTYPTPIYQLFST
+TGPRKEGPN---------------------------------------------------
+--------------------------AWAHRLRERKTLVSYEEISDPEEED----
+>ENSEEUP00000003669 ENSEEUG00000004056	87	None	None	Erinaceus_europaeus	91B	91	B
+--------------------MNSTFKTGTQ------------------------------
+--------ENNQKSNMHKAFMAISKYFSKKEWAKLGYTEKTTYVYMKRNYETMSALGLR-
+ATL------------------PTFMCSGKPTTEFNGNNSVHDEN----------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------------------
+>ENSOPRP00000012334 ENSOPRG00000013524	180	None	None	Ochotona_princeps	91B	91	B
+------------------------------------------------------------
+-----SLRADPQKSDKLQAFQDISQYFSKKEWEKMGYSEKITYVYTKRNYTTMTRLGFK-
+RAM------------------PDFMRSGIHAKRSCESDSDEEQNTNA----ERRXXXXXX
+XX--XXX--------------------------------XXXXXXVIQQP--VKQENISK
+VI----------RGATKSG----GTKK----------KPPRQGTPS-----THGKQVVMS
+A-VKKEES----------------------------------------------------
+-------------------------GVWSHRLRERKYVVAYEEISDPEEED----
+>ENSCATP00000037793 ENSCATG00000041609	207	None	protein	Cercocebus_atys	91B	91	B
+------------------MNSDDAFARRPNVGAQIPEKIQK-------------------
+------------------AFDDIAKCFSKKEWEKMKYSEKIIYVYMKRKYEAMTKLGFR-
+VTL------------------PPFMHNK-RATDFQRNDFDNDRNCGN----QVERPQLS-
+---------------------------------TFSMLQGIFPKIMPKKPAPAEEGNDLK
+GV---------SE--------TSGPKN-----DGKQLCPPGKANTSEKTNKRSGNREARE
+KEERW--GT-------AHRL------------------SSS--------MGAVPGTPK--
+---------DPKGGNMPGPTDCVRESSW---------------------------
+>ENSCSAP00000009613 ENSCSAG00000013463	136	None	None	Chlorocebus_sabaeus	91B	91	B
+------------------------------------------------------------
+------------------TFDDIAKYFSKKEWEKMKCSERIIYVYMKRKYRGLSMLHFK-
+VTL------------------PHFMRNK-RATDFQGNDFDNDRNHGN----QVERPQM--
+---------------------------------TFGMLQGLFPKIMHNKP--AEEGNDSK
+GV---------PE--------ASDPQN-----HGKQLCPPGKANTSEKINKRSGRRK---
+------------------------------------------------------------
+-------------------------------------------------------
+>ENSGGOP00000015908 ENSGGOG00000016307	215	None	None	Gorilla_gorilla	91B	91	B
+------------------MNGDDTFARRPMVGAQIPEKIQK-------------------
+------------------AFDDIAKYFSKEEWEKMKVSEKIVYVYMKRKYEAMTKLGFK-
+AIL------------------PPFMRNK-RVADFQGNDFDNDPNRGN----QVERPQM--
+---------------------------------TFGRLQGIFPKIMPKKP--AEEGNDSK
+GV---------SE--------ASGPQN-----HGKQL-----PNTSEKINKRSRNREAQE
+KEERR--GT-------AHRWSSQNTHNIGRF-----SLSTS--------MGAVHGTPQN-
+-------NYTQQGGNMPGLTDCVRESSW---------------------------
+>ENSP00000477922 ENSG00000268447	223	SSX2B	SSX family member	Homo_sapiens	91B	91	B
+------------------MNGDDAFARRPTVGAQIPEKIQK-------------------
+------------------AFDDIAKYFSKEEWEKMKASEKIFYVYMKRKYEAMTKLGFK-
+ATL------------------PPFMCNK-RAEDFQGNDLDNDPNRGN----QVERPQM--
+---------------------------------TFGRLQGISPKIMPKKP--AEEGNDSE
+EV---------PE--------ASGPQN-----DGKELCPPGKPTTSEKIHERSGNREAQE
+KEERR--GT-------AHRWSSQNTHNIGRF-----SLSTS--------MGAVHGTPKTI
+TH-----NRDPKGGNMPGPTDCVRENSW---------------------------
+>ENSLAFP00000003781 ENSLAFG00000004535	117	None	None	Loxodonta_africana	91B	91	B
+-------------------------SVHLKWKESKPVAECQ-------------------
+------------------AFKDILKYFSKEEWAKLGYSKKVTYVYMKRNYDTMTNLGLR-
+ATL------------------PPFMDPNRLATKSQLDESDEEQNPGT----QGN------
+------------------------------------------------------------
+------------------------------------------------------------
+------PRF---------------------------------------------------
+--------------------------INHQKLRERKNLVAYEEISDPEEED----
+>ENSMUGP00000024571 ENSMUGG00000020531	94	Gm21876	predicted gene,	Meriones_unguiculatus	91B	91	B
+------------------LKTDSSCTKSPG-DICKPEKMSK-------------------
+------------------SFKDISRYFSEEEWAKLTKWQKSTYVFMKRNYIRMRGLGVP-
+VNQ------------------PVFMRVKKQITEHLIKESDENCGHES----EG-------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------------------
+>ENSMAUP00000000708 ENSMAUG00000000561	61	None	None	Mesocricetus_auratus	91B	91	B
+------------------MKAECCHGERPAEETNEPKKVFQ-------------------
+------------------PFQDICTYFSEEEWAKLTNWQKSVYMYMKRNYIRMTGL----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------------------
+>ENSMOCP00000016197 ENSMOCG00000015166	157	None	None	Microtus_ochrogaster	91B	91	B
+VLEENRTVSFQSLTDSTDMKTRSSCLKSSVEDIHEPKKMCK-------------------
+------------------AFQDISTYFSEEEWAKLSTWQKSVYVYMKRNYIRMTALGVT-
+VNQ------------------PVFMRCKQQAKEIPVE-CIEVHGHES----EDKHSEGTF
+GI--KPKKRVKLTSLN----------------------------LDPHNE--NEGLASED
+AV--ASTTSNLP------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------------------
+>ENSTBEP00000001484 ENSTBEG00000001708	218	None	None	Tupaia_belangeri	91B	91	B
+------------------VNRSSFFDKSRRKDTRKLEKKCKVKQ-HVCDFHLVTLSS---
+----CLLPARNKAWEYSHAFNDISKYFSKKEWAKLNYSEKTTYAYMKRNYDTMTSLGLQ-
+TTV------------------PDFMSSSEQTQIPQEKNSDEDQNLGS----QXXXXXXXX
+XX--XXXXXXXXXXXXXXXXX--------------XX-------XXXX------------
+XX--------------------XXX-----XXXXXXXXXXXXXXXX-------XXXXXXX
+XXPEEKEKS---------------------------------------------------
+--------------------------IWAHRLRERKNPVVYEEISDPEEED----

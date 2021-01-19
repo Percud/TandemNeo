@@ -1,0 +1,246 @@
+>ENSPNAP00000037122 ENSPNAG00000028495	129	afp4	type-4 ice-structuring	Pygocentrus_nattereri	1161A	1161	A
+------------------------------------------------------------
+------------MKFALIAALV--TVLAIGSESASLVKREV---PEELQKISQYFQGLVD
+SLKT--------AEGPELATMAKTYIEESRAQLQPIVEKL-------HAQLKP-------
+----LT-SIDEQIKPLA-------ASLQAQIAPYTDLVQTQVEDVLRFMVDQTKAILPSQ
+--------------------------------
+>ENSCHAP00000018506 ENSCHAG00000009602	130	None	None	Clupea_harengus	1161A	1161	A
+------------------------------------------------------------
+------------MKFALAVALV-VLVISQGTESASLEKHDI---PAEIEKITKYFQDLSR
+MLTITKTAYFLFYTTST---------IIHMAQVQPLLEKV-------KEQLKP-------
+----LATNFEEQFKPLS-------QSILAQLKPLAQSVETQLEDLLETVMAQTKALLPPQ
+--------------------------------
+>ENSCARP00000099701 ENSCARG00000050539	130	None	type-4 ice-structuring protein	Carassius_auratus	1161A	1161	A
+------------------------------------------------------------
+------------MKFSLITILV--VALAIGSESVSLVKRDA---PAELEKIAKYFQDLVD
+NLKH--------VEGPELVNKANAYFEQSRAQFQPMVEKL-------QEQLKP-------
+----LSSNIEDHIKPLA-------ASVQAQVAPLASMIQTHVEDVLKFVADKSKAILPPQ
+--------------------------------
+>ENSCCRP00000042052 ENSCCRG00000022400	122	None	type-4 ice-structuring protein	Cyprinus_carpio	1161A	1161	A
+------------------------------------------------------------
+------------MKFSLIAILV--VSLAIGSESVSLVKRDA---PAELEKFAKYFQDLVD
+NLKN--------VEVHELHLHHHAYFEQSRAQFQPMVEKL-------HEQLKP-------
+----LSSNIEDHIKPLA-------ASVQAQVAPLARMFQTHVEDS--------KAILPPQ
+--------------------------------
+>ENSDARP00000120318 ENSDARG00000041490	129	afp4	antifreeze protein type	Danio_rerio	1161A	1161	A
+------------------------------------------------------------
+------------MKLSLITILV--VALAIRSESASLVKRDA---SAELDKIAKYFQDFVD
+NLKN--------VEGPELANKANAYLEESRAQFQPMVEKL-------QEQLKP-------
+----FS-NIEDQIKPIA-------ASVQAQVAPLADIVQTHIEDVLKFVADKTKTILPPQ
+--------------------------------
+>ENSSGRP00000002660 ENSSGRG00000001706	130	None	type-4 ice-structuring protein	Sinocyclocheilus_grahami	1161A	1161	A
+------------------------------------------------------------
+------------MKFSLITILV--VALAIGSESASLVKRDA---PAELEKIAKYFQDLVD
+NLKN--------VEGPELVNKANAYFEQSRAQFQPMVEKL-------HEQLKP-------
+----LSSNIEDNIKPLA-------ASVQAQVAPLAGIVQTHVEDVLKFVADKSKAILPPQ
+--------------------------------
+>ENSKMAP00000019469 ENSKMAG00000014474	139	afp4	type-4 ice-structuring protein	Kryptolebias_marmoratus	1161A	1161	A
+------------------------------------------------------------
+------------MKLSLVASLLVVLAFACG-EARTLVKRDVPS---DVDKITQLFRDMST
+SLSAATQEMVEKMKASEMTNTAQTYMEGS---IQPLTETFQAEASKLQEQVKPYISNIEE
+HMKPLTENLQT------------------QVKPLADM----MEKLLQEIVDQSKTLLPSQ
+--------------------------------
+>ENSSFOP00015014017 ENSSFOG00015009052	127	afp4	type-4 ice-structuring	Scleropages_formosus	1161A	1161	A
+------------------------------------------------------------
+------------MKFSLIAALVVVLALAQASESRFLTKREAP----ELEQLVKNLQDMSS
+TFSKIAEDLVEKLKTHELTGQAQTYLEDGKAQLQPLAEKVQ-------EHLKPLADSMQG
+HLKPLTDTWQTH-----------------------------MDELWKQIVEHTKSLTSQ-
+--------------------------------
+>ENSHHUP00000061251 ENSHHUG00000036298	145	None	None	Hucho_hucho	1161A	1161	A
+------------------------------------------------------------
+------------MKFSLVAALV--VVLAIGCESSSLVKRDI---PAEIETLTKYFQDAIE
+K-----------VKSHELISQAQGYLEEGKTQITPLTDEIQEHAEKIQEQMKSFVSDIEK
+QVRPMADNLQAQLMA-------LVDKMQAQFKPLADDLQAQMEQLFQTVVDQTKSLLPPQ
+--------------------------------
+>ENSSTUP00000085227 ENSSTUG00000037480	145	None	type-4 ice-structuring protein	Salmo_trutta	1161A	1161	A
+------------------------------------------------------------
+------------MKFSIVAALV--VVLAIGCESSSLVKRDI---PAEIETLTKYFQDAIE
+K-----------VKSHELISQAQGYLEEGKTQITPLTDKIQEHAEKIQEQMKSFVSDIEK
+QVRPMADNLQAQFMP-------LVDKMQAQFKPLADDLQAQMEQLFQTVVDQTKALLPPQ
+--------------------------------
+>ENSIPUP00000009573 ENSIPUG00000006556	133	afp4	apolipoprotein	Ictalurus_punctatus	1161A	1161	A
+------------------------------------------------------------
+------------MKFFLIASFI--VTLTIGSQAASLVKRESPELPPEVEKITSYIQDFIQ
+NLKA--------LETPELASKAKSYIEESRAQLQPMVEKL-------QEQLKP-------
+----LSSNIEEQIEPLA-------ASVRAQITPYTNLMQSQIEDLLKYVVDQTKAILPPQ
+--------------------------------
+>ENSMAMP00000015591 ENSMAMG00000010579	154	afp4	type-4 ice-structuring protein	Mastacembelus_armatus	1161A	1161	A
+------------------------------------------------------------
+------------MKFSYIAALVVFLAVAHGSEAVSLVKHDIQS---EVDKITKLLNDMSA
+SISSATQDMVEKVKALEMTNTAQTYMEDSRSQIQPLVDKVQAEATKLQEQVKPFIANIED
+QIKPLTENFNAQVKPLT-------DNFHSQVKPLTDM----MEMLFQQVMDKTKALLPPQ
+--------------------------------
+>ENSATEP00000008001 ENSATEG00000005609	88	afp4	antifreeze protein type	Anabas_testudineus	1161B	1161	B
+------------------------------------------------------------
+------------MKFSLIAALVVVLAV--GSEAASLVKRDVQA---EVDRLTKIFNDISA
+GITS------------------TTYMEDSKAKIQPLVEKVQVEAAKLQEQVKPFVTNIED
+QVK---------------------------------------------------------
+--------------------------------
+>ENSORLP00000020348 ENSORLG00000016252	186	afp4	type-4 ice-structuring protein	Oryzias_latipes	1161B	1161	B
+------------------------------------------------------------
+------------MAFSCVAALLVVLAVTHGCEAVSLVRRDAPS---NVDKLTQLIENMSA
+SITAATQEMVDKMKALEMTSTAQAYMEDSRAKIQPLVEQVQAEATKLQEQVKPYISNIEE
+HIRPLTDNFNSHVKPLT-------DNFHEQVKPLTDM----MEKLFQQASALCEPGVLDV
+KAEEDDEGAKGNVRAGQTVQGSEPASEQRAQL
+>ENSGWIP00000020899 ENSGWIG00000011311	116	afp4	antifreeze protein type	Gouania_willdenowi	1161B	1161	B
+------------------------------------------------------------
+--------------CVCVCVCVCVCVCVSGAEARTLVK-----------------RDMSA
+SLSAATQDMVEKVKALEMTQTAQTYVEGGKEQFQPLVDKVQAEALKLQEQMKP-------
+---------------LT-------DSLSAQVQPLGEV----MEKFFQQMVDQTKALIPAQ
+--------------------------------
+>ENSENLP00000017773 ENSENLG00000008154	133	afp4	antifreeze protein type	Echeneis_naucrates	1161B	1161	B
+------------------------------------------------------------
+---------------------------------MSLVKRDVQS---DVDRITKLIKDMST
+SITTATHDMVEKVRALEMANTAQTYVEDSRARIQPLVEKVQAEATKLQEQVKPYITNIEE
+QMKPLTENLNAQVKPLT-------DNFHAQVKPLTDL----MENLFKQMMEQTKALLPPQ
+--------------------------------
+>ENSSDUP00000009604 ENSSDUG00000007059	154	afp4	type-4 ice-structuring protein	Seriola_dumerili	1161B	1161	B
+------------------------------------------------------------
+------------MKFSLVAALVVVLAVAHGSEAVSLVKRDIQS---DVDRITKLINDMSA
+SITTATQDMVEKVKALEVTNTAQTYMEDSRAKIQPLVDKVQAEAAKLQEQVKPFIANIED
+QIKPLTENLNAQVKPLT-------DNFHTQVKPLTDM----MEKFFQQVMDQTKALLPPQ
+--------------------------------
+>ENSAMXP00000031380 ENSAMXG00000036698	128	afp4	type-4 ice-structuring protein	Astyanax_mexicanus	1161B	1161	B
+------------------------------------------------------------
+------------MKFFLIAALV--VALAIGSESASLAKREV---PEELQKMGQYFQGLVD
+ALKT--------VEGPELANMAKTYVEQSRAQFQPMVEKL-------HEQLK--------
+----LS-NIDEQIKPLA-------ASLQAQISPYTDLVQTQVEDVLRFMVDQTKAILPAQ
+--------------------------------
+>ENSCHAP00000018468 ENSCHAG00000009551	139	None	type-4 ice-structuring protein	Clupea_harengus	1161B	1161	B
+------------------------------------------------------------
+------------MKFALAVTLV-VLVISQGTESASLGKHDI---PAEIEKITKYFQDLSR
+MLTTTTTELMETLKAHDLTGKAEAYLQDSKAQVQPLLEKV-------KEQLKP-------
+----LATNFEEQFKPLS-------ESILAQLKPLAQSVETQLEDLLETVMAQTKALLPPQ
+--------------------------------
+>ENSDCDP00000061757 ENSDCDG00000035151	128	afp4	type-4 ice-structuring protein	Denticeps_clupeoides	1161B	1161	B
+------------------------------------------------------------
+------------MKVLIVAVLA-VLALAHGSESASMVKREA---PADIEKLTKYLEDMSA
+LLSSTT---------QDLVSQAQTYIQEGKGQIEPLAEKI-------QAQLKP-------
+----LAANMEEQLKPLA-------ESVQAQLKPLADSVQTQMEDIFKMLMEKTKAIGQ--
+--------------------------------
+>ENSCARP00000005292 ENSCARG00000002545	130	None	type-4 ice-structuring protein	Carassius_auratus	1161B	1161	B
+------------------------------------------------------------
+------------MKFSLIAVLV--VALAIGSESASLVKREA---PAELDKIAKYFQDLVD
+NLKN--------VEGPELANKASAYFEESRAQLQPMVEKL-------QEQLKP-------
+----LSSNIEDHLKPLA-------ASVQAQVAPLAGMVQSQVEDVLKFVADQTKAMLPPQ
+--------------------------------
+>ENSCCRP00000041859 ENSCCRG00000022321	201	afp4	type-4 ice-structuring protein	Cyprinus_carpio	1161B	1161	B
+MALWRTHISSKNLWKQGKITATLYAWSVDDFISTGHPLNLSQDYI-NPWLFGEHTSALRT
+SGSKENLAQPATMKFSLIAVLV--VALAIGSESASLVKRDA---TAELDKIAKYFQDLVD
+NLKN--------IEGPELANKANAYFEESRAQLQPMVEKL-------QEQLKP-------
+----LSSNTEDHIKSLA-------ASVQAQVAPLAGMVQTQVEDVLKFVADQTKAMLPPQ
+--------------------------------
+>ENSDARP00000060821 ENSDARG00000095863	130	afp4	antifreeze protein type	Danio_rerio	1161B	1161	B
+------------------------------------------------------------
+------------MKFSLIAVIV--VALAIGSESASLVKRDA---PAELDKIAKYFQDLVD
+NLKN--------VEGAELANKANAYLEQSRAQFQPMVEKL-------QEQLKP-------
+----FSGNIEEQIKPLA-------ASVQSQVAPLAGMVQTHVEDMIKFVADQAKAMLPPQ
+--------------------------------
+>ENSSGRP00000096555 ENSSGRG00000048232	130	afp4	apolipoprotein	Sinocyclocheilus_grahami	1161B	1161	B
+------------------------------------------------------------
+------------MKFSLIAVLV--VALAIGSESASLVKRDA---PAELEKIAKYFQDLVD
+NLKN--------IEGTELANKANVYFEQSRAQLQPMVEKL-------QEQLKP-------
+----LSSNIEDHIKPLA-------ASVQAQVAPLAGLVQTHVEDVLKFVADQTKAILPPH
+--------------------------------
+>ENSCVAP00000031459 ENSCVAG00000000531	154	afp4	type-4 ice-structuring protein	Cyprinodon_variegatus	1161B	1161	B
+------------------------------------------------------------
+------------MKFSLVATLLVVLAVAHGSEARALVKREVQA---EVERLTQLLKDMSA
+SVTTATQDMVEKMKALEMTNTAQTYMEDSRARIQPLVEKVQAEAAKLQEQVKPFISNIEE
+HVRPLTDDLNSQVQPLT-------ENLQAQVKPLTDM----MEKFLQQVMEQSKALMPPQ
+--------------------------------
+>ENSFHEP00000012092 ENSFHEG00000013547	143	afp4	type-4 ice-structuring protein	Fundulus_heteroclitus	1161B	1161	B
+------------------------------------------------------------
+------------MKFSLVAALLVVLALAYGSEARTLVKREVQA---EVDGISQVLKEMSA
+RISTVTQDMVEKMKALEMTNSAQTYMEDSRAKIQPLVERVQAEATKLQEQVKPFISNIEE
+QVQPLTDNFNAQV------------------QPLTDM----MEKFLQQVMEQSKALLPPQ
+--------------------------------
+>ENSGAFP00000032227 ENSGAFG00000021696	152	afp4	antifreeze protein type	Gambusia_affinis	1161B	1161	B
+------------------------------------------------------------
+------------MKFSLFATILVVLAVAHGSEARSLVKREVQA---EVDRITQLLRDMST
+SITTATQDMVEKMKALEMTNTAQTYMEDSRAKIQPLVEQVQSEAAKLQEQVKPLISNIEE
+HIRPLTDNFNGQV--LT-------DNLQNQVKPLTDM----MEKFLQQAMEQSKTLLPPQ
+--------------------------------
+>ENSPREP00000026016 ENSPREG00000017587	148	afp4	type-4 ice-structuring protein	Poecilia_reticulata	1161B	1161	B
+------------------------------------------------------------
+------------MKFSLVATILVALAV---SEARSLVKREVQA---EVDRITQLLRDVSA
+SVTTATQDMVEKMKALEMTNTA-TYMEDSRAKIQPLVEQVQSEAAKLQEQVKPLISNIEE
+RIRPLTDDFNTQV--LT-------DNLQNQVKPLTDM----MEKFLQQVMEQSKALLPPQ
+--------------------------------
+>ENSXMAP00000013495 ENSXMAG00000013467	189	afp4	type-4 ice-structuring protein	Xiphophorus_maculatus	1161B	1161	B
+-----------------------------------MVINSSCAAIKASDILREGTIKSKN
+PRSEGLCYSSAAMKFSLVATILVVLAVAHGSEARSLVKREVQA---EVDRITQLLREMSA
+SVTTATQDMVEKMKALEMTNSAQTYMEDSRAKIQPLVEQVQSEAAKLQEQVKPLISNIEE
+HIRPLTDDFNAQV--LT-------DNLQNQVKPLTSM----MEKFLQQVMEQSKALLPPQ
+--------------------------------
+>ENSELUP00000005667 ENSELUG00000006663	152	afp4	apolipoprotein	Esox_lucius	1161B	1161	B
+------------------------------------------------------------
+------------MKSTLVAALL--VVLAIGCESGSLVKRDI---PADVETLTKYFQDAIE
+E-----------IKTHPLVSKAQDYLEEGKAQITPLTGKIQEHADKIQEQIQPYITDIEG
+KVRPLAENIQIQLSPLTENLQAQVDKVQAKIKPLANDFQEQMEKLYQTMVDQTKAMLPSQ
+--------------------------------
+>ENSEEEP00000033624 ENSEEEG00000015998	130	afp4	type-4 ice-structuring protein	Electrophorus_electricus	1161B	1161	B
+------------------------------------------------------------
+------------MKFALIAAFV--VVLAIGSESASLVKRDV---SAEVEKLGKYFQDLFE
+NLKT--------VEGPELADKAKDYIEQSRAQLQPMMEKL-------QEKLKP-------
+----LAGNIEQQIKPLA-------ASMQAQIAPYTDLVQSQVEDLFKFMVDQTKAILPNQ
+--------------------------------
+>ENSMMDP00005005708 ENSMMDG00005003187	151	afp4	type-4 ice-structuring protein	Myripristis_murdjan	1161B	1161	B
+------------------------------------------------------------
+------------MKFSLVAALVVVLAVAHGTEAVSLVKREVPS---EVDMITKIIKDMSV
+TITSATNDMVEKVKALELTNQAQTYMEGSRAQVQPLVEKVQAEAEKLQEQLKPFLTNIED
+QFKPLTDNIQTQVKPLT-------DNFHSQVQTLTTQ----MERLFQQLLDQAKALQ---
+--------------------------------
+>ENSLBEP00000020409 ENSLBEG00000015698	149	afp4	type-4 ice-structuring protein	Labrus_bergylta	1161B	1161	B
+------------------------------------------------------------
+------------MKFSLVAALVVVLAVAHGSDAGSLVKRDVQA---DVDKITGLINDMSA
+SLTATTQELVDQVKALDVTNTAQTYMENSKAKLQPLVEKAQAEAAKMQEQIKPFIASMEE
+QMKPLTDAFDIQVKPLT-------DNIQEQVKPLTDM----LEKFLQQVMDRPRP-----
+--------------------------------
+>ENSPKIP00000027497 ENSPKIG00000009538	135	None	type-4 ice-structuring	Paramormyrops_kingsleyae	1161B	1161	B
+------------------------------------------------------------
+------------MKFPITA--IMLLALIHGSESFTVAKRDVSA---DVDKLTKYVQDLST
+IVTSVTRELVEKVKNHELTGKAQTYLEQGKVHLQPLADKLQ-------ENLKPLTSSIEK
+TLKPLTDSVQAQVEPLI-------E----------SV----MEEMWKKVMNRVKALLPDQ
+--------------------------------
+>ENSGACP00000017393 ENSGACG00000013154	154	afp4	antifreeze protein type	Gasterosteus_aculeatus	1161B	1161	B
+------------------------------------------------------------
+------------MNFSNIAALVLVLAVAHGTQAGSLVRRDAQS---ELDKITKLINDMSA
+GLSNATQEVVEKIKTLEMSNTAQTYMEDSRSQIQPLVDKVQAEAAKLQEQVKPFVSDMEE
+QIRPVMENFQTQVKPLA-------DNFQAQVKPLADT----MMKIFQQLMDRTKALPAPQ
+--------------------------------
+>ENSCSEP00000021583 ENSCSEG00000013772	154	afp4	type-4 ice-structuring protein	Cynoglossus_semilaevis	1161B	1161	B
+------------------------------------------------------------
+------------MKFSIVAALVVLLAVAHGSEAKSVVRRDVQA---DMEKMVKLIKDMSA
+SITTATQDMVEKVQAMELANTAQTYVEDSRTKIQPLVDQVQAEATKLQEQVKPFITNIDD
+HIKPITDNFNAQVKPLT-------DNFYTQVKPLTNL----MEKFFQQVAEQAKALLPPQ
+--------------------------------
+>ENSSMAP00000021235 ENSSMAG00000013010	143	afp4	antifreeze protein type	Scophthalmus_maximus	1161B	1161	B
+------------------------------------------------------------
+------------MKFSLVAALVVVLAVAHGSEAGSLVKRDVQA---EVDKITKLIRDMSA
+TFTRETQDIVEKVKALEVTNSAQTYMEASKAQIQPLVDKVQAEATRMQEQLKPFLANIED
+QLKPLGDNVNV------------------HVKPLTDM----MASFFQQVVDQTKALLPPQ
+--------------------------------
+>ENSOTSP00005014885 ENSOTSG00005007475	145	None	None	Oncorhynchus_tshawytscha	1161B	1161	B
+------------------------------------------------------------
+------------MKFSLVAALV--VVLAIGCESGSLVKRDI---PAEIETLTKYFQDAIE
+T-----------VKSHELISQAQGYLEEGKTQITPLTDKIQEHAEKIQEQMKPFVSDIEK
+QVRPMADNLQAQFMP-------LVDKMQAQFKPLADDLQAQMEQLFQTVVDQTKALLPPQ
+--------------------------------
+>ENSLOCP00000000530 ENSLOCG00000000481	145	None	type-4 ice-structuring protein	Lepisosteus_oculatus	1161B	1161	B
+------------------------------------------------------------
+------------MKFFLVSALAVVLALTHGTEALSLVKREAPPSLPDFERLTKYFQDLSA
+TLTSGTQDLVEKLKAQELTNKAQAYLEDSKAQLQPLAENIQ-------AQLKPLVDNIEE
+QLRPLTDNLQSQLKPLA-------ENAQVQLL-----------ELWKKFLDQAKALAPAP
+QQ------------------------------
+>ENSSAUP00010033389 ENSSAUG00010014184	154	afp4	type-4 ice-structuring protein	Sparus_aurata	1161B	1161	B
+------------------------------------------------------------
+------------MKFSLVAALVVVLAVAHGTEAGSLVKRDVKS---EVDRIAKVINDMSA
+SITTATKDLVEKVKALEVTNTAQTYVEDSRAKILPLVEKVQAEAAKLQEQVKPFISNIEE
+QIKPVTDNFNAQVKPLT-------DNFQGQVKPLTDL----IEKLFQQVMDQTKALLPPQ
+--------------------------------
+>ENSMMOP00000022604 ENSMMOG00000017183	119	afp4	antifreeze protein type	Mola_mola	1161B	1161	B
+------------------------------------------------------------
+--------------------MKTSECVFAGTKAMSLANRDIQA---EVDRITKIIKDMST
+SIT-----------ALEVTNTAQTYMEDSRAKILPLVQKVQT----------------ED
+QIKPLTDNFSTQVQPLS-------DNFHAQVKPLTDM----MEKFFKQVVDQTKALLPPQ
+--------------------------------
