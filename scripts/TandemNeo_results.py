@@ -15,7 +15,7 @@ class ort:
     def whichdup(acc):
 
         def read(kind):
-            path = cwd + '/orthologues/' + kind + '_orthologues.csv'
+            path = cwd + '/orthologues/' + kind + '.csv'
             return pd.read_table(path, sep=';')
 
         t = read('Tandem').isin([acc]).any()
@@ -35,9 +35,9 @@ class ort:
         
     def dataframe(acc):
         kind = ort.whichdup(acc)
-        path = cwd + '/orthologues/' + kind + '_orthologues.csv'
+        path = cwd + '/orthologues/' + kind + '.csv'
         df = pd.read_table(path, sep=';')
-        return df.set_index(['Classes', 'Orders', 'Species'])
+        return df.set_index(['Class', 'Order', 'Species'])
         
         #ort.dataframe('ENSGALP00000072350')
 
@@ -106,9 +106,9 @@ class ort:
         
     def whereisdup(ac, rf, t):
 
-        path = cwd + '/orthologues/' + ort.whichdup(ac) + '_orthologues.csv'
+        path = cwd + '/orthologues/' + ort.whichdup(ac) + '.csv'
         df = pd.read_table(path, sep=';')
-        df = df.set_index(['Classes', 'Orders', 'Species'])
+        df = df.set_index(['Class', 'Order', 'Species'])
 
         m = df[ort.pairs(ac)].loc[rf[0]].count()
         s = df[ort.pairs(ac)].loc[rf[1]].count()
@@ -195,7 +195,7 @@ class stats():
 
     # duplicated genes count
     def tc(s, k):
-        path = cwd + '/tandem/' + s + '_' + k + '.tsv'
+        path = cwd + '/duplications/' + s + '_' + k + '.tsv'
         df = pd.read_table(path, sep='\t', header=None)
         df = df.values.tolist()
         return len(df)*2
@@ -262,9 +262,9 @@ class stats():
     def wherdup(kind, rf, threshold):
 
         def isdup(kind, c):
-            path = cwd + '/orthologues/' + kind + '_orthologues.csv'
+            path = cwd + '/orthologues/' + kind + '.csv'
             df = pd.read_table(path, sep=';')
-            df = df.set_index(['Classes', 'Orders', 'Species'])
+            df = df.set_index(['Class', 'Order', 'Species'])
 
             # total number of accessions
             it = itertools.chain.from_iterable(df.values.tolist())
@@ -272,7 +272,7 @@ class stats():
 
             # if both columns sum is > 20%
             df = df.applymap(lambda x: 1 if str(x) != 'nan' else 0).loc[c]
-            df = df.reset_index().drop(columns=['Orders', 'Species']).T
+            df = df.reset_index().drop(columns=['Order', 'Species']).T
             ts = int(df.columns.tolist()[-1])
             df['sum'] = df.sum(axis=1)
             df['Isdup'] = df['sum'].apply(lambda x: 1 if x > ts*threshold else 0) 
@@ -357,12 +357,12 @@ class stats():
         
     def outofmean(kind, threshold):
 
-        db = json.load(open('database.json'))
+        db = json.load(open(cwd + '/database.json'))
 
-        path = cwd + '/orthologues/' + kind + '_orthologues.csv'
+        path = cwd + '/orthologues/' + kind + '.csv'
         df = pd.read_table(path, sep=';')
         df = df.T.iloc[3:]
-        df = df.applymap(lambda x: db.get(x)[6] if not db.get(x) == None else None)
+        df = df.applymap(lambda x: db.get(x)['sequence lenght'] if not db.get(x) == None else None)
         df['len_m'] = df.mean(axis=1)
 
         def pairwise(iterable):
@@ -457,7 +457,7 @@ class uni:
 
         # recupero i full protein name di ensembl dal database (proteina in esame e partner)
         database = json.load(open('database.json'))
-        orthos = pd.read_table(cwd + '/orthologues/' + kind + '_orthologues.csv', sep=';')
+        orthos = pd.read_table(cwd + '/orthologues/' + kind + '.csv', sep=';')
         orthos = list(zip(orthos[orthos['Species'] == 'Homo_sapiens'].values.tolist()[0][3:], orthos[orthos['Species'] == 'Homo_sapiens'].columns.tolist()[3:]))
         orthos = pd.DataFrame(orthos, columns = ['ensembl_accession', 'orthogroup'])
         final_df = pd.merge(final_df, orthos, on=['ensembl_accession', 'orthogroup'])
