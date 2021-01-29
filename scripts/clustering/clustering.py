@@ -162,7 +162,7 @@ def clustering(ca, matching, aln_json, threshold, min_samples, eps):
     '''Return clusters in structure given, threshold of DBSCAN and dataframes for coordinates and alignment scores'''
     clusters={}
     pdbca,matching = pd.read_csv(ca), pd.read_csv(matching)
-    sc = pd.merge(matching,threshold_aln(aln_json,threshold).astype({'ensembl_num':'float64'}), on=['ensembl_ac','ensembl_num']).dropna()
+    sc = pd.merge(matching,threshold_aln(aln_json,threshold).replace('', np.NaN).astype({'ensembl_num':'float64'}), on=['ensembl_ac','ensembl_num']).dropna()
     sc_pdb = pdbca.merge(sc,left_on = ['uniprot_ac','chain_id','residue_number'], 
                        right_on = ['uniprot_ac','chain_id','pdb_num'],
                        how = 'inner')
