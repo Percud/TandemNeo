@@ -137,8 +137,8 @@ class ortho:
         df['pair_number'] = df['orthogroup'].apply(lambda x: re.split('A|B', x)[0]).astype(int)
         df['pair_letter'] = df['orthogroup'].apply(lambda x: x[-1])
 
-        # numeriamo le hit di compara per ogni query per ogni specie (one-to-many)
-        # se con gene di gallus da 20 ortologhi, numera questi ortologhi da 1 a 20
+        # number compara hit for each query of each specie (one-to-many)
+        # if 20 orthologues found of a Gallus gene, number from 1 to 20
         df = df.sort_values([
             'specie_query',
             'pair_number',
@@ -155,17 +155,16 @@ class ortho:
             'Species', 
             'class+orthogroup']).cumcount()+1
 
-        # drop duplicati stessa percentuale d'identità per ogni query per 
-        # ogni specie per il sorting
+        # drop duplicates if same percentage identity for 
+        # each query of each specie to easier sorting
         df = df.drop_duplicates([
             'Species',
             'perc_id',
             'class+orthogroup'
         ])
 
-        # sorting per percentuale d'identità globale, drop geni duplicati 
-        # tenendo il primo (one-to-one), drop stessa specie stesso gruppo 
-        # "best-hit"
+        # sort based on global percentage identity, drop duplicates gene but the first (one-to-one),
+        # drop duplicates same specie and same group ---> "best-hit"
         df = df.sort_values(
             'perc_id', ascending=False)
         df = df.drop_duplicates('gene_id')
@@ -173,10 +172,8 @@ class ortho:
             'Species',
             'class+orthogroup'])
 
-        # tiene solo le prime hit di one-to-one
-        # come nei casi in cui da ortologo come prima hit quando in realtà 
-        # era il terzo
-        # "reciprocal"
+        # save only first one-to-one hits
+        # e.g. return an orthologue as first but it was the third ---> "reciprocal"
         df = df[df['count'] == 1]
         df = df.sort_values([
             'specie_query', 
