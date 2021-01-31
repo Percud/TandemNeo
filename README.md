@@ -1,6 +1,7 @@
 # TANDEMNEO: Analysis of neofunctionalization following gene tandem duplication in vertebrate evolution
 
-## 1. Crea un ambiente virtuale con i pacchetti necessari (specificati nel file 'spec-file.txt'), nella Shell digita (necessario solo al primo utilizzo):
+## 1. Crea un ambiente virtuale con i pacchetti necessari (specificati nel file 'spec-file.txt')
+###### nella Shell digita (necessario solo al primo utilizzo):
 
     $ conda create --name TandemNeo --file spec-file.txt
 
@@ -8,23 +9,23 @@
 
 ## 3. Due modi di utilizzo del programma
 ### - Jupyter-Notebook:
-#### Aggiunta dell'ambiente virtuale in jupyter (necessario solo al primo utilizzo)
+###### Aggiunta dell'ambiente virtuale in jupyter (necessario solo al primo utilizzo)
 
     $ python -m ipykernel install --user --name=TandemNeo
 
-#### attivare prima la cella per l'import dei moduli e del config poi
-#### attivare le celle di interesse
+###### attivare prima la cella per l'import dei moduli e del config poi
+###### attivare le celle di interesse
 
 ### - Linea di comando:
-#### attivare l'ambiente virtuale (necessario ogni volta che si desidera utilizzare il programma)
+###### attivare l'ambiente virtuale (necessario ogni volta che si desidera utilizzare il programma)
 
     $ conda activate TandemNeo
 
-#### lasciare il sys.argv[1] == None per far andare tutto il programma
+###### lasciare il sys.argv[1] == None per far andare tutto il programma
 
     $ python3 TandemNeo
 
-#### oppure specificare fasi in particolare come lista:
+###### oppure specificare fasi in particolare come lista:
 
     $ python3 TandemNeo ['species_list', 'download']
 
