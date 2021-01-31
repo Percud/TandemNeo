@@ -13,6 +13,8 @@ sys.path.append(cwd)
 class ortho:
     
     def mergedups(rs, k):
+        """return a dataframe containing all 
+        given reference species gene informations"""
 
         merged = []
         for s in rs:
@@ -25,6 +27,8 @@ class ortho:
         df = df.reset_index()
         df[6] = df['index']
         df = df.drop(columns='index')
+
+        """add a tag for each duplicated genes"""
 
         df[6] = df[6].astype(str)
         df[7] = df[0] + '-' + df[1] + '-' + df[6] + 'A' + ',' + df[2] + '-' + df[3] + '-' + df[6] + 'B'
@@ -42,6 +46,8 @@ class ortho:
         #ortho.mergedups(rs, 'tandem')
 
     def df(q, havespecielist):
+        """return a df containing found 
+        orthologues (COMPARA server)"""
 
         rest = "https://rest.ensembl.org/homology/id/"
         typ = "?type=orthologues;"
@@ -74,6 +80,8 @@ class ortho:
                 df['species'] = df['species'].apply(lambda x: x.capitalize())
                 df['specie_query'] = dfsource['species'].capitalize()
 
+                """if specified, filter the database based on a species list"""
+
                 if havespecielist:
                     slist = pd.read_csv(cwd + '/species/species_list.csv')
                     slist = [l[3] + '_' + l[4] for l in slist.values.tolist()]
@@ -92,6 +100,8 @@ class ortho:
         #ortho.df(q, True)
         
     def brh(path_to_no_filter):
+        """perform a best reciprocal hit 
+        along all the orthologues found"""
 
         slist = pd.read_csv(cwd + '/species/species_list.csv')
         taxa = {}

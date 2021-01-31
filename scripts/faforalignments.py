@@ -9,8 +9,10 @@ cwd = os.path.dirname(os.getcwd())
 
 class faforalignments:
     
-    # return a list containing all indexes of orthologues table for a given kind of duplication
     def pairslist(kind):
+        """return a list containing all indexes 
+        of orthologues table for a given 
+        kind of duplication"""
         
         df = db.orthodf(kind)
         cols = df.columns.tolist()[3:]
@@ -24,8 +26,9 @@ class faforalignments:
     
         # alignemnts.pairslist('tandem')
         
-    # print the fasta file for a given orthogroup
     def printfa(df, p, suff, json, d):
+        """print the FASTA file for a 
+        given orthogroup"""
 
         for x in [0, 1]:
             ogroup = p[x]

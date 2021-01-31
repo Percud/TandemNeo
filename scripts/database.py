@@ -14,6 +14,9 @@ if 'database.json' in os.listdir(cwd):
 class database():   
     
     def suffixes():
+        """return suffixes used by ensembl to distinguish 
+        between species with format. 
+        e.g.: {'ENSG00': 'Homo_sapiens}"""
 
         suffixes = {}
         path = cwd + '/fa/'
@@ -33,6 +36,8 @@ class database():
         #database.suffixes()
     
     def whichdup(acc):
+        """return wich kind of duplication 
+        for a given ensembl protein ID"""
 
         def read(kind):
             path = cwd + '/orthologues/' + kind + '.csv'
@@ -54,6 +59,9 @@ class database():
         #database.whichdup('ENSGALP00000072350')
         
     def dataframe(acc):
+        """return a dataframe containing 
+        a given ensembl protein ID"""
+
         kind = database.whichdup(acc)
         path = cwd + '/orthologues/' + kind + '.csv'
         df = pd.read_table(path, sep=';')
@@ -64,6 +72,9 @@ class database():
         #database.dataframe('ENSGALP00000072350')
 
     def pairs(acc):
+        """return the orthogroups pair identifier 
+        for a given ensembl protein ID"""
+
         df = database.dataframe(acc)
         p = df.columns[df.isin([acc]).any()][0]
         p_num = re.split('A|B', p)[0]
@@ -76,26 +87,32 @@ class database():
         return [p, pairs]
 
         #database.pairs('ENSGALP00000072350')
-        
-    # dataframe di ortologia di una classe di duplicazioni
+
     def orthodf(k):
+        """return the given duplication 
+        kind orthologues dataframe"""
+
         path = cwd + '/orthologues/' + k + '.csv'
         df = pd.read_table(path, sep=';')
         return df
     
         # database.orthodf('tandem')
-    
-    # lista di accession di una data specie di una classe di duplicazioni
+
     def acklist(s, k):
+        """return an accessions list of 
+        a given specie and kind of duplications"""
+
         df = database.orthodf(k)
         df = df[df['Species'] == s]
         l = df.dropna(axis=1).values.tolist()[0][3:]
         return l
     
        # database.acklist('Homo_sapiens', 'tandem')
-    
-    # lista di accession di una data specie di tutte le classi di duplicazioni
+
     def aclist(s):
+        """return an accession list of
+        a given specie of any kind of duplications"""
+
         d = ['tandem', 'convergent', 'divergent']
         l = [database.acklist(s, d[0]) + 
              database.acklist(s, d[1]) +
@@ -106,6 +123,9 @@ class database():
         # database.aclist('Homo_sapiens')
 
     def faline(q, file):
+        """return the FASTA format strings for 
+        a given ensembl protein ID in a given file,
+        usefull for speed up parsing processes"""
         
         if not file:
             s = database.suffixes().get(q[0:6])
@@ -121,6 +141,11 @@ class database():
         #database.faline('ENSGALP00000072350', file.fa)
 
     def forquery(q, file):
+        """return a dictionary containing: protein ID, gene ID, 
+        transcript ID, symbol, product, sequence, sequence lenght, 
+        orthogroup for a given ensembl protein ID,
+        can give a file for speed up the process 
+        or let the system find it"""
         
         if not file:
             s = database.suffixes().get(q[0:6])
@@ -164,6 +189,7 @@ class database():
         #database.forquery('ENSGALP00000072350', file.fa (or None))
         
     def info(l):
+        """parsing of a given FASTA entry"""
 
         x = re.split('[.:\s]', l.description)
 
@@ -192,9 +218,11 @@ class database():
         
         return db
         
-        #database.info(fasta line)
+        #database.info(FASTA entry)
         
 class dbinfo:
+    """create an object class 
+    to speedup future parsing of an entry"""
 
     def __init__(self, pid):
         
@@ -215,6 +243,7 @@ class dbinfo:
         # ainfo.gid
 
     def ids_to(specie, kind, ID_kind):
+        """IDs conversion"""
     
         ortholist = database.acklist(specie, kind)
         

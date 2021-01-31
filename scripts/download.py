@@ -7,6 +7,9 @@ cwd = os.path.dirname(os.getcwd())
 class download:
 
     def downl(s, k):
+        """download FASTA and GTF from ensembl ftp 
+        servers for a given specie, 
+        must be specified if FASTA or GTF"""
 
         ftp = FTP('ftp.ensembl.org')
 
@@ -27,4 +30,4 @@ class download:
 
         ftp.quit()
         
-    #download.downl('Homo_sapiens', False, True)
+    #download.downl('Homo_sapiens', 'fa')

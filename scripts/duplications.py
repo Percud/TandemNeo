@@ -6,6 +6,7 @@ cwd = os.path.dirname(os.getcwd())
 class duplications:
     
     def blastfile(s):
+        """return blast output file as dataframe"""
 
         path = cwd + '/blast_queries/'
         file = path + s + '_main_blast.txt'
@@ -31,6 +32,7 @@ class duplications:
         #duplications.blastfile(s)
     
     def isbrh(s):
+        """check which accessions are best reciprocal hit"""
 
         df = duplications.blastfile(s)
 
@@ -48,6 +50,8 @@ class duplications:
         #duplications.isbrh(s)
         
     def duplicationsdf(s):
+        """filter for main isoforms and 
+        return a dataframe"""
 
         brh = duplications.isbrh(s)
 
@@ -63,6 +67,10 @@ class duplications:
         #duplications.duplicationsdf(s)
         
     def isduplication(s, a, df):
+        """looks for duplications and return 
+        a dataframe. Verified if genes are 
+        consecutive, have same direction and 
+        are not overlapping"""
 
         if not any(df):
             df = duplications.duplicationsdf(s)[['Protein_id', 
@@ -107,6 +115,8 @@ class duplications:
         #duplications.isduplication(s, accession, df (or None))
         
     def duplist(s, k):
+        """return a duplications list for a given 
+        specie and kind of duplications"""
 
         df = duplications.duplicationsdf(s)
 
@@ -121,6 +131,8 @@ class duplications:
         #duplications.duplist('Homo_sapiens', 'convergent')
         
     def tocsv(s, k):
+        """store duplications containing 
+        dataframe in a tsv format file"""
 
         dups = duplications.duplist(s, k)
         for l in dups:

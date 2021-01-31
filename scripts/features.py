@@ -10,13 +10,15 @@ from config import *
 class features:
     
     def convert_id(from_, _to, ID_list):
+      """ENSEMBL to UNIPROT ID conversion 
+      for a given IDs list"""
 
-        # Il retrieve/ID mapping di Uniprot vuole una 
-        # lista di accession separata da spazi
+        # retrieve/ID Uniprot mapping requires 
+        # a space separated accessions list
         ID_list_joined = ' '.join(map(str, ID_list))
 
-        # preparo gli accession per la conversione 
-        # Ensembl_ID --> Uniprot_ID
+        # setting up accessions for conversion 
+        # phase (ensembl --> uniprot)
         params = {'from': from_, 'to': _to, 
                   'format': 'tab', 'query': ID_list_joined}
         url = 'https://www.uniprot.org/uploadlists/'
@@ -36,8 +38,7 @@ class features:
 
         return converted
 
-        # Ensembl GENE_ID = ENSEMBL_ID
-        # Uniprot PROT_ID = ACC
+        # Ensembl GENE_ID = ENSEMBL_ID | Uniprot PROT_ID = ACC
         # converted = features.convert_id('ENSEMBL_ID', 'ACC', homo)
 
     def convert_ac(list,From,to):
@@ -55,10 +56,10 @@ class features:
         data = data.encode('utf-8')
         req = urllib.request.Request(url, data)
         return pd.read_csv(urllib.request.urlopen(req), sep='\t')
-        
-    # recupero le features da uniprot in formato json
+
     def getuniprotinfo(uniprot_id):
-        """return the Uniprot complete dataset for a given Uniprot ID"""
+      """return the Uniprot complete dataset 
+      (json format) for a given Uniprot ID"""
         
         try:
             r = requests.get("https://www.ebi.ac.uk/proteins/api/proteins?size=-1&accession=" 
@@ -71,6 +72,8 @@ class features:
         # features.getuniprotinfo('Q86YH2')
         
     def getfeatures(uniprot_id):
+      """return the normalized uniprot 
+      features column as dataframe"""
         
         data = features.getuniprotinfo(uniprot_id)
             
@@ -106,6 +109,8 @@ class features:
         # features.getfeatures('Q86YH2')
         
     def filter(df, to_remove):
+      """filter the dataframe based 
+      on a given features list"""
         
         feats = ['SIGNAL',
                  'PROPEP',
@@ -149,6 +154,9 @@ class features:
         # features.filter(allfeatures)
 
     def add_genes_ids(alns, converted):
+      """using phase 6 database to 
+      convert protein ID to gene ID, 
+      and add partner informations"""
 	    
 	    js = json.load(open(cwd + '/database.json'))
 
@@ -173,6 +181,7 @@ class features:
 	    return alns
 
     def rearrange(df):
+      """simply a dataframe rearrangment"""
         
         df['pair'] = df['pair'].astype(int)
         df = df.sort_values('pair')

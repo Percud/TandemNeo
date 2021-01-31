@@ -15,6 +15,7 @@ from config import *
 class alignments:
         
     def fastafile(fa):
+        """return parsed fasta file as list"""
 
         if fa[0] == '/':
             fa = fa
@@ -28,6 +29,7 @@ class alignments:
         # al.fastafile('2.fa')
         
     def alignmentfile(faln):
+        """return fasta format alignment file as list"""
             
         if faln[0] == '/':
             faln = faln
@@ -39,6 +41,7 @@ class alignments:
         return alignment
     
     def fanum(fold, pattern):
+        """return aln.fasta file numbers as list"""
         
         f = os.listdir(cwd + '/' + fold)
         f = [l for l in f if pattern in str(l)]
@@ -47,7 +50,7 @@ class alignments:
 
         # alignments.fanum('alignments/convergent', '.fa')
     
-    def conservation(msa, matrix): 
+    def conservation(msa, matrix):
 
         aligner = Align.PairwiseAligner()
         aligner.substitution_matrix = substitution_matrices.load(matrix)
@@ -81,6 +84,7 @@ class alignments:
         return (list(zip(numbers,columns,scores)))
     
     def lenght(fafile):
+        """return sequence numbers of each orthogroup"""
 
         lena = [len(f.seq) for f in fafile 
                 if 'A' in f.description[-1]]
@@ -90,6 +94,8 @@ class alignments:
         return [lena, lenb]
         
     def coverage(fafile):
+        """calcola la media delle lunghezze delle sequenze 
+        nei due ortogruppi e calcola il coverage"""
         
         lena = alignments.lenght(fafile)[0]
         lenb = alignments.lenght(fafile)[1]
@@ -110,6 +116,8 @@ class alignments:
         return coverage
     
     def clustifcov(fa, faln, th_coverage):
+        """perform a clustalo alignment if the coverage 
+        is higher than the threshold set in config"""
 
         fafile = alignments.fastafile(fa)
         
@@ -127,6 +135,9 @@ class alignments:
             clustalo(infile = fa, outfile = faln)()
             
     def log(falnfile, srefs, matrix):
+        """return a dictionary format log with: tags, aligned 
+        sequences, score difference, consensus sequences, 
+        position numbers, coverage, sequences lenght"""
 
         tags = {record.description.split('\t')[-1] 
                 for record in falnfile}

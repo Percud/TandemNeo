@@ -4,6 +4,8 @@ import requests
 import os
 import sys
 
+"""retrieve the current assembly 
+set from ensembl server"""
 link = "http://rest.ensembl.org/info/species?"
 assemblies = requests.get(link, 
                             headers={
@@ -15,18 +17,20 @@ class specieinfo:
     
     def __init__(self, name):
 
-        self.name = name
-        self.genus = specieinfo.genus_func(self)
-        self.specie = specieinfo.specie_func(self)
-        self.taxid = specieinfo.taxid_func(self)
-        self.pubs = specieinfo.pubs_func(self)
-        self.taxlist = specieinfo.taxlist_func(self)
+        self.name     = name
+        self.genus    = specieinfo.genus_func(self)
+        self.specie   = specieinfo.specie_func(self)
+        self.taxid    = specieinfo.taxid_func(self)
+        self.pubs     = specieinfo.pubs_func(self)
+        self.taxlist  = specieinfo.taxlist_func(self)
         self.taxorder = specieinfo.taxorder_func(self)
         self.taxclass = specieinfo.taxclass_func(self)
         self.assembly = specieinfo.assembly_func(self)
-        self.allinfo = specieinfo.allinfo_func(self)
+        self.allinfo  = specieinfo.allinfo_func(self)
     
     def assembly_func(self):
+        """return assembly"""
+
         return [
             l['assembly'] 
             for l in assemblies['species'] 
@@ -34,13 +38,18 @@ class specieinfo:
         ][0]
         
     def genus_func(self):
+        """return genus"""
+
         return self.name.split('_')[0]
     
     def specie_func(self):
+        """return specie"""
+
         return '_'.join(
             self.name.split('_')[1:])
     
     def taxid_func(self):
+        """return taxid"""
 
         taxid = Entrez.read(
             Entrez.esearch(
@@ -51,6 +60,7 @@ class specieinfo:
             taxid) == [] else None
 
     def pubs_func(self):
+        """return publications number"""
 
         return  Entrez.read(
             Entrez.esearch(
@@ -59,6 +69,7 @@ class specieinfo:
         )['Count']
 
     def taxlist_func(self):
+        """return taxonomy list from Entrez"""
 
         if self.taxid:
             df = pd.DataFrame(
@@ -72,6 +83,7 @@ class specieinfo:
             return None
     
     def taxorder_func(self):
+        """return order"""
 
         if self.taxlist is not None:
             taxorder = self.taxlist[
@@ -83,6 +95,7 @@ class specieinfo:
             return None
 
     def taxclass_func(self):
+        """return class"""
 
         if self.taxlist is not None:
             if 'Sauropsida' in self.taxlist[
@@ -99,6 +112,8 @@ class specieinfo:
             return None
             
     def allinfo_func(self):
+        """return a list containing: class, order, 
+        genus, specie, publications, taxid, assembly"""
         
         return [
             self.taxclass,
