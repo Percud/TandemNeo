@@ -13,8 +13,7 @@
 
     $ python -m ipykernel install --user --name=TandemNeo
 
-###### attivare prima la cella per l'import dei moduli e del config poi
-###### attivare le celle di interesse
+###### attivare prima la cella per l'import dei moduli e del config, poi attivare le celle di interesse
 
 ### - Linea di comando:
 ###### attivare l'ambiente virtuale (necessario ogni volta che si desidera utilizzare il programma)
