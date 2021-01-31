@@ -382,8 +382,8 @@ class uni:
 
     def all_scores(kind, threshold):
 
-        path = cwd + '/alignments/' + kind + '_alignments/'
-        file = 'alignments.json'
+        path = cwd + '/alignments/' + kind + '/'
+        file = kind + '.json'
         db = json.load(open(path + file))
 
         scores = []

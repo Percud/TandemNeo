@@ -1,25 +1,39 @@
-# TandemNeo
+# TANDEMNEO: Analysis of neofunctionalization following gene tandem duplication in vertebrate evolution
 
-PACCHETTI DA INSTALLARE
+## 1. Crea un ambiente virtuale con i pacchetti necessari (specificati nel file 'spec-file.txt'), nella Shell digita (necessario solo al primo utilizzo):
 
-python3.7
-anaconda3
+    $ conda create --name TandemNeo --file spec-file.txt
 
-clustalo            0.1.2
-biopython           1.78
-ipykernel           5.3.4
-ipython             7.19.0
-ipython-genutils    0.2.0
-json5               0.9.5
-jupyterlab          2.2.6
-matplotlib          3.3.2
-natsort             7.1.0
-numpy               1.19.2
-pandas              1.1.5
-pymol               2.4.1
-requests            2.25.1
-urllib3             1.26.2
-xmltodict           0.12.0
+## 2. Modifica il file config.py in base ai parametri di interesse
+
+## 3. Due modi di utilizzo del programma
+### - Jupyter-Notebook:
+#### Aggiunta dell'ambiente virtuale in jupyter (necessario solo al primo utilizzo)
+
+    $ python -m ipykernel install --user --name=TandemNeo
+
+#### attivare prima la cella per l'import dei moduli e del config poi
+#### attivare le celle di interesse
+
+### - Linea di comando:
+#### attivare l'ambiente virtuale (necessario ogni volta che si desidera utilizzare il programma)
+
+    $ conda activate TandemNeo
+
+#### lasciare il sys.argv[1] == None per far andare tutto il programma
+
+    $ python3 TandemNeo
+
+#### oppure specificare fasi in particolare come lista:
+
+    $ python3 TandemNeo ['species_list', 'download']
+
+###### Le fasi possono essere: 'species_list', 'download', 'main_isoforms', 'duplications', 'orthology', 'database', 'fa_for_alignments', 'alignments', 'features', 'clustering'
+
+
+
+
+
 
 
 # script 1 genera file input contenente lista specie "filtrata", genera albero cartelle
