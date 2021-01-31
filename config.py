@@ -38,7 +38,7 @@ features_ref_specie = 'Homo_sapiens'                       # define reference sp
 pos_range           = 1                                    # define max distance between alignment residue positions and feature positions 
 alignment_threshold = 1                                    # define minumum accepted position score
 
-######### 10. Clustering
+######### 10. 3D Clustering
 
 clust_ref_specie = 'Homo_sapiens'
 clust_min_samples = 3 # minimum cluster dimension (?)
