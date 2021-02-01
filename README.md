@@ -71,7 +71,7 @@ clust_eps         = 10 # Angstrom -------
 
 ###### oppure specificare fasi in particolare come lista:
 
-`$ python3 TandemNeo ['species_list', 'download']`
+`$ python3 TandemNeo species_list`
 
 ###### Le fasi possono essere: 'species_list', 'download', 'main_isoforms', 'duplications', 'orthology', 'database', 'fa_for_alignments', 'alignments', 'features', 'clustering'
 

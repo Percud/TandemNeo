@@ -1,5 +1,6 @@
 import os, sys, gzip, json
 import pandas as pd
+import argparse
 from   multiprocessing import Pool, Manager
 from   itertools       import product
 from   Bio             import SeqIO
@@ -20,6 +21,14 @@ cwd = os.path.dirname(os.getcwd())
 sys.path.append(cwd)
 from config import *
 
+parser = argparse.ArgumentParser(prog='TandemNeo')
+
+parser.add_argument('-h', '--help') ### da vedere
+parser.add_argument('-t', '--threads', default=threads, help='seleziona threads')
+parser.add_argument('-s', '--seed', default=seed, help='seleziona threads')
+
+args = parser.parse_args()
+
 # 0. Working directories
 
 os.mkdir(cwd + '/appris')
@@ -37,7 +46,7 @@ os.mkdir(cwd + '/features')
 
 # 1. Species info
 
-if 'species_list' in sys.argv[1] or sys.argv[1] == None:
+if sys.argv[1] == 'species_list' or not sys.argv[1]:
 
     if not have_list:
 
@@ -65,7 +74,7 @@ if 'species_list' in sys.argv[1] or sys.argv[1] == None:
 
 # 2. FASTAs and GTFs download
 
-if 'download' in sys.argv[1] or sys.argv[1] == None:
+if sys.argv[1] == 'download' or not sys.argv[1]:
 
     ls = pd.read_csv(cwd + '/species/species_list.csv')            # open species containing file
     fa = [l[2] + '_' + l[3] for l in ls.values.tolist()]           # write a list containing all the specie names for the fasta files
@@ -77,7 +86,7 @@ if 'download' in sys.argv[1] or sys.argv[1] == None:
 
 # 3. Main isoforms and BLASTP
 
-if 'main_isoforms' in sys.argv[1] or sys.argv[1] == None:
+if sys.argv[1] == 'main_isoforms' or not sys.argv[1]:
 
     def mainblast(s, n, e, h, t):
         mi.tofa(s)                                                 # activating tofa function, write a principal isoforms containing .fa file
@@ -95,7 +104,7 @@ if 'main_isoforms' in sys.argv[1] or sys.argv[1] == None:
 
 # 4. Duplications
 
-if 'duplications' in sys.argv[1] or sys.argv[1] == None:
+if sys.argv[1] == 'duplications' or not sys.argv[1]:
 
     def tocsv(s, k):                                               # saving a .tsv file containing a list of duplications filtered for specie e duplication kind
 
@@ -109,7 +118,7 @@ if 'duplications' in sys.argv[1] or sys.argv[1] == None:
 
 # 5. Orthology (COMPARA)
 
-if 'orthology' in sys.argv[1] or sys.argv[1] == None:
+if sys.argv[1] == 'orthology' or not sys.argv[1]:
 
     def forquery(ID, d):
         
@@ -138,7 +147,7 @@ if 'orthology' in sys.argv[1] or sys.argv[1] == None:
 
 # 6. Database
 
-if 'database' in sys.argv[1] or sys.argv[1] == None:
+if sys.argv[1] == 'database' or not sys.argv[1]:
 
     df    = db.orthodf('Tandem')                                   # opening orthologues dataframe for:
     slist = df['Species'].values.tolist()                          # obtaining species list
@@ -166,7 +175,7 @@ if 'database' in sys.argv[1] or sys.argv[1] == None:
 
 # 7. FASTAs for alignments
 
-if 'fa_for_aligments' in sys.argv[1] or sys.argv[1] == None:
+if sys.argv[1] == 'fa_for_alignments' or not sys.argv[1]:
 
     for d in dups:                                                 # for each kind of duplication
 
@@ -180,7 +189,7 @@ if 'fa_for_aligments' in sys.argv[1] or sys.argv[1] == None:
 
 # 8. Alignments
 
-if 'alignments' in sys.argv[1] or sys.argv[1] == None:
+if sys.argv[1] == 'alignments' or not sys.argv[1]:
 
     for d in dups:
         
@@ -216,7 +225,7 @@ if 'alignments' in sys.argv[1] or sys.argv[1] == None:
 
 # 9. Features
 
-if 'features' in sys.argv[1] or sys.argv[1] == None:
+if sys.argv[1] == 'features' or not sys.argv[1]:
 
     for d in dups:
 
