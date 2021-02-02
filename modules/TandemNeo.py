@@ -23,8 +23,6 @@ from config import *
 
 parser = argparse.ArgumentParser(prog='TandemNeo')
 
-parser.add_argument('-h', '--help') ### da vedere
-
 parser.add_argument('-t', '--threads', default=threads, help='Define available threads for multiprocessing processes')
 parser.add_argument('-s', '--seed', default=seed, help='Define a seed for random sampling processes')
 
@@ -54,6 +52,7 @@ parser.add_argument('-cr', '--clust_ref_specie', default=clust_ref_specie, help=
 parser.add_argument('-ms', '--clust_min_samples', default=clust_min_samples, help='')
 parser.add_argument('-ep', '--clust_eps', default=clust_eps, help='')
 
+parser.add_argument('phase', nargs='*', action='append', help='Define a phase:')
 parser.add_argument('species_list', default=None, nargs='?', help='Generate a species list file')
 parser.add_argument('download', default=None, nargs='?', help='Download FASTA and GTF from Ensembl ftp servers')
 parser.add_argument('main_isoforms', default=None, nargs='?', help='Looking for principal isoforms through Appris database')
@@ -84,9 +83,9 @@ os.mkdir(cwd + '/features')
 
 # 1. Species info
 
-if sys.argv[1] == 'species_list' or not sys.argv[1]:
+if 'species_list' in args.phase[0] or args.phase[0] == []:
 
-    if not have_list:
+    if not args.have_list:
 
         species = [a['name'] for a in assemblies['species']]       # collect all available species name in Ensembl database
         slist = [si(s).allinfo for s in species]                   # specieinfo class for each of those species name
@@ -112,7 +111,7 @@ if sys.argv[1] == 'species_list' or not sys.argv[1]:
 
 # 2. FASTAs and GTFs download
 
-if sys.argv[1] == 'download' or not sys.argv[1]:
+if 'download' in args.phase[0] or args.phase[0] == []:
 
     ls = pd.read_csv(cwd + '/species/species_list.csv')            # open species containing file
     fa = [l[2] + '_' + l[3] for l in ls.values.tolist()]           # write a list containing all the specie names for the fasta files
@@ -124,7 +123,7 @@ if sys.argv[1] == 'download' or not sys.argv[1]:
 
 # 3. Main isoforms and BLASTP
 
-if sys.argv[1] == 'main_isoforms' or not sys.argv[1]:
+if 'main_isoforms' in args.phase[0] or args.phase[0] == []:
 
     def mainblast(s, n, e, h, t):
         mi.tofa(s)                                                 # activating tofa function, write a principal isoforms containing .fa file
@@ -142,7 +141,7 @@ if sys.argv[1] == 'main_isoforms' or not sys.argv[1]:
 
 # 4. Duplications
 
-if sys.argv[1] == 'duplications' or not sys.argv[1]:
+if 'duplications' in args.phase[0] or args.phase[0] == []:
 
     def tocsv(s, k):                                               # saving a .tsv file containing a list of duplications filtered for specie e duplication kind
 
@@ -156,7 +155,7 @@ if sys.argv[1] == 'duplications' or not sys.argv[1]:
 
 # 5. Orthology (COMPARA)
 
-if sys.argv[1] == 'orthology' or not sys.argv[1]:
+if 'orthology' in args.phase[0] or args.phase[0] == []:
 
     def forquery(ID, d):
         
@@ -184,7 +183,7 @@ if sys.argv[1] == 'orthology' or not sys.argv[1]:
 
 # 6. Database
 
-if sys.argv[1] == 'database' or not sys.argv[1]:
+if 'database' in args.phase[0] or args.phase[0] == []:
 
     df    = db.orthodf('Tandem')                                   # opening orthologues dataframe for:
     slist = df['Species'].values.tolist()                          # obtaining species list
@@ -212,7 +211,7 @@ if sys.argv[1] == 'database' or not sys.argv[1]:
 
 # 7. FASTAs for alignments
 
-if sys.argv[1] == 'fa_for_alignments' or not sys.argv[1]:
+if 'fa_for_alignments' in args.phase[0] or args.phase[0] == []:
 
     for d in args.dups:                                                 # for each kind of duplication
 
@@ -226,7 +225,7 @@ if sys.argv[1] == 'fa_for_alignments' or not sys.argv[1]:
 
 # 8. Alignments
 
-if sys.argv[1] == 'alignments' or not sys.argv[1]:
+if 'alignments' in args.phase[0] or args.phase[0] == []:
 
     for d in args.dups:
         
@@ -262,7 +261,7 @@ if sys.argv[1] == 'alignments' or not sys.argv[1]:
 
 # 9. Features
 
-if sys.argv[1] == 'features' or not sys.argv[1]:
+if 'features' in args.phase[0] or args.phase[0] == []:
 
     for d in args.dups:
 
@@ -293,5 +292,8 @@ if sys.argv[1] == 'features' or not sys.argv[1]:
         # --> feat.filter(allfeatures)
         features.to_csv(cwd + '/features/' + d + '.csv')
 
-# 10. Clustering
+# 10. 3D Clustering
+
+if 'clustering' in args.phase[0] or args.phase[0] == []:
+    pass
 
