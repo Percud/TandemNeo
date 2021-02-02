@@ -52,7 +52,7 @@ clust_min_samples = 3 # minimum cluster dimension (?)
 clust_eps         = 10 # Angstrom -------
 ```
 
-## 3. Due modi di utilizzo del programma
+## 3. Tre modi di utilizzo del programma
 ### - Jupyter-Notebook:
 ###### Aggiunta dell'ambiente virtuale in jupyter (necessario solo al primo utilizzo)
 
@@ -156,6 +156,7 @@ optional arguments:
   -ep CLUST_EPS, --clust_eps CLUST_EPS
   ```
 
+### - Installando il pacchetto:
 
 
 
