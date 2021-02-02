@@ -5,7 +5,7 @@ seed    = 2020                                             # define a seed for r
 ########## 2. Download
 
 have_list         = False                                  # True if you already have a species list, None if you want the script to write one
-species_file_name = 'species_list.csv'                     # Species list follows the syntax: [['class', 'order', 'genre', 'specie', 'publications', 'taxid', 'assembly'], ['class2', 'order2', etc...]]
+species_file_name = 'species_list.csv'                     # Species list follows the syntax: [['class', 'order', 'genus', 'specie', 'publications', 'taxid', 'assembly'], ['class2', 'order2', etc...]]
                                                            # write None as seat holder if you miss any field
 mg = 1                                                     # define max number of genres, None if you don't want a limit
 mo = 12                                                    # define max number of orders, None if you don't want a limit

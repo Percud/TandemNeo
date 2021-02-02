@@ -9,8 +9,8 @@ import numpy as np
 import pandas as pd
 
 cwd = os.path.dirname(os.getcwd())
-sys.path.append(cwd)
-from config import *
+#sys.path.append(cwd)
+#from config import * ## TODO vedere come funziona senza
 
 class alignments:
         
@@ -207,7 +207,7 @@ class alignments:
 
         #json.dump(log,open('prova.json','w'))
         
-    def threshold_aln(aln,threshold):
+    def threshold_aln(aln, threshold):
         '''Return dataframe with position > threshold, given a alignment.json'''
 
         dfs=[]

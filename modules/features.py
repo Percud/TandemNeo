@@ -4,8 +4,8 @@ import urllib.request
 import os, sys, json
 
 cwd = os.path.dirname(os.getcwd())
-sys.path.append(cwd)
-from config import *
+#sys.path.append(cwd)
+#from config import * # TODO: vedere come funziona senza
 
 class features:
     
