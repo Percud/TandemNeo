@@ -184,6 +184,10 @@ Oppure mediante l'utilizzo di flag appositi:
   -ms CLUST_MIN_SAMPLES, --clust_min_samples CLUST_MIN_SAMPLES
   -ep CLUST_EPS, --clust_eps CLUST_EPS
 ```
+Ad esempio:
+``` sh
+(TandemNeo) ... TandemNeo $ tandemneo features -fr 'Homo_sapiens'
+```
 
 # 6. Risultati
 Nel notebook TandemNeo.ipynb è possibile trovare...
