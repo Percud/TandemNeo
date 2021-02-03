@@ -12,6 +12,7 @@ $ git clone https://github.com/Percud/TandemNeo
 # 2. Ambiente virtuale:
 Creazione (necessaria solo al primo utilizzo) e attivazione dell'ambiente di lavoro virtuale
 #### 2.1 Conda virtual environments
+Consigliato se non si hanno già installati blastp e clustalo, entrambi necessari ($ conda install blastp, $ conda install clustalo)
 ``` sh
 $ conda create -n TandemNeo python=3.7
 $ conda activate TandemNeo
@@ -36,7 +37,13 @@ Verificare se l'installazione è avvenuta correttamente:
 ```
 
 # 4. Utilizzo:
+Raccomandazione: 
 #### 4.1 Jupyter-Notebook:
+Aggiunta dell'ambiente virtuale in jupyter (necessario solo al primo utilizzo), previa installazione dell'ipykernel
+```sh
+(TandemNeo) ... TandemNeo $ pip install ipykernel
+(TandemNeo) ... TandemNeo $ ipython kernel install --user --name=TandemNeo
+```
 Attivando tutte le celle per avviare tutte le fasi: 
 ```sh
 run --> run all cells
