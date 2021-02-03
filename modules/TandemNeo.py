@@ -15,7 +15,7 @@ from   faforalignments import faforalignments as ffal
 from   database        import database        as db
 from   database        import dbinfo
 from   alignments      import alignments      as al
-from   features        import features        as feat
+#from   features        import features        as feat
 
 cwd = os.path.dirname(os.getcwd())
 sys.path.append(cwd)

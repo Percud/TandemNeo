@@ -73,7 +73,7 @@ clust_eps         = 10 # Angstrom -------
 
 `$ python3 TandemNeo species_list`
 
-``` shell
+```
 usage: TandemNeo [-h] [-t THREADS] [-s SEED] [-l HAVE_SPECIES_LIST]
                  [-ll SPECIES_LIST] [-mg MAX_GENRES] [-mo MAX_ORDERS]
                  [-rf REF_CLASSES] [-rs REF_SPECIES] [-bt BLASTP_THREADS]
