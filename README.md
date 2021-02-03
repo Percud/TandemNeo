@@ -199,6 +199,51 @@ Ad esempio:
 # 6. Risultati
 Nel notebook TandemNeo.ipynb è possibile trovare...
 
+# 7. Extra
+E' possibile utilizzare i moduli anche al di fuori del progetto, ad esempio:
+``` sh
+(base) ... TandemNeo $ conda activate TandemNeo
+(TandemNeo) ... TandemNeo $ python
+>>> from tandemneo.specieinfo import specieinfo
+>>> h = specieinfo('Homo_sapiens')
+
+>>> h.allinfo
+['Mammalia', 'Primates', 'Homo', 'sapiens', '19139154', '9606', 'GRCh38']
+
+>>> h.taxlist
+      TaxId        ScientificName          Rank
+0    131567    cellular organisms       no rank
+1      2759             Eukaryota  superkingdom
+2     33154          Opisthokonta         clade
+3     33208               Metazoa       kingdom
+4      6072             Eumetazoa         clade
+5     33213             Bilateria         clade
+6     33511         Deuterostomia         clade
+7      7711              Chordata        phylum
+8     89593              Craniata     subphylum
+9      7742            Vertebrata         clade
+10     7776         Gnathostomata         clade
+11   117570            Teleostomi         clade
+12   117571          Euteleostomi         clade
+13     8287         Sarcopterygii    superclass
+14  1338369  Dipnotetrapodomorpha         clade
+15    32523             Tetrapoda         clade
+16    32524               Amniota         clade
+17    40674              Mammalia         class
+18    32525                Theria         clade
+19     9347              Eutheria         clade
+20  1437010         Boreoeutheria         clade
+21   314146      Euarchontoglires    superorder
+22     9443              Primates         order
+23   376913           Haplorrhini      suborder
+24   314293           Simiiformes    infraorder
+25     9526            Catarrhini     parvorder
+26   314295            Hominoidea   superfamily
+27     9604             Hominidae        family
+28   207598             Homininae     subfamily
+29     9605                  Homo         genus
+```
+
 
 # TANDEMNEO: le fasi
 ### 0. Assunto iniziale
