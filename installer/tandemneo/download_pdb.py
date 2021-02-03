@@ -1,6 +1,6 @@
-from clustering import *
+from tandemneo.clustering import *
 import sys
-from config import *
+from tandemneo.config import *
 
 organism = sys.argv[1] #'Homo_sapiens'
 orthotab = sys.argv[2] #'https://raw.githubusercontent.com/Percud/TandemNeo/master/orthologues/Tandem_orthologues.csv'

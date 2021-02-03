@@ -1,5 +1,6 @@
 from clustering import *
 import sys
+from config import *
 
 organism = sys.argv[1] #'Homo_sapiens'
 orthotab = sys.argv[2] #'https://raw.githubusercontent.com/Percud/TandemNeo/master/orthologues/Tandem_orthologues.csv'
@@ -11,7 +12,7 @@ except:
     os.mkdir(organism) # make directory if not exists
     os.chdir(organism)
     
-ortho=pd.read_csv(orthotab,';') # read ortologue table
+ortho=pd.read_csv(cwd + '/' + orthotab,';') # read ortologue table
 ens_acc = ortho.loc[ortho['Species'] == organism].iloc[:,3:].dropna(axis=1).values.tolist()[0] # get all the ensembl accessions
 fromto=(convert_ac(ens_acc,'ENSEMBL_ID','ACC') # convert gene_id ensembl in uniprot ac
         .drop_duplicates('From') # get only the best result for uniprot ac
@@ -27,7 +28,7 @@ def get_fa_pdb_match(i):
     except:
         pass
     
-dfs=Pool(20).imap(get_fa_pdb_match,set(accession)) # multiprocessing for each uniprot ac
+dfs=Pool(threads).imap(get_fa_pdb_match,set(accession)) # multiprocessing for each uniprot ac
 
 try:
   df=pd.concat(dfs).reset_index() # concatenate dataframes of multiprocessing

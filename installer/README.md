@@ -5,8 +5,6 @@
 
 `$ conda create --name TandemNeo --file spec-file.txt`
 
-
-
 ## 2. Modifica il file config.py in base ai parametri di interesse
 
 ``` python

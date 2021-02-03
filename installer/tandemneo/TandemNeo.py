@@ -1,26 +1,25 @@
 import os, sys, gzip, json
 import pandas as pd
 import argparse
-
 from   multiprocessing import Pool, Manager
 from   itertools       import product
 from   Bio             import SeqIO
 
-from   TandemNeo.specieinfo      import assemblies
-from   TandemNeo.specieinfo      import specieinfo      as si
-from   TandemNeo.download        import download        as dl
-from   TandemNeo.mainisoforms    import mainisoforms    as mi
-from   TandemNeo.duplications    import duplications    as dup
-from   TandemNeo.orthology       import ortho           as ort 
-from   TandemNeo.faforalignments import faforalignments as ffal
-from   TandemNeo.database        import database        as db
-from   TandemNeo.database        import dbinfo
-from   TandemNeo.alignments      import alignments      as al
-#from   TandemNeo.features        import features        as feat
+from   tandemneo.specieinfo      import assemblies
+from   tandemneo.specieinfo      import specieinfo      as si
+from   tandemneo.download        import download        as dl
+from   tandemneo.mainisoforms    import mainisoforms    as mi
+from   tandemneo.duplications    import duplications    as dup
+from   tandemneo.orthology       import ortho           as ort 
+from   tandemneo.faforalignments import faforalignments as ffal
+from   tandemneo.database        import database        as db
+from   tandemneo.database        import dbinfo
+from   tandemneo.alignments      import alignments      as al
+#from   tandemneo.features        import features        as feat
 
 cwd = os.path.dirname(os.getcwd())
 sys.path.append(cwd)
-from config import *
+from tandemneo.config import *
 
 parser = argparse.ArgumentParser(prog='TandemNeo')
 
