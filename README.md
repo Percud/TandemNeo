@@ -1,31 +1,106 @@
-# TANDEMNEO: Analysis of neofunctionalization following gene tandem duplication in vertebrate evolution
+# TANDEMNEO
+#### Analysis of neofunctionalization following gene tandem duplication in vertebrate evolution
 
-## 1. Crea un ambiente virtuale con i pacchetti necessari (specificati nel file 'spec-file.txt')
-###### nella Shell digita (necessario solo al primo utilizzo):
+https://github.com/Percud/TandemNeo
 
-`$ conda create --name TandemNeo --file spec-file.txt`
+# 1. Download:
+Download dal server GitHub della repository del progetto 
+``` sh
+$ git clone https://github.com/Percud/TandemNeo
+```
 
+# 2. Ambiente virtuale:
+Creazione (necessaria solo al primo utilizzo) e attivazione dell'ambiente di lavoro virtuale
+#### 2.1 Conda virtual environments
+``` sh
+$ conda create -n TandemNeo python=3.7
+$ conda activate TandemNeo
+(TandemNeo) ... $
+```
+oppure 
+#### 2.2 Python virtual environments
+``` sh
+$ python3.7 -m venv TandemNeo
+$ source TandemNeo/bin/activate
+(TandemNeo) ... $
+```
 
+# 3. Installazione pacchetto:
+Setup.py installerà il pacchetto TandemNeo con i suoi moduli. Gli altri pacchetti necessari saranno installo automaticamente. Spostarsi nella cartella in cui è presente il setup.py e digitare:
+``` sh
+(TandemNeo) ... TandemNeo $ python3 setup.py install
+```
+Verificare se l'installazione è avvenuta correttamente:
+``` sh
+(TandemNeo) ... TandemNeo $ tandemneo --help
+```
 
-## 2. Modifica il file config.py in base ai parametri di interesse
+# 4. Utilizzo:
+#### 4.1 Jupyter-Notebook:
+Attivando tutte le celle per avviare tutte le fasi: 
+```sh
+run --> run all cells
+```
+Oppure per una fase alla volta, prima la cella con gli import dei moduli e del config:
+```python
+import os, sys, gzip, json
+...
+from config import *
+```
+Poi la cella per la scrittura delle cartelle:
+```python
+os.mkdir(cwd + '/appris')
+...
+os.mkdir(cwd + '/clustering')
+```
+Infine le celle di interesse fornendo i file nel formato corretto (vedi cartella esempio)
 
+#### 4.2 Linea di comando:
+Oppure mediante linea di comando, lasciando il primo argomento vuoto per far eseguire tutte le fasi in successione: 
+``` sh
+(TandemNeo) ... TandemNeo $ tandemneo
+```
+oppure scrivendo la fase come primo argomento:
+``` sh
+(TandemNeo) ... TandemNeo $ tandemneo download
+```
+le fasi possibili sono: 
+``` sh
+  species_list          Generate a species list file
+  download              Download FASTA and GTF from Ensembl ftp servers
+  main_isoforms         Looking for principal isoforms through Appris database
+  duplications          Find duplicated genes along the genome
+  orthology             Looking for orthology informations in Compara database
+  database              Generate a database containing accessions found informations for speed up next processes
+  fa_for_alignments     Generate FASTA file containing orthology columns to align
+  alignments            Generate aligned files (FASTA format)
+  features              Looking for features through the Uniprot database
+  clustering
+  ```
+
+# 5. Parametri:
+#### 5.1 Config:
+I parametri possono essere modificati agendo nel file config.py:
 ``` python
 threads = 8 # define available threads for multiprocessing processes 
-seed    = 2020 # define a seed for random sampling
+seed = 2020 # define a seed for random sampling
 
-########## 1. Species list ########## 2. Download
+########## 1. Species list 
+########## 2. Download
 
-have_list         = False # True if you already have a species list, None if you want the script to write one 
-species_file_name = 'species_list.csv' # Species list follows the syntax: [['class', 'order', 'genre', 'specie', 'publications', 'taxid', 'assembly'], ['class2', 'order2', etc...]] # write None as seat holder if you miss any field 
-mg = 1 # define max number of genres, None if you don't want a limit 
-mo = 12 # define max number of orders, None if you don't want a limit rf = ['Mammalia', 'Sauropsida', 'Actinopteri'] # define a reference classes list, None if you don't want to choose one 
-rs = ['Homo_sapiens', 'Gallus_gallus', 'Danio_rerio'] # define a reference species list
+have_list = False                                           # True if you already have a species list, None if you want the script to write one 
+species_file_name = 'species_list.csv'                      # Species list follows the syntax: [['class', 'order', 'genre', 'specie', 'publications', 'taxid', 'assembly'], ['class2', 'order2', etc...]]                                                    
+                                                            # write None as seat holder if you miss any field 
+mg = 1                                                      # define max number of genres, None if you don't want a limit 
+mo = 12                                                     # define max number of orders, None if you don't want a limit 
+rf = ['Mammalia', 'Sauropsida', 'Actinopteri']              # define a reference classes list, None if you don't want to choose one 
+rs = ['Homo_sapiens', 'Gallus_gallus', 'Danio_rerio']       # define a reference species list
 
 ########## 3. Main isoforms and BlastP
 
-num_threads     = 20 # define blast params 
-evalue          = '10e-6' 
-max_hsps        = 1 
+num_threads = 20    # define blast params 
+evalue = '10e-6' 
+max_hsps = 1 
 max_target_seqs = 5
 
 ########## 4. Duplications 
@@ -37,74 +112,26 @@ dups = ['tandem', 'divergent', 'convergent'] # define duplication classes
 ########## 7. FASTAs for alignments 
 ########## 8. Alignments
 
-matrix      = 'BLOSUM62' # define matrix that will be used whithin alignment phases 
-srefs       = ['ENSP0', 'ENSP0'] # define reference specie ENSEMBL tags that will be used for extract alignment positions 
-th_coverage = 60 # define minimum accepted coverage between orthogroups sequence lenghts
+matrix = 'BLOSUM62'         # define matrix that will be used whithin alignment phases 
+srefs = ['ENSP0', 'ENSP0']  # define reference specie ENSEMBL tags that will be used for extract alignment positions 
+th_coverage = 60            # define minimum accepted coverage between orthogroups sequence lenghts
 
 ########## 9. Features
 
-features_ref_specie = 'Homo_sapiens' # define reference specie for extract Uniprot 
-features pos_range  = 1 # define max distance between alignment residue positions and feature positions 
-alignment_threshold = 1 # define minumum accepted position score
+features_ref_specie = 'Homo_sapiens'    # define reference specie for extract Uniprot 
+features pos_range = 1                  # define max distance between alignment residue positions and feature positions 
+alignment_threshold = 1                 # define minumum accepted position score
 
 ######### 10. 3D Clustering
 
-clust_ref_specie  = 'Homo_sapiens' 
-clust_min_samples = 3 # minimum cluster dimension (?) 
-clust_eps         = 10 # Angstrom -------
+clust_ref_specie = 'Homo_sapiens' 
+clust_min_samples = 3                   # minimum cluster dimension (?) 
+clust_eps = 10 # Angstrom -------
 ```
 
-## 3. Tre modi di utilizzo del programma
-### - Jupyter-Notebook:
-###### Aggiunta dell'ambiente virtuale in jupyter (necessario solo al primo utilizzo)
-
-`$ python -m ipykernel install --user --name=TandemNeo`
-
-###### attivare prima la cella per l'import dei moduli e del config, poi attivare le celle di interesse
-
-### - Linea di comando:
-###### attivare l'ambiente virtuale (necessario ogni volta che si desidera utilizzare il programma)
-
-`$ conda activate TandemNeo`
-
-###### lasciare il sys.argv[1] == None per far andare tutto il programma
-
-`$ python3 TandemNeo`
-
-###### oppure specificare fasi in particolare come lista:
-
-`$ python3 TandemNeo species_list`
-
-```
-usage: TandemNeo [-h] [-t THREADS] [-s SEED] [-l HAVE_SPECIES_LIST]
-                 [-ll SPECIES_LIST] [-mg MAX_GENRES] [-mo MAX_ORDERS]
-                 [-rf REF_CLASSES] [-rs REF_SPECIES] [-bt BLASTP_THREADS]
-                 [-ev BLASTP_EVALUE] [-mh BLASTP_MAX_HSPS]
-                 [-mt BLASTP_MAX_TARGET_SEQS] [-dc DUPLICATION_CLASSES]
-                 [-m MATRIX] [-ta TAGS] [-tc THRESHOLD_COVERAGE]
-                 [-fr FEATURES_REF_SPECIE] [-pr POS_RANGE]
-                 [-at ALIGNMENT_THRESHOLD] [-cr CLUST_REF_SPECIE]
-                 [-ms CLUST_MIN_SAMPLES] [-ep CLUST_EPS]
-                 [species_list] [download] [main_isoforms] [duplications]
-                 [orthology] [database] [fa_for_alignments] [alignments]
-                 [features] [clustering]
-
-positional arguments:
-  species_list          Generate a species list file
-  download              Download FASTA and GTF from Ensembl ftp servers
-  main_isoforms         Looking for principal isoforms through Appris database
-  duplications          Find duplicated genes along the genome
-  orthology             Looking for orthology informations in Compara database
-  database              Generate a database containing accessions found
-                        informations for speed up next processes
-  fa_for_alignments     Generate FASTA file containing orthology columns to
-                        align
-  alignments            Generate aligned files (FASTA format)
-  features              Looking for features through the Uniprot database
-  clustering
-
-optional arguments:
-  -h, --help            show this help message and exit
+#### 4.2 Flags (linea di comando):
+Oppure mediante l'utilizzo di flag appositi:
+``` sh
   -t THREADS, --threads THREADS
                         Define available threads for multiprocessing processes
   -s SEED, --seed SEED  Define a seed for random sampling processes
@@ -117,14 +144,14 @@ optional arguments:
                         [class2, order2, ...]]. Write None as seat holder if
                         you miss any field
   -mg MAX_GENRES, --max_genres MAX_GENRES
-                        Define max number of genres, None if you don't want a
+                        Define max number of genres, None if you don t want a
                         limit
   -mo MAX_ORDERS, --max_orders MAX_ORDERS
-                        Define max number of orders, None if you don't want a
+                        Define max number of orders, None if you don t want a
                         limit
   -rf REF_CLASSES, --ref_classes REF_CLASSES
                         Define a reference classes list (python list format),
-                        None if you don't want to choose one
+                        None if you don t want to choose one
   -rs REF_SPECIES, --ref_species REF_SPECIES
                         Define a reference species list (python list format)
   -bt BLASTP_THREADS, --blastp_threads BLASTP_THREADS
@@ -156,45 +183,35 @@ optional arguments:
   -cr CLUST_REF_SPECIE, --clust_ref_specie CLUST_REF_SPECIE
   -ms CLUST_MIN_SAMPLES, --clust_min_samples CLUST_MIN_SAMPLES
   -ep CLUST_EPS, --clust_eps CLUST_EPS
-  ```
+```
 
-### - Installando il pacchetto:
-
-
-
+# 6. Risultati
+Nel notebook TandemNeo.ipynb è possibile trovare...
 
 
+# TANDEMNEO: le fasi
+### 0. Assunto iniziale
+Testo qui
+### 1. Lista delle specie
+Testo qui
+### 2. Download
+Testo qui
+### 3. Definizione isoforme principali e BLASTP
+Testo qui
+### 4. Ricerca duplicazioni
+Testo qui
+### 5. Ricerca ortologia
+Testo qui
+### 6. Scrittura di un database
+Testo qui
+### 7. Scrittura dei FASTA per gli allineamenti
+Testo qui
+### 8. Allineamenti
+Testo qui
+### 9. Ricerca delle features
+Testo qui
+### 10. Analisi di clustering 3D
+Testo qui
+### 11. Analisi dei risultati
+Testo qui
 
-# script 1 genera file input contenente lista specie "filtrata", genera albero cartelle
-
-    # 
-
-# script 2 fa il download
-
-    # 
-    
-# script 3 isoforme principali e blastp
-
-    # 
-    
-# script 4 duplicazioni
-
-    #
-
-# script 5 ortologia compara
-
-    #
-    
-# script 6 database
-
-    #
-    
-# script 7 FASTAS allineamento
-
-    #
-    
-# script 8 Allineamenti
-
-    # 
-    
-# script 9 Features (UNIPROT)
