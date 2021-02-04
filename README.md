@@ -1,4 +1,4 @@
-# TANDEMNEO
+# TandemNeo
 #### Analysis of neofunctionalization following gene tandem duplication in vertebrate evolution
 
 https://github.com/Percud/TandemNeo
