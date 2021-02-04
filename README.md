@@ -27,7 +27,7 @@ $ source TandemNeo/bin/activate
 ```
 
 # 3. Installazione pacchetto:
-Setup.py installerà il pacchetto TandemNeo con i suoi moduli. Gli altri pacchetti necessari saranno installo automaticamente. Spostarsi nella cartella in cui è presente il setup.py e digitare:
+Setup.py installerà il pacchetto TandemNeo con i suoi moduli. Gli altri pacchetti necessari saranno installati automaticamente. Spostarsi nella cartella in cui è presente il setup.py e digitare:
 ``` sh
 (TandemNeo) ... TandemNeo $ python3 setup.py install
 ```
