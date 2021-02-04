@@ -65,11 +65,11 @@ Infine le celle di interesse fornendo i file nel formato corretto (vedi cartella
 #### 4.2 Linea di comando:
 Oppure mediante linea di comando, lasciando il primo argomento vuoto per far eseguire tutte le fasi in successione: 
 ``` sh
-(TandemNeo) ... TandemNeo $ tandemneo
+(TandemNeo) ... TandemNeo $ TandemNeo
 ```
 oppure scrivendo la fase come primo argomento:
 ``` sh
-(TandemNeo) ... TandemNeo $ tandemneo download
+(TandemNeo) ... TandemNeo $ TandemNeo download
 ```
 le fasi possibili sono: 
 ``` sh
