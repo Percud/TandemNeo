@@ -33,7 +33,7 @@ Setup.py installerà il pacchetto TandemNeo con i suoi moduli. Gli altri pacchet
 ```
 Verificare se l'installazione è avvenuta correttamente:
 ``` sh
-(TandemNeo) ... TandemNeo $ tandemneo --help
+(TandemNeo) ... TandemNeo $ TandemNeo --help
 ```
 
 # 4. Utilizzo:
