@@ -193,7 +193,7 @@ Oppure mediante l'utilizzo di flag appositi:
 ```
 Ad esempio:
 ``` sh
-(TandemNeo) ... TandemNeo $ tandemneo features -fr 'Homo_sapiens'
+(TandemNeo) ... TandemNeo $ TandemNeo features -fr 'Homo_sapiens'
 ```
 
 # 6. Risultati
