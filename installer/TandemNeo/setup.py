@@ -21,7 +21,7 @@ setuptools.setup(
     python_requires='>=3.7',
     install_requires=[
                     'natsort==7.1.0', 
-                    'numpy==1.19.2', 
+                    'numpy==1.22.0', 
                     'wget==3.2', 
                     'biopandas==0.2.7', 
                     'requests==2.25.1', 
