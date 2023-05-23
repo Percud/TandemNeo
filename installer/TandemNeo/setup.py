@@ -24,7 +24,7 @@ setuptools.setup(
                     'numpy==1.19.2', 
                     'wget==3.2', 
                     'biopandas==0.2.7', 
-                    'requests==2.25.1', 
+                    'requests==2.31.0', 
                     'pandas==1.1.5', 
                     'Bio==0.3.0', 
                     'scikit_learn==0.24.1'
